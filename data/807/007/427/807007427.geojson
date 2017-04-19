@@ -2,9 +2,14 @@
   "id": 807007427,
   "type": "Feature",
   "properties": {
+    "addr:full":"1795 Summit Ave St Paul MN 55105",
+    "addr:housenumber":"1795",
+    "addr:postcode":"55105",
+    "addr:street":"Summit Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.176144,44.941597,-93.176144,44.941597",
     "geom:latitude":44.941597,
     "geom:longitude":-93.176144,
@@ -29,13 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873301,
+        85688727,
         102191575,
         404514465,
         85633793,
         85953191,
-        102087007,
-        85688727
+        102087007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,14 @@
             "county_id":102087007,
             "localadmin_id":404514465,
             "locality_id":85953191,
-            "neighbourhood_id":85873301,
             "region_id":85688727,
             "venue_id":807007427
         }
     ],
     "wof:id":807007427,
-    "wof:lastmodified":1466603535,
+    "wof:lastmodified":1491906354,
     "wof:name":"Sisters Of St Joseph",
-    "wof:parent_id":85873301,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

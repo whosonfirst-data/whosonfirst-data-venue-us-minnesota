@@ -2,9 +2,14 @@
   "id": 823145129,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Main St SE Ste 324 Minneapolis MN 55414",
+    "addr:housenumber":"201",
+    "addr:postcode":"55414",
+    "addr:street":"Main St Se Ste 324",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.254929,44.984268,-93.254929,44.984268",
     "geom:latitude":44.984268,
     "geom:longitude":-93.254929,
@@ -30,14 +35,13 @@
     "sg:website":"http://www.juut.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872653,
+        85872615,
         102191575,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872615
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,25 +57,15 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872653,
-            "region_id":85688727,
-            "venue_id":823145129
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
             "neighbourhood_id":85872615,
             "region_id":85688727,
             "venue_id":823145129
         }
     ],
     "wof:id":823145129,
-    "wof:lastmodified":1466602790,
+    "wof:lastmodified":1491892689,
     "wof:name":"Juut Salon Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

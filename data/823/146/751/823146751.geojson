@@ -2,9 +2,14 @@
   "id": 823146751,
   "type": "Feature",
   "properties": {
+    "addr:full":"2645 4th St SE Minneapolis MN 55414",
+    "addr:housenumber":"2645",
+    "addr:postcode":"55414",
+    "addr:street":"4Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217754,44.973271,-93.217754,44.973271",
     "geom:latitude":44.973271,
     "geom:longitude":-93.217754,
@@ -32,15 +37,11 @@
     "wof:belongsto":[
         420525029,
         102191575,
-        404514465,
-        85633793,
-        85953191,
-        102087007,
-        85688727,
-        85867009,
         404511883,
+        85633793,
         85969169,
-        102087709
+        102087709,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,28 +54,18 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087007,
-            "localadmin_id":404514465,
-            "locality_id":85953191,
-            "neighbourhood_id":420525029,
-            "region_id":85688727,
-            "venue_id":823146751
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867009,
+            "neighbourhood_id":420525029,
             "region_id":85688727,
             "venue_id":823146751
         }
     ],
     "wof:id":823146751,
-    "wof:lastmodified":1466602834,
+    "wof:lastmodified":1491896137,
     "wof:name":"Security Envelope Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420525029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

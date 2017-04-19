@@ -2,9 +2,14 @@
   "id": 789739031,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Snelling Ave Saint Paul MN 55104",
+    "addr:housenumber":"45",
+    "addr:postcode":"55104",
+    "addr:street":"Snelling Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.167078,44.941568,-93.167078,44.941568",
     "geom:latitude":44.941568,
     "geom:longitude":-93.167078,
@@ -29,13 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85873301,
+        85688727,
         102191575,
         404514465,
         85633793,
         85953191,
-        102087007,
-        85688727
+        102087007
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,14 @@
             "county_id":102087007,
             "localadmin_id":404514465,
             "locality_id":85953191,
-            "neighbourhood_id":85873301,
             "region_id":85688727,
             "venue_id":789739031
         }
     ],
     "wof:id":789739031,
-    "wof:lastmodified":1466605851,
+    "wof:lastmodified":1491906382,
     "wof:name":"Apria Healthcare Inc",
-    "wof:parent_id":85873301,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 823151325,
   "type": "Feature",
   "properties": {
+    "addr:full":"3200 W Calhoun Pkwy Minneapolis MN 55416",
+    "addr:housenumber":"3200",
+    "addr:postcode":"55416",
+    "addr:street":"W Calhoun Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.319298,44.944901,-93.319298,44.944901",
     "geom:latitude":44.944901,
     "geom:longitude":-93.319298,
@@ -25,13 +30,12 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872581,
+        85688727,
         102191575,
         404511883,
         85633793,
         85969169,
-        102087709,
-        85688727
+        102087709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,14 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872581,
             "region_id":85688727,
             "venue_id":823151325
         }
     ],
     "wof:id":823151325,
-    "wof:lastmodified":1466602874,
+    "wof:lastmodified":1491905309,
     "wof:name":"Lewis Ward B Atty",
-    "wof:parent_id":85872581,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

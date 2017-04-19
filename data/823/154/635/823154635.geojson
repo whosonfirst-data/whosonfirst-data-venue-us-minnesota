@@ -2,9 +2,14 @@
   "id": 823154635,
   "type": "Feature",
   "properties": {
+    "addr:full":"4017 Lynn Ave Minneapolis MN 55416",
+    "addr:housenumber":"4017",
+    "addr:postcode":"55416",
+    "addr:street":"Lynn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.336707,44.930283,-93.336707,44.930283",
     "geom:latitude":44.930283,
     "geom:longitude":-93.336707,
@@ -78,13 +83,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872589,
+        85688727,
         102191575,
         404511713,
         85633793,
         85969209,
-        102087709,
-        85688727
+        102087709
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,15 +104,14 @@
             "county_id":102087709,
             "localadmin_id":404511713,
             "locality_id":85969209,
-            "neighbourhood_id":85872589,
             "region_id":85688727,
             "venue_id":823154635
         }
     ],
     "wof:id":823154635,
-    "wof:lastmodified":1466602911,
+    "wof:lastmodified":1491935190,
     "wof:name":"Edward Jones",
-    "wof:parent_id":85872589,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 806846359,
   "type": "Feature",
   "properties": {
+    "addr:full":"2323 Snelling Ave Minneapolis MN 55404",
+    "addr:housenumber":"2323",
+    "addr:postcode":"55404",
+    "addr:street":"Snelling Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.244165,44.960286,-93.244165,44.960286",
     "geom:latitude":44.960286,
     "geom:longitude":-93.244165,
@@ -33,14 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872701,
+        85872665,
         102191575,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872665
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,25 +60,15 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872701,
-            "region_id":85688727,
-            "venue_id":806846359
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
             "neighbourhood_id":85872665,
             "region_id":85688727,
             "venue_id":806846359
         }
     ],
     "wof:id":806846359,
-    "wof:lastmodified":1466618397,
+    "wof:lastmodified":1491897425,
     "wof:name":"Gutter Brothers Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872665,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

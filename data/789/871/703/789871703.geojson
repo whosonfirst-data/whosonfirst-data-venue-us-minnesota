@@ -2,9 +2,14 @@
   "id": 789871703,
   "type": "Feature",
   "properties": {
+    "addr:full":"2715 4th St SE Minneapolis MN 55414",
+    "addr:housenumber":"2715",
+    "addr:postcode":"55414",
+    "addr:street":"4Th St Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.215465,44.97247,-93.215465,44.97247",
     "geom:latitude":44.97247,
     "geom:longitude":-93.215465,
@@ -30,15 +35,11 @@
     "wof:belongsto":[
         420525029,
         102191575,
-        404514465,
-        85633793,
-        85953191,
-        102087007,
-        85688727,
-        85867009,
         404511883,
+        85633793,
         85969169,
-        102087709
+        102087709,
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,28 +52,18 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087007,
-            "localadmin_id":404514465,
-            "locality_id":85953191,
-            "neighbourhood_id":420525029,
-            "region_id":85688727,
-            "venue_id":789871703
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867009,
+            "neighbourhood_id":420525029,
             "region_id":85688727,
             "venue_id":789871703
         }
     ],
     "wof:id":789871703,
-    "wof:lastmodified":1466609145,
+    "wof:lastmodified":1491896116,
     "wof:name":"Indigo Turtle Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420525029,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

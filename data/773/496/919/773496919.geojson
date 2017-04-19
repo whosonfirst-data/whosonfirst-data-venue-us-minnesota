@@ -2,9 +2,14 @@
   "id": 773496919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2929 Hennepin Ave S Minneapolis MN 55408",
+    "addr:housenumber":"2929",
+    "addr:postcode":"55408",
+    "addr:street":"Hennepin Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.298279,44.948364,-93.298279,44.948364",
     "geom:latitude":44.948364,
     "geom:longitude":-93.298279,
@@ -24,7 +29,15 @@
     "sg:postcode":"55408",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872583,
+        102191575,
+        404511883,
+        85633793,
+        85969169,
+        102087709,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_519thSRVJ4lU89QqcMNaCQ_44.948364_-93.298279@1294162804"
@@ -32,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1462586185,
     "wof:geomhash":"793286fc195b8942a1c502d385eff120",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511883,
+            "locality_id":85969169,
+            "neighbourhood_id":85872583,
+            "region_id":85688727,
+            "venue_id":773496919
+        }
+    ],
     "wof:id":773496919,
-    "wof:lastmodified":1466616995,
+    "wof:lastmodified":1491930552,
     "wof:name":"Mc Donald's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],
