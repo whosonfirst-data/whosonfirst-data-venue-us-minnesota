@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.37565,44.87098,-94.37565,44.87098",
     "geom:latitude":44.87098,
     "geom:longitude":-94.37565,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.officemax.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EhQsbTYlQvV8UKdTc2xhc_44.870980_-94.375650@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582159,
-    "wof:geomhash":"016cd501ee990730dd7d02eee4a130a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f4dfb401e97bbd4a0d1294a89a04725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773001935
+        }
+    ],
     "wof:id":773001935,
-    "wof:lastmodified":1472628988,
+    "wof:lastmodified":1492803055,
     "wof:name":"Office Max",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

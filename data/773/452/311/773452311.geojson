@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.845205,46.822406,-95.845205,46.822406",
     "geom:latitude":46.822406,
     "geom:longitude":-95.845205,
@@ -32,17 +33,34 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Tfks846g1jSwUXvmJ9ebX_46.822406_-95.845205@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585856,
-    "wof:geomhash":"29766249f2a2e8cff1dce8949f203588",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3549b258f1811b94a0b3e81f6c36d30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":773452311
+        }
+    ],
     "wof:id":773452311,
-    "wof:lastmodified":1472630057,
+    "wof:lastmodified":1492802340,
     "wof:name":"Storm Lavonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

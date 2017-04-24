@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.387594,45.858921,-95.387594,45.858921",
     "geom:latitude":45.858921,
     "geom:longitude":-95.387594,
@@ -33,17 +34,34 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U5N4VlnC8fvpzES5YkhjL_45.858921_-95.387594@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588881,
-    "wof:geomhash":"b91218fd4c00c6efee9eba918d6a13fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"395a63c14fcf409a2fcbf279cad06cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773848257
+        }
+    ],
     "wof:id":773848257,
-    "wof:lastmodified":1472630171,
+    "wof:lastmodified":1492808266,
     "wof:name":"L Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

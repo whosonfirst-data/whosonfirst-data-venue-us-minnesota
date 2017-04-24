@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.917639,44.42866,-95.917639,44.42866",
     "geom:latitude":44.42866,
     "geom:longitude":-95.917639,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512657,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sFlvbAwC22boMxcNnQrCT_44.428660_-95.917639@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604068,
-    "wof:geomhash":"08399d9a1c5552b8402892556d8a3d9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15fc933706d6e16ae120b29e4fe9955a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512657,
+            "region_id":85688727,
+            "venue_id":807131733
+        }
+    ],
     "wof:id":807131733,
-    "wof:lastmodified":1472629260,
+    "wof:lastmodified":1492824795,
     "wof:name":"Michael Buesing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

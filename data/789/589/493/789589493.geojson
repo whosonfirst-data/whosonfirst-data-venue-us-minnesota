@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218024,45.110698,-93.218024,45.110698",
     "geom:latitude":45.110698,
     "geom:longitude":-93.218024,
@@ -31,17 +32,34 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514455,
+        85633793,
+        85953145,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QJLfDjC4fKwmesKjMYMKA_45.110698_-93.218024@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588983,
-    "wof:geomhash":"da6b30f986a0497fada8864c31ae237c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b00058021a5fc75ce0be49128baa9959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514455,
+            "locality_id":85953145,
+            "region_id":85688727,
+            "venue_id":789589493
+        }
+    ],
     "wof:id":789589493,
-    "wof:lastmodified":1472628945,
+    "wof:lastmodified":1492812425,
     "wof:name":"Western Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

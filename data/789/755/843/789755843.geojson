@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.921554,45.065732,-93.921554,45.065732",
     "geom:latitude":45.065732,
     "geom:longitude":-93.921554,
@@ -28,17 +29,34 @@
     "sg:postcode":"55363",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515243,
+        85633793,
+        85968893,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02Iqx9YUozWhAPT1HJtz6I_45.065732_-93.921554@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590297,
-    "wof:geomhash":"0e990a6314c930f970da232c7fce0853",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca21eead7d5f7eccc454671b7d38c453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515243,
+            "locality_id":85968893,
+            "region_id":85688727,
+            "venue_id":789755843
+        }
+    ],
     "wof:id":789755843,
-    "wof:lastmodified":1472629334,
+    "wof:lastmodified":1492811582,
     "wof:name":"Celebration Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

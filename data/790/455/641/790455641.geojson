@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.271939,46.731392,-92.271939,46.731392",
     "geom:latitude":46.731392,
     "geom:longitude":-92.271939,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85849129,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85849129
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462595964,
-    "wof:geomhash":"daf31a8166e62ae631e715a99ac18d01",
+    "wof:geomhash":"4e14ff9dea7cb248985f36b2030ebb85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85849129,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":790455641,
-    "wof:lastmodified":1472629730,
+    "wof:lastmodified":1492833193,
     "wof:name":"Tom Kubat",
     "wof:parent_id":85849129,
     "wof:placetype":"venue",

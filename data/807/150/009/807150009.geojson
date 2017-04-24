@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.644591,44.261255,-94.644591,44.261255",
     "geom:latitude":44.261255,
     "geom:longitude":-94.644591,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511475,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xbSYVwZm0TICvs1QGuibn_44.261255_-94.644591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604274,
-    "wof:geomhash":"5c39fda5afdd3a2da55c8fd999b4c60d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddd7e1ad26c017e39f59c834f1591ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511475,
+            "region_id":85688727,
+            "venue_id":807150009
+        }
+    ],
     "wof:id":807150009,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492826784,
     "wof:name":"Wayne Braun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

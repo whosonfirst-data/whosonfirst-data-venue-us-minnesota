@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.045829,46.034413,-95.045829,46.034413",
     "geom:latitude":46.034413,
     "geom:longitude":-95.045829,
@@ -33,17 +34,32 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514699,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QOpRTMddeqZmJz5gFBhJP_46.034413_-95.045829@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583322,
-    "wof:geomhash":"bd0f3b8b54ccd94af25d6f67d2620ab5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1f482ed59315e1c9f3026828067011d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514699,
+            "region_id":85688727,
+            "venue_id":773123865
+        }
+    ],
     "wof:id":773123865,
-    "wof:lastmodified":1472629669,
+    "wof:lastmodified":1492800534,
     "wof:name":"Berkness Saw Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

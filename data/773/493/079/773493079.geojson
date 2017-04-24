@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.975093,46.876828,-94.975093,46.876828",
     "geom:latitude":46.876828,
     "geom:longitude":-94.975093,
@@ -32,17 +33,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509769,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FbNAEjSNZNA5yKe6j40hl_46.876828_-94.975093@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586157,
-    "wof:geomhash":"b373b783e2eaf120def60663dbc7898a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7cf2c275172a61125a7e52fb89c1b969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404509769,
+            "region_id":85688727,
+            "venue_id":773493079
+        }
+    ],
     "wof:id":773493079,
-    "wof:lastmodified":1472630069,
+    "wof:lastmodified":1492799468,
     "wof:name":"Dean Westby Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

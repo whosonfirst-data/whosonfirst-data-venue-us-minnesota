@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.763417,48.838869,-95.763417,48.838869",
     "geom:latitude":48.838869,
     "geom:longitude":-95.763417,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_392YmefupeJmG2XOKPMi8W_48.838869_-95.763417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587471,
-    "wof:geomhash":"c3272f10c92a41358a6ce5db15fd3477",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2eb75bd2f0ab56ed74fd05315bf74dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":773670625
+        }
+    ],
     "wof:id":773670625,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492808129,
     "wof:name":"North Star Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

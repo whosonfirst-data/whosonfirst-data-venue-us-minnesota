@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.744118,47.577922,-95.744118,47.577922",
     "geom:latitude":47.577922,
     "geom:longitude":-95.744118,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TfQSbhZbSXBwh63r1ui9B_47.577922_-95.744118@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585380,
-    "wof:geomhash":"68c803a929dda7435382edbd9361bfff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44a992a01741d4f653bca51d939da045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":773397391
+        }
+    ],
     "wof:id":773397391,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492805761,
     "wof:name":"Long Haul Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.15115,44.103624,-92.15115,44.103624",
     "geom:latitude":44.103624,
     "geom:longitude":-92.15115,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510311,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Mo7W5AGje7gRatUMANWq7_44.103624_-92.151150@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604039,
-    "wof:geomhash":"44f069b0504b905bf8f7bf310fdbc9d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aac8b32e302f81b62d6ccc620275d7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510311,
+            "region_id":85688727,
+            "venue_id":807129115
+        }
+    ],
     "wof:id":807129115,
-    "wof:lastmodified":1472629234,
+    "wof:lastmodified":1492826249,
     "wof:name":"Bernard Petit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

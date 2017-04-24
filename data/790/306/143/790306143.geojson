@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.59911,48.711408,-94.59911,48.711408",
     "geom:latitude":48.711408,
     "geom:longitude":-94.59911,
@@ -32,17 +33,34 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515153,
+        85633793,
+        85952741,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TGpL9TGL8ecF3CeZz7COB_48.711408_-94.599110@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594812,
-    "wof:geomhash":"9ff27446056d7174c0c9587ca4d47b92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b61783974d44fbd000aa8ae9eef7b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404515153,
+            "locality_id":85952741,
+            "region_id":85688727,
+            "venue_id":790306143
+        }
+    ],
     "wof:id":790306143,
-    "wof:lastmodified":1472629488,
+    "wof:lastmodified":1492831781,
     "wof:name":"Lake Of The Woods Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

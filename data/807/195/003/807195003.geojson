@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.293589,48.542654,-97.293589,48.542654",
     "geom:latitude":48.542654,
     "geom:longitude":-97.293589,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404482027,
+        85633793,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T6ng77BDTi44WuVwID3QE_48.542654_-97.293589@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604742,
-    "wof:geomhash":"fb4bdfbad496d8994c220d722b7b4a26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26ad6e503269d3fded01f7dd25e2cf45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404482027,
+            "region_id":85688525,
+            "venue_id":807195003
+        }
+    ],
     "wof:id":807195003,
-    "wof:lastmodified":1472629378,
+    "wof:lastmodified":1492826640,
     "wof:name":"Edward Uggerud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

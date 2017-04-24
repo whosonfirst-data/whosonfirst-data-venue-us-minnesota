@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.270345,44.887617,-93.270345,44.887617",
     "geom:latitude":44.887617,
     "geom:longitude":-93.270345,
@@ -33,17 +34,34 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19JwiUt4ilpnJBLihMaVnX_44.887617_-93.270345@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591642,
-    "wof:geomhash":"546b4fbb2844fb414656931b307fe7a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dddb31eda8584bf410ef04fd3d56eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":789922151
+        }
+    ],
     "wof:id":789922151,
-    "wof:lastmodified":1472629606,
+    "wof:lastmodified":1492812610,
     "wof:name":"Seasonal Chores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

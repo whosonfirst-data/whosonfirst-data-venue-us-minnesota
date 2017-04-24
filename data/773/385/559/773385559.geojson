@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.263974,44.230096,-95.263974,44.230096",
     "geom:latitude":44.230096,
     "geom:longitude":-95.263974,
@@ -31,17 +32,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512177,
+        85633793,
+        85968809,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KRGyUk3L9QUyyPLamUKPf_44.230096_-95.263974@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585293,
-    "wof:geomhash":"6061e34ff47d70674e1663e0d8614f96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0699cd449e976c162517bcf58a36d0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512177,
+            "locality_id":85968809,
+            "region_id":85688727,
+            "venue_id":773385559
+        }
+    ],
     "wof:id":773385559,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492803984,
     "wof:name":"Lamberton Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

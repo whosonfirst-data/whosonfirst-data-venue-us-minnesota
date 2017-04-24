@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.774331,43.666779,-94.774331,43.666779",
     "geom:latitude":43.666779,
     "geom:longitude":-94.774331,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514017,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38qsWbOyXEn3zcpqu7idHH_43.666779_-94.774331@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604138,
-    "wof:geomhash":"a8058f5ddcfa24210cde912701c6a4c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6597a2fc39eedbbd5b233b9742d47509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514017,
+            "region_id":85688727,
+            "venue_id":807137713
+        }
+    ],
     "wof:id":807137713,
-    "wof:lastmodified":1472629256,
+    "wof:lastmodified":1492824155,
     "wof:name":"David Gehrke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

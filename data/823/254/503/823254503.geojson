@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.423421,46.440509,-94.423421,46.440509",
     "geom:latitude":46.440509,
     "geom:longitude":-94.423421,
@@ -31,17 +32,32 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511641,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wXWr7JJVmr5ESf6cNSwOC_46.440509_-94.423421@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609431,
-    "wof:geomhash":"69af12514badec8a4296b980b21f4338",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3da49ba9cd454c8fcbcf69fc5389c929",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511641,
+            "region_id":85688727,
+            "venue_id":823254503
+        }
+    ],
     "wof:id":823254503,
-    "wof:lastmodified":1472629215,
+    "wof:lastmodified":1492830939,
     "wof:name":"David Horn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

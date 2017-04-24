@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.247538,44.775938,-94.247538,44.775938",
     "geom:latitude":44.775938,
     "geom:longitude":-94.247538,
@@ -34,17 +35,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512807,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y1PMwol0OGs1zqzIbDn4o_44.775938_-94.247538@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583381,
-    "wof:geomhash":"26d43148c40ec5ef0cfb6e2433d66e2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea65dc348e4fc8c5d2989948d60efc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512807,
+            "region_id":85688727,
+            "venue_id":773133467
+        }
+    ],
     "wof:id":773133467,
-    "wof:lastmodified":1472629691,
+    "wof:lastmodified":1492801438,
     "wof:name":"Rose Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

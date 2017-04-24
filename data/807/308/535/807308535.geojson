@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.602508,44.782968,-93.602508,44.782968",
     "geom:latitude":44.782968,
     "geom:longitude":-93.602508,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SEHhfspSO8tqmL33W6xQU_44.782968_-93.602508@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605944,
-    "wof:geomhash":"28de254f3861614a139d2e6c90bd3d7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cacf4d2cfb6d100577ef7dadc409d617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":807308535
+        }
+    ],
     "wof:id":807308535,
-    "wof:lastmodified":1472629661,
+    "wof:lastmodified":1492823762,
     "wof:name":"Dr Vinyl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

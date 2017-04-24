@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.635377,44.999984,-93.635377,44.999984",
     "geom:latitude":44.999984,
     "geom:longitude":-93.635377,
@@ -31,17 +32,34 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511895,
+        85633793,
+        85969145,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HkymGPavi2OwHTamds7Iq_44.999984_-93.635377@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585187,
-    "wof:geomhash":"59c699b7e03882ac7714a4ce666fdd9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60a92f10c49412bf4c89a500307d3310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511895,
+            "locality_id":85969145,
+            "region_id":85688727,
+            "venue_id":773370967
+        }
+    ],
     "wof:id":773370967,
-    "wof:lastmodified":1472630030,
+    "wof:lastmodified":1492800219,
     "wof:name":"Express Delivery Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

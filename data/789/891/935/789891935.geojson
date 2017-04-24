@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.781549,46.928306,-94.781549,46.928306",
     "geom:latitude":46.928306,
     "geom:longitude":-94.781549,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512977,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pdlltpjxXtZlH0hsw1n8C_46.928306_-94.781549@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591384,
-    "wof:geomhash":"78cccd3bbe2cfb71b98ded5018856bf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9502e82b3c62ecdc7816094b0d03e868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512977,
+            "region_id":85688727,
+            "venue_id":789891935
+        }
+    ],
     "wof:id":789891935,
-    "wof:lastmodified":1472629616,
+    "wof:lastmodified":1492809754,
     "wof:name":"Nelson & Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263472,44.09524,-93.263472,44.09524",
     "geom:latitude":44.09524,
     "geom:longitude":-93.263472,
@@ -31,17 +32,34 @@
         "bookkeeping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RxsVEfSnD6TvDl2Ggv6OJ_44.095240_-93.263472@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605349,
-    "wof:geomhash":"3442598a8451828f5b659c5392f97023",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51ecb6b7be3d642358e4f94f6ab0786e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":807252473
+        }
+    ],
     "wof:id":807252473,
-    "wof:lastmodified":1472629515,
+    "wof:lastmodified":1492826115,
     "wof:name":"Stockwell Accounting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

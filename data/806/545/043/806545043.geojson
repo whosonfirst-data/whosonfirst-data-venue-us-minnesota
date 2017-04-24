@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.930143,45.132587,-94.930143,45.132587",
     "geom:latitude":45.132587,
     "geom:longitude":-94.930143,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509877,
+        85633793,
+        85953223,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MfxE76zsQ1MDnK7CBHRU1_45.132587_-94.930143@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598997,
-    "wof:geomhash":"f5479451e203ba3698d09ecc4482bf72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4df1f8828a13bb1a094cc069b21e9cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509877,
+            "locality_id":85953223,
+            "region_id":85688727,
+            "venue_id":806545043
+        }
+    ],
     "wof:id":806545043,
-    "wof:lastmodified":1472629425,
+    "wof:lastmodified":1492818683,
     "wof:name":"Kandiyohi City Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

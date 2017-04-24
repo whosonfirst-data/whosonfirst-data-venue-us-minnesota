@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.35185,44.893838,-94.35185,44.893838",
     "geom:latitude":44.893838,
     "geom:longitude":-94.35185,
@@ -31,17 +32,34 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vbyIm2BSPZrCOov2qP5Fc_44.893838_-94.351850@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601684,
-    "wof:geomhash":"d74dfb8fd61531969c5252d9346507bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66f5ca133836179526647159a3d2322e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":806859157
+        }
+    ],
     "wof:id":806859157,
-    "wof:lastmodified":1472629898,
+    "wof:lastmodified":1492821703,
     "wof:name":"Chariot Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

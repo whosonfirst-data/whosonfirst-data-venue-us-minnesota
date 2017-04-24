@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.731482,45.342469,-93.731482,45.342469",
     "geom:latitude":45.342469,
     "geom:longitude":-93.731482,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515099,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dWReHnR5OK4U7aXQubVpa_45.342469_-93.731482@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585027,
-    "wof:geomhash":"8dbdd033abc16c2e2f3c36cc8f0bddeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be9c95d5540212e84596d8704da17edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515099,
+            "region_id":85688727,
+            "venue_id":773347521
+        }
+    ],
     "wof:id":773347521,
-    "wof:lastmodified":1472630024,
+    "wof:lastmodified":1492806595,
     "wof:name":"Big Lake Fire Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

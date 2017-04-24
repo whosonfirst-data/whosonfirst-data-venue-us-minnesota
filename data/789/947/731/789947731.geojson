@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.47694,45.030612,-93.47694,45.030612",
     "geom:latitude":45.030612,
     "geom:longitude":-93.47694,
@@ -33,17 +34,34 @@
         "technology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kheh1XHXUTw3th7vSnKC9_45.030612_-93.476940@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591883,
-    "wof:geomhash":"f6f379e607493ffced4a4ae878fa5389",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baec0cded80a5096eadbc4e13fd2e291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":789947731
+        }
+    ],
     "wof:id":789947731,
-    "wof:lastmodified":1472629640,
+    "wof:lastmodified":1492812235,
     "wof:name":"Network Aware Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

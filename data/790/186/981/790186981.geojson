@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.520605,47.492527,-92.520605,47.492527",
     "geom:latitude":47.492527,
     "geom:longitude":-92.520605,
@@ -31,17 +32,26 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tgSsjKHrrEMSFh8GWx8F1_47.492527_-92.520605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593831,
-    "wof:geomhash":"0dafc1aa20da98518c87efc72ab57f31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02ba12618d1b55353933ed28f2e73bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790186981
+        }
+    ],
     "wof:id":790186981,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492836399,
     "wof:name":"Range Clean Sweep",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

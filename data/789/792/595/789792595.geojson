@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.147307,45.57649,-94.147307,45.57649",
     "geom:latitude":45.57649,
     "geom:longitude":-94.147307,
@@ -31,17 +32,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mPrNEGr3keIajB9D5dm4V_45.576490_-94.147307@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590584,
-    "wof:geomhash":"065f27f16eeb08cfa520e3ac16b24491",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec0a38a0ce294f40e635038f5445ff9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789792595
+        }
+    ],
     "wof:id":789792595,
-    "wof:lastmodified":1472629386,
+    "wof:lastmodified":1492811027,
     "wof:name":"Waste Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

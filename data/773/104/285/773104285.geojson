@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.370983,48.291507,-97.370983,48.291507",
     "geom:latitude":48.291507,
     "geom:longitude":-97.370983,
@@ -28,17 +29,34 @@
     "sg:postcode":"58261",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479699,
+        85633793,
+        85982491,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GmwJB6A963ETmcvnPTQBX_48.291507_-97.370983@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583183,
-    "wof:geomhash":"20fce1339168a4f763da1f899468dbef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b330ebe402c1bb87effec408fc520bda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404479699,
+            "locality_id":85982491,
+            "region_id":85688525,
+            "venue_id":773104285
+        }
+    ],
     "wof:id":773104285,
-    "wof:lastmodified":1472629606,
+    "wof:lastmodified":1492800051,
     "wof:name":"Minto Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

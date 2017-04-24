@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.162022,44.226783,-93.162022,44.226783",
     "geom:latitude":44.226783,
     "geom:longitude":-93.162022,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510603,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HUN3txT18zkmyzPBHTV1n_44.226783_-93.162022@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599111,
-    "wof:geomhash":"25d5fae120aef7bdcb61fa868af2a37b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05b500f80aa0501a8399cf83504897f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404510603,
+            "region_id":85688727,
+            "venue_id":806558565
+        }
+    ],
     "wof:id":806558565,
-    "wof:lastmodified":1472629452,
+    "wof:lastmodified":1492815013,
     "wof:name":"Donkers Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

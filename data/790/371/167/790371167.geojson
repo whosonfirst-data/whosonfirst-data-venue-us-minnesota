@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.347233,43.746589,-95.347233,43.746589",
     "geom:latitude":43.746589,
     "geom:longitude":-95.347233,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509837,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bEZOJyLupRtwTDHvEvQhj_43.746589_-95.347233@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595312,
-    "wof:geomhash":"2773566b2a1dc703cf19fff9550b5ebf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36464237552f99da94e8ac4fa5ddf8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509837,
+            "region_id":85688727,
+            "venue_id":790371167
+        }
+    ],
     "wof:id":790371167,
-    "wof:lastmodified":1472629580,
+    "wof:lastmodified":1492832489,
     "wof:name":"Post Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

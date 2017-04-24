@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.396716,44.447365,-94.396716,44.447365",
     "geom:latitude":44.447365,
     "geom:longitude":-94.396716,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510099,
+        85633793,
+        85953475,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JrzK9hYnGUzWSqI28mfIP_44.447365_-94.396716@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589377,
-    "wof:geomhash":"ddd473694f989f722ff98da73bd93d10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9df1fd026330598b539d24479236f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404510099,
+            "locality_id":85953475,
+            "region_id":85688727,
+            "venue_id":789640321
+        }
+    ],
     "wof:id":789640321,
-    "wof:lastmodified":1472629075,
+    "wof:lastmodified":1492810462,
     "wof:name":"Carries Childcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

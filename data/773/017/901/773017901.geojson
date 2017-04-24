@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.972934,45.503422,-92.972934,45.503422",
     "geom:latitude":45.503422,
     "geom:longitude":-92.972934,
@@ -32,17 +33,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20lwGc7q9ZGtcSakNBatbX_45.503422_-92.972934@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582436,
-    "wof:geomhash":"9ecdf338548fc77a637b5eacc60a430e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e46d9a0bfc0221f1fdc8bbfc81abe478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":773017901
+        }
+    ],
     "wof:id":773017901,
-    "wof:lastmodified":1472629134,
+    "wof:lastmodified":1492801370,
     "wof:name":"Sunrise Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

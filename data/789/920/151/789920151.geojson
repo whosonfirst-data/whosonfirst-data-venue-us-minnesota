@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.114846,43.863867,-95.114846,43.863867",
     "geom:latitude":43.863867,
     "geom:longitude":-95.114846,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tJF8ciXX19H9qDHeVfm99_43.863867_-95.114846@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591628,
-    "wof:geomhash":"a4088d5c21a4fbb1cd4f339f6ef9aa88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8cd8eee0f0e2eb15a65d770c7aa99428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":789920151
+        }
+    ],
     "wof:id":789920151,
-    "wof:lastmodified":1472629604,
+    "wof:lastmodified":1492811146,
     "wof:name":"BP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.986225,44.779625,-94.986225,44.779625",
     "geom:latitude":44.779625,
     "geom:longitude":-94.986225,
@@ -39,17 +40,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3apJYpeWrK86tb8zb9JYDj_44.779625_-94.986225@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589678,
-    "wof:geomhash":"4cff9c825b1c0f035c9f4fa0f9a6afe6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8787d77204240ce4e72237a88710b760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":789677011
+        }
+    ],
     "wof:id":789677011,
-    "wof:lastmodified":1472629131,
+    "wof:lastmodified":1492813333,
     "wof:name":"A & T Septic & Excavating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

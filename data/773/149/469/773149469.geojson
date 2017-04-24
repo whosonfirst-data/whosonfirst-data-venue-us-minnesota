@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.956521,45.32256,-92.956521,45.32256",
     "geom:latitude":45.32256,
     "geom:longitude":-92.956521,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aGwabv16OFV3UTZXqX8Uv_45.322560_-92.956521@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583501,
-    "wof:geomhash":"f941a3c7efd5f6f628982aea4a8d6ab0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8737d72c4cfe8f561f174e6d659b2e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773149469
+        }
+    ],
     "wof:id":773149469,
-    "wof:lastmodified":1472629718,
+    "wof:lastmodified":1492808157,
     "wof:name":"David Walburg Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

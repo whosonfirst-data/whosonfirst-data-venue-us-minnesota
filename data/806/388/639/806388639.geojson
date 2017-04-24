@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.529732,43.611852,-93.529732,43.611852",
     "geom:latitude":43.611852,
     "geom:longitude":-93.529732,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514403,
+        85633793,
+        85969047,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7frEbpxjcRbbtAdXtH6qxL_43.611852_-93.529732@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597743,
-    "wof:geomhash":"354174a5bd4613ebad0c980675f7c430",
-    "wof:hierarchy":[],
+    "wof:geomhash":"affcd79c485b8889dc2b8729cb1a9bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514403,
+            "locality_id":85969047,
+            "region_id":85688727,
+            "venue_id":806388639
+        }
+    ],
     "wof:id":806388639,
-    "wof:lastmodified":1472629041,
+    "wof:lastmodified":1492821655,
     "wof:name":"St Paul Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

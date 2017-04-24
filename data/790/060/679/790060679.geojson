@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.751407,43.79788,-91.751407,43.79788",
     "geom:latitude":43.79788,
     "geom:longitude":-91.751407,
@@ -33,17 +34,34 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514283,
+        85633793,
+        85953097,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qtJXPMBJXlJg4aos9rUvu_43.797880_-91.751407@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592826,
-    "wof:geomhash":"d0bb89a64d1cdc6b7d650c49976e7fe3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"879160517a85eec7d1efe37249210371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514283,
+            "locality_id":85953097,
+            "region_id":85688727,
+            "venue_id":790060679
+        }
+    ],
     "wof:id":790060679,
-    "wof:lastmodified":1472629052,
+    "wof:lastmodified":1492835290,
     "wof:name":"Iowa Beef Processors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

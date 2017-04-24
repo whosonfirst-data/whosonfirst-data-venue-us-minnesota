@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.133935,44.970259,-93.133935,44.970259",
     "geom:latitude":44.970259,
     "geom:longitude":-93.133935,
@@ -39,11 +40,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        420525031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,23 +53,33 @@
     },
     "wof:country":"US",
     "wof:created":1462587384,
-    "wof:geomhash":"0ace4f22d32287bbd05b470b6968c4c9",
+    "wof:geomhash":"8552b8dbcdc700d39aeb562a8b026ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":773658741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":420525031,
             "region_id":85688727,
             "venue_id":773658741
         }
     ],
     "wof:id":773658741,
-    "wof:lastmodified":1472630124,
+    "wof:lastmodified":1492802584,
     "wof:name":"Rico's Imports",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

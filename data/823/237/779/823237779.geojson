@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.963947,44.157009,-93.963947,44.157009",
     "geom:latitude":44.157009,
     "geom:longitude":-93.963947,
@@ -45,17 +46,34 @@
         "homes-institutional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xUr4JnXlJzi6JE0cq0EDi_44.157009_-93.963947@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609102,
-    "wof:geomhash":"7e205f72135b33d68207dd808dfde3ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86a3ddaeacba258506e8c5f010425b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":823237779
+        }
+    ],
     "wof:id":823237779,
-    "wof:lastmodified":1472629159,
+    "wof:lastmodified":1492831140,
     "wof:name":"Rem Heartland Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.614046,47.505585,-92.614046,47.505585",
     "geom:latitude":47.505585,
     "geom:longitude":-92.614046,
@@ -31,17 +32,36 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3b9HT8JW2gjvFJjo1pXkHh_47.505585_-92.614046@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595396,
-    "wof:geomhash":"19d173f772edb91520c9384bad925ca3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a2e92e6a721ef68d4341ffe0b338353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":790382291
+        }
+    ],
     "wof:id":790382291,
-    "wof:lastmodified":1472629604,
+    "wof:lastmodified":1492831976,
     "wof:name":"Pinberries",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.548607,43.95012,-92.548607,43.95012",
     "geom:latitude":43.95012,
     "geom:longitude":-92.548607,
@@ -51,17 +52,32 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512593,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TK2Zn2oXqNRABDihrDGPy_43.950120_-92.548607@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608972,
-    "wof:geomhash":"484bdb29a08614d1be9f03f3548266b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d4243524ac7976d3e8ddc4960b8deaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512593,
+            "region_id":85688727,
+            "venue_id":823231135
+        }
+    ],
     "wof:id":823231135,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492830770,
     "wof:name":"Duane Denny's Floorcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

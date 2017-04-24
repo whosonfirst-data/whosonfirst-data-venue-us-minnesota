@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.611282,44.934627,-93.611282,44.934627",
     "geom:latitude":44.934627,
     "geom:longitude":-93.611282,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511895,
+        85633793,
+        85969145,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NNON3lBTPoiZRVf1nd8E7_44.934543_-93.611740@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604712,
-    "wof:geomhash":"1b3330fe02926c5d1470dc990cadb80d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0c492cad041133a6d0a10cf0b535c37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511895,
+            "locality_id":85969145,
+            "region_id":85688727,
+            "venue_id":807192205
+        }
+    ],
     "wof:id":807192205,
-    "wof:lastmodified":1472629385,
+    "wof:lastmodified":1492823325,
     "wof:name":"Minnetonka Mud Coffee Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

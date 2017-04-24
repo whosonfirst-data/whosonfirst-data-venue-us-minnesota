@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.015551,44.188032,-94.015551,44.188032",
     "geom:latitude":44.188032,
     "geom:longitude":-94.015551,
@@ -28,17 +29,34 @@
     "sg:postcode":"56001",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RvOpR3bvSLl58iKERVRnu_44.188032_-94.015551@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589685,
-    "wof:geomhash":"d7d9a0d90dec1e713785635d74e78146",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f37770d538343c18501a4631eeb68445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":789677911
+        }
+    ],
     "wof:id":789677911,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492813336,
     "wof:name":"Neighborhood Thrift Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.403229,44.302703,-93.403229,44.302703",
     "geom:latitude":44.302703,
     "geom:longitude":-93.403229,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512645,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jBeBdBP37jxL8zLwDJ0et_44.302703_-93.403229@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586395,
-    "wof:geomhash":"a2e498a444446db07f05c31adf4ceaf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19667867e74546e79fd6e518987e88eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512645,
+            "region_id":85688727,
+            "venue_id":773527583
+        }
+    ],
     "wof:id":773527583,
-    "wof:lastmodified":1472630083,
+    "wof:lastmodified":1492802758,
     "wof:name":"Bill Brown Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

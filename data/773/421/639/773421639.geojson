@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.382792,43.558246,-94.382792,43.558246",
     "geom:latitude":43.558246,
     "geom:longitude":-94.382792,
@@ -32,17 +33,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512253,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FXZwOZhpnWa0mDRSL0Ibd_43.558246_-94.382792@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585587,
-    "wof:geomhash":"0e6a06c36b1065d8d4a5e6553b634384",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7119d15a36ec585f8065792945f82fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512253,
+            "region_id":85688727,
+            "venue_id":773421639
+        }
+    ],
     "wof:id":773421639,
-    "wof:lastmodified":1472630050,
+    "wof:lastmodified":1492805425,
     "wof:name":"Lenort Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

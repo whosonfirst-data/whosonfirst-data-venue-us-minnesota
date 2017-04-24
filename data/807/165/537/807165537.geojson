@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.415313,43.659385,-95.415313,43.659385",
     "geom:latitude":43.659385,
     "geom:longitude":-95.415313,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509841,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X4h58gxEVero9KlwxfZmF_43.659385_-95.415313@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604432,
-    "wof:geomhash":"fa40588445a08903e1d5542ee6eaaa04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf2797192c5e1290fc39bde7bbf18216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509841,
+            "region_id":85688727,
+            "venue_id":807165537
+        }
+    ],
     "wof:id":807165537,
-    "wof:lastmodified":1472629309,
+    "wof:lastmodified":1492824231,
     "wof:name":"Gerald McConkey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

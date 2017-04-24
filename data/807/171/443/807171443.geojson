@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.066743,47.034868,-96.066743,47.034868",
     "geom:latitude":47.034868,
     "geom:longitude":-96.066743,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515123,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dRRgQ81YJX1TYz7twKRO4_47.034868_-96.066743@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604498,
-    "wof:geomhash":"e4b6086eb8b5a70290f1e9cc33aeb869",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b94880a803be2e9ff5ff52efb02ef60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404515123,
+            "region_id":85688727,
+            "venue_id":807171443
+        }
+    ],
     "wof:id":807171443,
-    "wof:lastmodified":1472629335,
+    "wof:lastmodified":1492824643,
     "wof:name":"Tom Bergren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

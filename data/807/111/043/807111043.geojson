@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.42124,44.567508,-95.42124,44.567508",
     "geom:latitude":44.567508,
     "geom:longitude":-95.42124,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515267,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HYNq2a3Gc6w3G71jGobFe_44.567508_-95.421240@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603844,
-    "wof:geomhash":"b6d5ca99533008368a3d20058b0d2697",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cae82fb911e36bf8a201ac955614286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515267,
+            "region_id":85688727,
+            "venue_id":807111043
+        }
+    ],
     "wof:id":807111043,
-    "wof:lastmodified":1472629196,
+    "wof:lastmodified":1492827477,
     "wof:name":"Arnold Stelter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

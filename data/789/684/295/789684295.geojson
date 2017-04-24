@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.303177,45.085169,-93.303177,45.085169",
     "geom:latitude":45.085169,
     "geom:longitude":-93.303177,
@@ -31,17 +32,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ti8x1FW2fgWJITNb8FxWG_45.085169_-93.303177@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589733,
-    "wof:geomhash":"0067189f77036e6af5c8c83be61a670a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c85d174ea1788803826b3dfa564a28b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":789684295
+        }
+    ],
     "wof:id":789684295,
-    "wof:lastmodified":1472629181,
+    "wof:lastmodified":1492811244,
     "wof:name":"Games Of Chance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

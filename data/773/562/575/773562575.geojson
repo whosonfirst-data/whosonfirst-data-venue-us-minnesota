@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.952843,43.928411,-95.952843,43.928411",
     "geom:latitude":43.928411,
     "geom:longitude":-95.952843,
@@ -31,17 +32,34 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510079,
+        85633793,
+        85952803,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UGUE7A2e1Oe644WTBnp3I_43.928411_-95.952843@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586671,
-    "wof:geomhash":"eee3144ff07a3ad2ba9e3495356c0e98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a339564d287ac510183881e8b5ff3828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510079,
+            "locality_id":85952803,
+            "region_id":85688727,
+            "venue_id":773562575
+        }
+    ],
     "wof:id":773562575,
-    "wof:lastmodified":1472630091,
+    "wof:lastmodified":1492804835,
     "wof:name":"Chandler Feed Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

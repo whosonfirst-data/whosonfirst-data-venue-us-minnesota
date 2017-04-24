@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.163276,44.924727,-93.163276,44.924727",
     "geom:latitude":44.924727,
     "geom:longitude":-93.163276,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4T9mYT6MACFlAH68wapJss_44.924727_-93.163276@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595507,
-    "wof:geomhash":"9769e8d15702069e1196c3e102e90656",
-    "wof:hierarchy":[],
+    "wof:geomhash":"114671d5f1896ff73b1a7f05454957b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":790396057
+        }
+    ],
     "wof:id":790396057,
-    "wof:lastmodified":1472629643,
+    "wof:lastmodified":1492835773,
     "wof:name":"Donald E Wozniak/Eclectic",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.090622,46.360662,-93.090622,46.360662",
     "geom:latitude":46.360662,
     "geom:longitude":-93.090622,
@@ -31,17 +32,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511235,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NCKdKUY0tBG2cmJtj1hBQ_46.360662_-93.090622@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595587,
-    "wof:geomhash":"076e9d0af6cb8a5c1a02d37d4b37de84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b73a42cd539b8a1c157d63be61ce7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511235,
+            "region_id":85688727,
+            "venue_id":790407205
+        }
+    ],
     "wof:id":790407205,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492834670,
     "wof:name":"Simcoe & Habisch Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

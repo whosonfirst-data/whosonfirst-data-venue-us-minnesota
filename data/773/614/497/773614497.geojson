@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.36665,45.894366,-95.36665,45.894366",
     "geom:latitude":45.894366,
     "geom:longitude":-95.36665,
@@ -32,17 +33,34 @@
         "fixture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6crWjofizrjC55MWRxQRri_45.894366_-95.366650@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587047,
-    "wof:geomhash":"b0c1ac1a2f30690f2ae593b1384d6862",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49e7a21fd48f3df9563be76f68b1dc73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773614497
+        }
+    ],
     "wof:id":773614497,
-    "wof:lastmodified":1472630106,
+    "wof:lastmodified":1492800645,
     "wof:name":"Minnesota Lighting Fireplace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

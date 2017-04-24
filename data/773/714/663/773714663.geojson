@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.578305,44.221391,-93.578305,44.221391",
     "geom:latitude":44.221391,
     "geom:longitude":-93.578305,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512377,
+        85633793,
+        85953427,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lSRHYLIQnKuvwXaMUJEMn_44.221391_-93.578305@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587834,
-    "wof:geomhash":"46f9ede1866db2774f7a8b8b8e641aaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4eb5ae0e49efe3a0ff0744b1e30fa82b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512377,
+            "locality_id":85953427,
+            "region_id":85688727,
+            "venue_id":773714663
+        }
+    ],
     "wof:id":773714663,
-    "wof:lastmodified":1472630138,
+    "wof:lastmodified":1492807549,
     "wof:name":"J & M Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

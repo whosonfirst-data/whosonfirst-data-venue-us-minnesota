@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.573873,44.983403,-93.573873,44.983403",
     "geom:latitude":44.983403,
     "geom:longitude":-93.573873,
@@ -32,17 +33,34 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509451,
+        85633793,
+        85969193,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P19nINsmRd5bSOFrsQ60j_44.983403_-93.573873@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591783,
-    "wof:geomhash":"8de326f07452d9bd46f94ab33c03e2a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81346a67c2c5f2f0088ca6e6d76f90b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509451,
+            "locality_id":85969193,
+            "region_id":85688727,
+            "venue_id":789939367
+        }
+    ],
     "wof:id":789939367,
-    "wof:lastmodified":1472629641,
+    "wof:lastmodified":1492809100,
     "wof:name":"Back To The Future Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

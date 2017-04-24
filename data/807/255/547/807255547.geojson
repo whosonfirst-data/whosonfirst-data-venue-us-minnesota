@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.047432,45.401749,-93.047432,45.401749",
     "geom:latitude":45.401749,
     "geom:longitude":-93.047432,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85812175,
+        102191575,
+        404511283,
         85633793,
         85953399,
         102087861,
-        85812175
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,11 +55,13 @@
     },
     "wof:country":"US",
     "wof:created":1462605384,
-    "wof:geomhash":"2350e7e379efadf11bf732c5c7950b00",
+    "wof:geomhash":"e83c91e3c23cd2f4381c1815d5c0450d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087861,
+            "localadmin_id":404511283,
             "locality_id":85953399,
             "neighbourhood_id":85812175,
             "region_id":85688727,
@@ -64,7 +69,7 @@
         }
     ],
     "wof:id":807255547,
-    "wof:lastmodified":1472629519,
+    "wof:lastmodified":1492828024,
     "wof:name":"Twin City Fence",
     "wof:parent_id":85812175,
     "wof:placetype":"venue",

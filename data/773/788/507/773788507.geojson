@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.292082,45.935846,-95.292082,45.935846",
     "geom:latitude":45.935846,
     "geom:longitude":-95.292082,
@@ -32,17 +33,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513899,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qwIZqNsWHv5nXhaPLqT63_45.935846_-95.292082@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588379,
-    "wof:geomhash":"dab9e0250002ae426f0442e4d44ab325",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77b9151009fa05368ad563fc188cbfb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513899,
+            "region_id":85688727,
+            "venue_id":773788507
+        }
+    ],
     "wof:id":773788507,
-    "wof:lastmodified":1472630159,
+    "wof:lastmodified":1492800304,
     "wof:name":"R B Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

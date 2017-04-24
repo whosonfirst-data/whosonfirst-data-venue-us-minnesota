@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.116698,44.934661,-93.116698,44.934661",
     "geom:latitude":44.934661,
     "geom:longitude":-93.116698,
@@ -31,19 +32,40 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66jymFCBrMNHSaTRR4Jfdt_44.934661_-93.116698@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597647,
-    "wof:geomhash":"e03a0a8b93b2c04ca9e4e4ca6785e14e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4279e0c42110d2355c7cad85933d6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":806376471
+        }
+    ],
     "wof:id":806376471,
-    "wof:lastmodified":1472628998,
+    "wof:lastmodified":1492821074,
     "wof:name":"Kessler & Maguire Funeral Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

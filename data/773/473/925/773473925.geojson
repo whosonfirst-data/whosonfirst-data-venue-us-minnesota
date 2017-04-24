@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.905638,44.109972,-94.905638,44.109972",
     "geom:latitude":44.109972,
     "geom:longitude":-94.905638,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509321,
+        85633793,
+        85952717,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ocDHKukqRGEv9fhSXJqQs_44.109972_-94.905638@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586015,
-    "wof:geomhash":"a0ef53e428731dc3763cea4c67164269",
-    "wof:hierarchy":[],
+    "wof:geomhash":"987356ba153e39b192de15fe4a18ee7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509321,
+            "locality_id":85952717,
+            "region_id":85688727,
+            "venue_id":773473925
+        }
+    ],
     "wof:id":773473925,
-    "wof:lastmodified":1472630076,
+    "wof:lastmodified":1492801851,
     "wof:name":"Comfrey Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

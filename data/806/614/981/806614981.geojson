@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.946472,44.189549,-93.946472,44.189549",
     "geom:latitude":44.189549,
     "geom:longitude":-93.946472,
@@ -32,17 +33,34 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53K9CXBwwcEU37IDTbAoS9_44.189549_-93.946472@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599605,
-    "wof:geomhash":"1915a79c33036de536d983d5720ac15b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcc7a7d8f1f1b01255f19e06060b81c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":806614981
+        }
+    ],
     "wof:id":806614981,
-    "wof:lastmodified":1472629574,
+    "wof:lastmodified":1492815197,
     "wof:name":"Signature Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

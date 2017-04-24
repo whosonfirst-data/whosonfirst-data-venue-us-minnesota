@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.59257,43.84814,-94.59257,43.84814",
     "geom:latitude":43.84814,
     "geom:longitude":-94.59257,
@@ -37,17 +38,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509987,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ImCxL8HgOcALhpr6ZRjn2_43.848140_-94.592570@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599784,
-    "wof:geomhash":"36722623974615e96c0b38aaef199eea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90fcc53262c8669c28f3e41be3a6cd01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404509987,
+            "region_id":85688727,
+            "venue_id":806636053
+        }
+    ],
     "wof:id":806636053,
-    "wof:lastmodified":1472629582,
+    "wof:lastmodified":1492821387,
     "wof:name":"Rahm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

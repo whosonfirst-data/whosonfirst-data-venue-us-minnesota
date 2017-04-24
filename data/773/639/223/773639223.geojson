@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.698592,45.144855,-94.698592,45.144855",
     "geom:latitude":45.144855,
     "geom:longitude":-94.698592,
@@ -33,17 +34,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512265,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23zD5rEGe8r84Cvsqu1SgN_45.144855_-94.698592@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587241,
-    "wof:geomhash":"b4c43ceffb2dd78941ca428327f286ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8ec71eb39564848fef966b1421e2bcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512265,
+            "region_id":85688727,
+            "venue_id":773639223
+        }
+    ],
     "wof:id":773639223,
-    "wof:lastmodified":1472630113,
+    "wof:lastmodified":1492806890,
     "wof:name":"Garrett Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

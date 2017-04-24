@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.663169,45.217561,-93.663169,45.217561",
     "geom:latitude":45.217561,
     "geom:longitude":-93.663169,
@@ -31,17 +32,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ObRwsvhX7fFW5hERXqMwK_45.217561_-93.663169@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584674,
-    "wof:geomhash":"f0245f2906bdfcdc0cffb3c38b2c60f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"034ded031d5a91e2137c9e3f7e3c50b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":773299283
+        }
+    ],
     "wof:id":773299283,
-    "wof:lastmodified":1472630014,
+    "wof:lastmodified":1492801536,
     "wof:name":"Mark A Danielson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

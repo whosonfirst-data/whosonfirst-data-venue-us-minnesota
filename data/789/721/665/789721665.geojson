@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.895325,45.125154,-93.895325,45.125154",
     "geom:latitude":45.125154,
     "geom:longitude":-93.895325,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515237,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GqB3WmL87f7qCGM7y3ocq_45.125154_-93.895325@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590037,
-    "wof:geomhash":"1ac669cac9dfeb20348d2ea68997da4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ffc14c73396c31107024ef1b238beed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515237,
+            "region_id":85688727,
+            "venue_id":789721665
+        }
+    ],
     "wof:id":789721665,
-    "wof:lastmodified":1472629252,
+    "wof:lastmodified":1492811357,
     "wof:name":"Piteck Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

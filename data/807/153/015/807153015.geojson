@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.695295,44.062199,-91.695295,44.062199",
     "geom:latitude":44.062199,
     "geom:longitude":-91.695295,
@@ -32,17 +33,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515063,
+        85633793,
+        85969005,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47DGSk7q77DJb963dM4Ewl_44.062225_-91.695277@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604302,
-    "wof:geomhash":"6f35400af90def45fbd1297d582d778b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81101b12496df5e2d028f246ec1f364f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515063,
+            "locality_id":85969005,
+            "region_id":85688727,
+            "venue_id":807153015
+        }
+    ],
     "wof:id":807153015,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492822791,
     "wof:name":"The Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

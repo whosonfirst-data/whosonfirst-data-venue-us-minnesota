@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.188158,43.84336,-92.188158,43.84336",
     "geom:latitude":43.84336,
     "geom:longitude":-92.188158,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509629,
+        85633793,
+        85953187,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4apqCsZKUKdqcGegalzav0_43.843360_-92.188158@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603144,
-    "wof:geomhash":"682b1a7ad5b8d7fc7bbd76cb825f569e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cae9b05fb30564545329127398dee1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509629,
+            "locality_id":85953187,
+            "region_id":85688727,
+            "venue_id":807032723
+        }
+    ],
     "wof:id":807032723,
-    "wof:lastmodified":1472629001,
+    "wof:lastmodified":1492823246,
     "wof:name":"St Marys Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

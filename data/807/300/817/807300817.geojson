@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.397856,45.189999,-93.397856,45.189999",
     "geom:latitude":45.189999,
     "geom:longitude":-93.397856,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"www.johnpaulsauto.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e4WCtTuGuGwcH2ZB5QOtd_45.189999_-93.397856@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605862,
-    "wof:geomhash":"5903a48c8163b4178953ba4948431587",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f45325c1635e84ca73e7fbbc299e3a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807300817
+        }
+    ],
     "wof:id":807300817,
-    "wof:lastmodified":1472629630,
+    "wof:lastmodified":1492825904,
     "wof:name":"John Paul's Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

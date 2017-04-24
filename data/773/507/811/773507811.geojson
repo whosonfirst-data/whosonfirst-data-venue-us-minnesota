@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.355538,44.735255,-94.355538,44.735255",
     "geom:latitude":44.735255,
     "geom:longitude":-94.355538,
@@ -31,17 +32,34 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512685,
+        85633793,
+        85952567,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08FzGkgd5NKp6E8EbjUOhn_44.735255_-94.355538@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586258,
-    "wof:geomhash":"495ed9e1fd4b3eab0399623faa710cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9646ab0b7d9f8fb8ed5e6c38fc78cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512685,
+            "locality_id":85952567,
+            "region_id":85688727,
+            "venue_id":773507811
+        }
+    ],
     "wof:id":773507811,
-    "wof:lastmodified":1472630077,
+    "wof:lastmodified":1492807747,
     "wof:name":"Brownton Bulletin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

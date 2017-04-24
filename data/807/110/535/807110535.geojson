@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.7918,44.21084,-95.7918,44.21084",
     "geom:latitude":44.21084,
     "geom:longitude":-95.7918,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512535,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gwy9NTvTgVwPEPrz5dRNG_44.210840_-95.791800@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603839,
-    "wof:geomhash":"7e810e5350cfbfe7bffb9292fceb63a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00d2f0a36d5a9739251575ad9d0f760b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512535,
+            "region_id":85688727,
+            "venue_id":807110535
+        }
+    ],
     "wof:id":807110535,
-    "wof:lastmodified":1472629211,
+    "wof:lastmodified":1492825536,
     "wof:name":"Harvey Wendland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

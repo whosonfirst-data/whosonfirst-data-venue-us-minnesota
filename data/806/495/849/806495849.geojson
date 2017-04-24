@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.165318,44.912585,-93.165318,44.912585",
     "geom:latitude":44.912585,
     "geom:longitude":-93.165318,
@@ -31,19 +32,38 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73O67O342dtZ1KjePc31JE_44.912585_-93.165318@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598593,
-    "wof:geomhash":"4028834c70f7fb47180ee9d81f736b7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99e58a8db881931edeb6065c143f426a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806495849
+        }
+    ],
     "wof:id":806495849,
-    "wof:lastmodified":1472629314,
+    "wof:lastmodified":1492817051,
     "wof:name":"Highland National Golf Course",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

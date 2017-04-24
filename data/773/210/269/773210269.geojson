@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181645,48.700679,-96.181645,48.700679",
     "geom:latitude":48.700679,
     "geom:longitude":-96.181645,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512917,
+        85633793,
+        85953423,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4asS4y74pfxT9psABYQs9M_48.700679_-96.181645@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583999,
-    "wof:geomhash":"37b4a53e8375668a8e3a97e27c1e370f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7df43b1fb87d2ae6210df0a3558a27a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512917,
+            "locality_id":85953423,
+            "region_id":85688727,
+            "venue_id":773210269
+        }
+    ],
     "wof:id":773210269,
-    "wof:lastmodified":1472629953,
+    "wof:lastmodified":1492801467,
     "wof:name":"Lowell's Auto Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

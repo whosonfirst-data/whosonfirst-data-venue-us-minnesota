@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.706457,44.975921,-93.706457,44.975921",
     "geom:latitude":44.975921,
     "geom:longitude":-93.706457,
@@ -32,17 +33,34 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511889,
+        85633793,
+        85969155,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06F314E8CddoRx3pS0nnr9_44.975921_-93.706457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589201,
-    "wof:geomhash":"f9aa2dcda5571902cf251ef375b13d28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b07b77d9f829c10c69f963cc9bbd2798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":789617801
+        }
+    ],
     "wof:id":789617801,
-    "wof:lastmodified":1472629052,
+    "wof:lastmodified":1492811844,
     "wof:name":"Aoi Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

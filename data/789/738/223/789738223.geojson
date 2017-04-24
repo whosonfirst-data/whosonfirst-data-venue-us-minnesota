@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.31156,48.906659,-95.31156,48.906659",
     "geom:latitude":48.906659,
     "geom:longitude":-95.31156,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513385,
+        85633793,
+        85953417,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26XcldlZ4KJDWWUy0oUZ5C_48.906659_-95.311560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590160,
-    "wof:geomhash":"5bf1f8e4a64f90c2ab157b9a08eed2fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c53f4b4077ce732ae6e5cbe55e22b681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404513385,
+            "locality_id":85953417,
+            "region_id":85688727,
+            "venue_id":789738223
+        }
+    ],
     "wof:id":789738223,
-    "wof:lastmodified":1472629267,
+    "wof:lastmodified":1492812699,
     "wof:name":"Warroad Housing Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

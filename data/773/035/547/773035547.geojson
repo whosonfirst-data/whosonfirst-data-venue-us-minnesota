@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.495939,43.632382,-91.495939,43.632382",
     "geom:latitude":43.632382,
     "geom:longitude":-91.495939,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85844731,
+        102191575,
+        404511937,
         85633793,
         85953131,
         102087605,
-        85844731
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462582625,
-    "wof:geomhash":"0605d16aebd6b7db32813d5701b59f25",
+    "wof:geomhash":"c6377bfa3ccf90ed17c22d83fa26c33c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087605,
+            "localadmin_id":404511937,
             "locality_id":85953131,
             "neighbourhood_id":85844731,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":773035547,
-    "wof:lastmodified":1472629375,
+    "wof:lastmodified":1492803733,
     "wof:name":"County Surveyor",
     "wof:parent_id":85844731,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.158089,43.971976,-92.158089,43.971976",
     "geom:latitude":43.971976,
     "geom:longitude":-92.158089,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512437,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rhTaQD8MWqcF7HrBn6YV9_43.971976_-92.158089@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598257,
-    "wof:geomhash":"318d38119430ad16b60e4d5e3b136ae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc0f3988ff98259a28ffc09c927d2ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512437,
+            "region_id":85688727,
+            "venue_id":806451955
+        }
+    ],
     "wof:id":806451955,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492814938,
     "wof:name":"Oscar Schmidt Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

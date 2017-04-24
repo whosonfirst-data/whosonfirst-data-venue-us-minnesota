@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.757307,45.676158,-94.757307,45.676158",
     "geom:latitude":45.676158,
     "geom:longitude":-94.757307,
@@ -33,17 +34,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514379,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VLtEUJf6BfFPmD4aqNBPh_45.676158_-94.757307@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585470,
-    "wof:geomhash":"ea14da2e0e845760dfcbee1734ada8f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1770eead258fcf4ae973275cb044a2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514379,
+            "region_id":85688727,
+            "venue_id":773407529
+        }
+    ],
     "wof:id":773407529,
-    "wof:lastmodified":1472630043,
+    "wof:lastmodified":1492804179,
     "wof:name":"Hugo Massmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

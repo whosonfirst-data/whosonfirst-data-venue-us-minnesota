@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.552357,43.562495,-94.552357,43.562495",
     "geom:latitude":43.562495,
     "geom:longitude":-94.552357,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509985,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uGXpkwo1q176ljsnvaDGz_43.562495_-94.552357@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604082,
-    "wof:geomhash":"869e353f623be72b138529503d1914fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3af49bbab93ff79ff1737b504cb34e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404509985,
+            "region_id":85688727,
+            "venue_id":807132767
+        }
+    ],
     "wof:id":807132767,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492827309,
     "wof:name":"W Hansen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

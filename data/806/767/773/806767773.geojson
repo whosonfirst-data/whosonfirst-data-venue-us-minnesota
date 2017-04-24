@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.929448,43.938019,-94.929448,43.938019",
     "geom:latitude":43.938019,
     "geom:longitude":-94.929448,
@@ -33,17 +34,34 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511869,
+        85633793,
+        85952779,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Czdyd3PIyquWSUTDdjFJ3_43.938019_-94.929448@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600910,
-    "wof:geomhash":"59f2f835829a3a9246edae2eecfb7efe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f0d6ed91e319dd7f5bed045796556d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511869,
+            "locality_id":85952779,
+            "region_id":85688727,
+            "venue_id":806767773
+        }
+    ],
     "wof:id":806767773,
-    "wof:lastmodified":1472629806,
+    "wof:lastmodified":1492816796,
     "wof:name":"Mountain Lake Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

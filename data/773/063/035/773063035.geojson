@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.521987,45.056237,-93.521987,45.056237",
     "geom:latitude":45.056237,
     "geom:longitude":-93.521987,
@@ -31,17 +32,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UKOXn07H8HlSL0jm7X8YZ_45.056237_-93.521987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582878,
-    "wof:geomhash":"1c334ec5e58c03f3e7be9ffe7b35a594",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd2c174d15d2553f55a5a03ba7ea595a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":773063035
+        }
+    ],
     "wof:id":773063035,
-    "wof:lastmodified":1472629448,
+    "wof:lastmodified":1492808762,
     "wof:name":"DBO Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

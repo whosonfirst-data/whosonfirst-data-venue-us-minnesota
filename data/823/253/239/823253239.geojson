@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.749371,46.997553,-94.749371,46.997553",
     "geom:latitude":46.997553,
     "geom:longitude":-94.749371,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511961,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WDCpVn0GbYV9tdB2b2JlR_46.997553_-94.749371@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609407,
-    "wof:geomhash":"7112a7a3cdb35bdad9dd39adde54e3d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e25528f3095dcd987b8fd0e2dab2626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404511961,
+            "region_id":85688727,
+            "venue_id":823253239
+        }
+    ],
     "wof:id":823253239,
-    "wof:lastmodified":1472629184,
+    "wof:lastmodified":1492829696,
     "wof:name":"Fix Or Finish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

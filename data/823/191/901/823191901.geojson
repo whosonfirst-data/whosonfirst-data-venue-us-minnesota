@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.338575,45.060059,-93.338575,45.060059",
     "geom:latitude":45.060059,
     "geom:longitude":-93.338575,
@@ -37,17 +38,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y6Vbv8dcqLE15AvUQKQv2_45.060059_-93.338575@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608214,
-    "wof:geomhash":"65f3676a9e5da651c623c1f64a039c27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8246b47b21fbe91d09da4c69cb175ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823191901
+        }
+    ],
     "wof:id":823191901,
-    "wof:lastmodified":1472629054,
+    "wof:lastmodified":1492830472,
     "wof:name":"World Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.756422,45.293781,-93.756422,45.293781",
     "geom:latitude":45.293781,
     "geom:longitude":-93.756422,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10UtXZz91KPD5yKvYJac8a_45.293781_-93.756422@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591091,
-    "wof:geomhash":"e5c3aff340ff41deb5159ea52ce13f46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"736ce333286d9fa713f4904767b8d945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":789858307
+        }
+    ],
     "wof:id":789858307,
-    "wof:lastmodified":1472629532,
+    "wof:lastmodified":1492811684,
     "wof:name":"Phillip Ritze",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.107862,44.8573,-95.107862,44.8573",
     "geom:latitude":44.8573,
     "geom:longitude":-95.107862,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512619,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BPrqwOdZS4ogPHhC9NXch_44.857300_-95.107862@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604650,
-    "wof:geomhash":"6cd8829711d713a98a92e02dcb88cf98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f20bc7f1d5b4cd25e0f704c5aecc0056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512619,
+            "region_id":85688727,
+            "venue_id":807186073
+        }
+    ],
     "wof:id":807186073,
-    "wof:lastmodified":1472629375,
+    "wof:lastmodified":1492826718,
     "wof:name":"Schroeder Blake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

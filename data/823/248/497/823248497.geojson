@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.811521,46.093191,-95.811521,46.093191",
     "geom:latitude":46.093191,
     "geom:longitude":-95.811521,
@@ -43,17 +44,34 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509425,
+        85633793,
+        85968299,
+        102087739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47ZmPTy5YMioOfg6zbo0ao_46.093191_-95.811521@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609306,
-    "wof:geomhash":"176ecaa6c4c1d836eb4e3ef20fc06970",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb06d3fefdd621caf045f6506de6c0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087739,
+            "localadmin_id":404509425,
+            "locality_id":85968299,
+            "region_id":85688727,
+            "venue_id":823248497
+        }
+    ],
     "wof:id":823248497,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492830216,
     "wof:name":"Ruby's City Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

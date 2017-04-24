@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.007307,43.797986,-94.007307,43.797986",
     "geom:latitude":43.797986,
     "geom:longitude":-94.007307,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514073,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sTqgYBnNAr31gibWMLnym_43.797986_-94.007307@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609120,
-    "wof:geomhash":"c51d83a8bed3b0129949498374f19f3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e109dbbc5b2e74fbd3970d22b9a1fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514073,
+            "region_id":85688727,
+            "venue_id":823238363
+        }
+    ],
     "wof:id":823238363,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492830626,
     "wof:name":"Charles Schaible",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.592218,46.260737,-96.592218,46.260737",
     "geom:latitude":46.260737,
     "geom:longitude":-96.592218,
@@ -34,17 +35,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514997,
+        85633793,
+        85952501,
+        102087021
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BUjaNN2foAbhSs3jIbEcl_46.260740_-96.592080@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604651,
-    "wof:geomhash":"0e859583debcb88a8ff98acfc839f9ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba207f691296daf6a538c297b5d24909",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087021,
+            "localadmin_id":404514997,
+            "locality_id":85952501,
+            "region_id":85688727,
+            "venue_id":807186139
+        }
+    ],
     "wof:id":807186139,
-    "wof:lastmodified":1472629376,
+    "wof:lastmodified":1492826703,
     "wof:name":"Paul's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

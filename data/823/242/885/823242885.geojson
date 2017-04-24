@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.732548,43.651658,-94.732548,43.651658",
     "geom:latitude":43.651658,
     "geom:longitude":-94.732548,
@@ -38,17 +39,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512251,
+        85633793,
+        85953057,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g0VN3U86ERRqUrKz7jWuf_43.651658_-94.732548@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609200,
-    "wof:geomhash":"4b4b445ae8903866a6cca572d6c72f55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cad202be93be5a0a803ab772cf45c45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512251,
+            "locality_id":85953057,
+            "region_id":85688727,
+            "venue_id":823242885
+        }
+    ],
     "wof:id":823242885,
-    "wof:lastmodified":1472629169,
+    "wof:lastmodified":1492828569,
     "wof:name":"Miller T&C Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

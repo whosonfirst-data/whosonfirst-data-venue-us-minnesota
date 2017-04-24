@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.54649,45.326424,-94.54649,45.326424",
     "geom:latitude":45.326424,
     "geom:longitude":-94.54649,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509997,
+        85633793,
+        85952443,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IYScjtK18mX296T8w8lOJ_45.326424_-94.546490@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583138,
-    "wof:geomhash":"5ee66ca96926b07835160c612aa1ca33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7148c5b383aec718a875a07e72b9b4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404509997,
+            "locality_id":85952443,
+            "region_id":85688727,
+            "venue_id":773097871
+        }
+    ],
     "wof:id":773097871,
-    "wof:lastmodified":1472629583,
+    "wof:lastmodified":1492807917,
     "wof:name":"Assumption Parish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

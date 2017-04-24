@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.175636,44.472976,-93.175636,44.472976",
     "geom:latitude":44.472976,
     "geom:longitude":-93.175636,
@@ -28,17 +29,34 @@
     "sg:postcode":"55057",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TQUyPE6FjEfDXbbqa2YrO_44.472976_-93.175636@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602864,
-    "wof:geomhash":"723d1a01cf42ea9e83fd942b873dec58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f770417e30e063d8098f25daf45b43da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":807000439
+        }
+    ],
     "wof:id":807000439,
-    "wof:lastmodified":1472628938,
+    "wof:lastmodified":1492825919,
     "wof:name":"Seagate Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

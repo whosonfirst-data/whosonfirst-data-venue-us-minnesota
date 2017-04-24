@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.313822,44.88956,-93.313822,44.88956",
     "geom:latitude":44.88956,
     "geom:longitude":-93.313822,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mQ1S7CRpILsi7i9fuZjG8_44.889560_-93.313822@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587058,
-    "wof:geomhash":"e9adfac4e5a93408bf33de2a9b78b707",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d44cd9c4731d3f135b1adb24a0ce09dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":773615829
+        }
+    ],
     "wof:id":773615829,
-    "wof:lastmodified":1472630110,
+    "wof:lastmodified":1492803106,
     "wof:name":"Action Painters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

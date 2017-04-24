@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.618074,47.77233,-96.618074,47.77233",
     "geom:latitude":47.77233,
     "geom:longitude":-96.618074,
@@ -35,17 +36,26 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rq9sAk0HtWS1ta8bDnoRe_47.772330_-96.618074@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609546,
-    "wof:geomhash":"e4a8607fa4e4bac5e57e216445226264",
-    "wof:hierarchy":[],
+    "wof:geomhash":"def6772cb5666333f7da4859754be8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":823259653
+        }
+    ],
     "wof:id":823259653,
-    "wof:lastmodified":1472629224,
+    "wof:lastmodified":1492829171,
     "wof:name":"Family Practice",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

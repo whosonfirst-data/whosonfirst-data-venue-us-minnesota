@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.697638,46.880321,-96.697638,46.880321",
     "geom:latitude":46.880321,
     "geom:longitude":-96.697638,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877341,
+        102191575,
+        404511077,
         85633793,
         85968969,
         102087681,
-        85877341
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462598796,
-    "wof:geomhash":"0f9ea826702a07bb438ec2a46f168aae",
+    "wof:geomhash":"ad9b8f7cf9231276309783a0b71cc33a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087681,
+            "localadmin_id":404511077,
             "locality_id":85968969,
             "neighbourhood_id":85877341,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":806521223,
-    "wof:lastmodified":1472629353,
+    "wof:lastmodified":1492816385,
     "wof:name":"Joe Buretta",
     "wof:parent_id":85877341,
     "wof:placetype":"venue",

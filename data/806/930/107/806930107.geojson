@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.157893,48.112049,-96.157893,48.112049",
     "geom:latitude":48.112049,
     "geom:longitude":-96.157893,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NQexjXXpb2Dbm5EIFYcvW_48.112049_-96.157893@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602276,
-    "wof:geomhash":"eb528d83b0978ab03117829a692d7bb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32c6be77e1b34ebe0bb76cba688f1171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806930107
+        }
+    ],
     "wof:id":806930107,
-    "wof:lastmodified":1472629936,
+    "wof:lastmodified":1492817290,
     "wof:name":"Belmont Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

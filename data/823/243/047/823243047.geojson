@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.791025,43.949595,-95.791025,43.949595",
     "geom:latitude":43.949595,
     "geom:longitude":-95.791025,
@@ -36,17 +37,32 @@
         "feeding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513323,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UYu5Eqx8AF3QfmgEEvGG5_43.949595_-95.791025@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609202,
-    "wof:geomhash":"80828d1c6a32e837f3bc8a4c24d09486",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54bf9a101b1da19bb0c0d0c87cc5d571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513323,
+            "region_id":85688727,
+            "venue_id":823243047
+        }
+    ],
     "wof:id":823243047,
-    "wof:lastmodified":1472629128,
+    "wof:lastmodified":1492829323,
     "wof:name":"Theodore R Christians",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

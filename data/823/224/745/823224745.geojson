@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.530335,47.460016,-92.530335,47.460016",
     "geom:latitude":47.460016,
     "geom:longitude":-92.530335,
@@ -33,17 +34,26 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LD0CY4hjI88Upy2kOqcxS_47.460016_-92.530335@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608834,
-    "wof:geomhash":"189e0ec9a2283ff2eb40db2940717ca4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e92d315d58db490b84713044c7acea6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224745
+        }
+    ],
     "wof:id":823224745,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492828785,
     "wof:name":"Ronald D Stevens",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

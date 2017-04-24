@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.848614,45.189756,-93.848614,45.189756",
     "geom:latitude":45.189756,
     "geom:longitude":-93.848614,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66LuPd906JvJmDBKFPMjqV_45.189756_-93.848614@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586127,
-    "wof:geomhash":"c701d3a29dadbf3a5907e91534681e16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bd14e1b7e174be5b9ac28861559b0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":773488189
+        }
+    ],
     "wof:id":773488189,
-    "wof:lastmodified":1472630068,
+    "wof:lastmodified":1492804967,
     "wof:name":"DLS Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

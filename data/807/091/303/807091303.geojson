@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.50669,44.717191,-94.50669,44.717191",
     "geom:latitude":44.717191,
     "geom:longitude":-94.50669,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512493,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06A84u404Sc1AfYdABNiYG_44.717191_-94.506690@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603629,
-    "wof:geomhash":"4e9a0346368108a0643699818802c0cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8675cc8b596b6a20526a8181a54e1898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512493,
+            "region_id":85688727,
+            "venue_id":807091303
+        }
+    ],
     "wof:id":807091303,
-    "wof:lastmodified":1472629144,
+    "wof:lastmodified":1492822373,
     "wof:name":"Kuttner Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

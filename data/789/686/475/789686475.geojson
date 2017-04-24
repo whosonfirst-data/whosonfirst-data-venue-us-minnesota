@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.017393,45.201824,-96.017393,45.201824",
     "geom:latitude":45.201824,
     "geom:longitude":-96.017393,
@@ -32,17 +33,34 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514645,
+        85633793,
+        85968651,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Eg36g2647MxRnShGyQaa1_45.201824_-96.017393@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589753,
-    "wof:geomhash":"f0661dc0a1030bb37324f9c100ff960d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72ecdb9c1048482b14102fc113f8e13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514645,
+            "locality_id":85968651,
+            "region_id":85688727,
+            "venue_id":789686475
+        }
+    ],
     "wof:id":789686475,
-    "wof:lastmodified":1472629193,
+    "wof:lastmodified":1492809321,
     "wof:name":"Paula D Chase",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

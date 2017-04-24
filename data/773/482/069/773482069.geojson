@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.754795,43.987683,-95.754795,43.987683",
     "geom:latitude":43.987683,
     "geom:longitude":-95.754795,
@@ -28,17 +29,34 @@
     "sg:postcode":"56172",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513321,
+        85633793,
+        85952743,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ud9fuzZmA4MSdDt7KlGco_43.987683_-95.754795@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586085,
-    "wof:geomhash":"3d97d8726c187abcf9f65853013d0b4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d946ed9627e38809f4d304fc016e41ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513321,
+            "locality_id":85952743,
+            "region_id":85688727,
+            "venue_id":773482069
+        }
+    ],
     "wof:id":773482069,
-    "wof:lastmodified":1472630066,
+    "wof:lastmodified":1492807278,
     "wof:name":"First Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

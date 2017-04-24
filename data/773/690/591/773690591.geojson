@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.169939,44.902039,-93.169939,44.902039",
     "geom:latitude":44.902039,
     "geom:longitude":-93.169939,
@@ -32,19 +33,38 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72tmQbpZ0fmNMoYuVqETnM_44.902039_-93.169939@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587618,
-    "wof:geomhash":"e5a019ddedb62387b77e79bd1ee00e82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4d701b11384849d2444bfd13795ee07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773690591
+        }
+    ],
     "wof:id":773690591,
-    "wof:lastmodified":1472630132,
+    "wof:lastmodified":1492806436,
     "wof:name":"Voodoo Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

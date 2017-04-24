@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.535305,47.465407,-92.535305,47.465407",
     "geom:latitude":47.465407,
     "geom:longitude":-92.535305,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MI0HdkSe5ZiIi87QjscZW_47.465407_-92.535305@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588877,
-    "wof:geomhash":"1aba725eea595b31f2ad3376d1a9a95f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b53a5d45fa4dd574032e81c625e375ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773847433
+        }
+    ],
     "wof:id":773847433,
-    "wof:lastmodified":1472630171,
+    "wof:lastmodified":1492806000,
     "wof:name":"Mm Apts",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

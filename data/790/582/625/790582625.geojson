@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.951528,44.429601,-94.951528,44.429601",
     "geom:latitude":44.429601,
     "geom:longitude":-94.951528,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512183,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XZUJUIn2xA5aS4oE2197y_44.429601_-94.951528@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597062,
-    "wof:geomhash":"b291659a11d6f193486e008c3fed32d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8513b5086141245151c5a9591eab2684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512183,
+            "region_id":85688727,
+            "venue_id":790582625
+        }
+    ],
     "wof:id":790582625,
-    "wof:lastmodified":1472629878,
+    "wof:lastmodified":1492835883,
     "wof:name":"Richard Wildt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

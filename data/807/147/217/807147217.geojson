@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.476751,45.091852,-93.476751,45.091852",
     "geom:latitude":45.091852,
     "geom:longitude":-93.476751,
@@ -31,17 +32,34 @@
         "cd-rom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SFRUaCgCsTybdat3vvt8e_45.091940_-93.476538@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604248,
-    "wof:geomhash":"ab1ebf278aeda7760c6754a58252caf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63def2271af13c3077920a066d001686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807147217
+        }
+    ],
     "wof:id":807147217,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492826178,
     "wof:name":"Netcom Data Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

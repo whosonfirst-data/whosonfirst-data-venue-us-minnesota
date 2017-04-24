@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.969131,44.167598,-93.969131,44.167598",
     "geom:latitude":44.167598,
     "geom:longitude":-93.969131,
@@ -31,17 +32,34 @@
         "commodity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C7PFTXIXl3QnFsZrL2v5i_44.167598_-93.969131@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593350,
-    "wof:geomhash":"054f05970e1b5cf479ad251387a9c0ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50e05236a9919487e1309586c6b39e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":790128399
+        }
+    ],
     "wof:id":790128399,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492835196,
     "wof:name":"Investors Commodity Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

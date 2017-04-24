@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247398,45.0215,-93.247398,45.0215",
     "geom:latitude":45.0215,
     "geom:longitude":-93.247398,
@@ -35,15 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872687,
+        420524993,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420525003,
-        420524993
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604489,
-    "wof:geomhash":"cf373c9ff801e9e7022f6742f0e7f8af",
+    "wof:geomhash":"ce19220671d86fe40bebb076041ed480",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,35 +59,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872687,
-            "region_id":85688727,
-            "venue_id":807170459
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420525003,
-            "region_id":85688727,
-            "venue_id":807170459
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108800001,
             "neighbourhood_id":420524993,
             "region_id":85688727,
             "venue_id":807170459
         }
     ],
     "wof:id":807170459,
-    "wof:lastmodified":1472629333,
+    "wof:lastmodified":1492823097,
     "wof:name":"Stuart Lorenz Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":420524993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

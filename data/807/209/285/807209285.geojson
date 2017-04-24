@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.837273,45.429754,-93.837273,45.429754",
     "geom:latitude":45.429754,
     "geom:longitude":-93.837273,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515055,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RsT3fxkICAL9tKGag6Urn_45.429754_-93.837273@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604894,
-    "wof:geomhash":"4e13458e35f5bf058d0694c5e1ca5a24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e62ca84d64762b8111a7b50c0f2be84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515055,
+            "region_id":85688727,
+            "venue_id":807209285
+        }
+    ],
     "wof:id":807209285,
-    "wof:lastmodified":1472629411,
+    "wof:lastmodified":1492824732,
     "wof:name":"Eugene Kolbinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.182348,47.123677,-93.182348,47.123677",
     "geom:latitude":47.123677,
     "geom:longitude":-93.182348,
@@ -37,17 +38,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513301,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rxIIRb367jrmuB2Mds4Yh_47.123677_-93.182348@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608886,
-    "wof:geomhash":"4970b87e56941f0ca0b565a490b6c008",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f94afb132027d821d54abf1246968625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513301,
+            "region_id":85688727,
+            "venue_id":823226789
+        }
+    ],
     "wof:id":823226789,
-    "wof:lastmodified":1472629114,
+    "wof:lastmodified":1492830865,
     "wof:name":"Restoration Service Partn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

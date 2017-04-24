@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.605575,45.079148,-95.605575,45.079148",
     "geom:latitude":45.079148,
     "geom:longitude":-95.605575,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511781,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dji72cdC3KMPFsrUxBu2e_45.079148_-95.605575@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603653,
-    "wof:geomhash":"8613e984277b3e2a34bc05771d8909a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ffb402549d8d5d9f82b8065a019e604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404511781,
+            "region_id":85688727,
+            "venue_id":807093859
+        }
+    ],
     "wof:id":807093859,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492827279,
     "wof:name":"Jerry Cronen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

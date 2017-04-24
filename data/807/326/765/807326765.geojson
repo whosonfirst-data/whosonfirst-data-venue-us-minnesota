@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.385696,44.927686,-93.385696,44.927686",
     "geom:latitude":44.927686,
     "geom:longitude":-93.385696,
@@ -46,17 +47,34 @@
     ],
     "sg:website":"http://www.pawnamerica.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EtMDrk7QvcR0jfI37zdB1_44.927686_-93.385696@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606151,
-    "wof:geomhash":"bd1ded41e0e6ac4ed6a7524e8423c84d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"562dc68e5fe3c22995b6f5a3b687442a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":807326765
+        }
+    ],
     "wof:id":807326765,
-    "wof:lastmodified":1472629738,
+    "wof:lastmodified":1492828009,
     "wof:name":"Pawn America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

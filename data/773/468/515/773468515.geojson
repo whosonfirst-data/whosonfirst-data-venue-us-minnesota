@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.333061,44.886212,-93.333061,44.886212",
     "geom:latitude":44.886212,
     "geom:longitude":-93.333061,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1H58juHEOFp5YuoM6ufkyB_44.886212_-93.333061@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585974,
-    "wof:geomhash":"f368ce813a1259afc6457cc81040339a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ff18cd97d64f422ae2635a3bbc807f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773468515
+        }
+    ],
     "wof:id":773468515,
-    "wof:lastmodified":1472630064,
+    "wof:lastmodified":1492806171,
     "wof:name":"South Dale Allrgy Asthma Clnic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

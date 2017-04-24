@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.183834,45.046558,-93.183834,45.046558",
     "geom:latitude":45.046558,
     "geom:longitude":-93.183834,
@@ -31,17 +32,34 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wBHpx9lCGw9D9ZX1FmErY_45.046558_-93.183834@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605474,
-    "wof:geomhash":"3215b3b019380507811a38243207fd46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00b756699ac0a83feea0a43235b3cd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":807264291
+        }
+    ],
     "wof:id":807264291,
-    "wof:lastmodified":1472629547,
+    "wof:lastmodified":1492826692,
     "wof:name":"Incompass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

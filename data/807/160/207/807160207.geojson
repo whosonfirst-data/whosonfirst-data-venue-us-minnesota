@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.126969,43.877295,-95.126969,43.877295",
     "geom:latitude":43.877295,
     "geom:longitude":-95.126969,
@@ -32,17 +33,34 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MZruyhM3HQyiSxAmbI4Jt_43.877155_-95.126092@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604381,
-    "wof:geomhash":"2835f635e6725a51a82c73b04408ebaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4aaaf26ac5c94d29585c690732d6582f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":807160207
+        }
+    ],
     "wof:id":807160207,
-    "wof:lastmodified":1472629289,
+    "wof:lastmodified":1492827828,
     "wof:name":"Storybook Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

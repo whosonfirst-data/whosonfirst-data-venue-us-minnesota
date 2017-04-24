@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.785744,45.490334,-92.785744,45.490334",
     "geom:latitude":45.490334,
     "geom:longitude":-92.785744,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511105,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N7L03CAWJxnTw48WVF3QG_45.490334_-92.785744@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582389,
-    "wof:geomhash":"fa90e74625090b82293da7ef8ab7be19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcaa0dfdf4def0cf58e0c90e11913dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511105,
+            "region_id":85688727,
+            "venue_id":773014739
+        }
+    ],
     "wof:id":773014739,
-    "wof:lastmodified":1472629009,
+    "wof:lastmodified":1492801195,
     "wof:name":"Chisago County Highway Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

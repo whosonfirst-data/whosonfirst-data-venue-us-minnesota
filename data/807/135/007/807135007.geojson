@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.384177,44.806966,-93.384177,44.806966",
     "geom:latitude":44.806966,
     "geom:longitude":-93.384177,
@@ -32,17 +33,34 @@
         "hospital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YJIZoD8yW61gkYKx3auv7_44.807461_-93.384097@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604107,
-    "wof:geomhash":"63974783d945d32b3dfa51e6a725de96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11cf8dfb6aacdb3a7a6bc99615d86e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":807135007
+        }
+    ],
     "wof:id":807135007,
-    "wof:lastmodified":1472629236,
+    "wof:lastmodified":1492823765,
     "wof:name":"Stephen Barghusen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

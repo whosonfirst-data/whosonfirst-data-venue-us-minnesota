@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.164578,43.90353,-96.164578,43.90353",
     "geom:latitude":43.90353,
     "geom:longitude":-96.164578,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513527,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lc8uTxAzOm3QwTdolV1lu_43.903530_-96.164578@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599944,
-    "wof:geomhash":"91440337709d19c22552bb57dcb8b9e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa5f9c4446b5cd88798a39b690eadcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513527,
+            "region_id":85688727,
+            "venue_id":806654381
+        }
+    ],
     "wof:id":806654381,
-    "wof:lastmodified":1472629644,
+    "wof:lastmodified":1492820530,
     "wof:name":"Harvey Aukes Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

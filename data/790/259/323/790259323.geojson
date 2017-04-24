@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.653595,44.851101,-93.653595,44.851101",
     "geom:latitude":44.851101,
     "geom:longitude":-93.653595,
@@ -31,17 +32,34 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511603,
+        85633793,
+        85953353,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UQYz8rDNqCybqL7j8rXfm_44.851101_-93.653595@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594416,
-    "wof:geomhash":"7429d7609d04d7f418b91d0a8cf0db5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"347f2a7d0abadb20e8862ee2fb9aa686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511603,
+            "locality_id":85953353,
+            "region_id":85688727,
+            "venue_id":790259323
+        }
+    ],
     "wof:id":790259323,
-    "wof:lastmodified":1472629391,
+    "wof:lastmodified":1492833185,
     "wof:name":"Innovative Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

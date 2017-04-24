@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.954666,45.746134,-94.954666,45.746134",
     "geom:latitude":45.746134,
     "geom:longitude":-94.954666,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"www.stmichaelshospital.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512153,
+        85633793,
+        85952509,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TnAc16CutQhZLnVzhXFjh_45.746134_-94.954666@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598729,
-    "wof:geomhash":"6b614b3d8ad10d9fbe55903c61f137d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee6c62ddcf2a7eeeedc9cf954604f34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512153,
+            "locality_id":85952509,
+            "region_id":85688727,
+            "venue_id":806511797
+        }
+    ],
     "wof:id":806511797,
-    "wof:lastmodified":1472629357,
+    "wof:lastmodified":1492817458,
     "wof:name":"St Michael's Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.674402,48.311385,-96.674402,48.311385",
     "geom:latitude":48.311385,
     "geom:longitude":-96.674402,
@@ -32,17 +33,32 @@
         "spec"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510133,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57UGAJz6OTJP0kd7kSve7v_48.311385_-96.674402@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604474,
-    "wof:geomhash":"c99fddf336524c9ed1bb76c969ca603d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed78456dc0beb69359470f939ea127c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510133,
+            "region_id":85688727,
+            "venue_id":807168975
+        }
+    ],
     "wof:id":807168975,
-    "wof:lastmodified":1472629328,
+    "wof:lastmodified":1492827041,
     "wof:name":"Perry Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

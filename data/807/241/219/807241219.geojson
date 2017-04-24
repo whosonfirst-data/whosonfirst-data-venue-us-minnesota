@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.107878,45.796119,-93.107878,45.796119",
     "geom:latitude":45.796119,
     "geom:longitude":-93.107878,
@@ -36,17 +37,32 @@
         "hay"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510423,
+        85633793,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oC49ygPeZcb9Zrqcx0yWV_45.796119_-93.107878@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605221,
-    "wof:geomhash":"f462e65c826a2c5f721ffcec30365142",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fbfbc04b81bc2cbd541affc057df943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404510423,
+            "region_id":85688727,
+            "venue_id":807241219
+        }
+    ],
     "wof:id":807241219,
-    "wof:lastmodified":1472629494,
+    "wof:lastmodified":1492823467,
     "wof:name":"Donald Damann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

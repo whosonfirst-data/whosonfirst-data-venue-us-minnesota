@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.705047,45.532778,-95.705047,45.532778",
     "geom:latitude":45.532778,
     "geom:longitude":-95.705047,
@@ -28,17 +29,32 @@
     "sg:postcode":"56244",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510225,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oCZXItYBgHgl9miVKBBFJ_45.532778_-95.705047@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600626,
-    "wof:geomhash":"18983dc8d5259296c0abbe4ead77d776",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a089d57d61ca60b5a0a0b39295f51f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404510225,
+            "region_id":85688727,
+            "venue_id":806735255
+        }
+    ],
     "wof:id":806735255,
-    "wof:lastmodified":1472629760,
+    "wof:lastmodified":1492815679,
     "wof:name":"Gene Hacker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

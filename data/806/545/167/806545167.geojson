@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.970217,44.24574,-94.970217,44.24574",
     "geom:latitude":44.24574,
     "geom:longitude":-94.970217,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511473,
+        85633793,
+        85952695,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xMmuwjgDqtf6BVzYDCUI6_44.245740_-94.970217@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598998,
-    "wof:geomhash":"0fd2036205edd768ff12105a654d2ded",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a92405d3821a843b31ac6eda45917cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511473,
+            "locality_id":85952695,
+            "region_id":85688727,
+            "venue_id":806545167
+        }
+    ],
     "wof:id":806545167,
-    "wof:lastmodified":1472629426,
+    "wof:lastmodified":1492818672,
     "wof:name":"Wendt Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

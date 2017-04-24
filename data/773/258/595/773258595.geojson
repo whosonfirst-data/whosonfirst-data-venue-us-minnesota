@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.430112,45.050888,-93.430112,45.050888",
     "geom:latitude":45.050888,
     "geom:longitude":-93.430112,
@@ -31,17 +32,34 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Jp6utoZHxpm6dnc0cYJ3m_45.050888_-93.430112@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584352,
-    "wof:geomhash":"0cad1efcefe4ecb54963912f1753ca32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb5eb0096f16153f28ebaa84571f28b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":773258595
+        }
+    ],
     "wof:id":773258595,
-    "wof:lastmodified":1472629997,
+    "wof:lastmodified":1492802873,
     "wof:name":"Truth In Housing Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

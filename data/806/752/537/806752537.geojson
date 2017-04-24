@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.54274,45.225771,-93.54274,45.225771",
     "geom:latitude":45.225771,
     "geom:longitude":-93.54274,
@@ -31,17 +32,34 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JBZILut2QGgNyNcD7uVth_45.225771_-93.542740@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600785,
-    "wof:geomhash":"d4c074ea56c70507eeb540ca1e8a28cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3e6ef8effee8b6fa5ebe0ba6e32df93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":806752537
+        }
+    ],
     "wof:id":806752537,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492820278,
     "wof:name":"BML",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

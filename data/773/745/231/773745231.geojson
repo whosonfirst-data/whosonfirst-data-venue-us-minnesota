@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.418326,47.097951,-92.418326,47.097951",
     "geom:latitude":47.097951,
     "geom:longitude":-92.418326,
@@ -28,17 +29,26 @@
     "sg:postcode":"55717",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35xK60XmaIAZoNan8FQUxY_47.097951_-92.418326@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588064,
-    "wof:geomhash":"d5d638b824ee822442a0ab918759beec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f39756b6c0ee68231e18f930690b5b9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773745231
+        }
+    ],
     "wof:id":773745231,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1492806878,
     "wof:name":"Saint Peter Lutheran Chur",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

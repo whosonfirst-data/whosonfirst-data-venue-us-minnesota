@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.000971,44.875319,-93.000971,44.875319",
     "geom:latitude":44.875319,
     "geom:longitude":-93.000971,
@@ -32,17 +33,34 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514911,
+        85633793,
+        85953567,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DYwYxcyPbshX80B68IB23_44.875319_-93.000971@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583069,
-    "wof:geomhash":"9f3bc544355f16d2625305d3fc481144",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a00605b89ec0c07ef6a9cac255d9390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514911,
+            "locality_id":85953567,
+            "region_id":85688727,
+            "venue_id":773088577
+        }
+    ],
     "wof:id":773088577,
-    "wof:lastmodified":1472629566,
+    "wof:lastmodified":1492803814,
     "wof:name":"Missionary Manna Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

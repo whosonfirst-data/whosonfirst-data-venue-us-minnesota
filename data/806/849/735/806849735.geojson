@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.950545,45.499125,-94.950545,45.499125",
     "geom:latitude":45.499125,
     "geom:longitude":-94.950545,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514363,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09282MNaPXTiybTySFvZr6_45.499125_-94.950545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601604,
-    "wof:geomhash":"8158bd93e8edc7c3be7cc15794a085a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2684304f53eeac5506afc1872ab3c65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514363,
+            "region_id":85688727,
+            "venue_id":806849735
+        }
+    ],
     "wof:id":806849735,
-    "wof:lastmodified":1472629890,
+    "wof:lastmodified":1492821462,
     "wof:name":"Bow-Tie Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

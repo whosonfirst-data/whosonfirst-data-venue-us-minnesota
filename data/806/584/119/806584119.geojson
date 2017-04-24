@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.161809,44.919804,-93.161809,44.919804",
     "geom:latitude":44.919804,
     "geom:longitude":-93.161809,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_564T0KBAcgavyYtUhUCFhm_44.919804_-93.161809@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599346,
-    "wof:geomhash":"7135384cec2eb33dbdaad3fb20327d39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a81df71354991ea3e49e229e9c79800",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806584119
+        }
+    ],
     "wof:id":806584119,
-    "wof:lastmodified":1472629483,
+    "wof:lastmodified":1492818291,
     "wof:name":"Jma Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

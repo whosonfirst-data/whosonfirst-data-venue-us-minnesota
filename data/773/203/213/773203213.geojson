@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.57611,44.757259,-93.57611,44.757259",
     "geom:latitude":44.757259,
     "geom:longitude":-93.57611,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514989,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fWOZAU96M1miA8a68UHO5_44.757259_-93.576110@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583952,
-    "wof:geomhash":"4ff1f979a32abe6b65e3294471e5911f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da595dd0cf9d5584fd7bfc84c58d5d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514989,
+            "region_id":85688727,
+            "venue_id":773203213
+        }
+    ],
     "wof:id":773203213,
-    "wof:lastmodified":1472629945,
+    "wof:lastmodified":1492801512,
     "wof:name":"Dynasty Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

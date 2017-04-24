@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.722375,45.320319,-92.722375,45.320319",
     "geom:latitude":45.320319,
     "geom:longitude":-92.722375,
@@ -34,17 +35,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511113,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Hc4PO7sGOI4FahHFWzfi_45.320319_-92.722375@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605382,
-    "wof:geomhash":"ccab78077acb40c771bbc8650ce17247",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5928c97d27389f512206e2f67b4b14cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511113,
+            "region_id":85688727,
+            "venue_id":807255371
+        }
+    ],
     "wof:id":807255371,
-    "wof:lastmodified":1472629516,
+    "wof:lastmodified":1492828026,
     "wof:name":"Whipsaw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

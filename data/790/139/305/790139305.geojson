@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.31696,45.564838,-94.31696,45.564838",
     "geom:latitude":45.564838,
     "geom:longitude":-94.31696,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514493,
+        85633793,
+        85952495,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gcZ8pqMzUfga6VrcY6jDB_45.564838_-94.316960@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593425,
-    "wof:geomhash":"ddf1cfdbc5f77ea156bea2dbd4bcf1fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c63ced0dbbea16712b022f9d6680fd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514493,
+            "locality_id":85952495,
+            "region_id":85688727,
+            "venue_id":790139305
+        }
+    ],
     "wof:id":790139305,
-    "wof:lastmodified":1472629185,
+    "wof:lastmodified":1492831807,
     "wof:name":"Scherer Trucking & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

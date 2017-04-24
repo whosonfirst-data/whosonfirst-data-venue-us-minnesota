@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.42564,43.825805,-94.42564,43.825805",
     "geom:latitude":43.825805,
     "geom:longitude":-94.42564,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512257,
+        85633793,
+        85953119,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cnOCVIaaeyL1L10q6Zsun_43.825805_-94.425640@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604820,
-    "wof:geomhash":"b79283b053eca37fe9ba78566406ffee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fb59a7d66bc95481969c69a342ccfc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512257,
+            "locality_id":85953119,
+            "region_id":85688727,
+            "venue_id":807202317
+        }
+    ],
     "wof:id":807202317,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492824692,
     "wof:name":"Rick Greiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

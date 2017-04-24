@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.184757,48.699119,-96.184757,48.699119",
     "geom:latitude":48.699119,
     "geom:longitude":-96.184757,
@@ -36,17 +37,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512917,
+        85633793,
+        85953423,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QY3OzX35eWm8nTEpZnKmb_48.699119_-96.184757@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609551,
-    "wof:geomhash":"b525cb62def5ae8c698308e77fd8b05a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d09bfe18eaf5cb46222a47bee74ad196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512917,
+            "locality_id":85953423,
+            "region_id":85688727,
+            "venue_id":823259935
+        }
+    ],
     "wof:id":823259935,
-    "wof:lastmodified":1472629227,
+    "wof:lastmodified":1492829177,
     "wof:name":"Lifecare Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

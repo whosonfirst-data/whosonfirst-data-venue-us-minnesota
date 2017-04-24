@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.831955,47.449046,-94.831955,47.449046",
     "geom:latitude":47.449046,
     "geom:longitude":-94.831955,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511371,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5joMTAKvZQKwFoVHQRLEEL_47.449046_-94.831955@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587963,
-    "wof:geomhash":"9a3e608855846467c44ebd9d9f677688",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c9035c66412bde068f01f682f92860b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511371,
+            "region_id":85688727,
+            "venue_id":773731985
+        }
+    ],
     "wof:id":773731985,
-    "wof:lastmodified":1472630145,
+    "wof:lastmodified":1492800241,
     "wof:name":"Security Plus Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

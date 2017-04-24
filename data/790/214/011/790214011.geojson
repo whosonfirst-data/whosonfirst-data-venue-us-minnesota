@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.625267,43.981902,-94.625267,43.981902",
     "geom:latitude":43.981902,
     "geom:longitude":-94.625267,
@@ -32,17 +33,34 @@
         "taxation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JsGMvGO2hosW2TS7u3dH9_43.981902_-94.625267@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594056,
-    "wof:geomhash":"fe98449e39cd70be69e0d3ff8dd83729",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca33ee7cd66a803369aaaa7be752b01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":790214011
+        }
+    ],
     "wof:id":790214011,
-    "wof:lastmodified":1472629298,
+    "wof:lastmodified":1492831950,
     "wof:name":"County Assessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

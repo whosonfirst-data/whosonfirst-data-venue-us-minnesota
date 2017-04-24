@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.793764,44.437179,-95.793764,44.437179",
     "geom:latitude":44.437179,
     "geom:longitude":-95.793764,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EcQFnhIsAxHjE6GPVOqGC_44.437179_-95.793764@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592060,
-    "wof:geomhash":"3e12c544acb721e8c712bf2a7034edc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1f102f1a7686a7faca799c8a79ad349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":789967185
+        }
+    ],
     "wof:id":789967185,
-    "wof:lastmodified":1472629661,
+    "wof:lastmodified":1492811283,
     "wof:name":"Ds Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

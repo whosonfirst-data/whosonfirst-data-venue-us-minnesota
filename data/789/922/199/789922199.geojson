@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.014286,43.688832,-95.014286,43.688832",
     "geom:latitude":43.688832,
     "geom:longitude":-95.014286,
@@ -35,17 +36,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513465,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EbKrtUeEi5h2N0R3Apvm5_43.688832_-95.014286@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591643,
-    "wof:geomhash":"6b5775d94ed35f040e503e64adc13226",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b557f831fac519084b259b9a5bc57b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513465,
+            "region_id":85688727,
+            "venue_id":789922199
+        }
+    ],
     "wof:id":789922199,
-    "wof:lastmodified":1472629609,
+    "wof:lastmodified":1492812618,
     "wof:name":"Concrete Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

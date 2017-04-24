@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.235385,45.451218,-93.235385,45.451218",
     "geom:latitude":45.451218,
     "geom:longitude":-93.235385,
@@ -31,17 +32,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512979,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02ykrU8aRdDyXUKP8BofW2_45.451218_-93.235385@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586533,
-    "wof:geomhash":"ccf1d7213e401db60024be6f2ed4f72b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"100f91cd7dce83bd667e2b9b19970434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512979,
+            "region_id":85688727,
+            "venue_id":773545793
+        }
+    ],
     "wof:id":773545793,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492805095,
     "wof:name":"Green Barn Garden Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

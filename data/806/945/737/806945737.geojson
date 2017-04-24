@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.209819,43.648831,-96.209819,43.648831",
     "geom:latitude":43.648831,
     "geom:longitude":-96.209819,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512779,
+        85633793,
+        85968777,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rugTDSuG7hhA1L5URJjsT_43.648831_-96.209819@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602405,
-    "wof:geomhash":"b999a523e88c7ef7c5e9fa50073ce79e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf0f5eed3450da250accb72586011d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512779,
+            "locality_id":85968777,
+            "region_id":85688727,
+            "venue_id":806945737
+        }
+    ],
     "wof:id":806945737,
-    "wof:lastmodified":1472629952,
+    "wof:lastmodified":1492820692,
     "wof:name":"Reisch Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326782,44.84536,-93.326782,44.84536",
     "geom:latitude":44.84536,
     "geom:longitude":-93.326782,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77bSSNaMzzy2uk6Ah5krVX_44.845360_-93.326782@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599122,
-    "wof:geomhash":"fd66e3c6adc0efdd63e64388b6b47139",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2ac54b009bb47c01514eb3bd887fb4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806559609
+        }
+    ],
     "wof:id":806559609,
-    "wof:lastmodified":1472629461,
+    "wof:lastmodified":1492821781,
     "wof:name":"Belford LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

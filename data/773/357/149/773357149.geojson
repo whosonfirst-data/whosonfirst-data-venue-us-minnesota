@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.566814,47.51927,-92.566814,47.51927",
     "geom:latitude":47.51927,
     "geom:longitude":-92.566814,
@@ -31,17 +32,36 @@
         "distributor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47iIe2rvQnNdP3EjFvorbE_47.519270_-92.566814@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585098,
-    "wof:geomhash":"10dafc75e574d4af5a205fd261e515a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c49a622a12ebaf0496430fbd2cedfe0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":773357149
+        }
+    ],
     "wof:id":773357149,
-    "wof:lastmodified":1472630024,
+    "wof:lastmodified":1492808781,
     "wof:name":"Norri Rental",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.464394,47.492031,-92.464394,47.492031",
     "geom:latitude":47.492031,
     "geom:longitude":-92.464394,
@@ -31,17 +32,26 @@
         "contractors'"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g6bdi1sPOW8l1JlpoeyHi_47.492031_-92.464394@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608840,
-    "wof:geomhash":"25c795881dd24c934b1333f17bec974c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"baffd74fdfc27f759e7924b5ddf09385",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":823225053
+        }
+    ],
     "wof:id":823225053,
-    "wof:lastmodified":1472629087,
+    "wof:lastmodified":1492828081,
     "wof:name":"Adventure Rental",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

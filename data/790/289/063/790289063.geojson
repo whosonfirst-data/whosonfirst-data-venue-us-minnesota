@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.11778,43.866408,-95.11778,43.866408",
     "geom:latitude":43.866408,
     "geom:longitude":-95.11778,
@@ -31,17 +32,34 @@
         "hospice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35tSlJ7iAKJNu5QSyRNDs7_43.866408_-95.117780@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594675,
-    "wof:geomhash":"abbf164ee354d672fd56f797b48db892",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43c4d8b2c598d039b3a439da3be5bb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":790289063
+        }
+    ],
     "wof:id":790289063,
-    "wof:lastmodified":1472629454,
+    "wof:lastmodified":1492838029,
     "wof:name":"Sioux Valley Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.98956,44.776439,-94.98956,44.776439",
     "geom:latitude":44.776439,
     "geom:longitude":-94.98956,
@@ -39,17 +40,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZDNzUmWoTPa2R7i82Lfoy_44.776439_-94.989560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590143,
-    "wof:geomhash":"84ace96ce3aacdf2c19b3d930764d048",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bda2a71f4dd834c6cbdfd8b98f86ac6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":789735633
+        }
+    ],
     "wof:id":789735633,
-    "wof:lastmodified":1472629258,
+    "wof:lastmodified":1492810228,
     "wof:name":"Vision Systems Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

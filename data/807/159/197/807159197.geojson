@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.971659,44.243142,-94.971659,44.243142",
     "geom:latitude":44.243142,
     "geom:longitude":-94.971659,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511473,
+        85633793,
+        85952695,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KT5IbeHgbiNOJ9lmuBFpC_44.243142_-94.971659@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604367,
-    "wof:geomhash":"162ff1c7271290e13ddafa3b3a734b88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2977b0fa55ca09d2f7b41a9d17eecc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511473,
+            "locality_id":85952695,
+            "region_id":85688727,
+            "venue_id":807159197
+        }
+    ],
     "wof:id":807159197,
-    "wof:lastmodified":1472629291,
+    "wof:lastmodified":1492822969,
     "wof:name":"B Bloemke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

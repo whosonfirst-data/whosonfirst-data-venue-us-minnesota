@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.409322,44.408656,-95.409322,44.408656",
     "geom:latitude":44.408656,
     "geom:longitude":-95.409322,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510549,
+        85633793,
+        85968807,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f3TVtWdTJbRzQb4d8Nu43_44.408656_-95.409322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583638,
-    "wof:geomhash":"e5a541f8c0700e19da151554fd617a76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a6900cb6af8194f6998747a10649af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510549,
+            "locality_id":85968807,
+            "region_id":85688727,
+            "venue_id":773166365
+        }
+    ],
     "wof:id":773166365,
-    "wof:lastmodified":1472629771,
+    "wof:lastmodified":1492799417,
     "wof:name":"Our Lady Of Victory Catholic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

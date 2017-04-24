@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.333109,47.753101,-90.333109,47.753101",
     "geom:latitude":47.753101,
     "geom:longitude":-90.333109,
@@ -32,17 +33,34 @@
         "complex"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511965,
+        85633793,
+        85953369,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ip6IIvFcZZxNZFih2zWXa_47.753101_-90.333109@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591651,
-    "wof:geomhash":"2c9def00e065d0274c492506f7f1c1a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cc58997e5891b9be84a34862b0e22ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404511965,
+            "locality_id":85953369,
+            "region_id":85688727,
+            "venue_id":789923275
+        }
+    ],
     "wof:id":789923275,
-    "wof:lastmodified":1472629610,
+    "wof:lastmodified":1492813114,
     "wof:name":"Harbor View Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

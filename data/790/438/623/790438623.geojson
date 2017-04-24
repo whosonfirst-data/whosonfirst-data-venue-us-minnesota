@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.165752,43.769891,-94.165752,43.769891",
     "geom:latitude":43.769891,
     "geom:longitude":-94.165752,
@@ -32,17 +33,34 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509621,
+        85633793,
+        85952577,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35g1Muyi5d0ELsoSmpcKgG_43.769891_-94.165752@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595832,
-    "wof:geomhash":"aff0f351d721d7e85d42ddc8253a0ccc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eafa246f6d9f42287e50be47fbf290ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509621,
+            "locality_id":85952577,
+            "region_id":85688727,
+            "venue_id":790438623
+        }
+    ],
     "wof:id":790438623,
-    "wof:lastmodified":1472629716,
+    "wof:lastmodified":1492834333,
     "wof:name":"Winnebago Times",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

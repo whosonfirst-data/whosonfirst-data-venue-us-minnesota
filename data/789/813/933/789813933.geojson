@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.458591,44.002582,-92.458591,44.002582",
     "geom:latitude":44.002582,
     "geom:longitude":-92.458591,
@@ -31,17 +32,34 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MCDc0QZ4uA2T9wMB7dHBy_44.002582_-92.458591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590745,
-    "wof:geomhash":"c4b4f337f6efb95f35e0d29b46907a68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"305ebbdd50118fad50664d06c23edf3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789813933
+        }
+    ],
     "wof:id":789813933,
-    "wof:lastmodified":1472629409,
+    "wof:lastmodified":1492812295,
     "wof:name":"Wright's Small Engine Svc Spec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

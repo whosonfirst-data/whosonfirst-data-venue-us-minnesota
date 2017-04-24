@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.381718,44.818005,-93.381718,44.818005",
     "geom:latitude":44.818005,
     "geom:longitude":-93.381718,
@@ -40,17 +41,34 @@
         "bookkeeping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZSVkkk8R6cNozVprLgsxj_44.818005_-93.381718@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608499,
-    "wof:geomhash":"040e51e63ea616352cb9eb2f8b9b7701",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc0138449fd986aa38bde412f4803c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823208167
+        }
+    ],
     "wof:id":823208167,
-    "wof:lastmodified":1472629068,
+    "wof:lastmodified":1492829102,
     "wof:name":"Midwest Medical Billing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

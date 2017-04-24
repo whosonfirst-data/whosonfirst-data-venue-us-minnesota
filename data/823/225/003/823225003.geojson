@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.341876,47.447327,-92.341876,47.447327",
     "geom:latitude":47.447327,
     "geom:longitude":-92.341876,
@@ -33,17 +34,26 @@
         "trophies"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HBxU3SS8YfjccTzgTwl3v_47.447327_-92.341876@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608839,
-    "wof:geomhash":"676873a936b42d9d818e3a83ffdbd710",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d61896d3bcccdc27bf2bdd32d85de34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":823225003
+        }
+    ],
     "wof:id":823225003,
-    "wof:lastmodified":1472629075,
+    "wof:lastmodified":1492828080,
     "wof:name":"Iron Range Awards",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

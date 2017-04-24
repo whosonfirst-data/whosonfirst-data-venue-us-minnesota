@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.672903,44.917806,-93.672903,44.917806",
     "geom:latitude":44.917806,
     "geom:longitude":-93.672903,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511889,
+        85633793,
+        85969155,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tflhs0wN5fUMFtS7nTOnM_44.917806_-93.672903@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587498,
-    "wof:geomhash":"f0e94b33b47c8adbeee377c197b5c5e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"066a1d86c7094668b6ba796e228dcf1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":773674609
+        }
+    ],
     "wof:id":773674609,
-    "wof:lastmodified":1472630127,
+    "wof:lastmodified":1492801001,
     "wof:name":"Selectric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

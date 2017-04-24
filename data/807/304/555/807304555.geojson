@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.544186,44.883946,-93.544186,44.883946",
     "geom:latitude":44.883946,
     "geom:longitude":-93.544186,
@@ -32,17 +33,34 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tT50z09meyFmKV9itOtET_44.883946_-93.544186@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605900,
-    "wof:geomhash":"74c1083106ed12abd7d6203f46a9d387",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2e571f7f849ffcf9332b92065333822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":807304555
+        }
+    ],
     "wof:id":807304555,
-    "wof:lastmodified":1472629665,
+    "wof:lastmodified":1492825660,
     "wof:name":"Saturn Business Sys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

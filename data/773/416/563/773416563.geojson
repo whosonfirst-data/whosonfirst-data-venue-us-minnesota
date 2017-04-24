@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218569,43.454342,-93.218569,43.454342",
     "geom:latitude":43.454342,
     "geom:longitude":-93.218569,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XunjL08s78BJByzAYirm1_43.454342_-93.218569@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585546,
-    "wof:geomhash":"494392a62f2ff7065d220c4dde2e259f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af975b703c4815b8a5be18858ae2d1d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":773416563
+        }
+    ],
     "wof:id":773416563,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492804736,
     "wof:name":"Villa Woods Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.591513,47.386691,-92.591513,47.386691",
     "geom:latitude":47.386691,
     "geom:longitude":-92.591513,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uJVcdCfPdMmRrkbKpBElu_47.386691_-92.591513@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601562,
-    "wof:geomhash":"a6592b0ff345f949737495192612460a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"826dfd1bdfb395422e5215dca2faad16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806844799
+        }
+    ],
     "wof:id":806844799,
-    "wof:lastmodified":1472629889,
+    "wof:lastmodified":1492815266,
     "wof:name":"Northern Pole Builders",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

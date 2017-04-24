@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.389475,45.114484,-93.389475,45.114484",
     "geom:latitude":45.114484,
     "geom:longitude":-93.389475,
@@ -54,17 +55,34 @@
     ],
     "sg:website":"http://www.mcnallans.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eulVow0a26pkBDNzFHhXy_45.114484_-93.389475@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608606,
-    "wof:geomhash":"51f48739765409474d187f7952060ad0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bd3ab0cfc94b789fba62ae6c81b3c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213941
+        }
+    ],
     "wof:id":823213941,
-    "wof:lastmodified":1472629113,
+    "wof:lastmodified":1492829222,
     "wof:name":"McNallan Office Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.697836,45.631969,-93.697836,45.631969",
     "geom:latitude":45.631969,
     "geom:longitude":-93.697836,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512547,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Bh7vjN6GdktbCjSvsluCg_45.631969_-93.697836@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604314,
-    "wof:geomhash":"6cdd770ace0599be7036a8bde18dc1cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6961429cb171ac574f8614b28d0bbf60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512547,
+            "region_id":85688727,
+            "venue_id":807154375
+        }
+    ],
     "wof:id":807154375,
-    "wof:lastmodified":1472629284,
+    "wof:lastmodified":1492823945,
     "wof:name":"Carl Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

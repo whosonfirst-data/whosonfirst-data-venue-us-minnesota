@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539798,47.462309,-92.539798,47.462309",
     "geom:latitude":47.462309,
     "geom:longitude":-92.539798,
@@ -31,17 +32,26 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ddOGBbuFCXXTaGzUhtjTJ_47.462309_-92.539798@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598744,
-    "wof:geomhash":"8f49539c507f9603badfe6959b57ea1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7257a825715625affe77f80642b8593",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806513939
+        }
+    ],
     "wof:id":806513939,
-    "wof:lastmodified":1472629368,
+    "wof:lastmodified":1492819612,
     "wof:name":"Sportman's Bar",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

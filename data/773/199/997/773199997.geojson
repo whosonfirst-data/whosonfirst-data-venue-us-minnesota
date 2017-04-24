@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.958476,44.225172,-93.958476,44.225172",
     "geom:latitude":44.225172,
     "geom:longitude":-93.958476,
@@ -32,17 +33,32 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511539,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LYxVNXvEn7u0NEoz8ctHO_44.225172_-93.958476@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583931,
-    "wof:geomhash":"996ed3080f4e02b6b5b44bd2a4f961b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c7880d097a956cf0449c615cfcabd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511539,
+            "region_id":85688727,
+            "venue_id":773199997
+        }
+    ],
     "wof:id":773199997,
-    "wof:lastmodified":1472629957,
+    "wof:lastmodified":1492808562,
     "wof:name":"Monuments By Thomas Jm Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

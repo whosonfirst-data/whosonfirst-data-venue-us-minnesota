@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.846381,46.224059,-95.846381,46.224059",
     "geom:latitude":46.224059,
     "geom:longitude":-95.846381,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513057,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I32jf25xypHR1wmb4cJkf_46.224059_-95.846381@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604523,
-    "wof:geomhash":"9099cf44c5308dad9db8a4518017c332",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b460582d90e71c449aff1d2547cc5e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513057,
+            "region_id":85688727,
+            "venue_id":807173551
+        }
+    ],
     "wof:id":807173551,
-    "wof:lastmodified":1472629347,
+    "wof:lastmodified":1492825975,
     "wof:name":"Tim Moore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

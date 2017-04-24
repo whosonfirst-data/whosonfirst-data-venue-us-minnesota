@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.888663,45.378127,-92.888663,45.378127",
     "geom:latitude":45.378127,
     "geom:longitude":-92.888663,
@@ -32,17 +33,34 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NSeMYRhs1BuEjDNg4CDTz_45.378127_-92.888663@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593683,
-    "wof:geomhash":"2d3b20274a5b0c9c915d2dafc13c80bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee2e2c7f987e4455a9feb35fc733cb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":790169243
+        }
+    ],
     "wof:id":790169243,
-    "wof:lastmodified":1472629243,
+    "wof:lastmodified":1492832139,
     "wof:name":"Safe-Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

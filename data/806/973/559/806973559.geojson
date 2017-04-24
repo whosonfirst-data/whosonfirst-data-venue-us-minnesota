@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.32731,45.624486,-93.32731,45.624486",
     "geom:latitude":45.624486,
     "geom:longitude":-93.32731,
@@ -32,17 +33,32 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513121,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EnW0MjVq7Z3EaXmkz7D7E_45.624486_-93.327310@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602638,
-    "wof:geomhash":"641026bee4591517f1f5631df2290ff3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47ea37baae603be0d982785bea10278e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513121,
+            "region_id":85688727,
+            "venue_id":806973559
+        }
+    ],
     "wof:id":806973559,
-    "wof:lastmodified":1472629970,
+    "wof:lastmodified":1492818814,
     "wof:name":"Prudential Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

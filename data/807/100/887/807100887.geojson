@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.8287,44.769181,-93.8287,44.769181",
     "geom:latitude":44.769181,
     "geom:longitude":-93.8287,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509355,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TnOh8thxyXc7EkWYMQvKk_44.769181_-93.828700@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603742,
-    "wof:geomhash":"679a067a784260c05281af770338ea8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"228fca5a691fdfb6fc85aed5e28943d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404509355,
+            "region_id":85688727,
+            "venue_id":807100887
+        }
+    ],
     "wof:id":807100887,
-    "wof:lastmodified":1472629218,
+    "wof:lastmodified":1492824083,
     "wof:name":"Wickenhauser Ryland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

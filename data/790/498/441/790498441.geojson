@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.475115,45.329199,-94.475115,45.329199",
     "geom:latitude":45.329199,
     "geom:longitude":-94.475115,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510509,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wbzHTgtmKu4V1zrqXIwtU_45.329199_-94.475115@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596356,
-    "wof:geomhash":"2e79cc90ea7881ed327c7747290df5a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c4cbba7a07ddea216ea1e31af380f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510509,
+            "region_id":85688727,
+            "venue_id":790498441
+        }
+    ],
     "wof:id":790498441,
-    "wof:lastmodified":1472629771,
+    "wof:lastmodified":1492833654,
     "wof:name":"RES Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

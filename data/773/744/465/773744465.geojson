@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.325824,44.805215,-93.325824,44.805215",
     "geom:latitude":44.805215,
     "geom:longitude":-93.325824,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jJ9KP2DgXi0pi2BaffkIY_44.805215_-93.325824@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588059,
-    "wof:geomhash":"f2592e3a939be61d098a4d3393c65b8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b75e25737b3d054593ca7fee3cce078f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773744465
+        }
+    ],
     "wof:id":773744465,
-    "wof:lastmodified":1472630146,
+    "wof:lastmodified":1492804455,
     "wof:name":"Niedfeldt Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.718017,45.498792,-92.718017,45.498792",
     "geom:latitude":45.498792,
     "geom:longitude":-92.718017,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511105,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wsPohpqAQBoCZM5hF7lDv_45.498792_-92.718017@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589404,
-    "wof:geomhash":"debed925f40c48f1ef43cb4d1529eafb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3583150c7429f4ff1e71f9a06d49b415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511105,
+            "region_id":85688727,
+            "venue_id":789644167
+        }
+    ],
     "wof:id":789644167,
-    "wof:lastmodified":1472629072,
+    "wof:lastmodified":1492810048,
     "wof:name":"TUV Products Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

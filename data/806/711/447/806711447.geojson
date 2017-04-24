@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.388948,43.686035,-92.388948,43.686035",
     "geom:latitude":43.686035,
     "geom:longitude":-92.388948,
@@ -32,17 +33,34 @@
         "processor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514285,
+        85633793,
+        85953093,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qDrt9xWfhMZ1Ioo8u22AI_43.686035_-92.388948@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600429,
-    "wof:geomhash":"e6bde9f816dcdbb5be1b91efd5e3930a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5398cc0de2c1c647d7b23ff1870acc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514285,
+            "locality_id":85953093,
+            "region_id":85688727,
+            "venue_id":806711447
+        }
+    ],
     "wof:id":806711447,
-    "wof:lastmodified":1472629729,
+    "wof:lastmodified":1492820981,
     "wof:name":"Rochester Cheese Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

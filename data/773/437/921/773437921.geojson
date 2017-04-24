@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.053194,44.960281,-94.053194,44.960281",
     "geom:latitude":44.960281,
     "geom:longitude":-94.053194,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IodZsmp5NOZSQJ36RdtuG_44.960281_-94.053194@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585743,
-    "wof:geomhash":"8250683e42ca1240952b7d0a752731f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c1b863d7a3669966f012bb3b8fc25d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":773437921
+        }
+    ],
     "wof:id":773437921,
-    "wof:lastmodified":1472630054,
+    "wof:lastmodified":1492806653,
     "wof:name":"Harvest Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

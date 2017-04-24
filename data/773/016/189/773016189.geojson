@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.490969,44.04355,-92.490969,44.04355",
     "geom:latitude":44.04355,
     "geom:longitude":-92.490969,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ztLN5ptnzo2Qe4T5R9ypI_44.043550_-92.490969@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582414,
-    "wof:geomhash":"320265cd0e538e0f695b71eda50985d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca56b30aae597ed0ce5c1d4d2b4ccfbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773016189
+        }
+    ],
     "wof:id":773016189,
-    "wof:lastmodified":1472629068,
+    "wof:lastmodified":1492801127,
     "wof:name":"Maple Manor Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.411151,47.51152,-92.411151,47.51152",
     "geom:latitude":47.51152,
     "geom:longitude":-92.411151,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I4hRWxRguf9bbk2UQsdoh_47.511520_-92.411151@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591789,
-    "wof:geomhash":"586744a2163d820fab83b637ecdd5e55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46e09a322f99eca70c01812d615ce9d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":789940281
+        }
+    ],
     "wof:id":789940281,
-    "wof:lastmodified":1472629639,
+    "wof:lastmodified":1492813235,
     "wof:name":"City Of Mc Kinley",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

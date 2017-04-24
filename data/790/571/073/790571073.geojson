@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.188941,43.956566,-94.188941,43.956566",
     "geom:latitude":43.956566,
     "geom:longitude":-94.188941,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511573,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Rnt56WyABqj7lI80BnP04_43.956566_-94.188941@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596968,
-    "wof:geomhash":"7a85dc85fc7900aed333ad9ea8741ca8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8e6d16f11a67ff68714ee397ba4fd53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511573,
+            "region_id":85688727,
+            "venue_id":790571073
+        }
+    ],
     "wof:id":790571073,
-    "wof:lastmodified":1472629860,
+    "wof:lastmodified":1492836584,
     "wof:name":"Bob Pahl Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263161,45.015869,-93.263161,45.015869",
     "geom:latitude":45.015869,
     "geom:longitude":-93.263161,
@@ -46,12 +47,12 @@
     "wof:belongsto":[
         85872677,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607825,
-    "wof:geomhash":"8c3d04913fce59647ded0b81d1fb21b0",
+    "wof:geomhash":"a5430bbd9f3b2288479aac8b33d6c442",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,25 +68,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108800001,
             "neighbourhood_id":85872677,
-            "region_id":85688727,
-            "venue_id":823162119
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
             "region_id":85688727,
             "venue_id":823162119
         }
     ],
     "wof:id":823162119,
-    "wof:lastmodified":1472628981,
+    "wof:lastmodified":1492831032,
     "wof:name":"JJM Roofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

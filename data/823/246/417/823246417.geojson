@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.723018,44.94742,-95.723018,44.94742",
     "geom:latitude":44.94742,
     "geom:longitude":-95.723018,
@@ -38,17 +39,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xqprOSiwy5Wchuiat3cxd_44.947420_-95.723018@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609267,
-    "wof:geomhash":"9b1a7d7228774a020b1ae0a2f8052795",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c98a267d31b5267ec24e87fdb73fb7fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":823246417
+        }
+    ],
     "wof:id":823246417,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492829584,
     "wof:name":"Brellenthin Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

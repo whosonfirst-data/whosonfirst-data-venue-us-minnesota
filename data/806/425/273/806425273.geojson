@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.486154,44.841676,-93.486154,44.841676",
     "geom:latitude":44.841676,
     "geom:longitude":-93.486154,
@@ -28,17 +29,34 @@
     "sg:postcode":"55347",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aocYPYZk8F8BaYcHqftrw_44.841676_-93.486154@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598043,
-    "wof:geomhash":"44a35555dd9ab45c08c645e57667db1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66ec249d122a83475e5709d67927a619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":806425273
+        }
+    ],
     "wof:id":806425273,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492818175,
     "wof:name":"US Fleet Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

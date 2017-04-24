@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.370826,44.544445,-94.370826,44.544445",
     "geom:latitude":44.544445,
     "geom:longitude":-94.370826,
@@ -28,17 +29,34 @@
     "sg:postcode":"55396",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514061,
+        85633793,
+        85953255,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u5eK9CpELVM0vzjagkJ3l_44.544445_-94.370826@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599461,
-    "wof:geomhash":"f98df99ed5bffa24ea736d095c044011",
-    "wof:hierarchy":[],
+    "wof:geomhash":"874776a02e341bf0b80e35aab99129ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514061,
+            "locality_id":85953255,
+            "region_id":85688727,
+            "venue_id":806596739
+        }
+    ],
     "wof:id":806596739,
-    "wof:lastmodified":1472629530,
+    "wof:lastmodified":1492818972,
     "wof:name":"Bob Miner Pastor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.068815,48.859696,-95.068815,48.859696",
     "geom:latitude":48.859696,
     "geom:longitude":-95.068815,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512221,
+        85633793,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a2AJ2mlnrVnpDrNFiS5QI_48.859696_-95.068815@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587350,
-    "wof:geomhash":"10e0ecad146a2a461b9c1aa78dc39070",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ffea338dc750e8acb5e7d5cf4554040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404512221,
+            "region_id":85688727,
+            "venue_id":773653507
+        }
+    ],
     "wof:id":773653507,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492804574,
     "wof:name":"Far North Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

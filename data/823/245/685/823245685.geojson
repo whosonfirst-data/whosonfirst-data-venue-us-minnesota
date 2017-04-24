@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.799471,45.497753,-95.799471,45.497753",
     "geom:latitude":45.497753,
     "geom:longitude":-95.799471,
@@ -31,17 +32,34 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510827,
+        85633793,
+        85953233,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78p7nCPbTLEL2pPpg9KzwD_45.497753_-95.799471@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609255,
-    "wof:geomhash":"4b2d540252d28fc2c7af42a7173d58dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ca085a50c58fa9ff039e2314ac6d452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404510827,
+            "locality_id":85953233,
+            "region_id":85688727,
+            "venue_id":823245685
+        }
+    ],
     "wof:id":823245685,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492829423,
     "wof:name":"Klein Carpentry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

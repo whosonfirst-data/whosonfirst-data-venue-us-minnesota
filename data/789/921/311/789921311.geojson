@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.224252,45.079878,-93.224252,45.079878",
     "geom:latitude":45.079878,
     "geom:longitude":-93.224252,
@@ -28,17 +29,34 @@
     "sg:postcode":"55112",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GG9vWe8uFY5HCDiGz9Cya_45.079878_-93.224252@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591637,
-    "wof:geomhash":"0d14f2e305e4c63f0da484034eefc568",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8a394f2cf78d1198573cc17c6f9c0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":789921311
+        }
+    ],
     "wof:id":789921311,
-    "wof:lastmodified":1472629613,
+    "wof:lastmodified":1492812178,
     "wof:name":"Hazard Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

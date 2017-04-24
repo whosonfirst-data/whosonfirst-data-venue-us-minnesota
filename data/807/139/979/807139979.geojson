@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.907034,44.197504,-94.907034,44.197504",
     "geom:latitude":44.197504,
     "geom:longitude":-94.907034,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511577,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DyEq9EL3iPOYFN3dDzLkg_44.197504_-94.907034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604158,
-    "wof:geomhash":"6487a22c4c2f9a6e85241c878f207d7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f95177482096e535558270adf078a454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511577,
+            "region_id":85688727,
+            "venue_id":807139979
+        }
+    ],
     "wof:id":807139979,
-    "wof:lastmodified":1472629291,
+    "wof:lastmodified":1492822698,
     "wof:name":"Robert Meyer Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

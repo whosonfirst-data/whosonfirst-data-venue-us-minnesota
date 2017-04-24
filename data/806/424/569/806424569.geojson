@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.714825,44.29473,-95.714825,44.29473",
     "geom:latitude":44.29473,
     "geom:longitude":-95.714825,
@@ -36,17 +37,32 @@
         "transmitted"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512525,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PuEgOpkCNUJH3kbWgWjB4_44.294730_-95.714825@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598038,
-    "wof:geomhash":"bf3ef1ddeef090cba5e4a57e4b014044",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d358e772b9bf09f99c8b33cddea1f217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512525,
+            "region_id":85688727,
+            "venue_id":806424569
+        }
+    ],
     "wof:id":806424569,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492816031,
     "wof:name":"Mas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

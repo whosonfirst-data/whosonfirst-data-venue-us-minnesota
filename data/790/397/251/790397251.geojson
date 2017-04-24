@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.654802,45.755354,-93.654802,45.755354",
     "geom:latitude":45.755354,
     "geom:longitude":-93.654802,
@@ -31,17 +32,34 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512557,
+        85633793,
+        85969101,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V4jjKW4zG0PufGOuwCkV1_45.755354_-93.654802@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595516,
-    "wof:geomhash":"d5abff72d79996b5fb0d98a274db6c60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73ae48dc624f78ebf527dc5106b80e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512557,
+            "locality_id":85969101,
+            "region_id":85688727,
+            "venue_id":790397251
+        }
+    ],
     "wof:id":790397251,
-    "wof:lastmodified":1472629650,
+    "wof:lastmodified":1492835788,
     "wof:name":"Northern Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

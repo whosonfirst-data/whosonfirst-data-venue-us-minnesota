@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.167509,43.45472,-94.167509,43.45472",
     "geom:latitude":43.45472,
     "geom:longitude":-94.167509,
@@ -27,17 +28,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713,
+        102086311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sBmPp0nODtQ8oR9m8516r_43.454720_-94.167509@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603901,
-    "wof:geomhash":"35ebbc87f437d5f0480ac28e4a8a9e84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dccd8b55e57270b3e5cf0c584b6c86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086311,
+            "region_id":85688713,
+            "venue_id":807116255
+        }
+    ],
     "wof:id":807116255,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492825938,
     "wof:name":"Larry Pingel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

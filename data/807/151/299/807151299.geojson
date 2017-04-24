@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.755863,44.385051,-95.755863,44.385051",
     "geom:latitude":44.385051,
     "geom:longitude":-95.755863,
@@ -32,17 +33,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512651,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40DWZzdt06dWflk84DUMik_44.385051_-95.755863@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604285,
-    "wof:geomhash":"27f9ed26bc4008ccf5a5c0610f33fbc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed8dd22826cf9f71421ca86e1ef23a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512651,
+            "region_id":85688727,
+            "venue_id":807151299
+        }
+    ],
     "wof:id":807151299,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1492823385,
     "wof:name":"Harry Freeburg Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

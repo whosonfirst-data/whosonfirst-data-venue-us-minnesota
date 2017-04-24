@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.068425,44.774206,-95.068425,44.774206",
     "geom:latitude":44.774206,
     "geom:longitude":-95.068425,
@@ -28,17 +29,32 @@
     "sg:postcode":"56277",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512615,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mpwul9KRFN1EcS3Wni51F_44.774206_-95.068425@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592224,
-    "wof:geomhash":"0f13c162d9fd9382ead9429357a833bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d34461e7c67a0fda6b8ea8b405f441d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512615,
+            "region_id":85688727,
+            "venue_id":789986973
+        }
+    ],
     "wof:id":789986973,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492810307,
     "wof:name":"Dw Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

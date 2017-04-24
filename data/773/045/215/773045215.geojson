@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.327464,45.70565,-93.327464,45.70565",
     "geom:latitude":45.70565,
     "geom:longitude":-93.327464,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513115,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qchEq9xWlOTNs36s0MtsH_45.705650_-93.327464@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582703,
-    "wof:geomhash":"a98ea24fed77bc405dbad396d792d58c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f556ecb81cae37b672aff81963ae1450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513115,
+            "region_id":85688727,
+            "venue_id":773045215
+        }
+    ],
     "wof:id":773045215,
-    "wof:lastmodified":1472629355,
+    "wof:lastmodified":1492802025,
     "wof:name":"Nadeau Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

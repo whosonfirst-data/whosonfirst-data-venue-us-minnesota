@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.934438,43.775498,-94.934438,43.775498",
     "geom:latitude":43.775498,
     "geom:longitude":-94.934438,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509843,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a72ZMECeyZJ2s51YtHDpt_43.775498_-94.934438@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604643,
-    "wof:geomhash":"6eca499ac8be12f5ffcf3792d4e43c3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"678386ef9992c0cfb7e7d6afe8e282dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509843,
+            "region_id":85688727,
+            "venue_id":807185271
+        }
+    ],
     "wof:id":807185271,
-    "wof:lastmodified":1472629374,
+    "wof:lastmodified":1492824536,
     "wof:name":"Curtis Paulson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

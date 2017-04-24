@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.617514,46.475175,-93.617514,46.475175",
     "geom:latitude":46.475175,
     "geom:longitude":-93.617514,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511239,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZK4m7X9ByoHwEgemc2dXz_46.475175_-93.617514@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585823,
-    "wof:geomhash":"5f79a83c5286323346f50f5a2bbdd207",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fc03adbd49b9ef5a58810ce0949a898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511239,
+            "region_id":85688727,
+            "venue_id":773448103
+        }
+    ],
     "wof:id":773448103,
-    "wof:lastmodified":1472630054,
+    "wof:lastmodified":1492802800,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

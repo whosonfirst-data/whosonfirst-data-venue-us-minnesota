@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.405543,46.614568,-95.405543,46.614568",
     "geom:latitude":46.614568,
     "geom:longitude":-95.405543,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510347,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vUuuHwFn2P9Jd18glTidS_46.614568_-95.405543@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595098,
-    "wof:geomhash":"bed757e167185525e5dc8e811b58ef95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"348060f796c779b21e5e30d777ea63aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510347,
+            "region_id":85688727,
+            "venue_id":790344665
+        }
+    ],
     "wof:id":790344665,
-    "wof:lastmodified":1472629554,
+    "wof:lastmodified":1492836146,
     "wof:name":"Bruce Lubitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

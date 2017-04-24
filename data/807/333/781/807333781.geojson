@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.302552,45.341455,-94.302552,45.341455",
     "geom:latitude":45.341455,
     "geom:longitude":-94.302552,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514373,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZdoguQMFTEO6WO4NuPvhh_45.341455_-94.302552@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606246,
-    "wof:geomhash":"b245613f47d5b0b2242be217d044fdb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7088325087e3114a7473fd7a24a268d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514373,
+            "region_id":85688727,
+            "venue_id":807333781
+        }
+    ],
     "wof:id":807333781,
-    "wof:lastmodified":1472629741,
+    "wof:lastmodified":1492826223,
     "wof:name":"Larry Nystrom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

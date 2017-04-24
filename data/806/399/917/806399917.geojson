@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.578247,46.607175,-95.578247,46.607175",
     "geom:latitude":46.607175,
     "geom:longitude":-95.578247,
@@ -39,17 +40,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513041,
+        85633793,
+        85968709,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UGCIMM4sReO7bImjhIDHJ_46.607175_-95.578247@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597839,
-    "wof:geomhash":"a0355669e0dd452a77285e59406571fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8de98343ccda6cbf9e8ce72e8ed66a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513041,
+            "locality_id":85968709,
+            "region_id":85688727,
+            "venue_id":806399917
+        }
+    ],
     "wof:id":806399917,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492818105,
     "wof:name":"Underground Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

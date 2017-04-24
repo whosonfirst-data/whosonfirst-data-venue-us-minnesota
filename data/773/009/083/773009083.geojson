@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.454982,47.300666,-92.454982,47.300666",
     "geom:latitude":47.300666,
     "geom:longitude":-92.454982,
@@ -32,17 +33,26 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c41uUIZxUExRTcxL09I8n_47.300666_-92.454982@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582292,
-    "wof:geomhash":"73ba890fc4f3a75360a6a14e8b7fefbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4be4dc359f45c2d33d60d228204e5f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773009083
+        }
+    ],
     "wof:id":773009083,
-    "wof:lastmodified":1472628953,
+    "wof:lastmodified":1492802286,
     "wof:name":"National Property Inspections",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

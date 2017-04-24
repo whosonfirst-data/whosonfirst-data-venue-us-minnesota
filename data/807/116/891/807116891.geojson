@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.524666,44.621709,-93.524666,44.621709",
     "geom:latitude":44.621709,
     "geom:longitude":-93.524666,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514985,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tKXfDRs0KJ7DD4jyY5ivJ_44.621709_-93.524666@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603907,
-    "wof:geomhash":"66d33f265abe8de8927de2c029815a4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"915e5a6c5898ca14b55894e75eae5dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514985,
+            "region_id":85688727,
+            "venue_id":807116891
+        }
+    ],
     "wof:id":807116891,
-    "wof:lastmodified":1472629248,
+    "wof:lastmodified":1492825923,
     "wof:name":"Robert Bastyr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

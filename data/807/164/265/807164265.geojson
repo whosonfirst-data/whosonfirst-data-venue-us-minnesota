@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.491115,45.121647,-93.491115,45.121647",
     "geom:latitude":45.121647,
     "geom:longitude":-93.491115,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uxfUIOWXVwVR9ksoP0BOo_45.121521_-93.491112@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604420,
-    "wof:geomhash":"f0c65a6150cb8131b7106c93fe8fb2b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eae3bb86325abf9db911e5c24b3d45b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807164265
+        }
+    ],
     "wof:id":807164265,
-    "wof:lastmodified":1472629304,
+    "wof:lastmodified":1492823807,
     "wof:name":"Birchwood Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

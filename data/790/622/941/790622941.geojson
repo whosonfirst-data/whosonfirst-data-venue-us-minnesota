@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.878262,44.728676,-92.878262,44.728676",
     "geom:latitude":44.728676,
     "geom:longitude":-92.878262,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AuZ86yg3DzF2fbWYfTcL0_44.728676_-92.878262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597441,
-    "wof:geomhash":"5a466aacc280f9f469e152dc2f625df9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f66335794396ea6bf0edd18354fc3a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":790622941
+        }
+    ],
     "wof:id":790622941,
-    "wof:lastmodified":1472629924,
+    "wof:lastmodified":1492834955,
     "wof:name":"Mary Krizan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

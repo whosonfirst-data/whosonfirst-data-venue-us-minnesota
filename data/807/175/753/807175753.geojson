@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.701925,45.430901,-94.701925,45.430901",
     "geom:latitude":45.430901,
     "geom:longitude":-94.701925,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512165,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mhQHTrIHeOfc4ojeJinIJ_45.430901_-94.701925@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604544,
-    "wof:geomhash":"8ac40f027a6cd57a75d04fc96b32ebd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3ba4e60973612c3558aec12dc1f9ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512165,
+            "region_id":85688727,
+            "venue_id":807175753
+        }
+    ],
     "wof:id":807175753,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492825297,
     "wof:name":"William Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

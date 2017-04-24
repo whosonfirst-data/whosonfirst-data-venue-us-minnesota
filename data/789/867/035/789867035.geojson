@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.971386,45.817419,-92.971386,45.817419",
     "geom:latitude":45.817419,
     "geom:longitude":-92.971386,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513373,
+        85633793,
+        85953271,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ij6kUzXNQJKX1B5jjuHzC_45.817419_-92.971386@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591161,
-    "wof:geomhash":"29f1a7134ac9b82cc096ffe3c6d4a851",
-    "wof:hierarchy":[],
+    "wof:geomhash":"567fb912c3e906c396f25606f597a6bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513373,
+            "locality_id":85953271,
+            "region_id":85688727,
+            "venue_id":789867035
+        }
+    ],
     "wof:id":789867035,
-    "wof:lastmodified":1472629531,
+    "wof:lastmodified":1492812171,
     "wof:name":"Oak Park Dental Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.960256,44.151064,-94.960256,44.151064",
     "geom:latitude":44.151064,
     "geom:longitude":-94.960256,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509319,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VSEy7L4QShMx6GN6GRmYi_44.151064_-94.960256@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601255,
-    "wof:geomhash":"ecffb78a0a2d8511db5166129e9be3a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3c05137dd9a17a2539415a87c322783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509319,
+            "region_id":85688727,
+            "venue_id":806808809
+        }
+    ],
     "wof:id":806808809,
-    "wof:lastmodified":1472629848,
+    "wof:lastmodified":1492814381,
     "wof:name":"Richert Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

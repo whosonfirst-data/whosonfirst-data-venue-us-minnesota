@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.244757,46.368976,-95.244757,46.368976",
     "geom:latitude":46.368976,
     "geom:longitude":-95.244757,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512907,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qTQgouGmQROQ1wiiStkhX_46.368976_-95.244757@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586094,
-    "wof:geomhash":"fe2157c1bdff0d23bf889d1453ec1415",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5601648784288bcb82a5d5e81f12882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512907,
+            "region_id":85688727,
+            "venue_id":773483559
+        }
+    ],
     "wof:id":773483559,
-    "wof:lastmodified":1472630067,
+    "wof:lastmodified":1492807056,
     "wof:name":"Boe Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

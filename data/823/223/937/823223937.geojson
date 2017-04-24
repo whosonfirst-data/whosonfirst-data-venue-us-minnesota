@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.019936,47.777851,-93.019936,47.777851",
     "geom:latitude":47.777851,
     "geom:longitude":-93.019936,
@@ -38,17 +39,32 @@
         "brew"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510707,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ck7QJrqvwY7nltaDCQmsP_47.777851_-93.019936@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608818,
-    "wof:geomhash":"f2f96fe34b3099c389e980b42b8d2407",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef71fd59c828e9e7b421c3b8ee289022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510707,
+            "region_id":85688727,
+            "venue_id":823223937
+        }
+    ],
     "wof:id":823223937,
-    "wof:lastmodified":1472629116,
+    "wof:lastmodified":1492830897,
     "wof:name":"Viking Bar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

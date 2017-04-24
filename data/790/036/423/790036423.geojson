@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.870207,45.21456,-93.870207,45.21456",
     "geom:latitude":45.21456,
     "geom:longitude":-93.870207,
@@ -40,17 +41,32 @@
         "ins"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515187,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4koflPTOCb1p3RfKAbzenh_45.214560_-93.870207@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592616,
-    "wof:geomhash":"97daf263974e14cfb15302a8fdc28b46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60d9a6943d1156819cf4ce26edce29ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515187,
+            "region_id":85688727,
+            "venue_id":790036423
+        }
+    ],
     "wof:id":790036423,
-    "wof:lastmodified":1472629005,
+    "wof:lastmodified":1492836981,
     "wof:name":"Pentagon Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

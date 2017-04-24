@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.165698,43.768462,-94.165698,43.768462",
     "geom:latitude":43.768462,
     "geom:longitude":-94.165698,
@@ -28,17 +29,34 @@
     "sg:postcode":"56098",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509621,
+        85633793,
+        85952577,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xrvd7XXA4Zcgp2WvDjx0Z_43.768462_-94.165698@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599476,
-    "wof:geomhash":"f58e008689717701354ff0369051cb17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b1e5b4af4fb684f49015532806074f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509621,
+            "locality_id":85952577,
+            "region_id":85688727,
+            "venue_id":806598653
+        }
+    ],
     "wof:id":806598653,
-    "wof:lastmodified":1472629527,
+    "wof:lastmodified":1492818069,
     "wof:name":"Muir Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

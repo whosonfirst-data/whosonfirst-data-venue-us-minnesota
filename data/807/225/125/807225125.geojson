@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.542793,47.407169,-92.542793,47.407169",
     "geom:latitude":47.407169,
     "geom:longitude":-92.542793,
@@ -32,17 +33,26 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y0zYiZshFmw4MpdQa6D4y_47.407169_-92.542793@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605063,
-    "wof:geomhash":"f0c9f35bc7182ba81118dec4ad0531e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdb462cb4f3ca9e50f4a7c61f0fb4773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":807225125
+        }
+    ],
     "wof:id":807225125,
-    "wof:lastmodified":1472629435,
+    "wof:lastmodified":1492822165,
     "wof:name":"K And B Drive-in",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.449169,44.722394,-93.449169,44.722394",
     "geom:latitude":44.722394,
     "geom:longitude":-93.449169,
@@ -35,7 +36,8 @@
         85633793,
         85952535,
         102087041,
-        85688727
+        85688727,
+        85850591
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586315,
-    "wof:geomhash":"b64f0059379bc20bae01fc4ab194edae",
+    "wof:geomhash":"53cc3b2e070e9d5f6995945157ce4a80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +56,22 @@
             "neighbourhood_id":85822433,
             "region_id":85688727,
             "venue_id":773515605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515039,
+            "locality_id":85952535,
+            "neighbourhood_id":85850591,
+            "region_id":85688727,
+            "venue_id":773515605
         }
     ],
     "wof:id":773515605,
-    "wof:lastmodified":1472630078,
+    "wof:lastmodified":1492804828,
     "wof:name":"Renslow Trckg Ldscpg Blacktop",
-    "wof:parent_id":85822433,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

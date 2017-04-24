@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.724237,44.297888,-94.724237,44.297888",
     "geom:latitude":44.297888,
     "geom:longitude":-94.724237,
@@ -31,17 +32,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509331,
+        85633793,
+        85952697,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Nyn5VrO7gXWDZsUmjH0Bk_44.297888_-94.724237@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601723,
-    "wof:geomhash":"0aac5b3b7fac09a037350a583f5e5f1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"691767374e9b84b2facb277352b68d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509331,
+            "locality_id":85952697,
+            "region_id":85688727,
+            "venue_id":806863619
+        }
+    ],
     "wof:id":806863619,
-    "wof:lastmodified":1472629901,
+    "wof:lastmodified":1492819706,
     "wof:name":"Your Phone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

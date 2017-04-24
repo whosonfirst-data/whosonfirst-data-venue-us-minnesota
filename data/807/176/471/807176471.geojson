@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.634181,45.156051,-95.634181,45.156051",
     "geom:latitude":45.156051,
     "geom:longitude":-95.634181,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514683,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nvN4GssrluaRX2HzdkaGf_45.156051_-95.634181@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604551,
-    "wof:geomhash":"ec966b4223ebe21b084901118bd4b56f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35bc7ebec4162c37cb849da997263fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514683,
+            "region_id":85688727,
+            "venue_id":807176471
+        }
+    ],
     "wof:id":807176471,
-    "wof:lastmodified":1472629340,
+    "wof:lastmodified":1492822725,
     "wof:name":"Roger Goldenstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

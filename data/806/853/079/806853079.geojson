@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.029591,45.358435,-95.029591,45.358435",
     "geom:latitude":45.358435,
     "geom:longitude":-95.029591,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509871,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74mXJb3DbB2tURuUdE0xxI_45.358435_-95.029591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601633,
-    "wof:geomhash":"0b36db019931557e725d5b6d2c574483",
-    "wof:hierarchy":[],
+    "wof:geomhash":"124d23cbfd117d070a26f31ce66198f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509871,
+            "region_id":85688727,
+            "venue_id":806853079
+        }
+    ],
     "wof:id":806853079,
-    "wof:lastmodified":1472629897,
+    "wof:lastmodified":1492818994,
     "wof:name":"Garden Of Eatin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

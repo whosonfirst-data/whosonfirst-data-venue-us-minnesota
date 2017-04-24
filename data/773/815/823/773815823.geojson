@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.074503,46.283573,-96.074503,46.283573",
     "geom:latitude":46.283573,
     "geom:longitude":-96.074503,
@@ -33,17 +34,34 @@
         "information"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GXdZFCN1RI5T16hdA8XKD_46.283573_-96.074503@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588597,
-    "wof:geomhash":"29505e32c4d7f9bbd2ec9b9bed17877f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58f20699341921d3d3a2cda828730ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":773815823
+        }
+    ],
     "wof:id":773815823,
-    "wof:lastmodified":1472630166,
+    "wof:lastmodified":1492804560,
     "wof:name":"Center For The Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

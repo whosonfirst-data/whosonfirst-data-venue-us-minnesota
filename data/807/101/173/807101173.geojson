@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.976981,44.557834,-95.976981,44.557834",
     "geom:latitude":44.557834,
     "geom:longitude":-95.976981,
@@ -27,17 +28,34 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512663,
+        85633793,
+        85968533,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u7GBQpW7PxqJWlnF2GYfg_44.557834_-95.976981@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603746,
-    "wof:geomhash":"909b663d521d00d894ec403120763d2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e6f47e72760b4fafa7fdbecc5674db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512663,
+            "locality_id":85968533,
+            "region_id":85688727,
+            "venue_id":807101173
+        }
+    ],
     "wof:id":807101173,
-    "wof:lastmodified":1472629189,
+    "wof:lastmodified":1492822784,
     "wof:name":"Michael Sanow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

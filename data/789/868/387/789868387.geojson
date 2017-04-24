@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.188783,43.845534,-92.188783,43.845534",
     "geom:latitude":43.845534,
     "geom:longitude":-92.188783,
@@ -36,17 +37,34 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509629,
+        85633793,
+        85953187,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DnKmIDdAIgdzG4HusDLf5_43.845534_-92.188783@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591171,
-    "wof:geomhash":"456084540b08b37e1a3325a3e621f7f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08306d23cb58739631334b6ec8a409b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509629,
+            "locality_id":85953187,
+            "region_id":85688727,
+            "venue_id":789868387
+        }
+    ],
     "wof:id":789868387,
-    "wof:lastmodified":1472629537,
+    "wof:lastmodified":1492813581,
     "wof:name":"Jim's Accounting & Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

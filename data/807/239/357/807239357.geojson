@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278479,44.29467,-93.278479,44.29467",
     "geom:latitude":44.29467,
     "geom:longitude":-93.278479,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"http://www.medcityweb.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L1h1qLeiVpjnzYqEDCBTq_44.294670_-93.278479@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605203,
-    "wof:geomhash":"8fcc7f721961b478ab279425880c275b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cc24885b9df952343866b338d6221af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":807239357
+        }
+    ],
     "wof:id":807239357,
-    "wof:lastmodified":1472629503,
+    "wof:lastmodified":1492822545,
     "wof:name":"Med City Mobility",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

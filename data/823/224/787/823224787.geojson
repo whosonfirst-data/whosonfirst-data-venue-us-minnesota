@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.54001,47.463489,-92.54001,47.463489",
     "geom:latitude":47.463489,
     "geom:longitude":-92.54001,
@@ -33,17 +34,26 @@
         "pressure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52pmPEfcS5dONVv6mfQuty_47.463489_-92.540010@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608835,
-    "wof:geomhash":"098b8f903fcfdc49d25c7c3cc5c1d474",
-    "wof:hierarchy":[],
+    "wof:geomhash":"083508fa4c3a88d117aa963617e32a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224787
+        }
+    ],
     "wof:id":823224787,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492828766,
     "wof:name":"Aqua Power",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

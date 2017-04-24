@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.547735,44.805858,-95.547735,44.805858",
     "geom:latitude":44.805858,
     "geom:longitude":-95.547735,
@@ -34,17 +35,34 @@
         "impaired"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515275,
+        85633793,
+        85952945,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S0lBSywh7EJGTkb6TLUK5_44.805858_-95.547735@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596414,
-    "wof:geomhash":"4b3f6698effb813b4d5943e79d64fdae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fd41067c74638f155840a0e7f93dda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515275,
+            "locality_id":85952945,
+            "region_id":85688727,
+            "venue_id":790505295
+        }
+    ],
     "wof:id":790505295,
-    "wof:lastmodified":1472629784,
+    "wof:lastmodified":1492832792,
     "wof:name":"Willmar Hearing Aid Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

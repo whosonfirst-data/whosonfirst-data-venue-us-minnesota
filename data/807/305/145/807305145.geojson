@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.540138,44.863249,-93.540138,44.863249",
     "geom:latitude":44.863249,
     "geom:longitude":-93.540138,
@@ -33,17 +34,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HsJzF0Lr1wmTvvATGNBIT_44.863249_-93.540138@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605905,
-    "wof:geomhash":"194f75af3d6c39074230ede900cd6dff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fe3b71561a7dbd03b5287e63899a551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":807305145
+        }
+    ],
     "wof:id":807305145,
-    "wof:lastmodified":1472629653,
+    "wof:lastmodified":1492826950,
     "wof:name":"City of Chanhassen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

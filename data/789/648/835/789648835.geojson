@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.537987,46.52574,-94.537987,46.52574",
     "geom:latitude":46.52574,
     "geom:longitude":-94.537987,
@@ -32,17 +33,32 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509395,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CjAJR7IQwErLj0MHFStSg_46.525740_-94.537987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589442,
-    "wof:geomhash":"8ce88bcc6ec0edc3aaf3115377787f55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03918bd4d4c57448f55472260a5139e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509395,
+            "region_id":85688727,
+            "venue_id":789648835
+        }
+    ],
     "wof:id":789648835,
-    "wof:lastmodified":1472629103,
+    "wof:lastmodified":1492810625,
     "wof:name":"Active TV & Antenna Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

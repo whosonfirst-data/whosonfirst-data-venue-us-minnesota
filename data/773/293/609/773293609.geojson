@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.821455,44.20185,-93.821455,44.20185",
     "geom:latitude":44.20185,
     "geom:longitude":-93.821455,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509307,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RzZnT35rgWE4stU7jeArc_44.201850_-93.821455@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584627,
-    "wof:geomhash":"50aa2b7630bcfc06610d331a6e61560d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e78d99a74542f370862d13146d6bde1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404509307,
+            "region_id":85688727,
+            "venue_id":773293609
+        }
+    ],
     "wof:id":773293609,
-    "wof:lastmodified":1472630021,
+    "wof:lastmodified":1492804529,
     "wof:name":"Nelson Garage Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

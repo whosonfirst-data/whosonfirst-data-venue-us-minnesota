@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.204246,45.050093,-93.204246,45.050093",
     "geom:latitude":45.050093,
     "geom:longitude":-93.204246,
@@ -36,17 +37,34 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7blxVKtfCJOxBznbOhr8UW_45.050093_-93.204246@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599480,
-    "wof:geomhash":"acfdc861c355c514394f6e8ad14d23fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e28bd93688cb70c34a40c2ce5d02f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":806599187
+        }
+    ],
     "wof:id":806599187,
-    "wof:lastmodified":1472629528,
+    "wof:lastmodified":1492815032,
     "wof:name":"All-American Engineering & Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.867607,45.38612,-92.867607,45.38612",
     "geom:latitude":45.38612,
     "geom:longitude":-92.867607,
@@ -26,17 +27,32 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58TDYgjN9itwtNt5aRxsn0_45.386120_-92.867607@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604477,
-    "wof:geomhash":"130251bac1504641c91459049708bb90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7ce936f0e2b81fd4540ef95be99646e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":807169147
+        }
+    ],
     "wof:id":807169147,
-    "wof:lastmodified":1472629316,
+    "wof:lastmodified":1492823007,
     "wof:name":"M & L Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

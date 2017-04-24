@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.236579,45.122177,-93.236579,45.122177",
     "geom:latitude":45.122177,
     "geom:longitude":-93.236579,
@@ -28,17 +29,34 @@
     "sg:postcode":"55432",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511125,
+        85633793,
+        85953013,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3chvDyi8PLZMovox1HyMVo_45.122177_-93.236579@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589026,
-    "wof:geomhash":"303582fa8b9559efebcc06dc5b41f18c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae226f26e76c0521f45e90292e12287f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511125,
+            "locality_id":85953013,
+            "region_id":85688727,
+            "venue_id":789595743
+        }
+    ],
     "wof:id":789595743,
-    "wof:lastmodified":1472628968,
+    "wof:lastmodified":1492812316,
     "wof:name":"Don's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

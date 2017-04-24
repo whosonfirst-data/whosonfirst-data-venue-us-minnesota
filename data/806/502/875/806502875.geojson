@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.944009,46.825918,-95.944009,46.825918",
     "geom:latitude":46.825918,
     "geom:longitude":-95.944009,
@@ -31,17 +32,32 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511131,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rcF9CMhuad4sf5j9HRDjj_46.825918_-95.944009@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598657,
-    "wof:geomhash":"38467f55aa7414d0b1c66b0ab01b5516",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e2e35a2c60d838285596610508594d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511131,
+            "region_id":85688727,
+            "venue_id":806502875
+        }
+    ],
     "wof:id":806502875,
-    "wof:lastmodified":1472629316,
+    "wof:lastmodified":1492813964,
     "wof:name":"Big Dog Little Dog",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

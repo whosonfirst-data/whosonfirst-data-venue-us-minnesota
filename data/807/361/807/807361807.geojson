@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.271698,44.977402,-93.271698,44.977402",
     "geom:latitude":44.977402,
     "geom:longitude":-93.271698,
@@ -42,8 +43,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800095,
         85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
@@ -56,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606682,
-    "wof:geomhash":"22390dcf4b7369a13f15d39a8fa16fc7",
+    "wof:geomhash":"8a166ec8e3e70879f8bd1699662a2fcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,15 +67,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799999,
+            "microhood_id":1108800095,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":807361807
         }
     ],
     "wof:id":807361807,
-    "wof:lastmodified":1472629833,
+    "wof:lastmodified":1492825770,
     "wof:name":"Gaviidae Common",
-    "wof:parent_id":85872619,
+    "wof:parent_id":1108800095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

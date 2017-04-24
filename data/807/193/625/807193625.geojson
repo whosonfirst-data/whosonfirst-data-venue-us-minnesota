@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.524784,44.526431,-96.524784,44.526431",
     "geom:latitude":44.526431,
     "geom:longitude":-96.524784,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688693,
+        102191575,
+        404488777,
+        85633793,
+        102086013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qfHkKUZVXU5UWp974Ro6y_44.526431_-96.524784@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604730,
-    "wof:geomhash":"4e818f6acb7210f61f4e50919640b674",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c863754fc55668380e7e0f3680b4f3b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086013,
+            "localadmin_id":404488777,
+            "region_id":85688693,
+            "venue_id":807193625
+        }
+    ],
     "wof:id":807193625,
-    "wof:lastmodified":1472629405,
+    "wof:lastmodified":1492823901,
     "wof:name":"Larry Olson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

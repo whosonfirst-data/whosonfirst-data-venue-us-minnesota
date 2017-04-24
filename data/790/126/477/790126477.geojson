@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.047405,46.68266,-96.047405,46.68266",
     "geom:latitude":46.68266,
     "geom:longitude":-96.047405,
@@ -39,17 +40,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512741,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qpfdwxihn5qIFSJCdmvac_46.682660_-96.047405@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593337,
-    "wof:geomhash":"bbfade53e3c46bf92aa93e2d4d7241bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"284705f0a4ba9900beaaf36a46cd8ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512741,
+            "region_id":85688727,
+            "venue_id":790126477
+        }
+    ],
     "wof:id":790126477,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492836058,
     "wof:name":"Kvare Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

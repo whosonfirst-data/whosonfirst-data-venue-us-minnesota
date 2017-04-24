@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.754534,43.809267,-91.754534,43.809267",
     "geom:latitude":43.809267,
     "geom:longitude":-91.754534,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"www.semcac.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HUIGwn2BxPfAx44ZLsMgt_43.809267_-91.754534@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589609,
-    "wof:geomhash":"3d1092e735c1c1388509fb49014489e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d2b4cf95d5a2e4c94308249f9a54f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":789667319
+        }
+    ],
     "wof:id":789667319,
-    "wof:lastmodified":1472629131,
+    "wof:lastmodified":1492813544,
     "wof:name":"SEMCAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

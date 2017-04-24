@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.959575,46.268421,-95.959575,46.268421",
     "geom:latitude":46.268421,
     "geom:longitude":-95.959575,
@@ -31,17 +32,32 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512737,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iVWXENaS6BaSCDi8B9qjD_46.268421_-95.959575@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590847,
-    "wof:geomhash":"29bb2f42ad9cde1b4ae904d3b5b118ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf18e6a3840c2a303b4851bf6fb60258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512737,
+            "region_id":85688727,
+            "venue_id":789827137
+        }
+    ],
     "wof:id":789827137,
-    "wof:lastmodified":1472629422,
+    "wof:lastmodified":1492813403,
     "wof:name":"Elks Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

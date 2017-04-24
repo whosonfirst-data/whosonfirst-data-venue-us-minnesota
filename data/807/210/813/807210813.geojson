@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.752215,45.638145,-94.752215,45.638145",
     "geom:latitude":45.638145,
     "geom:longitude":-94.752215,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510513,
+        85633793,
+        85952479,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YcnbO9uA3rddBW5EyJN7Y_45.638145_-94.752215@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604907,
-    "wof:geomhash":"1ce0b38f0b6cd3139c972c549b464dfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f444f836a872d73618f55e933495514b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510513,
+            "locality_id":85952479,
+            "region_id":85688727,
+            "venue_id":807210813
+        }
+    ],
     "wof:id":807210813,
-    "wof:lastmodified":1472629422,
+    "wof:lastmodified":1492823557,
     "wof:name":"Evergreen Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.893758,44.847797,-94.893758,44.847797",
     "geom:latitude":44.847797,
     "geom:longitude":-94.893758,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512483,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hWIBig15Si1NQVEfnHt3u_44.847797_-94.893758@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604519,
-    "wof:geomhash":"ca5aaf12cc2a5348218bf1dbcf0a92f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba83e2d92f79ce379b682a49339736c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512483,
+            "region_id":85688727,
+            "venue_id":807173317
+        }
+    ],
     "wof:id":807173317,
-    "wof:lastmodified":1472629332,
+    "wof:lastmodified":1492825973,
     "wof:name":"Steve Gass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

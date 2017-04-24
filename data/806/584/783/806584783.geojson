@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.755606,47.583665,-95.755606,47.583665",
     "geom:latitude":47.583665,
     "geom:longitude":-95.755606,
@@ -28,17 +29,34 @@
     "sg:postcode":"56542",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KXeWCvDinzaQZUfmdtHgH_47.583665_-95.755606@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599352,
-    "wof:geomhash":"111af7dbb4002d00b2cf1064d468177c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b5f892e03fdfa299ba6607a029ff9ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":806584783
+        }
+    ],
     "wof:id":806584783,
-    "wof:lastmodified":1472629493,
+    "wof:lastmodified":1492818295,
     "wof:name":"Rick Stapleton Rev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

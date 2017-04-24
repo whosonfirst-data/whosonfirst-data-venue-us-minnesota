@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.505821,44.988991,-93.505821,44.988991",
     "geom:latitude":44.988991,
     "geom:longitude":-93.505821,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vR1V9WM5HOF7CE8QaOmHU_44.988991_-93.505821@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602732,
-    "wof:geomhash":"8ddd0e493f8bdaac9fa7960ab6a27ea8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7895aba51f655c5f6dd1372797566bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":806984453
+        }
+    ],
     "wof:id":806984453,
-    "wof:lastmodified":1472629980,
+    "wof:lastmodified":1492815306,
     "wof:name":"Tom Dierks Sysco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

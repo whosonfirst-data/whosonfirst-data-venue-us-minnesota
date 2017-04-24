@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.31077,44.333388,-93.31077,44.333388",
     "geom:latitude":44.333388,
     "geom:longitude":-93.31077,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wBR1EzD2buOZscc44YexV_44.333388_-93.310770@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598253,
-    "wof:geomhash":"52ac8ae61fdd2dfb7c73da3db5626051",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd0b0a17318ab0fdd1eca0d695779539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":806451285
+        }
+    ],
     "wof:id":806451285,
-    "wof:lastmodified":1472629154,
+    "wof:lastmodified":1492814933,
     "wof:name":"Lawrence Perron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

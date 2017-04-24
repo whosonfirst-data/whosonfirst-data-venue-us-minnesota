@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.371781,45.981205,-94.371781,45.981205",
     "geom:latitude":45.981205,
     "geom:longitude":-94.371781,
@@ -33,17 +34,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EGGfsoFDuOjHdaVIsVb7P_45.981205_-94.371781@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598684,
-    "wof:geomhash":"cc6cb1aef5c723357825d2a3482bc2ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6fd6710e54b586070911543b1add78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":806506619
+        }
+    ],
     "wof:id":806506619,
-    "wof:lastmodified":1472629321,
+    "wof:lastmodified":1492816098,
     "wof:name":"Tilesmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

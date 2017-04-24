@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.675099,46.465131,-94.675099,46.465131",
     "geom:latitude":46.465131,
     "geom:longitude":-94.675099,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511629,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Yp7EIfYYf1mbxEE6KGNVh_46.465131_-94.675099@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588562,
-    "wof:geomhash":"13f65b4f7afa1e34d51d134a2d1bb1b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"452844b541a19834aa946adeb09b2285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511629,
+            "region_id":85688727,
+            "venue_id":773810759
+        }
+    ],
     "wof:id":773810759,
-    "wof:lastmodified":1472630167,
+    "wof:lastmodified":1492808477,
     "wof:name":"Larry Adams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

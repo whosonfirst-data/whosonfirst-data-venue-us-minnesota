@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.280322,44.457437,-93.280322,44.457437",
     "geom:latitude":44.457437,
     "geom:longitude":-93.280322,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512621,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hHVUfV3X5s4wZorbEZq36_44.457437_-93.280322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604845,
-    "wof:geomhash":"f0b098c73c28fa864537e05de41edb04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5de1ca34b9b85ab626b7ad9ac723ebc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512621,
+            "region_id":85688727,
+            "venue_id":807204895
+        }
+    ],
     "wof:id":807204895,
-    "wof:lastmodified":1472629425,
+    "wof:lastmodified":1492823495,
     "wof:name":"Michael Ludwig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

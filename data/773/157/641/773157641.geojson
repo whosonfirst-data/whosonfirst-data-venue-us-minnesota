@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.503987,47.239174,-93.503987,47.239174",
     "geom:latitude":47.239174,
     "geom:longitude":-93.503987,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462583574,
-    "wof:geomhash":"274d1eb12bd928bf4c8bf46911918461",
+    "wof:geomhash":"eb4392805814fb53efc2fe46fc9a9188",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":773157641,
-    "wof:lastmodified":1472629735,
+    "wof:lastmodified":1492804793,
     "wof:name":"Housing Support Program",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

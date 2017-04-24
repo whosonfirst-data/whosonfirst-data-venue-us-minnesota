@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.745833,44.219222,-94.745833,44.219222",
     "geom:latitude":44.219222,
     "geom:longitude":-94.745833,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511475,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_765xpXL0LVRxWFhrdivQIo_44.219222_-94.745833@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604799,
-    "wof:geomhash":"48d09f8ffe99410075e57717a6386925",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b38f6b0477a61289a595aa7b93794fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511475,
+            "region_id":85688727,
+            "venue_id":807200229
+        }
+    ],
     "wof:id":807200229,
-    "wof:lastmodified":1472629387,
+    "wof:lastmodified":1492823443,
     "wof:name":"Cunningham Seed Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

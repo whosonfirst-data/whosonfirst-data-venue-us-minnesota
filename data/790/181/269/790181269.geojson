@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.766276,45.344211,-93.766276,45.344211",
     "geom:latitude":45.344211,
     "geom:longitude":-93.766276,
@@ -32,17 +33,34 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515185,
+        85633793,
+        85968829,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40Y3ZAS6KIXyVg52Kq2KM9_45.344211_-93.766276@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593784,
-    "wof:geomhash":"a8f6a141560f5f8cc417d285b79a365e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daf8d4067744353befaba7c94dc29400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515185,
+            "locality_id":85968829,
+            "region_id":85688727,
+            "venue_id":790181269
+        }
+    ],
     "wof:id":790181269,
-    "wof:lastmodified":1472629244,
+    "wof:lastmodified":1492835934,
     "wof:name":"Fairfax Asphalt Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

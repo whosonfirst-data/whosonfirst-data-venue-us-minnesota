@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.876277,45.173878,-93.876277,45.173878",
     "geom:latitude":45.173878,
     "geom:longitude":-93.876277,
@@ -31,17 +32,34 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WpsQ58ng28ZFcPhYDTkqd_45.173878_-93.876277@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594449,
-    "wof:geomhash":"a81e378c0294d386bbaefc08ce546ee8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"706da3cece05cc140fb1c1e206bd552a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":790263185
+        }
+    ],
     "wof:id":790263185,
-    "wof:lastmodified":1472629388,
+    "wof:lastmodified":1492834826,
     "wof:name":"Peterson Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

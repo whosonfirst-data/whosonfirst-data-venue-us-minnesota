@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.328205,45.793249,-93.328205,45.793249",
     "geom:latitude":45.793249,
     "geom:longitude":-93.328205,
@@ -29,17 +30,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513623,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CMUWSGpxbRqTOmodRALhV_45.793249_-93.328205@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604152,
-    "wof:geomhash":"ad22bac893a20e48ab9ab0efa11b5723",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7c8efbed3814d6a96d56ebcfb67d225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513623,
+            "region_id":85688727,
+            "venue_id":807139373
+        }
+    ],
     "wof:id":807139373,
-    "wof:lastmodified":1472629274,
+    "wof:lastmodified":1492822701,
     "wof:name":"Rick Stromberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

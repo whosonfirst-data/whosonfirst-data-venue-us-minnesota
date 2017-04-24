@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.018858,43.518342,-96.018858,43.518342",
     "geom:latitude":43.518342,
     "geom:longitude":-96.018858,
@@ -38,17 +39,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510259,
+        85633793,
+        85968669,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2agq21lvqiYtIzL69iKVTB_43.518342_-96.018858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597874,
-    "wof:geomhash":"1c1f8c82c3b516d226f92a47438f3d48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c972de4c098b6d2dcbded609e33711b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510259,
+            "locality_id":85968669,
+            "region_id":85688727,
+            "venue_id":806404953
+        }
+    ],
     "wof:id":806404953,
-    "wof:lastmodified":1472629066,
+    "wof:lastmodified":1492816585,
     "wof:name":"Ellsworth Senior Citizens Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

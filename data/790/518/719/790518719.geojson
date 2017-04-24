@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.587863,46.260983,-96.587863,46.260983",
     "geom:latitude":46.260983,
     "geom:longitude":-96.587863,
@@ -32,17 +33,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514997,
+        85633793,
+        85952501,
+        102087021
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2M8tVDWc00l7DdCUjrZy8T_46.260983_-96.587863@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596533,
-    "wof:geomhash":"aaae2484ede2385ccdb9851a56ae1f18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93b47a261fb6e1f9f5696da0cb277e86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087021,
+            "localadmin_id":404514997,
+            "locality_id":85952501,
+            "region_id":85688727,
+            "venue_id":790518719
+        }
+    ],
     "wof:id":790518719,
-    "wof:lastmodified":1472629797,
+    "wof:lastmodified":1492835422,
     "wof:name":"United States Dept of Army",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.528187,43.791697,-93.528187,43.791697",
     "geom:latitude":43.791697,
     "geom:longitude":-93.528187,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514409,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xtUuv6MgKALop8aJiEnYs_43.791697_-93.528187@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609136,
-    "wof:geomhash":"24258dba139022354680300e9415c4c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f3859ead1c8d3b8f928ab3ee41ac67c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514409,
+            "region_id":85688727,
+            "venue_id":823239245
+        }
+    ],
     "wof:id":823239245,
-    "wof:lastmodified":1472629136,
+    "wof:lastmodified":1492828330,
     "wof:name":"Steve Ausen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

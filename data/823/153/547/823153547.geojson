@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.341632,44.956093,-93.341632,44.956093",
     "geom:latitude":44.956093,
     "geom:longitude":-93.341632,
@@ -31,17 +32,34 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X1oOoT5rBigoLWfY3sEbp_44.956093_-93.341632@1303262827"
     },
     "wof:country":"US",
     "wof:created":1462607714,
-    "wof:geomhash":"91a3c7679413eb0ce5794bc992f9a217",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f023942af13dba27623ea1abb5371d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823153547
+        }
+    ],
     "wof:id":823153547,
-    "wof:lastmodified":1472628958,
+    "wof:lastmodified":1492828461,
     "wof:name":"Betty Kohn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

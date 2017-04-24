@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.793904,47.448025,-96.793904,47.448025",
     "geom:latitude":47.448025,
     "geom:longitude":-96.793904,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512307,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xDdC6i5aAqsXkdBzHdC1C_47.448025_-96.793904@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604102,
-    "wof:geomhash":"77b2743d436985a7490e0eefc8ed52f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ca068a63c68b794e5d936c360aa2ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512307,
+            "region_id":85688727,
+            "venue_id":807134489
+        }
+    ],
     "wof:id":807134489,
-    "wof:lastmodified":1472629259,
+    "wof:lastmodified":1492823286,
     "wof:name":"Richard Stene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

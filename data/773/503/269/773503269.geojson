@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.149783,45.572184,-94.149783,45.572184",
     "geom:latitude":45.572184,
     "geom:longitude":-94.149783,
@@ -33,17 +34,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wKWd6UbrKYYs96UHzGquG_45.572184_-94.149783@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586227,
-    "wof:geomhash":"b63f6622687af8161e087fffe27b0c95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26efd4fc812fb4adaabd49460fa8639d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773503269
+        }
+    ],
     "wof:id":773503269,
-    "wof:lastmodified":1472630076,
+    "wof:lastmodified":1492801457,
     "wof:name":"Ferguson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

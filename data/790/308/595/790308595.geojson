@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.646061,44.920138,-93.646061,44.920138",
     "geom:latitude":44.920138,
     "geom:longitude":-93.646061,
@@ -31,17 +32,34 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511891,
+        85633793,
+        85969151,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oFlNjOuWzv5X6wyfvvyuU_44.920138_-93.646061@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594837,
-    "wof:geomhash":"0640a1fed6082fe0bf48e71eaa0abc4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5469be7966b40fa6ec313364a69e9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511891,
+            "locality_id":85969151,
+            "region_id":85688727,
+            "venue_id":790308595
+        }
+    ],
     "wof:id":790308595,
-    "wof:lastmodified":1472629503,
+    "wof:lastmodified":1492833106,
     "wof:name":"Design Tree",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

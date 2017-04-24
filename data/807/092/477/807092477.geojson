@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.664742,44.335936,-94.664742,44.335936",
     "geom:latitude":44.335936,
     "geom:longitude":-94.664742,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511589,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AIKniKw2pWyhmEDOthJWs_44.335936_-94.664742@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603639,
-    "wof:geomhash":"9fbb69418c7b75fe2733bb64a738b46d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c323a6c7fefe47851ea25225e9ca396f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511589,
+            "region_id":85688727,
+            "venue_id":807092477
+        }
+    ],
     "wof:id":807092477,
-    "wof:lastmodified":1472629144,
+    "wof:lastmodified":1492823264,
     "wof:name":"Larry Helget",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

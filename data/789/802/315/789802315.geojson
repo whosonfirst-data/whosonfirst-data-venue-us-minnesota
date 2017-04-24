@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218336,43.444029,-93.218336,43.444029",
     "geom:latitude":43.444029,
     "geom:longitude":-93.218336,
@@ -31,17 +32,32 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Hs1zIs03NaHiPzfwNFqqS_43.444029_-93.218336@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590657,
-    "wof:geomhash":"ca2cf5d22188e6af0ec7e4f2dec89fa8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"981384418ad5517892bb2bb7bf9d0d55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":789802315
+        }
+    ],
     "wof:id":789802315,
-    "wof:lastmodified":1472629379,
+    "wof:lastmodified":1492813210,
     "wof:name":"Clerk Of District Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

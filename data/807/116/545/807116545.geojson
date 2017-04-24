@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.352578,44.354522,-93.352578,44.354522",
     "geom:latitude":44.354522,
     "geom:longitude":-93.352578,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512763,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SSnoqRBTY5VVwEqr2ZhgM_44.354522_-93.352578@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603904,
-    "wof:geomhash":"a66b089d82aac771a9b10261ab01a2d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f495a528a0642a492427fc703d193703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512763,
+            "region_id":85688727,
+            "venue_id":807116545
+        }
+    ],
     "wof:id":807116545,
-    "wof:lastmodified":1472629236,
+    "wof:lastmodified":1492825930,
     "wof:name":"Kenneth Brazil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

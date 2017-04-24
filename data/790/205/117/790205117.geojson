@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.54364,47.460626,-92.54364,47.460626",
     "geom:latitude":47.460626,
     "geom:longitude":-92.54364,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Rwe8QgwnAXLh898k9ONWx_47.460626_-92.543640@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593995,
-    "wof:geomhash":"9c7ece1ed5f503a02b8483917a922a23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4cda1639c7b5284e59a7bd1c97bb242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790205117
+        }
+    ],
     "wof:id":790205117,
-    "wof:lastmodified":1472629290,
+    "wof:lastmodified":1492834445,
     "wof:name":"Eveleth Sewage Treatment Plant",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

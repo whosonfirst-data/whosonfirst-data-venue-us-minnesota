@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.651552,48.741792,-94.651552,48.741792",
     "geom:latitude":48.741792,
     "geom:longitude":-94.651552,
@@ -33,17 +34,32 @@
         "site"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512219,
+        85633793,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GhSy2gAwTL6S6ZuIt9FO6_48.741792_-94.651552@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590268,
-    "wof:geomhash":"2cc547e5fd863fbf1ca9554d0c1288c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e51c54400788ad919a620e68ffb1d0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404512219,
+            "region_id":85688727,
+            "venue_id":789752067
+        }
+    ],
     "wof:id":789752067,
-    "wof:lastmodified":1472629292,
+    "wof:lastmodified":1492812793,
     "wof:name":"Anchor Bay Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

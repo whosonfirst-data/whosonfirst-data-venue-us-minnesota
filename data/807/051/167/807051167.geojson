@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.127552,44.973047,-93.127552,44.973047",
     "geom:latitude":44.973047,
     "geom:longitude":-93.127552,
@@ -34,11 +35,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        420525031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,23 +48,33 @@
     },
     "wof:country":"US",
     "wof:created":1462603296,
-    "wof:geomhash":"250048f7f931992e59303b07aca3214f",
+    "wof:geomhash":"2357a13e0f81d96ca763ec138bac5184",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":807051167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":420525031,
             "region_id":85688727,
             "venue_id":807051167
         }
     ],
     "wof:id":807051167,
-    "wof:lastmodified":1472629023,
+    "wof:lastmodified":1492827739,
     "wof:name":"Simple Elegance Catering",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.763458,48.837952,-95.763458,48.837952",
     "geom:latitude":48.837952,
     "geom:longitude":-95.763458,
@@ -32,17 +33,34 @@
         "card"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ywJZcdsBw5F4NcB758v8A_48.837952_-95.763458@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609557,
-    "wof:geomhash":"bc2e024767c965fbaeca31851e65ac34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7bdf026a45d0465fd6b60ff2b87966b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":823260259
+        }
+    ],
     "wof:id":823260259,
-    "wof:lastmodified":1472629205,
+    "wof:lastmodified":1492828533,
     "wof:name":"Cougs Cards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

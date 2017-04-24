@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.123675,44.929775,-93.123675,44.929775",
     "geom:latitude":44.929775,
     "geom:longitude":-93.123675,
@@ -32,19 +33,40 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JB9cQDYEu5MO3EOfc8ak9_44.929775_-93.123675@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599144,
-    "wof:geomhash":"4ddfbd9a3f646100f4a2200a2bd8a753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be928dd8cdd6954d4310455aac0a99bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":806562217
+        }
+    ],
     "wof:id":806562217,
-    "wof:lastmodified":1472629445,
+    "wof:lastmodified":1492818500,
     "wof:name":"Gopher State Ethanol LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

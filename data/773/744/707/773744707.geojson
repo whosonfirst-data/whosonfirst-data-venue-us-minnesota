@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.055206,44.92997,-96.055206,44.92997",
     "geom:latitude":44.92997,
     "geom:longitude":-96.055206,
@@ -31,17 +32,34 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514319,
+        85633793,
+        85968989,
+        102087677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aU1Ity1YiAWYbD3UEk2hY_44.929970_-96.055206@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588060,
-    "wof:geomhash":"de6526fce3369b2fcd4a66584dafc6d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"523e280f289001031257661cbb9acd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087677,
+            "localadmin_id":404514319,
+            "locality_id":85968989,
+            "region_id":85688727,
+            "venue_id":773744707
+        }
+    ],
     "wof:id":773744707,
-    "wof:lastmodified":1472630148,
+    "wof:lastmodified":1492804459,
     "wof:name":"ACI Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.397416,45.063291,-93.397416,45.063291",
     "geom:latitude":45.063291,
     "geom:longitude":-93.397416,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gn9iWG7i5i23vdSOGVKJN_45.063291_-93.397416@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584572,
-    "wof:geomhash":"870c03ac4dfa863e87a82d03c80ff574",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70e465f89ad8d496bea7177571894a12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":773286337
+        }
+    ],
     "wof:id":773286337,
-    "wof:lastmodified":1472629999,
+    "wof:lastmodified":1492799542,
     "wof:name":"Cook Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

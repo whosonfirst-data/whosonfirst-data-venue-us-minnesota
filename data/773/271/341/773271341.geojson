@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.553053,44.893271,-93.553053,44.893271",
     "geom:latitude":44.893271,
     "geom:longitude":-93.553053,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pfL40QPd33JFagfOWUchN_44.893271_-93.553053@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584452,
-    "wof:geomhash":"f70938dee30a551a86c968020097bc56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44449cc1ef65cf8bffda0d25cead888b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":773271341
+        }
+    ],
     "wof:id":773271341,
-    "wof:lastmodified":1472629996,
+    "wof:lastmodified":1492803435,
     "wof:name":"St Zeppy Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

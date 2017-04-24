@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.21845,43.45087,-93.21845,43.45087",
     "geom:latitude":43.45087,
     "geom:longitude":-93.21845,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hS5TNO5ECcg9ucAl6Uq7W_43.450870_-93.218450@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601263,
-    "wof:geomhash":"370215ea261908e9890dab9c2229481c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4aa3ac9ad7c1bf7365a44bc030656266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":806809669
+        }
+    ],
     "wof:id":806809669,
-    "wof:lastmodified":1472629848,
+    "wof:lastmodified":1492818649,
     "wof:name":"Lutheran Retirement Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

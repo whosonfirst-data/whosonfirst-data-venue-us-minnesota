@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.584289,44.761972,-93.584289,44.761972",
     "geom:latitude":44.761972,
     "geom:longitude":-93.584289,
@@ -32,17 +33,32 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514989,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32Yu659OVruemCosS5oS2G_44.761972_-93.584289@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606386,
-    "wof:geomhash":"9b456ea4b0cbd6e79b5f0f5216152a56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6404ba2fd1ee5805864b07b2f27835c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514989,
+            "region_id":85688727,
+            "venue_id":807342789
+        }
+    ],
     "wof:id":807342789,
-    "wof:lastmodified":1472629775,
+    "wof:lastmodified":1492827919,
     "wof:name":"Body by Bob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

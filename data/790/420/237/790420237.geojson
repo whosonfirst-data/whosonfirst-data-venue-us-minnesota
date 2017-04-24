@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.750594,43.983027,-95.750594,43.983027",
     "geom:latitude":43.983027,
     "geom:longitude":-95.750594,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513321,
+        85633793,
+        85952743,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vhtHE0CD9Kw1xIcCCFDwO_43.983027_-95.750594@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595680,
-    "wof:geomhash":"51b2f3b90e84e19aad16e9a801b5a51e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e50dd005254d546ff1b3da4eb3c1f6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513321,
+            "locality_id":85952743,
+            "region_id":85688727,
+            "venue_id":790420237
+        }
+    ],
     "wof:id":790420237,
-    "wof:lastmodified":1472629689,
+    "wof:lastmodified":1492832650,
     "wof:name":"Cotton Luverne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

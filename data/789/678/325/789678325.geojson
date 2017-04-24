@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.472211,45.125781,-95.472211,45.125781",
     "geom:latitude":45.125781,
     "geom:longitude":-95.472211,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509087,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VNDDS9mvDcy3q6ykRvxOh_45.125781_-95.472211@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589687,
-    "wof:geomhash":"a4dd52e07d6c963ec0ba964c63010793",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b22256696f7263b7b4b547e0cbcf8038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509087,
+            "region_id":85688727,
+            "venue_id":789678325
+        }
+    ],
     "wof:id":789678325,
-    "wof:lastmodified":1472629152,
+    "wof:lastmodified":1492811271,
     "wof:name":"Brian Suter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223642,44.097943,-93.223642,44.097943",
     "geom:latitude":44.097943,
     "geom:longitude":-93.223642,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ezingf1L9Jo6ZEIBfwF53_44.097943_-93.223642@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605348,
-    "wof:geomhash":"e9a0537bae379fbfc4d31dea81162968",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b063a156e41724063bb51d606431f4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":807252425
+        }
+    ],
     "wof:id":807252425,
-    "wof:lastmodified":1472629511,
+    "wof:lastmodified":1492826119,
     "wof:name":"Bob Stewart Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.615889,43.632598,-95.615889,43.632598",
     "geom:latitude":43.632598,
     "geom:longitude":-95.615889,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r3OM6CDE6eMgYD8H3TzcH_43.632598_-95.615889@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584980,
-    "wof:geomhash":"9e59079a3cc5d0542486b95a2d471cbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"040bbd44f79a3d9c636f8db8ca504ec2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":773339741
+        }
+    ],
     "wof:id":773339741,
-    "wof:lastmodified":1472630017,
+    "wof:lastmodified":1492804239,
     "wof:name":"George L Bents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

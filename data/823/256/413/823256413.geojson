@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769175,46.8346,-96.769175,46.8346",
     "geom:latitude":46.8346,
     "geom:longitude":-96.769175,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877349,
+        102191575,
+        404511077,
         85633793,
         85968969,
         102087681,
-        85877349
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,11 +52,13 @@
     },
     "wof:country":"US",
     "wof:created":1462609466,
-    "wof:geomhash":"a0b5ec8cd85359565324070536086b1c",
+    "wof:geomhash":"ddafb395cb0e172ca4569fcbf9068fa9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087681,
+            "localadmin_id":404511077,
             "locality_id":85968969,
             "neighbourhood_id":85877349,
             "region_id":85688727,
@@ -61,7 +66,7 @@
         }
     ],
     "wof:id":823256413,
-    "wof:lastmodified":1472629207,
+    "wof:lastmodified":1492828700,
     "wof:name":"Center Avenue Properties",
     "wof:parent_id":85877349,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580623,44.853924,-93.580623,44.853924",
     "geom:latitude":44.853924,
     "geom:longitude":-93.580623,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WpDAXxjIZ7rhfINTPWawj_44.853924_-93.580623@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603761,
-    "wof:geomhash":"29914da31972d33253e461219d45f196",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c36da9b020540e8919b7ab9e960ca49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":807102699
+        }
+    ],
     "wof:id":807102699,
-    "wof:lastmodified":1472629211,
+    "wof:lastmodified":1492826731,
     "wof:name":"South Fork Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

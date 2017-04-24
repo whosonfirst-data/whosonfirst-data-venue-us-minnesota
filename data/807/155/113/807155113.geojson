@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.071939,44.180914,-94.071939,44.180914",
     "geom:latitude":44.180914,
     "geom:longitude":-94.071939,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513327,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CSNDQZ5NDBdVO3JNn6W8p_44.180914_-94.071939@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604322,
-    "wof:geomhash":"1db782cbea0d17ec337a2443c010b6fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"114b335687e9e54f7fc6e633da80dae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513327,
+            "region_id":85688727,
+            "venue_id":807155113
+        }
+    ],
     "wof:id":807155113,
-    "wof:lastmodified":1472629285,
+    "wof:lastmodified":1492826816,
     "wof:name":"Quentin Peterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

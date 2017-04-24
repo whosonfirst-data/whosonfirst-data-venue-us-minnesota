@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.929959,43.558966,-94.929959,43.558966",
     "geom:latitude":43.558966,
     "geom:longitude":-94.929959,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513607,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61pUsNBaycIluZdBCyF1Ou_43.558966_-94.929959@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604614,
-    "wof:geomhash":"d58b517c0678baa78731e70f6b25102f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c047638dfaa9fe8e637d7f2d76fe2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513607,
+            "region_id":85688727,
+            "venue_id":807182891
+        }
+    ],
     "wof:id":807182891,
-    "wof:lastmodified":1472629373,
+    "wof:lastmodified":1492823221,
     "wof:name":"James Najt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

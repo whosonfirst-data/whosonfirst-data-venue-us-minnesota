@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.964428,44.997864,-92.964428,44.997864",
     "geom:latitude":44.997864,
     "geom:longitude":-92.964428,
@@ -31,17 +32,34 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514913,
+        85633793,
+        85953565,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rA7zLSfisjpAd6rC2Tc1c_44.997864_-92.964428@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582922,
-    "wof:geomhash":"c43bcbdb9c3a8f81753e797b3808fe24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9694cbc6e7fac145a14377734a872d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514913,
+            "locality_id":85953565,
+            "region_id":85688727,
+            "venue_id":773068093
+        }
+    ],
     "wof:id":773068093,
-    "wof:lastmodified":1472629451,
+    "wof:lastmodified":1492805561,
     "wof:name":"State Patrol Hdqrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

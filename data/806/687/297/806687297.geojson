@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.797413,48.253414,-96.797413,48.253414",
     "geom:latitude":48.253414,
     "geom:longitude":-96.797413,
@@ -32,17 +33,32 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510169,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LuL1ecSW1pnkowIuaaypp_48.253414_-96.797413@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600232,
-    "wof:geomhash":"be3274c1f5dcc07b4a83f639f3091a95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2a91e8c56f0de67c14bfaab9d34e71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510169,
+            "region_id":85688727,
+            "venue_id":806687297
+        }
+    ],
     "wof:id":806687297,
-    "wof:lastmodified":1472629692,
+    "wof:lastmodified":1492817686,
     "wof:name":"Luna Grain Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

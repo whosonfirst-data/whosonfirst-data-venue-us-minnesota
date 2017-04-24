@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.399951,44.836794,-93.399951,44.836794",
     "geom:latitude":44.836794,
     "geom:longitude":-93.399951,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BaGIQqVpwQKOBhdMfjBtw_44.836794_-93.399951@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594945,
-    "wof:geomhash":"ca146e7d086025f830d34f146fb9e37f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c5dd44fc8007d4d1fc03c4a852d826e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":790323467
+        }
+    ],
     "wof:id":790323467,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492836825,
     "wof:name":"Parkway Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

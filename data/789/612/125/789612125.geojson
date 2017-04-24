@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.405418,44.366161,-93.405418,44.366161",
     "geom:latitude":44.366161,
     "geom:longitude":-93.405418,
@@ -31,17 +32,32 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512645,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PqYMAusWEV5QLtmMGKWsf_44.366161_-93.405418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589153,
-    "wof:geomhash":"19f6774d56f8598c8c04dac5dd374632",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4f88f2d1db8e3bc80c268ac236b4082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512645,
+            "region_id":85688727,
+            "venue_id":789612125
+        }
+    ],
     "wof:id":789612125,
-    "wof:lastmodified":1472629004,
+    "wof:lastmodified":1492809376,
     "wof:name":"Lodge Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

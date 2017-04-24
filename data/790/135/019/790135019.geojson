@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.882468,47.485548,-92.882468,47.485548",
     "geom:latitude":47.485548,
     "geom:longitude":-92.882468,
@@ -31,17 +32,36 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ym5BfAPzh4ldj1M59GAFj_47.485548_-92.882468@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593394,
-    "wof:geomhash":"790397c8ef4712a208d97cdd854a10be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d48583c26a71996aaf4c6238328ef008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":790135019
+        }
+    ],
     "wof:id":790135019,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492833111,
     "wof:name":"Hall Investment Group Inc",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

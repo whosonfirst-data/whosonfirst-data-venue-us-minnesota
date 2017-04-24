@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538422,47.466887,-92.538422,47.466887",
     "geom:latitude":47.466887,
     "geom:longitude":-92.538422,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hlBlsleXmuZtFMiu8QXge_47.466887_-92.538422@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603068,
-    "wof:geomhash":"0e9828b77438a4eea07540f8b2fd54b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97a3af663ee13dc96086fba37987465e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":807023905
+        }
+    ],
     "wof:id":807023905,
-    "wof:lastmodified":1472629004,
+    "wof:lastmodified":1492824611,
     "wof:name":"M S Roofing Plus",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

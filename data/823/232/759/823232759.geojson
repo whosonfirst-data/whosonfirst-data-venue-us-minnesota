@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.938763,44.076545,-91.938763,44.076545",
     "geom:latitude":44.076545,
     "geom:longitude":-91.938763,
@@ -33,17 +34,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515033,
+        85633793,
+        85969011,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Udx2GyyRrhSRRNJaf9xLD_44.076545_-91.938763@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609011,
-    "wof:geomhash":"b1cf92372d0cbfe624ceeb3584b755ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e989fb44274be90247d6fffe321258f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515033,
+            "locality_id":85969011,
+            "region_id":85688727,
+            "venue_id":823232759
+        }
+    ],
     "wof:id":823232759,
-    "wof:lastmodified":1472629155,
+    "wof:lastmodified":1492828096,
     "wof:name":"City Of Altura",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

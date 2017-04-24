@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.766486,48.999432,-95.766486,48.999432",
     "geom:latitude":48.999432,
     "geom:longitude":-95.766486,
@@ -32,17 +33,32 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512937,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ATyjZhEhQEhazeUxI7eB7_48.999432_-95.766486@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598418,
-    "wof:geomhash":"f26c2794bc9560c083570bfba346742b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d96f5e369b1a41918323208e178a06e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512937,
+            "region_id":85688727,
+            "venue_id":806474333
+        }
+    ],
     "wof:id":806474333,
-    "wof:lastmodified":1472629243,
+    "wof:lastmodified":1492820734,
     "wof:name":"UPS Supply Chain Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

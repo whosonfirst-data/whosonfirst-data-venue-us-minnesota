@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.693082,43.697318,-95.693082,43.697318",
     "geom:latitude":43.697318,
     "geom:longitude":-95.693082,
@@ -31,17 +32,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510257,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50zbhETddyGeDlKRO4hXty_43.697318_-95.693082@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586603,
-    "wof:geomhash":"9cdce9bdce95d932df1430a606557745",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3a35343f7d1a0362c4ad9fbf2b31d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510257,
+            "region_id":85688727,
+            "venue_id":773554361
+        }
+    ],
     "wof:id":773554361,
-    "wof:lastmodified":1472630089,
+    "wof:lastmodified":1492806910,
     "wof:name":"Reading Head Start",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.947941,45.74155,-94.947941,45.74155",
     "geom:latitude":45.74155,
     "geom:longitude":-94.947941,
@@ -33,17 +34,34 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512153,
+        85633793,
+        85952509,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F6FNzW8m6Ts3bf8X1Gi2b_45.741550_-94.947941@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587367,
-    "wof:geomhash":"62863512f173dd6d0614b13b770eb85f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bef408bd7ff33df739f0ebcd325e8a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512153,
+            "locality_id":85952509,
+            "region_id":85688727,
+            "venue_id":773656121
+        }
+    ],
     "wof:id":773656121,
-    "wof:lastmodified":1472630117,
+    "wof:lastmodified":1492801792,
     "wof:name":"Sauk Centre Street Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

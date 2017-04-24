@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.181363,43.839207,-92.181363,43.839207",
     "geom:latitude":43.839207,
     "geom:longitude":-92.181363,
@@ -33,17 +34,34 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509629,
+        85633793,
+        85953187,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CJk4fUQWSFK3n30d49kBH_43.839207_-92.181363@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590857,
-    "wof:geomhash":"0db6e2f7bec7de8559dfe360805ef98c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"570c3124a4c0c684ca711515f6225b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509629,
+            "locality_id":85953187,
+            "region_id":85688727,
+            "venue_id":789828005
+        }
+    ],
     "wof:id":789828005,
-    "wof:lastmodified":1472629422,
+    "wof:lastmodified":1492810407,
     "wof:name":"Greenway Svc Center-Bulk Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.041087,45.155063,-95.041087,45.155063",
     "geom:latitude":45.155063,
     "geom:longitude":-95.041087,
@@ -31,17 +32,34 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KNOMFSQrvfbWLaTKWgxOi_45.155063_-95.041087@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609224,
-    "wof:geomhash":"d698b4ce851a5d4ce9d41cb2f176ee6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fbaa1763e5f11c3bc9dabc1dd8704bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":823244253
+        }
+    ],
     "wof:id":823244253,
-    "wof:lastmodified":1472629153,
+    "wof:lastmodified":1492831000,
     "wof:name":"Carlson Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

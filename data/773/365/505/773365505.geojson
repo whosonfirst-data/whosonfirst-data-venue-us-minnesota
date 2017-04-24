@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.597218,47.766861,-96.597218,47.766861",
     "geom:latitude":47.766861,
     "geom:longitude":-96.597218,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tB4uqsd2WdSUecfloK29C_47.766861_-96.597218@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585149,
-    "wof:geomhash":"04c47a498f5ae8ddf37204fc70d8793e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7aba45b92b7e453d33b4d59f13456bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":773365505
+        }
+    ],
     "wof:id":773365505,
-    "wof:lastmodified":1472630030,
+    "wof:lastmodified":1492804062,
     "wof:name":"First Christn Reformed Church",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

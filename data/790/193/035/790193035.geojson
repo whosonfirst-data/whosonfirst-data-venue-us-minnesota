@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.072691,46.614938,-96.072691,46.614938",
     "geom:latitude":46.614938,
     "geom:longitude":-96.072691,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513039,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nXe6lXDOvslOgcKbd5VIZ_46.614938_-96.072691@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593880,
-    "wof:geomhash":"16246f52f1a7a11307ee3d6178f4200c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8339cbc1c730ba3e8b4b017fc11707c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513039,
+            "region_id":85688727,
+            "venue_id":790193035
+        }
+    ],
     "wof:id":790193035,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492833306,
     "wof:name":"Gehrig Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

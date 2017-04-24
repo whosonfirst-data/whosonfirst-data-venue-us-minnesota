@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.440527,44.007137,-92.440527,44.007137",
     "geom:latitude":44.007137,
     "geom:longitude":-92.440527,
@@ -33,17 +34,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ltf02NcfEipIyRxDtVfhT_44.007137_-92.440527@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605080,
-    "wof:geomhash":"422c2977c909c971160b2bf70f012965",
-    "wof:hierarchy":[],
+    "wof:geomhash":"086f07cb717374a72c3a2ef435414151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":807226415
+        }
+    ],
     "wof:id":807226415,
-    "wof:lastmodified":1472629441,
+    "wof:lastmodified":1492827242,
     "wof:name":"Casey's General Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

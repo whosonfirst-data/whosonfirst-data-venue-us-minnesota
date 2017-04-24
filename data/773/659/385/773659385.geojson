@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.106949,44.92079,-93.106949,44.92079",
     "geom:latitude":44.92079,
     "geom:longitude":-93.106949,
@@ -33,19 +34,40 @@
         "veil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800635,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DOOVSHQlbw98xpLfTEFDg_44.920790_-93.106949@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587388,
-    "wof:geomhash":"887e0591be9208fbafa1b7bb0755961e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4084c7b282b87e797d106e090260342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800635,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773659385
+        }
+    ],
     "wof:id":773659385,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492800905,
     "wof:name":"Angels Halo",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

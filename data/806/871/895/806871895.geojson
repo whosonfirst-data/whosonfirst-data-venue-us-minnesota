@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.386414,46.019218,-94.386414,46.019218",
     "geom:latitude":46.019218,
     "geom:longitude":-94.386414,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512709,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aO2VZjv94RuYJCOs5HcG8_46.019218_-94.386414@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601785,
-    "wof:geomhash":"55ce35c8610b900dafddee4bce7a2497",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80fc0988b18c68c782de39bb9e65511f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512709,
+            "region_id":85688727,
+            "venue_id":806871895
+        }
+    ],
     "wof:id":806871895,
-    "wof:lastmodified":1472629919,
+    "wof:lastmodified":1492817065,
     "wof:name":"Gary Josephson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

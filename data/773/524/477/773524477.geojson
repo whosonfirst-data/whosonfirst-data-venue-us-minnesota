@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.761083,44.450453,-95.761083,44.450453",
     "geom:latitude":44.450453,
     "geom:longitude":-95.761083,
@@ -31,17 +32,34 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KcHvEgIomCjETKzHowdwb_44.450453_-95.761083@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586375,
-    "wof:geomhash":"2eb92a436f5dee15c4e56d629efa5087",
-    "wof:hierarchy":[],
+    "wof:geomhash":"331a1188648aed3d0b209ddadf856271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":773524477
+        }
+    ],
     "wof:id":773524477,
-    "wof:lastmodified":1472630079,
+    "wof:lastmodified":1492803720,
     "wof:name":"Lyon Soil Wtr Conservation Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.000231,45.336459,-93.000231,45.336459",
     "geom:latitude":45.336459,
     "geom:longitude":-93.000231,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MzoHoWWW8SwWwDC5P9lBa_45.336459_-93.000231@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601454,
-    "wof:geomhash":"9e8878722235c6eb6e35f0a480e1757b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06e072d6f67238d537285e2d22888b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":806833567
+        }
+    ],
     "wof:id":806833567,
-    "wof:lastmodified":1472629867,
+    "wof:lastmodified":1492815184,
     "wof:name":"Wyoming City Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

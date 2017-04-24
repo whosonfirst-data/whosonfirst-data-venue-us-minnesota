@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.385844,44.880668,-94.385844,44.880668",
     "geom:latitude":44.880668,
     "geom:longitude":-94.385844,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75LQXmuRXI5I4tNulFZh1T_44.880668_-94.385844@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582506,
-    "wof:geomhash":"f0f124408da9d8fd3bd6f9070244ddea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0316ed51cc480015eff55f945ddafae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773024111
+        }
+    ],
     "wof:id":773024111,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1492808841,
     "wof:name":"Structure Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

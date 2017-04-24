@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.410764,45.14349,-93.410764,45.14349",
     "geom:latitude":45.14349,
     "geom:longitude":-93.410764,
@@ -28,17 +29,34 @@
     "sg:postcode":"55369",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Svy5i11PukNvCFOtGeJn0_45.143490_-93.410764@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589176,
-    "wof:geomhash":"d9e78af28d7ab393bf1d9100b28e0289",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f4fd1bcecd5531195afa391ed68f35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789615003
+        }
+    ],
     "wof:id":789615003,
-    "wof:lastmodified":1472629019,
+    "wof:lastmodified":1492811017,
     "wof:name":"O'Keefe & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

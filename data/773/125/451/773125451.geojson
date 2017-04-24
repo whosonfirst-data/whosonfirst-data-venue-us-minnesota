@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.983498,45.33646,-92.983498,45.33646",
     "geom:latitude":45.33646,
     "geom:longitude":-92.983498,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yddjPd9gQ2c4t4H2oaxl4_45.336460_-92.983498@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583331,
-    "wof:geomhash":"c41bf017074cdd3a63ec86273621d413",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f42a2448ebb3bb4ba2feed622902992f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773125451
+        }
+    ],
     "wof:id":773125451,
-    "wof:lastmodified":1472629656,
+    "wof:lastmodified":1492807948,
     "wof:name":"Denman Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

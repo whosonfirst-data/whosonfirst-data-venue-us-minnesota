@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.35788,43.979845,-96.35788,43.979845",
     "geom:latitude":43.979845,
     "geom:longitude":-96.35788,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513533,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qCZEbHvgCK7di9JNC670V_43.979845_-96.357880@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583488,
-    "wof:geomhash":"ebb6f4aede824ff5fb1050877ae71a98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7466b9927399d8a4b7f4a9cf3bef3d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513533,
+            "region_id":85688727,
+            "venue_id":773147993
+        }
+    ],
     "wof:id":773147993,
-    "wof:lastmodified":1472629744,
+    "wof:lastmodified":1492805778,
     "wof:name":"Brian Raatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

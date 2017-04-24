@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.928195,44.415344,-94.928195,44.415344",
     "geom:latitude":44.415344,
     "geom:longitude":-94.928195,
@@ -33,17 +34,34 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512181,
+        85633793,
+        85968803,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NosKfYdOpe1p1Rj2bfyq5_44.415311_-94.928254@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603705,
-    "wof:geomhash":"9d17a4ca832d6767e91dee143a72a16c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"902269ebee25dde95455799bc8b4a476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512181,
+            "locality_id":85968803,
+            "region_id":85688727,
+            "venue_id":807098513
+        }
+    ],
     "wof:id":807098513,
-    "wof:lastmodified":1472629199,
+    "wof:lastmodified":1492827297,
     "wof:name":"City Of Morgan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

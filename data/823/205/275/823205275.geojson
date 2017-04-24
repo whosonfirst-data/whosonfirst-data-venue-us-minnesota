@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.324677,44.88312,-93.324677,44.88312",
     "geom:latitude":44.88312,
     "geom:longitude":-93.324677,
@@ -32,17 +33,34 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AwJelY0WIqtFTo6TCFf5q_44.883120_-93.324677@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608448,
-    "wof:geomhash":"4a664431aa88bc43f7d95b703bf2c7d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d04cb9c232ab14f2690b5fae0adbd3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823205275
+        }
+    ],
     "wof:id":823205275,
-    "wof:lastmodified":1472629052,
+    "wof:lastmodified":1492829918,
     "wof:name":"Structure",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

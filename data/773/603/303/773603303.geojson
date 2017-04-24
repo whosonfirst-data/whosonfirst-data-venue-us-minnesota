@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.905964,44.622409,-93.905964,44.622409",
     "geom:latitude":44.622409,
     "geom:longitude":-93.905964,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514047,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4G3X7qyaUQfbRmo9dp7knb_44.622409_-93.905964@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586964,
-    "wof:geomhash":"5fe73fec51ecf48f6dc3f1a4576d7391",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2212ee00bd83bfcc6e42f9a9b04b57c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514047,
+            "region_id":85688727,
+            "venue_id":773603303
+        }
+    ],
     "wof:id":773603303,
-    "wof:lastmodified":1472630107,
+    "wof:lastmodified":1492807340,
     "wof:name":"Walter Schense",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

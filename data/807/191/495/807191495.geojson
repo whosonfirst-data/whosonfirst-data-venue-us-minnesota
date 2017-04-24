@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.907344,44.111954,-94.907344,44.111954",
     "geom:latitude":44.111954,
     "geom:longitude":-94.907344,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509321,
+        85633793,
+        85952717,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lVcfYoUgdSLL74C6xcKo9_44.111954_-94.907344@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604704,
-    "wof:geomhash":"0521ef3e0637e1b9ccd74b7aa0bb715d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"841c41873ac6e4c31f2a78c6982049f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509321,
+            "locality_id":85952717,
+            "region_id":85688727,
+            "venue_id":807191495
+        }
+    ],
     "wof:id":807191495,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492826441,
     "wof:name":"Orville Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

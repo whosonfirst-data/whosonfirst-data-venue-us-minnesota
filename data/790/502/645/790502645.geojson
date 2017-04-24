@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.623835,44.228784,-95.623835,44.228784",
     "geom:latitude":44.228784,
     "geom:longitude":-95.623835,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01Jn571BISP9pa1rJnZICv_44.228784_-95.623835@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596390,
-    "wof:geomhash":"25f3dcdce729dcd6903af014377ba552",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82bbbae8e32fe44f6b4cbaf344358462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":790502645
+        }
+    ],
     "wof:id":790502645,
-    "wof:lastmodified":1472629789,
+    "wof:lastmodified":1492831340,
     "wof:name":"Brockway-Brown Veterinary Clnc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

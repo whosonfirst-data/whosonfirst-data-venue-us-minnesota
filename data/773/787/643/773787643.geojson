@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.962763,44.702353,-93.962763,44.702353",
     "geom:latitude":44.702353,
     "geom:longitude":-93.962763,
@@ -31,17 +32,32 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514059,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cbRKG8LBUfWWBWoGfiv4n_44.702353_-93.962763@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588371,
-    "wof:geomhash":"527eaa2e027079234524908e17e8a9f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61036f671fb1af7b78e41a2af0b3b0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514059,
+            "region_id":85688727,
+            "venue_id":773787643
+        }
+    ],
     "wof:id":773787643,
-    "wof:lastmodified":1472630160,
+    "wof:lastmodified":1492800372,
     "wof:name":"A & M Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

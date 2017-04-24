@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.29283,44.999151,-93.29283,44.999151",
     "geom:latitude":44.999151,
     "geom:longitude":-93.29283,
@@ -39,14 +40,14 @@
     "sg:website":"http://www.bankersmediagroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872691,
+        85872625,
         102191575,
+        1108799979,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872625
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607471,
-    "wof:geomhash":"9a1d7cc9d53a57b37861520329168a9d",
+    "wof:geomhash":"00b86f96ffe234cc8355f38ef749968b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,25 +63,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872691,
-            "region_id":85688727,
-            "venue_id":823138181
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799979,
             "neighbourhood_id":85872625,
             "region_id":85688727,
             "venue_id":823138181
         }
     ],
     "wof:id":823138181,
-    "wof:lastmodified":1472628934,
+    "wof:lastmodified":1492829240,
     "wof:name":"Varnado Printing Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872625,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

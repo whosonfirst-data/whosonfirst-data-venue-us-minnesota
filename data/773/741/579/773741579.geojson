@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.605989,43.891628,-92.605989,43.891628",
     "geom:latitude":43.891628,
     "geom:longitude":-92.605989,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510313,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TqZcQeAgg8XSorNSKcx5U_43.891628_-92.605989@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588031,
-    "wof:geomhash":"2e2af5473f0d025819cf2312c644b832",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4def8b72388641eed1aaaba7aff6421a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510313,
+            "region_id":85688727,
+            "venue_id":773741579
+        }
+    ],
     "wof:id":773741579,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1492807174,
     "wof:name":"Golden Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.847657,45.58705,-93.847657,45.58705",
     "geom:latitude":45.58705,
     "geom:longitude":-93.847657,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511457,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AfWaV6vrLumJxCa8bTr3g_45.587050_-93.847657@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602902,
-    "wof:geomhash":"7b6d381aefb08232e5f06dd5fc431d19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dca00c9b881b9d1aa89cfae89e524e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511457,
+            "region_id":85688727,
+            "venue_id":807005545
+        }
+    ],
     "wof:id":807005545,
-    "wof:lastmodified":1472628940,
+    "wof:lastmodified":1492824065,
     "wof:name":"Dl Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

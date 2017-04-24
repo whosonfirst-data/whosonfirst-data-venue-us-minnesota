@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.902667,45.594554,-95.902667,45.594554",
     "geom:latitude":45.594554,
     "geom:longitude":-95.902667,
@@ -33,17 +34,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k9PnvrXy7v7K76RnvogZX_45.594554_-95.902667@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591186,
-    "wof:geomhash":"bffa525f63477981b6af814e6a8140c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dafcad401b34efa50a70abecef71313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":789869719
+        }
+    ],
     "wof:id":789869719,
-    "wof:lastmodified":1472629541,
+    "wof:lastmodified":1492809459,
     "wof:name":"Military Affairs Minn Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.766313,46.50246,-93.766313,46.50246",
     "geom:latitude":46.50246,
     "geom:longitude":-93.766313,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511205,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50WYzczbzV9aoRnVVzrXl0_46.502460_-93.766313@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590350,
-    "wof:geomhash":"71bf6754745423dbc3f0f833cc8b1e5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dac9028f1ee1dfe59fb1bffcede6b9b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511205,
+            "region_id":85688727,
+            "venue_id":789762557
+        }
+    ],
     "wof:id":789762557,
-    "wof:lastmodified":1472629327,
+    "wof:lastmodified":1492810128,
     "wof:name":"Sunset Bay Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

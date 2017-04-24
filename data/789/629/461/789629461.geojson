@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.437141,44.043163,-95.437141,44.043163",
     "geom:latitude":44.043163,
     "geom:longitude":-95.437141,
@@ -32,17 +33,34 @@
         "institute"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dLwTn61wnfcYdtG7PYgjx_44.043163_-95.437141@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589289,
-    "wof:geomhash":"b9e28ab615446eec1f52b7728da68018",
-    "wof:hierarchy":[],
+    "wof:geomhash":"333ff0b796bf3c209617fd8fddf08562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":789629461
+        }
+    ],
     "wof:id":789629461,
-    "wof:lastmodified":1472629072,
+    "wof:lastmodified":1492810562,
     "wof:name":"Westbrook Walnut Grove High Sc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

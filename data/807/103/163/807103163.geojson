@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.953374,45.730874,-94.953374,45.730874",
     "geom:latitude":45.730874,
     "geom:longitude":-94.953374,
@@ -25,17 +26,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512153,
+        85633793,
+        85952509,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XqVJViSlrfpmNB1cAAuzf_45.730874_-94.953374@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603765,
-    "wof:geomhash":"66122ccf2072aed3ecc58d66334f2b72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4995233fb2edf02bbc7c2adedeece25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512153,
+            "locality_id":85952509,
+            "region_id":85688727,
+            "venue_id":807103163
+        }
+    ],
     "wof:id":807103163,
-    "wof:lastmodified":1472629182,
+    "wof:lastmodified":1492825382,
     "wof:name":"Ferrell Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

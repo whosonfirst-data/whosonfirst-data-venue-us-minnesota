@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.58054,43.623662,-95.58054,43.623662",
     "geom:latitude":43.623662,
     "geom:longitude":-95.58054,
@@ -31,17 +32,34 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pcOqWIGmT2g4ihrrwo8GX_43.623662_-95.580540@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583684,
-    "wof:geomhash":"1f10c9dbb319ab71f75406baea1b1c7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"323fb3b4188643825a7f38c55c618fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":773172381
+        }
+    ],
     "wof:id":773172381,
-    "wof:lastmodified":1472629778,
+    "wof:lastmodified":1492799638,
     "wof:name":"Top Motor Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

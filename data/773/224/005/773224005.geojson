@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.22629,46.659603,-96.22629,46.659603",
     "geom:latitude":46.659603,
     "geom:longitude":-96.22629,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511089,
+        85633793,
+        102087681
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vUWWYi4rVZCIEZdBhsc3u_46.659603_-96.226290@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584102,
-    "wof:geomhash":"ca2eae08a57927c8d0937758297aaf96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67b696ee1c8c604321a19672b986e444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087681,
+            "localadmin_id":404511089,
+            "region_id":85688727,
+            "venue_id":773224005
+        }
+    ],
     "wof:id":773224005,
-    "wof:lastmodified":1472629948,
+    "wof:lastmodified":1492800585,
     "wof:name":"David Egge Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.501144,44.081465,-92.501144,44.081465",
     "geom:latitude":44.081465,
     "geom:longitude":-92.501144,
@@ -38,17 +39,34 @@
         "equipment-service"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cTbO9aJdJfYNgxnOVIiiV_44.081465_-92.501144@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608956,
-    "wof:geomhash":"c9429fe46be2742408281d7e5adcd21a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1204dfaba1f543598fb7d6ab7a1aa75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823230271
+        }
+    ],
     "wof:id":823230271,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492829525,
     "wof:name":"Dahl Tv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

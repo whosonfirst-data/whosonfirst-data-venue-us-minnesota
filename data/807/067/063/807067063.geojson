@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.500462,47.439343,-92.500462,47.439343",
     "geom:latitude":47.439343,
     "geom:longitude":-92.500462,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dbsJdkiF3bYzSGYs0gNOY_47.439343_-92.500462@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603423,
-    "wof:geomhash":"c70a2c625701784a61ddb29103b2c066",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16fd3a613622a57152aa133bcf10e512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":807067063
+        }
+    ],
     "wof:id":807067063,
-    "wof:lastmodified":1472629067,
+    "wof:lastmodified":1492824787,
     "wof:name":"Fayal Township Clerks Office",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

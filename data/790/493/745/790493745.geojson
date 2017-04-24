@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.276573,44.962692,-93.276573,44.962692",
     "geom:latitude":44.962692,
     "geom:longitude":-93.276573,
@@ -32,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800007,
         85872643,
         102191575,
+        1108799997,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872585
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596318,
-    "wof:geomhash":"0427204a049fcf19ef6bc5d3586753cc",
+    "wof:geomhash":"5f7fd72a6688c43755817d55c7a95b43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +57,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799997,
+            "microhood_id":1108800007,
             "neighbourhood_id":85872643,
-            "region_id":85688727,
-            "venue_id":790493745
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872585,
             "region_id":85688727,
             "venue_id":790493745
         }
     ],
     "wof:id":790493745,
-    "wof:lastmodified":1472629773,
+    "wof:lastmodified":1492831601,
     "wof:name":"Odell Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

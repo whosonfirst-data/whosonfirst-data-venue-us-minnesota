@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.441454,44.293123,-94.441454,44.293123",
     "geom:latitude":44.293123,
     "geom:longitude":-94.441454,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wWAaj9MybOcZDAnoE5S6d_44.293123_-94.441454@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594132,
-    "wof:geomhash":"ff19170346196f42813635791ec2b016",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36c3beb1b19d0f7ef1b9da603b49750a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":790224603
+        }
+    ],
     "wof:id":790224603,
-    "wof:lastmodified":1472629336,
+    "wof:lastmodified":1492832349,
     "wof:name":"Brian Penton DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

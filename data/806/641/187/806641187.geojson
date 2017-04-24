@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.333577,46.601944,-94.333577,46.601944",
     "geom:latitude":46.601944,
     "geom:longitude":-94.333577,
@@ -31,17 +32,32 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509393,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ruBMZx8B7OotmgevJzNDl_46.601944_-94.333577@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599824,
-    "wof:geomhash":"ce5c7031dafd37fbe0b4672ecdb44d84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53c457bf1df2ef9d751fb6a8c67e0255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509393,
+            "region_id":85688727,
+            "venue_id":806641187
+        }
+    ],
     "wof:id":806641187,
-    "wof:lastmodified":1472629579,
+    "wof:lastmodified":1492818138,
     "wof:name":"Arctic Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

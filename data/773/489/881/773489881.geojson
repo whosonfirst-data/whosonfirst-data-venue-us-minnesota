@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.493599,47.224879,-93.493599,47.224879",
     "geom:latitude":47.224879,
     "geom:longitude":-93.493599,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462586137,
-    "wof:geomhash":"78bcb1b3d7c9171dac7414a5d8a1b574",
+    "wof:geomhash":"3e2d6d8f7bc6d1b364615b31e1a5b489",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":773489881,
-    "wof:lastmodified":1472630074,
+    "wof:lastmodified":1492804259,
     "wof:name":"North Central Food Bank",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

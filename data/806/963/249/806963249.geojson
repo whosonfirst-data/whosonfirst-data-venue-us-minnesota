@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.076415,43.669812,-92.076415,43.669812",
     "geom:latitude":43.669812,
     "geom:longitude":-92.076415,
@@ -33,17 +34,34 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O47PLHsdTJJwivNksRYIb_43.669812_-92.076415@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602550,
-    "wof:geomhash":"9401e681710d69491a48332aecc7d84f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4c6539b868850b658c203f1885d9cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":806963249
+        }
+    ],
     "wof:id":806963249,
-    "wof:lastmodified":1472629959,
+    "wof:lastmodified":1492816531,
     "wof:name":"Headstart Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

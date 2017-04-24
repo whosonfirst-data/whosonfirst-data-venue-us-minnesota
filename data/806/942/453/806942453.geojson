@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.087992,44.928354,-93.087992,44.928354",
     "geom:latitude":44.928354,
     "geom:longitude":-93.087992,
@@ -31,19 +32,38 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_695Dg04lpD3e4UyRCVOar5_44.928354_-93.087992@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602380,
-    "wof:geomhash":"5014b2474e3bd3a5b75efffc4988f002",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a53265ac7913cf23ff6d118b465b2d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":806942453
+        }
+    ],
     "wof:id":806942453,
-    "wof:lastmodified":1472629948,
+    "wof:lastmodified":1492814233,
     "wof:name":"Headerson Limousine",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

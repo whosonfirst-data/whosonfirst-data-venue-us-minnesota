@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.732354,44.300132,-93.732354,44.300132",
     "geom:latitude":44.300132,
     "geom:longitude":-93.732354,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512211,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FQwt4nyBu4iKJdZ1m3SBf_44.300132_-93.732354@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603833,
-    "wof:geomhash":"b797fab5470e870903561d9bc55b8391",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18f4b1ac3121d5f6bd453470cd0b20bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512211,
+            "region_id":85688727,
+            "venue_id":807109941
+        }
+    ],
     "wof:id":807109941,
-    "wof:lastmodified":1472629222,
+    "wof:lastmodified":1492826887,
     "wof:name":"David Zimmerman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

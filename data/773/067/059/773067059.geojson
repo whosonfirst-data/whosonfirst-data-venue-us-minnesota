@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.365155,45.17463,-93.365155,45.17463",
     "geom:latitude":45.17463,
     "geom:longitude":-93.365155,
@@ -32,17 +33,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u0Vvm6IatXRWH1b8On2ud_45.174630_-93.365155@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582914,
-    "wof:geomhash":"3955fc112ebbf2aafb7bb4049618b521",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf4c160f11300da13bd9cb6a7decd0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":773067059
+        }
+    ],
     "wof:id":773067059,
-    "wof:lastmodified":1472629461,
+    "wof:lastmodified":1492803591,
     "wof:name":"Artifex Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

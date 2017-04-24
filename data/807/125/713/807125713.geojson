@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.720833,45.380268,-94.720833,45.380268",
     "geom:latitude":45.380268,
     "geom:longitude":-94.720833,
@@ -33,17 +34,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514385,
+        85633793,
+        85952481,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fZtw2qwUliA1NJhPUxPyY_45.380600_-94.720190@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604007,
-    "wof:geomhash":"0552f611fcbe7a8ebd5d53a610e1d489",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed4ea9716072747be42650e27eb9ac27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514385,
+            "locality_id":85952481,
+            "region_id":85688727,
+            "venue_id":807125713
+        }
+    ],
     "wof:id":807125713,
-    "wof:lastmodified":1472629245,
+    "wof:lastmodified":1492827400,
     "wof:name":"Grace United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

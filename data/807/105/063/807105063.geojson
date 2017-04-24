@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.064499,44.918053,-95.064499,44.918053",
     "geom:latitude":44.918053,
     "geom:longitude":-95.064499,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513951,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12SeDz4HHF27khIc7QRsw7_44.918053_-95.064499@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603785,
-    "wof:geomhash":"62884e614b4b7e06c7b8efb93128a97c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b0d384f7fd4fda74ed57dda24952c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513951,
+            "region_id":85688727,
+            "venue_id":807105063
+        }
+    ],
     "wof:id":807105063,
-    "wof:lastmodified":1472629191,
+    "wof:lastmodified":1492822259,
     "wof:name":"Dennis Sportel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

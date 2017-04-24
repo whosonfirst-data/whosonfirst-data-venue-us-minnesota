@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.500384,44.971201,-93.500384,44.971201",
     "geom:latitude":44.971201,
     "geom:longitude":-93.500384,
@@ -46,17 +47,34 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511915,
+        85633793,
+        85969113,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pnftSMW9iQIoQ9sP16FwO_44.971201_-93.500384@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605003,
-    "wof:geomhash":"c258a2b035f259fbdb0d2e42d0e527ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7aa194bee8e7e61e44a96cee74ae4fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511915,
+            "locality_id":85969113,
+            "region_id":85688727,
+            "venue_id":807220295
+        }
+    ],
     "wof:id":807220295,
-    "wof:lastmodified":1472629438,
+    "wof:lastmodified":1492823687,
     "wof:name":"Bruegger's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

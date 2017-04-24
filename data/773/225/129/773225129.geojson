@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.493321,44.928881,-95.493321,44.928881",
     "geom:latitude":44.928881,
     "geom:longitude":-95.493321,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509085,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rTEZwychcF395B1HjfgBA_44.928881_-95.493321@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584109,
-    "wof:geomhash":"5229f3c69e9a98669d41859e7d951779",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c858f0fe80ac233e187a3a68730956c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509085,
+            "region_id":85688727,
+            "venue_id":773225129
+        }
+    ],
     "wof:id":773225129,
-    "wof:lastmodified":1472629959,
+    "wof:lastmodified":1492799054,
     "wof:name":"Janssen Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

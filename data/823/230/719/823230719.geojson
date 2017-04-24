@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.462914,44.041988,-92.462914,44.041988",
     "geom:latitude":44.041988,
     "geom:longitude":-92.462914,
@@ -63,17 +64,34 @@
     ],
     "sg:website":"http://www.brueggers.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05iIjHqRZ6zYhRWPcMMCar_44.041988_-92.462914@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608964,
-    "wof:geomhash":"d4bfa94752f892ad554464d16ed0a7e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac5e80aace64dd253a2bbf38aa9781c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823230719
+        }
+    ],
     "wof:id":823230719,
-    "wof:lastmodified":1472629145,
+    "wof:lastmodified":1492829544,
     "wof:name":"Bruegger's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

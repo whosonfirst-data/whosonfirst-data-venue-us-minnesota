@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.099005,46.753639,-95.099005,46.753639",
     "geom:latitude":46.753639,
     "geom:longitude":-95.099005,
@@ -36,17 +37,34 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514831,
+        85633793,
+        85968357,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CNjO0exuLEO0VEMMYEuNp_46.753639_-95.099005@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609423,
-    "wof:geomhash":"cc10f707f1893ca35ff979bafa0cd143",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f98f391d3cf933816c565103e0534ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514831,
+            "locality_id":85968357,
+            "region_id":85688727,
+            "venue_id":823254047
+        }
+    ],
     "wof:id":823254047,
-    "wof:lastmodified":1472629185,
+    "wof:lastmodified":1492830950,
     "wof:name":"Cottage House Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

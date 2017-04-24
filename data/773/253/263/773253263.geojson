@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.20759,45.020509,-93.20759,45.020509",
     "geom:latitude":45.020509,
     "geom:longitude":-93.20759,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.crowniron.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ogE1d8I8v6kfs1ODrWWZw_45.020509_-93.207590@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584317,
-    "wof:geomhash":"4d098d9f8738aa4ddd0dbacebf78edbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5cb39126df8bdbb287f7810b075618b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":773253263
+        }
+    ],
     "wof:id":773253263,
-    "wof:lastmodified":1472629990,
+    "wof:lastmodified":1492803276,
     "wof:name":"Crown Iron Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

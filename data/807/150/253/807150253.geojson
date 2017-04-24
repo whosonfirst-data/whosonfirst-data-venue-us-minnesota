@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.577597,44.964914,-94.577597,44.964914",
     "geom:latitude":44.964914,
     "geom:longitude":-94.577597,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512267,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xpXW2EcwAg4FeNoO0KKaN_44.964914_-94.577597@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604276,
-    "wof:geomhash":"7ca44abad397cd2ed5498454a99526c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c281e73e263269e86d986b117319d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512267,
+            "region_id":85688727,
+            "venue_id":807150253
+        }
+    ],
     "wof:id":807150253,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1492826785,
     "wof:name":"Gail Bach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.417055,45.054223,-93.417055,45.054223",
     "geom:latitude":45.054223,
     "geom:longitude":-93.417055,
@@ -31,17 +32,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zAwvKBfaEdtpICDZuOVm4_45.054223_-93.417055@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597009,
-    "wof:geomhash":"adfa5ed66819775f9c10e6a64f73e8a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d078f7e2e4641e1baffd52c52a77b643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":790576289
+        }
+    ],
     "wof:id":790576289,
-    "wof:lastmodified":1472629868,
+    "wof:lastmodified":1492836224,
     "wof:name":"Concert International Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

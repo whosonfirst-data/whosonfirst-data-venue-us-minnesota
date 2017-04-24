@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.078828,44.032926,-94.078828,44.032926",
     "geom:latitude":44.032926,
     "geom:longitude":-94.078828,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511563,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LiNwZvvxudUnMXKKS7kpD_44.032926_-94.078828@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583226,
-    "wof:geomhash":"cbb1c10eba582bf6eac693579168d276",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96f161aee063bcd042e2017029833183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511563,
+            "region_id":85688727,
+            "venue_id":773110783
+        }
+    ],
     "wof:id":773110783,
-    "wof:lastmodified":1472629628,
+    "wof:lastmodified":1492804749,
     "wof:name":"Rahn Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

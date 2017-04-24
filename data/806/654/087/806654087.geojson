@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.085512,46.569636,-96.085512,46.569636",
     "geom:latitude":46.569636,
     "geom:longitude":-96.085512,
@@ -32,17 +33,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510359,
+        85633793,
+        85968713,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_777w09nHZkuirTxlS1Nlkb_46.569636_-96.085512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599942,
-    "wof:geomhash":"75912fde0c38c9476428a49a9e2f21f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d0e2dd182e93fd710a86407c6798576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510359,
+            "locality_id":85968713,
+            "region_id":85688727,
+            "venue_id":806654087
+        }
+    ],
     "wof:id":806654087,
-    "wof:lastmodified":1472629633,
+    "wof:lastmodified":1492820517,
     "wof:name":"Senior Citizen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

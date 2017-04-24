@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.105081,45.369544,-93.105081,45.369544",
     "geom:latitude":45.369544,
     "geom:longitude":-93.105081,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85812175,
+        102191575,
+        404511283,
         85633793,
         85953399,
         102087861,
-        85812175
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,11 +53,13 @@
     },
     "wof:country":"US",
     "wof:created":1462588118,
-    "wof:geomhash":"faffee7278b9ca7a51b7b385c8d20eab",
+    "wof:geomhash":"6cbce88ef38882daf6ea2d56b1f7225d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087861,
+            "localadmin_id":404511283,
             "locality_id":85953399,
             "neighbourhood_id":85812175,
             "region_id":85688727,
@@ -62,7 +67,7 @@
         }
     ],
     "wof:id":773753019,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1492802568,
     "wof:name":"Al's Repair",
     "wof:parent_id":85812175,
     "wof:placetype":"venue",

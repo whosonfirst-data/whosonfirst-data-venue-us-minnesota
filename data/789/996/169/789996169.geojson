@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.375328,45.065697,-93.375328,45.065697",
     "geom:latitude":45.065697,
     "geom:longitude":-93.375328,
@@ -32,17 +33,45 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709,
+        404511829,
+        85969229
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uwVCRIdkj8tftAVS73zpS_45.065697_-93.375328@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592297,
-    "wof:geomhash":"a30d26f6f346da8396e7049294815b5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"501fc65ae6a0f63113d368397c853860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":789996169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":789996169
+        }
+    ],
     "wof:id":789996169,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492809675,
     "wof:name":"Anthony James Senior Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

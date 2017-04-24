@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.927032,44.771098,-93.927032,44.771098",
     "geom:latitude":44.771098,
     "geom:longitude":-93.927032,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511701,
+        85633793,
+        85953355,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xI4uFb89F5RYeQOlmGX5V_44.771098_-93.927032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583784,
-    "wof:geomhash":"23d02f768c94620a8727c607d9ee6ce5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1cc275a13f83904e20f0d49064a1ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511701,
+            "locality_id":85953355,
+            "region_id":85688727,
+            "venue_id":773183549
+        }
+    ],
     "wof:id":773183549,
-    "wof:lastmodified":1472629906,
+    "wof:lastmodified":1492807086,
     "wof:name":"Norwood Dental Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

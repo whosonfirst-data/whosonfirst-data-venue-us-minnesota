@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.398516,47.522995,-95.398516,47.522995",
     "geom:latitude":47.522995,
     "geom:longitude":-95.398516,
@@ -32,17 +33,34 @@
         "government-county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511097,
+        85633793,
+        85953367,
+        102087753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43csjAUcASdjWeJXGp2ECv_47.522995_-95.398516@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609523,
-    "wof:geomhash":"5da0036988bab1452e930da17d149855",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0121c0b2e27f21f67d77fc610cf902e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087753,
+            "localadmin_id":404511097,
+            "locality_id":85953367,
+            "region_id":85688727,
+            "venue_id":823258751
+        }
+    ],
     "wof:id":823258751,
-    "wof:lastmodified":1472629222,
+    "wof:lastmodified":1492829459,
     "wof:name":"Environmental Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

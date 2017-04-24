@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.993898,44.168529,-93.993898,44.168529",
     "geom:latitude":44.168529,
     "geom:longitude":-93.993898,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16AgcLSgW4q1HyXmlHeEaX_44.168529_-93.993898@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596725,
-    "wof:geomhash":"3543aada0a66126e33740728695408f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6d040ee190039a7a777168087878674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":790542587
+        }
+    ],
     "wof:id":790542587,
-    "wof:lastmodified":1472629817,
+    "wof:lastmodified":1492836160,
     "wof:name":"Downtowner Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

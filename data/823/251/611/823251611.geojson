@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.61084,45.919083,-94.61084,45.919083",
     "geom:latitude":45.919083,
     "geom:longitude":-94.61084,
@@ -52,17 +53,32 @@
         "concrete-ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512991,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qBJtSBVIuYl4hXqcLehzY_45.919083_-94.610840@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609364,
-    "wof:geomhash":"9e9489cb92217e81a54a593b085dba91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8b9cc9b80f409190d4782936b9d8cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512991,
+            "region_id":85688727,
+            "venue_id":823251611
+        }
+    ],
     "wof:id":823251611,
-    "wof:lastmodified":1472629204,
+    "wof:lastmodified":1492828224,
     "wof:name":"Swanville Redi Mix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

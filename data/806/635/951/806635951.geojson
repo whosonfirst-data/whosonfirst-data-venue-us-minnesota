@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.65195,44.053971,-91.65195,44.053971",
     "geom:latitude":44.053971,
     "geom:longitude":-91.65195,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_059a1wENMcj5aEw1YFrhn5_44.053971_-91.651950@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599783,
-    "wof:geomhash":"46b1a6ba1286ef357766cd3c752a1c88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"599d666dee9e07935935a5bf882d6db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":806635951
+        }
+    ],
     "wof:id":806635951,
-    "wof:lastmodified":1472629574,
+    "wof:lastmodified":1492817009,
     "wof:name":"Rebecca Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

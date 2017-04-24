@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.988915,45.008401,-92.988915,45.008401",
     "geom:latitude":45.008401,
     "geom:longitude":-92.988915,
@@ -31,17 +32,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514461,
+        85633793,
+        85953179,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wCTLD3vszs9HnqepbG2uc_45.008401_-92.988915@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589772,
-    "wof:geomhash":"bb7f8145ad3c02f885febeeba1ec07d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bee3b55e9422b992406aa70f635b15b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514461,
+            "locality_id":85953179,
+            "region_id":85688727,
+            "venue_id":789689245
+        }
+    ],
     "wof:id":789689245,
-    "wof:lastmodified":1472629188,
+    "wof:lastmodified":1492810088,
     "wof:name":"Lawrence Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.992717,46.714152,-95.992717,46.714152",
     "geom:latitude":46.714152,
     "geom:longitude":-95.992717,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512741,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14UWNgYFKKRvX6eXrMWjAK_46.714152_-95.992717@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588586,
-    "wof:geomhash":"ce7d5592ca5f388153c8d59b594e2e14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17d30702f7b6240039f07930425f3a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512741,
+            "region_id":85688727,
+            "venue_id":773814403
+        }
+    ],
     "wof:id":773814403,
-    "wof:lastmodified":1472630167,
+    "wof:lastmodified":1492807942,
     "wof:name":"Data Force Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

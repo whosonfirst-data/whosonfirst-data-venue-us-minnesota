@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.866137,46.126939,-92.866137,46.126939",
     "geom:latitude":46.126939,
     "geom:longitude":-92.866137,
@@ -32,17 +33,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513495,
+        85633793,
+        85953263,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L2l8YEIYcJXaYA6FGOWas_46.126939_-92.866137@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599066,
-    "wof:geomhash":"16575be617a3bdd66684e6a67265e654",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0dad5ee9b78c3c1401fb951fe2fceac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513495,
+            "locality_id":85953263,
+            "region_id":85688727,
+            "venue_id":806554349
+        }
+    ],
     "wof:id":806554349,
-    "wof:lastmodified":1472629435,
+    "wof:lastmodified":1492820452,
     "wof:name":"Sandstone Medical Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

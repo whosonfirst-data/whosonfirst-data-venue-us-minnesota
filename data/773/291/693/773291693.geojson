@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.377619,44.87817,-94.377619,44.87817",
     "geom:latitude":44.87817,
     "geom:longitude":-94.377619,
@@ -31,17 +32,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xq53bSFdqiN3iiePftwvY_44.878170_-94.377619@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584612,
-    "wof:geomhash":"05349dde23ab9d3d360bda83aa4be839",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c83ee56139b5f368a8ef6d66c6eaff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773291693
+        }
+    ],
     "wof:id":773291693,
-    "wof:lastmodified":1472630021,
+    "wof:lastmodified":1492804074,
     "wof:name":"Rannow Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

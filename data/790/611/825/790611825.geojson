@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.862371,45.189158,-93.862371,45.189158",
     "geom:latitude":45.189158,
     "geom:longitude":-93.862371,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16IIA4BN4CXigD9wxdTyoO_45.189158_-93.862371@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597318,
-    "wof:geomhash":"af3564c82cd7336b243f0be4a682889d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40460a17e31b06613ddc52113a936be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":790611825
+        }
+    ],
     "wof:id":790611825,
-    "wof:lastmodified":1472629917,
+    "wof:lastmodified":1492831295,
     "wof:name":"J & C Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

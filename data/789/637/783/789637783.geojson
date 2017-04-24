@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.320481,44.000583,-96.320481,44.000583",
     "geom:latitude":44.000583,
     "geom:longitude":-96.320481,
@@ -31,17 +32,34 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mhZpv6UIIEG9rxAuclSvm_44.000583_-96.320481@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589358,
-    "wof:geomhash":"d432f0cd9847390d0744b3a2646bdcc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4523bca33a6669bd24d7734b313325eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":789637783
+        }
+    ],
     "wof:id":789637783,
-    "wof:lastmodified":1472629092,
+    "wof:lastmodified":1492812509,
     "wof:name":"Problem Solvers-Computer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

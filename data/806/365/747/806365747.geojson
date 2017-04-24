@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.888031,44.885943,-93.888031,44.885943",
     "geom:latitude":44.885943,
     "geom:longitude":-93.888031,
@@ -28,17 +29,34 @@
     "sg:postcode":"55360",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511699,
+        85633793,
+        85952949,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NQUvxmh84w9otvQC8oRIV_44.885943_-93.888031@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597547,
-    "wof:geomhash":"bb68b83fb630aa86babf785e18c7bc11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"094c7f06eda9ac9015bdab3f014966c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511699,
+            "locality_id":85952949,
+            "region_id":85688727,
+            "venue_id":806365747
+        }
+    ],
     "wof:id":806365747,
-    "wof:lastmodified":1472628974,
+    "wof:lastmodified":1492817898,
     "wof:name":"First Minnesota Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

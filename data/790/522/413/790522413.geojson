@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.553831,44.855094,-93.553831,44.855094",
     "geom:latitude":44.855094,
     "geom:longitude":-93.553831,
@@ -39,17 +40,34 @@
         "labeling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TYEXmwz184vn0vh9KBmmY_44.855094_-93.553831@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596560,
-    "wof:geomhash":"128c20854b43c4bafef50b7ffa20de23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be126748b1fb8d7ef7ab4511be0db96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":790522413
+        }
+    ],
     "wof:id":790522413,
-    "wof:lastmodified":1472629799,
+    "wof:lastmodified":1492834999,
     "wof:name":"Coridian Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.879635,47.47048,-94.879635,47.47048",
     "geom:latitude":47.47048,
     "geom:longitude":-94.879635,
@@ -28,17 +29,34 @@
     "sg:postcode":"56601",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yv1QYfmjvo4C8gfLABQ5H_47.470480_-94.879635@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593520,
-    "wof:geomhash":"61b6b1bd80d650924802c5b74c0ec998",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9af34348884aaad82d9647c868856abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":790152143
+        }
+    ],
     "wof:id":790152143,
-    "wof:lastmodified":1472629228,
+    "wof:lastmodified":1492837703,
     "wof:name":"Lloyd's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.111026,44.939071,-93.111026,44.939071",
     "geom:latitude":44.939071,
     "geom:longitude":-93.111026,
@@ -32,19 +33,40 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wQe7TqPk6z76Z3DiirSrV_44.939071_-93.111026@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585946,
-    "wof:geomhash":"20ee5e70e6be77c5d5d576fe7cf0fd8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c2c73dfd281137a4f86422e432f4b25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":773464075
+        }
+    ],
     "wof:id":773464075,
-    "wof:lastmodified":1472630060,
+    "wof:lastmodified":1492806135,
     "wof:name":"Sandra Beto",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

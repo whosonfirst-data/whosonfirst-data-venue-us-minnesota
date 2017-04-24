@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.033767,44.382891,-92.033767,44.382891",
     "geom:latitude":44.382891,
     "geom:longitude":-92.033767,
@@ -37,17 +38,34 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bGlEFKTgFpQTOex8hukIj_44.382891_-92.033767@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609056,
-    "wof:geomhash":"630bc5187cd8b98f2701ec598c7c82d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08335f70785b91dbc87c32a3a2f4f87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":823235313
+        }
+    ],
     "wof:id":823235313,
-    "wof:lastmodified":1472629127,
+    "wof:lastmodified":1492831065,
     "wof:name":"Anytime Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

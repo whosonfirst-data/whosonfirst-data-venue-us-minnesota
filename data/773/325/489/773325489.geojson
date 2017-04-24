@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.484036,44.073075,-92.484036,44.073075",
     "geom:latitude":44.073075,
     "geom:longitude":-92.484036,
@@ -31,17 +32,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42becMtLIbIPvSXjehZyYe_44.073075_-92.484036@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584877,
-    "wof:geomhash":"8793d6bddb33046fcb4d368cf959690d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aff7579023885fb82a194fc5ffb1e36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773325489
+        }
+    ],
     "wof:id":773325489,
-    "wof:lastmodified":1472630012,
+    "wof:lastmodified":1492803921,
     "wof:name":"People & Profits LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

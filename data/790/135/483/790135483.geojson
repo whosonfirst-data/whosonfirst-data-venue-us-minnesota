@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.652223,45.757844,-93.652223,45.757844",
     "geom:latitude":45.757844,
     "geom:longitude":-93.652223,
@@ -38,17 +39,34 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512557,
+        85633793,
+        85969101,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dgve8WIOcEqiXbOjKoooE_45.757844_-93.652223@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593397,
-    "wof:geomhash":"4af90184d4588409709e10c0a307e7bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f012461db6be7f0b4568bba0cdc390a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512557,
+            "locality_id":85969101,
+            "region_id":85688727,
+            "venue_id":790135483
+        }
+    ],
     "wof:id":790135483,
-    "wof:lastmodified":1472629193,
+    "wof:lastmodified":1492833117,
     "wof:name":"Billings Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.466769,44.323713,-94.466769,44.323713",
     "geom:latitude":44.323713,
     "geom:longitude":-94.466769,
@@ -28,17 +29,34 @@
     "sg:postcode":"56073",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L71lfkhaVenzvwz6zGL2f_44.323713_-94.466769@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589355,
-    "wof:geomhash":"f5ec6ccf009dc2521a4b584a6d93541d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da873c0e629800355777bea9193bc3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":789637393
+        }
+    ],
     "wof:id":789637393,
-    "wof:lastmodified":1472629080,
+    "wof:lastmodified":1492812506,
     "wof:name":"Gypsy Wind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

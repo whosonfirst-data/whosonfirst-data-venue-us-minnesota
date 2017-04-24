@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.512273,44.969412,-93.512273,44.969412",
     "geom:latitude":44.969412,
     "geom:longitude":-93.512273,
@@ -33,17 +34,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511915,
+        85633793,
+        85969113,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YzuyrefZ84Qa4YTznszSB_44.969412_-93.512273@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603198,
-    "wof:geomhash":"2b2ca3ee23541e768a64d99bdda0e279",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11a56efe0ee51fdc59c53401db1422eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511915,
+            "locality_id":85969113,
+            "region_id":85688727,
+            "venue_id":807039327
+        }
+    ],
     "wof:id":807039327,
-    "wof:lastmodified":1472629006,
+    "wof:lastmodified":1492827899,
     "wof:name":"Boulder Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

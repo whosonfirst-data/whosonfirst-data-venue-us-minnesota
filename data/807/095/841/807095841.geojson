@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.832563,45.599317,-96.832563,45.599317",
     "geom:latitude":45.599317,
     "geom:longitude":-96.832563,
@@ -25,17 +26,34 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514745,
+        85633793,
+        85968565,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Gfl9bPznNVZYGVtBNj6IA_45.599317_-96.832563@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603674,
-    "wof:geomhash":"07f3fd17a2a218186bc08a7160d9d287",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ac76a481404aaae4c216017859d1f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514745,
+            "locality_id":85968565,
+            "region_id":85688727,
+            "venue_id":807095841
+        }
+    ],
     "wof:id":807095841,
-    "wof:lastmodified":1472629189,
+    "wof:lastmodified":1492824459,
     "wof:name":"Ed Asfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

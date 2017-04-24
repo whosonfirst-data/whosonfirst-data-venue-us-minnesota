@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.317576,44.00043,-96.317576,44.00043",
     "geom:latitude":44.00043,
     "geom:longitude":-96.317576,
@@ -31,17 +32,34 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hzTuMdzFIUV39X52WL7CQ_44.000430_-96.317576@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588387,
-    "wof:geomhash":"203098d4907d1b2cf671f524085d0b92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"088cfd84382371cc688351a7b6176beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":773789605
+        }
+    ],
     "wof:id":773789605,
-    "wof:lastmodified":1472630162,
+    "wof:lastmodified":1492800704,
     "wof:name":"Masonic Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

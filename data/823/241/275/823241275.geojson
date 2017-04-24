@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.512382,43.761756,-95.512382,43.761756",
     "geom:latitude":43.761756,
     "geom:longitude":-95.512382,
@@ -32,17 +33,32 @@
         "fruit"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510261,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Qi1Si11cfTuA9XLP33hNg_43.761756_-95.512382@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609172,
-    "wof:geomhash":"3297801065a1041339e3ac1a49b27cea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5d5d17fe5950b84c6b01ff79ac633ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510261,
+            "region_id":85688727,
+            "venue_id":823241275
+        }
+    ],
     "wof:id":823241275,
-    "wof:lastmodified":1472629132,
+    "wof:lastmodified":1492828890,
     "wof:name":"Williams Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.356694,45.97572,-94.356694,45.97572",
     "geom:latitude":45.97572,
     "geom:longitude":-94.356694,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YWXx7CQdZdTDYdfkprKhy_45.975720_-94.356694@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586392,
-    "wof:geomhash":"2cde3030085ec8d66ba2ee20ad28fb91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c3a23f5b9220807d43e76ded1485a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":773527231
+        }
+    ],
     "wof:id":773527231,
-    "wof:lastmodified":1472630082,
+    "wof:lastmodified":1492802767,
     "wof:name":"Spur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

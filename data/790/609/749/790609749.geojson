@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.002033,44.91765,-93.002033,44.91765",
     "geom:latitude":44.91765,
     "geom:longitude":-93.002033,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514453,
+        85633793,
+        85953111,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zBbSWa1L34btEYUSWwbUd_44.917650_-93.002033@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597302,
-    "wof:geomhash":"4e57a93d0b892f39a29a61b67ac96cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15b40651152e7a042b65f6a443ba4a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514453,
+            "locality_id":85953111,
+            "region_id":85688727,
+            "venue_id":790609749
+        }
+    ],
     "wof:id":790609749,
-    "wof:lastmodified":1472629912,
+    "wof:lastmodified":1492833027,
     "wof:name":"Nancy Evans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

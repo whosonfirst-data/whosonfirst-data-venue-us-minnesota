@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.336285,47.468975,-92.336285,47.468975",
     "geom:latitude":47.468975,
     "geom:longitude":-92.336285,
@@ -31,17 +32,26 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32HfLCoIeVHN0MZ1XDlhQR_47.468975_-92.336285@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594138,
-    "wof:geomhash":"07995fdf02d4ea2ff7c5b3a4c4ed415a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"723c117daa7077e6e3c9632015a85e04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":790225465
+        }
+    ],
     "wof:id":790225465,
-    "wof:lastmodified":1472629333,
+    "wof:lastmodified":1492831262,
     "wof:name":"Lakeland Volunteer Fire Dept",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

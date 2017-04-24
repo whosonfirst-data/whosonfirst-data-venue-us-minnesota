@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.506479,47.498531,-92.506479,47.498531",
     "geom:latitude":47.498531,
     "geom:longitude":-92.506479,
@@ -32,17 +33,26 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UfUH3OiFA0lUmJM3bNUdS_47.498531_-92.506479@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586317,
-    "wof:geomhash":"032315ed4271a250293cb5e7e5179fb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a907fe3441ef68755742be830774b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773516035
+        }
+    ],
     "wof:id":773516035,
-    "wof:lastmodified":1472630076,
+    "wof:lastmodified":1492805643,
     "wof:name":"Saint Louis Cnty Landfill & Tr",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.212276,44.104034,-94.212276,44.104034",
     "geom:latitude":44.104034,
     "geom:longitude":-94.212276,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511535,
+        85633793,
+        85953349,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sfE2NhOKrAvJkfWElAQ8i_44.104034_-94.212276@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586199,
-    "wof:geomhash":"201293239f23c6cea0480294ef008c7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"032b18226be742f5dcfe24c7deb9ff25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511535,
+            "locality_id":85953349,
+            "region_id":85688727,
+            "venue_id":773499063
+        }
+    ],
     "wof:id":773499063,
-    "wof:lastmodified":1472630069,
+    "wof:lastmodified":1492805460,
     "wof:name":"Anne M Klingerman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

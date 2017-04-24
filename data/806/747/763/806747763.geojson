@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.615148,48.277417,-95.615148,48.277417",
     "geom:latitude":48.277417,
     "geom:longitude":-95.615148,
@@ -35,17 +36,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510143,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AWUefdCBSENNVpdE6V9t3_48.277417_-95.615148@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600745,
-    "wof:geomhash":"c190685fd8f0085bee3333f7e05a43f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89f99b253d355f0798d980610f5a7ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510143,
+            "region_id":85688727,
+            "venue_id":806747763
+        }
+    ],
     "wof:id":806747763,
-    "wof:lastmodified":1472629778,
+    "wof:lastmodified":1492815167,
     "wof:name":"Stanley Farm Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

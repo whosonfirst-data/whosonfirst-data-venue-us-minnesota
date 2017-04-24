@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.831463,45.560051,-93.831463,45.560051",
     "geom:latitude":45.560051,
     "geom:longitude":-93.831463,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511457,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VTDqdExAnQnDk7Kedt2iz_45.560051_-93.831463@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591960,
-    "wof:geomhash":"ffd3eee82266d5bdb08332f31dab6a3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd6392280a804e33b07d0de83d80c046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511457,
+            "region_id":85688727,
+            "venue_id":789955265
+        }
+    ],
     "wof:id":789955265,
-    "wof:lastmodified":1472629645,
+    "wof:lastmodified":1492811001,
     "wof:name":"Marquette Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

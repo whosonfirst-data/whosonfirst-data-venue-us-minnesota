@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.371543,48.291355,-97.371543,48.291355",
     "geom:latitude":48.291355,
     "geom:longitude":-97.371543,
@@ -28,17 +29,34 @@
     "sg:postcode":"58261",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479699,
+        85633793,
+        85982491,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fIp7IYTQWrZFDZAttoQ5a_48.291355_-97.371543@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588891,
-    "wof:geomhash":"05ffe6c26c17aab98891c67c93359f73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59b1166ba2d4a9584b8fed9b34af97f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404479699,
+            "locality_id":85982491,
+            "region_id":85688525,
+            "venue_id":789578383
+        }
+    ],
     "wof:id":789578383,
-    "wof:lastmodified":1472628929,
+    "wof:lastmodified":1492811853,
     "wof:name":"Bank Of Minto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.670975,47.021767,-91.670975,47.021767",
     "geom:latitude":47.021767,
     "geom:longitude":-91.670975,
@@ -28,17 +29,34 @@
     "sg:postcode":"55616",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514563,
+        85633793,
+        85968577,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iV2dIYrGzZPF2FAp8AU3x_47.021767_-91.670975@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589666,
-    "wof:geomhash":"2e974fe15e08c2f3fa8207184dec1e41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc18c3c72b2bf242bfa97e052aedefe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514563,
+            "locality_id":85968577,
+            "region_id":85688727,
+            "venue_id":789675571
+        }
+    ],
     "wof:id":789675571,
-    "wof:lastmodified":1472629151,
+    "wof:lastmodified":1492810264,
     "wof:name":"Personnel/Safety",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

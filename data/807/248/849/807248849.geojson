@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.837535,45.380783,-92.837535,45.380783",
     "geom:latitude":45.380783,
     "geom:longitude":-92.837535,
@@ -48,17 +49,34 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zguN1hhCzR0eVSUQehvbp_45.380783_-92.837535@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605312,
-    "wof:geomhash":"189fa09d56f9e71343c0a7d4c4b7d147",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8cbf0d688a6f59cced3e9fafd5a40f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":807248849
+        }
+    ],
     "wof:id":807248849,
-    "wof:lastmodified":1472629522,
+    "wof:lastmodified":1492825831,
     "wof:name":"Linda's Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

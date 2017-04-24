@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.008424,44.161583,-94.008424,44.161583",
     "geom:latitude":44.161583,
     "geom:longitude":-94.008424,
@@ -32,17 +33,34 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14d8UxjNLySXROsfakEyNC_44.161583_-94.008424@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585399,
-    "wof:geomhash":"915d70dd3e40769c505913e3392b05ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12ca28d95a0a1f73188ba22d7a9aaa75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":773400113
+        }
+    ],
     "wof:id":773400113,
-    "wof:lastmodified":1472630041,
+    "wof:lastmodified":1492801711,
     "wof:name":"Auto Value Parts Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

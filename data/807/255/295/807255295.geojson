@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.886724,45.302256,-92.886724,45.302256",
     "geom:latitude":45.302256,
     "geom:longitude":-92.886724,
@@ -36,17 +37,32 @@
         "kennel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vkOxiPzkR39ipRrLBUb2A_45.302256_-92.886724@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605382,
-    "wof:geomhash":"57f29c45c68bfb14027b18023075da91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97638be55cd08e3cb7cb4d4cd0ff9715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":807255295
+        }
+    ],
     "wof:id":807255295,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492828034,
     "wof:name":"Northern Sky Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

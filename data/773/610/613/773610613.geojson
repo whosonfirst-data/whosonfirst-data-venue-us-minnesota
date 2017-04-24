@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.403206,47.162408,-92.403206,47.162408",
     "geom:latitude":47.162408,
     "geom:longitude":-92.403206,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KF7jUtqeWdcud9CbcwzOF_47.162408_-92.403206@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587018,
-    "wof:geomhash":"6cfe8a33c47a438016d309c93cf453c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"657a0d672b051cc77843929e4ed1597d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773610613
+        }
+    ],
     "wof:id":773610613,
-    "wof:lastmodified":1472630105,
+    "wof:lastmodified":1492806692,
     "wof:name":"Bug Creek Soaps",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

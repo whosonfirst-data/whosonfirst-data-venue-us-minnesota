@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.95476,44.187325,-93.95476,44.187325",
     "geom:latitude":44.187325,
     "geom:longitude":-93.95476,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xZNJKMXcwKgmm0Xaiafzx_44.187325_-93.954760@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582496,
-    "wof:geomhash":"958925c03cf213c14c708f23b744b49b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db3240819946cf50de2e71ca2b665c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":773023137
+        }
+    ],
     "wof:id":773023137,
-    "wof:lastmodified":1472629142,
+    "wof:lastmodified":1492803286,
     "wof:name":"Cross Country Underground",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.265769,44.88353,-93.265769,44.88353",
     "geom:latitude":44.88353,
     "geom:longitude":-93.265769,
@@ -40,17 +41,34 @@
         "government-city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Knmv0QFyJ4TzNoKRN900S_44.883530_-93.265769@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608022,
-    "wof:geomhash":"74c59eb087f9858cff608a0143de1376",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46642a5963683dbec5c2b988b027cfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823176611
+        }
+    ],
     "wof:id":823176611,
-    "wof:lastmodified":1472629014,
+    "wof:lastmodified":1492828432,
     "wof:name":"Richfield Ice Arena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

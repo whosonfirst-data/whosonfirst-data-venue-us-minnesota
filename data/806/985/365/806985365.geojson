@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.347728,47.43622,-92.347728,47.43622",
     "geom:latitude":47.43622,
     "geom:longitude":-92.347728,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K57oxNKrX9B9RiSNEvPTm_47.436220_-92.347728@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602740,
-    "wof:geomhash":"44f18cfc55e15318f85cedb146434bbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24c47546b9d64032a8e93e61517bccf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806985365
+        }
+    ],
     "wof:id":806985365,
-    "wof:lastmodified":1472629981,
+    "wof:lastmodified":1492817304,
     "wof:name":"Mistek Assoc Inc",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

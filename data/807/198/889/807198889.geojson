@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.634099,45.51427,-93.634099,45.51427",
     "geom:latitude":45.51427,
     "geom:longitude":-93.634099,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515049,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70R1044Yzh2VMq9r0PM4ab_45.514270_-93.634099@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604787,
-    "wof:geomhash":"96a804d3cd705df50ec776323b54b472",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efea74eb9939f81b64a153e178611edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515049,
+            "region_id":85688727,
+            "venue_id":807198889
+        }
+    ],
     "wof:id":807198889,
-    "wof:lastmodified":1472629415,
+    "wof:lastmodified":1492827005,
     "wof:name":"Sumser Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

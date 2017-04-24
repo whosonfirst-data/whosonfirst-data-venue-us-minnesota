@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.337601,44.943401,-93.337601,44.943401",
     "geom:latitude":44.943401,
     "geom:longitude":-93.337601,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Wzjoi1f0Ou33jxPQiJqwj_44.943401_-93.337601@1303262827"
     },
     "wof:country":"US",
     "wof:created":1462607694,
-    "wof:geomhash":"bce4358082c9dabe707eef156e3d510e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0c44e0f14a27621507077bf623a4d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823152273
+        }
+    ],
     "wof:id":823152273,
-    "wof:lastmodified":1472628954,
+    "wof:lastmodified":1492831088,
     "wof:name":"Park Glen Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

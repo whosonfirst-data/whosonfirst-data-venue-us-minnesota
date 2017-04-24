@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.976371,45.323065,-92.976371,45.323065",
     "geom:latitude":45.323065,
     "geom:longitude":-92.976371,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62qFk1CUkmhcyGz8IDWmAs_45.323065_-92.976371@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595220,
-    "wof:geomhash":"3f0fefb097d268366949f58aa4e40464",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a8f3b523191013171bf9e4c0e2ab55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":790359383
+        }
+    ],
     "wof:id":790359383,
-    "wof:lastmodified":1472629551,
+    "wof:lastmodified":1492833540,
     "wof:name":"Pioneer Electrical Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

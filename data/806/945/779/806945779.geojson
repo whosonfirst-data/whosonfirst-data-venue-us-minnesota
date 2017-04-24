@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.987133,44.839281,-92.987133,44.839281",
     "geom:latitude":44.839281,
     "geom:longitude":-92.987133,
@@ -31,17 +32,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514919,
+        85633793,
+        85953547,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_025ICEgbYGP9tuRU0gHdhq_44.839281_-92.987133@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602405,
-    "wof:geomhash":"10bae7ca4944c3c76b67043789206810",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89803d1586859879632ceee8a60460cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514919,
+            "locality_id":85953547,
+            "region_id":85688727,
+            "venue_id":806945779
+        }
+    ],
     "wof:id":806945779,
-    "wof:lastmodified":1472629959,
+    "wof:lastmodified":1492820693,
     "wof:name":"Newport Cemetery Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

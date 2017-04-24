@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.882773,44.978142,-93.882773,44.978142",
     "geom:latitude":44.978142,
     "geom:longitude":-93.882773,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ThLUTbmzsIyaVYWY0fMTI_44.978142_-93.882773@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603741,
-    "wof:geomhash":"ab95d4efe3b9782d7a51b394d09d8c02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"179cd163fcff0f3d287e63c5e736170a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":807100801
+        }
+    ],
     "wof:id":807100801,
-    "wof:lastmodified":1472629217,
+    "wof:lastmodified":1492824084,
     "wof:name":"Motzko John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

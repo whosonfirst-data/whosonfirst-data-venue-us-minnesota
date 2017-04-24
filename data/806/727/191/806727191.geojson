@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25672,44.848318,-93.25672,44.848318",
     "geom:latitude":44.848318,
     "geom:longitude":-93.25672,
@@ -31,17 +32,34 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C9MCS38vR1nNyMt0u59AR_44.848318_-93.256720@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600561,
-    "wof:geomhash":"419dfd62039c07eb501280fa05090957",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bfe91d45596f56a5c4dd011f33b233b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806727191
+        }
+    ],
     "wof:id":806727191,
-    "wof:lastmodified":1472629753,
+    "wof:lastmodified":1492819933,
     "wof:name":"Medi Claim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

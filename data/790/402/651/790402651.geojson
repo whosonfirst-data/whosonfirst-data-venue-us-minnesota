@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.166088,45.050841,-93.166088,45.050841",
     "geom:latitude":45.050841,
     "geom:longitude":-93.166088,
@@ -32,17 +33,34 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514355,
+        85633793,
+        85953025,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55OZaril2s9Ocz5sS2ETtR_45.050841_-93.166088@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595554,
-    "wof:geomhash":"68ab26293a2c26e9e6758886835781ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f36d9b17ff429c1af0d2655d4e54bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514355,
+            "locality_id":85953025,
+            "region_id":85688727,
+            "venue_id":790402651
+        }
+    ],
     "wof:id":790402651,
-    "wof:lastmodified":1472629680,
+    "wof:lastmodified":1492834852,
     "wof:name":"Smithcom Public Relations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

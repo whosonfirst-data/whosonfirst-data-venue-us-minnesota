@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539858,47.463152,-92.539858,47.463152",
     "geom:latitude":47.463152,
     "geom:longitude":-92.539858,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3grW5RfAWS3NamGNUpn6Zq_47.463152_-92.539858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595534,
-    "wof:geomhash":"c040e83cc5f6feb323464cfcb4567076",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f62d32b4da20d6055f95a6435b0b746",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790400029
+        }
+    ],
     "wof:id":790400029,
-    "wof:lastmodified":1472629637,
+    "wof:lastmodified":1492833061,
     "wof:name":"Soar",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

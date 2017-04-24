@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.288244,44.043198,-94.288244,44.043198",
     "geom:latitude":44.043198,
     "geom:longitude":-94.288244,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509305,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sGBJTU7etFxT3mSR49tCT_44.043198_-94.288244@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582290,
-    "wof:geomhash":"608111146bd9d4a1965f3520e1af57e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb1e6fecf9a870eb6ef6e31637225ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404509305,
+            "region_id":85688727,
+            "venue_id":773008959
+        }
+    ],
     "wof:id":773008959,
-    "wof:lastmodified":1472629060,
+    "wof:lastmodified":1492802912,
     "wof:name":"Dean Neumann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

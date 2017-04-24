@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.186195,48.127791,-96.186195,48.127791",
     "geom:latitude":48.127791,
     "geom:longitude":-96.186195,
@@ -34,17 +35,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hM0SIVHG27ROxmW5P0u46_48.127791_-96.186195@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600823,
-    "wof:geomhash":"ef1b68312a738e8f3994d9ea0aa60e52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b3d4e9e862f15151b3548808e033108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806757223
+        }
+    ],
     "wof:id":806757223,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492819844,
     "wof:name":"Johnson Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

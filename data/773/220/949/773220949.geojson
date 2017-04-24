@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.002787,45.336387,-93.002787,45.336387",
     "geom:latitude":45.336387,
     "geom:longitude":-93.002787,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ivLCOtZ6ADqW1ZMkBxYNP_45.336387_-93.002787@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584080,
-    "wof:geomhash":"727c4c1e27f93075f83a1efaf74580e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c3725ed562611c4c211a1e96d985d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773220949
+        }
+    ],
     "wof:id":773220949,
-    "wof:lastmodified":1472629978,
+    "wof:lastmodified":1492801614,
     "wof:name":"Wyoming Amoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

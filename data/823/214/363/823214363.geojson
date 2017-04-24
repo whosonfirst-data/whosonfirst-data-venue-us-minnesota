@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.481813,45.050058,-93.481813,45.050058",
     "geom:latitude":45.050058,
     "geom:longitude":-93.481813,
@@ -36,17 +37,34 @@
         "investing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35ifDDItvU3Zc6MllwW2zI_45.050058_-93.481813@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608614,
-    "wof:geomhash":"09f6a7c36f8118b4710dc7edcd9eb56f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4fb152dfe50a14a3a32abec06f1d433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823214363
+        }
+    ],
     "wof:id":823214363,
-    "wof:lastmodified":1472629093,
+    "wof:lastmodified":1492828494,
     "wof:name":"Hackman Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

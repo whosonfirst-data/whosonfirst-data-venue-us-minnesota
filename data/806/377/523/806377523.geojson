@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.96396,45.836092,-92.96396,45.836092",
     "geom:latitude":45.836092,
     "geom:longitude":-92.96396,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513373,
+        85633793,
+        85953271,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V2bEBOCtZJc1MyEK97mgJ_45.836092_-92.963960@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597655,
-    "wof:geomhash":"1a77fa8f02cbb39d9df4249f9baa8e9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9605672903b4627622d407569c9d2a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513373,
+            "locality_id":85953271,
+            "region_id":85688727,
+            "venue_id":806377523
+        }
+    ],
     "wof:id":806377523,
-    "wof:lastmodified":1472628994,
+    "wof:lastmodified":1492814954,
     "wof:name":"Westchester Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

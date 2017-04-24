@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.795232,44.847217,-93.795232,44.847217",
     "geom:latitude":44.847217,
     "geom:longitude":-93.795232,
@@ -31,17 +32,34 @@
         "sanitary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511605,
+        85633793,
+        85953183,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5izgBxbEYEHUPBuh1IWxVh_44.847217_-93.795232@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587773,
-    "wof:geomhash":"fc3fb9e8b98a19839ae742047267b5a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eca0db3c20c4be73e4882470502535d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511605,
+            "locality_id":85953183,
+            "region_id":85688727,
+            "venue_id":773707057
+        }
+    ],
     "wof:id":773707057,
-    "wof:lastmodified":1472630133,
+    "wof:lastmodified":1492803676,
     "wof:name":"Norman Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

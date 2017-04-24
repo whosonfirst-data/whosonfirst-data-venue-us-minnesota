@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.369072,45.058215,-93.369072,45.058215",
     "geom:latitude":45.058215,
     "geom:longitude":-93.369072,
@@ -33,17 +34,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2US4oxmztRRtdTQqoSBcZW_45.058215_-93.369072@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587480,
-    "wof:geomhash":"e12d82373d3e51f5b84a815c56500c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae1093ff8bbf12b9533a38ce8e6881de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":773671927
+        }
+    ],
     "wof:id":773671927,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492799033,
     "wof:name":"Tech Movers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

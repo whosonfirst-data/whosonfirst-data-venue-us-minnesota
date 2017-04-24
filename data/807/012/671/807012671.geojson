@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.187567,43.847504,-92.187567,43.847504",
     "geom:latitude":43.847504,
     "geom:longitude":-92.187567,
@@ -31,17 +32,34 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509629,
+        85633793,
+        85953187,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a7xLAHAP0g106b9XwYblM_43.847504_-92.187567@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602966,
-    "wof:geomhash":"017dc4b4e75c93059d9745879d62f755",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b792e0a01dc94b2ebceecae2039f4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509629,
+            "locality_id":85953187,
+            "region_id":85688727,
+            "venue_id":807012671
+        }
+    ],
     "wof:id":807012671,
-    "wof:lastmodified":1472628963,
+    "wof:lastmodified":1492824484,
     "wof:name":"Jack Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

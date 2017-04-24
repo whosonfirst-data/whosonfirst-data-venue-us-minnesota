@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.852375,45.360959,-92.852375,45.360959",
     "geom:latitude":45.360959,
     "geom:longitude":-92.852375,
@@ -34,17 +35,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VplUw4leO8e1DMlSzJkW1_45.360959_-92.852375@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590739,
-    "wof:geomhash":"a866d665b414801d03bd95dc7f599017",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93c88a6834dcaaeb9eb1d341352a8579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":789813107
+        }
+    ],
     "wof:id":789813107,
-    "wof:lastmodified":1472629381,
+    "wof:lastmodified":1492812295,
     "wof:name":"T Bergeron Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

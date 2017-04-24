@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.298301,46.189986,-95.298301,46.189986",
     "geom:latitude":46.189986,
     "geom:longitude":-95.298301,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513035,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Gyj6JDiSBhcbasO3Ot4gV_46.189986_-95.298301@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599011,
-    "wof:geomhash":"d9dcf5b515f90c257b65ffcfc11b2228",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb07ad165ff38493f4f8cd59a5de209c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513035,
+            "region_id":85688727,
+            "venue_id":806546947
+        }
+    ],
     "wof:id":806546947,
-    "wof:lastmodified":1472629457,
+    "wof:lastmodified":1492815287,
     "wof:name":"Bob Marweg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

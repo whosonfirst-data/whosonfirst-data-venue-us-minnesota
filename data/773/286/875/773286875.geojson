@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.102872,44.983889,-93.102872,44.983889",
     "geom:latitude":44.983889,
     "geom:longitude":-93.102872,
@@ -35,11 +36,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        1108800551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,23 +49,33 @@
     },
     "wof:country":"US",
     "wof:created":1462584576,
-    "wof:geomhash":"38d026992e6ea180d4948dea5b459527",
+    "wof:geomhash":"63fa318e6832c74ee78ce9932d92b4ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":773286875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800551,
             "region_id":85688727,
             "venue_id":773286875
         }
     ],
     "wof:id":773286875,
-    "wof:lastmodified":1472630020,
+    "wof:lastmodified":1492799538,
     "wof:name":"Lee Line Svc",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

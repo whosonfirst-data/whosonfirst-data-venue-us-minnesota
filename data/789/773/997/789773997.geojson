@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.353172,47.432528,-92.353172,47.432528",
     "geom:latitude":47.432528,
     "geom:longitude":-92.353172,
@@ -31,17 +32,26 @@
         "photo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29EuimNjRUhrtpXOpZd5Lk_47.432528_-92.353172@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590433,
-    "wof:geomhash":"9b0f5195e097af999d114c23ada4881f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b269df588f11697d0f21541e4c2d2faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":789773997
+        }
+    ],
     "wof:id":789773997,
-    "wof:lastmodified":1472629339,
+    "wof:lastmodified":1492809077,
     "wof:name":"Hallada",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

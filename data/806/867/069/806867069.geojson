@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.636226,46.192926,-95.636226,46.192926",
     "geom:latitude":46.192926,
     "geom:longitude":-95.636226,
@@ -37,17 +38,32 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512895,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lvaicWYeRgddlrVTl9ifq_46.192926_-95.636226@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601749,
-    "wof:geomhash":"15c8f9ccbe79e197229ca79f203ef031",
-    "wof:hierarchy":[],
+    "wof:geomhash":"099bd95157dff86150908d69aeb33b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512895,
+            "region_id":85688727,
+            "venue_id":806867069
+        }
+    ],
     "wof:id":806867069,
-    "wof:lastmodified":1472629898,
+    "wof:lastmodified":1492819110,
     "wof:name":"Silver Stage Guest Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.749063,45.148494,-93.749063,45.148494",
     "geom:latitude":45.148494,
     "geom:longitude":-93.749063,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515249,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KTW6loh1yJTylV5X1lxW6_45.148494_-93.749063@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605830,
-    "wof:geomhash":"26fefeaa83dd3ec0cab3b3221a5c7a27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"863590eba90a5bb4dc8a061584311e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515249,
+            "region_id":85688727,
+            "venue_id":807297945
+        }
+    ],
     "wof:id":807297945,
-    "wof:lastmodified":1472629631,
+    "wof:lastmodified":1492827435,
     "wof:name":"Abs Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

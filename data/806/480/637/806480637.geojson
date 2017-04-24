@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.27465,44.775745,-94.27465,44.775745",
     "geom:latitude":44.775745,
     "geom:longitude":-94.27465,
@@ -33,17 +34,32 @@
         "vehicle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510117,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HexBrDnFOH6zx5kJAdpoy_44.775745_-94.274650@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598474,
-    "wof:geomhash":"1b045dc62c17983210be3376554a2d9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7091ebfcfd417e5c970d5b5d9b326ff5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510117,
+            "region_id":85688727,
+            "venue_id":806480637
+        }
+    ],
     "wof:id":806480637,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1492821589,
     "wof:name":"Performance Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

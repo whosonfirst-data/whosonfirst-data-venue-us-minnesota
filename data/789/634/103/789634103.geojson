@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181613,48.120081,-96.181613,48.120081",
     "geom:latitude":48.120081,
     "geom:longitude":-96.181613,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UBbCxIomytlI5EnBlByVZ_48.120081_-96.181613@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589330,
-    "wof:geomhash":"26d0bb796a7d454d498ca165ba7ae01c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae19fee7712b5b8fe9d6066f53c079f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":789634103
+        }
+    ],
     "wof:id":789634103,
-    "wof:lastmodified":1472629067,
+    "wof:lastmodified":1492812906,
     "wof:name":"Sather Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

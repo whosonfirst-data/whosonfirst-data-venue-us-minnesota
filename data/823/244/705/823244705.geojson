@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.075948,45.313024,-96.075948,45.313024",
     "geom:latitude":45.313024,
     "geom:longitude":-96.075948,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510851,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QWNnUqWdSmk3LNXWZSAsP_45.313024_-96.075948@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609231,
-    "wof:geomhash":"22589c8822afde0dd5c33477b0014c6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35a64f129381d95750002bfdecbb4732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404510851,
+            "region_id":85688727,
+            "venue_id":823244705
+        }
+    ],
     "wof:id":823244705,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492830985,
     "wof:name":"John Vaala",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.862614,44.725257,-92.862614,44.725257",
     "geom:latitude":44.725257,
     "geom:longitude":-92.862614,
@@ -32,17 +33,34 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D4HEchUffCeIjGPWHWRRY_44.725257_-92.862614@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586832,
-    "wof:geomhash":"31a9e9efaf58bfacc87c1be99b15e7e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e854bf3e4e1b126be9f1ab468cc0f6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":773584267
+        }
+    ],
     "wof:id":773584267,
-    "wof:lastmodified":1472630098,
+    "wof:lastmodified":1492804581,
     "wof:name":"Bear Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

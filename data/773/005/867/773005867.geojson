@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.46347,45.449285,-94.46347,45.449285",
     "geom:latitude":45.449285,
     "geom:longitude":-94.46347,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512163,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v7XhOaKkOfuMwzHSd2hpr_45.449285_-94.463470@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582234,
-    "wof:geomhash":"992f857ce7924686ba357bac8a1ebb34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a71cb56303433fb20546c213c9d907ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512163,
+            "region_id":85688727,
+            "venue_id":773005867
+        }
+    ],
     "wof:id":773005867,
-    "wof:lastmodified":1472629048,
+    "wof:lastmodified":1492802393,
     "wof:name":"Cold Spring Electric Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

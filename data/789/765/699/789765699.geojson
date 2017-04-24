@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.983825,45.510282,-92.983825,45.510282",
     "geom:latitude":45.510282,
     "geom:longitude":-92.983825,
@@ -31,17 +32,34 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k4S4BSmfZYtloHJGVIoJK_45.510282_-92.983825@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590371,
-    "wof:geomhash":"3c2f783da1676a91b30dc733c4aa9606",
-    "wof:hierarchy":[],
+    "wof:geomhash":"988c0fe5c33900580e116ffc9ec67b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":789765699
+        }
+    ],
     "wof:id":789765699,
-    "wof:lastmodified":1472629331,
+    "wof:lastmodified":1492810480,
     "wof:name":"Ross's Sewer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

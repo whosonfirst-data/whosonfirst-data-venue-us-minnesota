@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.796328,45.299912,-93.796328,45.299912",
     "geom:latitude":45.299912,
     "geom:longitude":-93.796328,
@@ -32,17 +33,34 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z9UgukIlLMSlpw0Gmdqix_45.299912_-93.796328@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603062,
-    "wof:geomhash":"2376f800f1b0bf13a0b4d8a2c3943ea8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec312dc57c2cd0c89e0f49b30d24bc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":807023013
+        }
+    ],
     "wof:id":807023013,
-    "wof:lastmodified":1472628981,
+    "wof:lastmodified":1492824611,
     "wof:name":"H & R Block Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

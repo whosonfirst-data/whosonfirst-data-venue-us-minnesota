@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.092003,44.928454,-93.092003,44.928454",
     "geom:latitude":44.928454,
     "geom:longitude":-93.092003,
@@ -41,19 +42,38 @@
         "amputee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RdXXkwfJ5IThw7Ht8FNcy_44.928454_-93.092003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603133,
-    "wof:geomhash":"9812c5a0f07f8ff2edfc8f14208ee100",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aadcc5bdd1ab9dc10f2af10e2fde67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":807031291
+        }
+    ],
     "wof:id":807031291,
-    "wof:lastmodified":1472628982,
+    "wof:lastmodified":1492825399,
     "wof:name":"Becker Mechanical Hands Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

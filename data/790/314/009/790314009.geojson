@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.71207,45.628817,-94.71207,45.628817",
     "geom:latitude":45.628817,
     "geom:longitude":-94.71207,
@@ -31,17 +32,32 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514383,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e9R4CBgA23rHq21Bth7Hk_45.628817_-94.712070@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594875,
-    "wof:geomhash":"1c1d4bfaa85768d47e6dd08d0d817ddf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cc9f4246dcc0ed1f7e8618fef99d3e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514383,
+            "region_id":85688727,
+            "venue_id":790314009
+        }
+    ],
     "wof:id":790314009,
-    "wof:lastmodified":1472629487,
+    "wof:lastmodified":1492831542,
     "wof:name":"Oak Town Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

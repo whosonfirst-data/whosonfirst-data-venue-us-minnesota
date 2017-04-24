@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.509875,44.032158,-92.509875,44.032158",
     "geom:latitude":44.032158,
     "geom:longitude":-92.509875,
@@ -32,17 +33,34 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hLUBsQof5D0m7Ycp2Xdw1_44.032158_-92.509875@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602982,
-    "wof:geomhash":"30547f55c96d9841ff590f2ea0d08c94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"311aa65c1c21eed8ad435cf3708a7f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":807014395
+        }
+    ],
     "wof:id":807014395,
-    "wof:lastmodified":1472628944,
+    "wof:lastmodified":1492823435,
     "wof:name":"Cardinal Of Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.977003,43.713881,-91.977003,43.713881",
     "geom:latitude":43.713881,
     "geom:longitude":-91.977003,
@@ -33,17 +34,34 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514267,
+        85633793,
+        85953173,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Al91Q0zEh8jYuszpNR0QO_43.713881_-91.977003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599135,
-    "wof:geomhash":"22ca94ad453a0cf5d83d41f3372e65f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"354d2ec88353430fb44b67d2748172d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514267,
+            "locality_id":85953173,
+            "region_id":85688727,
+            "venue_id":806560835
+        }
+    ],
     "wof:id":806560835,
-    "wof:lastmodified":1472629467,
+    "wof:lastmodified":1492814274,
     "wof:name":"O'Leary's Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

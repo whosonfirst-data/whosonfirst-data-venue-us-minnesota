@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.164405,45.533332,-94.164405,45.533332",
     "geom:latitude":45.533332,
     "geom:longitude":-94.164405,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Oh3uHpXWYfzbNme9Qqizc_45.533332_-94.164405@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596946,
-    "wof:geomhash":"d1bfd6fdda532772279122d2c0140153",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cafe3bd956730fcdcdd439f1b504969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":790568673
+        }
+    ],
     "wof:id":790568673,
-    "wof:lastmodified":1472629856,
+    "wof:lastmodified":1492836430,
     "wof:name":"Hornibrook Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

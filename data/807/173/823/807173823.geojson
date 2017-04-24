@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.777193,44.601269,-95.777193,44.601269",
     "geom:latitude":44.601269,
     "geom:longitude":-95.777193,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512679,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IkhZdzIg5eut18w5fOfwu_44.601269_-95.777193@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604525,
-    "wof:geomhash":"97c37f3c10c48277bd8bfde0343cb341",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed6fea6c189655310b0242b82966af71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512679,
+            "region_id":85688727,
+            "venue_id":807173823
+        }
+    ],
     "wof:id":807173823,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492825970,
     "wof:name":"Gene Isfeld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

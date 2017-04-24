@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.189942,45.548451,-94.189942,45.548451",
     "geom:latitude":45.548451,
     "geom:longitude":-94.189942,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JrMQBVlIEPKBWwipFKNMS_45.548451_-94.189942@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602517,
-    "wof:geomhash":"874bde81c16eccee1282561c3859eb36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b71646047f164699a52597b07986cdb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":806958989
+        }
+    ],
     "wof:id":806958989,
-    "wof:lastmodified":1472629970,
+    "wof:lastmodified":1492819550,
     "wof:name":"Northern Auto Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

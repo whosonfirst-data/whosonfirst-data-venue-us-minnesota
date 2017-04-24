@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.678124,44.199612,-93.678124,44.199612",
     "geom:latitude":44.199612,
     "geom:longitude":-93.678124,
@@ -31,17 +32,34 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512213,
+        85633793,
+        85953085,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AeeIu4PscfYvoDlnLZzu1_44.199612_-93.678124@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598415,
-    "wof:geomhash":"1c8a9dde941fe7f6c44c39d4427b0146",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8a932761ff7070f11e5bb54dd2a8fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512213,
+            "locality_id":85953085,
+            "region_id":85688727,
+            "venue_id":806473959
+        }
+    ],
     "wof:id":806473959,
-    "wof:lastmodified":1472629255,
+    "wof:lastmodified":1492816128,
     "wof:name":"Weber Auction Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

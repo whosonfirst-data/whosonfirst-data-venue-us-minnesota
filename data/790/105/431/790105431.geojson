@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.428646,44.507996,-96.428646,44.507996",
     "geom:latitude":44.507996,
     "geom:longitude":-96.428646,
@@ -31,17 +32,34 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512503,
+        85633793,
+        85968385,
+        102087807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58Gpy5Ynk69L2EIskAxgNR_44.507996_-96.428646@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593183,
-    "wof:geomhash":"12806cc8524bef8826f29c073057966f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75c04c9639f1555bdeeb5154b4e5d97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087807,
+            "localadmin_id":404512503,
+            "locality_id":85968385,
+            "region_id":85688727,
+            "venue_id":790105431
+        }
+    ],
     "wof:id":790105431,
-    "wof:lastmodified":1472629126,
+    "wof:lastmodified":1492831365,
     "wof:name":"A & M Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

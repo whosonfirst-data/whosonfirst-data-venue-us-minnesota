@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.996591,44.173658,-93.996591,44.173658",
     "geom:latitude":44.173658,
     "geom:longitude":-93.996591,
@@ -28,17 +29,34 @@
     "sg:postcode":"56001",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QaXdPGa86eECabWdKaxQO_44.173658_-93.996591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590594,
-    "wof:geomhash":"46f4b634d97ca96bdad7095604f0ac69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb96b7fd073d070fdae7012dbdcae0ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":789793903
+        }
+    ],
     "wof:id":789793903,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492811679,
     "wof:name":"Speedway Superamerica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247368,45.012169,-93.247368,45.012169",
     "geom:latitude":45.012169,
     "geom:longitude":-93.247368,
@@ -29,14 +30,15 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800097,
         85872675,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607816,
-    "wof:geomhash":"643d96596880676e1a29f2022a1b788a",
+    "wof:geomhash":"ca9117b50bec8f3f65866da870d2f8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +54,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108800001,
+            "microhood_id":1108800097,
             "neighbourhood_id":85872675,
-            "region_id":85688727,
-            "venue_id":823161323
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
             "region_id":85688727,
             "venue_id":823161323
         }
     ],
     "wof:id":823161323,
-    "wof:lastmodified":1472628987,
+    "wof:lastmodified":1492829855,
     "wof:name":"Elizabeth Bakery Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

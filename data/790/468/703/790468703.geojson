@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.191581,45.542322,-94.191581,45.542322",
     "geom:latitude":45.542322,
     "geom:longitude":-94.191581,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rACFyVDvpiytjFVeb9anw_45.542322_-94.191581@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596080,
-    "wof:geomhash":"692f5915c25c77e0e1bf4c7b84a8b70e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34948b74d5c933dce572ef2d7eed9326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":790468703
+        }
+    ],
     "wof:id":790468703,
-    "wof:lastmodified":1472629747,
+    "wof:lastmodified":1492836109,
     "wof:name":"Village Green Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

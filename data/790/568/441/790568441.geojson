@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.516761,44.880998,-93.516761,44.880998",
     "geom:latitude":44.880998,
     "geom:longitude":-93.516761,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ijFGwEsoJMkumyymDLP70_44.880998_-93.516761@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596944,
-    "wof:geomhash":"5d049176658b31f22f2591eeb7cac9da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f62c3fa8c9413a26dbe3655e227a983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":790568441
+        }
+    ],
     "wof:id":790568441,
-    "wof:lastmodified":1472629842,
+    "wof:lastmodified":1492836436,
     "wof:name":"McCormick Sales & Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

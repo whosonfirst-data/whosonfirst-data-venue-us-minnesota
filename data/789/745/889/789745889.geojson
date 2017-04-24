@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.1968,45.561865,-94.1968,45.561865",
     "geom:latitude":45.561865,
     "geom:longitude":-94.1968,
@@ -32,17 +33,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LKMtjetpnzZwqM6mcOTOM_45.561865_-94.196800@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590224,
-    "wof:geomhash":"03dea224e806bbe4cb132906ebb4f377",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5330345128cff81854a1afe76fb78452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789745889
+        }
+    ],
     "wof:id":789745889,
-    "wof:lastmodified":1472629297,
+    "wof:lastmodified":1492812867,
     "wof:name":"Aroma Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.342673,46.289514,-94.342673,46.289514",
     "geom:latitude":46.289514,
     "geom:longitude":-94.342673,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511757,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RExbD6nrEOYpX2C3iOG9O_46.289514_-94.342673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601687,
-    "wof:geomhash":"ff0cebd3c7f8503d1bab1afe29f61f42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5ffae6b039e6ea3fa0491bb25dadc94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511757,
+            "region_id":85688727,
+            "venue_id":806859597
+        }
+    ],
     "wof:id":806859597,
-    "wof:lastmodified":1472629901,
+    "wof:lastmodified":1492821696,
     "wof:name":"Gary Hill Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

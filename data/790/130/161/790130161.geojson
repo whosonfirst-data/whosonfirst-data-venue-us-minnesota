@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.436968,43.827534,-94.436968,43.827534",
     "geom:latitude":43.827534,
     "geom:longitude":-94.436968,
@@ -32,17 +33,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512257,
+        85633793,
+        85953119,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ticrteAfNUUOrxAY7VMdu_43.827534_-94.436968@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593361,
-    "wof:geomhash":"adeabf2b42499de34c545f7cb8024d8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc40acc06b6de5f6d0b6561f45aa683b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512257,
+            "locality_id":85953119,
+            "region_id":85688727,
+            "venue_id":790130161
+        }
+    ],
     "wof:id":790130161,
-    "wof:lastmodified":1472629180,
+    "wof:lastmodified":1492832150,
     "wof:name":"Truman City Public Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

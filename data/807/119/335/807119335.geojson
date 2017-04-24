@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.387643,45.181256,-94.387643,45.181256",
     "geom:latitude":45.181256,
     "geom:longitude":-94.387643,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512395,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ym0JnpidYQn6Iap87W5T6_45.181256_-94.387643@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603931,
-    "wof:geomhash":"c6cfdf6fdba594b2af12ecaaa2982f02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6273cad7d7abb41045b8734b343227ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512395,
+            "region_id":85688727,
+            "venue_id":807119335
+        }
+    ],
     "wof:id":807119335,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492825347,
     "wof:name":"Anderson Layne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

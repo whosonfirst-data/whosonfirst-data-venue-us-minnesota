@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.703571,45.960068,-93.703571,45.960068",
     "geom:latitude":45.960068,
     "geom:longitude":-93.703571,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512543,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ai8Tcbv0hKAwbxIrab5i3_45.960068_-93.703571@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603806,
-    "wof:geomhash":"e97573169458898a437ceb536ff5ba4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afd327b76c87d18e2236ed31b35a8f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512543,
+            "region_id":85688727,
+            "venue_id":807107159
+        }
+    ],
     "wof:id":807107159,
-    "wof:lastmodified":1472629193,
+    "wof:lastmodified":1492824431,
     "wof:name":"Steven Alvstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

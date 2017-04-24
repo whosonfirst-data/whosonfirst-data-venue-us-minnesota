@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.622488,45.133396,-93.622488,45.133396",
     "geom:latitude":45.133396,
     "geom:longitude":-93.622488,
@@ -31,17 +32,34 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511835,
+        85633793,
+        85969223,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YCnvO1ASk5vWectvGZaWm_45.133396_-93.622488@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592203,
-    "wof:geomhash":"dc05d25c135c0287020249762874643b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"038f0af04aeb8af7905a4b54e1f98753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511835,
+            "locality_id":85969223,
+            "region_id":85688727,
+            "venue_id":789984163
+        }
+    ],
     "wof:id":789984163,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492809995,
     "wof:name":"Cozy Warm Corn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

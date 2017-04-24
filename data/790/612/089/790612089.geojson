@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.454981,44.053205,-92.454981,44.053205",
     "geom:latitude":44.053205,
     "geom:longitude":-92.454981,
@@ -32,17 +33,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z2ooEDMIulDnrxROKjip8_44.053205_-92.454981@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597320,
-    "wof:geomhash":"a809e6b5915c41486755a5c05a2b532a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a3724ae65f715a9da94e90089f2e23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790612089
+        }
+    ],
     "wof:id":790612089,
-    "wof:lastmodified":1472629907,
+    "wof:lastmodified":1492831723,
     "wof:name":"Pump N Munch 03",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

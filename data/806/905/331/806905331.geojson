@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.803844,46.656026,-95.803844,46.656026",
     "geom:latitude":46.656026,
     "geom:longitude":-95.803844,
@@ -33,17 +34,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513063,
+        85633793,
+        85968687,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iGQETJYghGHygcx2tNLpN_46.656026_-95.803844@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602049,
-    "wof:geomhash":"5466e521f5e688c2f406faac0bf20333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d9ddc8476dfa7b98e41a7cb9b9384f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513063,
+            "locality_id":85968687,
+            "region_id":85688727,
+            "venue_id":806905331
+        }
+    ],
     "wof:id":806905331,
-    "wof:lastmodified":1472629928,
+    "wof:lastmodified":1492817919,
     "wof:name":"Moe's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

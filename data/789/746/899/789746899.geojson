@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.453918,45.123188,-93.453918,45.123188",
     "geom:latitude":45.123188,
     "geom:longitude":-93.453918,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IsoWEkE9qWDaVfG6PK3iU_45.123188_-93.453918@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590231,
-    "wof:geomhash":"cc2314ddc7b143fd9e5a7a64b0f982c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8345254815731816a281ef00da62b6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789746899
+        }
+    ],
     "wof:id":789746899,
-    "wof:lastmodified":1472629308,
+    "wof:lastmodified":1492810498,
     "wof:name":"Cambridge Property Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

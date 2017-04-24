@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.78209,46.875009,-92.78209,46.875009",
     "geom:latitude":46.875009,
     "geom:longitude":-92.78209,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510657,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yjQDTA6y0v39roEBsVjEG_46.875009_-92.782090@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587145,
-    "wof:geomhash":"12cbff9cdf05a838683a4f968bcd4f78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39a88c15fd9b76187627423ed25d712c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510657,
+            "region_id":85688727,
+            "venue_id":773626647
+        }
+    ],
     "wof:id":773626647,
-    "wof:lastmodified":1472630109,
+    "wof:lastmodified":1492806951,
     "wof:name":"Winter Homes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

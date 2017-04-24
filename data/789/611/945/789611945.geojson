@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.832969,46.123177,-94.832969,46.123177",
     "geom:latitude":46.123177,
     "geom:longitude":-94.832969,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514739,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JJRuQap0XfwBmHT1AFvkF_46.123177_-94.832969@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589151,
-    "wof:geomhash":"3990feeaa5c8b063e7e43b3aa2e2467e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30d605e0596f7b2bf2b1f6c8b77fc968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514739,
+            "region_id":85688727,
+            "venue_id":789611945
+        }
+    ],
     "wof:id":789611945,
-    "wof:lastmodified":1472629014,
+    "wof:lastmodified":1492809140,
     "wof:name":"Bobs Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.08215,44.920497,-93.08215,44.920497",
     "geom:latitude":44.920497,
     "geom:longitude":-93.08215,
@@ -31,19 +32,38 @@
         "athletic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TUHjdz9I6LfCwOUUoRKXi_44.920497_-93.082150@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585952,
-    "wof:geomhash":"e90686f0ea01dab63ff475b391b41dee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0aa62c84ad8d3fa3cfca2ada5381984a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773465037
+        }
+    ],
     "wof:id":773465037,
-    "wof:lastmodified":1472630058,
+    "wof:lastmodified":1492801079,
     "wof:name":"Head Start Basketball Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

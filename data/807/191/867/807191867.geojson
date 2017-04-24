@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.069853,44.471785,-93.069853,44.471785",
     "geom:latitude":44.471785,
     "geom:longitude":-93.069853,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512643,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mufm4rTmXekgZ6bQYl4WU_44.471785_-93.069853@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604708,
-    "wof:geomhash":"3c8fd68150823de36ecaa8856e3d936d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81b59d653d62c3b52ec6cffe8f9816ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512643,
+            "region_id":85688727,
+            "venue_id":807191867
+        }
+    ],
     "wof:id":807191867,
-    "wof:lastmodified":1472629420,
+    "wof:lastmodified":1492826446,
     "wof:name":"Warner Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.564011,45.122121,-93.564011,45.122121",
     "geom:latitude":45.122121,
     "geom:longitude":-93.564011,
@@ -33,17 +34,34 @@
         "event"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511835,
+        85633793,
+        85969223,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IjeK75evWvEqqsBk5ddxg_45.122121_-93.564011@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606128,
-    "wof:geomhash":"91f40ec90fc079bd7d254b6c241efc51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d98bff858e2ebcc0f271236716618bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511835,
+            "locality_id":85969223,
+            "region_id":85688727,
+            "venue_id":807324875
+        }
+    ],
     "wof:id":807324875,
-    "wof:lastmodified":1472629741,
+    "wof:lastmodified":1492825583,
     "wof:name":"Creative Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

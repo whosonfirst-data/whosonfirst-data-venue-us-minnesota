@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.394152,44.869819,-94.394152,44.869819",
     "geom:latitude":44.869819,
     "geom:longitude":-94.394152,
@@ -52,17 +53,34 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yFF764exqKCIF3sY0uqaR_44.869819_-94.394152@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606237,
-    "wof:geomhash":"8b230f78ccfcd4a3234bea5aa8fba323",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84425cfea21173a39f682d0d56e06995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":807333027
+        }
+    ],
     "wof:id":807333027,
-    "wof:lastmodified":1472629716,
+    "wof:lastmodified":1492826240,
     "wof:name":"Liepke's Wallcovering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

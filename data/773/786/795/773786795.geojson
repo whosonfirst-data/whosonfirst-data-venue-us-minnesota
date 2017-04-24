@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.762723,48.846312,-95.762723,48.846312",
     "geom:latitude":48.846312,
     "geom:longitude":-95.762723,
@@ -31,17 +32,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cvxHW7S5xMDcTJRdUnR0G_48.846312_-95.762723@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588366,
-    "wof:geomhash":"a60180f61fda2acd6d9bb57407975f78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dcb05bb4e9c642282cbf4d45a231996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":773786795
+        }
+    ],
     "wof:id":773786795,
-    "wof:lastmodified":1472630160,
+    "wof:lastmodified":1492800263,
     "wof:name":"New Image",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

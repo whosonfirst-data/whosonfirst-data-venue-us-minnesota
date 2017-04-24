@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.348927,44.741502,-93.348927,44.741502",
     "geom:latitude":44.741502,
     "geom:longitude":-93.348927,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7blYJGCf3pO8k5IAMXTwY8_44.741502_-93.348927@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600332,
-    "wof:geomhash":"437eb5d4dc00b8c816bf91898fd6acce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8edcb398ebbca38dee2ed3b1264481df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":806699717
+        }
+    ],
     "wof:id":806699717,
-    "wof:lastmodified":1472629722,
+    "wof:lastmodified":1492818328,
     "wof:name":"Churchhill Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

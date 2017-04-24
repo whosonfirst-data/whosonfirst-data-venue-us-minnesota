@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.06226,47.701769,-94.06226,47.701769",
     "geom:latitude":47.701769,
     "geom:longitude":-94.06226,
@@ -31,17 +32,32 @@
         "installation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509809,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PlVR34q8fNLX52tR15GL9_47.701769_-94.062260@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600763,
-    "wof:geomhash":"d901d9e42e1f3eee6a662e7da2b2ef8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c7d11ac6e965cb4106a42bf1df8cd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404509809,
+            "region_id":85688727,
+            "venue_id":806750065
+        }
+    ],
     "wof:id":806750065,
-    "wof:lastmodified":1472629763,
+    "wof:lastmodified":1492814999,
     "wof:name":"Brother's Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.314245,45.108948,-93.314245,45.108948",
     "geom:latitude":45.108948,
     "geom:longitude":-93.314245,
@@ -34,17 +35,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X81lyAbtZQex7lDVXxHcU_45.108948_-93.314245@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608589,
-    "wof:geomhash":"9c40fd6148436b3af795d0a4d825e1e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"808ccacbec3586b571ee6f08c39fe4b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213285
+        }
+    ],
     "wof:id":823213285,
-    "wof:lastmodified":1472629092,
+    "wof:lastmodified":1492829192,
     "wof:name":"Modern Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

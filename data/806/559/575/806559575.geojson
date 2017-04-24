@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.58281,47.225572,-93.58281,47.225572",
     "geom:latitude":47.225572,
     "geom:longitude":-93.58281,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462599121,
-    "wof:geomhash":"741cfdf59b8a63bd536f78bad8de38c4",
+    "wof:geomhash":"f6a44dc9de2d0e9763760ae989e41ddc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":806559575,
-    "wof:lastmodified":1472629460,
+    "wof:lastmodified":1492821778,
     "wof:name":"Robert Sipe",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

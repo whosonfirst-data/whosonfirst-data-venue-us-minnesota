@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.512605,44.221633,-94.512605,44.221633",
     "geom:latitude":44.221633,
     "geom:longitude":-94.512605,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511469,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mtIUNHi8UaWC2PBh9nOlQ_44.221633_-94.512605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604546,
-    "wof:geomhash":"12a61f150bfa8e8b258c89b2ff9fb8c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9773dbb42174267f31fa1c6ef8c4572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511469,
+            "region_id":85688727,
+            "venue_id":807175959
+        }
+    ],
     "wof:id":807175959,
-    "wof:lastmodified":1472629357,
+    "wof:lastmodified":1492825303,
     "wof:name":"Martin Janni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

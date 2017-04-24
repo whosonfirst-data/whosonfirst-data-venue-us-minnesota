@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.937268,45.73817,-94.937268,45.73817",
     "geom:latitude":45.73817,
     "geom:longitude":-94.937268,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512153,
+        85633793,
+        85952509,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JE3LRGECw15i4MZxbgDki_45.738170_-94.937268@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584827,
-    "wof:geomhash":"a45058ce2be20044ae2086723b2b786e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1edb030592fbba05063dba785f1c522e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512153,
+            "locality_id":85952509,
+            "region_id":85688727,
+            "venue_id":773317587
+        }
+    ],
     "wof:id":773317587,
-    "wof:lastmodified":1472630006,
+    "wof:lastmodified":1492805972,
     "wof:name":"Kenneth Arens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.605892,46.049173,-95.605892,46.049173",
     "geom:latitude":46.049173,
     "geom:longitude":-95.605892,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513921,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kwZxchJ2gCewpWG6ks0xN_46.049173_-95.605892@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604537,
-    "wof:geomhash":"a6d5fd64f6af2a12484612d2c416a337",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2b46a81cd0bb1730becbafebc5949f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513921,
+            "region_id":85688727,
+            "venue_id":807175015
+        }
+    ],
     "wof:id":807175015,
-    "wof:lastmodified":1472629328,
+    "wof:lastmodified":1492825289,
     "wof:name":"Westwood Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

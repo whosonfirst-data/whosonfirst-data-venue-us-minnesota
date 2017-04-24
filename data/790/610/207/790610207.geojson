@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.230319,44.084288,-93.230319,44.084288",
     "geom:latitude":44.084288,
     "geom:longitude":-93.230319,
@@ -32,19 +33,38 @@
     ],
     "sg:website":"www.larsonallen.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85896885,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ozvlhs9G4a1ZcxAObDAFB_44.084288_-93.230319@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597305,
-    "wof:geomhash":"78dfef620090d4267884b1bb1fb82666",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af4026c57d197faf68bc6a68582fbe98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "neighbourhood_id":85896885,
+            "region_id":85688727,
+            "venue_id":790610207
+        }
+    ],
     "wof:id":790610207,
-    "wof:lastmodified":1472629906,
+    "wof:lastmodified":1492836514,
     "wof:name":"Larsonallen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85896885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

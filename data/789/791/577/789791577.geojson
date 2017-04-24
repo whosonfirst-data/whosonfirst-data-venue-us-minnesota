@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.76427,44.447463,-95.76427,44.447463",
     "geom:latitude":44.447463,
     "geom:longitude":-95.76427,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4h1PMvqSaucoiC5DKRA8VV_44.447463_-95.764270@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590577,
-    "wof:geomhash":"f7be09151ffbb84ac871e95c062c9bd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"515e6096070ed353c47750c71716236a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":789791577
+        }
+    ],
     "wof:id":789791577,
-    "wof:lastmodified":1472629378,
+    "wof:lastmodified":1492811818,
     "wof:name":"Camden Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

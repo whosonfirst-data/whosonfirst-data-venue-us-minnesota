@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.912415,44.848211,-93.912415,44.848211",
     "geom:latitude":44.848211,
     "geom:longitude":-93.912415,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511683,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BM7AQeDkckA5tuJHoueaw_44.848211_-93.912415@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586926,
-    "wof:geomhash":"6d6c8575b12b0ead84150ce90e217507",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d645544f0308fd6703931708e5731c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511683,
+            "region_id":85688727,
+            "venue_id":773597377
+        }
+    ],
     "wof:id":773597377,
-    "wof:lastmodified":1472630103,
+    "wof:lastmodified":1492799511,
     "wof:name":"Roger Sauerbrey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

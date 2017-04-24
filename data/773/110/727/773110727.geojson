@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.957578,45.065765,-92.957578,45.065765",
     "geom:latitude":45.065765,
     "geom:longitude":-92.957578,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85815391,
+        102191575,
+        404510951,
         85633793,
         85968253,
         102087659,
-        85815391
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462583226,
-    "wof:geomhash":"fd59ddce270e6ddaf88cb4e082f84c9c",
+    "wof:geomhash":"b874c596c5bfff04bcaf11fa461d12d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087659,
+            "localadmin_id":404510951,
             "locality_id":85968253,
             "neighbourhood_id":85815391,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":773110727,
-    "wof:lastmodified":1472629625,
+    "wof:lastmodified":1492804748,
     "wof:name":"Alarm Choice",
     "wof:parent_id":85815391,
     "wof:placetype":"venue",

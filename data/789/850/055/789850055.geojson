@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.848407,44.715228,-92.848407,44.715228",
     "geom:latitude":44.715228,
     "geom:longitude":-92.848407,
@@ -28,17 +29,34 @@
     "sg:postcode":"55033",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1offHNXHXUwum3qV7MU69y_44.715228_-92.848407@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591027,
-    "wof:geomhash":"83d3dc1d286e0202d2ee0fc9a63d46eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fef144fda0cd2c54f9ece53ee679cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":789850055
+        }
+    ],
     "wof:id":789850055,
-    "wof:lastmodified":1472629480,
+    "wof:lastmodified":1492809834,
     "wof:name":"National Karate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

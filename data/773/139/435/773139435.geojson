@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.361203,43.858088,-95.361203,43.858088",
     "geom:latitude":43.858088,
     "geom:longitude":-95.361203,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511875,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66PFFFCYb56rLQGbfwOvc4_43.858088_-95.361203@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583433,
-    "wof:geomhash":"800e03a3936cfb004dbbb5b34aa6c061",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f3067b577c593da7ba6f5417547c1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511875,
+            "region_id":85688727,
+            "venue_id":773139435
+        }
+    ],
     "wof:id":773139435,
-    "wof:lastmodified":1472629694,
+    "wof:lastmodified":1492799781,
     "wof:name":"Edward Schaffer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

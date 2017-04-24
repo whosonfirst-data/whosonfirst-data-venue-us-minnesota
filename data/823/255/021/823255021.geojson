@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.509138,47.296278,-96.509138,47.296278",
     "geom:latitude":47.296278,
     "geom:longitude":-96.509138,
@@ -32,17 +33,34 @@
         "government-county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510277,
+        85633793,
+        85968341,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fggy7IBt3t6aboWuTnuVF_47.296278_-96.509138@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609442,
-    "wof:geomhash":"2e7e79777ce49aa38499ebc13709fea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b1957999fde81c8de52614217b94004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404510277,
+            "locality_id":85968341,
+            "region_id":85688727,
+            "venue_id":823255021
+        }
+    ],
     "wof:id":823255021,
-    "wof:lastmodified":1472629181,
+    "wof:lastmodified":1492831211,
     "wof:name":"Deputy Register's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

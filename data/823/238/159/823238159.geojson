@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.169733,43.920487,-94.169733,43.920487",
     "geom:latitude":43.920487,
     "geom:longitude":-94.169733,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511565,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51qU9PRxgmv1NOiDlaffHY_43.920487_-94.169733@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609116,
-    "wof:geomhash":"51978804888c0162bdae287ee3771126",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e555374973a4030be8ddb30d83d21bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511565,
+            "region_id":85688727,
+            "venue_id":823238159
+        }
+    ],
     "wof:id":823238159,
-    "wof:lastmodified":1472629131,
+    "wof:lastmodified":1492830616,
     "wof:name":"Wayne Eberhart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

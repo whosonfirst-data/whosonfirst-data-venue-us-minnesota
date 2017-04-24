@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.164458,45.533646,-94.164458,45.533646",
     "geom:latitude":45.533646,
     "geom:longitude":-94.164458,
@@ -31,17 +32,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dCV8fCzMyTS5dijOzOVUZ_45.533646_-94.164458@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595424,
-    "wof:geomhash":"3add354dd5f33684087d802fe57835b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c5547bf6c197e27755b06c83b74e359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":790385281
+        }
+    ],
     "wof:id":790385281,
-    "wof:lastmodified":1472629609,
+    "wof:lastmodified":1492834561,
     "wof:name":"Granite City Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

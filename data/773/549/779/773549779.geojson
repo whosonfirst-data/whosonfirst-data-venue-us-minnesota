@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.165409,45.590146,-94.165409,45.590146",
     "geom:latitude":45.590146,
     "geom:longitude":-94.165409,
@@ -31,17 +32,34 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61SimtiY8LJnbuBdaAScQP_45.590146_-94.165409@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586565,
-    "wof:geomhash":"8865d53a2a09c3d9a4cd2266ab80933e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"120e56cda2e01b33971eed9d5a2510f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":773549779
+        }
+    ],
     "wof:id":773549779,
-    "wof:lastmodified":1472630089,
+    "wof:lastmodified":1492801395,
     "wof:name":"Jimmy's Pour House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360246,44.941707,-93.360246,44.941707",
     "geom:latitude":44.941707,
     "geom:longitude":-93.360246,
@@ -31,17 +32,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RQmVfXdFgzZoWnglPraoh_44.941707_-93.360246@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591615,
-    "wof:geomhash":"0c40cfc06aca16413d7efa166557b62a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"131f9ce9724a1413d79e3890b7802102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":789918855
+        }
+    ],
     "wof:id":789918855,
-    "wof:lastmodified":1472629618,
+    "wof:lastmodified":1492811219,
     "wof:name":"Ryder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

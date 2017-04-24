@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.617906,44.232702,-95.617906,44.232702",
     "geom:latitude":44.232702,
     "geom:longitude":-95.617906,
@@ -31,17 +32,34 @@
         "alley"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6md6TdVHFqFTqsdqhuvgOa_44.232702_-95.617906@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596756,
-    "wof:geomhash":"842fec6e82a8c998faedc868c9cf2be5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eab7574d5f909f68de9f3ec347828da8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":790546625
+        }
+    ],
     "wof:id":790546625,
-    "wof:lastmodified":1472629819,
+    "wof:lastmodified":1492832437,
     "wof:name":"Tracy Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

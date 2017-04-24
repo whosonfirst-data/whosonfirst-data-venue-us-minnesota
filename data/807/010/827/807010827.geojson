@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.993755,44.921976,-92.993755,44.921976",
     "geom:latitude":44.921976,
     "geom:longitude":-92.993755,
@@ -28,17 +29,34 @@
     "sg:postcode":"55119",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514453,
+        85633793,
+        85953111,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TlF3utzsdyg4gOPADpVM8_44.921976_-92.993755@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602950,
-    "wof:geomhash":"a2e44c1687d94505e91e974eced1cac7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c8aa3803416f1200788b1ef239887fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514453,
+            "locality_id":85953111,
+            "region_id":85688727,
+            "venue_id":807010827
+        }
+    ],
     "wof:id":807010827,
-    "wof:lastmodified":1472628953,
+    "wof:lastmodified":1492823305,
     "wof:name":"American Assoc of Healthc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.33387,45.043098,-93.33387,45.043098",
     "geom:latitude":45.043098,
     "geom:longitude":-93.33387,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UQCU41ZizrH3RwPFrlUpq_45.043098_-93.333870@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591017,
-    "wof:geomhash":"1ea4fc02e312880e1dbb1fc3ad1cef0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8808a2f2226c6867a514787f39201cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":789848717
+        }
+    ],
     "wof:id":789848717,
-    "wof:lastmodified":1472629495,
+    "wof:lastmodified":1492813535,
     "wof:name":"Dennys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

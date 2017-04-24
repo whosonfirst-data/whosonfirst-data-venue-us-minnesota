@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.907255,44.461484,-93.907255,44.461484",
     "geom:latitude":44.461484,
     "geom:longitude":-93.907255,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512361,
+        85633793,
+        85953331,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MFoWAx55qPp40yGzvmTly_44.461484_-93.907255@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595396,
-    "wof:geomhash":"b2836c38c6440f9456d42babe49d3cf0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e27d396cd3f6dc499390d37021aba46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512361,
+            "locality_id":85953331,
+            "region_id":85688727,
+            "venue_id":790382393
+        }
+    ],
     "wof:id":790382393,
-    "wof:lastmodified":1472629600,
+    "wof:lastmodified":1492831977,
     "wof:name":"Jim Halbnaier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

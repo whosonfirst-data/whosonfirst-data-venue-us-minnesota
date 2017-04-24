@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.396735,43.690943,-92.396735,43.690943",
     "geom:latitude":43.690943,
     "geom:longitude":-92.396735,
@@ -32,17 +33,34 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514285,
+        85633793,
+        85953093,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YwYZDP3VdaQ7wv7bKsgM3_43.690943_-92.396735@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583062,
-    "wof:geomhash":"2008a058fdcca7efadb62e50213c128c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a05ba036bfa269c9dc0df2fc0051ec07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514285,
+            "locality_id":85953093,
+            "region_id":85688727,
+            "venue_id":773087421
+        }
+    ],
     "wof:id":773087421,
-    "wof:lastmodified":1472629558,
+    "wof:lastmodified":1492799322,
     "wof:name":"Kruegels Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

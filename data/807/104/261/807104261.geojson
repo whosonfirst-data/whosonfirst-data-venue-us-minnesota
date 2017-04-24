@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.07649,46.41224,-95.07649,46.41224",
     "geom:latitude":46.41224,
     "geom:longitude":-95.07649,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514851,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZVIGj4PjbqFYG2zFutM28_46.412240_-95.076490@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603776,
-    "wof:geomhash":"7358738f642a5dd6f359e476a669aa98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50bb293c1c7aa2c868ca23d04a9321d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514851,
+            "region_id":85688727,
+            "venue_id":807104261
+        }
+    ],
     "wof:id":807104261,
-    "wof:lastmodified":1472629201,
+    "wof:lastmodified":1492822854,
     "wof:name":"Bruce Richter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

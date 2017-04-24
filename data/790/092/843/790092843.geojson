@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.751419,43.796813,-91.751419,43.796813",
     "geom:latitude":43.796813,
     "geom:longitude":-91.751419,
@@ -33,17 +34,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514283,
+        85633793,
+        85953097,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HPDaK9CmGAXIImxWCAH7M_43.796813_-91.751419@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593075,
-    "wof:geomhash":"631725623e867943574aa90df7f901cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afc99185eba21e0566891aec79cc2af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514283,
+            "locality_id":85953097,
+            "region_id":85688727,
+            "venue_id":790092843
+        }
+    ],
     "wof:id":790092843,
-    "wof:lastmodified":1472629119,
+    "wof:lastmodified":1492832478,
     "wof:name":"Curt's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

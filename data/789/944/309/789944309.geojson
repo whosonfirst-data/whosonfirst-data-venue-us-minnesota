@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.852793,44.741211,-92.852793,44.741211",
     "geom:latitude":44.741211,
     "geom:longitude":-92.852793,
@@ -33,17 +34,34 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pE9tcNTN27NXjTycX9KT1_44.741211_-92.852793@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591828,
-    "wof:geomhash":"c5030c8d8246d84f1bfb31eedc71bd46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d69d348bbd4849bdfc3098deabefe76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":789944309
+        }
+    ],
     "wof:id":789944309,
-    "wof:lastmodified":1472629637,
+    "wof:lastmodified":1492812993,
     "wof:name":"Hastings City Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

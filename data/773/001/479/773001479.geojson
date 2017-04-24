@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.44748,43.65737,-94.44748,43.65737",
     "geom:latitude":43.65737,
     "geom:longitude":-94.44748,
@@ -33,17 +34,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514005,
+        85633793,
+        85953127,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hfW4nVis2fWdREDv8YP2Q_43.657370_-94.447480@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582151,
-    "wof:geomhash":"64d6357bd7801104cfba5a6b2a9cc990",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65fab0f36f07987cdba7c8210afe5e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514005,
+            "locality_id":85953127,
+            "region_id":85688727,
+            "venue_id":773001479
+        }
+    ],
     "wof:id":773001479,
-    "wof:lastmodified":1472628939,
+    "wof:lastmodified":1492803042,
     "wof:name":"Iowa Eye Institute PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

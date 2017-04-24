@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.646456,46.334428,-94.646456,46.334428",
     "geom:latitude":46.334428,
     "geom:longitude":-94.646456,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512853,
+        85633793,
+        85968897,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a9ocsWp9DVkaHI5GbZfF9_46.334428_-94.646456@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600243,
-    "wof:geomhash":"badfc1a7c4fe6ceecbdc13bf076cb123",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33dacb2194bc6802b89d956662421603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512853,
+            "locality_id":85968897,
+            "region_id":85688727,
+            "venue_id":806688661
+        }
+    ],
     "wof:id":806688661,
-    "wof:lastmodified":1472629697,
+    "wof:lastmodified":1492820871,
     "wof:name":"Motley Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

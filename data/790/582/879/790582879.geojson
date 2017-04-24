@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.753162,44.688164,-92.753162,44.688164",
     "geom:latitude":44.688164,
     "geom:longitude":-92.753162,
@@ -33,17 +34,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511989,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LjAjtlqRwKhXKfhcamxEY_44.688164_-92.753162@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597064,
-    "wof:geomhash":"cd3529328df4d570f29cb7d5aba487f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd87b9c7b177acce1e881fc2c9926cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511989,
+            "region_id":85688727,
+            "venue_id":790582879
+        }
+    ],
     "wof:id":790582879,
-    "wof:lastmodified":1472629878,
+    "wof:lastmodified":1492835880,
     "wof:name":"Note Network The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

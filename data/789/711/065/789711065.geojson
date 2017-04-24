@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.598956,44.731493,-94.598956,44.731493",
     "geom:latitude":44.731493,
     "geom:longitude":-94.598956,
@@ -31,17 +32,32 @@
         "packer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512493,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CCdo88TRj4adHoFy6PIhe_44.731493_-94.598956@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589941,
-    "wof:geomhash":"e6d3de6c7791b5fcf6621b240a03797e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cab34413dae14b6052fb7b42ab0235be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512493,
+            "region_id":85688727,
+            "venue_id":789711065
+        }
+    ],
     "wof:id":789711065,
-    "wof:lastmodified":1472629230,
+    "wof:lastmodified":1492813274,
     "wof:name":"Minnesota Beef Industry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

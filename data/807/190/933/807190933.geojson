@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.37767,45.88237,-95.37767,45.88237",
     "geom:latitude":45.88237,
     "geom:longitude":-95.37767,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.stop-n-go.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l1rWDJ8ELaYAN1Jg1OLMK_45.882271_-95.377611@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604699,
-    "wof:geomhash":"6d0578ee9ef1388a30966ef24af6d0f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0865d979dfaa7d7f3d567f36bf95f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":807190933
+        }
+    ],
     "wof:id":807190933,
-    "wof:lastmodified":1472629416,
+    "wof:lastmodified":1492825276,
     "wof:name":"Stop N Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

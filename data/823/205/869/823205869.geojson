@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.39872,44.912184,-93.39872,44.912184",
     "geom:latitude":44.912184,
     "geom:longitude":-93.39872,
@@ -45,17 +46,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04r09dytzbQPr8Y5kyN87O_44.912184_-93.398720@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608458,
-    "wof:geomhash":"4bc32521f6c2f7bc5ffe261acb3aba6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eea1b28b0e9227879c02c23c99f29cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823205869
+        }
+    ],
     "wof:id":823205869,
-    "wof:lastmodified":1472629066,
+    "wof:lastmodified":1492829915,
     "wof:name":"Joey Software Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

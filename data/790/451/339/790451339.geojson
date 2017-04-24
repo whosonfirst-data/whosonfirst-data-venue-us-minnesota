@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263991,44.914781,-93.263991,44.914781",
     "geom:latitude":44.914781,
     "geom:longitude":-93.263991,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872541,
+        420781105,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420558765
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595921,
-    "wof:geomhash":"a5449dae2e407f046a14eac65e3b77bc",
+    "wof:geomhash":"1f9d94987adf54cbb8508cc15b84e91e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872541,
-            "region_id":85688727,
-            "venue_id":790451339
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420558765,
+            "macrohood_id":1108799987,
+            "neighbourhood_id":420781105,
             "region_id":85688727,
             "venue_id":790451339
         }
     ],
     "wof:id":790451339,
-    "wof:lastmodified":1472629711,
+    "wof:lastmodified":1492832217,
     "wof:name":"Whitespace",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

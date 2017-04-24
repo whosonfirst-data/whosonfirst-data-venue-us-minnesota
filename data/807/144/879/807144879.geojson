@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.993773,43.615696,-95.993773,43.615696",
     "geom:latitude":43.615696,
     "geom:longitude":-95.993773,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512149,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oKUPMT6pCxKXo9bQIhiIZ_43.615696_-95.993773@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604212,
-    "wof:geomhash":"7e776c488edee8b8feed86b9f928ec51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b646063497c61b79f913748f76b3dc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512149,
+            "region_id":85688727,
+            "venue_id":807144879
+        }
+    ],
     "wof:id":807144879,
-    "wof:lastmodified":1472629291,
+    "wof:lastmodified":1492827080,
     "wof:name":"David Boltjes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.045987,44.167839,-94.045987,44.167839",
     "geom:latitude":44.167839,
     "geom:longitude":-94.045987,
@@ -38,17 +39,34 @@
         "sink"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cfuLHoGcUgVNc12lCVKS0_44.167839_-94.045987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600454,
-    "wof:geomhash":"59f0c67e22243f492efd162d83ffab78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d326e9f6bc4ffa73dec14713b10b0ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":806714589
+        }
+    ],
     "wof:id":806714589,
-    "wof:lastmodified":1472629750,
+    "wof:lastmodified":1492820992,
     "wof:name":"Surface Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

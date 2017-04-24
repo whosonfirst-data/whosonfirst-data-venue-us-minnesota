@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.415456,43.702913,-95.415456,43.702913",
     "geom:latitude":43.702913,
     "geom:longitude":-95.415456,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509837,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cg08ipu48QbuNj297c2o2_43.702913_-95.415456@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604655,
-    "wof:geomhash":"4e3bf874327456f729de74ef94a11fc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"975022ff64f66be5ad8719eea6069ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509837,
+            "region_id":85688727,
+            "venue_id":807186445
+        }
+    ],
     "wof:id":807186445,
-    "wof:lastmodified":1472629380,
+    "wof:lastmodified":1492826711,
     "wof:name":"Edward Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

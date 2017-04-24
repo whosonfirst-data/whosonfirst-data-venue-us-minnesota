@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.083411,46.558262,-96.083411,46.558262",
     "geom:latitude":46.558262,
     "geom:longitude":-96.083411,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510359,
+        85633793,
+        85968713,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JNQs5GRllBZ8VdrZU0yEI_46.558262_-96.083411@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592248,
-    "wof:geomhash":"a14b95ebb32e13edabb104c0e6e0f6d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71ed590d7ba962c4011a7f3a44b7635e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510359,
+            "locality_id":85968713,
+            "region_id":85688727,
+            "venue_id":789990335
+        }
+    ],
     "wof:id":789990335,
-    "wof:lastmodified":1472629672,
+    "wof:lastmodified":1492809294,
     "wof:name":"Dairy Queen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

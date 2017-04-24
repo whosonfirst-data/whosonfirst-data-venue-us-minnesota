@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.840108,45.369538,-92.840108,45.369538",
     "geom:latitude":45.369538,
     "geom:longitude":-92.840108,
@@ -32,17 +33,32 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511119,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70xrGwoSoHrB1MaIpBCkPT_45.369538_-92.840108@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605313,
-    "wof:geomhash":"3af7b129d1a3bd1733e9797adb1f8dd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e57074202bd375cfa7b1238cfc09f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511119,
+            "region_id":85688727,
+            "venue_id":807248945
+        }
+    ],
     "wof:id":807248945,
-    "wof:lastmodified":1472629524,
+    "wof:lastmodified":1492825831,
     "wof:name":"John M. Trusten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

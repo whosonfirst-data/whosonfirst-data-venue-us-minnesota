@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.345139,45.433415,-93.345139,45.433415",
     "geom:latitude":45.433415,
     "geom:longitude":-93.345139,
@@ -48,17 +49,32 @@
         "mason"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513125,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NHiue04t0H3JVj3EsfWlb_45.433415_-93.345139@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605266,
-    "wof:geomhash":"a6d1860217f8b58a1522b0d0be344db8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce1a255bdc778a6fd94dd496aaf6a7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513125,
+            "region_id":85688727,
+            "venue_id":807244377
+        }
+    ],
     "wof:id":807244377,
-    "wof:lastmodified":1472629501,
+    "wof:lastmodified":1492827600,
     "wof:name":"Soderberg Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

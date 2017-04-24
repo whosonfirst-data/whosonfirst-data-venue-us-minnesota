@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.03453,45.130934,-93.03453,45.130934",
     "geom:latitude":45.130934,
     "geom:longitude":-93.03453,
@@ -33,17 +34,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511289,
+        85633793,
+        85953383,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fVf0kTe7Ek3dLiyEuHo8H_45.130934_-93.034530@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596902,
-    "wof:geomhash":"c649ef4ac557e8e3838fed23a9ce8a1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b29d4e5145306f9b33d0e53ad910c444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511289,
+            "locality_id":85953383,
+            "region_id":85688727,
+            "venue_id":790563619
+        }
+    ],
     "wof:id":790563619,
-    "wof:lastmodified":1472629856,
+    "wof:lastmodified":1492836495,
     "wof:name":"Marlin Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

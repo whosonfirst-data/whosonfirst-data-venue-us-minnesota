@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.528264,43.760569,-94.528264,43.760569",
     "geom:latitude":43.760569,
     "geom:longitude":-94.528264,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509987,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EsxXAuLhW262Kl5wc18rH_43.760569_-94.528264@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604830,
-    "wof:geomhash":"c429694128318852fd9da8aa4007eeef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6863aebebb36121c50abe25090db2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404509987,
+            "region_id":85688727,
+            "venue_id":807203435
+        }
+    ],
     "wof:id":807203435,
-    "wof:lastmodified":1472629416,
+    "wof:lastmodified":1492823594,
     "wof:name":"John R Niss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

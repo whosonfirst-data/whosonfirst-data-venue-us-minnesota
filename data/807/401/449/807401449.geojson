@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.283079,44.948342,-93.283079,44.948342",
     "geom:latitude":44.948342,
     "geom:longitude":-93.283079,
@@ -40,12 +41,12 @@
     "wof:belongsto":[
         85831755,
         102191575,
+        1108799997,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607314,
-    "wof:geomhash":"13e7b47d82ce76a8572481a3f63b8da5",
+    "wof:geomhash":"0ba4e9035d5edc6920581e3ff9cc7ad2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,25 +62,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799997,
             "neighbourhood_id":85831755,
-            "region_id":85688727,
-            "venue_id":807401449
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
             "region_id":85688727,
             "venue_id":807401449
         }
     ],
     "wof:id":807401449,
-    "wof:lastmodified":1472629892,
+    "wof:lastmodified":1492823730,
     "wof:name":"Prime Mortgage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

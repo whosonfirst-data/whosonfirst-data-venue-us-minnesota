@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.545936,45.233023,-93.545936,45.233023",
     "geom:latitude":45.233023,
     "geom:longitude":-93.545936,
@@ -32,17 +33,34 @@
         "grocery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515245,
+        85633793,
+        85968889,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Yzrn377hOprqU98jYxJ3z_45.233023_-93.545936@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595601,
-    "wof:geomhash":"6dda9c83b2ded8f240043ce1d97f125b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91e6fb7cf4ef529d411714cc1f46040c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515245,
+            "locality_id":85968889,
+            "region_id":85688727,
+            "venue_id":790408373
+        }
+    ],
     "wof:id":790408373,
-    "wof:lastmodified":1472629681,
+    "wof:lastmodified":1492831582,
     "wof:name":"Weststar Food Co LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

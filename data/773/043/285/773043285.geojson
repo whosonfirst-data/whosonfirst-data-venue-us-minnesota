@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.598807,45.629819,-94.598807,45.629819",
     "geom:latitude":45.629819,
     "geom:longitude":-94.598807,
@@ -32,17 +33,32 @@
         "broadcasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514067,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zwXakAmBniIa7sbsol9o6_45.629819_-94.598807@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582689,
-    "wof:geomhash":"4d4f5e4084165d330aa8d6510eb2edf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61d25182d071fe384fead6bc409ba8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514067,
+            "region_id":85688727,
+            "venue_id":773043285
+        }
+    ],
     "wof:id":773043285,
-    "wof:lastmodified":1472629368,
+    "wof:lastmodified":1492808926,
     "wof:name":"KASM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

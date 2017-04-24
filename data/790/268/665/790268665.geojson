@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.880586,44.527981,-94.880586,44.527981",
     "geom:latitude":44.527981,
     "geom:longitude":-94.880586,
@@ -33,17 +34,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512475,
+        85633793,
+        85969033,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g1RZqGj61bPOF99juClDe_44.527981_-94.880586@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594488,
-    "wof:geomhash":"95b756ffd5227626e38cc1827df7adad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4da1403dfa1e23ddf2eab727bc03a4b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512475,
+            "locality_id":85969033,
+            "region_id":85688727,
+            "venue_id":790268665
+        }
+    ],
     "wof:id":790268665,
-    "wof:lastmodified":1472629451,
+    "wof:lastmodified":1492834794,
     "wof:name":"All Phase Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.336519,47.442572,-92.336519,47.442572",
     "geom:latitude":47.442572,
     "geom:longitude":-92.336519,
@@ -32,17 +33,26 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jKTAPbVfXxEdKxuwryqMq_47.442572_-92.336519@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600018,
-    "wof:geomhash":"f39b0a1f4327d75b077073fdaa8781b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7619de0969ad3358866325f2520a42a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806661979
+        }
+    ],
     "wof:id":806661979,
-    "wof:lastmodified":1472629666,
+    "wof:lastmodified":1492814528,
     "wof:name":"Larry Stringer Show",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

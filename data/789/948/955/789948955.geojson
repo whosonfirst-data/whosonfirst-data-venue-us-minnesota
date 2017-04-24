@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.377811,44.994661,-93.377811,44.994661",
     "geom:latitude":44.994661,
     "geom:longitude":-93.377811,
@@ -31,17 +32,34 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511717,
+        85633793,
+        85969205,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54OBFuduBzVeYhd6PWTW2M_44.994661_-93.377811@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591901,
-    "wof:geomhash":"e4f76302798203c3f493536c7edac87a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed51c7c27b78c1ff7af996c2a4437e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511717,
+            "locality_id":85969205,
+            "region_id":85688727,
+            "venue_id":789948955
+        }
+    ],
     "wof:id":789948955,
-    "wof:lastmodified":1472629656,
+    "wof:lastmodified":1492813105,
     "wof:name":"Industrial Metals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

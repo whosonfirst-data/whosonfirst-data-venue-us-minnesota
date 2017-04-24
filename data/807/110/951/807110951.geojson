@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.726156,43.747583,-93.726156,43.747583",
     "geom:latitude":43.747583,
     "geom:longitude":-93.726156,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509619,
+        85633793,
+        85952579,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HV236VsyE5BH1iE3Fe8QA_43.747583_-93.726156@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603843,
-    "wof:geomhash":"0f67838aa1a45bb3efd4bb3f2950c6e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e4c14a6de8596f78447c2e4fa0e0d47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509619,
+            "locality_id":85952579,
+            "region_id":85688727,
+            "venue_id":807110951
+        }
+    ],
     "wof:id":807110951,
-    "wof:lastmodified":1472629218,
+    "wof:lastmodified":1492825530,
     "wof:name":"Michael Cory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

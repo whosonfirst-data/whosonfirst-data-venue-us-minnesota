@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.717704,44.955602,-95.717704,44.955602",
     "geom:latitude":44.955602,
     "geom:longitude":-95.717704,
@@ -31,17 +32,34 @@
         "landfill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dzkFf71LcftKL1brG1dho_44.955602_-95.717704@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602230,
-    "wof:geomhash":"d21806df392cf83ca5086e232a2815af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd774766b7d83cf7e9336275667d61d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":806924749
+        }
+    ],
     "wof:id":806924749,
-    "wof:lastmodified":1472629938,
+    "wof:lastmodified":1492814831,
     "wof:name":"Chippewa County Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

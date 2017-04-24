@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.395743,44.886763,-94.395743,44.886763",
     "geom:latitude":44.886763,
     "geom:longitude":-94.395743,
@@ -31,17 +32,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wWTVNSBra3UhJl36Xzn0v_44.886763_-94.395743@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586892,
-    "wof:geomhash":"4fa4e138eaf9ade0ccbe279aed445b54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63810c0fb108df65022f25dd0e371682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773592619
+        }
+    ],
     "wof:id":773592619,
-    "wof:lastmodified":1472630107,
+    "wof:lastmodified":1492804925,
     "wof:name":"Bowling Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

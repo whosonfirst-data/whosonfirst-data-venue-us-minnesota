@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.807906,48.145163,-95.807906,48.145163",
     "geom:latitude":48.145163,
     "geom:longitude":-95.807906,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510379,
+        85633793,
+        85953153,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UoxHNL6YEXjWAJPMeMZP1_48.145163_-95.807906@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589179,
-    "wof:geomhash":"e1390ea209bf23a50c3ec8b8b1f662a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c39fb1dc05c6a07ee862662b82e3cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404510379,
+            "locality_id":85953153,
+            "region_id":85688727,
+            "venue_id":789615577
+        }
+    ],
     "wof:id":789615577,
-    "wof:lastmodified":1472629039,
+    "wof:lastmodified":1492811009,
     "wof:name":"St Ann's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

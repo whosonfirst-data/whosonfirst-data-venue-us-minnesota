@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.548554,44.914967,-93.548554,44.914967",
     "geom:latitude":44.914967,
     "geom:longitude":-93.548554,
@@ -31,17 +32,45 @@
         "canoe"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509447,
+        85633793,
+        85969201,
+        102087709,
+        404511911,
+        85969119
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CB3fTZgpFpSvqmQpDzeAU_44.914967_-93.548554@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586988,
-    "wof:geomhash":"4c312557073b3f23a3c975a1bcfa7d43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"584ecbffd098963a77ede1683f2a0b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509447,
+            "locality_id":85969201,
+            "region_id":85688727,
+            "venue_id":773606903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":773606903
+        }
+    ],
     "wof:id":773606903,
-    "wof:lastmodified":1472630104,
+    "wof:lastmodified":1492803528,
     "wof:name":"Hart Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

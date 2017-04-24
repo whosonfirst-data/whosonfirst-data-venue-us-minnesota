@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.554962,45.199509,-93.554962,45.199509",
     "geom:latitude":45.199509,
     "geom:longitude":-93.554962,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"http://www.wendys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28VEpax2Qb8rosjSBZHK5V_45.199509_-93.554962@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606337,
-    "wof:geomhash":"1b28d3a14181da4245e17d17f7e8821e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b8f60313052f0ef921bb8f1c08c00e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":807339299
+        }
+    ],
     "wof:id":807339299,
-    "wof:lastmodified":1472629737,
+    "wof:lastmodified":1492825237,
     "wof:name":"Wendy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

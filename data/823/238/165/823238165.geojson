@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.095005,43.93497,-94.095005,43.93497",
     "geom:latitude":43.93497,
     "geom:longitude":-94.095005,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509317,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vQoEk14mCRblCTZnaokQG_43.934970_-94.095005@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609117,
-    "wof:geomhash":"98c2ff16fd1e32669af72cf55757649f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7136414b376ebb974b388bd5e0a22431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404509317,
+            "region_id":85688727,
+            "venue_id":823238165
+        }
+    ],
     "wof:id":823238165,
-    "wof:lastmodified":1472629131,
+    "wof:lastmodified":1492830627,
     "wof:name":"Robert Sharp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

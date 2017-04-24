@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.002487,46.687883,-95.002487,46.687883",
     "geom:latitude":46.687883,
     "geom:longitude":-95.002487,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514829,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_237aJqtfdzC6i4AvWqhfMD_46.687883_-95.002487@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586799,
-    "wof:geomhash":"da65db199fe497483e51f3e84cddc649",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dda0c2cac0e1e16987b0303c1a7fa2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514829,
+            "region_id":85688727,
+            "venue_id":773579387
+        }
+    ],
     "wof:id":773579387,
-    "wof:lastmodified":1472630100,
+    "wof:lastmodified":1492803861,
     "wof:name":"Frame's Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

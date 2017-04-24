@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.117097,44.54055,-95.117097,44.54055",
     "geom:latitude":44.54055,
     "geom:longitude":-95.117097,
@@ -31,17 +32,34 @@
         "probation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512313,
+        85633793,
+        85968817,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YfTMes0UJ6aZwlOvcopLG_44.540550_-95.117097@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596365,
-    "wof:geomhash":"e5e849c19564441ef3037ac9ec39d607",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a78b053d168fd225c4263392e5ca9d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512313,
+            "locality_id":85968817,
+            "region_id":85688727,
+            "venue_id":790499735
+        }
+    ],
     "wof:id":790499735,
-    "wof:lastmodified":1472629771,
+    "wof:lastmodified":1492835567,
     "wof:name":"Redwood County Probation Ofcr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

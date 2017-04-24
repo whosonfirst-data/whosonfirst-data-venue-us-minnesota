@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.911675,45.370532,-95.911675,45.370532",
     "geom:latitude":45.370532,
     "geom:longitude":-95.911675,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510843,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IaixrRQbE36h812aJBVf1_45.370532_-95.911675@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603682,
-    "wof:geomhash":"064ce63dceb892a0938e11d682d9a1ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c56a26881c9bf5ed2f4d7b31731a920f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404510843,
+            "region_id":85688727,
+            "venue_id":807096677
+        }
+    ],
     "wof:id":807096677,
-    "wof:lastmodified":1472629189,
+    "wof:lastmodified":1492827493,
     "wof:name":"David Schiep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

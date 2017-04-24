@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.478752,44.021591,-92.478752,44.021591",
     "geom:latitude":44.021591,
     "geom:longitude":-92.478752,
@@ -23,17 +24,34 @@
     "sg:province":"MN",
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313870190&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mM41aeZ5dPS3W3BBkChhq_44.021591_-92.478752@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608970,
-    "wof:geomhash":"0c8417a2e5df05c061b621786978543a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"149193a948a738d8234a9ba4bc5e2e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823230991
+        }
+    ],
     "wof:id":823230991,
-    "wof:lastmodified":1472629153,
+    "wof:lastmodified":1492829507,
     "wof:name":"Virgil's Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.448248,45.312835,-96.448248,45.312835",
     "geom:latitude":45.312835,
     "geom:longitude":-96.448248,
@@ -38,17 +39,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511331,
+        85633793,
+        85952719,
+        102087619
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gDs1hj3EMr5SMOKsKqbTM_45.312835_-96.448248@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609277,
-    "wof:geomhash":"b4071f027a9089dfcd75a0ffd013f066",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faa97af923a3c8828755e5cbd810770c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087619,
+            "localadmin_id":404511331,
+            "locality_id":85952719,
+            "region_id":85688727,
+            "venue_id":823247033
+        }
+    ],
     "wof:id":823247033,
-    "wof:lastmodified":1472629129,
+    "wof:lastmodified":1492829662,
     "wof:name":"Jerry Jorgenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.410352,44.812781,-93.410352,44.812781",
     "geom:latitude":44.812781,
     "geom:longitude":-93.410352,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tcTvjpQCX7Cka8BQEuGkc_44.812781_-93.410352@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586327,
-    "wof:geomhash":"1d4c9d360f9d585e7a65c23da54a7781",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f23a9f6a3593ebfeb0616234b8438bf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":773517529
+        }
+    ],
     "wof:id":773517529,
-    "wof:lastmodified":1472630079,
+    "wof:lastmodified":1492806152,
     "wof:name":"Sather Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.153137,44.77204,-94.153137,44.77204",
     "geom:latitude":44.77204,
     "geom:longitude":-94.153137,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cFH5tkXGYbP2ShsjIrgvN_44.772040_-94.153137@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601183,
-    "wof:geomhash":"9fef7523d22cdef5ad7f1f1bdf1e61ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98578b4f6bc9bb1872f7e4e14c329e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":806799739
+        }
+    ],
     "wof:id":806799739,
-    "wof:lastmodified":1472629847,
+    "wof:lastmodified":1492814673,
     "wof:name":"Family Eye Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

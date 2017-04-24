@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.620467,44.038613,-91.620467,44.038613",
     "geom:latitude":44.038613,
     "geom:longitude":-91.620467,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V61vhC3IA8yZy5qSbZJ3S_44.038613_-91.620467@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593506,
-    "wof:geomhash":"63ebdd06977fb68672e47f20cae4494d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"804ca8bdc815170d7bfcc45b9ef82568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":790150051
+        }
+    ],
     "wof:id":790150051,
-    "wof:lastmodified":1472629224,
+    "wof:lastmodified":1492836477,
     "wof:name":"La Carreta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

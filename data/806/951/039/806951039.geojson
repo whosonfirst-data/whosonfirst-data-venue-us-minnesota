@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.853636,44.000061,-95.853636,44.000061",
     "geom:latitude":44.000061,
     "geom:longitude":-95.853636,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510087,
+        85633793,
+        85952761,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cEseOBy7j97WkGsfJgeJk_44.000061_-95.853636@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602450,
-    "wof:geomhash":"614dd99d7b0f7eb1a21ea6c88d4624a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8978531d83bbb884ebe87640e929166a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510087,
+            "locality_id":85952761,
+            "region_id":85688727,
+            "venue_id":806951039
+        }
+    ],
     "wof:id":806951039,
-    "wof:lastmodified":1472629946,
+    "wof:lastmodified":1492819246,
     "wof:name":"M & M Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

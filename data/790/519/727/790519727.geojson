@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.368624,45.889341,-95.368624,45.889341",
     "geom:latitude":45.889341,
     "geom:longitude":-95.368624,
@@ -28,17 +29,34 @@
     "sg:postcode":"56308",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Uesd7QdPjjteUauewQmmF_45.889341_-95.368624@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596540,
-    "wof:geomhash":"179f9a4eef4a318d554cfab06fbf935b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79bc1a0486e7a796062eb2f1585a7c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":790519727
+        }
+    ],
     "wof:id":790519727,
-    "wof:lastmodified":1472629807,
+    "wof:lastmodified":1492836409,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

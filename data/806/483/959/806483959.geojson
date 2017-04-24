@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.440145,44.041847,-95.440145,44.041847",
     "geom:latitude":44.041847,
     "geom:longitude":-95.440145,
@@ -32,17 +33,34 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LNAtsOlcgiSTTXidUxhuc_44.041847_-95.440145@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598499,
-    "wof:geomhash":"86eb8ac91585959ba3a5c9780e1c4b17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc97fc680dd05c847908e268c007945e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":806483959
+        }
+    ],
     "wof:id":806483959,
-    "wof:lastmodified":1472629316,
+    "wof:lastmodified":1492820568,
     "wof:name":"Westbrook Village Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

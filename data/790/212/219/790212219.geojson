@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.229796,44.901717,-93.229796,44.901717",
     "geom:latitude":44.901717,
     "geom:longitude":-93.229796,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872695,
+        85872551,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872551
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594042,
-    "wof:geomhash":"f04eaaf96a066f2c8d61c60c57bb879f",
+    "wof:geomhash":"a37d51a2e1209f66da677310aa017b37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872695,
-            "region_id":85688727,
-            "venue_id":790212219
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872551,
             "region_id":85688727,
             "venue_id":790212219
         }
     ],
     "wof:id":790212219,
-    "wof:lastmodified":1472629303,
+    "wof:lastmodified":1492834571,
     "wof:name":"Desender Consul",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

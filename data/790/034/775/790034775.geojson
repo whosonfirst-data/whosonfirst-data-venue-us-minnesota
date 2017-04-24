@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.495075,45.114235,-93.495075,45.114235",
     "geom:latitude":45.114235,
     "geom:longitude":-93.495075,
@@ -36,17 +37,34 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_791jWRuR8tkalVpRgmhHTc_45.114235_-93.495075@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592605,
-    "wof:geomhash":"86c3f3f9cbd7b4e7feb511660c51f8bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4f5c59bdaa29262c5a0f7026bb2cc5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":790034775
+        }
+    ],
     "wof:id":790034775,
-    "wof:lastmodified":1472629009,
+    "wof:lastmodified":1492834639,
     "wof:name":"Professional Property Inspctn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

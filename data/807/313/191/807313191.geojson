@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.558403,44.902699,-93.558403,44.902699",
     "geom:latitude":44.902699,
     "geom:longitude":-93.558403,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509445,
+        85633793,
+        85969207,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60Rwwwq8mr3kiItENYi1CG_44.902699_-93.558403@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462605993,
-    "wof:geomhash":"494398fa554e9df9425691139715e246",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa1ff109f15ba9ddb38d08cd03e1d274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509445,
+            "locality_id":85969207,
+            "region_id":85688727,
+            "venue_id":807313191
+        }
+    ],
     "wof:id":807313191,
-    "wof:lastmodified":1472629686,
+    "wof:lastmodified":1492826069,
     "wof:name":"Windemere Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.859308,43.973815,-94.859308,43.973815",
     "geom:latitude":43.973815,
     "geom:longitude":-94.859308,
@@ -33,17 +34,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511865,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N4trWTzUpFKbTBxxEuk0Q_43.973815_-94.859308@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598599,
-    "wof:geomhash":"b1f21eb76908a072a225396c71075dd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"742d0f639c358dce89b02291c8eee53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511865,
+            "region_id":85688727,
+            "venue_id":806496815
+        }
+    ],
     "wof:id":806496815,
-    "wof:lastmodified":1472629318,
+    "wof:lastmodified":1492816206,
     "wof:name":"Larry Falk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

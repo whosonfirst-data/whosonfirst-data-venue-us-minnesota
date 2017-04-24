@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.473625,45.097385,-93.473625,45.097385",
     "geom:latitude":45.097385,
     "geom:longitude":-93.473625,
@@ -38,17 +39,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cLxloRH3LHNbsl3KOn2Gb_45.097385_-93.473625@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585739,
-    "wof:geomhash":"0d9d8f7f3738d3a00db5c2d6c44216a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2763b640d50b9fedcf1f3a16bdb9142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773437531
+        }
+    ],
     "wof:id":773437531,
-    "wof:lastmodified":1472630054,
+    "wof:lastmodified":1492806649,
     "wof:name":"Spectrum Transportation Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

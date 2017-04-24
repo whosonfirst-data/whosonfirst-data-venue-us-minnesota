@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.445417,48.589417,-93.445417,48.589417",
     "geom:latitude":48.589417,
     "geom:longitude":-93.445417,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Uveu9wa9Nggz5rmUluIHj_48.589417_-93.445417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583183,
-    "wof:geomhash":"0cc64ee90dbd392bd3849b7b53705757",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3143702d1aacd6721433978bec8b420c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":773104301
+        }
+    ],
     "wof:id":773104301,
-    "wof:lastmodified":1472629606,
+    "wof:lastmodified":1492800066,
     "wof:name":"West Falls Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

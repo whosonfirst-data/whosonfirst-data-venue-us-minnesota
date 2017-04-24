@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.591756,44.960396,-93.591756,44.960396",
     "geom:latitude":44.960396,
     "geom:longitude":-93.591756,
@@ -36,17 +37,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511895,
+        85633793,
+        85969145,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lfeOAcVmKrqEQuZlL3zNo_44.960396_-93.591756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595802,
-    "wof:geomhash":"c6e5a1b61c97a8b8b6d1c2567312bff5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aac3542da705a8e2795755021e049e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511895,
+            "locality_id":85969145,
+            "region_id":85688727,
+            "venue_id":790434367
+        }
+    ],
     "wof:id":790434367,
-    "wof:lastmodified":1472629706,
+    "wof:lastmodified":1492835758,
     "wof:name":"Johnson Communication Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

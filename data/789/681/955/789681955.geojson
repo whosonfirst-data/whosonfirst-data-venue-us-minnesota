@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.470124,45.000915,-93.470124,45.000915",
     "geom:latitude":45.000915,
     "geom:longitude":-93.470124,
@@ -33,17 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kOgz02miaXKSTQvrmUzSm_45.000915_-93.470124@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589716,
-    "wof:geomhash":"37ebec3665eac6aee8ea0aeab8f8cad2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67c4cba8a5fb1fea7bd5f02bf4fea5e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":789681955
+        }
+    ],
     "wof:id":789681955,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492813163,
     "wof:name":"Edgewood Management Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

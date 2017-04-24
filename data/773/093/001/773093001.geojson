@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.847423,45.488162,-92.847423,45.488162",
     "geom:latitude":45.488162,
     "geom:longitude":-92.847423,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511031,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LSw8wJvLmLal82tegyMoy_45.488162_-92.847423@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583101,
-    "wof:geomhash":"a5c3cccb90119154acfbea7107042087",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ca9d645db2fb93ebec45321b90f4c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511031,
+            "region_id":85688727,
+            "venue_id":773093001
+        }
+    ],
     "wof:id":773093001,
-    "wof:lastmodified":1472629539,
+    "wof:lastmodified":1492807760,
     "wof:name":"Robert Luger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

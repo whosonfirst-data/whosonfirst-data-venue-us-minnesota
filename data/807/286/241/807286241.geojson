@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.232872,45.267471,-93.232872,45.267471",
     "geom:latitude":45.267471,
     "geom:longitude":-93.232872,
@@ -39,17 +40,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511287,
+        85633793,
+        85953395,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XvpcF5eE03djbp4IxHm4r_45.267471_-93.232872@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605709,
-    "wof:geomhash":"4fd8b03a3e7d66e8c072fc0a59cb98ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"592ccda9fb12f2caf4cae4aae678fe72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511287,
+            "locality_id":85953395,
+            "region_id":85688727,
+            "venue_id":807286241
+        }
+    ],
     "wof:id":807286241,
-    "wof:lastmodified":1472629590,
+    "wof:lastmodified":1492822522,
     "wof:name":"O'reilly Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

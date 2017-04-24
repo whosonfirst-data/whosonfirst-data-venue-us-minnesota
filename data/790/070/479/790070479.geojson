@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.882555,45.063587,-93.882555,45.063587",
     "geom:latitude":45.063587,
     "geom:longitude":-93.882555,
@@ -33,17 +34,32 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PI4NFz6Ho13VETf9iRKCj_45.063587_-93.882555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592893,
-    "wof:geomhash":"a8ecb70cbeb9cb8686662e8bc72e460c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82ed2c32c6c6ffa70c1b525fe9258841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":790070479
+        }
+    ],
     "wof:id":790070479,
-    "wof:lastmodified":1472629071,
+    "wof:lastmodified":1492837113,
     "wof:name":"Scott's Glass & Mirror Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

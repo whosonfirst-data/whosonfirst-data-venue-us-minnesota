@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.453035,45.10386,-93.453035,45.10386",
     "geom:latitude":45.10386,
     "geom:longitude":-93.453035,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://www.embroidme.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fN4CepIsw3U6EkKwMy24x_45.103860_-93.453035@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605813,
-    "wof:geomhash":"1487b43c54bf9b29861a125445ac9633",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c33ed238f196ef5d3739cc287b484ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807296051
+        }
+    ],
     "wof:id":807296051,
-    "wof:lastmodified":1472629601,
+    "wof:lastmodified":1492822215,
     "wof:name":"Embroidme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

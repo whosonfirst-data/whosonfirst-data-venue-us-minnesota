@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.049524,45.12177,-95.049524,45.12177",
     "geom:latitude":45.12177,
     "geom:longitude":-95.049524,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vkX8cel4JADAgDNI0fy9n_45.121770_-95.049524@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583576,
-    "wof:geomhash":"9885f0f9e6e2d6ff84e8884391f0f0be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e89457651f4313d576dc1bcceb73ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":773157885
+        }
+    ],
     "wof:id":773157885,
-    "wof:lastmodified":1472629746,
+    "wof:lastmodified":1492804789,
     "wof:name":"Hill's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

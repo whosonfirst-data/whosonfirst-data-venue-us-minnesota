@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.769572,45.198077,-92.769572,45.198077",
     "geom:latitude":45.198077,
     "geom:longitude":-92.769572,
@@ -31,17 +32,34 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510959,
+        85633793,
+        85953569,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XaCq5iiCD17wAGaMwRVY8_45.198077_-92.769572@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585570,
-    "wof:geomhash":"c98f37e24f114d31fa7b86076194cdca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64199d92d0a88752f551d6da1f327035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404510959,
+            "locality_id":85953569,
+            "region_id":85688727,
+            "venue_id":773419445
+        }
+    ],
     "wof:id":773419445,
-    "wof:lastmodified":1472630049,
+    "wof:lastmodified":1492799308,
     "wof:name":"Marine Standard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

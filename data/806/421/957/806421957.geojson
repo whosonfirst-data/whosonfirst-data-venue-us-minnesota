@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.964587,44.983914,-92.964587,44.983914",
     "geom:latitude":44.983914,
     "geom:longitude":-92.964587,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514913,
+        85633793,
+        85953565,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43bnKwJdmm19Jhj2NDdA0W_44.983914_-92.964587@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598021,
-    "wof:geomhash":"79d79f7a199cc3a223659b4a00145416",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c81ac539daf5317e54ce6cf487d6ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514913,
+            "locality_id":85953565,
+            "region_id":85688727,
+            "venue_id":806421957
+        }
+    ],
     "wof:id":806421957,
-    "wof:lastmodified":1472629113,
+    "wof:lastmodified":1492819084,
     "wof:name":"RFS Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

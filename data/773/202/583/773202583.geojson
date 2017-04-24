@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.750245,47.575493,-95.750245,47.575493",
     "geom:latitude":47.575493,
     "geom:longitude":-95.750245,
@@ -32,17 +33,34 @@
         "auditorium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BfKtJsGT4uFg8NpoxmNZW_47.575493_-95.750245@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583948,
-    "wof:geomhash":"4e5e33796313f0f46aa6bb19ffb7a7ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de4c115241a77e10d1eec6e9edfa0d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":773202583
+        }
+    ],
     "wof:id":773202583,
-    "wof:lastmodified":1472629955,
+    "wof:lastmodified":1492803361,
     "wof:name":"Fosston Civic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.8057,45.420626,-92.8057,45.420626",
     "geom:latitude":45.420626,
     "geom:longitude":-92.8057,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oc8OpphulMBFCrtVwINTV_45.420626_-92.805700@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593490,
-    "wof:geomhash":"6b7014766ecfc0635d9d0a106acbb36f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05c2362ce2231173e0bbeb00e898f304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":790147715
+        }
+    ],
     "wof:id":790147715,
-    "wof:lastmodified":1472629218,
+    "wof:lastmodified":1492835811,
     "wof:name":"Kent Reed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

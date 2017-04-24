@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.365036,45.169018,-93.365036,45.169018",
     "geom:latitude":45.169018,
     "geom:longitude":-93.365036,
@@ -31,17 +32,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XoorJvF5yMKeuhSW3DsNA_45.169018_-93.365036@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601319,
-    "wof:geomhash":"3e62650fe0b46383bf7545735a194668",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a77ae3a4cfd0c563174d991f975783d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":806817119
+        }
+    ],
     "wof:id":806817119,
-    "wof:lastmodified":1472629838,
+    "wof:lastmodified":1492820778,
     "wof:name":"LRM Real Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

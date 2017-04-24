@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.378509,45.016693,-93.378509,45.016693",
     "geom:latitude":45.016693,
     "geom:longitude":-93.378509,
@@ -40,17 +41,34 @@
         "face"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05RS8PywI2g87bJscrM90A_45.016693_-93.378509@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608149,
-    "wof:geomhash":"505c5c978934c163e6da79576dd73e57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"284ce322d3e83678065a7aebca480c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":823186481
+        }
+    ],
     "wof:id":823186481,
-    "wof:lastmodified":1472629040,
+    "wof:lastmodified":1492830529,
     "wof:name":"Metro Brick Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.035589,44.730298,-95.035589,44.730298",
     "geom:latitude":44.730298,
     "geom:longitude":-95.035589,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512615,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dObmzqIU4mDgxB2JJLtmA_44.730298_-95.035589@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600890,
-    "wof:geomhash":"51bf367eb565e72d13f540895a6b22cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a01c474a29e15853edfb6a8da8ed5b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512615,
+            "region_id":85688727,
+            "venue_id":806765603
+        }
+    ],
     "wof:id":806765603,
-    "wof:lastmodified":1472629794,
+    "wof:lastmodified":1492816195,
     "wof:name":"Futura Terra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

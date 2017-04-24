@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.758739,44.920106,-93.758739,44.920106",
     "geom:latitude":44.920106,
     "geom:longitude":-93.758739,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511889,
+        85633793,
+        85969155,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cgyHfxrSkTXrYAWiSLYd1_44.920106_-93.758739@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584167,
-    "wof:geomhash":"4c0ffbd372c74112805f33170d1edcb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f6dc85f55aa1ee3192b0f5e63b39e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":773232799
+        }
+    ],
     "wof:id":773232799,
-    "wof:lastmodified":1472629980,
+    "wof:lastmodified":1492799058,
     "wof:name":"Pride Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.331101,44.916054,-93.331101,44.916054",
     "geom:latitude":44.916054,
     "geom:longitude":-93.331101,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f6fv3IIKEApSxFPT6lape_44.916054_-93.331101@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591782,
-    "wof:geomhash":"a720f664e6a47cf2c67a740f5bcfc6fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2b3ecaab42625f37ba489567e075167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":789939269
+        }
+    ],
     "wof:id":789939269,
-    "wof:lastmodified":1472629639,
+    "wof:lastmodified":1492809098,
     "wof:name":"Westside Ranch of Paso Robles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.007006,45.542264,-94.007006,45.542264",
     "geom:latitude":45.542264,
     "geom:longitude":-94.007006,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510469,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39923CGnT9kgkoWw9R1Mw7_45.542264_-94.007006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598516,
-    "wof:geomhash":"a7b057676789d853e2fea1da71a16d0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55fd55591b2e4ff2086116a8e1fea9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510469,
+            "region_id":85688727,
+            "venue_id":806486261
+        }
+    ],
     "wof:id":806486261,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492816994,
     "wof:name":"American Freightways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.157015,45.027747,-93.157015,45.027747",
     "geom:latitude":45.027747,
     "geom:longitude":-93.157015,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62MSiezmPjV4Qq6GiHPx8s_45.027747_-93.157015@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600848,
-    "wof:geomhash":"133d21c186d41dfdfd4c6dffb98ce2f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7af9d621674994686e00c1ca94ce2727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":806760023
+        }
+    ],
     "wof:id":806760023,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492816510,
     "wof:name":"Simpson Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

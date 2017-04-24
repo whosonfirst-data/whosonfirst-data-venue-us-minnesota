@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.785544,45.493643,-92.785544,45.493643",
     "geom:latitude":45.493643,
     "geom:longitude":-92.785544,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511105,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00qEOErbbVblKjGpM9S3je_45.493643_-92.785544@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582780,
-    "wof:geomhash":"eebf43f7fd32b2a67171a559e1ab0ced",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfe87b84c571fc7bed9096beecf7a1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511105,
+            "region_id":85688727,
+            "venue_id":773052301
+        }
+    ],
     "wof:id":773052301,
-    "wof:lastmodified":1472629408,
+    "wof:lastmodified":1492803662,
     "wof:name":"Steve Sellman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

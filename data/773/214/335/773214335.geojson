@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.50416,44.533977,-93.50416,44.533977",
     "geom:latitude":44.533977,
     "geom:longitude":-93.50416,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512765,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EVn9rNt4HbYWMtbvRbMFW_44.533977_-93.504160@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584032,
-    "wof:geomhash":"3d3c39f168d2d14c366a0c087c1cac0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3b2d8a91031dd9b356d5cb58201549b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512765,
+            "region_id":85688727,
+            "venue_id":773214335
+        }
+    ],
     "wof:id":773214335,
-    "wof:lastmodified":1472629957,
+    "wof:lastmodified":1492799993,
     "wof:name":"C & H Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

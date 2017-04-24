@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.61356,44.41757,-94.61356,44.41757",
     "geom:latitude":44.41757,
     "geom:longitude":-94.61356,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510107,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nkWTy4akD7cgF1dgIt1lv_44.417570_-94.613560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604711,
-    "wof:geomhash":"a2bf48c5705a1488d5f16e379553b88b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b52ed5c7d0480ecf8f43600b66a14c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404510107,
+            "region_id":85688727,
+            "venue_id":807192143
+        }
+    ],
     "wof:id":807192143,
-    "wof:lastmodified":1472629382,
+    "wof:lastmodified":1492823325,
     "wof:name":"K Dummer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

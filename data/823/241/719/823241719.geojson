@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.425728,44.508162,-96.425728,44.508162",
     "geom:latitude":44.508162,
     "geom:longitude":-96.425728,
@@ -37,17 +38,34 @@
         "brew"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512503,
+        85633793,
+        85968385,
+        102087807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lm1AtM0ZbHHK3ol4IyDiS_44.508162_-96.425728@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609180,
-    "wof:geomhash":"71b686ff4f930c67b93bb65201267fbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0902f9e1b3b121d911b3b4f239e4c9da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087807,
+            "localadmin_id":404512503,
+            "locality_id":85968385,
+            "region_id":85688727,
+            "venue_id":823241719
+        }
+    ],
     "wof:id":823241719,
-    "wof:lastmodified":1472629163,
+    "wof:lastmodified":1492828921,
     "wof:name":"Main Street Co Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

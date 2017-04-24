@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.443612,43.827764,-94.443612,43.827764",
     "geom:latitude":43.827764,
     "geom:longitude":-94.443612,
@@ -28,17 +29,34 @@
     "sg:postcode":"56088",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512257,
+        85633793,
+        85953119,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09MN25o0nLPZcfvRY9l3xB_43.827764_-94.443612@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601578,
-    "wof:geomhash":"2d3d9a94dc3cd4ee36a6656b84599be9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d40c36ad5a0dc222f5e8e86630694b7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512257,
+            "locality_id":85953119,
+            "region_id":85688727,
+            "venue_id":806846891
+        }
+    ],
     "wof:id":806846891,
-    "wof:lastmodified":1472629892,
+    "wof:lastmodified":1492814087,
     "wof:name":"Portamedic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

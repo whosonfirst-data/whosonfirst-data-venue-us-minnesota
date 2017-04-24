@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.984911,43.934283,-94.984911,43.934283",
     "geom:latitude":43.934283,
     "geom:longitude":-94.984911,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511853,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uHoIPk9vzCl06iAyjazsY_43.934283_-94.984911@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604418,
-    "wof:geomhash":"80805abe880b7ee0d8f905aa3def6125",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c297a8efcc8e5250f122dcc5d56fcc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511853,
+            "region_id":85688727,
+            "venue_id":807164021
+        }
+    ],
     "wof:id":807164021,
-    "wof:lastmodified":1472629293,
+    "wof:lastmodified":1492823804,
     "wof:name":"Mark Loewen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

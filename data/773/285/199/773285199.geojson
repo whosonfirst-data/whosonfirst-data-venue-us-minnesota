@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.501999,44.075645,-92.501999,44.075645",
     "geom:latitude":44.075645,
     "geom:longitude":-92.501999,
@@ -31,17 +32,34 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mNEZc7oLjKHc0vwRfmQty_44.075645_-92.501999@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584564,
-    "wof:geomhash":"e423c92596db7782c2fd92f4bbbe3663",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d8d863e2371ebfd10d89032ea751837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773285199
+        }
+    ],
     "wof:id":773285199,
-    "wof:lastmodified":1472629995,
+    "wof:lastmodified":1492799245,
     "wof:name":"Davies Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

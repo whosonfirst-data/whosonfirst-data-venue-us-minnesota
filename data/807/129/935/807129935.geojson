@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.068619,44.037962,-94.068619,44.037962",
     "geom:latitude":44.037962,
     "geom:longitude":-94.068619,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511563,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OIe95Hz8CBZpUXrc6Euzt_44.037962_-94.068619@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604047,
-    "wof:geomhash":"3ec52d26d666be3174c8b608e56a47bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d423563c9aa646d9dcb22ddc0403ed73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511563,
+            "region_id":85688727,
+            "venue_id":807129935
+        }
+    ],
     "wof:id":807129935,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492826258,
     "wof:name":"Huebsch Harland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

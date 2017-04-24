@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.507595,47.463763,-92.507595,47.463763",
     "geom:latitude":47.463763,
     "geom:longitude":-92.507595,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EhrSE3k2LThCibNyPSx0f_47.463763_-92.507595@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596564,
-    "wof:geomhash":"1e3171dae2becea0dd9b2fbc829afa87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6980c81958834f681ad024fbf6c4e6a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790522903
+        }
+    ],
     "wof:id":790522903,
-    "wof:lastmodified":1472629809,
+    "wof:lastmodified":1492834997,
     "wof:name":"Merry Maids Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.676152,47.025702,-91.676152,47.025702",
     "geom:latitude":47.025702,
     "geom:longitude":-91.676152,
@@ -37,17 +38,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514563,
+        85633793,
+        85968577,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P0hn1kFaxWc6iNIjcg8GG_47.025702_-91.676152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598982,
-    "wof:geomhash":"08f5da6149e61e3ad696e0ea180af79a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33f0d50c0477e441451a448dce57f5a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514563,
+            "locality_id":85968577,
+            "region_id":85688727,
+            "venue_id":806542887
+        }
+    ],
     "wof:id":806542887,
-    "wof:lastmodified":1472629421,
+    "wof:lastmodified":1492819774,
     "wof:name":"Little Store 31",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

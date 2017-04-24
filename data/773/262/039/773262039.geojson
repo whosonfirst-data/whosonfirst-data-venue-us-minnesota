@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.663032,45.937221,-93.663032,45.937221",
     "geom:latitude":45.937221,
     "geom:longitude":-93.663032,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512543,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IIVXknrQUE04ygkG012LI_45.937221_-93.663032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584377,
-    "wof:geomhash":"59b8461d726233917d604dcc9d266682",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fed35f8239f004634225adfb52968b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512543,
+            "region_id":85688727,
+            "venue_id":773262039
+        }
+    ],
     "wof:id":773262039,
-    "wof:lastmodified":1472629989,
+    "wof:lastmodified":1492808146,
     "wof:name":"Travel America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

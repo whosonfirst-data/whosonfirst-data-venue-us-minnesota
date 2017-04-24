@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.889414,44.887972,-93.889414,44.887972",
     "geom:latitude":44.887972,
     "geom:longitude":-93.889414,
@@ -32,17 +33,34 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511699,
+        85633793,
+        85952949,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51EnGIHWlNcaJGpVTZ53Xi_44.887972_-93.889414@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596657,
-    "wof:geomhash":"f314479f2530a7047ab3a10ad91660d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e70f8f974808a87965a98d66e4a5515b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511699,
+            "locality_id":85952949,
+            "region_id":85688727,
+            "venue_id":790534329
+        }
+    ],
     "wof:id":790534329,
-    "wof:lastmodified":1472629810,
+    "wof:lastmodified":1492836942,
     "wof:name":"Wired",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

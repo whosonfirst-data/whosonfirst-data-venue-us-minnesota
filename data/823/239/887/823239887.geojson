@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.78513,44.009607,-93.78513,44.009607",
     "geom:latitude":44.009607,
     "geom:longitude":-93.78513,
@@ -33,17 +34,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511557,
+        85633793,
+        85953337,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17nUN5xuQtm2WQ42jVdAmu_44.009607_-93.785130@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609147,
-    "wof:geomhash":"594ecf3013b88bc5fa12746b5f716e0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e8e930bd6088a38df58c1dd0c3ad77a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511557,
+            "locality_id":85953337,
+            "region_id":85688727,
+            "venue_id":823239887
+        }
+    ],
     "wof:id":823239887,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492828339,
     "wof:name":"Spear Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

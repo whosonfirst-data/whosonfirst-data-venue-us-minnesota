@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.287546,44.294628,-93.287546,44.294628",
     "geom:latitude":44.294628,
     "geom:longitude":-93.287546,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I1yMCqN7kaPLtjeezKIeS_44.294628_-93.287546@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604684,
-    "wof:geomhash":"5497a1d93e81489113b70c4194265596",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3192ba28c83a49893146c2dc497949e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":807189419
+        }
+    ],
     "wof:id":807189419,
-    "wof:lastmodified":1472629385,
+    "wof:lastmodified":1492825680,
     "wof:name":"Jerry Groskreutz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

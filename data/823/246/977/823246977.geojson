@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.001609,44.776441,-95.001609,44.776441",
     "geom:latitude":44.776441,
     "geom:longitude":-95.001609,
@@ -52,17 +53,34 @@
     ],
     "sg:website":"http://www.woodlandcenters.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LZ3bjhXeHivkQqw4z0g3T_44.776441_-95.001609@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609277,
-    "wof:geomhash":"5e42f65fb29f3437b5fe019dad3fb766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87108fe337c8d41f8a18c6c380cde334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":823246977
+        }
+    ],
     "wof:id":823246977,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492829610,
     "wof:name":"Woodland Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

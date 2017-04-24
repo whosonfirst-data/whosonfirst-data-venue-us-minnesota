@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.631847,44.04007,-91.631847,44.04007",
     "geom:latitude":44.04007,
     "geom:longitude":-91.631847,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ajzB2DsC7HewGltjf54eJ_44.040070_-91.631847@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591970,
-    "wof:geomhash":"1317ef547b98f0ffb37c15d681852703",
-    "wof:hierarchy":[],
+    "wof:geomhash":"375b618365ebb41d61bb14ac17e320a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":789956475
+        }
+    ],
     "wof:id":789956475,
-    "wof:lastmodified":1472629648,
+    "wof:lastmodified":1492810716,
     "wof:name":"David A Christenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

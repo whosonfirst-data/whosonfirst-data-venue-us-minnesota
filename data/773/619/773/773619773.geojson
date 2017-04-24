@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.28936,47.53128,-92.28936,47.53128",
     "geom:latitude":47.53128,
     "geom:longitude":-92.28936,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49hGkcCl28qMx8z0iyJ5bB_47.531280_-92.289360@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587096,
-    "wof:geomhash":"400d613c612dfeacdf8c5a7493c2e52d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2904e6aa4813e813b788510e01e0a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773619773
+        }
+    ],
     "wof:id":773619773,
-    "wof:lastmodified":1472630111,
+    "wof:lastmodified":1492801160,
     "wof:name":"NM Services",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

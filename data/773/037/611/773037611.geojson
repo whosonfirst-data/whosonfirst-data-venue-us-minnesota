@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.144329,45.06638,-95.144329,45.06638",
     "geom:latitude":45.06638,
     "geom:longitude":-95.144329,
@@ -32,17 +33,32 @@
         "soil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513957,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jwu4k2q16kKb3hUciPLtc_45.066380_-95.144329@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582641,
-    "wof:geomhash":"2749b8922b9a016e1a979676095bd201",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ecd98d629b4c998fdbcaeb027bb82e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513957,
+            "region_id":85688727,
+            "venue_id":773037611
+        }
+    ],
     "wof:id":773037611,
-    "wof:lastmodified":1472629377,
+    "wof:lastmodified":1492808290,
     "wof:name":"Eagle Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

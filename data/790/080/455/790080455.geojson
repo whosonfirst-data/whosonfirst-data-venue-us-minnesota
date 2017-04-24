@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.099855,44.009119,-96.099855,44.009119",
     "geom:latitude":44.009119,
     "geom:longitude":-96.099855,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510443,
+        85633793,
+        85952973,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y66U041vcuxkpCNcEbMZo_44.009119_-96.099855@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592973,
-    "wof:geomhash":"6effcc50e7f72c2ee063ca899f6eca03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4224c013786d84fe11661db89bc5ece0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510443,
+            "locality_id":85952973,
+            "region_id":85688727,
+            "venue_id":790080455
+        }
+    ],
     "wof:id":790080455,
-    "wof:lastmodified":1472629084,
+    "wof:lastmodified":1492834779,
     "wof:name":"Woodstock Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

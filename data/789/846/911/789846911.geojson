@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.205818,44.43185,-93.205818,44.43185",
     "geom:latitude":44.43185,
     "geom:longitude":-93.205818,
@@ -31,17 +32,34 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512627,
+        85633793,
+        85968797,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23j3yUm8m5fGNVTicn6utD_44.431850_-93.205818@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591005,
-    "wof:geomhash":"f71af4abadfd73139061d00dd2df1774",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ea9eb5a315225466baa87d923f4f2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512627,
+            "locality_id":85968797,
+            "region_id":85688727,
+            "venue_id":789846911
+        }
+    ],
     "wof:id":789846911,
-    "wof:lastmodified":1472629485,
+    "wof:lastmodified":1492809253,
     "wof:name":"Service Master Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

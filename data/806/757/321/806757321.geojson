@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.751757,43.812159,-91.751757,43.812159",
     "geom:latitude":43.812159,
     "geom:longitude":-91.751757,
@@ -31,17 +32,34 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fhEji9dptyBqJAhpYYbZk_43.812159_-91.751757@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600823,
-    "wof:geomhash":"57e8c90013e2280533cb7ed145cb3903",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0873974d6197e05513c2000ac439e30c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":806757321
+        }
+    ],
     "wof:id":806757321,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492819834,
     "wof:name":"Lee's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

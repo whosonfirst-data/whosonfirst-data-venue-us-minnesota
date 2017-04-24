@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.472597,44.373549,-95.472597,44.373549",
     "geom:latitude":44.373549,
     "geom:longitude":-95.472597,
@@ -28,17 +29,41 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512343,
+        85633793,
+        102087799,
+        404512169
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XEdYhziEix8wGscsYLD3x_44.373549_-95.472597@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603925,
-    "wof:geomhash":"329dc39bd7b7bc32f329d069e18969af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51fbc909e4bedef0c08fcd539a01508e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512343,
+            "region_id":85688727,
+            "venue_id":807118759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512169,
+            "region_id":85688727,
+            "venue_id":807118759
+        }
+    ],
     "wof:id":807118759,
-    "wof:lastmodified":1472629249,
+    "wof:lastmodified":1492825096,
     "wof:name":"Chad Dallenbach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

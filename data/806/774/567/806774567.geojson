@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.316965,44.861103,-93.316965,44.861103",
     "geom:latitude":44.861103,
     "geom:longitude":-93.316965,
@@ -31,17 +32,34 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Vtz4NRpGF5CC3Z1MrZriE_44.861103_-93.316965@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600972,
-    "wof:geomhash":"51c739327dbd376951193b1bbed82d1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe5b136e7df97ea8eab7646d32200d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806774567
+        }
+    ],
     "wof:id":806774567,
-    "wof:lastmodified":1472629807,
+    "wof:lastmodified":1492819481,
     "wof:name":"Target Commercial Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

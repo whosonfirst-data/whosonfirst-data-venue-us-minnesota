@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.200034,44.455149,-93.200034,44.455149",
     "geom:latitude":44.455149,
     "geom:longitude":-93.200034,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512621,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59JN2VCQMQ1whM7lbirECW_44.455149_-93.200034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604479,
-    "wof:geomhash":"5d45347e5ce9ddb83870afbade6320f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89ed5543ca1820bba86cc65621ab21e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512621,
+            "region_id":85688727,
+            "venue_id":807169371
+        }
+    ],
     "wof:id":807169371,
-    "wof:lastmodified":1472629319,
+    "wof:lastmodified":1492822998,
     "wof:name":"Brookside Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

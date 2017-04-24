@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.099553,43.634255,-94.099553,43.634255",
     "geom:latitude":43.634255,
     "geom:longitude":-94.099553,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QQErXaMm00ZWFAAxvFVdq_43.634255_-94.099553@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598960,
-    "wof:geomhash":"bfbef18be47347bac0ae3f3c60e3f218",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cad787e548afbdf48b59a4e4c64c5197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":806540275
+        }
+    ],
     "wof:id":806540275,
-    "wof:lastmodified":1472629410,
+    "wof:lastmodified":1492815969,
     "wof:name":"Blue Earth Medical Ctr LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

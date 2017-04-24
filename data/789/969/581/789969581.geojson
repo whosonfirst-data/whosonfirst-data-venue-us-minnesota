@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.168773,45.021131,-93.168773,45.021131",
     "geom:latitude":45.021131,
     "geom:longitude":-93.168773,
@@ -28,17 +29,34 @@
     "sg:postcode":"55113",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xJWQLUr5In61LwBCKFJRm_45.021131_-93.168773@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592078,
-    "wof:geomhash":"9ed7b24ab06023dc7ddccf9ebf551356",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a33ef0e945e94bf7044db360c1fdeb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":789969581
+        }
+    ],
     "wof:id":789969581,
-    "wof:lastmodified":1472629673,
+    "wof:lastmodified":1492810361,
     "wof:name":"Gas Plus 12",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.828003,45.347916,-94.828003,45.347916",
     "geom:latitude":45.347916,
     "geom:longitude":-94.828003,
@@ -36,17 +37,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513953,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bW2GTfx4bn91oh3ynSgN2_45.347916_-94.828003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588772,
-    "wof:geomhash":"fee8020d5d4bc8e1a92b8c981565f994",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e4f8571452b2edc4c9cd262c18e817b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513953,
+            "region_id":85688727,
+            "venue_id":773836013
+        }
+    ],
     "wof:id":773836013,
-    "wof:lastmodified":1472630167,
+    "wof:lastmodified":1492807477,
     "wof:name":"Roseville Township Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

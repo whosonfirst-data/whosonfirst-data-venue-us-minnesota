@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.159264,47.259304,-93.159264,47.259304",
     "geom:latitude":47.259304,
     "geom:longitude":-93.159264,
@@ -31,17 +32,32 @@
         "drafting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513301,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1baD8N9tSJH9pPWsrYeGVk_47.259304_-93.159264@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608871,
-    "wof:geomhash":"8cb1580f7230e6387cf3a0da8dc28ff4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dc5c90000b9b773898889f593e6fc4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513301,
+            "region_id":85688727,
+            "venue_id":823226025
+        }
+    ],
     "wof:id":823226025,
-    "wof:lastmodified":1472629084,
+    "wof:lastmodified":1492830875,
     "wof:name":"Drafting Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

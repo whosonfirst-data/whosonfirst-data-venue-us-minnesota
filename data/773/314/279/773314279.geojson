@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.64482,45.754422,-93.64482,45.754422",
     "geom:latitude":45.754422,
     "geom:longitude":-93.64482,
@@ -31,17 +32,34 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512557,
+        85633793,
+        85969101,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Bjv6DdN465kqprZOoEs93_45.754422_-93.644820@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584801,
-    "wof:geomhash":"d0edb6d880d50c139957b86e67783cd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39c038957584cccbf03dff53fce0ab75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512557,
+            "locality_id":85969101,
+            "region_id":85688727,
+            "venue_id":773314279
+        }
+    ],
     "wof:id":773314279,
-    "wof:lastmodified":1472630002,
+    "wof:lastmodified":1492799394,
     "wof:name":"Mille Lacs County Court Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

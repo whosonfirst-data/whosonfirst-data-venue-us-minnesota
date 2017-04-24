@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.250532,45.240583,-93.250532,45.240583",
     "geom:latitude":45.240583,
     "geom:longitude":-93.250532,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420524997,
+        85827571,
         102191575,
-        404511269,
+        404511275,
         85633793,
-        85953415,
+        85953007,
         102087861,
-        85688727
+        85688727,
+        420524997,
+        404511269,
+        85953415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,8 +50,18 @@
     },
     "wof:country":"US",
     "wof:created":1462590998,
-    "wof:geomhash":"1ec9153f13fedc020dd62dfedd7ce83d",
+    "wof:geomhash":"364eafe77204b72a391795a69ed653df",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511275,
+            "locality_id":85953007,
+            "neighbourhood_id":85827571,
+            "region_id":85688727,
+            "venue_id":789845897
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":789845897,
-    "wof:lastmodified":1472629468,
+    "wof:lastmodified":1492809146,
     "wof:name":"Action Const Services",
-    "wof:parent_id":420524997,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

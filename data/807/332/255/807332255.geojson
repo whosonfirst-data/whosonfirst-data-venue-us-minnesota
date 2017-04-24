@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.367822,44.891175,-94.367822,44.891175",
     "geom:latitude":44.891175,
     "geom:longitude":-94.367822,
@@ -43,17 +44,34 @@
     ],
     "sg:website":"http://apps.amfam.com/agentlocator/RMIES?sourceid=yp3",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hbqYWJXai8rT0xP6IyLYV_44.891175_-94.367822@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606223,
-    "wof:geomhash":"d632abce0a203ae71adcfcc7498d4206",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e6fd3f7aa0676b552cbb7beadbf1a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":807332255
+        }
+    ],
     "wof:id":807332255,
-    "wof:lastmodified":1472629732,
+    "wof:lastmodified":1492822887,
     "wof:name":"American Family Insurance- Roger Mies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

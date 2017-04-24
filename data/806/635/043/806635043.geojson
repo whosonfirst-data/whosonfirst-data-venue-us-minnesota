@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.862893,47.371797,-94.862893,47.371797",
     "geom:latitude":47.371797,
     "geom:longitude":-94.862893,
@@ -36,17 +37,32 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512831,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jLSkT4zQx6mqGBH37d8ns_47.371797_-94.862893@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599776,
-    "wof:geomhash":"a00fab5cb8b3c08eb091e8d30616d20c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67f79439f3131d097bbcba19c473fac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512831,
+            "region_id":85688727,
+            "venue_id":806635043
+        }
+    ],
     "wof:id":806635043,
-    "wof:lastmodified":1472629538,
+    "wof:lastmodified":1492817013,
     "wof:name":"Country Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

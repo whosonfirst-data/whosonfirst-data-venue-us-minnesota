@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.245903,44.9203,-93.245903,44.9203",
     "geom:latitude":44.9203,
     "geom:longitude":-93.245903,
@@ -42,8 +43,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800217,
         85872557,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
@@ -56,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607222,
-    "wof:geomhash":"197f5c86e5b6f5fbf962a2f7275e1432",
+    "wof:geomhash":"2f2dccfbd0c9112087a68ecef5ddb044",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,15 +67,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799987,
+            "microhood_id":1108800217,
             "neighbourhood_id":85872557,
             "region_id":85688727,
             "venue_id":807397491
         }
     ],
     "wof:id":807397491,
-    "wof:lastmodified":1472629890,
+    "wof:lastmodified":1492826155,
     "wof:name":"Hiawatha Golf Course",
-    "wof:parent_id":85872557,
+    "wof:parent_id":1108800217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

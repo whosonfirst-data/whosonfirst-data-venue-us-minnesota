@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.888382,47.495076,-92.888382,47.495076",
     "geom:latitude":47.495076,
     "geom:longitude":-92.888382,
@@ -32,17 +33,36 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fgKGKL41049KCuTOYLfRE_47.495076_-92.888382@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596988,
-    "wof:geomhash":"3b554353808b64611d9e2942876a148f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9aa159c3943996e342337f521b6df6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":790573643
+        }
+    ],
     "wof:id":790573643,
-    "wof:lastmodified":1472629867,
+    "wof:lastmodified":1492836591,
     "wof:name":"Beverly Degrugillier",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

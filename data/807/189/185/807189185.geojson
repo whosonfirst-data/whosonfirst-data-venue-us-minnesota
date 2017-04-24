@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.230569,45.3742,-94.230569,45.3742",
     "geom:latitude":45.3742,
     "geom:longitude":-94.230569,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514373,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HNBFgdT3fcfjARBKAixYL_45.374200_-94.230569@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604682,
-    "wof:geomhash":"530c15d39a3e228c513604d61addeeac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bc2e109ae71bbbb5c94db7601f52b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514373,
+            "region_id":85688727,
+            "venue_id":807189185
+        }
+    ],
     "wof:id":807189185,
-    "wof:lastmodified":1472629379,
+    "wof:lastmodified":1492825688,
     "wof:name":"Ken Ingebrigtson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

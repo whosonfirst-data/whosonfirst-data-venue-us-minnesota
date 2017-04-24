@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.722755,44.294963,-94.722755,44.294963",
     "geom:latitude":44.294963,
     "geom:longitude":-94.722755,
@@ -33,17 +34,34 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509331,
+        85633793,
+        85952697,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A3vyH30KRHxF05I8NHwce_44.294963_-94.722755@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590990,
-    "wof:geomhash":"92c03241026c687b192ee5b704801a2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"157cb974a8df8dc4125724c741299b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509331,
+            "locality_id":85952697,
+            "region_id":85688727,
+            "venue_id":789844755
+        }
+    ],
     "wof:id":789844755,
-    "wof:lastmodified":1472629472,
+    "wof:lastmodified":1492809986,
     "wof:name":"Headstart Springfield-Sleepy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

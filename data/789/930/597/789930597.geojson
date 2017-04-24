@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.179401,45.598983,-94.179401,45.598983",
     "geom:latitude":45.598983,
     "geom:longitude":-94.179401,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v1nQQn5rGBA7iUjIopEpX_45.598983_-94.179401@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591714,
-    "wof:geomhash":"38650db3d70c5a80c1cc3949925f0c44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8ca6ee9dcc655e919e0961530e23659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":789930597
+        }
+    ],
     "wof:id":789930597,
-    "wof:lastmodified":1472629642,
+    "wof:lastmodified":1492811090,
     "wof:name":"Jason White Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

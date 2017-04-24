@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.038241,45.121641,-95.038241,45.121641",
     "geom:latitude":45.121641,
     "geom:longitude":-95.038241,
@@ -32,17 +33,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sm723XmieyHNELTZtzzzF_45.121641_-95.038241@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593231,
-    "wof:geomhash":"75844e718153e7aa6e67a969e5649adb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5efee59453495df8586e8a9751938f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":790111735
+        }
+    ],
     "wof:id":790111735,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492837367,
     "wof:name":"Elca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

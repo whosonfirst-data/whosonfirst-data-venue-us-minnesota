@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.145555,44.733094,-93.145555,44.733094",
     "geom:latitude":44.733094,
     "geom:longitude":-93.145555,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511991,
+        85633793,
+        85968455,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vSblRZOBnO7ETkCrOKoVU_44.733094_-93.145555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582668,
-    "wof:geomhash":"0c71a3f45318127e49ba73d13b8d949d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"570df17e84617f677efaf3a16068fbbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511991,
+            "locality_id":85968455,
+            "region_id":85688727,
+            "venue_id":773040585
+        }
+    ],
     "wof:id":773040585,
-    "wof:lastmodified":1472629373,
+    "wof:lastmodified":1492800259,
     "wof:name":"Acceirys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

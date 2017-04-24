@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.099397,43.627258,-94.099397,43.627258",
     "geom:latitude":43.627258,
     "geom:longitude":-94.099397,
@@ -28,17 +29,34 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JgpSjjFYJWeIluysjQtZy_43.627258_-94.099397@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603855,
-    "wof:geomhash":"c50668d5ecc4eb9620af6d97b089cfa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"058c94022df7397a85595b4c56ddf502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":807111725
+        }
+    ],
     "wof:id":807111725,
-    "wof:lastmodified":1472629216,
+    "wof:lastmodified":1492827470,
     "wof:name":"Robert Volz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

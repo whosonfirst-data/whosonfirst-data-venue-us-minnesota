@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.147548,48.108686,-96.147548,48.108686",
     "geom:latitude":48.108686,
     "geom:longitude":-96.147548,
@@ -31,17 +32,34 @@
         "bean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VfuIUYjgyO98UYJCFwQXL_48.108686_-96.147548@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598590,
-    "wof:geomhash":"f6d9d1467cb3cef802a8faf15173afb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a913d768f8fc83211d602ff89e553d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806495505
+        }
+    ],
     "wof:id":806495505,
-    "wof:lastmodified":1472629302,
+    "wof:lastmodified":1492817042,
     "wof:name":"Greenwood Terrace Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

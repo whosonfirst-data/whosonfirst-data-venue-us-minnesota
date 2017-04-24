@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.405916,45.854399,-95.405916,45.854399",
     "geom:latitude":45.854399,
     "geom:longitude":-95.405916,
@@ -31,17 +32,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mg6Ezt8FXB1dUXdFpIz7F_45.854399_-95.405916@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599668,
-    "wof:geomhash":"c5165a4e753f24d12ffc46bbdd64b8e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d6991326dfc1062d1aa58c1f8e9f836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":806621937
+        }
+    ],
     "wof:id":806621937,
-    "wof:lastmodified":1472629573,
+    "wof:lastmodified":1492820008,
     "wof:name":"Heritage Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

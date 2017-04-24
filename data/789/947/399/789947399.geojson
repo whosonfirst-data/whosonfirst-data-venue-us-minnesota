@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.917447,44.166958,-93.917447,44.166958",
     "geom:latitude":44.166958,
     "geom:longitude":-93.917447,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511549,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4B2UWZFVU8em5ASDmNl701_44.166958_-93.917447@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591877,
-    "wof:geomhash":"3b1735d08e9999143a0cb270198fa740",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cfd253fe8d0ac645877e8b0b9a697b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511549,
+            "region_id":85688727,
+            "venue_id":789947399
+        }
+    ],
     "wof:id":789947399,
-    "wof:lastmodified":1472629639,
+    "wof:lastmodified":1492812240,
     "wof:name":"Javens Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

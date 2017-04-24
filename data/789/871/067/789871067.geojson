@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.77935,44.440314,-95.77935,44.440314",
     "geom:latitude":44.440314,
     "geom:longitude":-95.77935,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uGfVPV4TI6BCpTPnlaaEm_44.440314_-95.779350@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591196,
-    "wof:geomhash":"41ef8960d2f6362c8cbede40954bc6ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2d89abca5cb44da915dced90ab621c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":789871067
+        }
+    ],
     "wof:id":789871067,
-    "wof:lastmodified":1472629531,
+    "wof:lastmodified":1492810931,
     "wof:name":"Bisbee Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

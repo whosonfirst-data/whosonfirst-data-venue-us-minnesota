@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.486817,43.805601,-93.486817,43.805601",
     "geom:latitude":43.805601,
     "geom:longitude":-93.486817,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514415,
+        85633793,
+        85969027,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ygi9hVUWs1LnTrZHFey6f_43.805601_-93.486817@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584791,
-    "wof:geomhash":"5bcddb423f627c02a421559246a7fa04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d12957e9958abc620fcbcfa6ece4dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514415,
+            "locality_id":85969027,
+            "region_id":85688727,
+            "venue_id":773312941
+        }
+    ],
     "wof:id":773312941,
-    "wof:lastmodified":1472630001,
+    "wof:lastmodified":1492806412,
     "wof:name":"Hartland Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

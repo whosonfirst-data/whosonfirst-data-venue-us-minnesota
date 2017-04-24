@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.237242,45.020156,-93.237242,45.020156",
     "geom:latitude":45.020156,
     "geom:longitude":-93.237242,
@@ -37,14 +38,14 @@
     "sg:website":"www.thecoffeeshopne.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558757,
+        420781087,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607809,
-    "wof:geomhash":"7a9e59afe872bfb21c06464d8ade3566",
+    "wof:geomhash":"dfb884e429363cb4f19f4adbe6121044",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,25 +61,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420558757,
-            "region_id":85688727,
-            "venue_id":823160847
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781087,
             "region_id":85688727,
             "venue_id":823160847
         }
     ],
     "wof:id":823160847,
-    "wof:lastmodified":1472628984,
+    "wof:lastmodified":1492831167,
     "wof:name":"The Coffee Shop NE",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

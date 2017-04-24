@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.242577,44.856041,-93.242577,44.856041",
     "geom:latitude":44.856041,
     "geom:longitude":-93.242577,
@@ -37,17 +38,34 @@
         "warehouses-merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V2Hfium1nW4TlmvD4vUsg_44.856041_-93.242577@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608075,
-    "wof:geomhash":"70a855e052287cca5a156e9f684639da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"010e1c6642dd088733cf958f11449e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823181109
+        }
+    ],
     "wof:id":823181109,
-    "wof:lastmodified":1472629016,
+    "wof:lastmodified":1492830422,
     "wof:name":"Petters Mall Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

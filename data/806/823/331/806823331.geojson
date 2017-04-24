@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.183833,45.043512,-93.183833,45.043512",
     "geom:latitude":45.043512,
     "geom:longitude":-93.183833,
@@ -33,17 +34,34 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0a25wp3FTayde0KI0r0xTd_45.043512_-93.183833@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601369,
-    "wof:geomhash":"84002d96f5a9d90ea32431c3e2ffc6b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0de9b6ad431d73d7c95471e97605efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":806823331
+        }
+    ],
     "wof:id":806823331,
-    "wof:lastmodified":1472629850,
+    "wof:lastmodified":1492818087,
     "wof:name":"Association Maintenance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

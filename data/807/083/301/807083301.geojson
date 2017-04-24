@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.145454,45.022737,-93.145454,45.022737",
     "geom:latitude":45.022737,
     "geom:longitude":-93.145454,
@@ -37,19 +38,38 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85809459,
+        102191575,
+        404514467,
+        85633793,
+        85953193,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cCjlgV93NMML5UCSs0mya_45.022737_-93.145454@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603560,
-    "wof:geomhash":"bbd16799940e416230f199587c39b3e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f910ba7115c6b610ce43b7e133d730b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514467,
+            "locality_id":85953193,
+            "neighbourhood_id":85809459,
+            "region_id":85688727,
+            "venue_id":807083301
+        }
+    ],
     "wof:id":807083301,
-    "wof:lastmodified":1472629091,
+    "wof:lastmodified":1492823970,
     "wof:name":"Assessment Dynamics Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85809459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

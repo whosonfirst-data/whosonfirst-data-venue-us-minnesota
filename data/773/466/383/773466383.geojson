@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.340971,47.478655,-92.340971,47.478655",
     "geom:latitude":47.478655,
     "geom:longitude":-92.340971,
@@ -33,17 +34,26 @@
         "tract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cSXmSvxYltooI3EFT5vir_47.478655_-92.340971@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585961,
-    "wof:geomhash":"9a241e54cbe092358f27b3e06b67f240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69ea95f6956996c0c27ce1644e93b2b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773466383
+        }
+    ],
     "wof:id":773466383,
-    "wof:lastmodified":1472630063,
+    "wof:lastmodified":1492804815,
     "wof:name":"Evergreen Tree Farms",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

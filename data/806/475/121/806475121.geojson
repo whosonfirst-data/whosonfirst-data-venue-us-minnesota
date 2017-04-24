@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.168457,45.599327,-94.168457,45.599327",
     "geom:latitude":45.599327,
     "geom:longitude":-94.168457,
@@ -31,17 +32,34 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pnLv0F70fLngDE5G3e85T_45.599327_-94.168457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598424,
-    "wof:geomhash":"3bd377f6783adeb019288cdf7728d57b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23863d7deebab98740648b376c79ba6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":806475121
+        }
+    ],
     "wof:id":806475121,
-    "wof:lastmodified":1472629231,
+    "wof:lastmodified":1492818547,
     "wof:name":"Deluxe Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

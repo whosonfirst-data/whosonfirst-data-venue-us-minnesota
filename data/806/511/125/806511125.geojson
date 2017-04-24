@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.911138,43.89226,-95.911138,43.89226",
     "geom:latitude":43.89226,
     "geom:longitude":-95.911138,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513177,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QWQ3R7BH6CLcNIPk3YcZZ_43.892260_-95.911138@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598725,
-    "wof:geomhash":"435d621e0b655c12d00bb5d63d9b5806",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b95a2ca9166ca21a3ab74a589111c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513177,
+            "region_id":85688727,
+            "venue_id":806511125
+        }
+    ],
     "wof:id":806511125,
-    "wof:lastmodified":1472629335,
+    "wof:lastmodified":1492817463,
     "wof:name":"Glen Hart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

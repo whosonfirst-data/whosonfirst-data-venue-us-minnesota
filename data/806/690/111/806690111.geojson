@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.688517,43.731061,-91.688517,43.731061",
     "geom:latitude":43.731061,
     "geom:longitude":-91.688517,
@@ -37,17 +38,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511959,
+        85633793,
+        102087605
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PteXoBmFxlCajo8aYgLm4_43.731061_-91.688517@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600259,
-    "wof:geomhash":"d1e33b9948d2a3491489272e8e52e1fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27b72bb8862cca9243a84bff3d314e50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087605,
+            "localadmin_id":404511959,
+            "region_id":85688727,
+            "venue_id":806690111
+        }
+    ],
     "wof:id":806690111,
-    "wof:lastmodified":1472629705,
+    "wof:lastmodified":1492819974,
     "wof:name":"Joseph McManimon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.571512,45.809073,-94.571512,45.809073",
     "geom:latitude":45.809073,
     "geom:longitude":-94.571512,
@@ -32,17 +33,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515213,
+        85633793,
+        85968653,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FztuYs1T49fbcNNMpqZsL_45.809073_-94.571512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591842,
-    "wof:geomhash":"fe07973651918b645a84726ceb4a77c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa1b2d66828c60d3d89da80453ef88fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404515213,
+            "locality_id":85968653,
+            "region_id":85688727,
+            "venue_id":789945239
+        }
+    ],
     "wof:id":789945239,
-    "wof:lastmodified":1472629635,
+    "wof:lastmodified":1492813060,
     "wof:name":"Senior Citizens Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

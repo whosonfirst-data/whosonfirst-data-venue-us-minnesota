@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.012457,44.160465,-94.012457,44.160465",
     "geom:latitude":44.160465,
     "geom:longitude":-94.012457,
@@ -28,17 +29,34 @@
     "sg:postcode":"56001",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kXlGnEbkrk4EmT0eJUzOH_44.160465_-94.012457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587358,
-    "wof:geomhash":"03429cc70dae82dde4343c4577141d80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"522ea8cff7bbbada69195e2d1a599d8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":773654765
+        }
+    ],
     "wof:id":773654765,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492807025,
     "wof:name":"John D Brady DC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

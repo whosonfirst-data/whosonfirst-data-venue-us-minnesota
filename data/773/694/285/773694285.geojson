@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.372555,44.759752,-93.372555,44.759752",
     "geom:latitude":44.759752,
     "geom:longitude":-93.372555,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nHYWeGp1BqETiyPjKzBVj_44.759752_-93.372555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587666,
-    "wof:geomhash":"87a6ce0315253db029349459d9d87909",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9369f98f07e735d4e43ac1fbc541ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":773694285
+        }
+    ],
     "wof:id":773694285,
-    "wof:lastmodified":1472630131,
+    "wof:lastmodified":1492799655,
     "wof:name":"CLB Home Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

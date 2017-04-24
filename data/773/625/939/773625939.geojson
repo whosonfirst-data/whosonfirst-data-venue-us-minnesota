@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.109005,43.905802,-95.109005,43.905802",
     "geom:latitude":43.905802,
     "geom:longitude":-95.109005,
@@ -32,17 +33,32 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511859,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4k9PvI9kKafDu9KQmpyoKo_43.905802_-95.109005@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587138,
-    "wof:geomhash":"5123ff843362fd6cba20335a34f7f209",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8daecd6d2a043371a5c05e8d653c38c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511859,
+            "region_id":85688727,
+            "venue_id":773625939
+        }
+    ],
     "wof:id":773625939,
-    "wof:lastmodified":1472630113,
+    "wof:lastmodified":1492803553,
     "wof:name":"Scotts Snow Removal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.163224,45.85279,-94.163224,45.85279",
     "geom:latitude":45.85279,
     "geom:longitude":-94.163224,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512693,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HdEPrGfsZWQod40RUzmTA_45.852790_-94.163224@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593416,
-    "wof:geomhash":"3d3b8146bfb76f7310995b824db3ed4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5af4232159efdac8db6c35840529a358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512693,
+            "region_id":85688727,
+            "venue_id":790137869
+        }
+    ],
     "wof:id":790137869,
-    "wof:lastmodified":1472629203,
+    "wof:lastmodified":1492833579,
     "wof:name":"Fairbrother Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.913817,44.891225,-93.913817,44.891225",
     "geom:latitude":44.891225,
     "geom:longitude":-93.913817,
@@ -37,17 +38,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511683,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zTEw07yf3HEOV4CHOYjDD_44.891225_-93.913817@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602415,
-    "wof:geomhash":"888d18c754409484a28705317f53dc0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d00a4df28b7c7fe976da3a151ce0038b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511683,
+            "region_id":85688727,
+            "venue_id":806947163
+        }
+    ],
     "wof:id":806947163,
-    "wof:lastmodified":1472629945,
+    "wof:lastmodified":1492819197,
     "wof:name":"Matt's Welding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.013017,43.72784,-96.013017,43.72784",
     "geom:latitude":43.72784,
     "geom:longitude":-96.013017,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512135,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AirWZHW9yxL0kuc39yrda_43.727840_-96.013017@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597148,
-    "wof:geomhash":"7529339694e1dc09252f5f30e88be9cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e4e1f7b6469014f6275a41ed9b9f066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512135,
+            "region_id":85688727,
+            "venue_id":790592601
+        }
+    ],
     "wof:id":790592601,
-    "wof:lastmodified":1472629894,
+    "wof:lastmodified":1492835189,
     "wof:name":"Doug Heeren",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

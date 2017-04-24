@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.00006,44.331976,-93.00006,44.331976",
     "geom:latitude":44.331976,
     "geom:longitude":-93.00006,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85824013,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85824013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462590218,
-    "wof:geomhash":"d43374e2b75616ced47e8e2c91900d8b",
+    "wof:geomhash":"2bdafec39e5d87f8a81609d0fda03fdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85824013,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":789745027,
-    "wof:lastmodified":1472629284,
+    "wof:lastmodified":1492812866,
     "wof:name":"Trade Technology Mfg",
     "wof:parent_id":85824013,
     "wof:placetype":"venue",

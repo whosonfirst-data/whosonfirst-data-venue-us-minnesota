@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.140582,44.737336,-93.140582,44.737336",
     "geom:latitude":44.737336,
     "geom:longitude":-93.140582,
@@ -31,19 +32,38 @@
         "townhouses"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85855137,
+        102191575,
+        404512099,
+        85633793,
+        85968491,
+        102087895,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59aKMqHKfERnKFKiI5Tit3_44.737336_-93.140582@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593798,
-    "wof:geomhash":"9eadbdc0d0dce9c58470042f9cceec82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"698b1cbb9309d0e9d08e2b50d7d34b19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512099,
+            "locality_id":85968491,
+            "neighbourhood_id":85855137,
+            "region_id":85688727,
+            "venue_id":790182701
+        }
+    ],
     "wof:id":790182701,
-    "wof:lastmodified":1472629248,
+    "wof:lastmodified":1492832469,
     "wof:name":"Kidder Park Townhomes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85855137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

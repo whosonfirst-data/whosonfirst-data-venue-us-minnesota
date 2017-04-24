@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.01094,46.837853,-92.01094,46.837853",
     "geom:latitude":46.837853,
     "geom:longitude":-92.01094,
@@ -40,14 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85829557,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85829557,
-        85830347,
-        102191575,
-        404513247
+        85688727,
+        85830347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +56,13 @@
     },
     "wof:country":"US",
     "wof:created":1462584259,
-    "wof:geomhash":"f8cd09a4e1157be46fe646ca9e863a87",
+    "wof:geomhash":"1816e194e1fd0934e462321b33dd65b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85829557,
             "region_id":85688727,
@@ -77,9 +80,9 @@
         }
     ],
     "wof:id":773246413,
-    "wof:lastmodified":1472629990,
+    "wof:lastmodified":1492803037,
     "wof:name":"Jim's Lester Park Skelly",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

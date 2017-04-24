@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.00782,44.906303,-93.00782,44.906303",
     "geom:latitude":44.906303,
     "geom:longitude":-93.00782,
@@ -31,19 +32,40 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800629,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00CS9hTfcQWAvvWYCD5Wn6_44.906303_-93.007820@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602348,
-    "wof:geomhash":"d74a9ec581b6b4eccf17ec27ed4da16b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cff9e7319fc6e97103182b5f1b807e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800629,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":806938379
+        }
+    ],
     "wof:id":806938379,
-    "wof:lastmodified":1472629941,
+    "wof:lastmodified":1492814151,
     "wof:name":"Pair O Docs Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

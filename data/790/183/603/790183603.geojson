@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.793633,48.325718,-96.793633,48.325718",
     "geom:latitude":48.325718,
     "geom:longitude":-96.793633,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513837,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FKmr4U6z0n1pbRJwuZ6Be_48.325718_-96.793633@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593804,
-    "wof:geomhash":"4eca463e502e726b3f56ced4c873375c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afe6fcea63d5f429eaa54006524554a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513837,
+            "region_id":85688727,
+            "venue_id":790183603
+        }
+    ],
     "wof:id":790183603,
-    "wof:lastmodified":1472629270,
+    "wof:lastmodified":1492836772,
     "wof:name":"David P Morken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.587998,47.52594,-92.587998,47.52594",
     "geom:latitude":47.52594,
     "geom:longitude":-92.587998,
@@ -32,17 +33,36 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ljXHsnBK9rWcWkVC29hLX_47.525940_-92.587998@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586294,
-    "wof:geomhash":"7bc71f9d40aa101c1cf1992bdd0dcae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"210774394567b12374784766ce350916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":773512979
+        }
+    ],
     "wof:id":773512979,
-    "wof:lastmodified":1472630080,
+    "wof:lastmodified":1492800514,
     "wof:name":"Petersen Well Drilling",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

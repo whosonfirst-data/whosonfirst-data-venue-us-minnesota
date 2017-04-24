@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.673276,45.20128,-93.673276,45.20128",
     "geom:latitude":45.20128,
     "geom:longitude":-93.673276,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KSdxFZNkkFoB69dNNXBSn_45.201280_-93.673276@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593440,
-    "wof:geomhash":"61098f9d6668ed30b78741bc1844fe2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cf0e1e222f5356797acf8bedf2d7860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":790141019
+        }
+    ],
     "wof:id":790141019,
-    "wof:lastmodified":1472629179,
+    "wof:lastmodified":1492835849,
     "wof:name":"Carol Wulf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

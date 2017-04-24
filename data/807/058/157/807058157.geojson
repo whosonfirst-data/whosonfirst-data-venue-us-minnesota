@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.462008,44.309927,-94.462008,44.309927",
     "geom:latitude":44.309927,
     "geom:longitude":-94.462008,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10raQXc0bcUZf3avsvE5pP_44.309927_-94.462008@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603357,
-    "wof:geomhash":"dd194ec153a6ec2fad57e7c3afafd360",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd1620367aec1ea1909f1011b9e42092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":807058157
+        }
+    ],
     "wof:id":807058157,
-    "wof:lastmodified":1472629062,
+    "wof:lastmodified":1492826660,
     "wof:name":"Leroy Levorson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

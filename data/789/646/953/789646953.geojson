@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.779128,46.960149,-95.779128,46.960149",
     "geom:latitude":46.960149,
     "geom:longitude":-95.779128,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509211,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e3kugEr8gcHlNaaIHWoBC_46.960149_-95.779128@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589427,
-    "wof:geomhash":"19dd7fd76d4625b6146571be33a0a528",
-    "wof:hierarchy":[],
+    "wof:geomhash":"311093097d77b25298aed5eb094b1750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404509211,
+            "region_id":85688727,
+            "venue_id":789646953
+        }
+    ],
     "wof:id":789646953,
-    "wof:lastmodified":1472629100,
+    "wof:lastmodified":1492812483,
     "wof:name":"Finishing Touch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

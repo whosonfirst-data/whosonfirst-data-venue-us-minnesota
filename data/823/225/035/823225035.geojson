@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.329787,47.451006,-92.329787,47.451006",
     "geom:latitude":47.451006,
     "geom:longitude":-92.329787,
@@ -39,17 +40,26 @@
         "bond"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35HRAShXS04wMPmGaZRtVz_47.451006_-92.329787@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608839,
-    "wof:geomhash":"147f07e425bdd982ffb84fa20988170c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67d172fc0324d6d308a6e32df81ca6e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":823225035
+        }
+    ],
     "wof:id":823225035,
-    "wof:lastmodified":1472629078,
+    "wof:lastmodified":1492828068,
     "wof:name":"Tnt Invest",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

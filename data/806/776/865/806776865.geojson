@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.231345,44.429595,-93.231345,44.429595",
     "geom:latitude":44.429595,
     "geom:longitude":-93.231345,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512621,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TNre5J1jLbTddLkhctnMF_44.429595_-93.231345@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600990,
-    "wof:geomhash":"0722d150e5cbb954107e42561b25bda5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b7a095f971d1ac29601892612b6ae12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512621,
+            "region_id":85688727,
+            "venue_id":806776865
+        }
+    ],
     "wof:id":806776865,
-    "wof:lastmodified":1472629818,
+    "wof:lastmodified":1492819095,
     "wof:name":"Straight Line Striping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

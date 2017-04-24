@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.732159,47.034873,-96.732159,47.034873",
     "geom:latitude":47.034873,
     "geom:longitude":-96.732159,
@@ -36,7 +37,13 @@
         85633793,
         85969409,
         102087681,
-        85877365
+        85877365,
+        85877339,
+        102191575,
+        404478877,
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592652,
-    "wof:geomhash":"cc71b04c24ce024dae336f6a36270440",
+    "wof:geomhash":"953ee10801f7327c4695009506614625",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +60,22 @@
             "neighbourhood_id":85877365,
             "region_id":85688727,
             "venue_id":790041029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877339,
+            "region_id":85688525,
+            "venue_id":790041029
         }
     ],
     "wof:id":790041029,
-    "wof:lastmodified":1472628983,
+    "wof:lastmodified":1492837876,
     "wof:name":"Glassworks Studio",
-    "wof:parent_id":85877365,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

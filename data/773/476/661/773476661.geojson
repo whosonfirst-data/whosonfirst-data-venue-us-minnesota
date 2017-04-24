@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262869,45.05907,-93.262869,45.05907",
     "geom:latitude":45.05907,
     "geom:longitude":-93.262869,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811975,
+        85688727,
         102191575,
-        404511285,
+        404511279,
         85633793,
-        85953397,
+        85953403,
         102087861,
-        85688727
+        404511285,
+        85953397
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,23 +49,31 @@
     },
     "wof:country":"US",
     "wof:created":1462586040,
-    "wof:geomhash":"b254f02ca495d7359ab796761f43ba0d",
+    "wof:geomhash":"f4b13875830de8d1ed9a893a32a46993",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511279,
+            "locality_id":85953403,
+            "region_id":85688727,
+            "venue_id":773476661
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087861,
             "localadmin_id":404511285,
             "locality_id":85953397,
-            "neighbourhood_id":85811975,
             "region_id":85688727,
             "venue_id":773476661
         }
     ],
     "wof:id":773476661,
-    "wof:lastmodified":1472630065,
+    "wof:lastmodified":1492808544,
     "wof:name":"Columbia Market",
-    "wof:parent_id":85811975,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

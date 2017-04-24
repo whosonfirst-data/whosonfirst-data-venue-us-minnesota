@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.473741,47.403478,-92.473741,47.403478",
     "geom:latitude":47.403478,
     "geom:longitude":-92.473741,
@@ -44,17 +45,26 @@
     ],
     "sg:website":"http://www.greinerbros.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77Z49uCZfIb2zXVzI48Mkt_47.403478_-92.473741@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608834,
-    "wof:geomhash":"317d79691a324192f01d8646b901388c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ade960faa3ae7b5bbf1bd70965eb299f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224729
+        }
+    ],
     "wof:id":823224729,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492828766,
     "wof:name":"Greiner Cleaning",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

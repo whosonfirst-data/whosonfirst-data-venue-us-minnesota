@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.140381,43.442243,-93.140381,43.442243",
     "geom:latitude":43.442243,
     "geom:longitude":-93.140381,
@@ -28,17 +29,30 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28odaxOLX5iabfnfzPXcdo_43.442243_-93.140381@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603965,
-    "wof:geomhash":"d317ea1737eb405e0094279a6c1219d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"818be5d1de12ea33a7348dd995fd7c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "region_id":85688713,
+            "venue_id":807122387
+        }
+    ],
     "wof:id":807122387,
-    "wof:lastmodified":1472629241,
+    "wof:lastmodified":1492825199,
     "wof:name":"Steve Arnold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

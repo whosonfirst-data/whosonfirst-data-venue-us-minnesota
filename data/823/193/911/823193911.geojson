@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.32156,45.055435,-93.32156,45.055435",
     "geom:latitude":45.055435,
     "geom:longitude":-93.32156,
@@ -45,17 +46,34 @@
     ],
     "sg:website":"http://www.sears.com/shc/s/v_10153_12605_Automotive?adCell=AH",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yyjFxGRg3PvQH1D3GJubF_45.055435_-93.321560@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608250,
-    "wof:geomhash":"84516ab409011caf1cda349b65cd994e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5758a7f65ce7175a80c717cf7039401d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823193911
+        }
+    ],
     "wof:id":823193911,
-    "wof:lastmodified":1472629042,
+    "wof:lastmodified":1492829258,
     "wof:name":"Sears Auto Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

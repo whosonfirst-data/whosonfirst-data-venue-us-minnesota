@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.041981,44.168816,-94.041981,44.168816",
     "geom:latitude":44.168816,
     "geom:longitude":-94.041981,
@@ -32,17 +33,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZCnijTmIkgiGPWcv70fPT_44.168816_-94.041981@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602365,
-    "wof:geomhash":"4f9808196d46e6ebe2a50eb2f0301db4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"017ef19179c660cc15d34d915222cfe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":806940525
+        }
+    ],
     "wof:id":806940525,
-    "wof:lastmodified":1472629946,
+    "wof:lastmodified":1492820911,
     "wof:name":"Software For Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

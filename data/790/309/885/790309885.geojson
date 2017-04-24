@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.399025,44.898601,-93.399025,44.898601",
     "geom:latitude":44.898601,
     "geom:longitude":-93.399025,
@@ -37,17 +38,34 @@
         "condominium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Tpu77anVk0XewRT3rVeff_44.898601_-93.399025@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594846,
-    "wof:geomhash":"21ccb1fd647e713f7a5fbaa2e8150874",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c441bc9f59544fe4a3da758d297435bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":790309885
+        }
+    ],
     "wof:id":790309885,
-    "wof:lastmodified":1472629504,
+    "wof:lastmodified":1492833888,
     "wof:name":"Edina West Condominiums Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

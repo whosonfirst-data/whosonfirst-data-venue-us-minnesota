@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.425022,44.83441,-94.425022,44.83441",
     "geom:latitude":44.83441,
     "geom:longitude":-94.425022,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512817,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Fsyatm5RvpJfFMZMTcD9X_44.834410_-94.425022@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603670,
-    "wof:geomhash":"47777153e4172c9470f7f27bdae09314",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dadf71131e7890310a6fab59a9b4b9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512817,
+            "region_id":85688727,
+            "venue_id":807095545
+        }
+    ],
     "wof:id":807095545,
-    "wof:lastmodified":1472629180,
+    "wof:lastmodified":1492824460,
     "wof:name":"Alvin Otto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

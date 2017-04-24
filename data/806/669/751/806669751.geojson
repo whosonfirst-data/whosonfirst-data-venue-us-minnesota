@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.953531,46.865953,-95.953531,46.865953",
     "geom:latitude":46.865953,
     "geom:longitude":-95.953531,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511131,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yql4LWSlFEZ5tdSJAgt0P_46.865953_-95.953531@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600077,
-    "wof:geomhash":"2303b6741fc3883c50b5294761196c83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66d3703dc29c39a74e12e41161dedca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511131,
+            "region_id":85688727,
+            "venue_id":806669751
+        }
+    ],
     "wof:id":806669751,
-    "wof:lastmodified":1472629661,
+    "wof:lastmodified":1492817801,
     "wof:name":"James Hass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

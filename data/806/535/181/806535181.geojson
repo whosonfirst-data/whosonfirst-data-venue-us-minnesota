@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.178813,44.906996,-93.178813,44.906996",
     "geom:latitude":44.906996,
     "geom:longitude":-93.178813,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PB8V0MnhueSu9E87fXefe_44.906996_-93.178813@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598916,
-    "wof:geomhash":"8c65ac22ae37fbdf4c91f6ada7f1e786",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d97d72dd2a71fa815092932ae5dea2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806535181
+        }
+    ],
     "wof:id":806535181,
-    "wof:lastmodified":1472629382,
+    "wof:lastmodified":1492821990,
     "wof:name":"Highlands Insurance Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

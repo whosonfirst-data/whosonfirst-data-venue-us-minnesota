@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.603295,45.449561,-93.603295,45.449561",
     "geom:latitude":45.449561,
     "geom:longitude":-93.603295,
@@ -32,17 +33,34 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513887,
+        85633793,
+        85968821,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oN11AAsHD5IfGr1dTDzHV_45.449561_-93.603295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583591,
-    "wof:geomhash":"23ed5316693b91c2d98dcd40eba3cb38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a98f4fdd17ca5bb2fbdbb5c1501fcaba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404513887,
+            "locality_id":85968821,
+            "region_id":85688727,
+            "venue_id":773160133
+        }
+    ],
     "wof:id":773160133,
-    "wof:lastmodified":1472629759,
+    "wof:lastmodified":1492808680,
     "wof:name":"State Mortgage Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.363555,44.890823,-94.363555,44.890823",
     "geom:latitude":44.890823,
     "geom:longitude":-94.363555,
@@ -31,17 +32,34 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xjPxoJDBEundBthG2KgQy_44.890823_-94.363555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597094,
-    "wof:geomhash":"663324a04a0684bfebea0dbae04522ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fce03b47dc81a465d01ef0da71d57fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":790586157
+        }
+    ],
     "wof:id":790586157,
-    "wof:lastmodified":1472629873,
+    "wof:lastmodified":1492832606,
     "wof:name":"United Building Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

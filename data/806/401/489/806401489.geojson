@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.006802,43.731518,-92.006802,43.731518",
     "geom:latitude":43.731518,
     "geom:longitude":-92.006802,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514121,
+        85633793,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QewATtjOBYp6zpRZuZ8d3_43.731518_-92.006802@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597850,
-    "wof:geomhash":"150275916ba31a71320cdc816d84f295",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e89393519aa1acc184a0ebe1e89b284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514121,
+            "region_id":85688727,
+            "venue_id":806401489
+        }
+    ],
     "wof:id":806401489,
-    "wof:lastmodified":1472629048,
+    "wof:lastmodified":1492816011,
     "wof:name":"Dow Agrosciences LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

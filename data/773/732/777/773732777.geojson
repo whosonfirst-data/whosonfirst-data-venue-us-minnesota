@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.121484,44.968373,-93.121484,44.968373",
     "geom:latitude":44.968373,
     "geom:longitude":-93.121484,
@@ -41,11 +42,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        1108800551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,23 +55,33 @@
     },
     "wof:country":"US",
     "wof:created":1462587971,
-    "wof:geomhash":"f83459a95099c6b953eccbce6441ae57",
+    "wof:geomhash":"d5c10d58356bca9e67d3a958e38f68c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":773732777
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800551,
             "region_id":85688727,
             "venue_id":773732777
         }
     ],
     "wof:id":773732777,
-    "wof:lastmodified":1472630145,
+    "wof:lastmodified":1492807499,
     "wof:name":"Russell Label Tag & Packaging",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

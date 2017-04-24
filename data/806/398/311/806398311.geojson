@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.58389,44.441724,-93.58389,44.441724",
     "geom:latitude":44.441724,
     "geom:longitude":-93.58389,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70NEOpo6fGQgNF2vYDbhf9_44.441724_-93.583890@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597823,
-    "wof:geomhash":"d1e3edb6f1af49dd94c1fde0fb6b3e7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69d06640c7ec7f880ed7a16d9603f740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":806398311
+        }
+    ],
     "wof:id":806398311,
-    "wof:lastmodified":1472629038,
+    "wof:lastmodified":1492819949,
     "wof:name":"City Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

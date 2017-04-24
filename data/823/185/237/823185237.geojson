@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.363998,44.9366,-93.363998,44.9366",
     "geom:latitude":44.9366,
     "geom:longitude":-93.363998,
@@ -36,17 +37,34 @@
         "towing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dE7MohGmnCVZ2eiJyCjT2_44.936600_-93.363998@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608134,
-    "wof:geomhash":"94be8621432760c5464e188cc4483373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d57c5838cd3bb85c1ba47218fa64d588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823185237
+        }
+    ],
     "wof:id":823185237,
-    "wof:lastmodified":1472629028,
+    "wof:lastmodified":1492829683,
     "wof:name":"All Hours Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

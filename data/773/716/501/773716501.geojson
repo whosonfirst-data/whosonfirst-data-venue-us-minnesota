@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.376203,48.642227,-94.376203,48.642227",
     "geom:latitude":48.642227,
     "geom:longitude":-94.376203,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509933,
+        85633793,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03zd69hgvt6EE3GvPITTfb_48.642227_-94.376203@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587847,
-    "wof:geomhash":"918a33e6308c227f68dd42766797aced",
-    "wof:hierarchy":[],
+    "wof:geomhash":"867f93a5534228b61f94e6990c1c2729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404509933,
+            "region_id":85688727,
+            "venue_id":773716501
+        }
+    ],
     "wof:id":773716501,
-    "wof:lastmodified":1472630138,
+    "wof:lastmodified":1492802485,
     "wof:name":"Ed Hilbrand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

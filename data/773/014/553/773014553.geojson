@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.149756,44.449578,-93.149756,44.449578",
     "geom:latitude":44.449578,
     "geom:longitude":-93.149756,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wDEc6il8qGnRBtZUmsZop_44.449578_-93.149756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582387,
-    "wof:geomhash":"8dc9a108b7d969768fa8d68572281c80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cca4af8c6feed30a471877020121213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":773014553
+        }
+    ],
     "wof:id":773014553,
-    "wof:lastmodified":1472628984,
+    "wof:lastmodified":1492801206,
     "wof:name":"Richardson Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

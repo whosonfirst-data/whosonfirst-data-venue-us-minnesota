@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.040494,45.325839,-94.040494,45.325839",
     "geom:latitude":45.325839,
     "geom:longitude":-94.040494,
@@ -36,17 +37,32 @@
         "tanks-treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515191,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DZ4vlEm2BFXDKh5LGQNDE_45.325768_-94.040447@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604500,
-    "wof:geomhash":"7afc28dcf66b14312523091c06e4ebaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"712dc0930a9ee3e9273c5e5ab32ed0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515191,
+            "region_id":85688727,
+            "venue_id":807171523
+        }
+    ],
     "wof:id":807171523,
-    "wof:lastmodified":1472629347,
+    "wof:lastmodified":1492824648,
     "wof:name":"Dan Bonine Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.242012,44.848094,-93.242012,44.848094",
     "geom:latitude":44.848094,
     "geom:longitude":-93.242012,
@@ -33,17 +34,34 @@
         "seminar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sOBz7GM7vVFovsCc4eqCy_44.848094_-93.242012@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594622,
-    "wof:geomhash":"6a8d625cc0e3b08965be22aa9913392b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beaf69e18ee4eb07f9b744530465a495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":790281573
+        }
+    ],
     "wof:id":790281573,
-    "wof:lastmodified":1472629450,
+    "wof:lastmodified":1492835270,
     "wof:name":"Toastmasters International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

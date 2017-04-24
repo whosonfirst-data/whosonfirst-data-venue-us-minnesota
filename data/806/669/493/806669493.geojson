@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.550071,43.845588,-92.550071,43.845588",
     "geom:latitude":43.845588,
     "geom:longitude":-92.550071,
@@ -31,17 +32,32 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512449,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hlRwgKAAxuX3Tww0pOxxF_43.845588_-92.550071@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600075,
-    "wof:geomhash":"318a5254453fac9d5f9e3663750330f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26d1f4b764e7b88fe2c9060c6cccb38a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512449,
+            "region_id":85688727,
+            "venue_id":806669493
+        }
+    ],
     "wof:id":806669493,
-    "wof:lastmodified":1472629655,
+    "wof:lastmodified":1492817801,
     "wof:name":"Professional Inspection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

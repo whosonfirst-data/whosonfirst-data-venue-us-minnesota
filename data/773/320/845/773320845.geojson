@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.476827,45.665692,-94.476827,45.665692",
     "geom:latitude":45.665692,
     "geom:longitude":-94.476827,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dtGMQLhAAxbpIDfohDsnY_45.665692_-94.476827@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584849,
-    "wof:geomhash":"fdbd6b920f5d451b5a9892b93ac8e066",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94842b6c617f015c646ab18016538d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "region_id":85688727,
+            "venue_id":773320845
+        }
+    ],
     "wof:id":773320845,
-    "wof:lastmodified":1472630004,
+    "wof:lastmodified":1492802826,
     "wof:name":"Nancy Kleve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

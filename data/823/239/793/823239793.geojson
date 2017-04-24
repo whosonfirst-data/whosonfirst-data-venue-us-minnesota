@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.577042,44.444431,-93.577042,44.444431",
     "geom:latitude":44.444431,
     "geom:longitude":-93.577042,
@@ -28,17 +29,34 @@
     "sg:postcode":"56069",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mu6dCxQcN0npHOfaNAoZh_44.444431_-93.577042@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609146,
-    "wof:geomhash":"70e93db6856f0d200efb331517c1e667",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d118d345db1bff89059674957440363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":823239793
+        }
+    ],
     "wof:id":823239793,
-    "wof:lastmodified":1472629168,
+    "wof:lastmodified":1492828338,
     "wof:name":"Montgomery Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

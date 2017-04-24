@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.909939,45.222522,-93.909939,45.222522",
     "geom:latitude":45.222522,
     "geom:longitude":-93.909939,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515235,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uHyhYuk9I9hCh9CaRtFWA_45.222522_-93.909939@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586125,
-    "wof:geomhash":"60fbf9ed22aefb814373b0fa34a7b62b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12f82cbf4957040fc854cf846bbbc23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515235,
+            "region_id":85688727,
+            "venue_id":773487925
+        }
+    ],
     "wof:id":773487925,
-    "wof:lastmodified":1472630076,
+    "wof:lastmodified":1492803551,
     "wof:name":"Bradley Holland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

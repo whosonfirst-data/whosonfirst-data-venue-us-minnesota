@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.428004,43.613571,-92.428004,43.613571",
     "geom:latitude":43.613571,
     "geom:longitude":-92.428004,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509639,
+        85633793,
+        85953169,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CDlhTZlToDLnXGe2TEbri_43.613571_-92.428004@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603521,
-    "wof:geomhash":"a1b760a75a6c18b75b581aa47fa9f53a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1c8fa23a3ced7c18f2d7e84733c85db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509639,
+            "locality_id":85953169,
+            "region_id":85688727,
+            "venue_id":807078533
+        }
+    ],
     "wof:id":807078533,
-    "wof:lastmodified":1472629091,
+    "wof:lastmodified":1492825954,
     "wof:name":"Trinity Lutheran Chr Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.481293,44.025247,-92.481293,44.025247",
     "geom:latitude":44.025247,
     "geom:longitude":-92.481293,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QZGV6Y2xKxBLljXChYKLn_44.025247_-92.481293@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596775,
-    "wof:geomhash":"6e00967c6ef01f13f0dc4b3bcf3c4379",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a18883d7a5d7e1b16a8f6f6ff904bca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790549255
+        }
+    ],
     "wof:id":790549255,
-    "wof:lastmodified":1472629815,
+    "wof:lastmodified":1492832783,
     "wof:name":"A Hamilton PHD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

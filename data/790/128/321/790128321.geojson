@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.133803,44.736,-93.133803,44.736",
     "geom:latitude":44.736,
     "geom:longitude":-93.133803,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511991,
+        85633793,
+        85968455,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FGxGIYCDMcYx9gLzOAegL_44.736000_-93.133803@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593349,
-    "wof:geomhash":"26f3de2bbd4a5d3167ab92fc952c4963",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8fc7a9cca7cd3b0afffbb8d8e668e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511991,
+            "locality_id":85968455,
+            "region_id":85688727,
+            "venue_id":790128321
+        }
+    ],
     "wof:id":790128321,
-    "wof:lastmodified":1472629179,
+    "wof:lastmodified":1492835192,
     "wof:name":"Anderson Exteriors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.264297,44.9795,-93.264297,44.9795",
     "geom:latitude":44.9795,
     "geom:longitude":-93.264297,
@@ -29,14 +30,14 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872705,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604750,
-    "wof:geomhash":"5b9898bd2fd4fdf558f90d8c3d4961f2",
+    "wof:geomhash":"4e442570a3f15fdb0abeac351a2ed30c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +53,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872705,
-            "region_id":85688727,
-            "venue_id":807195835
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":807195835
         }
     ],
     "wof:id":807195835,
-    "wof:lastmodified":1472629418,
+    "wof:lastmodified":1492826627,
     "wof:name":"Sergio R Andrade",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

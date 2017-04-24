@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.261666,43.430313,-94.261666,43.430313",
     "geom:latitude":43.430313,
     "geom:longitude":-94.261666,
@@ -27,17 +28,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713,
+        102086311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nsGFAtlTK4cYUWjelGoWB_43.430313_-94.261666@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604045,
-    "wof:geomhash":"d80c3b847cf9ddbb96f5cbf49a50ac14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfa064b094b11137095ef918e1cca6cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086311,
+            "region_id":85688713,
+            "venue_id":807129683
+        }
+    ],
     "wof:id":807129683,
-    "wof:lastmodified":1472629260,
+    "wof:lastmodified":1492826247,
     "wof:name":"Richard Winkleman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

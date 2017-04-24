@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.345101,45.085764,-93.345101,45.085764",
     "geom:latitude":45.085764,
     "geom:longitude":-93.345101,
@@ -28,17 +29,34 @@
     "sg:postcode":"55429",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dap2NapECZxQOinf6PZoK_45.085764_-93.345101@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596097,
-    "wof:geomhash":"0f65400831a5892d401929ec8dbce70b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0130b351719efb9712aaccc30c9e863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":790469869
+        }
+    ],
     "wof:id":790469869,
-    "wof:lastmodified":1472629751,
+    "wof:lastmodified":1492837987,
     "wof:name":"Minneapolis Kennel Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

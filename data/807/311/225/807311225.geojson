@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.83088,45.046603,-93.83088,45.046603",
     "geom:latitude":45.046603,
     "geom:longitude":-93.83088,
@@ -51,17 +52,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OJkhNOFx44iKxNX8hielF_45.046603_-93.830880@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605970,
-    "wof:geomhash":"02690e18ee4e0f2427b07ba716720931",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6412e1474bf404401c18297c12cf846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":807311225
+        }
+    ],
     "wof:id":807311225,
-    "wof:lastmodified":1472629691,
+    "wof:lastmodified":1492822628,
     "wof:name":"Dion Yanish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

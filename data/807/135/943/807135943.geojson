@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.061441,43.877005,-95.061441,43.877005",
     "geom:latitude":43.877005,
     "geom:longitude":-95.061441,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511863,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30WXAGk4nGEkHWF1XMupHh_43.877005_-95.061441@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604121,
-    "wof:geomhash":"6a59e7087215f284a43883a2acb080b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbc15d4ecab0efd80a9957914d148d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511863,
+            "region_id":85688727,
+            "venue_id":807135943
+        }
+    ],
     "wof:id":807135943,
-    "wof:lastmodified":1472629266,
+    "wof:lastmodified":1492823774,
     "wof:name":"Tim Ketzenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.718793,46.555595,-95.718793,46.555595",
     "geom:latitude":46.555595,
     "geom:longitude":-95.718793,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510333,
+        85633793,
+        85968771,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Lskmz2KaCkrJzHeRoKTcD_46.555595_-95.718793@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600726,
-    "wof:geomhash":"b96204c6612b55e3053517f1481630be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24a3bc14631e2bb2b05610ace1642fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510333,
+            "locality_id":85968771,
+            "region_id":85688727,
+            "venue_id":806745507
+        }
+    ],
     "wof:id":806745507,
-    "wof:lastmodified":1472629771,
+    "wof:lastmodified":1492820392,
     "wof:name":"Dent Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

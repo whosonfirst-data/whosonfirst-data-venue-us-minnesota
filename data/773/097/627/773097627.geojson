@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.33776,45.973985,-94.33776,45.973985",
     "geom:latitude":45.973985,
     "geom:longitude":-94.33776,
@@ -31,17 +32,34 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fEfCPROvrkLf3Y6mHidfc_45.973985_-94.337760@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583137,
-    "wof:geomhash":"44709020d6b6587431f98752ffcdf624",
-    "wof:hierarchy":[],
+    "wof:geomhash":"660aa6e74e1cde1fed8e7dab67176c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":773097627
+        }
+    ],
     "wof:id":773097627,
-    "wof:lastmodified":1472629572,
+    "wof:lastmodified":1492807915,
     "wof:name":"Fastenal Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

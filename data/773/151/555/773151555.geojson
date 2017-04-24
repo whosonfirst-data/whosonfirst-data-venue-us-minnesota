@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.345637,46.381174,-94.345637,46.381174",
     "geom:latitude":46.381174,
     "geom:longitude":-94.345637,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509385,
+        85633793,
+        85968851,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FdR0vkA2tVYBkoMKE4OAT_46.381174_-94.345637@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583534,
-    "wof:geomhash":"574819c9c49bba6e91918841323fdb0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a40310ee594927379231e6e6c0cd61a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509385,
+            "locality_id":85968851,
+            "region_id":85688727,
+            "venue_id":773151555
+        }
+    ],
     "wof:id":773151555,
-    "wof:lastmodified":1472629729,
+    "wof:lastmodified":1492801090,
     "wof:name":"PLC Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

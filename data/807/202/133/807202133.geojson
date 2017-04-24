@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.696731,44.150161,-93.696731,44.150161",
     "geom:latitude":44.150161,
     "geom:longitude":-93.696731,
@@ -32,17 +33,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514865,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cb2gMmCwI10hbIy0rIioN_44.150161_-93.696731@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604819,
-    "wof:geomhash":"1d3ffa44dc4bf0c04b9b52c54a12870d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fd6f27268f34ed13146658bde211bc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514865,
+            "region_id":85688727,
+            "venue_id":807202133
+        }
+    ],
     "wof:id":807202133,
-    "wof:lastmodified":1472629390,
+    "wof:lastmodified":1492824683,
     "wof:name":"Dave Schultz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

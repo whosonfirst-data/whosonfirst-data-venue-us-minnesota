@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362413,44.897571,-94.362413,44.897571",
     "geom:latitude":44.897571,
     "geom:longitude":-94.362413,
@@ -31,17 +32,34 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vbDkPoDaoLE6BNiM50ZF3_44.897571_-94.362413@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582555,
-    "wof:geomhash":"731550dbf17525b38201270022551a61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d119c23ffdf9f884742cd00d8d1aa35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773028757
+        }
+    ],
     "wof:id":773028757,
-    "wof:lastmodified":1472629176,
+    "wof:lastmodified":1492802084,
     "wof:name":"Wiedenroth Auction Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

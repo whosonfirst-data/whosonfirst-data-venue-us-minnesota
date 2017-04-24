@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.288548,45.066959,-93.288548,45.066959",
     "geom:latitude":45.066959,
     "geom:longitude":-93.288548,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PStqrIEdpkQPC1sem8y73_45.066959_-93.288548@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590371,
-    "wof:geomhash":"459f5b48a59fdb4e678d262c9918172b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f216280f3dc250fbd28a4470b120c09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":789765675
+        }
+    ],
     "wof:id":789765675,
-    "wof:lastmodified":1472629337,
+    "wof:lastmodified":1492810476,
     "wof:name":"Promised Land Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

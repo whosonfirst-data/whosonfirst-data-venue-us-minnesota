@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.968657,47.321263,-95.968657,47.321263",
     "geom:latitude":47.321263,
     "geom:longitude":-95.968657,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513651,
+        85633793,
+        85952573,
+        102087859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ToYpTT59XTGZ07x86bnk0_47.321263_-95.968657@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598033,
-    "wof:geomhash":"e7b42326b6f8a13f0b69319d306915f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7216ce844778b4f6e997abe327b594f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087859,
+            "localadmin_id":404513651,
+            "locality_id":85952573,
+            "region_id":85688727,
+            "venue_id":806423825
+        }
+    ],
     "wof:id":806423825,
-    "wof:lastmodified":1472629135,
+    "wof:lastmodified":1492815714,
     "wof:name":"Erskine Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

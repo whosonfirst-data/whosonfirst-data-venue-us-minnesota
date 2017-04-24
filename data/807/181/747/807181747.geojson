@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.35249,45.165635,-93.35249,45.165635",
     "geom:latitude":45.165635,
     "geom:longitude":-93.35249,
@@ -36,17 +37,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YrjuxCvNVEetoM6UD8FXg_45.165913_-93.352740@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604603,
-    "wof:geomhash":"340d5c0042dd3eaa8dff0cf6e3d0cce2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df18edf361d6495e701b9e9ec7d9ed98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807181747
+        }
+    ],
     "wof:id":807181747,
-    "wof:lastmodified":1472629370,
+    "wof:lastmodified":1492826293,
     "wof:name":"Cama Hydrant Industries I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

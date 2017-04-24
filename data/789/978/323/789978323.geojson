@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.757823,48.709538,-94.757823,48.709538",
     "geom:latitude":48.709538,
     "geom:longitude":-94.757823,
@@ -29,17 +30,32 @@
     "sg:province":"MN",
     "sg:website":"www.americinn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509691,
+        85633793,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ku7DoPkCfM9J4SMvdOgT3_48.709538_-94.757823@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592153,
-    "wof:geomhash":"e89950810aa439f1f891c2bb510b44aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbdd00b3200ebe5379fec8c76bb6dfb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404509691,
+            "region_id":85688727,
+            "venue_id":789978323
+        }
+    ],
     "wof:id":789978323,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492810992,
     "wof:name":"Americ Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

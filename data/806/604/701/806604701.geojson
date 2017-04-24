@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.629464,47.309402,-92.629464,47.309402",
     "geom:latitude":47.309402,
     "geom:longitude":-92.629464,
@@ -33,17 +34,26 @@
         "radiator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10G9YhuFka2V4uvwMhx8YK_47.309402_-92.629464@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599527,
-    "wof:geomhash":"876ebf879176a87ce7ef37d8fb094e06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0156c417a01ff6fc8ebc571c7be9a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806604701
+        }
+    ],
     "wof:id":806604701,
-    "wof:lastmodified":1472629548,
+    "wof:lastmodified":1492815896,
     "wof:name":"Roggenbuck Radiator",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

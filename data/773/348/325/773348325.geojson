@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.554682,44.415574,-95.554682,44.415574",
     "geom:latitude":44.415574,
     "geom:longitude":-95.554682,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510551,
+        85633793,
+        85968805,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ua9isKmRqcDTvblB4SxKW_44.415574_-95.554682@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585035,
-    "wof:geomhash":"530e418be632cccbb5febe67059fe48a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9258e4a8c95620d1d878af3ed362ef0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510551,
+            "locality_id":85968805,
+            "region_id":85688727,
+            "venue_id":773348325
+        }
+    ],
     "wof:id":773348325,
-    "wof:lastmodified":1472630022,
+    "wof:lastmodified":1492803728,
     "wof:name":"Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

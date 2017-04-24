@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286628,45.735825,-93.286628,45.735825",
     "geom:latitude":45.735825,
     "geom:longitude":-93.286628,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513623,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29G35GBeByqtxcXNR25dEd_45.735825_-93.286628@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584459,
-    "wof:geomhash":"2bd67f9c9c1a559f92530d2b2106831e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6f9303b23f0caf7445067c296bd366b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513623,
+            "region_id":85688727,
+            "venue_id":773272369
+        }
+    ],
     "wof:id":773272369,
-    "wof:lastmodified":1472629996,
+    "wof:lastmodified":1492799008,
     "wof:name":"Londgren Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

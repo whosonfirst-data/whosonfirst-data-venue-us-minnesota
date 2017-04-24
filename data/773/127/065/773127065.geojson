@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.658962,46.529682,-95.658962,46.529682",
     "geom:latitude":46.529682,
     "geom:longitude":-95.658962,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510327,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c71FhN2IgCztB1YhTMw8R_46.529682_-95.658962@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583341,
-    "wof:geomhash":"520f66340b2c7dd742e2eeb3e1d5f79a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e35581afb7a6de6e7b659d506e47e56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510327,
+            "region_id":85688727,
+            "venue_id":773127065
+        }
+    ],
     "wof:id":773127065,
-    "wof:lastmodified":1472629642,
+    "wof:lastmodified":1492806512,
     "wof:name":"Haedtke & Haedtke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.718987,46.659299,-95.718987,46.659299",
     "geom:latitude":46.659299,
     "geom:longitude":-95.718987,
@@ -33,17 +34,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512889,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_058LVQgUGZRkwSsPXlaA0z_46.659299_-95.718987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597941,
-    "wof:geomhash":"63f6908a5726a5359c0b2e84e81416c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7adf0da702f0de70fbfb7e57f62c55ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512889,
+            "region_id":85688727,
+            "venue_id":806411573
+        }
+    ],
     "wof:id":806411573,
-    "wof:lastmodified":1472629092,
+    "wof:lastmodified":1492820624,
     "wof:name":"Viking Gas Transmission Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

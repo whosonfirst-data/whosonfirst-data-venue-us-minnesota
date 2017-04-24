@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.348016,44.261047,-94.348016,44.261047",
     "geom:latitude":44.261047,
     "geom:longitude":-94.348016,
@@ -32,17 +33,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513331,
+        85633793,
+        85953477,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hBdZxW7DWA4U0lHN9o3Y5_44.261047_-94.348016@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582284,
-    "wof:geomhash":"ea0b34fc07391404bb41c1fc40c07db0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63a3b21ab602aed323060bfc61645734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513331,
+            "locality_id":85953477,
+            "region_id":85688727,
+            "venue_id":773008545
+        }
+    ],
     "wof:id":773008545,
-    "wof:lastmodified":1472629010,
+    "wof:lastmodified":1492802909,
     "wof:name":"Ecolab Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

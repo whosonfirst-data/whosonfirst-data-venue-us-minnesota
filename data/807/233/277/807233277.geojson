@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.309362,44.889594,-93.309362,44.889594",
     "geom:latitude":44.889594,
     "geom:longitude":-93.309362,
@@ -39,17 +40,34 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DMIGDt0Fyu7xl4EFDAdOE_44.889305_-93.308731@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462605150,
-    "wof:geomhash":"c8db6d333d30468f8d24a5ab02d5a6a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"630db3d316c281a3947401ad37aeee53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":807233277
+        }
+    ],
     "wof:id":807233277,
-    "wof:lastmodified":1472629457,
+    "wof:lastmodified":1492823040,
     "wof:name":"Caribou Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

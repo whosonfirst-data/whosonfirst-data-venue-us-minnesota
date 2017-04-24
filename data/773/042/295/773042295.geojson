@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.978287,44.775358,-94.978287,44.775358",
     "geom:latitude":44.775358,
     "geom:longitude":-94.978287,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dlx8CPX6JZFfq6KmvOEqG_44.775358_-94.978287@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582681,
-    "wof:geomhash":"db679afd74353067df0b754d5c8f81a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c1481b9fd6f6dbb8ce6d75e6271375b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":773042295
+        }
+    ],
     "wof:id":773042295,
-    "wof:lastmodified":1472629370,
+    "wof:lastmodified":1492800994,
     "wof:name":"Carol Olson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

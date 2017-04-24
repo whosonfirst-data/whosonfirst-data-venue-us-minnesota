@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.986417,44.543255,-95.986417,44.543255",
     "geom:latitude":44.543255,
     "geom:longitude":-95.986417,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509735,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DivXYuU77KqdhjPgxNwGg_44.543255_-95.986417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603572,
-    "wof:geomhash":"0dd7c8fd0aa73ab5db717f26ca0d0a69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d76a5283a893c4d028979b10a80115b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404509735,
+            "region_id":85688727,
+            "venue_id":807084775
+        }
+    ],
     "wof:id":807084775,
-    "wof:lastmodified":1472629105,
+    "wof:lastmodified":1492822890,
     "wof:name":"John Adelman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.354319,47.143609,-92.354319,47.143609",
     "geom:latitude":47.143609,
     "geom:longitude":-92.354319,
@@ -32,17 +33,26 @@
         "diet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3slneJOHr9krh4RYNMzxNX_47.143609_-92.354319@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588126,
-    "wof:geomhash":"180f46bba17fd89fbac2a0a8ed5c5086",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0deffe6f8e8313cdf748d2efef045cb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773754117
+        }
+    ],
     "wof:id":773754117,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1492800197,
     "wof:name":"Mannatech Associates",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

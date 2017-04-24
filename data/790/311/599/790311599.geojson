@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.309095,45.07798,-93.309095,45.07798",
     "geom:latitude":45.07798,
     "geom:longitude":-93.309095,
@@ -31,17 +32,34 @@
         "delivery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bb8lNVIhYv2PFpjALvOh6_45.077980_-93.309095@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594858,
-    "wof:geomhash":"c577e0a353f6f6c5e323badf79e79769",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ca501658416df7af0eb4d61d128699c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":790311599
+        }
+    ],
     "wof:id":790311599,
-    "wof:lastmodified":1472629499,
+    "wof:lastmodified":1492831764,
     "wof:name":"Dunham Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

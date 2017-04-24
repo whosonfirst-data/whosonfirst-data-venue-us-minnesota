@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.084825,43.672146,-92.084825,43.672146",
     "geom:latitude":43.672146,
     "geom:longitude":-92.084825,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qBjIRnJ0dIgJIMXJO9H7E_43.672146_-92.084825@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602611,
-    "wof:geomhash":"c61524b7fb60423aeadadce32270d734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e6bc5998f934d069b47ad0484e66236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":806969973
+        }
+    ],
     "wof:id":806969973,
-    "wof:lastmodified":1472629975,
+    "wof:lastmodified":1492815939,
     "wof:name":"Geraldine Daley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

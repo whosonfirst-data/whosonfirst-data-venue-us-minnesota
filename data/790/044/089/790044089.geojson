@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.489888,47.358033,-92.489888,47.358033",
     "geom:latitude":47.358033,
     "geom:longitude":-92.489888,
@@ -32,17 +33,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31tQSx0T6vJen2fMaauNR1_47.358033_-92.489888@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592672,
-    "wof:geomhash":"333720f04a17a18055688d398299b292",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b685243dc0e3c5a99c47d233136c57ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790044089
+        }
+    ],
     "wof:id":790044089,
-    "wof:lastmodified":1472629018,
+    "wof:lastmodified":1492835153,
     "wof:name":"Timbers Edge Grill & Bar",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

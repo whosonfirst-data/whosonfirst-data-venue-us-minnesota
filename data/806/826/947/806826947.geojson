@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.228721,44.267867,-95.228721,44.267867",
     "geom:latitude":44.267867,
     "geom:longitude":-95.228721,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510539,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k4svi21l9H7H5fz53wEpz_44.267867_-95.228721@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601397,
-    "wof:geomhash":"45a9492c8fa0cc117dcaf6ddd3b5079a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc990b4cd8107c57fb0198cbef48d7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510539,
+            "region_id":85688727,
+            "venue_id":806826947
+        }
+    ],
     "wof:id":806826947,
-    "wof:lastmodified":1472629859,
+    "wof:lastmodified":1492819660,
     "wof:name":"Evans Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

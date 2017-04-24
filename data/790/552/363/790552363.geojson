@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.209929,43.443916,-93.209929,43.443916",
     "geom:latitude":43.443916,
     "geom:longitude":-93.209929,
@@ -31,17 +32,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AoHfFPqNJt7Y0TwrWftWm_43.443916_-93.209929@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596814,
-    "wof:geomhash":"490b9b85bd51704e32a4fd4b885c451c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6900e72ba74b21ca70d4c2bd76ec294e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":790552363
+        }
+    ],
     "wof:id":790552363,
-    "wof:lastmodified":1472629837,
+    "wof:lastmodified":1492835345,
     "wof:name":"Northwood City Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

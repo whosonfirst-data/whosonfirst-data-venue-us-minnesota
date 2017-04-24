@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.769299,47.705939,-93.769299,47.705939",
     "geom:latitude":47.705939,
     "geom:longitude":-93.769299,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513455,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11umg7CWJUfOj32jEOug7A_47.705939_-93.769299@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609529,
-    "wof:geomhash":"302fcfcfe394fba79ec9cfa46ef47d00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94155b9f3fcf5ce0a11ee946e57380df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513455,
+            "region_id":85688727,
+            "venue_id":823258977
+        }
+    ],
     "wof:id":823258977,
-    "wof:lastmodified":1472629225,
+    "wof:lastmodified":1492829494,
     "wof:name":"Hafeman Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

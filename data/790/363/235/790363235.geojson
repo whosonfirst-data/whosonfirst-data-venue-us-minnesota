@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.94396,45.302345,-94.94396,45.302345",
     "geom:latitude":45.302345,
     "geom:longitude":-94.94396,
@@ -28,17 +29,34 @@
     "sg:postcode":"56273",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513943,
+        85633793,
+        85953219,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RJHxG625DybRUci1Hzi97_45.302345_-94.943960@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595251,
-    "wof:geomhash":"c3fbc77999b8b9a6989bdb05ead65455",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beac09aecc5c78069d1edc4f2e928ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513943,
+            "locality_id":85953219,
+            "region_id":85688727,
+            "venue_id":790363235
+        }
+    ],
     "wof:id":790363235,
-    "wof:lastmodified":1472629552,
+    "wof:lastmodified":1492833557,
     "wof:name":"Main Street Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

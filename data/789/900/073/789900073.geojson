@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.127618,44.415196,-95.127618,44.415196",
     "geom:latitude":44.415196,
     "geom:longitude":-95.127618,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510555,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QJVGl7wSUdP0OImdf35V7_44.415196_-95.127618@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591447,
-    "wof:geomhash":"e78ec32a13927151bf04d7a084855a5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cd1484661a3bb93e656620b51c8c737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510555,
+            "region_id":85688727,
+            "venue_id":789900073
+        }
+    ],
     "wof:id":789900073,
-    "wof:lastmodified":1472629587,
+    "wof:lastmodified":1492811452,
     "wof:name":"Steve Dingels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

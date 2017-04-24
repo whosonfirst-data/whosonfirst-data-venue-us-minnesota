@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.296618,46.836283,-92.296618,46.836283",
     "geom:latitude":46.836283,
     "geom:longitude":-92.296618,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804953,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85804953
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462594103,
-    "wof:geomhash":"7c7e5f6e7b610f618d9dbad5e8a969ed",
+    "wof:geomhash":"6c013eb72c9ddd13a9a96360e6202904",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85804953,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":790220033,
-    "wof:lastmodified":1472629321,
+    "wof:lastmodified":1492832985,
     "wof:name":"Key Construction",
     "wof:parent_id":85804953,
     "wof:placetype":"venue",

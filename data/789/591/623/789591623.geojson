@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.472892,44.44817,-95.472892,44.44817",
     "geom:latitude":44.44817,
     "geom:longitude":-95.472892,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512169,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wCQi7BMLFmpnudYPiypfL_44.448170_-95.472892@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588998,
-    "wof:geomhash":"cd2944e0dc8621856b4d7169e553ca99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd7f990e480530c13e9d9145977458dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512169,
+            "region_id":85688727,
+            "venue_id":789591623
+        }
+    ],
     "wof:id":789591623,
-    "wof:lastmodified":1472628964,
+    "wof:lastmodified":1492812541,
     "wof:name":"Lon Walling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

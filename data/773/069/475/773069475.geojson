@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.384792,44.813842,-93.384792,44.813842",
     "geom:latitude":44.813842,
     "geom:longitude":-93.384792,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KQ9iGmpRR5AJXlZ9foEUk_44.813842_-93.384792@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582931,
-    "wof:geomhash":"1cce1e0b14581275f3bbe87988650610",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0115ffbe4f27bbea5f8fe70a077f5eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773069475
+        }
+    ],
     "wof:id":773069475,
-    "wof:lastmodified":1472629476,
+    "wof:lastmodified":1492804173,
     "wof:name":"Charles Gangelhoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

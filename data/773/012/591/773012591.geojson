@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.53513,45.128501,-94.53513,45.128501",
     "geom:latitude":45.128501,
     "geom:longitude":-94.53513,
@@ -32,17 +33,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MkQbl8YFUPHdUS6mfOF13_45.128501_-94.535130@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582359,
-    "wof:geomhash":"9c927a9756fe0c456fc947b6428d7f82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22092123719b06b13c521c1d982cf0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":773012591
+        }
+    ],
     "wof:id":773012591,
-    "wof:lastmodified":1472628992,
+    "wof:lastmodified":1492803082,
     "wof:name":"Public Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.394958,44.444256,-94.394958,44.444256",
     "geom:latitude":44.444256,
     "geom:longitude":-94.394958,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"http://www.good-sam.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510099,
+        85633793,
+        85953475,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56Wz8pnM6WP0kKRuAkBe68_44.444201_-94.395576@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604471,
-    "wof:geomhash":"5f49f595030a79691da278dbba423be3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b37a0b4ab264589a09e11e80f31ce58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404510099,
+            "locality_id":85953475,
+            "region_id":85688727,
+            "venue_id":807168759
+        }
+    ],
     "wof:id":807168759,
-    "wof:lastmodified":1472629326,
+    "wof:lastmodified":1492827032,
     "wof:name":"Lafayette Good Samaritan Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

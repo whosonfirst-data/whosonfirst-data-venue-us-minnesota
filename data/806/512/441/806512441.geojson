@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.979971,44.839227,-92.979971,44.839227",
     "geom:latitude":44.839227,
     "geom:longitude":-92.979971,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514919,
+        85633793,
+        85953547,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rKUWEkyQYyNttDtc9In8Z_44.839227_-92.979971@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598734,
-    "wof:geomhash":"48f64bc7295e986f6f0f2948b50be55c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15581760abccd805b9b9914edf91dd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514919,
+            "locality_id":85953547,
+            "region_id":85688727,
+            "venue_id":806512441
+        }
+    ],
     "wof:id":806512441,
-    "wof:lastmodified":1472629342,
+    "wof:lastmodified":1492815072,
     "wof:name":"Marshall Park Computer Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

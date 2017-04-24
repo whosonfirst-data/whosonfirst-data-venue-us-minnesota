@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.382758,43.878102,-96.382758,43.878102",
     "geom:latitude":43.878102,
     "geom:longitude":-96.382758,
@@ -36,17 +37,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513511,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zurC1CD23j52mesvggZBX_43.878102_-96.382758@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609186,
-    "wof:geomhash":"5a959c188fd9fff0a6b780c524bd4a32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed88a5124529f01bc6c7d57fde6d94ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513511,
+            "region_id":85688727,
+            "venue_id":823242059
+        }
+    ],
     "wof:id":823242059,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492828561,
     "wof:name":"Arlyn Zylstra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

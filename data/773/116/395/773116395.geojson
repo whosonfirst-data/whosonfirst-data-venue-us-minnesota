@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.892504,48.222564,-95.892504,48.222564",
     "geom:latitude":48.222564,
     "geom:longitude":-95.892504,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510145,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GJxsR14LqoYZf92Haloxt_48.222564_-95.892504@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583267,
-    "wof:geomhash":"8981c6640ede2ef69ca8050bfebb1e6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35a6021fdfb698951b178a2c207c0b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510145,
+            "region_id":85688727,
+            "venue_id":773116395
+        }
+    ],
     "wof:id":773116395,
-    "wof:lastmodified":1472629605,
+    "wof:lastmodified":1492805446,
     "wof:name":"Michael Drangstveit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

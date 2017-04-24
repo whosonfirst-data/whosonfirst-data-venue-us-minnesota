@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.910668,44.452657,-93.910668,44.452657",
     "geom:latitude":44.452657,
     "geom:longitude":-93.910668,
@@ -33,17 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512361,
+        85633793,
+        85953331,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qRlWsWJuFkInUCbgL4bbD_44.452657_-93.910668@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595922,
-    "wof:geomhash":"7ba39b9523386e66637e2538c24a57e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e83beb37bdb0247de434d22c76e6d62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512361,
+            "locality_id":85953331,
+            "region_id":85688727,
+            "venue_id":790451495
+        }
+    ],
     "wof:id":790451495,
-    "wof:lastmodified":1472629714,
+    "wof:lastmodified":1492832215,
     "wof:name":"CAM Fitness Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

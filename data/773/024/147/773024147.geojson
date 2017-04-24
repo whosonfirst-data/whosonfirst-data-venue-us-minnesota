@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.077725,46.269885,-96.077725,46.269885",
     "geom:latitude":46.269885,
     "geom:longitude":-96.077725,
@@ -31,17 +32,34 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bYEKbctFnbdleYnbS3xu9_46.269885_-96.077725@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582507,
-    "wof:geomhash":"dae12dfa49247eeabb2425dff2cd0802",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dad223c3eef0cc52cc2a3ecb9bb2796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":773024147
+        }
+    ],
     "wof:id":773024147,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492808837,
     "wof:name":"City Cab Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

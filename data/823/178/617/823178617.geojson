@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.331576,44.91028,-93.331576,44.91028",
     "geom:latitude":44.91028,
     "geom:longitude":-93.331576,
@@ -37,17 +38,34 @@
         "eldercare-home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TuPtRIQFu2fOJyElQyHAl_44.910280_-93.331576@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608046,
-    "wof:geomhash":"3c4acabe571c24d2805b8d6431226da8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"191862b8b6c355b7b9ac683a9591233e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823178617
+        }
+    ],
     "wof:id":823178617,
-    "wof:lastmodified":1472629011,
+    "wof:lastmodified":1492829000,
     "wof:name":"Promise Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

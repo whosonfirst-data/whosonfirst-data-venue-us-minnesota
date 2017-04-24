@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.766565,44.803738,-93.766565,44.803738",
     "geom:latitude":44.803738,
     "geom:longitude":-93.766565,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511691,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dG8OXXGtDMoyAgDTiQy2y_44.803738_-93.766565@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584357,
-    "wof:geomhash":"ba143eb4b090ed63316b1780b7538bcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfeaec4e50e5f686704059850e5e5a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511691,
+            "region_id":85688727,
+            "venue_id":773259175
+        }
+    ],
     "wof:id":773259175,
-    "wof:lastmodified":1472629989,
+    "wof:lastmodified":1492801859,
     "wof:name":"Brett Baumann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

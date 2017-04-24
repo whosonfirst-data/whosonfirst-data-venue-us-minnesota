@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.100845,44.572384,-94.100845,44.572384",
     "geom:latitude":44.572384,
     "geom:longitude":-94.100845,
@@ -26,17 +27,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513891,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UMcF9EwFyNHLR0CJrZKJn_44.572384_-94.100845@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604082,
-    "wof:geomhash":"616c4414f3a064c0639f74f3c45887ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b354c72ad59c63fa22c9185266234c8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404513891,
+            "region_id":85688727,
+            "venue_id":807132867
+        }
+    ],
     "wof:id":807132867,
-    "wof:lastmodified":1472629264,
+    "wof:lastmodified":1492827315,
     "wof:name":"Diamond Grain Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

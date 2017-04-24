@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.922109,45.89902,-93.922109,45.89902",
     "geom:latitude":45.89902,
     "geom:longitude":-93.922109,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510037,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RP2R1eH47dd3xg1lIej8w_45.899020_-93.922109@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595786,
-    "wof:geomhash":"5f2fd72320d532b672ab84fc93c241ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"029402efb7e054ab77807ce900b409cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510037,
+            "region_id":85688727,
+            "venue_id":790432143
+        }
+    ],
     "wof:id":790432143,
-    "wof:lastmodified":1472629705,
+    "wof:lastmodified":1492836230,
     "wof:name":"Morens Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

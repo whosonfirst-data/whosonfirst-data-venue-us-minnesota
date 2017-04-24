@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.389975,43.63838,-93.389975,43.63838",
     "geom:latitude":43.63838,
     "geom:longitude":-93.389975,
@@ -31,17 +32,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lOFCBefr1LY6EbDRZdCPL_43.638380_-93.389975@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602169,
-    "wof:geomhash":"e6f5bc8b26c7ad5a126471530d96c386",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96eabbc6e5c70c2f2747eb9c5b732b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806919371
+        }
+    ],
     "wof:id":806919371,
-    "wof:lastmodified":1472629935,
+    "wof:lastmodified":1492815361,
     "wof:name":"Graceland Cemetery Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

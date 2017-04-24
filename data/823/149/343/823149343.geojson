@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.266087,44.975369,-93.266087,44.975369",
     "geom:latitude":44.975369,
     "geom:longitude":-93.266087,
@@ -40,14 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872705,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607660,
-    "wof:geomhash":"3f20042e77c56b42c8e871bde3d3ec71",
+    "wof:geomhash":"00227793f017c84aa755c70fd0b1817f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,25 +64,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872705,
-            "region_id":85688727,
-            "venue_id":823149343
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":823149343
         }
     ],
     "wof:id":823149343,
-    "wof:lastmodified":1472628944,
+    "wof:lastmodified":1492830975,
     "wof:name":"Lutheran Community Foundation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

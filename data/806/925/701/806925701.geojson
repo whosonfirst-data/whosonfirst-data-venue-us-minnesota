@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.53994,47.464087,-92.53994,47.464087",
     "geom:latitude":47.464087,
     "geom:longitude":-92.53994,
@@ -31,17 +32,26 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YhzIgex7OgV52Y1AXxyuu_47.464087_-92.539940@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602238,
-    "wof:geomhash":"743644a6fc2b48bcb8450882e18641d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"127de6691f821225ab701ab3af6f5fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806925701
+        }
+    ],
     "wof:id":806925701,
-    "wof:lastmodified":1472629940,
+    "wof:lastmodified":1492821008,
     "wof:name":"T & S Tobacco",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

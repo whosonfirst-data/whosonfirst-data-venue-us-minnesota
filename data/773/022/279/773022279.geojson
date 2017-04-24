@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.188792,45.031285,-93.188792,45.031285",
     "geom:latitude":45.031285,
     "geom:longitude":-93.188792,
@@ -31,17 +32,34 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E2Aazh5n6RetCMR4qYLIt_45.031285_-93.188792@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582486,
-    "wof:geomhash":"aef9f48164884fb591a0ac099168047b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35fed60236c24090afe676714476b122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":773022279
+        }
+    ],
     "wof:id":773022279,
-    "wof:lastmodified":1472629151,
+    "wof:lastmodified":1492806036,
     "wof:name":"US Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.789108,44.850441,-93.789108,44.850441",
     "geom:latitude":44.850441,
     "geom:longitude":-93.789108,
@@ -47,17 +48,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511605,
+        85633793,
+        85953183,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7X9NgV1KHuuLwQpNFP6rHa_44.850441_-93.789108@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606456,
-    "wof:geomhash":"58f5587d68e172c4f994913b6ff4b9a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4d756604624e725286296b156009b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511605,
+            "locality_id":85953183,
+            "region_id":85688727,
+            "venue_id":807346765
+        }
+    ],
     "wof:id":807346765,
-    "wof:lastmodified":1472629781,
+    "wof:lastmodified":1492826271,
     "wof:name":"Hei Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

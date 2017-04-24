@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.246416,45.439334,-94.246416,45.439334",
     "geom:latitude":45.439334,
     "geom:longitude":-94.246416,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514489,
+        85633793,
+        85952491,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fxRhG7BrEfaugt0xy3rWc_45.439334_-94.246416@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604837,
-    "wof:geomhash":"3050c440f7581633e601941f407a2dba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"468d2446785886d0f53238b4e2e5069c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514489,
+            "locality_id":85952491,
+            "region_id":85688727,
+            "venue_id":807204175
+        }
+    ],
     "wof:id":807204175,
-    "wof:lastmodified":1472629392,
+    "wof:lastmodified":1492823505,
     "wof:name":"Thomas Faber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

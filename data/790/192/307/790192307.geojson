@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.565675,44.903416,-93.565675,44.903416",
     "geom:latitude":44.903416,
     "geom:longitude":-93.565675,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509445,
+        85633793,
+        85969207,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NOojNdobqICsDm9EL4swn_44.903416_-93.565675@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593871,
-    "wof:geomhash":"2df0a700db7fa880adb1cf319d92a813",
-    "wof:hierarchy":[],
+    "wof:geomhash":"937c76a1aa33ecd1a5b48d30d158b823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509445,
+            "locality_id":85969207,
+            "region_id":85688727,
+            "venue_id":790192307
+        }
+    ],
     "wof:id":790192307,
-    "wof:lastmodified":1472629277,
+    "wof:lastmodified":1492832546,
     "wof:name":"Christopher Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

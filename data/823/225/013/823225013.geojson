@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.339012,47.466057,-92.339012,47.466057",
     "geom:latitude":47.466057,
     "geom:longitude":-92.339012,
@@ -32,17 +33,26 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X5rq4bxCASFpDfabytCOA_47.466057_-92.339012@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608839,
-    "wof:geomhash":"8c9b22dfe11f1958b90953aaa5a8e519",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3018d62c35f43d5dd6fb84fa951a18b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":823225013
+        }
+    ],
     "wof:id":823225013,
-    "wof:lastmodified":1472629076,
+    "wof:lastmodified":1492828067,
     "wof:name":"Hendrickson, Roy And Jo Anne",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

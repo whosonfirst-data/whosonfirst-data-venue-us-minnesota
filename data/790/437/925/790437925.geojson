@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.487697,47.169101,-92.487697,47.169101",
     "geom:latitude":47.169101,
     "geom:longitude":-92.487697,
@@ -28,17 +29,26 @@
     "sg:postcode":"55724",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RGHpjWz8xPyHcvmffam9Y_47.169101_-92.487697@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595827,
-    "wof:geomhash":"f18973308515885d14febfc5a5de140e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"984a3b57e4b09df1147dcbd672b92d8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790437925
+        }
+    ],
     "wof:id":790437925,
-    "wof:lastmodified":1472629709,
+    "wof:lastmodified":1492836491,
     "wof:name":"Road Maintenance Garage",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

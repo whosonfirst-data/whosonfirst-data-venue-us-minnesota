@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.050884,44.88521,-94.050884,44.88521",
     "geom:latitude":44.88521,
     "geom:longitude":-94.050884,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509749,
+        85633793,
+        85952559,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Frf34db7xaYXnu9XtjQx2_44.885210_-94.050884@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586086,
-    "wof:geomhash":"6da11b1785fc5dd97e02372fd2c9e729",
-    "wof:hierarchy":[],
+    "wof:geomhash":"737d0b8bddebfeca0921c41d92f76ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509749,
+            "locality_id":85952559,
+            "region_id":85688727,
+            "venue_id":773482335
+        }
+    ],
     "wof:id":773482335,
-    "wof:lastmodified":1472630070,
+    "wof:lastmodified":1492807276,
     "wof:name":"Security Management & Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.475794,46.508192,-94.475794,46.508192",
     "geom:latitude":46.508192,
     "geom:longitude":-94.475794,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509389,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3b1jLhw5V0CMhxau457W38_46.508192_-94.475794@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585582,
-    "wof:geomhash":"6bedc11dc3188b058a95242bfcf5a7c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"754f8cd8be955b963b07cdb51f402184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509389,
+            "region_id":85688727,
+            "venue_id":773421043
+        }
+    ],
     "wof:id":773421043,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492805427,
     "wof:name":"Homebrook Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

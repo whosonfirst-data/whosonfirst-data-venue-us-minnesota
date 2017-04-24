@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.989914,44.842782,-92.989914,44.842782",
     "geom:latitude":44.842782,
     "geom:longitude":-92.989914,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514919,
+        85633793,
+        85953547,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E4rCWWpkqvjuWgoFMlyQ4_44.842782_-92.989914@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584251,
-    "wof:geomhash":"3cf2f2fd65514c465e6625c74de9337f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9bc1516ba82a8fa50674613a5e57423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514919,
+            "locality_id":85953547,
+            "region_id":85688727,
+            "venue_id":773245267
+        }
+    ],
     "wof:id":773245267,
-    "wof:lastmodified":1472629971,
+    "wof:lastmodified":1492802809,
     "wof:name":"Discovery Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

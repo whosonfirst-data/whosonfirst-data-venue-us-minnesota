@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.454225,45.925851,-94.454225,45.925851",
     "geom:latitude":45.925851,
     "geom:longitude":-94.454225,
@@ -33,17 +34,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512873,
+        85633793,
+        85968691,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RKmZAuO6Lnx0ThuGXQr5D_45.925851_-94.454225@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597940,
-    "wof:geomhash":"1e63863e96ff0aba0e9ce40a60b4ac5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8b01a40d0d01088b4626487c9fc0e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512873,
+            "locality_id":85968691,
+            "region_id":85688727,
+            "venue_id":806411473
+        }
+    ],
     "wof:id":806411473,
-    "wof:lastmodified":1472629094,
+    "wof:lastmodified":1492820616,
     "wof:name":"Bernie's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

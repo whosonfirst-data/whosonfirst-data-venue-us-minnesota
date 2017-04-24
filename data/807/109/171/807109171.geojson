@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.163606,44.947624,-94.163606,44.947624",
     "geom:latitude":44.947624,
     "geom:longitude":-94.163606,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509747,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EEDhbMhwwmRBjL320jq9K_44.947624_-94.163606@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603826,
-    "wof:geomhash":"adeb5174d3fcbf6e4572b2449286a531",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d487b1c4443fa9712aceefa6dce9b44d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509747,
+            "region_id":85688727,
+            "venue_id":807109171
+        }
+    ],
     "wof:id":807109171,
-    "wof:lastmodified":1472629201,
+    "wof:lastmodified":1492826881,
     "wof:name":"Ed Kosek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

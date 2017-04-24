@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.328825,44.945608,-93.328825,44.945608",
     "geom:latitude":44.945608,
     "geom:longitude":-93.328825,
@@ -31,19 +32,40 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872587,
+        102191575,
+        1108799977,
+        404511883,
+        85633793,
+        85969169,
+        102087709,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gSyq2wmagA9hj8N95wOrZ_44.945608_-93.328825@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603537,
-    "wof:geomhash":"a4cb30c58cc05f11be84edfef26dc857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"848c92d846ef51b65d55eef3ffcd833e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511883,
+            "locality_id":85969169,
+            "macrohood_id":1108799977,
+            "neighbourhood_id":85872587,
+            "region_id":85688727,
+            "venue_id":807080567
+        }
+    ],
     "wof:id":807080567,
-    "wof:lastmodified":1472629088,
+    "wof:lastmodified":1492825332,
     "wof:name":"Thomas Josepha & Sandra",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

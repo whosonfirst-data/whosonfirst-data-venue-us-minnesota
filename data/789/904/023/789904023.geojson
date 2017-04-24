@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.654851,43.714533,-91.654851,43.714533",
     "geom:latitude":43.714533,
     "geom:longitude":-91.654851,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511959,
+        85633793,
+        102087605
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28oftYVpUt3EBS8j3Elvpk_43.714533_-91.654851@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591476,
-    "wof:geomhash":"a716594b6a864ac2c1fa058dc7b899bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5628e2240fe6630497b002495f7161c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087605,
+            "localadmin_id":404511959,
+            "region_id":85688727,
+            "venue_id":789904023
+        }
+    ],
     "wof:id":789904023,
-    "wof:lastmodified":1472629594,
+    "wof:lastmodified":1492809170,
     "wof:name":"McKay Milford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

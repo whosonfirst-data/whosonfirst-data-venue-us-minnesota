@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.798594,44.702449,-93.798594,44.702449",
     "geom:latitude":44.702449,
     "geom:longitude":-93.798594,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509361,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OWz4HpBT48gd1hH0qK4P3_44.702449_-93.798594@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602630,
-    "wof:geomhash":"816d713847ae1f18e42318034efd5559",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a318de0d8b37b6a0f733c081153f7917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404509361,
+            "region_id":85688727,
+            "venue_id":806972529
+        }
+    ],
     "wof:id":806972529,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492817924,
     "wof:name":"H&M Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

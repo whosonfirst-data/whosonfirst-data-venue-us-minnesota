@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.222634,45.558985,-94.222634,45.558985",
     "geom:latitude":45.558985,
     "geom:longitude":-94.222634,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"www.rte-cyber.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P5hn2nEalqmu1g27bOV5f_45.558985_-94.222634@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596333,
-    "wof:geomhash":"201b5f0b15d116d00cd21be6fe59d71e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9d83b8cace562db2ebc4f3036733b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":790495385
+        }
+    ],
     "wof:id":790495385,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492833868,
     "wof:name":"R T Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.643912,44.625999,-93.643912,44.625999",
     "geom:latitude":44.625999,
     "geom:longitude":-93.643912,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514985,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gNEPZMhmO2buCM9qgdLly_44.625999_-93.643912@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606242,
-    "wof:geomhash":"2d6e94ef182285060bbe0486909c4f1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01ff5411ffddc460d5d88bf6beec5630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514985,
+            "region_id":85688727,
+            "venue_id":807333403
+        }
+    ],
     "wof:id":807333403,
-    "wof:lastmodified":1472629735,
+    "wof:lastmodified":1492826229,
     "wof:name":"Old World Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

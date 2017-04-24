@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.380195,45.270134,-93.380195,45.270134",
     "geom:latitude":45.270134,
     "geom:longitude":-93.380195,
@@ -60,17 +61,34 @@
     ],
     "sg:website":"http://www.ourglasscompany.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511269,
+        85633793,
+        85953415,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SjoTP3XS97LP1n6HygYvK_45.270134_-93.380195@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605705,
-    "wof:geomhash":"b19f1f16bc6b848f3f91c9b20a2c1ba8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dbc4f399a1ada1cb201f0cced8eed71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511269,
+            "locality_id":85953415,
+            "region_id":85688727,
+            "venue_id":807285891
+        }
+    ],
     "wof:id":807285891,
-    "wof:lastmodified":1472629630,
+    "wof:lastmodified":1492822285,
     "wof:name":"Our Glass Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

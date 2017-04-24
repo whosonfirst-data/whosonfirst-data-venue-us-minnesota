@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.809294,45.255717,-92.809294,45.255717",
     "geom:latitude":45.255717,
     "geom:longitude":-92.809294,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514921,
+        85633793,
+        85953533,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16KSejWxuXoz3Tr1vZTNU8_45.255717_-92.809294@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587235,
-    "wof:geomhash":"844c71165e4047174a552a5f9b97bb2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10135d5a18ca78a4762f3d3e4afcb2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514921,
+            "locality_id":85953533,
+            "region_id":85688727,
+            "venue_id":773638487
+        }
+    ],
     "wof:id":773638487,
-    "wof:lastmodified":1472630115,
+    "wof:lastmodified":1492805201,
     "wof:name":"Scandia Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

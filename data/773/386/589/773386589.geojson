@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.024115,44.173221,-94.024115,44.173221",
     "geom:latitude":44.173221,
     "geom:longitude":-94.024115,
@@ -40,17 +41,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77MVHqlRLPMHfS7yaOKTRq_44.173221_-94.024115@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585300,
-    "wof:geomhash":"d8d562c22ad63daa33da4f33857f9da7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2184ffeb0bb68f76d26b094df0e1a21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":773386589
+        }
+    ],
     "wof:id":773386589,
-    "wof:lastmodified":1472630037,
+    "wof:lastmodified":1492808458,
     "wof:name":"Balfield Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.665023,47.126158,-91.665023,47.126158",
     "geom:latitude":47.126158,
     "geom:longitude":-91.665023,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514559,
+        85633793,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25ojCphcp7er7A0lXPqanE_47.126158_-91.665023@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593358,
-    "wof:geomhash":"8d4a2ef7d0f61242854a0a375268a96e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26dca38884346c50656ed57b1f497d6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514559,
+            "region_id":85688727,
+            "venue_id":790129673
+        }
+    ],
     "wof:id":790129673,
-    "wof:lastmodified":1472629198,
+    "wof:lastmodified":1492835895,
     "wof:name":"Silver Creek Town Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

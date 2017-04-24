@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.921713,45.582167,-95.921713,45.582167",
     "geom:latitude":45.582167,
     "geom:longitude":-95.921713,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TI6F9jVuJwURw3DPeZHFt_45.582167_-95.921713@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591522,
-    "wof:geomhash":"da63711896873cf3181eadafc2a37fe2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"306c5a9fcd150d8674df1a56fd297806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":789908559
+        }
+    ],
     "wof:id":789908559,
-    "wof:lastmodified":1472629608,
+    "wof:lastmodified":1492809606,
     "wof:name":"Morris Veterinary Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

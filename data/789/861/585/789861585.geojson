@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.561389,43.888719,-95.561389,43.888719",
     "geom:latitude":43.888719,
     "geom:longitude":-95.561389,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513165,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P7cT0gfJunmgAIO5uLW4l_43.888719_-95.561389@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591120,
-    "wof:geomhash":"e5225411aade4c6f8abde59183b6e1e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8076091631d81445d8d5641898747b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513165,
+            "region_id":85688727,
+            "venue_id":789861585
+        }
+    ],
     "wof:id":789861585,
-    "wof:lastmodified":1472629535,
+    "wof:lastmodified":1492811895,
     "wof:name":"Andrew Engelkes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.776154,44.451722,-95.776154,44.451722",
     "geom:latitude":44.451722,
     "geom:longitude":-95.776154,
@@ -33,17 +34,34 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ktFXso0nPIhKwiMZUJmb3_44.451722_-95.776154@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588524,
-    "wof:geomhash":"5e512babc2095284bd9850b38f6ef0b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f9a3c9dd3629d10477a63d37581a52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":773806607
+        }
+    ],
     "wof:id":773806607,
-    "wof:lastmodified":1472630165,
+    "wof:lastmodified":1492800829,
     "wof:name":"Mental Hlth Cnsmr/Srvvor Ntwrk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

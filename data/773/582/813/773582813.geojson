@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.771223,44.266051,-92.771223,44.266051",
     "geom:latitude":44.266051,
     "geom:longitude":-92.771223,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85824013,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85824013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462586823,
-    "wof:geomhash":"fd5b72f76a9953f68c3586943aee005e",
+    "wof:geomhash":"6f28141d4da5a58d868d5f887e9a54f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85824013,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":773582813,
-    "wof:lastmodified":1472630100,
+    "wof:lastmodified":1492805873,
     "wof:name":"Tom Auseth",
     "wof:parent_id":85824013,
     "wof:placetype":"venue",

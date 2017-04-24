@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.259111,47.080679,-96.259111,47.080679",
     "geom:latitude":47.080679,
     "geom:longitude":-96.259111,
@@ -26,11 +27,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877339,
+        102191575,
+        404478877,
         85633793,
-        85969409,
-        102087681,
-        85877339
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,19 +41,21 @@
     },
     "wof:country":"US",
     "wof:created":1462604860,
-    "wof:geomhash":"729057557c9143b2d62ae32abf1099cf",
+    "wof:geomhash":"d9c6e21d2fe0d378293865ae735fd4b7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087681,
-            "locality_id":85969409,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
             "neighbourhood_id":85877339,
-            "region_id":85688727,
+            "region_id":85688525,
             "venue_id":807206219
         }
     ],
     "wof:id":807206219,
-    "wof:lastmodified":1472629403,
+    "wof:lastmodified":1492823701,
     "wof:name":"Borgen Oil Co",
     "wof:parent_id":85877339,
     "wof:placetype":"venue",

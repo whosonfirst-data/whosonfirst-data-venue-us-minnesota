@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.123925,44.978747,-94.123925,44.978747",
     "geom:latitude":44.978747,
     "geom:longitude":-94.123925,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513633,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AtSYKcckDnFO2d5cesj65_44.978747_-94.123925@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604313,
-    "wof:geomhash":"6b594f32f7c246589a026048d73a928d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f32924822995291f8e74babf0f678714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513633,
+            "region_id":85688727,
+            "venue_id":807154145
+        }
+    ],
     "wof:id":807154145,
-    "wof:lastmodified":1472629280,
+    "wof:lastmodified":1492823961,
     "wof:name":"Leo Weber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

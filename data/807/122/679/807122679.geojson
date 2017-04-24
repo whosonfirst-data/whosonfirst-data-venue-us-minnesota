@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.733715,43.652353,-95.733715,43.652353",
     "geom:latitude":43.652353,
     "geom:longitude":-95.733715,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513491,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29xt1Gp4TH0RJuz6ZtSxx2_43.652353_-95.733715@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603968,
-    "wof:geomhash":"42e60ff54c560d2f441d6bd0a58ef22d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48ea398f56567324016ff4fb1cb3b3d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404513491,
+            "region_id":85688727,
+            "venue_id":807122679
+        }
+    ],
     "wof:id":807122679,
-    "wof:lastmodified":1472629254,
+    "wof:lastmodified":1492825199,
     "wof:name":"A Schettler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

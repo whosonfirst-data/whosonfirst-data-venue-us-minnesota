@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.53459,47.460629,-92.53459,47.460629",
     "geom:latitude":47.460629,
     "geom:longitude":-92.53459,
@@ -32,17 +33,26 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SGDC0ByPTsq7Y1fpVPjH9_47.460629_-92.534590@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591128,
-    "wof:geomhash":"a36a62b1b67faeacee769db5effef69e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b006e0d7e4f55ddae7848189bb8405c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789862639
+        }
+    ],
     "wof:id":789862639,
-    "wof:lastmodified":1472629540,
+    "wof:lastmodified":1492810666,
     "wof:name":"Eveleth Senior Citizens Club",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

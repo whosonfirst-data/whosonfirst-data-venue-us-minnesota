@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.007434,44.175386,-94.007434,44.175386",
     "geom:latitude":44.175386,
     "geom:longitude":-94.007434,
@@ -39,17 +40,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yGLO3lxdh8d55DBtoYpPx_44.175386_-94.007434@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589197,
-    "wof:geomhash":"b6784952b742be679baf52e733ea46be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfb023a0e83a84910ed543b7af55803c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":789617103
+        }
+    ],
     "wof:id":789617103,
-    "wof:lastmodified":1472629019,
+    "wof:lastmodified":1492811843,
     "wof:name":"M M Evans & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

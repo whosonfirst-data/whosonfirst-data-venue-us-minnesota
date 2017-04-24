@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.53195,44.0227,-92.53195,44.0227",
     "geom:latitude":44.0227,
     "geom:longitude":-92.53195,
@@ -36,17 +37,34 @@
         "property"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RG8I7Y1WlrEScqHIr1VtV_44.022700_-92.531950@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594448,
-    "wof:geomhash":"2129afb32d20c49ac22f75a1c13f15a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1691e5189422effd6bd3de7b96154c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790263159
+        }
+    ],
     "wof:id":790263159,
-    "wof:lastmodified":1472629396,
+    "wof:lastmodified":1492834823,
     "wof:name":"Milton Bethke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

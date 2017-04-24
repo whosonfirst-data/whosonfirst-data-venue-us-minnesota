@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.451373,43.632362,-94.451373,43.632362",
     "geom:latitude":43.632362,
     "geom:longitude":-94.451373,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514005,
+        85633793,
+        85953127,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SIfNoP3iiYOaUvrQfCFDQ_43.632362_-94.451373@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598358,
-    "wof:geomhash":"13ecec7062aba6562349df00b0dfbee7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1235551da0c8988be14f422ef921071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514005,
+            "locality_id":85953127,
+            "region_id":85688727,
+            "venue_id":806465497
+        }
+    ],
     "wof:id":806465497,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492815537,
     "wof:name":"Morris Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

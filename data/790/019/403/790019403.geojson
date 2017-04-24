@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.039992,45.11406,-95.039992,45.11406",
     "geom:latitude":45.11406,
     "geom:longitude":-95.039992,
@@ -28,17 +29,34 @@
     "sg:postcode":"56201",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5olnICVdaUJI6MSaUNnmwa_45.114060_-95.039992@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592486,
-    "wof:geomhash":"6bd836d360b7263b39a6d5219368dfed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"974b065698e27c1605a740000acfbe5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":790019403
+        }
+    ],
     "wof:id":790019403,
-    "wof:lastmodified":1472628963,
+    "wof:lastmodified":1492832457,
     "wof:name":"Bethesda Health & Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

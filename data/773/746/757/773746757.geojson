@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.88661,45.372668,-92.88661,45.372668",
     "geom:latitude":45.372668,
     "geom:longitude":-92.88661,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eONxCcr3i0uCYfJkMULpy_45.372668_-92.886610@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588074,
-    "wof:geomhash":"726f2f87f48fdf7f90aac1fb2aa36bd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05ea82e26e93387dfc045e4c2c16dd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773746757
+        }
+    ],
     "wof:id":773746757,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1492801935,
     "wof:name":"Lakeside Engine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

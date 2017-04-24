@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.945847,44.890745,-92.945847,44.890745",
     "geom:latitude":44.890745,
     "geom:longitude":-92.945847,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514931,
+        85633793,
+        85953535,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65G2FqcX2V38WF54PENGcE_44.890745_-92.945847@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598397,
-    "wof:geomhash":"54ed31a4d461b1e6c641a9bd0ff6cb3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25989a36057890b908092c976cee1356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514931,
+            "locality_id":85953535,
+            "region_id":85688727,
+            "venue_id":806471173
+        }
+    ],
     "wof:id":806471173,
-    "wof:lastmodified":1472629193,
+    "wof:lastmodified":1492814921,
     "wof:name":"Salem Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

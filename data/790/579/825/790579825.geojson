@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.41778,44.816321,-93.41778,44.816321",
     "geom:latitude":44.816321,
     "geom:longitude":-93.41778,
@@ -31,17 +32,34 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jo6UjQSpOQtc6UvbU7VaL_44.816321_-93.417780@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597036,
-    "wof:geomhash":"8f485755ce40d44d2c533fda796f71eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70fdb13c918aa4b2cd2e23902aeb0fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":790579825
+        }
+    ],
     "wof:id":790579825,
-    "wof:lastmodified":1472629870,
+    "wof:lastmodified":1492834470,
     "wof:name":"Echenard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

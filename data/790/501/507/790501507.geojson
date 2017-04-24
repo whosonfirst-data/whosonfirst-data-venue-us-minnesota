@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.162583,48.113938,-96.162583,48.113938",
     "geom:latitude":48.113938,
     "geom:longitude":-96.162583,
@@ -31,17 +32,34 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pnYJCfBsLxOD9C09c7eS7_48.113938_-96.162583@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596379,
-    "wof:geomhash":"751293c4d89523580cc2fb1027309af1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46a4ed722164cb0e4f74a8d65f5085bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":790501507
+        }
+    ],
     "wof:id":790501507,
-    "wof:lastmodified":1472629783,
+    "wof:lastmodified":1492836787,
     "wof:name":"Pentronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

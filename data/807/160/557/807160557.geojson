@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.498827,45.810574,-96.498827,45.810574",
     "geom:latitude":45.810574,
     "geom:longitude":-96.498827,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NMB4OYZ1c96AymVjBdls3_45.810574_-96.498827@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604384,
-    "wof:geomhash":"132299cc348565ab0979b92360e29f13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a74e06ed49691efc47aad30181844db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":807160557
+        }
+    ],
     "wof:id":807160557,
-    "wof:lastmodified":1472629308,
+    "wof:lastmodified":1492827830,
     "wof:name":"Dean Lampe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

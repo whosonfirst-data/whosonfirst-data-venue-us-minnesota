@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.748317,44.030324,-92.748317,44.030324",
     "geom:latitude":44.030324,
     "geom:longitude":-92.748317,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513737,
+        85633793,
+        85952827,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49OApBRWpBI3SmbqNzduvX_44.030324_-92.748317@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586477,
-    "wof:geomhash":"fc267e2241a2711bbe4f75ea64dab57a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fe77b256b39137878d2b589990ec966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513737,
+            "locality_id":85952827,
+            "region_id":85688727,
+            "venue_id":773539989
+        }
+    ],
     "wof:id":773539989,
-    "wof:lastmodified":1472630086,
+    "wof:lastmodified":1492805301,
     "wof:name":"My Shirt Factory & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

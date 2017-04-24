@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.086637,43.504778,-94.086637,43.504778",
     "geom:latitude":43.504778,
     "geom:longitude":-94.086637,
@@ -38,17 +39,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514077,
+        85633793,
+        85952591,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A6M34QYPv8x4wr0K6Grkh_43.504778_-94.086637@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592702,
-    "wof:geomhash":"dafd2d5dee3678291c5ade1ad70c5dc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cc7132267a5c584b30976e0f94d779b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514077,
+            "locality_id":85952591,
+            "region_id":85688727,
+            "venue_id":790047707
+        }
+    ],
     "wof:id":790047707,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492834386,
     "wof:name":"Elmore Senior Citizen Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.90891,47.506462,-94.90891,47.506462",
     "geom:latitude":47.506462,
     "geom:longitude":-94.90891,
@@ -31,17 +32,34 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C7OqCfg515nYNJYG6Qbsa_47.506462_-94.908910@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584498,
-    "wof:geomhash":"9426bbd9dd750f56ab4db2f62d8cfa2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b311c99f78527b67a6422669f87a43ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":773277675
+        }
+    ],
     "wof:id":773277675,
-    "wof:lastmodified":1472630010,
+    "wof:lastmodified":1492803824,
     "wof:name":"Richard Rude Architectural",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.525664,44.914165,-93.525664,44.914165",
     "geom:latitude":44.914165,
     "geom:longitude":-93.525664,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511709,
+        85633793,
+        85969213,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ln0XQXPcdTNREFrgERjrO_44.914165_-93.525664@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601447,
-    "wof:geomhash":"c339551beccafc548f5ae69b2da48131",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b6ec0d4382f2a1238b61f03f5be09e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511709,
+            "locality_id":85969213,
+            "region_id":85688727,
+            "venue_id":806832899
+        }
+    ],
     "wof:id":806832899,
-    "wof:lastmodified":1472629868,
+    "wof:lastmodified":1492820585,
     "wof:name":"Suburban Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

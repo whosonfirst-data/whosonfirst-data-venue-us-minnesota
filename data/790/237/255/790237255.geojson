@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.044124,44.933997,-95.044124,44.933997",
     "geom:latitude":44.933997,
     "geom:longitude":-95.044124,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513951,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kQJ3SRMMHlxEomSjiBk22_44.933997_-95.044124@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594228,
-    "wof:geomhash":"63bf955ecd8b40b42941c85cac97af6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf8bf590fc486374fb357c2e6c449f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513951,
+            "region_id":85688727,
+            "venue_id":790237255
+        }
+    ],
     "wof:id":790237255,
-    "wof:lastmodified":1472629345,
+    "wof:lastmodified":1492837803,
     "wof:name":"Randy's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

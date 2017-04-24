@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.330224,44.908971,-93.330224,44.908971",
     "geom:latitude":44.908971,
     "geom:longitude":-93.330224,
@@ -28,17 +29,34 @@
     "sg:postcode":"55424",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K5WuQ0QQGlTuURJP1olwN_44.908971_-93.330224@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583900,
-    "wof:geomhash":"a6aa18add11f32755ef3a402fee4d239",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d1be78dd7b5abd5300871781d4cdb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773196315
+        }
+    ],
     "wof:id":773196315,
-    "wof:lastmodified":1472629952,
+    "wof:lastmodified":1492799428,
     "wof:name":"Coldwell Banker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

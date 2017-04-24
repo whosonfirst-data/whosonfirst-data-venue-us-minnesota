@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.555989,45.764297,-93.555989,45.764297",
     "geom:latitude":45.764297,
     "geom:longitude":-93.555989,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512541,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pKG23l9brwhvmGWypH7qy_45.764297_-93.555989@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603558,
-    "wof:geomhash":"5d289f89b39cdc465ae8e7e1fbdd02fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ad860c8a49f5e4832eff5b29585c196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512541,
+            "region_id":85688727,
+            "venue_id":807083061
+        }
+    ],
     "wof:id":807083061,
-    "wof:lastmodified":1472629077,
+    "wof:lastmodified":1492823962,
     "wof:name":"Linda M Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

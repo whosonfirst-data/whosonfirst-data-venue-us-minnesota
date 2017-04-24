@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.050652,45.119757,-95.050652,45.119757",
     "geom:latitude":45.119757,
     "geom:longitude":-95.050652,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UdOJFs7l2W2DSZarYFHvy_45.119757_-95.050652@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595680,
-    "wof:geomhash":"f537cc4278d4a5c5acabb10982361158",
-    "wof:hierarchy":[],
+    "wof:geomhash":"159775fd44197b24f7a90657593baf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":790420171
+        }
+    ],
     "wof:id":790420171,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492832645,
     "wof:name":"Anderson & Burgett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

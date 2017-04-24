@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.365025,45.052443,-93.365025,45.052443",
     "geom:latitude":45.052443,
     "geom:longitude":-93.365025,
@@ -36,17 +37,34 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U8Fzv77ZTEvxp4d68E9OG_45.052443_-93.365025@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608199,
-    "wof:geomhash":"30ca2d0e4f9013438466341c8e3e9a5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37f9efbd7fe5d5c1bd20777becc3f900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823190677
+        }
+    ],
     "wof:id":823190677,
-    "wof:lastmodified":1472629046,
+    "wof:lastmodified":1492830056,
     "wof:name":"Target Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

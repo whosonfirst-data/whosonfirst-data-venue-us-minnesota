@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.66828,44.166766,-94.66828,44.166766",
     "geom:latitude":44.166766,
     "geom:longitude":-94.66828,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511575,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08tl6pt9hHwv690AKTEpla_44.166766_-94.668280@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592892,
-    "wof:geomhash":"adf9a539a8cdd21ca34a8bcdddabdd1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"487cf5988f9bed91786a3373860fc2b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511575,
+            "region_id":85688727,
+            "venue_id":790070279
+        }
+    ],
     "wof:id":790070279,
-    "wof:lastmodified":1472629071,
+    "wof:lastmodified":1492837119,
     "wof:name":"Turbes Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

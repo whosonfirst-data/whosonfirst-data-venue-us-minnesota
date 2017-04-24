@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.348136,45.981776,-93.348136,45.981776",
     "geom:latitude":45.981776,
     "geom:longitude":-93.348136,
@@ -31,17 +32,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513761,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w3bAJkGkr5Z3G5MKlmrSb_45.981776_-93.348136@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586143,
-    "wof:geomhash":"b9f83915d2d70598594be0213b0bc505",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c242f432698c9ad36d34b3ea519c386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513761,
+            "region_id":85688727,
+            "venue_id":773490745
+        }
+    ],
     "wof:id":773490745,
-    "wof:lastmodified":1472630071,
+    "wof:lastmodified":1492804645,
     "wof:name":"Thomas Felger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

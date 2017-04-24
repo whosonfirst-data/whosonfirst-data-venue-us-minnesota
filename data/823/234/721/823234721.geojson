@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.757133,43.500774,-91.757133,43.500774",
     "geom:latitude":43.500774,
     "geom:longitude":-91.757133,
@@ -47,17 +48,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514269,
+        85633793,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ytfvXOeeXy930Hrs6yjII_43.500774_-91.757133@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609046,
-    "wof:geomhash":"8bf2b472862a794a1369bd038e9d48c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6548bdf734323cd275dd7b99a916fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514269,
+            "region_id":85688727,
+            "venue_id":823234721
+        }
+    ],
     "wof:id":823234721,
-    "wof:lastmodified":1472629163,
+    "wof:lastmodified":1492828376,
     "wof:name":"Wagon Wheel Stock Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

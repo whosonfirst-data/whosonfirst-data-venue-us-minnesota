@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.297614,45.056045,-93.297614,45.056045",
     "geom:latitude":45.056045,
     "geom:longitude":-93.297614,
@@ -31,17 +32,34 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bqDLaeqMjuYU5SLgme8dG_45.056045_-93.297614@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592854,
-    "wof:geomhash":"1c34c1d5c960f9b578e4db0baeed68d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"754d2c2a1c05f8bdabf36f5d6e725439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":790064861
+        }
+    ],
     "wof:id":790064861,
-    "wof:lastmodified":1472629056,
+    "wof:lastmodified":1492831610,
     "wof:name":"Smith Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

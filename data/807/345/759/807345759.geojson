@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.497935,44.745406,-94.497935,44.745406",
     "geom:latitude":44.745406,
     "geom:longitude":-94.497935,
@@ -36,17 +37,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512687,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54i50UYsNtN4DBpAfvVlf6_44.745406_-94.497935@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606443,
-    "wof:geomhash":"2f33e5f8ad6358f22b1900b0ddc6d1cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"611ee2fd681af2dfdc54336ca936c6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512687,
+            "region_id":85688727,
+            "venue_id":807345759
+        }
+    ],
     "wof:id":807345759,
-    "wof:lastmodified":1472629781,
+    "wof:lastmodified":1492826829,
     "wof:name":"Thomas Maiers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

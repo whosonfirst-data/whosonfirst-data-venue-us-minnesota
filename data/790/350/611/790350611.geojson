@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.181263,45.55303,-94.181263,45.55303",
     "geom:latitude":45.55303,
     "geom:longitude":-94.181263,
@@ -39,17 +40,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OM4hlaj0cC4iMALAo7VyZ_45.553030_-94.181263@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595142,
-    "wof:geomhash":"0b61735d0c66b1ca95c5efb7aafcf79b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cd0e9ea1c6b21438c1151623b3a91b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":790350611
+        }
+    ],
     "wof:id":790350611,
-    "wof:lastmodified":1472629546,
+    "wof:lastmodified":1492833840,
     "wof:name":"Gentz Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

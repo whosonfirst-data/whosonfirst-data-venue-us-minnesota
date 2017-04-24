@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.227943,44.457211,-93.227943,44.457211",
     "geom:latitude":44.457211,
     "geom:longitude":-93.227943,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512621,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ceJjcESrzsGwpdYKZheJq_44.457211_-93.227943@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590756,
-    "wof:geomhash":"1c6129e3f4553f8eaf58f561159d1e92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dadd964cbf0cc4b975b31118f6e1de7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512621,
+            "region_id":85688727,
+            "venue_id":789815543
+        }
+    ],
     "wof:id":789815543,
-    "wof:lastmodified":1472629409,
+    "wof:lastmodified":1492811720,
     "wof:name":"Terry L Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

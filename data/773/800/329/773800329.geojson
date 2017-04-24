@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.828107,46.562957,-95.828107,46.562957",
     "geom:latitude":46.562957,
     "geom:longitude":-95.828107,
@@ -32,17 +33,32 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512739,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iHEL1G2AfqhqKq2XiXIp2_46.562957_-95.828107@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588468,
-    "wof:geomhash":"a37aacc3866c8c1c1cccd257b3489d0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28e7881cc0afbd55ffdd7932fe7f3c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512739,
+            "region_id":85688727,
+            "venue_id":773800329
+        }
+    ],
     "wof:id":773800329,
-    "wof:lastmodified":1472630162,
+    "wof:lastmodified":1492801840,
     "wof:name":"Heliscan Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

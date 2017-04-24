@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.563895,44.809023,-95.563895,44.809023",
     "geom:latitude":44.809023,
     "geom:longitude":-95.563895,
@@ -28,17 +29,34 @@
     "sg:postcode":"56241",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515275,
+        85633793,
+        85952945,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZoXrDnLmDoT0HAXpUwNr2_44.809023_-95.563895@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593819,
-    "wof:geomhash":"2f333a8927d09e722bf0e0465befe320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d09c5be740303740103e1136aa8cb4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515275,
+            "locality_id":85952945,
+            "region_id":85688727,
+            "venue_id":790185395
+        }
+    ],
     "wof:id":790185395,
-    "wof:lastmodified":1472629275,
+    "wof:lastmodified":1492834015,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.077827,46.296673,-96.077827,46.296673",
     "geom:latitude":46.296673,
     "geom:longitude":-96.077827,
@@ -33,17 +34,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AQL8JTSX42OCcy28O9IYB_46.296673_-96.077827@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600357,
-    "wof:geomhash":"440808084e5d102be316768e1587ae02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad3dff50db11de69c8c6fb010f8de95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":806702569
+        }
+    ],
     "wof:id":806702569,
-    "wof:lastmodified":1472629717,
+    "wof:lastmodified":1492817272,
     "wof:name":"Stock's Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

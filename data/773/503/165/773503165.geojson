@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.267654,43.824448,-93.267654,43.824448",
     "geom:latitude":43.824448,
     "geom:longitude":-93.267654,
@@ -31,17 +32,34 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509655,
+        85633793,
+        85969039,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77t1u8IgjkKRyLL4wgES91_43.824448_-93.267654@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586226,
-    "wof:geomhash":"a54e41ea0680eb2b9956957b3879f97f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2a827a0e81c7fd3496059db00648220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509655,
+            "locality_id":85969039,
+            "region_id":85688727,
+            "venue_id":773503165
+        }
+    ],
     "wof:id":773503165,
-    "wof:lastmodified":1472630076,
+    "wof:lastmodified":1492801456,
     "wof:name":"Geneva Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

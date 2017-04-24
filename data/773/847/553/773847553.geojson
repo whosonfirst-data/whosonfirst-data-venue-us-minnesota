@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.364598,44.777724,-93.364598,44.777724",
     "geom:latitude":44.777724,
     "geom:longitude":-93.364598,
@@ -33,17 +34,34 @@
         "warehousing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wc19nUkzvGFZstqgAEjSz_44.777724_-93.364598@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588877,
-    "wof:geomhash":"2e2ff9f23eab81e4d7d383a7f4b6c78d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b27776d7e6a5f82b9b839d369f07abd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":773847553
+        }
+    ],
     "wof:id":773847553,
-    "wof:lastmodified":1472630172,
+    "wof:lastmodified":1492806011,
     "wof:name":"Cargill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

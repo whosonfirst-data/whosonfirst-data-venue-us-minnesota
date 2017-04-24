@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.34745,48.612649,-93.34745,48.612649",
     "geom:latitude":48.612649,
     "geom:longitude":-93.34745,
@@ -32,17 +33,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515151,
+        85633793,
+        85968301,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wnO2Z3qjrTsbKPkygjSyL_48.612649_-93.347450@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584053,
-    "wof:geomhash":"dbf72f53fe95a5e405e512428101ffd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b46b1fd19420639a1660e8c1ae4b7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404515151,
+            "locality_id":85968301,
+            "region_id":85688727,
+            "venue_id":773216999
+        }
+    ],
     "wof:id":773216999,
-    "wof:lastmodified":1472629977,
+    "wof:lastmodified":1492800383,
     "wof:name":"Ranier Roost Residents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

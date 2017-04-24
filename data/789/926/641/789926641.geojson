@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.567715,45.459355,-94.567715,45.459355",
     "geom:latitude":45.459355,
     "geom:longitude":-94.567715,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514381,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l8zzXVMf3o0iUywrTiqPr_45.459355_-94.567715@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591684,
-    "wof:geomhash":"4dcb351d3695b0a70b71f2cde62d2177",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2291421749610a203d87b75426711f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514381,
+            "region_id":85688727,
+            "venue_id":789926641
+        }
+    ],
     "wof:id":789926641,
-    "wof:lastmodified":1472629631,
+    "wof:lastmodified":1492812682,
     "wof:name":"Richmond Rock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

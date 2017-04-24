@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.628961,47.38379,-94.628961,47.38379",
     "geom:latitude":47.38379,
     "geom:longitude":-94.628961,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511735,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FsdbCCnfKWtR3uuN90UH7_47.383790_-94.628961@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583749,
-    "wof:geomhash":"cdd8fccc28d2be8ffd526a01d80992a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d52fdbe29b09e12f198eef5bcaf30ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511735,
+            "region_id":85688727,
+            "venue_id":773180803
+        }
+    ],
     "wof:id":773180803,
-    "wof:lastmodified":1472629861,
+    "wof:lastmodified":1492800166,
     "wof:name":"Ken's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

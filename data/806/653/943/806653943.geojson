@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.404093,44.903439,-93.404093,44.903439",
     "geom:latitude":44.903439,
     "geom:longitude":-93.404093,
@@ -41,17 +42,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511887,
+        85633793,
+        85969165,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZMtr7RKDxxLeJB48iGajr_44.903439_-93.404093@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599940,
-    "wof:geomhash":"3b738e901477bde94ff27fe8bc416284",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a03ef194d915b33855d18c1bccec8cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511887,
+            "locality_id":85969165,
+            "region_id":85688727,
+            "venue_id":806653943
+        }
+    ],
     "wof:id":806653943,
-    "wof:lastmodified":1472629661,
+    "wof:lastmodified":1492818280,
     "wof:name":"Opportunity Partners Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

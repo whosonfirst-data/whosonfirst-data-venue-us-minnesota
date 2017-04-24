@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.623705,44.227005,-95.623705,44.227005",
     "geom:latitude":44.227005,
     "geom:longitude":-95.623705,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.tracy.k12.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J8diqcqKIxCqF2xhxhFZE_44.227005_-95.623705@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587594,
-    "wof:geomhash":"11bf33cabd5ed341552aab11792c35fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5d80506984795f667b6f016d5878dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":773687009
+        }
+    ],
     "wof:id":773687009,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492803689,
     "wof:name":"Tracy Grade School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

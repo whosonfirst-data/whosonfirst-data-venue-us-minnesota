@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.016355,48.781643,-96.016355,48.781643",
     "geom:latitude":48.781643,
     "geom:longitude":-96.016355,
@@ -25,17 +26,34 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510629,
+        85633793,
+        85953425,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B64mw1fmvbmOpH5fFlDno_48.781643_-96.016355@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603979,
-    "wof:geomhash":"1eaf420c9e874ce531f9bb8a33913c43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35535ad636f8be3864182e30b8de99f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404510629,
+            "locality_id":85953425,
+            "region_id":85688727,
+            "venue_id":807123233
+        }
+    ],
     "wof:id":807123233,
-    "wof:lastmodified":1472629232,
+    "wof:lastmodified":1492823127,
     "wof:name":"Cenex LP Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

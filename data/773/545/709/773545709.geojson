@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.015549,45.313933,-93.015549,45.313933",
     "geom:latitude":45.313933,
     "geom:longitude":-93.015549,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YQ7pLVUa17nJffMCJDU4h_45.313933_-93.015549@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586532,
-    "wof:geomhash":"00841d2856592a76f72f2e2c7cd458f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d9624ef35f9138f6d96e9ee1b3c2ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773545709
+        }
+    ],
     "wof:id":773545709,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492805101,
     "wof:name":"Thomas & Sander Exteriors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

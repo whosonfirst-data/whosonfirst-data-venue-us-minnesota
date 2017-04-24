@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.860471,45.974714,-94.860471,45.974714",
     "geom:latitude":45.974714,
     "geom:longitude":-94.860471,
@@ -38,17 +39,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514725,
+        85633793,
+        85968365,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B9DjDMCpFzMoh7E7DdZw7_45.974714_-94.860471@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599153,
-    "wof:geomhash":"12d860a1cf24008c29d676037ab69aee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fbb9c50641a22492cbe1e7a746403f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514725,
+            "locality_id":85968365,
+            "region_id":85688727,
+            "venue_id":806563375
+        }
+    ],
     "wof:id":806563375,
-    "wof:lastmodified":1472629449,
+    "wof:lastmodified":1492820141,
     "wof:name":"Senior Citizens Day Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

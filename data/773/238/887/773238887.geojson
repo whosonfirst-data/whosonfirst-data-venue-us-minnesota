@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.730386,45.9824,-93.730386,45.9824",
     "geom:latitude":45.9824,
     "geom:longitude":-93.730386,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512543,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DNMenEc0rBtXtxK8uIPGz_45.982400_-93.730386@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584208,
-    "wof:geomhash":"6747c2ffa832bff6732c3ef5206542e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9318be77a70e9c852dc0095ee3d3ec51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512543,
+            "region_id":85688727,
+            "venue_id":773238887
+        }
+    ],
     "wof:id":773238887,
-    "wof:lastmodified":1472629987,
+    "wof:lastmodified":1492806974,
     "wof:name":"Ray Nost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

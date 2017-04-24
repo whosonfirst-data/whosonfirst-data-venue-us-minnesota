@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.955867,44.601567,-95.955867,44.601567",
     "geom:latitude":44.601567,
     "geom:longitude":-95.955867,
@@ -33,17 +34,32 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509741,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C3PWii8t5OyRP6Lku6mSJ_44.601567_-95.955867@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592066,
-    "wof:geomhash":"c6952da7feaa7625b8ef909bdbeb6ea3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f919760f646d7233b1d4dfbb84b37a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404509741,
+            "region_id":85688727,
+            "venue_id":789967969
+        }
+    ],
     "wof:id":789967969,
-    "wof:lastmodified":1472629668,
+    "wof:lastmodified":1492811281,
     "wof:name":"Caseys Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

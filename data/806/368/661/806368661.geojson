@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.050896,44.9625,-94.050896,44.9625",
     "geom:latitude":44.9625,
     "geom:longitude":-94.050896,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lXNl6h6BwomWjK1pWMmGB_44.962500_-94.050896@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597589,
-    "wof:geomhash":"2452f95b06bf6953f207868f7b7b0bce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"818b4ff3a471d5982376c2866e1f9fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":806368661
+        }
+    ],
     "wof:id":806368661,
-    "wof:lastmodified":1472628975,
+    "wof:lastmodified":1492819248,
     "wof:name":"Albers Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

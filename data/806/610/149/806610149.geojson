@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.081712,43.670235,-92.081712,43.670235",
     "geom:latitude":43.670235,
     "geom:longitude":-92.081712,
@@ -31,17 +32,34 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YXmSPFlzRd79Bmxduh1k3_43.670235_-92.081712@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599566,
-    "wof:geomhash":"a3c687173b82230325a35b80d5ed787d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd3530fae4333d1af36f196b26a19827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":806610149
+        }
+    ],
     "wof:id":806610149,
-    "wof:lastmodified":1472629535,
+    "wof:lastmodified":1492820212,
     "wof:name":"Fillmore County Traffic Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

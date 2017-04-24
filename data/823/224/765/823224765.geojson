@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.579626,47.393944,-92.579626,47.393944",
     "geom:latitude":47.393944,
     "geom:longitude":-92.579626,
@@ -32,17 +33,26 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DFLA36rXeMRVyLSUI2rBT_47.393944_-92.579626@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608834,
-    "wof:geomhash":"55ebf717a36e8149b371ff2160776b4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eb287ad84c8888d41583813b71e415a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224765
+        }
+    ],
     "wof:id":823224765,
-    "wof:lastmodified":1472629104,
+    "wof:lastmodified":1492828768,
     "wof:name":"Dba Dale Gregorich Auto Sales",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

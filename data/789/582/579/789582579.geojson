@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.584044,45.445022,-93.584044,45.445022",
     "geom:latitude":45.445022,
     "geom:longitude":-93.584044,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513887,
+        85633793,
+        85968821,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53V4xVdi0GEp4EPBsMQPrK_45.445022_-93.584044@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588926,
-    "wof:geomhash":"72a1bd277b1e81b08628aee44207c8c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec28a96827dbd6b7ae0ffc939f65ebb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404513887,
+            "locality_id":85968821,
+            "region_id":85688727,
+            "venue_id":789582579
+        }
+    ],
     "wof:id":789582579,
-    "wof:lastmodified":1472628937,
+    "wof:lastmodified":1492812383,
     "wof:name":"Longhorn Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

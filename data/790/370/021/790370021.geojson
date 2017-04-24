@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.317494,44.000429,-96.317494,44.000429",
     "geom:latitude":44.000429,
     "geom:longitude":-96.317494,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N1F27vLFk0aHcQc41QbaY_44.000429_-96.317494@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595305,
-    "wof:geomhash":"ce4e0545bf946ca433b1944618a30fea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9d5f85ab4c7bc5b89d6c83c87342fe0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":790370021
+        }
+    ],
     "wof:id":790370021,
-    "wof:lastmodified":1472629580,
+    "wof:lastmodified":1492832114,
     "wof:name":"Rasmussen Family Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

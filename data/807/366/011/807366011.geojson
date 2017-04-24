@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.267703,44.976942,-93.267703,44.976942",
     "geom:latitude":44.976942,
     "geom:longitude":-93.267703,
@@ -30,14 +31,14 @@
     "sg:website":"www.eddingtons.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872705,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606738,
-    "wof:geomhash":"8366930a2a7cb95202ac0a06ae747c87",
+    "wof:geomhash":"616b651c1726959be2bf8d2a8f33e8bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,25 +54,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872705,
-            "region_id":85688727,
-            "venue_id":807366011
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":807366011
         }
     ],
     "wof:id":807366011,
-    "wof:lastmodified":1472629828,
+    "wof:lastmodified":1492825456,
     "wof:name":"Eddington's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

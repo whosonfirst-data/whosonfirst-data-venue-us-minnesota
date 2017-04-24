@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.737205,44.086805,-91.737205,44.086805",
     "geom:latitude":44.086805,
     "geom:longitude":-91.737205,
@@ -36,17 +37,32 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515085,
+        85633793,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EOI51pC5LFhro6wFPqDHO_44.086805_-91.737205@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600724,
-    "wof:geomhash":"639a048bfab7f5f72e35852b0f557ef9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd67ff2d7ff2b1bef73d627bc4c1c092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515085,
+            "region_id":85688727,
+            "venue_id":806745217
+        }
+    ],
     "wof:id":806745217,
-    "wof:lastmodified":1472629761,
+    "wof:lastmodified":1492820391,
     "wof:name":"Minnesota City Bus Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

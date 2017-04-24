@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.049269,43.911397,-95.049269,43.911397",
     "geom:latitude":43.911397,
     "geom:longitude":-95.049269,
@@ -32,17 +33,34 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511851,
+        85633793,
+        85952785,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TDPxa66Y82W6QjhXYzf4S_43.911397_-95.049269@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587574,
-    "wof:geomhash":"f007dca0fe59784d3e657ee4442ab40f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d945b31986564de3b6f45c1405bfb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511851,
+            "locality_id":85952785,
+            "region_id":85688727,
+            "venue_id":773684547
+        }
+    ],
     "wof:id":773684547,
-    "wof:lastmodified":1472630129,
+    "wof:lastmodified":1492803532,
     "wof:name":"Steve Borer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

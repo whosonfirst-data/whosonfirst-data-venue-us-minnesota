@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.938436,45.658567,-92.938436,45.658567",
     "geom:latitude":45.658567,
     "geom:longitude":-92.938436,
@@ -31,17 +32,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511025,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_784fcy6lqkifIyyDkA8ZUA_45.658567_-92.938436@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592070,
-    "wof:geomhash":"c01793c2476dad36ad4d5c303be90e4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d915d1b25e5bf92a4f795b0032eb5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511025,
+            "region_id":85688727,
+            "venue_id":789968449
+        }
+    ],
     "wof:id":789968449,
-    "wof:lastmodified":1472629673,
+    "wof:lastmodified":1492813747,
     "wof:name":"Maurice Mold",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

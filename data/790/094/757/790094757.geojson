@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.445245,45.110371,-93.445245,45.110371",
     "geom:latitude":45.110371,
     "geom:longitude":-93.445245,
@@ -32,17 +33,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OYKS4p2MdYQAeLuDVY6Du_45.110371_-93.445245@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593088,
-    "wof:geomhash":"6f4e334219fe23825d2234419832a0f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c775a945f968dfb4d4a9a812dd2bdb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":790094757
+        }
+    ],
     "wof:id":790094757,
-    "wof:lastmodified":1472629118,
+    "wof:lastmodified":1492831919,
     "wof:name":"White Wind Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

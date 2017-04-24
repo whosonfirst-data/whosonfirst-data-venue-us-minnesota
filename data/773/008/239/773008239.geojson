@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.197974,44.564202,-94.197974,44.564202",
     "geom:latitude":44.564202,
     "geom:longitude":-94.197974,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510479,
+        85633793,
+        85953311,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19RRMKbV72e00qdy3t04en_44.564202_-94.197974@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582278,
-    "wof:geomhash":"d956fd2c48a3845cc60066bb5f61da2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3118897057ed1f227a6b6f64a1ef21a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510479,
+            "locality_id":85953311,
+            "region_id":85688727,
+            "venue_id":773008239
+        }
+    ],
     "wof:id":773008239,
-    "wof:lastmodified":1472628974,
+    "wof:lastmodified":1492802891,
     "wof:name":"Pinske",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

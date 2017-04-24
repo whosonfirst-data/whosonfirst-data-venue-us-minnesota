@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.637344,44.041947,-91.637344,44.041947",
     "geom:latitude":44.041947,
     "geom:longitude":-91.637344,
@@ -31,17 +32,34 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d5RBcvT3eSZZhHgFMMqw0_44.041947_-91.637344@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590936,
-    "wof:geomhash":"7253dc82638bd56d6c5b7443c7012a93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13ab97eadc6d93d112a2d4044eb40079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":789838743
+        }
+    ],
     "wof:id":789838743,
-    "wof:lastmodified":1472629468,
+    "wof:lastmodified":1492812817,
     "wof:name":"Dry Cleaning Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

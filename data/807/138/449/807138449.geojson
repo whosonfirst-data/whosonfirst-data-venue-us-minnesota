@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.531944,44.022169,-92.531944,44.022169",
     "geom:latitude":44.022169,
     "geom:longitude":-92.531944,
@@ -33,17 +34,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aW6oopS8qUSJZcPQXHb35_44.022015_-92.531875@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604145,
-    "wof:geomhash":"20340f3d228b24837e76230cf693c87c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fb139a01076894cd2d017e29c1a0f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":807138449
+        }
+    ],
     "wof:id":807138449,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492823876,
     "wof:name":"Landmark Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

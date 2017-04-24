@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.593727,44.904473,-93.593727,44.904473",
     "geom:latitude":44.904473,
     "geom:longitude":-93.593727,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f4UTAKk7hEJQ4yEyvinHd_44.904473_-93.593727@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594712,
-    "wof:geomhash":"37055d6019e0985ffd44ba1a1ff42756",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3573df023d17109094849f37b46004e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":790292645
+        }
+    ],
     "wof:id":790292645,
-    "wof:lastmodified":1472629467,
+    "wof:lastmodified":1492833327,
     "wof:name":"SOS Gutters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

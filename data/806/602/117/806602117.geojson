@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360928,44.807985,-93.360928,44.807985",
     "geom:latitude":44.807985,
     "geom:longitude":-93.360928,
@@ -31,17 +32,34 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mUisqfMdiFdlFB5z2gF85_44.807985_-93.360928@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599507,
-    "wof:geomhash":"bf29812e9d81e2ad0fe437959bc22ac4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5fa5121ad1a387f46ef20a825863464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806602117
+        }
+    ],
     "wof:id":806602117,
-    "wof:lastmodified":1472629522,
+    "wof:lastmodified":1492822033,
     "wof:name":"D-3 Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

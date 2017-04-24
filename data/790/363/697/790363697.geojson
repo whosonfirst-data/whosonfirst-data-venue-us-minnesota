@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.193682,44.930846,-93.193682,44.930846",
     "geom:latitude":44.930846,
     "geom:longitude":-93.193682,
@@ -31,19 +32,38 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85873301,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EkzyZ1XVxET782VYUkNCr_44.930846_-93.193682@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595255,
-    "wof:geomhash":"bbc2507fc2b7d01685e6872d5e0c0739",
-    "wof:hierarchy":[],
+    "wof:geomhash":"091cadcca4eaca63c6c9318df5948786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":85873301,
+            "region_id":85688727,
+            "venue_id":790363697
+        }
+    ],
     "wof:id":790363697,
-    "wof:lastmodified":1472629572,
+    "wof:lastmodified":1492833555,
     "wof:name":"Judd Cycles & Engineering",
-    "wof:parent_id":-1,
+    "wof:parent_id":85873301,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

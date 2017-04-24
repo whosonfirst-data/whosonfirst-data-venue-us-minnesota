@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.190006,45.081657,-94.190006,45.081657",
     "geom:latitude":45.081657,
     "geom:longitude":-94.190006,
@@ -31,17 +32,34 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515193,
+        85633793,
+        85968917,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JyqsKLzOA6H3nAAMTJA9x_45.081657_-94.190006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589517,
-    "wof:geomhash":"0f599972cb79f3a3cd636fb34bb0c703",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19e7c0698e84685c93988ff3ad3881f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515193,
+            "locality_id":85968917,
+            "region_id":85688727,
+            "venue_id":789658229
+        }
+    ],
     "wof:id":789658229,
-    "wof:lastmodified":1472629112,
+    "wof:lastmodified":1492810841,
     "wof:name":"Z B Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

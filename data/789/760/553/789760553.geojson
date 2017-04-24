@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.036486,47.945901,-97.036486,47.945901",
     "geom:latitude":47.945901,
     "geom:longitude":-97.036486,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513699,
+        85633793,
+        85968415,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MZEGTPcQoQoexfjUAHNYP_47.945901_-97.036486@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590333,
-    "wof:geomhash":"fed424822a8f051c270a62f7763fa41e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbcd643a9f72912e43ae95da20da641d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513699,
+            "locality_id":85968415,
+            "region_id":85688727,
+            "venue_id":789760553
+        }
+    ],
     "wof:id":789760553,
-    "wof:lastmodified":1472629334,
+    "wof:lastmodified":1492810654,
     "wof:name":"Beverly Casmey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

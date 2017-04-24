@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.404958,45.593745,-94.404958,45.593745",
     "geom:latitude":45.593745,
     "geom:longitude":-94.404958,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jizf1j8s7er3M0kppUKwJ_45.593745_-94.404958@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603855,
-    "wof:geomhash":"68184acba67dcc18eccd21f26b222aef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07ea5665146c830bef0544e7812a198e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "region_id":85688727,
+            "venue_id":807111753
+        }
+    ],
     "wof:id":807111753,
-    "wof:lastmodified":1472629216,
+    "wof:lastmodified":1492827468,
     "wof:name":"Mike Philippi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

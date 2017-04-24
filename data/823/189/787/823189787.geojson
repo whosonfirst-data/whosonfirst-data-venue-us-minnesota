@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.380413,45.047695,-93.380413,45.047695",
     "geom:latitude":45.047695,
     "geom:longitude":-93.380413,
@@ -31,17 +32,34 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lSEf8jEyN9lMiZWAkskBg_45.047695_-93.380413@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608188,
-    "wof:geomhash":"84b440649ca1c80bad5673212f1abb25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12670c281b6d1024b0b39a924294adbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":823189787
+        }
+    ],
     "wof:id":823189787,
-    "wof:lastmodified":1472629051,
+    "wof:lastmodified":1492830142,
     "wof:name":"Paddock Labs Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

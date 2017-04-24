@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.22106,45.637854,-94.22106,45.637854",
     "geom:latitude":45.637854,
     "geom:longitude":-94.22106,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514503,
+        85633793,
+        85952441,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ySsCt15S4e3PY7EnPs2Dk_45.637854_-94.221060@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597813,
-    "wof:geomhash":"bf7bb9b29c042aa861118b504b6e15e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d16a4a19075e14576408796aff0ca3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514503,
+            "locality_id":85952441,
+            "region_id":85688727,
+            "venue_id":806397553
+        }
+    ],
     "wof:id":806397553,
-    "wof:lastmodified":1472629038,
+    "wof:lastmodified":1492819414,
     "wof:name":"Doug Hansen Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

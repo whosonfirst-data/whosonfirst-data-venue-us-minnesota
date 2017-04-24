@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.449609,44.303488,-94.449609,44.303488",
     "geom:latitude":44.303488,
     "geom:longitude":-94.449609,
@@ -32,17 +33,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55SnVZtvgNxRaUwPE2NVVf_44.303488_-94.449609@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595211,
-    "wof:geomhash":"14fc388716422033574fb09fc4408b43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49dd209eb29eef6ed6867d3af9c2ef89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":790358295
+        }
+    ],
     "wof:id":790358295,
-    "wof:lastmodified":1472629549,
+    "wof:lastmodified":1492834774,
     "wof:name":"Werner Info Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

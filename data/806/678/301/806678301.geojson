@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218327,43.443104,-93.218327,43.443104",
     "geom:latitude":43.443104,
     "geom:longitude":-93.218327,
@@ -34,17 +35,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jlIoGBY2xuPGUcy92rNXC_43.443104_-93.218327@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600158,
-    "wof:geomhash":"844a11b6fc9f92bde925586b2956a45a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a45061f7018c5044475a750d68efa381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":806678301
+        }
+    ],
     "wof:id":806678301,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492817612,
     "wof:name":"Comfort Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

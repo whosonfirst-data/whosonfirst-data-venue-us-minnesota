@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.550628,45.202177,-93.550628,45.202177",
     "geom:latitude":45.202177,
     "geom:longitude":-93.550628,
@@ -54,17 +55,34 @@
     ],
     "sg:website":"http://www.att.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d4JvmpyqYDq3Y9mi6fQgJ_45.202177_-93.550628@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606343,
-    "wof:geomhash":"bd220f6661f62f0ab382b07298c7f968",
-    "wof:hierarchy":[],
+    "wof:geomhash":"267bdf400580aba4d733d18804a8daf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":807339743
+        }
+    ],
     "wof:id":807339743,
-    "wof:lastmodified":1472629746,
+    "wof:lastmodified":1492825240,
     "wof:name":"AT&T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

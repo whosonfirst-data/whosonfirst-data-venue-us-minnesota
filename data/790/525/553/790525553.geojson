@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.367757,44.889605,-94.367757,44.889605",
     "geom:latitude":44.889605,
     "geom:longitude":-94.367757,
@@ -34,17 +35,34 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tZS1AcHqednCbbZjHIQ37_44.889605_-94.367757@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596587,
-    "wof:geomhash":"5650ba9c1b974b7971e3c902d288eb6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbb2fa0dbd89a811df10c3e0d2913ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":790525553
+        }
+    ],
     "wof:id":790525553,
-    "wof:lastmodified":1472629806,
+    "wof:lastmodified":1492833015,
     "wof:name":"Minne-Sew-Ta Vac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

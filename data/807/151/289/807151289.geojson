@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.873341,44.080105,-93.873341,44.080105",
     "geom:latitude":44.080105,
     "geom:longitude":-93.873341,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511545,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40df2t5fRxOQlit7fGCzjF_44.080105_-93.873341@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604285,
-    "wof:geomhash":"7ac5aeebbf32b2fbef6236162756e71f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10b5912f007e911ef4697befb8f60dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511545,
+            "region_id":85688727,
+            "venue_id":807151289
+        }
+    ],
     "wof:id":807151289,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1492823400,
     "wof:name":"Jeff Seys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

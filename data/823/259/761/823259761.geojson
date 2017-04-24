@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.618093,47.771064,-96.618093,47.771064",
     "geom:latitude":47.771064,
     "geom:longitude":-96.618093,
@@ -37,17 +38,26 @@
         "embalmer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Pvp0AFvWlnhS7YZuDKAyX_47.771064_-96.618093@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609548,
-    "wof:geomhash":"c70b6a6706ba118de6189a1694bbd607",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec1aed2e853378753affc75aac20d0f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":823259761
+        }
+    ],
     "wof:id":823259761,
-    "wof:lastmodified":1472629225,
+    "wof:lastmodified":1492829187,
     "wof:name":"Stenshoel-Houske",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

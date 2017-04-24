@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.653011,45.754459,-93.653011,45.754459",
     "geom:latitude":45.754459,
     "geom:longitude":-93.653011,
@@ -28,17 +29,34 @@
     "sg:postcode":"56353",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512557,
+        85633793,
+        85969101,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cUq3t7poM4qzCcDKzDVGk_45.754459_-93.653011@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584972,
-    "wof:geomhash":"ccf536669fb66dd6766f6a53c638c5cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86ab9b90416e71294dcaeb53da56626e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512557,
+            "locality_id":85969101,
+            "region_id":85688727,
+            "venue_id":773338507
+        }
+    ],
     "wof:id":773338507,
-    "wof:lastmodified":1472630016,
+    "wof:lastmodified":1492802314,
     "wof:name":"Doctors Bye & Molacek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

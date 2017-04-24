@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.99036,44.55795,-95.99036,44.55795",
     "geom:latitude":44.55795,
     "geom:longitude":-95.99036,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512663,
+        85633793,
+        85968533,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oIIqKuUTkZ77nWZN7bh4X_44.557950_-95.990360@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603708,
-    "wof:geomhash":"6736a6bab18f1332260a1792a9bd02bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8539b9de509931b968896911d9c4eb08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512663,
+            "locality_id":85968533,
+            "region_id":85688727,
+            "venue_id":807098813
+        }
+    ],
     "wof:id":807098813,
-    "wof:lastmodified":1472629210,
+    "wof:lastmodified":1492827295,
     "wof:name":"Emil Goossens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

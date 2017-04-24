@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.263041,45.926791,-94.263041,45.926791",
     "geom:latitude":45.926791,
     "geom:longitude":-94.263041,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512851,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44Ij6IpiuH7kMsJwSnyrJE_45.926791_-94.263041@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594614,
-    "wof:geomhash":"8fd96a660d9b18c622966a3616fc1e6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56514ba61a51b407084e09bcc3a18a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512851,
+            "region_id":85688727,
+            "venue_id":790280681
+        }
+    ],
     "wof:id":790280681,
-    "wof:lastmodified":1472629459,
+    "wof:lastmodified":1492834222,
     "wof:name":"Ddt Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

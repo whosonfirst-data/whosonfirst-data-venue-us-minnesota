@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.475413,43.99217,-92.475413,43.99217",
     "geom:latitude":43.99217,
     "geom:longitude":-92.475413,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vc73ds1UqW2lbPTJNElMR_43.992170_-92.475413@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584802,
-    "wof:geomhash":"5c4b135efba89157f0cf0168074fb85b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3abbc8da011ba5224b47af8a9bb08255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773314441
+        }
+    ],
     "wof:id":773314441,
-    "wof:lastmodified":1472630004,
+    "wof:lastmodified":1492799399,
     "wof:name":"Advanced Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

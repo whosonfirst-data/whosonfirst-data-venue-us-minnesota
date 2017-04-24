@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.952647,44.166909,-93.952647,44.166909",
     "geom:latitude":44.166909,
     "geom:longitude":-93.952647,
@@ -37,17 +38,34 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zcCbnHwCt2t6lVTeKaVrP_44.166909_-93.952647@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609081,
-    "wof:geomhash":"483e46bb3ab7af61379350f94aa48fd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2f5fa9326ca6ad5586c9876063f396f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":823236793
+        }
+    ],
     "wof:id":823236793,
-    "wof:lastmodified":1472629163,
+    "wof:lastmodified":1492829794,
     "wof:name":"Dunn Brothers Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

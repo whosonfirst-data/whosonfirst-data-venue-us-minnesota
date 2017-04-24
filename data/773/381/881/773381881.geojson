@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.043216,44.884729,-94.043216,44.884729",
     "geom:latitude":44.884729,
     "geom:longitude":-94.043216,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509749,
+        85633793,
+        85952559,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WE7tmEO1da1AoWv1R1mCI_44.884729_-94.043216@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585265,
-    "wof:geomhash":"7fc4db875b7ebd98ba4e09af861c91b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2d649416d5663faaf0ada4391aed1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509749,
+            "locality_id":85952559,
+            "region_id":85688727,
+            "venue_id":773381881
+        }
+    ],
     "wof:id":773381881,
-    "wof:lastmodified":1472630035,
+    "wof:lastmodified":1492808466,
     "wof:name":"Lester Prairie Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

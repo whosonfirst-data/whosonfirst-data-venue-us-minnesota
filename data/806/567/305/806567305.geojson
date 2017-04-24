@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.147574,44.769959,-94.147574,44.769959",
     "geom:latitude":44.769959,
     "geom:longitude":-94.147574,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70ZGDNMH0b3y4BQWHBtuC5_44.769959_-94.147574@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599185,
-    "wof:geomhash":"923bb3ce8a1e4e1ca256cf51998f738d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"053ac311885fb2613197850f94f05b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":806567305
+        }
+    ],
     "wof:id":806567305,
-    "wof:lastmodified":1472629451,
+    "wof:lastmodified":1492821109,
     "wof:name":"St Pius X Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

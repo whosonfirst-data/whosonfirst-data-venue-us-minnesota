@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247249,45.00933,-93.247249,45.00933",
     "geom:latitude":45.00933,
     "geom:longitude":-93.247249,
@@ -29,14 +30,14 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872687,
+        420781085,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420558761
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582298,
-    "wof:geomhash":"fbdb298a3b78c5ed4542e9b3ce796228",
+    "wof:geomhash":"77da75da9fea6f8041aa781e2de7b86b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +53,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872687,
-            "region_id":85688727,
-            "venue_id":773009483
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420558761,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781085,
             "region_id":85688727,
             "venue_id":773009483
         }
     ],
     "wof:id":773009483,
-    "wof:lastmodified":1472628987,
+    "wof:lastmodified":1492802299,
     "wof:name":"Pete Rojas Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

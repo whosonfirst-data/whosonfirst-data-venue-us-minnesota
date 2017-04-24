@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.31359,45.060969,-93.31359,45.060969",
     "geom:latitude":45.060969,
     "geom:longitude":-93.31359,
@@ -31,17 +32,34 @@
         "claim"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZLh8W3g2bVRvXXdBXNz3z_45.060969_-93.313590@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582554,
-    "wof:geomhash":"dc658e908fb8c2a7448c5318c2482f49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"053111b7f087561f7750e271dd7a9c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":773028535
+        }
+    ],
     "wof:id":773028535,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492802088,
     "wof:name":"State Farm Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

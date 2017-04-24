@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.560308,44.892409,-93.560308,44.892409",
     "geom:latitude":44.892409,
     "geom:longitude":-93.560308,
@@ -28,17 +29,34 @@
     "sg:postcode":"55331",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sKLHU5s7H2J7XeF78gQbt_44.892409_-93.560308@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589066,
-    "wof:geomhash":"8d2874942dc8ce5521588c9a2ef259ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41b3d9defbb25c3467da722dd9ec6c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":789599755
+        }
+    ],
     "wof:id":789599755,
-    "wof:lastmodified":1472628972,
+    "wof:lastmodified":1492809804,
     "wof:name":"Business Prescriptions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

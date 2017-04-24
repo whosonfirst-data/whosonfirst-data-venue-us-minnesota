@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.537285,47.467911,-92.537285,47.467911",
     "geom:latitude":47.467911,
     "geom:longitude":-92.537285,
@@ -34,17 +35,26 @@
         "mentally"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TLxlJlKbnAz5NJd3kBTIn_47.467911_-92.537285@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599829,
-    "wof:geomhash":"eb2ac86274e28e20806c16d3efb1c0e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"365e2e259b19ac6afc7f988c322abd89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806641817
+        }
+    ],
     "wof:id":806641817,
-    "wof:lastmodified":1472629588,
+    "wof:lastmodified":1492818141,
     "wof:name":"Erdac",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.903926,44.804392,-93.903926,44.804392",
     "geom:latitude":44.804392,
     "geom:longitude":-93.903926,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511613,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3btPfe2MwN28QI1RCcMKIf_44.804392_-93.903926@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584370,
-    "wof:geomhash":"4317e004f286e221fa28c9648ab1769c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f30ca2e4629a184cf491adc5496be585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511613,
+            "region_id":85688727,
+            "venue_id":773261049
+        }
+    ],
     "wof:id":773261049,
-    "wof:lastmodified":1472629989,
+    "wof:lastmodified":1492804103,
     "wof:name":"Fine Line Tile Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.269043,45.71394,-95.269043,45.71394",
     "geom:latitude":45.71394,
     "geom:longitude":-95.269043,
@@ -37,17 +38,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514345,
+        85633793,
+        85968589,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3buWEbK7H0ZLb3RPTB4gZp_45.713940_-95.269043@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609370,
-    "wof:geomhash":"1c501d77035be90fa497ac83cb510307",
-    "wof:hierarchy":[],
+    "wof:geomhash":"513d9703a81cfd7de708286e2d7652ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514345,
+            "locality_id":85968589,
+            "region_id":85688727,
+            "venue_id":823251637
+        }
+    ],
     "wof:id":823251637,
-    "wof:lastmodified":1472629214,
+    "wof:lastmodified":1492828253,
     "wof:name":"Vallard Cenex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.211911,45.019165,-93.211911,45.019165",
     "geom:latitude":45.019165,
     "geom:longitude":-93.211911,
@@ -33,17 +34,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509463,
+        85633793,
+        85953217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XVdez15w9H5k1qGSSb6is_45.019165_-93.211911@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592269,
-    "wof:geomhash":"550e59ae7750d948232315d3d939ce0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8246fedaedb2a99c5c9bf596036bd54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509463,
+            "locality_id":85953217,
+            "region_id":85688727,
+            "venue_id":789992511
+        }
+    ],
     "wof:id":789992511,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492813574,
     "wof:name":"Building Fasteners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

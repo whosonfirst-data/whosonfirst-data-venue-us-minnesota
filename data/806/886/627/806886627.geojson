@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.340117,45.020508,-93.340117,45.020508",
     "geom:latitude":45.020508,
     "geom:longitude":-93.340117,
@@ -28,17 +29,45 @@
     "sg:postcode":"55422",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511901,
+        85633793,
+        85969129,
+        102087709,
+        404511837,
+        85969217
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0chH3WLdsCUDMehsvyRRTj_45.020508_-93.340117@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601904,
-    "wof:geomhash":"d4d6b4b5a4354cb0bd76a86890ddc067",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35c6f02e7e53cac9ddd47169ae631cad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511901,
+            "locality_id":85969129,
+            "region_id":85688727,
+            "venue_id":806886627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":806886627
+        }
+    ],
     "wof:id":806886627,
-    "wof:lastmodified":1472629921,
+    "wof:lastmodified":1492820548,
     "wof:name":"Petcentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

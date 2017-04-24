@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.557193,47.153772,-92.557193,47.153772",
     "geom:latitude":47.153772,
     "geom:longitude":-92.557193,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SfEYOdcwGouihnh67BqdH_47.153772_-92.557193@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608821,
-    "wof:geomhash":"d54d729906a48f20c746db5ae6124c5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"518b07d860300d8c69d2f6025ce718d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224133
+        }
+    ],
     "wof:id":823224133,
-    "wof:lastmodified":1472629079,
+    "wof:lastmodified":1492828767,
     "wof:name":"Millers Siding And Windows Nor",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

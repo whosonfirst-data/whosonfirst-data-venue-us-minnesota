@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.716952,44.959419,-95.716952,44.959419",
     "geom:latitude":44.959419,
     "geom:longitude":-95.716952,
@@ -32,17 +33,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Fx4aGwgRCgHwlIZoTwPs9_44.959419_-95.716952@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591024,
-    "wof:geomhash":"0499afae7680a50fdbebc02c8c50a47e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd8f97f8d8fb52fba4652a10a4d8b200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":789849665
+        }
+    ],
     "wof:id":789849665,
-    "wof:lastmodified":1472629493,
+    "wof:lastmodified":1492813516,
     "wof:name":"Paintin Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

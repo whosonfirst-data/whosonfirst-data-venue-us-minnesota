@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.40492,45.117113,-93.40492,45.117113",
     "geom:latitude":45.117113,
     "geom:longitude":-93.40492,
@@ -31,17 +32,34 @@
         "scooter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509459,
+        85633793,
+        85969141,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AF91A4EPyBzMlZ6gyMieD_45.117113_-93.404920@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599942,
-    "wof:geomhash":"6c79a30968d67a561aa3fdb4f361fb15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a36c388faf6987d92317fc49ef076c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509459,
+            "locality_id":85969141,
+            "region_id":85688727,
+            "venue_id":806654119
+        }
+    ],
     "wof:id":806654119,
-    "wof:lastmodified":1472629635,
+    "wof:lastmodified":1492820524,
     "wof:name":"Blackwater Choppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

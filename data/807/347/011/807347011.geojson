@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.826508,44.955238,-93.826508,44.955238",
     "geom:latitude":44.955238,
     "geom:longitude":-93.826508,
@@ -33,17 +34,34 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GmHff0hCHHHre3sh2G5AT_44.955238_-93.826508@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606458,
-    "wof:geomhash":"f3837c7650bb1c04b6442e63f51907af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bf36519b46482ccfd8a51136db0ac04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":807347011
+        }
+    ],
     "wof:id":807347011,
-    "wof:lastmodified":1472629753,
+    "wof:lastmodified":1492826752,
     "wof:name":"Julery By Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

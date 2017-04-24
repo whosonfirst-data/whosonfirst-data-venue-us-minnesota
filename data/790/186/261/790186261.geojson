@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.924461,45.705393,-94.924461,45.705393",
     "geom:latitude":45.705393,
     "geom:longitude":-94.924461,
@@ -31,17 +32,32 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512157,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5btOYwSMDWHXgddm1UiuI0_45.705393_-94.924461@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593825,
-    "wof:geomhash":"13933741ee1480e6a82a87e411e6bdac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3d7f159117652fd635c8087eb43b166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512157,
+            "region_id":85688727,
+            "venue_id":790186261
+        }
+    ],
     "wof:id":790186261,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492836394,
     "wof:name":"Beam Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

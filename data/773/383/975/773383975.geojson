@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.636232,47.306016,-92.636232,47.306016",
     "geom:latitude":47.306016,
     "geom:longitude":-92.636232,
@@ -31,17 +32,26 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H8OWhj33YBsU8rrKG6IX5_47.306016_-92.636232@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585279,
-    "wof:geomhash":"6b66adc28706c8132e90a7e3a18b32b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c5edea3bacada7b3ffccd10562aab95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773383975
+        }
+    ],
     "wof:id":773383975,
-    "wof:lastmodified":1472630037,
+    "wof:lastmodified":1492803575,
     "wof:name":"Mcdavitt Town Hall Office",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

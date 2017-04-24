@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.033961,45.423309,-95.033961,45.423309",
     "geom:latitude":45.423309,
     "geom:longitude":-95.033961,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510497,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oLL3bEGPDHO8drUksvxPK_45.423309_-95.033961@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604390,
-    "wof:geomhash":"e1b83743a69878caf838422e54b1dde6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b07282fd38a95dd5d6c095e89cb38e8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510497,
+            "region_id":85688727,
+            "venue_id":807161153
+        }
+    ],
     "wof:id":807161153,
-    "wof:lastmodified":1472629290,
+    "wof:lastmodified":1492824806,
     "wof:name":"Adrian Bros",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

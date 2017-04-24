@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.187698,45.045601,-93.187698,45.045601",
     "geom:latitude":45.045601,
     "geom:longitude":-93.187698,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BsUaCfXft9XYw6HFjgkmv_45.045601_-93.187698@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605471,
-    "wof:geomhash":"c331e033d6e1f4dc2188052b3ee0bdd0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a25249a681f3979a2835b227d0e7e997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":807263949
+        }
+    ],
     "wof:id":807263949,
-    "wof:lastmodified":1472629583,
+    "wof:lastmodified":1492825365,
     "wof:name":"Arden Court Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

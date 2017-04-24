@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.67362,44.601718,-95.67362,44.601718",
     "geom:latitude":44.601718,
     "geom:longitude":-95.67362,
@@ -31,17 +32,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512531,
+        85633793,
+        85968555,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O7gUbcA9RrcuPmuXJFG0E_44.601718_-95.673620@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609250,
-    "wof:geomhash":"191169aa6d62518ced4868e5ac48cddf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc5dabe05041c097540098403a125f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512531,
+            "locality_id":85968555,
+            "region_id":85688727,
+            "venue_id":823245437
+        }
+    ],
     "wof:id":823245437,
-    "wof:lastmodified":1472629157,
+    "wof:lastmodified":1492829448,
     "wof:name":"Computer Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

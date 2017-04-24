@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.00904,47.909537,-97.00904,47.909537",
     "geom:latitude":47.909537,
     "geom:longitude":-97.00904,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513699,
+        85633793,
+        85968415,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BZ6uHrFah53O5n5A8xbqi_47.909537_-97.009040@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590841,
-    "wof:geomhash":"3b3e16ad993b49a876a5e3ae88e443d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0795f0f5aaf11aebca4f8be1231f5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513699,
+            "locality_id":85968415,
+            "region_id":85688727,
+            "venue_id":789826303
+        }
+    ],
     "wof:id":789826303,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492812491,
     "wof:name":"TLC Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.659418,45.210173,-93.659418,45.210173",
     "geom:latitude":45.210173,
     "geom:longitude":-93.659418,
@@ -31,17 +32,34 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sdXoQJAW1aIcUW041buUN_45.210173_-93.659418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586629,
-    "wof:geomhash":"d2f0e97e5dbc63649bcb960a16e1e834",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34e039fafc75838948e40d47cf6f6506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":773557357
+        }
+    ],
     "wof:id":773557357,
-    "wof:lastmodified":1472630090,
+    "wof:lastmodified":1492806403,
     "wof:name":"Metro Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

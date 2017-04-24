@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.338469,45.06862,-93.338469,45.06862",
     "geom:latitude":45.06862,
     "geom:longitude":-93.338469,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"http://www.americanpoolplayersassociation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rKoXfoO2a0AlcsNglnxlr_45.068820_-93.338549@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603897,
-    "wof:geomhash":"730aa227cb392da50606dad0362591aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecee4710f7b34edba9237b71269ae524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":807115799
+        }
+    ],
     "wof:id":807115799,
-    "wof:lastmodified":1472629234,
+    "wof:lastmodified":1492823356,
     "wof:name":"American Pool Players Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

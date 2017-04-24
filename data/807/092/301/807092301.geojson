@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.815315,44.197954,-95.815315,44.197954",
     "geom:latitude":44.197954,
     "geom:longitude":-95.815315,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512535,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A5D9FTAx9D9tZdDzy3qoS_44.197954_-95.815315@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603638,
-    "wof:geomhash":"d426b23245a690cf3139bcfcd902f28a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d18bde08832309ad907126b8434be44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512535,
+            "region_id":85688727,
+            "venue_id":807092301
+        }
+    ],
     "wof:id":807092301,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492823266,
     "wof:name":"Dennis Mitchell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.259019,47.260342,-96.259019,47.260342",
     "geom:latitude":47.260342,
     "geom:longitude":-96.259019,
@@ -31,17 +32,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512423,
+        85633793,
+        85968325,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T56GeD52vkcVFZtG8yDRQ_47.260342_-96.259019@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585018,
-    "wof:geomhash":"1458bdb060be9b9640a70d4f318c1aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07841283a7cdde9e6e8c9b02d5426e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512423,
+            "locality_id":85968325,
+            "region_id":85688727,
+            "venue_id":773346039
+        }
+    ],
     "wof:id":773346039,
-    "wof:lastmodified":1472630021,
+    "wof:lastmodified":1492805911,
     "wof:name":"Kegler Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

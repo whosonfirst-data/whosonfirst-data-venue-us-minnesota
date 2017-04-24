@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.348959,44.528615,-93.348959,44.528615",
     "geom:latitude":44.528615,
     "geom:longitude":-93.348959,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510605,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p4XW4WijPYRboVFdMHua3_44.528615_-93.348959@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599388,
-    "wof:geomhash":"1ee77fed80e257dbb999edd2b841c4d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eed8374a7225367c106422ad44d5057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404510605,
+            "region_id":85688727,
+            "venue_id":806588643
+        }
+    ],
     "wof:id":806588643,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492820578,
     "wof:name":"Do-X Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

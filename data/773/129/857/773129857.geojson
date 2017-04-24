@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.503896,47.43303,-92.503896,47.43303",
     "geom:latitude":47.43303,
     "geom:longitude":-92.503896,
@@ -31,17 +32,26 @@
         "piano"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cMIy8mhaMAyzrJU06Q1NC_47.433030_-92.503896@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583358,
-    "wof:geomhash":"ca57d1528159a406fd673b543859d816",
-    "wof:hierarchy":[],
+    "wof:geomhash":"730cf6c2404dbef7a8cdd3c47ced170e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773129857
+        }
+    ],
     "wof:id":773129857,
-    "wof:lastmodified":1472629665,
+    "wof:lastmodified":1492805895,
     "wof:name":"Piano Man",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

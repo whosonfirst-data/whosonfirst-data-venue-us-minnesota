@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.158592,44.451744,-93.158592,44.451744",
     "geom:latitude":44.451744,
     "geom:longitude":-93.158592,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iHGYLcVxkqhpZL1i4QIbB_44.451744_-93.158592@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591202,
-    "wof:geomhash":"50ae720039bfbb49d79a608a43869236",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1d1b92d6ba3714ce7ed0a271c8eab7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":789871863
+        }
+    ],
     "wof:id":789871863,
-    "wof:lastmodified":1472629536,
+    "wof:lastmodified":1492810934,
     "wof:name":"Northfield City Adm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

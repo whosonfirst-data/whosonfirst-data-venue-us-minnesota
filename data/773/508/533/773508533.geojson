@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.965707,45.118981,-92.965707,45.118981",
     "geom:latitude":45.118981,
     "geom:longitude":-92.965707,
@@ -32,19 +33,38 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525067,
+        102191575,
+        404510947,
+        85633793,
+        85968255,
+        102087659,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dLp0yPdO5b5PVQPOD6mi3_45.118981_-92.965707@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586262,
-    "wof:geomhash":"9da70d787c688e9509a6185b032d3f07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ce387a2100f3bbf1ac7cc1727a701b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404510947,
+            "locality_id":85968255,
+            "neighbourhood_id":420525067,
+            "region_id":85688727,
+            "venue_id":773508533
+        }
+    ],
     "wof:id":773508533,
-    "wof:lastmodified":1472630075,
+    "wof:lastmodified":1492803512,
     "wof:name":"Gene's Disposal Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420525067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

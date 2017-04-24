@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.016756,44.31174,-94.016756,44.31174",
     "geom:latitude":44.31174,
     "geom:longitude":-94.016756,
@@ -33,17 +34,32 @@
         "sitting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513475,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dJPBsYyQndDcSxIPeHWs6_44.311740_-94.016756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596764,
-    "wof:geomhash":"5a2832e3c358024fd3cb96d9d3415ad2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f7a383386117a78df1f012c35dcdb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513475,
+            "region_id":85688727,
+            "venue_id":790547729
+        }
+    ],
     "wof:id":790547729,
-    "wof:lastmodified":1472629818,
+    "wof:lastmodified":1492831303,
     "wof:name":"Nelson Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

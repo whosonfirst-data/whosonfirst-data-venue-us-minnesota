@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.603545,43.604206,-95.603545,43.604206",
     "geom:latitude":43.604206,
     "geom:longitude":-95.603545,
@@ -31,17 +32,32 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512271,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wwc5nGB3Vd4hw5TkXiW46_43.604206_-95.603545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582928,
-    "wof:geomhash":"669e3ea640b58280f627bd57aa329758",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48c8c41bd73d72ce7e5ba429f7e07c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512271,
+            "region_id":85688727,
+            "venue_id":773069021
+        }
+    ],
     "wof:id":773069021,
-    "wof:lastmodified":1472629457,
+    "wof:lastmodified":1492804173,
     "wof:name":"Worthington Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

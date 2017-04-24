@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.332367,47.44408,-92.332367,47.44408",
     "geom:latitude":47.44408,
     "geom:longitude":-92.332367,
@@ -33,17 +34,26 @@
         "telephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bvi05Am3y29466nIuSrOs_47.444080_-92.332367@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602514,
-    "wof:geomhash":"d8ee04fe45ddba6d94df6eca8f7695cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7c3422f32d370651a9dc2ca3f67feea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806958539
+        }
+    ],
     "wof:id":806958539,
-    "wof:lastmodified":1472629958,
+    "wof:lastmodified":1492819556,
     "wof:name":"Fire N Ice Hosting",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

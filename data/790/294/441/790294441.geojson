@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.845058,46.822278,-95.845058,46.822278",
     "geom:latitude":46.822278,
     "geom:longitude":-95.845058,
@@ -31,17 +32,34 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0szLVu2ttS1flkJJwnnBPe_46.822278_-95.845058@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594726,
-    "wof:geomhash":"34e26cd5aca23c25daf1c788327748db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"817a72b1fc7e045245aa83a6202154dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":790294441
+        }
+    ],
     "wof:id":790294441,
-    "wof:lastmodified":1472629471,
+    "wof:lastmodified":1492837686,
     "wof:name":"Valesco Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

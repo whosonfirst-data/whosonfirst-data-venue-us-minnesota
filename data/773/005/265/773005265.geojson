@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.417539,45.142571,-93.417539,45.142571",
     "geom:latitude":45.142571,
     "geom:longitude":-93.417539,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vgTa18mn8wTmludP2HpWf_45.142571_-93.417539@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582226,
-    "wof:geomhash":"11298996e275da1235c8d3901371572b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"965a9f78a4199868b04a333ff1b0ccfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773005265
+        }
+    ],
     "wof:id":773005265,
-    "wof:lastmodified":1472628962,
+    "wof:lastmodified":1492802394,
     "wof:name":"Superior Tile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

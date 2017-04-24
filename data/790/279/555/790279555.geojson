@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.412861,48.597495,-93.412861,48.597495",
     "geom:latitude":48.597495,
     "geom:longitude":-93.412861,
@@ -32,17 +33,34 @@
         "alley"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vCqLBKo1Ql3j1nfBBKljN_48.597495_-93.412861@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594605,
-    "wof:geomhash":"8df37924bc92633992f07ecbdc5ae0d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f62e26847f4e0ddedb2ef0b3da5b9ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":790279555
+        }
+    ],
     "wof:id":790279555,
-    "wof:lastmodified":1472629457,
+    "wof:lastmodified":1492835069,
     "wof:name":"Border Bowl Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.888739,47.486803,-92.888739,47.486803",
     "geom:latitude":47.486803,
     "geom:longitude":-92.888739,
@@ -31,17 +32,36 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5omn7XsNjPzhiKln2CNjQv_47.486803_-92.888739@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594864,
-    "wof:geomhash":"d6671c85a844da35c60612b7df75cb2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9e865c590f167c5b1842f846a74d0b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":790312407
+        }
+    ],
     "wof:id":790312407,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492836284,
     "wof:name":"Iron Kettle",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

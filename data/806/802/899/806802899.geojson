@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.40213,48.602709,-93.40213,48.602709",
     "geom:latitude":48.602709,
     "geom:longitude":-93.40213,
@@ -28,17 +29,34 @@
     "sg:postcode":"56649",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AeIaY6m1EF0zb2P1TY1jU_48.602709_-93.402130@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601208,
-    "wof:geomhash":"70bc7189bd935c55dcdc487ea1e52158",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3d94a638bb219bd20839e3f8462cf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":806802899
+        }
+    ],
     "wof:id":806802899,
-    "wof:lastmodified":1472629846,
+    "wof:lastmodified":1492820882,
     "wof:name":"Visitor & Convention",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

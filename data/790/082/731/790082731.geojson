@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.114163,44.530963,-95.114163,44.530963",
     "geom:latitude":44.530963,
     "geom:longitude":-95.114163,
@@ -32,17 +33,34 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512313,
+        85633793,
+        85968817,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SFsd1vFN3S9zlQwSDLAiB_44.530963_-95.114163@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592989,
-    "wof:geomhash":"2bab7bf9f79e146607c7d975e425adf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13fe6593b677d39f737dae22788a3517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512313,
+            "locality_id":85968817,
+            "region_id":85688727,
+            "venue_id":790082731
+        }
+    ],
     "wof:id":790082731,
-    "wof:lastmodified":1472629099,
+    "wof:lastmodified":1492831753,
     "wof:name":"Nelson Einar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

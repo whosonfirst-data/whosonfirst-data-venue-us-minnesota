@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262572,44.921535,-93.262572,44.921535",
     "geom:latitude":44.921535,
     "geom:longitude":-93.262572,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559169,
+        85872539,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872541
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582816,
-    "wof:geomhash":"ee04fe783c22c4b0210ef13440c1f065",
+    "wof:geomhash":"c80aca3818a093e09cf42263eaf1a610",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559169,
-            "region_id":85688727,
-            "venue_id":773056473
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872541,
+            "macrohood_id":1108799987,
+            "neighbourhood_id":85872539,
             "region_id":85688727,
             "venue_id":773056473
         }
     ],
     "wof:id":773056473,
-    "wof:lastmodified":1472629466,
+    "wof:lastmodified":1492807560,
     "wof:name":"Minneapolis Granite",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

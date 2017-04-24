@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.460907,43.507839,-91.460907,43.507839",
     "geom:latitude":43.507839,
     "geom:longitude":-91.460907,
@@ -29,10 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1462604188,
-    "wof:geomhash":"dcd6e859e4a9f87670af6673313a4d28",
+    "wof:geomhash":"5652f975c4b21fc4fb1525cca538605f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":807142551
         }
     ],
     "wof:id":807142551,
-    "wof:lastmodified":1472629278,
+    "wof:lastmodified":1492823653,
     "wof:name":"Maggie's Dugout",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

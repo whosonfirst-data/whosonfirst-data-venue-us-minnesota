@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.618992,44.233669,-95.618992,44.233669",
     "geom:latitude":44.233669,
     "geom:longitude":-95.618992,
@@ -32,17 +33,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2To937ZPXzZ5tPfUP3G0DG_44.233669_-95.618992@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583819,
-    "wof:geomhash":"45678444a3631968c26dad9e4164168c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be58e7b94b05d0779e7f66a38b368fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":773186999
+        }
+    ],
     "wof:id":773186999,
-    "wof:lastmodified":1472629973,
+    "wof:lastmodified":1492806553,
     "wof:name":"Prairie Wave Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

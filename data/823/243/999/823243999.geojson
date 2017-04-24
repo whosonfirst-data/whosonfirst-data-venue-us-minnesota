@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.047117,45.121581,-95.047117,45.121581",
     "geom:latitude":45.121581,
     "geom:longitude":-95.047117,
@@ -31,17 +32,34 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5V1EXP6pQMQrvb9NUQiYNt_45.121581_-95.047117@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609220,
-    "wof:geomhash":"19368c0febb031bea48a260a1f82a0f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57ff47c2953d2e0523ff2b5e3ea1c89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":823243999
+        }
+    ],
     "wof:id":823243999,
-    "wof:lastmodified":1472629169,
+    "wof:lastmodified":1492829328,
     "wof:name":"Centre Place Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

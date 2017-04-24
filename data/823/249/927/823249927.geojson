@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.550574,45.893598,-93.550574,45.893598",
     "geom:latitude":45.893598,
     "geom:longitude":-93.550574,
@@ -50,17 +51,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512549,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D6r0tUDHNZCQWcEp17DUL_45.893598_-93.550574@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609331,
-    "wof:geomhash":"cdbc6629c3c771caf2bfb7e577ea475b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ab5eeff8e9a4f932d6c8ca203c893d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512549,
+            "region_id":85688727,
+            "venue_id":823249927
+        }
+    ],
     "wof:id":823249927,
-    "wof:lastmodified":1472629174,
+    "wof:lastmodified":1492828145,
     "wof:name":"Hayland Woods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

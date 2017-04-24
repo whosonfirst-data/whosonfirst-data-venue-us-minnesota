@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.57003,44.891041,-95.57003,44.891041",
     "geom:latitude":44.891041,
     "geom:longitude":-95.57003,
@@ -35,17 +36,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509085,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hwSxaG0BpXLRsNW9PyH8M_44.891041_-95.570030@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583588,
-    "wof:geomhash":"cd50b703e539fae9647fa15fe2066759",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2519d678361015fae871be3efe54892c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509085,
+            "region_id":85688727,
+            "venue_id":773159739
+        }
+    ],
     "wof:id":773159739,
-    "wof:lastmodified":1472629779,
+    "wof:lastmodified":1492800230,
     "wof:name":"Steven Jacobson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

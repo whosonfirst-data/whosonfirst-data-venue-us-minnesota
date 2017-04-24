@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.821483,45.135302,-93.821483,45.135302",
     "geom:latitude":45.135302,
     "geom:longitude":-93.821483,
@@ -31,17 +32,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515249,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yuh3rIKnKo72cvxzl0g7m_45.135302_-93.821483@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605837,
-    "wof:geomhash":"19a270d67d396744ca877d80d2646d9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c56b448c505081d41fdd32bb1132bbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515249,
+            "region_id":85688727,
+            "venue_id":807298675
+        }
+    ],
     "wof:id":807298675,
-    "wof:lastmodified":1472629628,
+    "wof:lastmodified":1492827500,
     "wof:name":"Wild Oats Custom Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.645041,44.944331,-93.645041,44.944331",
     "geom:latitude":44.944331,
     "geom:longitude":-93.645041,
@@ -31,17 +32,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511891,
+        85633793,
+        85969151,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mZdpxfDrIXB11FKDymRmo_44.944331_-93.645041@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591162,
-    "wof:geomhash":"15763850859b706819c4a18cdd3b1aad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aebfd7e31e4db0726e15e9471554e37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511891,
+            "locality_id":85969151,
+            "region_id":85688727,
+            "venue_id":789867169
+        }
+    ],
     "wof:id":789867169,
-    "wof:lastmodified":1472629533,
+    "wof:lastmodified":1492812167,
     "wof:name":"Transport Tactics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

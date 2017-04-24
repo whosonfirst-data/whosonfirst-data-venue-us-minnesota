@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.384595,44.938765,-93.384595,44.938765",
     "geom:latitude":44.938765,
     "geom:longitude":-93.384595,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Qz63WUYs2JbrttKWFIxN_44.938765_-93.384595@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592380,
-    "wof:geomhash":"9a06329f690cf200ffec199323499611",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c557e4f7188cd7b65d6db65949a307df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":790006521
+        }
+    ],
     "wof:id":790006521,
-    "wof:lastmodified":1472628946,
+    "wof:lastmodified":1492833591,
     "wof:name":"Strait Line Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

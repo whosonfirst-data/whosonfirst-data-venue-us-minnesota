@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.322183,43.99147,-96.322183,43.99147",
     "geom:latitude":43.99147,
     "geom:longitude":-96.322183,
@@ -31,17 +32,34 @@
         "skilled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NcS6lV3BfSYpHDJN2O3bd_43.991470_-96.322183@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601593,
-    "wof:geomhash":"31b70fb713262ee2476130a86da6aca6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"628a08e285705787d4a27041be2d16d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":806848369
+        }
+    ],
     "wof:id":806848369,
-    "wof:lastmodified":1472629894,
+    "wof:lastmodified":1492821537,
     "wof:name":"Ashton Care Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

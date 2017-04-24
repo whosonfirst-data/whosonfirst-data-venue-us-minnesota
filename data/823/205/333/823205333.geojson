@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.354327,44.903703,-93.354327,44.903703",
     "geom:latitude":44.903703,
     "geom:longitude":-93.354327,
@@ -38,17 +39,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FuwX99KoB8ddlTtd7rqEi_44.903703_-93.354327@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608449,
-    "wof:geomhash":"af2ea8a1b0681729b9edbfb892f53100",
-    "wof:hierarchy":[],
+    "wof:geomhash":"578ae33bc7f97cb063fbd9b78c9df787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823205333
+        }
+    ],
     "wof:id":823205333,
-    "wof:lastmodified":1472629048,
+    "wof:lastmodified":1492829940,
     "wof:name":"Spark Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

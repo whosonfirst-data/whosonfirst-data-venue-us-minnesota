@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.23704,45.026587,-93.23704,45.026587",
     "geom:latitude":45.026587,
     "geom:longitude":-93.23704,
@@ -31,12 +32,12 @@
     "wof:belongsto":[
         420525013,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590665,
-    "wof:geomhash":"fb17952ac398d95d5f636b42a66645db",
+    "wof:geomhash":"568409946d02563389b222a5bc727117",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +53,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108800001,
             "neighbourhood_id":420525013,
-            "region_id":85688727,
-            "venue_id":789803533
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
             "region_id":85688727,
             "venue_id":789803533
         }
     ],
     "wof:id":789803533,
-    "wof:lastmodified":1472629385,
+    "wof:lastmodified":1492813525,
     "wof:name":"Johnson Street Market Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420525013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

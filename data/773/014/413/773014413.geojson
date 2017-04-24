@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.479858,44.601752,-93.479858,44.601752",
     "geom:latitude":44.601752,
     "geom:longitude":-93.479858,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510735,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wN7VgU47FKzs0q8tRaH0t_44.601752_-93.479858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582386,
-    "wof:geomhash":"cbe822e9305d15b08f1effab6d93a4ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a944bc3e502726e6fecc84444e674a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510735,
+            "region_id":85688727,
+            "venue_id":773014413
+        }
+    ],
     "wof:id":773014413,
-    "wof:lastmodified":1472628979,
+    "wof:lastmodified":1492801204,
     "wof:name":"Express Trucks Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

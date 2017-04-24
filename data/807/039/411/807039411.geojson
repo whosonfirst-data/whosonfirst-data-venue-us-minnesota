@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.411322,45.654214,-95.411322,45.654214",
     "geom:latitude":45.654214,
     "geom:longitude":-95.411322,
@@ -32,17 +33,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514331,
+        85633793,
+        85968615,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PMFNhdvQYkXqmtJ8UZ0Nj_45.654214_-95.411322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603198,
-    "wof:geomhash":"43872aa50380fb0a61011b97ab3fb6fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d34269e69c0afcf754562326b2ec32f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514331,
+            "locality_id":85968615,
+            "region_id":85688727,
+            "venue_id":807039411
+        }
+    ],
     "wof:id":807039411,
-    "wof:lastmodified":1472629008,
+    "wof:lastmodified":1492827901,
     "wof:name":"Dnr Fish Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

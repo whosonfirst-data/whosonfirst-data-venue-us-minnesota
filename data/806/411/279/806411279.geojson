@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.502207,45.508579,-93.502207,45.508579",
     "geom:latitude":45.508579,
     "geom:longitude":-93.502207,
@@ -31,17 +32,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513119,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UESykGqx0hcmuLZyCHUyc_45.508579_-93.502207@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597938,
-    "wof:geomhash":"07ef629301df2388012bf831a70fc227",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9954876998d9de6934f2ab8c789f3e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513119,
+            "region_id":85688727,
+            "venue_id":806411279
+        }
+    ],
     "wof:id":806411279,
-    "wof:lastmodified":1472629079,
+    "wof:lastmodified":1492820621,
     "wof:name":"North 40 Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

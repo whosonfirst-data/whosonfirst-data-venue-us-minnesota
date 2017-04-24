@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.435893,45.113293,-93.435893,45.113293",
     "geom:latitude":45.113293,
     "geom:longitude":-93.435893,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iGSYKpgcTJ5u10UEt6oV6_45.113293_-93.435893@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590096,
-    "wof:geomhash":"8a6fb4ee318f63d4c825a29f34916359",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a33667778957fa5f70ab378de88f31c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789729005
+        }
+    ],
     "wof:id":789729005,
-    "wof:lastmodified":1472629232,
+    "wof:lastmodified":1492810061,
     "wof:name":"Avaya Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

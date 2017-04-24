@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.916928,46.158681,-94.916928,46.158681",
     "geom:latitude":46.158681,
     "geom:longitude":-94.916928,
@@ -30,17 +31,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514705,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Dq4pWvrvZHJWAQ2K6wi3I_46.158681_-94.916928@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604661,
-    "wof:geomhash":"407bbc8ef70b02e5569c9d67b4058a06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4569c02846f17d01ae16175a6de7802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514705,
+            "region_id":85688727,
+            "venue_id":807187079
+        }
+    ],
     "wof:id":807187079,
-    "wof:lastmodified":1472629376,
+    "wof:lastmodified":1492825869,
     "wof:name":"Earl Luedtke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.362136,43.659116,-93.362136,43.659116",
     "geom:latitude":43.659116,
     "geom:longitude":-93.362136,
@@ -31,17 +32,34 @@
         "refiner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rleXB7DN3Ic0FIDr1G8j1_43.659116_-93.362136@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591311,
-    "wof:geomhash":"292eddeff5c320dd76aec82f5ed256c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ecffcb672029340c8dbc1384010a84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":789882403
+        }
+    ],
     "wof:id":789882403,
-    "wof:lastmodified":1472629556,
+    "wof:lastmodified":1492810942,
     "wof:name":"Lakeview Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.922508,43.585792,-93.922508,43.585792",
     "geom:latitude":43.585792,
     "geom:longitude":-93.922508,
@@ -32,17 +33,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509609,
+        85633793,
+        85952589,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_363CUasd2mZWhdvtI6yAPI_43.586137_-93.922491@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604132,
-    "wof:geomhash":"2bec7871e1cc1ab4df9d38af9075e985",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77b57e7a3dcda01f477408d4ecd71a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509609,
+            "locality_id":85952589,
+            "region_id":85688727,
+            "venue_id":807137057
+        }
+    ],
     "wof:id":807137057,
-    "wof:lastmodified":1472629234,
+    "wof:lastmodified":1492824170,
     "wof:name":"United Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

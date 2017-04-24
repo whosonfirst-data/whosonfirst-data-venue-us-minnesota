@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.260477,47.255751,-96.260477,47.255751",
     "geom:latitude":47.255751,
     "geom:longitude":-96.260477,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512423,
+        85633793,
+        85968325,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iS62k8v5e09Xgx4I83iuN_47.255751_-96.260477@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601308,
-    "wof:geomhash":"266ac052bfaeb21bb6d7ddb13b701872",
-    "wof:hierarchy":[],
+    "wof:geomhash":"187b306bc20f2d4b8f070524b2535f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512423,
+            "locality_id":85968325,
+            "region_id":85688727,
+            "venue_id":806815581
+        }
+    ],
     "wof:id":806815581,
-    "wof:lastmodified":1472629853,
+    "wof:lastmodified":1492818262,
     "wof:name":"Southview Apts Manager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

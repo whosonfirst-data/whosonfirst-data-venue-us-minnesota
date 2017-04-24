@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.93901,45.655383,-93.93901,45.655383",
     "geom:latitude":45.655383,
     "geom:longitude":-93.93901,
@@ -33,17 +34,32 @@
         "reporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511455,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ejoIPLfx2UD1m0esitbpI_45.655383_-93.939010@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586993,
-    "wof:geomhash":"529093b68916dea644fa501f4fe2b22d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb1a0e7cbabc7bd6b0778db99c977a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511455,
+            "region_id":85688727,
+            "venue_id":773607725
+        }
+    ],
     "wof:id":773607725,
-    "wof:lastmodified":1472630109,
+    "wof:lastmodified":1492808599,
     "wof:name":"Rothfork Reporting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

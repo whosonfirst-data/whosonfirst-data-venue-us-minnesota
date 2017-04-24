@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.378517,44.955978,-93.378517,44.955978",
     "geom:latitude":44.955978,
     "geom:longitude":-93.378517,
@@ -32,17 +33,34 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eEBV39Cudy9jz96tzNZyG_44.955978_-93.378517@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608125,
-    "wof:geomhash":"3bc3b1c189ab1f880c281e4725e70220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e89b2ab0123277659648cb0815dcc3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823184395
+        }
+    ],
     "wof:id":823184395,
-    "wof:lastmodified":1472629021,
+    "wof:lastmodified":1492830134,
     "wof:name":"Pro Travel Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

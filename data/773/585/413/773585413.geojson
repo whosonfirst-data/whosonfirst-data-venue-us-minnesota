@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.234748,44.90547,-93.234748,44.90547",
     "geom:latitude":44.90547,
     "geom:longitude":-93.234748,
@@ -34,12 +35,12 @@
     "wof:belongsto":[
         85872547,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872695
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586839,
-    "wof:geomhash":"165ec29d086fba37d1d06be265821ff7",
+    "wof:geomhash":"44982f74c7ecdf8e93288ba054ed05df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872547,
-            "region_id":85688727,
-            "venue_id":773585413
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872695,
             "region_id":85688727,
             "venue_id":773585413
         }
     ],
     "wof:id":773585413,
-    "wof:lastmodified":1472630098,
+    "wof:lastmodified":1492808438,
     "wof:name":"Bomardo Initiative Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

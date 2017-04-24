@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.140558,44.221696,-94.140558,44.221696",
     "geom:latitude":44.221696,
     "geom:longitude":-94.140558,
@@ -35,17 +36,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513471,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UqupWnuWFM2Fa3fgV27EE_44.221696_-94.140558@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599147,
-    "wof:geomhash":"fb55f25c1e2c2cd7e16fc29cf439c524",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e03ad337769cd475d935e51774794a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513471,
+            "region_id":85688727,
+            "venue_id":806562625
+        }
+    ],
     "wof:id":806562625,
-    "wof:lastmodified":1472629466,
+    "wof:lastmodified":1492818496,
     "wof:name":"Bernard Laven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

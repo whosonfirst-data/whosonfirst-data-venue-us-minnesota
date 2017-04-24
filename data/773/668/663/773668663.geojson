@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.972974,43.827479,-95.972974,43.827479",
     "geom:latitude":43.827479,
     "geom:longitude":-95.972974,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512133,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sL6kBvtebkXVzYL6zNXLe_43.827479_-95.972974@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587458,
-    "wof:geomhash":"b8a1ac4b7c5ea9dba97c6ceb9e8e1d99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d03029c36595beae3a6bb65b14d72983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512133,
+            "region_id":85688727,
+            "venue_id":773668663
+        }
+    ],
     "wof:id":773668663,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492806061,
     "wof:name":"Glenn Blom Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

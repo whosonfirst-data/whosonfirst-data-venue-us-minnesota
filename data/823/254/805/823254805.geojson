@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.151224,46.392187,-95.151224,46.392187",
     "geom:latitude":46.392187,
     "geom:longitude":-95.151224,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514851,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1O70rndpFan0DNrn0whdME_46.392187_-95.151224@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609436,
-    "wof:geomhash":"b4c5fb2c57badaf0cb90c1ed031057b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13d6994164b8e1a847b1008765e6201e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514851,
+            "region_id":85688727,
+            "venue_id":823254805
+        }
+    ],
     "wof:id":823254805,
-    "wof:lastmodified":1472629223,
+    "wof:lastmodified":1492830938,
     "wof:name":"Henry Clarksean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

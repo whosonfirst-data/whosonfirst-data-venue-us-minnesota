@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.888076,44.881525,-93.888076,44.881525",
     "geom:latitude":44.881525,
     "geom:longitude":-93.888076,
@@ -28,17 +29,34 @@
     "sg:postcode":"55360",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511699,
+        85633793,
+        85952949,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47Au8uAdDgPr7vv7mFIL5G_44.881525_-93.888076@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596590,
-    "wof:geomhash":"64f9709604eafd669e560632d7a30550",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5be69e10d4495c2bb1d203a294e578a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511699,
+            "locality_id":85952949,
+            "region_id":85688727,
+            "venue_id":790525879
+        }
+    ],
     "wof:id":790525879,
-    "wof:lastmodified":1472629805,
+    "wof:lastmodified":1492833006,
     "wof:name":"Mayer Firemens Relief Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.317454,47.429613,-92.317454,47.429613",
     "geom:latitude":47.429613,
     "geom:longitude":-92.317454,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43qQ0Eh2SU2rHbJiintG85_47.429613_-92.317454@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602227,
-    "wof:geomhash":"62b5cc393e1be7499d9fbfac3247040e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d784585627b79c097a343abcdbdf451f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806924247
+        }
+    ],
     "wof:id":806924247,
-    "wof:lastmodified":1472629934,
+    "wof:lastmodified":1492814836,
     "wof:name":"Esler Construction Don",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.963994,44.204603,-93.963994,44.204603",
     "geom:latitude":44.204603,
     "geom:longitude":-93.963994,
@@ -32,17 +33,32 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511539,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5de20aVhJuLjssK6vbAZBH_44.204603_-93.963994@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585773,
-    "wof:geomhash":"5998b29aabf5c43c58fc18f82c522735",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2780ea1ed24bdf459e4e031ce500846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511539,
+            "region_id":85688727,
+            "venue_id":773442041
+        }
+    ],
     "wof:id":773442041,
-    "wof:lastmodified":1472630053,
+    "wof:lastmodified":1492799602,
     "wof:name":"Hiniker Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

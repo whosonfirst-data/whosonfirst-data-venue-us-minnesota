@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.809687,47.264452,-96.809687,47.264452",
     "geom:latitude":47.264452,
     "geom:longitude":-96.809687,
@@ -31,17 +32,34 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510287,
+        85633793,
+        85968331,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D1mUS7Nbq5oTdqtY257H5_47.264452_-96.809687@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593737,
-    "wof:geomhash":"9bfb2c53ffdd5c53a53cf4ab09eb7c0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07ae6e589811f9b617fc4688f31ef18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404510287,
+            "locality_id":85968331,
+            "region_id":85688727,
+            "venue_id":790175109
+        }
+    ],
     "wof:id":790175109,
-    "wof:lastmodified":1472629250,
+    "wof:lastmodified":1492834766,
     "wof:name":"Midwest Inspection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

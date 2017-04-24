@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.149406,45.108943,-93.149406,45.108943",
     "geom:latitude":45.108943,
     "geom:longitude":-93.149406,
@@ -31,17 +32,34 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514467,
+        85633793,
+        85953193,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Sg5vM3Z2ixm9rfXnxrazl_45.108943_-93.149406@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585039,
-    "wof:geomhash":"2ca84ea1f7645ce0b6ef9fc74b8c7584",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c9810794dfcdf7847f05960931c15af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514467,
+            "locality_id":85953193,
+            "region_id":85688727,
+            "venue_id":773348863
+        }
+    ],
     "wof:id":773348863,
-    "wof:lastmodified":1472630022,
+    "wof:lastmodified":1492803730,
     "wof:name":"Housing Resource Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

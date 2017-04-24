@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.249535,44.973858,-93.249535,44.973858",
     "geom:latitude":44.973858,
     "geom:longitude":-93.249535,
@@ -29,8 +30,10 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800101,
         85872621,
         102191575,
+        1108800003,
         404511883,
         85633793,
         85969169,
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591187,
-    "wof:geomhash":"3c056c7df101700033292650c3bf4a02",
+    "wof:geomhash":"1b3eff11a4d9c921116685bff03a2a5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,15 +54,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108800003,
+            "microhood_id":1108800101,
             "neighbourhood_id":85872621,
             "region_id":85688727,
             "venue_id":789869917
         }
     ],
     "wof:id":789869917,
-    "wof:lastmodified":1472629550,
+    "wof:lastmodified":1492809451,
     "wof:name":"Intrapraise",
-    "wof:parent_id":85872621,
+    "wof:parent_id":1108800101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

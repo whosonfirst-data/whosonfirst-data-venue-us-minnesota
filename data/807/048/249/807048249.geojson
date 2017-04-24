@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.832711,43.840878,-93.832711,43.840878",
     "geom:latitude":43.840878,
     "geom:longitude":-93.832711,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514091,
+        85633793,
+        85952585,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a5D4HsP0blvQ9ZZLgPyzP_43.840878_-93.832711@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603274,
-    "wof:geomhash":"9321553e904e037a098464bf2ed1dc3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7aea786643e39c3e98782fb6628e7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514091,
+            "locality_id":85952585,
+            "region_id":85688727,
+            "venue_id":807048249
+        }
+    ],
     "wof:id":807048249,
-    "wof:lastmodified":1472629023,
+    "wof:lastmodified":1492826911,
     "wof:name":"Minnesota Lake Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

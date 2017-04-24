@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.604202,44.806702,-93.604202,44.806702",
     "geom:latitude":44.806702,
     "geom:longitude":-93.604202,
@@ -37,17 +38,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bwWtGhWNqweQGzUNB8xiM_44.806827_-93.604670@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604490,
-    "wof:geomhash":"5faaeeb473d9cd26c6352adb52a0c2fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5c86c6ab3ca01d0b0a0f707d9125326",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":807170601
+        }
+    ],
     "wof:id":807170601,
-    "wof:lastmodified":1472629347,
+    "wof:lastmodified":1492823097,
     "wof:name":"Bradco Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

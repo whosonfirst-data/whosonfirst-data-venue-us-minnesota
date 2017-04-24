@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.838091,45.193774,-93.838091,45.193774",
     "geom:latitude":45.193774,
     "geom:longitude":-93.838091,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HKMP8kQPpJl7BpXRjkeaE_45.193774_-93.838091@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585596,
-    "wof:geomhash":"6832f03c20b54b7a53264e6523efd3b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9db2b0b3ef0ed11d29d7151edae85c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":773422539
+        }
+    ],
     "wof:id":773422539,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492800430,
     "wof:name":"Happy Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

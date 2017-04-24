@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.543363,44.644078,-95.543363,44.644078",
     "geom:latitude":44.644078,
     "geom:longitude":-95.543363,
@@ -28,17 +29,34 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510791,
+        85633793,
+        85952893,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IJuUb1DJtBsyPD9643009_44.644078_-95.543363@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604687,
-    "wof:geomhash":"70ca923b91a4be722400e667d6505b38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"866957e3f2eb46aef6044e603d81a262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510791,
+            "locality_id":85952893,
+            "region_id":85688727,
+            "venue_id":807189729
+        }
+    ],
     "wof:id":807189729,
-    "wof:lastmodified":1472629388,
+    "wof:lastmodified":1492825684,
     "wof:name":"Chris Long",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

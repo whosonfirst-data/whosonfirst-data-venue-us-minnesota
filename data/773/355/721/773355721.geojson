@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.563592,45.028598,-94.563592,45.028598",
     "geom:latitude":45.028598,
     "geom:longitude":-94.563592,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512399,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aeAdcXgv9XYcOa412D2Q3_45.028598_-94.563592@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585089,
-    "wof:geomhash":"19748ceaf81322e1ba918cc03290788d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"243bcbac6836947e27509b95cc2146bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512399,
+            "region_id":85688727,
+            "venue_id":773355721
+        }
+    ],
     "wof:id":773355721,
-    "wof:lastmodified":1472630035,
+    "wof:lastmodified":1492801482,
     "wof:name":"Lawrence Lee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

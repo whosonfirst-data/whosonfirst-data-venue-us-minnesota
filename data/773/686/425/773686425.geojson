@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.219031,45.579339,-93.219031,45.579339",
     "geom:latitude":45.579339,
     "geom:longitude":-93.219031,
@@ -28,17 +29,34 @@
     "sg:postcode":"55008",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FdEsqMKNawFr3veFluV9v_45.579339_-93.219031@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587590,
-    "wof:geomhash":"576eab75b3980da85e99984129ae9c58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fb3f084666d051d86ebfdbb2330aaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":773686425
+        }
+    ],
     "wof:id":773686425,
-    "wof:lastmodified":1472630129,
+    "wof:lastmodified":1492799529,
     "wof:name":"Sport Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

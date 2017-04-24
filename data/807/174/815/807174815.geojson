@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.523975,44.530806,-94.523975,44.530806",
     "geom:latitude":44.530806,
     "geom:longitude":-94.523975,
@@ -27,17 +28,34 @@
         "dairy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514035,
+        85633793,
+        85953309,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kJN9yyjmMrbR9crw7IZ1T_44.530806_-94.523975@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604535,
-    "wof:geomhash":"e5a10724f3f28272371b9488ba4d7804",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb99fffcf0a23698f2db2e5dcfe4ce64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514035,
+            "locality_id":85953309,
+            "region_id":85688727,
+            "venue_id":807174815
+        }
+    ],
     "wof:id":807174815,
-    "wof:lastmodified":1472629359,
+    "wof:lastmodified":1492827945,
     "wof:name":"Bob Sievert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

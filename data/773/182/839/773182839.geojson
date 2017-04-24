@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.886316,45.358364,-92.886316,45.358364",
     "geom:latitude":45.358364,
     "geom:longitude":-92.886316,
@@ -33,17 +34,34 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZRWWkW4lMX5S2gg71OsBh_45.358364_-92.886316@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583773,
-    "wof:geomhash":"1ceba6c917fa082de21cb8accebdf1d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be35c9b5fe285eac398fca54bb97a1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773182839
+        }
+    ],
     "wof:id":773182839,
-    "wof:lastmodified":1472629861,
+    "wof:lastmodified":1492800787,
     "wof:name":"Eichtens Bison",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

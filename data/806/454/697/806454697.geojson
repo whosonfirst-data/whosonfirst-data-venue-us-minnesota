@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.497163,44.068665,-92.497163,44.068665",
     "geom:latitude":44.068665,
     "geom:longitude":-92.497163,
@@ -31,17 +32,34 @@
         "electrolysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h14cO32veSfueaXsmtiU3_44.068665_-92.497163@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598275,
-    "wof:geomhash":"7e08de237f8a6b5f231469f017227bb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc92a2ee1c7351f0f5ae6050e42e2ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806454697
+        }
+    ],
     "wof:id":806454697,
-    "wof:lastmodified":1472629211,
+    "wof:lastmodified":1492819532,
     "wof:name":"Electrolysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

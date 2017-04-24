@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.079711,46.282104,-96.079711,46.282104",
     "geom:latitude":46.282104,
     "geom:longitude":-96.079711,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a5Jtn6wQMGm5LbW0WYenx_46.282104_-96.079711@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591592,
-    "wof:geomhash":"c24aadf4ee130824c9bd5d1746ce4ba6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12cfe2202b6fa579bbe99d1fe91edfa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":789916279
+        }
+    ],
     "wof:id":789916279,
-    "wof:lastmodified":1472629604,
+    "wof:lastmodified":1492811060,
     "wof:name":"Nordwall Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

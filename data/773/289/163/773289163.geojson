@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.393356,44.814088,-93.393356,44.814088",
     "geom:latitude":44.814088,
     "geom:longitude":-93.393356,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yjUDclfj5o5RP1ph7Xjbi_44.814088_-93.393356@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584593,
-    "wof:geomhash":"04e35bd7983e2e801d2d53ee4316eb3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b615d127b622965c03bc6084886985cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773289163
+        }
+    ],
     "wof:id":773289163,
-    "wof:lastmodified":1472629997,
+    "wof:lastmodified":1492808982,
     "wof:name":"Buddy Speck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

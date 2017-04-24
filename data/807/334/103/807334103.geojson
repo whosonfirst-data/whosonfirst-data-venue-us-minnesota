@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.57324,45.246588,-94.57324,45.246588",
     "geom:latitude":45.246588,
     "geom:longitude":-94.57324,
@@ -48,17 +49,32 @@
         "raising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510003,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0doYqyBfxNgGqL6b7SpZ20_45.246588_-94.573240@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606250,
-    "wof:geomhash":"afa252213b067f427e21a7acc844aaff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cea6cf38ad2ee5c937e4f186f99e1dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404510003,
+            "region_id":85688727,
+            "venue_id":807334103
+        }
+    ],
     "wof:id":807334103,
-    "wof:lastmodified":1472629726,
+    "wof:lastmodified":1492826349,
     "wof:name":"Rick Rossow Housemoving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

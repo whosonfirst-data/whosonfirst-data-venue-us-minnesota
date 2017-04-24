@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.645121,44.707227,-93.645121,44.707227",
     "geom:latitude":44.707227,
     "geom:longitude":-93.645121,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511703,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XMHYVQtfDUzbcGN6JqFhH_44.707227_-93.645121@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587971,
-    "wof:geomhash":"2b6a70f40e4df97c0b1d4383afbd6302",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc693aa4260903086a94fd23f60f037f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511703,
+            "region_id":85688727,
+            "venue_id":773732751
+        }
+    ],
     "wof:id":773732751,
-    "wof:lastmodified":1472630145,
+    "wof:lastmodified":1492807492,
     "wof:name":"Kirks Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

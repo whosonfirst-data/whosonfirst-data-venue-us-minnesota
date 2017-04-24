@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.33829,45.488093,-93.33829,45.488093",
     "geom:latitude":45.488093,
     "geom:longitude":-93.33829,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512981,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JMi5704fxxJMVR7dPb53T_45.488093_-93.338290@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590587,
-    "wof:geomhash":"90ae2a6ae51bd3dce04a3cef6d6add25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeee5442c918776fdf8bae1028067cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512981,
+            "region_id":85688727,
+            "venue_id":789793103
+        }
+    ],
     "wof:id":789793103,
-    "wof:lastmodified":1472629374,
+    "wof:lastmodified":1492811678,
     "wof:name":"Anderson Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

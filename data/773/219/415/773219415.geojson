@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.432552,46.345567,-94.432552,46.345567",
     "geom:latitude":46.345567,
     "geom:longitude":-94.432552,
@@ -32,17 +33,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511757,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RQAYEaVeQuJ8nSoiHs0My_46.345567_-94.432552@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584070,
-    "wof:geomhash":"c4b5d5edaffdc09fabbbb564f5aa6bec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1ddad1c19338b97fdd6dc01d90815c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511757,
+            "region_id":85688727,
+            "venue_id":773219415
+        }
+    ],
     "wof:id":773219415,
-    "wof:lastmodified":1472629961,
+    "wof:lastmodified":1492804227,
     "wof:name":"Krushe Residential Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

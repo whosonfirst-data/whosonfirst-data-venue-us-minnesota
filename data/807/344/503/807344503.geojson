@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.526703,44.798698,-93.526703,44.798698",
     "geom:latitude":44.798698,
     "geom:longitude":-93.526703,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.paragonbankmn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OhXCezvoryvGADhG8TiJt_44.798698_-93.526703@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606415,
-    "wof:geomhash":"42c9ebd7b6a965a811f7a459de47a94f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d10e95a3b9e8d0eb37469d4edb614c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":807344503
+        }
+    ],
     "wof:id":807344503,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492826486,
     "wof:name":"Paragon Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

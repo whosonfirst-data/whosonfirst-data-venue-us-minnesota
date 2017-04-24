@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.974423,44.239674,-94.974423,44.239674",
     "geom:latitude":44.239674,
     "geom:longitude":-94.974423,
@@ -32,17 +33,34 @@
         "commerce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511473,
+        85633793,
+        85952695,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GmyKgIjkCp8Cf6xxHTFPc_44.239674_-94.974423@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584679,
-    "wof:geomhash":"16a8d45a557b1aa11cda876063ff7bb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d5e6efe8fcb7f76e8e49d2324af0951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511473,
+            "locality_id":85952695,
+            "region_id":85688727,
+            "venue_id":773299949
+        }
+    ],
     "wof:id":773299949,
-    "wof:lastmodified":1472630038,
+    "wof:lastmodified":1492801535,
     "wof:name":"Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

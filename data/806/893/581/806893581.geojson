@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.317274,44.907109,-94.317274,44.907109",
     "geom:latitude":44.907109,
     "geom:longitude":-94.317274,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512815,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YbEWaJmDb4g4pWQdifg06_44.907109_-94.317274@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601959,
-    "wof:geomhash":"23e388712f885f89091938951110c887",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b761c04129741c87bf56d4bd495777e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512815,
+            "region_id":85688727,
+            "venue_id":806893581
+        }
+    ],
     "wof:id":806893581,
-    "wof:lastmodified":1472629926,
+    "wof:lastmodified":1492815334,
     "wof:name":"Rogers Valarian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

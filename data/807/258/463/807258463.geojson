@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.845009,45.035244,-92.845009,45.035244",
     "geom:latitude":45.035244,
     "geom:longitude":-92.845009,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85815391,
+        102191575,
+        404510951,
         85633793,
         85968253,
         102087659,
-        85815391
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462605416,
-    "wof:geomhash":"138fe45390c029cce6063fd100a42df9",
+    "wof:geomhash":"1f0ade2a41caad0e646230ebb82e1e1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087659,
+            "localadmin_id":404510951,
             "locality_id":85968253,
             "neighbourhood_id":85815391,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":807258463,
-    "wof:lastmodified":1472629522,
+    "wof:lastmodified":1492824333,
     "wof:name":"Valley Access Channels",
     "wof:parent_id":85815391,
     "wof:placetype":"venue",

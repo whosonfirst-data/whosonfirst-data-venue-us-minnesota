@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.353461,44.891435,-94.353461,44.891435",
     "geom:latitude":44.891435,
     "geom:longitude":-94.353461,
@@ -31,17 +32,34 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oLkeLlDaWN3Qa3vnS7EN3_44.891435_-94.353461@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590650,
-    "wof:geomhash":"245b9bfa3b9c2ba2095a0f00687ff2cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84e9adf2ea506a656373e18bfad00381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":789801215
+        }
+    ],
     "wof:id":789801215,
-    "wof:lastmodified":1472629381,
+    "wof:lastmodified":1492812019,
     "wof:name":"Brown's Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

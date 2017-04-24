@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.534897,47.461911,-92.534897,47.461911",
     "geom:latitude":47.461911,
     "geom:longitude":-92.534897,
@@ -32,17 +33,26 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aGGzLeqjNEX9JbKtpYiHi_47.461911_-92.534897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602810,
-    "wof:geomhash":"900bf1a20f8d5d7b49baf0896f04c16a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daa75e242509973c0bbc8023f687ce7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806994547
+        }
+    ],
     "wof:id":806994547,
-    "wof:lastmodified":1472629983,
+    "wof:lastmodified":1492817202,
     "wof:name":"Duluth Clinic",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

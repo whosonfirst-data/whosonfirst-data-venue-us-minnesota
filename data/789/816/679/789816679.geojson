@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.762777,48.699598,-94.762777,48.699598",
     "geom:latitude":48.699598,
     "geom:longitude":-94.762777,
@@ -40,17 +41,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509691,
+        85633793,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uuJ42ToXD1pfr0NZyP33z_48.699598_-94.762777@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590764,
-    "wof:geomhash":"2477918fca61cf7b2efc82b2f3435ae7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5433cbc52045a9dc3c7202914a2cf6fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404509691,
+            "region_id":85688727,
+            "venue_id":789816679
+        }
+    ],
     "wof:id":789816679,
-    "wof:lastmodified":1472629411,
+    "wof:lastmodified":1492813690,
     "wof:name":"Sub Zero Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

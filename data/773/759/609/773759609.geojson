@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.769839,43.520343,-91.769839,43.520343",
     "geom:latitude":43.520343,
     "geom:longitude":-91.769839,
@@ -28,17 +29,34 @@
     "sg:postcode":"55954",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509637,
+        85633793,
+        85953171,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4f36QowXms4M76Aqc3VfGp_43.520343_-91.769839@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588168,
-    "wof:geomhash":"38435ef9b0e181cc6902977b2aa1e206",
-    "wof:hierarchy":[],
+    "wof:geomhash":"507f677a1f0362ed9a7fe2c2721890ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509637,
+            "locality_id":85953171,
+            "region_id":85688727,
+            "venue_id":773759609
+        }
+    ],
     "wof:id":773759609,
-    "wof:lastmodified":1472630153,
+    "wof:lastmodified":1492802199,
     "wof:name":"Holland Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

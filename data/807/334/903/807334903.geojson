@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.684097,45.273653,-93.684097,45.273653",
     "geom:latitude":45.273653,
     "geom:longitude":-93.684097,
@@ -31,17 +32,34 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515245,
+        85633793,
+        85968889,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E0LzAfvPTRcC5yguS8dWx_45.273653_-93.684097@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606264,
-    "wof:geomhash":"4e00b12b556a6db226ee240342a7f836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1580c60e420513aa2d5dd69c65116d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515245,
+            "locality_id":85968889,
+            "region_id":85688727,
+            "venue_id":807334903
+        }
+    ],
     "wof:id":807334903,
-    "wof:lastmodified":1472629741,
+    "wof:lastmodified":1492826352,
     "wof:name":"Pick Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

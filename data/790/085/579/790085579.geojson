@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.544107,46.002527,-95.544107,46.002527",
     "geom:latitude":46.002527,
     "geom:longitude":-95.544107,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513755,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RPNY3beKPK9VnLtMRa2v1_46.002527_-95.544107@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593007,
-    "wof:geomhash":"8b6b91ad45d954bb8d2d24248d43ade9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50b12a394b7b8f1163c5b7880beb9c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513755,
+            "region_id":85688727,
+            "venue_id":790085579
+        }
+    ],
     "wof:id":790085579,
-    "wof:lastmodified":1472629090,
+    "wof:lastmodified":1492832414,
     "wof:name":"Adams Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

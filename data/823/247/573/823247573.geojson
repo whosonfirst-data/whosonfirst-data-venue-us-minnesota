@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.494191,45.803331,-96.494191,45.803331",
     "geom:latitude":45.803331,
     "geom:longitude":-96.494191,
@@ -61,17 +62,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xf0wFf56crj7uTjXWtCR0_45.803331_-96.494191@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609287,
-    "wof:geomhash":"36ee66edae9192299c087c695f44bc5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e339781358f4f449b3d6819bffa21a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":823247573
+        }
+    ],
     "wof:id":823247573,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492829655,
     "wof:name":"Brett's Electronic Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

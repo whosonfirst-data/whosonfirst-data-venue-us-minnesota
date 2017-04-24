@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.353813,44.909161,-93.353813,44.909161",
     "geom:latitude":44.909161,
     "geom:longitude":-93.353813,
@@ -47,17 +48,34 @@
     ],
     "sg:website":"http://www.peter-kramer.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59yXIskeya1pdc8FiyFMX0_44.909161_-93.353813@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608459,
-    "wof:geomhash":"2bf413630723de2cd67e0b139f8ef80d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d7a2d198e5caea264e54d4e862df074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823205917
+        }
+    ],
     "wof:id":823205917,
-    "wof:lastmodified":1472629065,
+    "wof:lastmodified":1492829919,
     "wof:name":"Peter Kramer, Northwestern Mutual",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

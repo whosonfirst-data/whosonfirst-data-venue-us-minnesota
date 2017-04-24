@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.050353,44.18909,-94.050353,44.18909",
     "geom:latitude":44.18909,
     "geom:longitude":-94.050353,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N6J12VHOiiRHzyIXfuISw_44.189090_-94.050353@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589115,
-    "wof:geomhash":"c15c8c1dd42d1a8d3ec5fc8128144101",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7230b62b8fb80b6a2b89703274da7993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":789606731
+        }
+    ],
     "wof:id":789606731,
-    "wof:lastmodified":1472628985,
+    "wof:lastmodified":1492811226,
     "wof:name":"Cats Kids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.005671,43.775454,-95.005671,43.775454",
     "geom:latitude":43.775454,
     "geom:longitude":-95.005671,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513467,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1awJay90CkUDTBiQedO1Sg_43.775454_-95.005671@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601533,
-    "wof:geomhash":"570894e92d7c7370d0ac136aae443e68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bb41e46069bc584f078b99d6ace7e21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513467,
+            "region_id":85688727,
+            "venue_id":806842759
+        }
+    ],
     "wof:id":806842759,
-    "wof:lastmodified":1472629882,
+    "wof:lastmodified":1492815618,
     "wof:name":"Bethany Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

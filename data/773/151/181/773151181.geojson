@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.381177,43.647416,-93.381177,43.647416",
     "geom:latitude":43.647416,
     "geom:longitude":-93.381177,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IVjRBRyQ02wqhBiLIGZek_43.647416_-93.381177@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583532,
-    "wof:geomhash":"5d45f2144d44d963ccbc8587e786f5b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ce7af92fa78f69b84a6a114de0c23a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":773151181
+        }
+    ],
     "wof:id":773151181,
-    "wof:lastmodified":1472629717,
+    "wof:lastmodified":1492801089,
     "wof:name":"Thompson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

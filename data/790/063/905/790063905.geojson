@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.875645,45.491545,-92.875645,45.491545",
     "geom:latitude":45.491545,
     "geom:longitude":-92.875645,
@@ -31,17 +32,32 @@
         "heavy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511031,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d6sARQCdWBgT2Czn6EcRN_45.491545_-92.875645@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592848,
-    "wof:geomhash":"24462fabfe357cc16466e10e1f6449a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4c0a4ab157992ca0610a545268b1a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511031,
+            "region_id":85688727,
+            "venue_id":790063905
+        }
+    ],
     "wof:id":790063905,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492837894,
     "wof:name":"North Side Container",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.434613,45.457353,-94.434613,45.457353",
     "geom:latitude":45.457353,
     "geom:longitude":-94.434613,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514221,
+        85633793,
+        85952459,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qhEK7iUV3w0kbmEMbkwEc_45.457353_-94.434613@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595566,
-    "wof:geomhash":"a3c492d7c0e2719a48c198090bc745e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00d9a593a1eb3fbcd458223e81ac2ca8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514221,
+            "locality_id":85952459,
+            "region_id":85688727,
+            "venue_id":790404443
+        }
+    ],
     "wof:id":790404443,
-    "wof:lastmodified":1472629685,
+    "wof:lastmodified":1492833473,
     "wof:name":"Assumption Home Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

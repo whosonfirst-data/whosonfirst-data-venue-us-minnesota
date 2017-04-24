@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.356477,45.106804,-93.356477,45.106804",
     "geom:latitude":45.106804,
     "geom:longitude":-93.356477,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q1OY2ysloqi4pJXguPecr_45.106804_-93.356477@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583691,
-    "wof:geomhash":"cc09d88a9d99895ab965b4bb88ce5c90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d001ca43a5c2cb87ca6b0da9d3b5340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773173589
+        }
+    ],
     "wof:id":773173589,
-    "wof:lastmodified":1472629827,
+    "wof:lastmodified":1492805515,
     "wof:name":"Kensington Place Apt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

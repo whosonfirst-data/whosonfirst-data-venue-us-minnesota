@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.165716,44.377359,-93.165716,44.377359",
     "geom:latitude":44.377359,
     "geom:longitude":-93.165716,
@@ -31,17 +32,32 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512621,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_003qGHWKlOT0esB0QMWB8R_44.377359_-93.165716@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601777,
-    "wof:geomhash":"357a8db4a6ae2b833875a4b5788e56a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0ec897f2741f14c8aedf5d39020c556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512621,
+            "region_id":85688727,
+            "venue_id":806870707
+        }
+    ],
     "wof:id":806870707,
-    "wof:lastmodified":1472629913,
+    "wof:lastmodified":1492814159,
     "wof:name":"Prairie Creek Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

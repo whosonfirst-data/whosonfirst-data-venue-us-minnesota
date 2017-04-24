@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.436526,48.60091,-97.436526,48.60091",
     "geom:latitude":48.60091,
     "geom:longitude":-97.436526,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404481475,
+        85633793,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MydXmAR4hOFIns276xn7A_48.600910_-97.436526@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604709,
-    "wof:geomhash":"9821a4d01cd45df31aa48f7e22019c0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fadeb83949241840264683bc0cf2712b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481475,
+            "region_id":85688525,
+            "venue_id":807191923
+        }
+    ],
     "wof:id":807191923,
-    "wof:lastmodified":1472629414,
+    "wof:lastmodified":1492826450,
     "wof:name":"McM Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

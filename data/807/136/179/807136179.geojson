@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.536733,43.891799,-92.536733,43.891799",
     "geom:latitude":43.891799,
     "geom:longitude":-92.536733,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512449,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_328YBy4zt6NHGnbzLX7Upl_43.891799_-92.536733@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604123,
-    "wof:geomhash":"9284a8228b4555115b3a3eaac996550b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47b2ab6ddda209066764eb798105c40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512449,
+            "region_id":85688727,
+            "venue_id":807136179
+        }
+    ],
     "wof:id":807136179,
-    "wof:lastmodified":1472629250,
+    "wof:lastmodified":1492824632,
     "wof:name":"William Oehlke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

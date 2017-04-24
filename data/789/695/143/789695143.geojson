@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.334232,44.944346,-93.334232,44.944346",
     "geom:latitude":44.944346,
     "geom:longitude":-93.334232,
@@ -31,17 +32,34 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RxcSvKrur7pXtLe7D2wTP_44.944346_-93.334232@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589820,
-    "wof:geomhash":"1c7acae4e320e3d996b64e6e85d470d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02e236f8a4f4a650577f90e64caa7a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":789695143
+        }
+    ],
     "wof:id":789695143,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492813352,
     "wof:name":"Anderson Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

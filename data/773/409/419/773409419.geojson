@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.073704,44.931109,-93.073704,44.931109",
     "geom:latitude":44.931109,
     "geom:longitude":-93.073704,
@@ -31,19 +32,38 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NLhRztNgjdDeyz6pcMV8B_44.931109_-93.073704@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585484,
-    "wof:geomhash":"049d2986a979b6ba520d9ab99bb42378",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a7fa8c0767a2749bfb931c8ac8219da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773409419
+        }
+    ],
     "wof:id":773409419,
-    "wof:lastmodified":1472630044,
+    "wof:lastmodified":1492806613,
     "wof:name":"Little Grocery Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

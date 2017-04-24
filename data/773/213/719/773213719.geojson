@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.468925,45.598574,-93.468925,45.598574",
     "geom:latitude":45.598574,
     "geom:longitude":-93.468925,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509789,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HEyKdiN9aou4XbStUTYzD_45.598574_-93.468925@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584023,
-    "wof:geomhash":"a541fc1137cd10ab8380ee1aaf8b3ef1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3059105725803f3489950a00e504aad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509789,
+            "region_id":85688727,
+            "venue_id":773213719
+        }
+    ],
     "wof:id":773213719,
-    "wof:lastmodified":1472629972,
+    "wof:lastmodified":1492801963,
     "wof:name":"H T I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

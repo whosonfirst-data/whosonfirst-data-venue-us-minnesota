@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.220772,44.547493,-94.220772,44.547493",
     "geom:latitude":44.547493,
     "geom:longitude":-94.220772,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510479,
+        85633793,
+        85953311,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S7DIEknemxXenK6o9AUXu_44.547493_-94.220772@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598668,
-    "wof:geomhash":"126d8a72c6042991f2e5af6f6a830c5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e0a341480a93c93771269564d657de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510479,
+            "locality_id":85953311,
+            "region_id":85688727,
+            "venue_id":806504299
+        }
+    ],
     "wof:id":806504299,
-    "wof:lastmodified":1472629310,
+    "wof:lastmodified":1492819057,
     "wof:name":"St Michael's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

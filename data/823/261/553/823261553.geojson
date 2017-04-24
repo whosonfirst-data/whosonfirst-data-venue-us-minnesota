@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.191338,45.071649,-93.191338,45.071649",
     "geom:latitude":45.071649,
     "geom:longitude":-93.191338,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"http://www.shavlik.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tM2PupM4OCQALgzoWdAHb_45.071649_-93.191338@1308186501"
     },
     "wof:country":"US",
     "wof:created":1462609580,
-    "wof:geomhash":"73f542d11117d1b97a13322c9a2fb5bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f74e79b1db3c3b40820038490dacd96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":823261553
+        }
+    ],
     "wof:id":823261553,
-    "wof:lastmodified":1472629222,
+    "wof:lastmodified":1492830016,
     "wof:name":"Shavlik Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

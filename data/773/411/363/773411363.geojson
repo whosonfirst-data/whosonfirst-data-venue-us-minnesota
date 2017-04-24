@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.583849,44.439296,-93.583849,44.439296",
     "geom:latitude":44.439296,
     "geom:longitude":-93.583849,
@@ -33,17 +34,34 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V003cKQboXgQryZsSamxS_44.439296_-93.583849@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585498,
-    "wof:geomhash":"2e48f1969fced74ba05161eacba1e995",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb0b5b313d531cc4efd43b2d00f98d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":773411363
+        }
+    ],
     "wof:id":773411363,
-    "wof:lastmodified":1472630044,
+    "wof:lastmodified":1492807114,
     "wof:name":"Montgomery Headstart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

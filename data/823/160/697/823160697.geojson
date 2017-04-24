@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.255302,45.011101,-93.255302,45.011101",
     "geom:latitude":45.011101,
     "geom:longitude":-93.255302,
@@ -32,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800097,
         85872675,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607807,
-    "wof:geomhash":"e73c281a6bdf3f2dfae0ca1b57fa8411",
+    "wof:geomhash":"befe85d912dbff567121142688b1433c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +57,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108800001,
+            "microhood_id":1108800097,
             "neighbourhood_id":85872675,
-            "region_id":85688727,
-            "venue_id":823160697
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
             "region_id":85688727,
             "venue_id":823160697
         }
     ],
     "wof:id":823160697,
-    "wof:lastmodified":1472628984,
+    "wof:lastmodified":1492831168,
     "wof:name":"Affordable Mattress Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

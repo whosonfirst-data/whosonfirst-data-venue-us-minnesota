@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.809305,45.456375,-94.809305,45.456375",
     "geom:latitude":45.456375,
     "geom:longitude":-94.809305,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514365,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lbS7o56OHOwiPHJ4IWzeU_45.456375_-94.809305@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603694,
-    "wof:geomhash":"b88347bbd23beae9bcbfee54c697f74e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e77428b490b0162853344c31a64f7849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514365,
+            "region_id":85688727,
+            "venue_id":807097657
+        }
+    ],
     "wof:id":807097657,
-    "wof:lastmodified":1472629208,
+    "wof:lastmodified":1492827370,
     "wof:name":"Ray Loxterkamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.536171,47.46054,-92.536171,47.46054",
     "geom:latitude":47.46054,
     "geom:longitude":-92.536171,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oHRUEjyTO3g3TdtWcDwqh_47.460540_-92.536171@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592981,
-    "wof:geomhash":"eaf105bd35e8e5c2c2d7544d115fe5e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f92d4f23988862d8d4302b8ca6db5c11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790081567
+        }
+    ],
     "wof:id":790081567,
-    "wof:lastmodified":1472629095,
+    "wof:lastmodified":1492832670,
     "wof:name":"S & S Service Garage",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

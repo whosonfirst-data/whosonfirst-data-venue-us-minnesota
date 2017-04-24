@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.570565,45.528898,-93.570565,45.528898",
     "geom:latitude":45.528898,
     "geom:longitude":-93.570565,
@@ -31,17 +32,32 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515049,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fl1ph093BlHOZK4Uf4JRx_45.528898_-93.570565@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584801,
-    "wof:geomhash":"c9a27ab8ea8df70522f456fdc92c9ef4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1ffe5584c7be20d014722ee0fc3007e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515049,
+            "region_id":85688727,
+            "venue_id":773314269
+        }
+    ],
     "wof:id":773314269,
-    "wof:lastmodified":1472630002,
+    "wof:lastmodified":1492799393,
     "wof:name":"A + Tax",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

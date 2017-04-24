@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.942294,44.001097,-92.942294,44.001097",
     "geom:latitude":44.001097,
     "geom:longitude":-92.942294,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513743,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SvZWQRfiDoXYLc0P80QZT_44.001097_-92.942294@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603905,
-    "wof:geomhash":"ca7b656fbeb98ddfbf5b219d5846f488",
-    "wof:hierarchy":[],
+    "wof:geomhash":"008d5f6d9f23ff280367c034dee52a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513743,
+            "region_id":85688727,
+            "venue_id":807116635
+        }
+    ],
     "wof:id":807116635,
-    "wof:lastmodified":1472629238,
+    "wof:lastmodified":1492825927,
     "wof:name":"Roger Chicos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.077876,46.283433,-96.077876,46.283433",
     "geom:latitude":46.283433,
     "geom:longitude":-96.077876,
@@ -32,17 +33,34 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DmSKTVqpA8YwZ15LcWK0X_46.283433_-96.077876@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591497,
-    "wof:geomhash":"169748f7de5d1d7daa3dca5d464f011d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c292559e6d88db58d212e054cf8dc260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":789906471
+        }
+    ],
     "wof:id":789906471,
-    "wof:lastmodified":1472629602,
+    "wof:lastmodified":1492810004,
     "wof:name":"Homework Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

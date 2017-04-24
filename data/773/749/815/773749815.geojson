@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.340597,45.083522,-93.340597,45.083522",
     "geom:latitude":45.083522,
     "geom:longitude":-93.340597,
@@ -32,17 +33,34 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tDMZtyQYnDPEt99eupfJn_45.083522_-93.340597@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588096,
-    "wof:geomhash":"967c88f7eea4bdb515a69afc19e7928c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec6d3dba27fa21a59b982ce2e2f6daea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":773749815
+        }
+    ],
     "wof:id":773749815,
-    "wof:lastmodified":1472630148,
+    "wof:lastmodified":1492799016,
     "wof:name":"Long Moune Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

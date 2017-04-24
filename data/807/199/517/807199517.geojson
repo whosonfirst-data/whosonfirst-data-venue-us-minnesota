@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.98946,43.62312,-94.98946,43.62312",
     "geom:latitude":43.62312,
     "geom:longitude":-94.98946,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73ENicCz0qmoLMucRfHm1y_43.623120_-94.989460@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604793,
-    "wof:geomhash":"68ca0950fc47f21a14aba2364cd2883a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f21e8684debc44c2396dada8d8476bd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":807199517
+        }
+    ],
     "wof:id":807199517,
-    "wof:lastmodified":1472629414,
+    "wof:lastmodified":1492827724,
     "wof:name":"Robert Neal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

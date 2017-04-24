@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.388265,44.92534,-93.388265,44.92534",
     "geom:latitude":44.92534,
     "geom:longitude":-93.388265,
@@ -31,17 +32,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oqKaNSBwCwUPbl7AAlxj2_44.925340_-93.388265@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606141,
-    "wof:geomhash":"27e12756b46da11d762db9534b431abe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b527061c33ff10ba67992a202fc548b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":807326013
+        }
+    ],
     "wof:id":807326013,
-    "wof:lastmodified":1472629714,
+    "wof:lastmodified":1492828013,
     "wof:name":"Sea Level Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.260166,44.959202,-93.260166,44.959202",
     "geom:latitude":44.959202,
     "geom:longitude":-93.260166,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559131,
+        420781109,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872701
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583188,
-    "wof:geomhash":"ff50153be80c62cb748790ed80934a6a",
+    "wof:geomhash":"a255501d40c36cedb267249b462d2cbb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559131,
-            "region_id":85688727,
-            "venue_id":773104987
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872701,
+            "macrohood_id":1108799995,
+            "neighbourhood_id":420781109,
             "region_id":85688727,
             "venue_id":773104987
         }
     ],
     "wof:id":773104987,
-    "wof:lastmodified":1472629631,
+    "wof:lastmodified":1492800064,
     "wof:name":"Fly Straight Gear",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

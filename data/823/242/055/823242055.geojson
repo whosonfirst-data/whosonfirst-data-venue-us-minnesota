@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.36869,43.907242,-96.36869,43.907242",
     "geom:latitude":43.907242,
     "geom:longitude":-96.36869,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513521,
+        85633793,
+        85953041,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Iui2uAOac9xtuva1NMjG4_43.907242_-96.368690@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609186,
-    "wof:geomhash":"8e0b37ca1df2728d12a1ab9b01541202",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d4729d86cde4323c0fbbd721e25af4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513521,
+            "locality_id":85953041,
+            "region_id":85688727,
+            "venue_id":823242055
+        }
+    ],
     "wof:id":823242055,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492828591,
     "wof:name":"Clinic Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

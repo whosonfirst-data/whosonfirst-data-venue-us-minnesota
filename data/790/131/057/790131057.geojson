@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.500363,47.290312,-96.500363,47.290312",
     "geom:latitude":47.290312,
     "geom:longitude":-96.500363,
@@ -32,17 +33,32 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512297,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54TbcvfGKGtdbPIxpcWONq_47.290312_-96.500363@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593367,
-    "wof:geomhash":"18d6a9ce7e90ea876a93ee0ce300c5fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"777bffbe31c0ba2335d6ffce5685ffcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512297,
+            "region_id":85688727,
+            "venue_id":790131057
+        }
+    ],
     "wof:id":790131057,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492834316,
     "wof:name":"Bob's Quality Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

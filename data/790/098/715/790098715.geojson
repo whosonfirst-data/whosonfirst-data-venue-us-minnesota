@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.739152,47.571946,-95.739152,47.571946",
     "geom:latitude":47.571946,
     "geom:longitude":-95.739152,
@@ -28,17 +29,34 @@
     "sg:postcode":"56542",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cUHF70SnYiCshNpGrh6De_47.571946_-95.739152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593114,
-    "wof:geomhash":"c25e248f44179623689160269ad4fe98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae180a76eb72aecf4d9e264ea6d4d5ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":790098715
+        }
+    ],
     "wof:id":790098715,
-    "wof:lastmodified":1472629133,
+    "wof:lastmodified":1492837196,
     "wof:name":"Farm Credit Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

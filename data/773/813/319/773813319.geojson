@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.612545,44.240011,-95.612545,44.240011",
     "geom:latitude":44.240011,
     "geom:longitude":-95.612545,
@@ -32,17 +33,34 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ke7HSQeXcB4WdNIJUSPbK_44.240011_-95.612545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588579,
-    "wof:geomhash":"11414ef78bf8bd214172efb32497d27e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec81ff1115ffb493d78b274ea94f3ceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":773813319
+        }
+    ],
     "wof:id":773813319,
-    "wof:lastmodified":1472630166,
+    "wof:lastmodified":1492805651,
     "wof:name":"Douglas Lau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.848295,47.084602,-95.848295,47.084602",
     "geom:latitude":47.084602,
     "geom:longitude":-95.848295,
@@ -32,17 +33,34 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511359,
+        85633793,
+        85969275,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lUS76FArQX05dNrHwn6Ec_47.084602_-95.848295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597724,
-    "wof:geomhash":"57285f7a92ad3b5080ccac17c73a374c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a54dd9d611d3cb17ee6f4a17f14ccba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511359,
+            "locality_id":85969275,
+            "region_id":85688727,
+            "venue_id":806385769
+        }
+    ],
     "wof:id":806385769,
-    "wof:lastmodified":1472629011,
+    "wof:lastmodified":1492817842,
     "wof:name":"White Earth Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

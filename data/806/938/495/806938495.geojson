@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.312608,45.95391,-95.312608,45.95391",
     "geom:latitude":45.95391,
     "geom:longitude":-95.312608,
@@ -32,17 +33,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513899,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HvH7ObviGtadFeubNrO4e_45.953910_-95.312608@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602348,
-    "wof:geomhash":"5fe1deaeb86928c5b4a5d15ac3bcda7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a783a1783e5bd7d306413a8187e99f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513899,
+            "region_id":85688727,
+            "venue_id":806938495
+        }
+    ],
     "wof:id":806938495,
-    "wof:lastmodified":1472629942,
+    "wof:lastmodified":1492814145,
     "wof:name":"B & H Self-Service Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.644629,44.834654,-93.644629,44.834654",
     "geom:latitude":44.834654,
     "geom:longitude":-93.644629,
@@ -33,17 +34,32 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511697,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74sxsiAfcdDHAn0pMYsqC3_44.834719_-93.643835@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604796,
-    "wof:geomhash":"c9280d9a8ea1d999ee7a4848e97c5db0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b35cbd98609c68c9198d4037615ecbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511697,
+            "region_id":85688727,
+            "venue_id":807199919
+        }
+    ],
     "wof:id":807199919,
-    "wof:lastmodified":1472629422,
+    "wof:lastmodified":1492827716,
     "wof:name":"Magnetic North Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

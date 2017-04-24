@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.573235,44.429239,-94.573235,44.429239",
     "geom:latitude":44.429239,
     "geom:longitude":-94.573235,
@@ -32,17 +33,32 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510107,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tM6YDShg2g8zC17uDgT0X_44.429239_-94.573235@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592529,
-    "wof:geomhash":"f36a7965d46143057f9bd12e41e6157e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3f12ce9a647f83d26d6a705e42f0de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404510107,
+            "region_id":85688727,
+            "venue_id":790024611
+        }
+    ],
     "wof:id":790024611,
-    "wof:lastmodified":1472628966,
+    "wof:lastmodified":1492837934,
     "wof:name":"Wakefield-West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

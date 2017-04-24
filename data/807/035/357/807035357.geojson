@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.438659,44.298309,-94.438659,44.298309",
     "geom:latitude":44.298309,
     "geom:longitude":-94.438659,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01JuP1ZjG6st2Ms6wWDHb9_44.298309_-94.438659@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603165,
-    "wof:geomhash":"328246d1083d91b4b380386ec1277786",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41788e9bbc747ab1cc0f80592ad76742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":807035357
+        }
+    ],
     "wof:id":807035357,
-    "wof:lastmodified":1472628996,
+    "wof:lastmodified":1492824870,
     "wof:name":"Judy Fischer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

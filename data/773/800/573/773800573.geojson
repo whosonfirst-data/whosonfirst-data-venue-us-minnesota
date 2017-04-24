@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.529726,45.135573,-94.529726,45.135573",
     "geom:latitude":45.135573,
     "geom:longitude":-94.529726,
@@ -35,17 +36,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GRw8LpW79mC80BKJhBPTJ_45.135573_-94.529726@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588470,
-    "wof:geomhash":"12945246ab450a5aba058589ba0bd5ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fc6955a5ef23589fec567cd121e1901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":773800573
+        }
+    ],
     "wof:id":773800573,
-    "wof:lastmodified":1472630164,
+    "wof:lastmodified":1492801839,
     "wof:name":"Boerner Well Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

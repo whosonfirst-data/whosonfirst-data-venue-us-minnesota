@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.185146,44.485415,-94.185146,44.485415",
     "geom:latitude":44.485415,
     "geom:longitude":-94.185146,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510489,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_107LnBe9P0DaErkIcsVtKu_44.485415_-94.185146@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587906,
-    "wof:geomhash":"1ea7c1552a4fea0f0f5674a61ba3957b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49340afb3ab5adede99d2436b229970e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510489,
+            "region_id":85688727,
+            "venue_id":773724835
+        }
+    ],
     "wof:id":773724835,
-    "wof:lastmodified":1472630143,
+    "wof:lastmodified":1492800180,
     "wof:name":"Richard Plaman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

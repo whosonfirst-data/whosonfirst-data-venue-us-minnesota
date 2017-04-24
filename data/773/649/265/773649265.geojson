@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.39505,48.58556,-93.39505,48.58556",
     "geom:latitude":48.58556,
     "geom:longitude":-93.39505,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30FrjhluMGrPHVFeAJ4lOV_48.585560_-93.395050@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587323,
-    "wof:geomhash":"098e3caf9cf4c6716f09a97e53a2e3fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ddaa618f0d8495b9e855b5958c737ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":773649265
+        }
+    ],
     "wof:id":773649265,
-    "wof:lastmodified":1472630115,
+    "wof:lastmodified":1492800350,
     "wof:name":"Falls South Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

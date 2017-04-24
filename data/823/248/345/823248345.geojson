@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.333042,45.851677,-95.333042,45.851677",
     "geom:latitude":45.851677,
     "geom:longitude":-95.333042,
@@ -35,17 +36,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513753,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m5FZAXSVpc18lA0niCZzX_45.851677_-95.333042@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609303,
-    "wof:geomhash":"023bb29477d2e723747aa5e181e540cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88af9404be1c1cd69fbb0594c901361f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513753,
+            "region_id":85688727,
+            "venue_id":823248345
+        }
+    ],
     "wof:id":823248345,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492830247,
     "wof:name":"Haggerty Heating & Air Conditioning Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

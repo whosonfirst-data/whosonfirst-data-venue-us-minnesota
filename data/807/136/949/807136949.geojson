@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223537,43.448467,-93.223537,43.448467",
     "geom:latitude":43.448467,
     "geom:longitude":-93.223537,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35mqGpE5lEM5g9pdL3v7TQ_43.448467_-93.223537@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604131,
-    "wof:geomhash":"98879a093d042ec502f7f38902e77f03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"835bcc892d5d869509bfc946d5f6a049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":807136949
+        }
+    ],
     "wof:id":807136949,
-    "wof:lastmodified":1472629267,
+    "wof:lastmodified":1492824624,
     "wof:name":"Farley Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

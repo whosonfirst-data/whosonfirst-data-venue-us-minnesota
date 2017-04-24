@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.977026,45.563713,-92.977026,45.563713",
     "geom:latitude":45.563713,
     "geom:longitude":-92.977026,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511115,
+        85633793,
+        85952703,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sIfdh6dpbaXw2xwnqbvub_45.563713_-92.977026@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588569,
-    "wof:geomhash":"b0c743d4de24c4f765fa7e21a8ad4fcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c611f07237b246d81c2930220387d458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511115,
+            "locality_id":85952703,
+            "region_id":85688727,
+            "venue_id":773811861
+        }
+    ],
     "wof:id":773811861,
-    "wof:lastmodified":1472630168,
+    "wof:lastmodified":1492803203,
     "wof:name":"D & G Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

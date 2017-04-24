@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.362579,45.015499,-93.362579,45.015499",
     "geom:latitude":45.015499,
     "geom:longitude":-93.362579,
@@ -33,17 +34,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XAbiMMLH0rTb1tnfLIJeS_45.015499_-93.362579@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608151,
-    "wof:geomhash":"c0f70cf3c9379303898333df82602931",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2757480ba1a2dbfc959fdfb7265441c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823186621
+        }
+    ],
     "wof:id":823186621,
-    "wof:lastmodified":1472629045,
+    "wof:lastmodified":1492830537,
     "wof:name":"Sound Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

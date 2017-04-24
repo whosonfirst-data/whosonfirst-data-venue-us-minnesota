@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.180003,43.819003,-93.180003,43.819003",
     "geom:latitude":43.819003,
     "geom:longitude":-93.180003,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514413,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47x0WXgvzghUzk81qQKT2L_43.819003_-93.180003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583567,
-    "wof:geomhash":"58f88ad5ee3644b1a414760d2f12846d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"872311c0abf9bac400764c1df59bb28a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514413,
+            "region_id":85688727,
+            "venue_id":773156535
+        }
+    ],
     "wof:id":773156535,
-    "wof:lastmodified":1472629737,
+    "wof:lastmodified":1492803783,
     "wof:name":"Dave Reed Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

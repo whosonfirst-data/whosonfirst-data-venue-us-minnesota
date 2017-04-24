@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.869634,46.311956,-95.869634,46.311956",
     "geom:latitude":46.311956,
     "geom:longitude":-95.869634,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513053,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C7V5kCJE8gZWD6HjITyul_46.311956_-95.869634@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604151,
-    "wof:geomhash":"6e2cefd66d3aa7a5544e0cb123a4e85e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dae073b91661fcaff984b121dacc88f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513053,
+            "region_id":85688727,
+            "venue_id":807139145
+        }
+    ],
     "wof:id":807139145,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492822700,
     "wof:name":"Scott Rocholl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

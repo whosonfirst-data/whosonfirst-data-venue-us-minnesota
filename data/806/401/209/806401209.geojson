@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.498754,47.183421,-92.498754,47.183421",
     "geom:latitude":47.183421,
     "geom:longitude":-92.498754,
@@ -31,17 +32,26 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c8XmDvoGihthWfPz3D1yM_47.183421_-92.498754@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597848,
-    "wof:geomhash":"2f6029539c8914eb826f3323b302a31b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"262a8da51454debdca640258a8ba03c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806401209
+        }
+    ],
     "wof:id":806401209,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492816009,
     "wof:name":"Soderlund Logging",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

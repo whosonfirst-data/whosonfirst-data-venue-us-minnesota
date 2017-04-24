@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.839124,45.103762,-94.839124,45.103762",
     "geom:latitude":45.103762,
     "geom:longitude":-94.839124,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513791,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Uqja3xeFA1cOvILRmeNXA_45.103762_-94.839124@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588230,
-    "wof:geomhash":"9ff7c28f476be992b2b8f80693aff600",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f76edcba390d0750e72a5388d888475c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513791,
+            "region_id":85688727,
+            "venue_id":773768375
+        }
+    ],
     "wof:id":773768375,
-    "wof:lastmodified":1472630151,
+    "wof:lastmodified":1492806346,
     "wof:name":"Dean Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

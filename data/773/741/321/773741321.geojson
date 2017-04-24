@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.862555,46.800217,-95.862555,46.800217",
     "geom:latitude":46.800217,
     "geom:longitude":-95.862555,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AndIUaUZlRj74Kcuh25Qa_46.800217_-95.862555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588030,
-    "wof:geomhash":"ce4551f45fdc85b692741f18ec01879c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14fb333862d2d26f1223a764a1d199d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":773741321
+        }
+    ],
     "wof:id":773741321,
-    "wof:lastmodified":1472630146,
+    "wof:lastmodified":1492807172,
     "wof:name":"Trent D Bartells",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

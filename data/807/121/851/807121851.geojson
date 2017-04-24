@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.768378,48.848517,-95.768378,48.848517",
     "geom:latitude":48.848517,
     "geom:longitude":-95.768378,
@@ -35,17 +36,34 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26nSMo7DStLdGoJulVXfiz_48.848759_-95.768364@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603960,
-    "wof:geomhash":"ae2a124d21e4561d0c3e241c585f27d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43591ff71ca92a2474b9734ba475a56a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":807121851
+        }
+    ],
     "wof:id":807121851,
-    "wof:lastmodified":1472629255,
+    "wof:lastmodified":1492825518,
     "wof:name":"Evergreen Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

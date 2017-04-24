@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.24178,45.538452,-93.24178,45.538452",
     "geom:latitude":45.538452,
     "geom:longitude":-93.24178,
@@ -32,17 +33,32 @@
         "land"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513113,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aeq13ZYfqkA2B4l0I1n7v_45.538452_-93.241780@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599819,
-    "wof:geomhash":"2f60da7fa5ce96ab28029eb75f893fea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ba29e9ec37dd210d78bbff821162def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513113,
+            "region_id":85688727,
+            "venue_id":806640599
+        }
+    ],
     "wof:id":806640599,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492816173,
     "wof:name":"Hansen Don E Land Surveying",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

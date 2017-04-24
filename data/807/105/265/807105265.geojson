@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.710698,43.837892,-91.710698,43.837892",
     "geom:latitude":43.837892,
     "geom:longitude":-91.710698,
@@ -28,19 +29,38 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85844731,
+        102191575,
+        404511937,
+        85633793,
+        85953131,
+        102087605,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13WdEzKglOOZEZSot2qGb3_43.837892_-91.710698@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603786,
-    "wof:geomhash":"e6cb30426c03613237d86f03a8ad7d77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0804386a0a57a0ab65b167ec171babc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087605,
+            "localadmin_id":404511937,
+            "locality_id":85953131,
+            "neighbourhood_id":85844731,
+            "region_id":85688727,
+            "venue_id":807105265
+        }
+    ],
     "wof:id":807105265,
-    "wof:lastmodified":1472629200,
+    "wof:lastmodified":1492822253,
     "wof:name":"Double Diamond Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":85844731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.780975,46.190819,-92.780975,46.190819",
     "geom:latitude":46.190819,
     "geom:longitude":-92.780975,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515219,
+        85633793,
+        85953317,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IEG6PqYZPpzxvggBVrIw5_46.190819_-92.780975@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598134,
-    "wof:geomhash":"b6ee4b54be318be893a24f741b37a480",
-    "wof:hierarchy":[],
+    "wof:geomhash":"662029f2d0a89aabab6105054c562636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404515219,
+            "locality_id":85953317,
+            "region_id":85688727,
+            "venue_id":806436077
+        }
+    ],
     "wof:id":806436077,
-    "wof:lastmodified":1472629128,
+    "wof:lastmodified":1492820967,
     "wof:name":"Askov City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

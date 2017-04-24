@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.875572,45.585515,-94.875572,45.585515",
     "geom:latitude":45.585515,
     "geom:longitude":-94.875572,
@@ -28,17 +29,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512159,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4423MsBoQJDHUdK4xZeYP0_45.585515_-94.875572@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604295,
-    "wof:geomhash":"cfab5257d711f57a78294081d87d12ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ecf1aac641113ed3a21ff8c198faf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512159,
+            "region_id":85688727,
+            "venue_id":807152285
+        }
+    ],
     "wof:id":807152285,
-    "wof:lastmodified":1472629280,
+    "wof:lastmodified":1492827694,
     "wof:name":"Jon Worms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

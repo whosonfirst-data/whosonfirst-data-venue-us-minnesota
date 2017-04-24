@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.042672,45.160525,-95.042672,45.160525",
     "geom:latitude":45.160525,
     "geom:longitude":-95.042672,
@@ -33,17 +34,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513785,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MZiWi1Rzv2FH79btHo6uq_45.160525_-95.042672@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589946,
-    "wof:geomhash":"a3912e472f0f0a71659773c1e3e12d37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dda938696bbda9b09271be7f576a07bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513785,
+            "region_id":85688727,
+            "venue_id":789711871
+        }
+    ],
     "wof:id":789711871,
-    "wof:lastmodified":1472629251,
+    "wof:lastmodified":1492813276,
     "wof:name":"Larson Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.176526,44.909054,-93.176526,44.909054",
     "geom:latitude":44.909054,
     "geom:longitude":-93.176526,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w3EYfXh4e3LlRm0S0u0mX_44.909054_-93.176526@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586578,
-    "wof:geomhash":"1e17d34b1cba521d76f94b3fdce19399",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24f52c890f581cbce5ba7c9b1d52b647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773551733
+        }
+    ],
     "wof:id":773551733,
-    "wof:lastmodified":1472630088,
+    "wof:lastmodified":1492808400,
     "wof:name":"Mindmerge Marketing",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

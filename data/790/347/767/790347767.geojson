@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.458664,44.058509,-92.458664,44.058509",
     "geom:latitude":44.058509,
     "geom:longitude":-92.458664,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h4D378072YeUvIrcXACF3_44.058509_-92.458664@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595120,
-    "wof:geomhash":"453204e7c868d7dfdc2d435ba3078ef8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d088c64c7f0c6f02ac20c17befc82679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790347767
+        }
+    ],
     "wof:id":790347767,
-    "wof:lastmodified":1472629556,
+    "wof:lastmodified":1492836440,
     "wof:name":"Castlewood Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

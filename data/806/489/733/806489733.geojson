@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181366,48.130062,-96.181366,48.130062",
     "geom:latitude":48.130062,
     "geom:longitude":-96.181366,
@@ -38,17 +39,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LPHxBgri3ePHaDxED9cif_48.130062_-96.181366@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598541,
-    "wof:geomhash":"2c678cd56542a586d29358639694eead",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f738f40e37ad13deaffe23d935734ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806489733
+        }
+    ],
     "wof:id":806489733,
-    "wof:lastmodified":1472629308,
+    "wof:lastmodified":1492817991,
     "wof:name":"Brent Wood Residence Sls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

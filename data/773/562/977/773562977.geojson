@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.53752,45.45003,-94.53752,45.45003",
     "geom:latitude":45.45003,
     "geom:longitude":-94.53752,
@@ -33,17 +34,32 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514381,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HTLWyOzWOOReFrrRvLkbs_45.450030_-94.537520@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586674,
-    "wof:geomhash":"2c85c8cfd9bdc9d8d2a5d5767188d18c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcbb5b3a54b6967e32ddf69419bb9017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514381,
+            "region_id":85688727,
+            "venue_id":773562977
+        }
+    ],
     "wof:id":773562977,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492804842,
     "wof:name":"Yard Maxx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

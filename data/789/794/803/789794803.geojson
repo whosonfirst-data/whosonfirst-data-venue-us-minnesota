@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.488556,43.855429,-92.488556,43.855429",
     "geom:latitude":43.855429,
     "geom:longitude":-92.488556,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512597,
+        85633793,
+        85953503,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cUOiDvZQ7H48YpN1IVPzc_43.855429_-92.488556@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590604,
-    "wof:geomhash":"38387964c4634002bb8ebc375bbc92aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1203627cd35c98b39c93ffd652feada5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512597,
+            "locality_id":85953503,
+            "region_id":85688727,
+            "venue_id":789794803
+        }
+    ],
     "wof:id":789794803,
-    "wof:lastmodified":1472629384,
+    "wof:lastmodified":1492813473,
     "wof:name":"Sammys Family Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

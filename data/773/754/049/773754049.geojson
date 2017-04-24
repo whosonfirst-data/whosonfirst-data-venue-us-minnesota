@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.851033,45.982364,-94.851033,45.982364",
     "geom:latitude":45.982364,
     "geom:longitude":-94.851033,
@@ -39,17 +40,34 @@
         "copying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514725,
+        85633793,
+        85968365,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6i1g4eHXE4XUmfYaQD3e8G_45.982364_-94.851033@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588125,
-    "wof:geomhash":"16d7e16afbacf34bd11d4841da7a3059",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47f35b28cb7e2a3c7717d2bb5d4fb905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514725,
+            "locality_id":85968365,
+            "region_id":85688727,
+            "venue_id":773754049
+        }
+    ],
     "wof:id":773754049,
-    "wof:lastmodified":1472630146,
+    "wof:lastmodified":1492800196,
     "wof:name":"Impact Technology Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

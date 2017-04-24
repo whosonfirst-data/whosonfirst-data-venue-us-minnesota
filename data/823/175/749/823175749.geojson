@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.342903,45.019699,-93.342903,45.019699",
     "geom:latitude":45.019699,
     "geom:longitude":-93.342903,
@@ -31,17 +32,34 @@
         "flower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0517ZjHMvp4pM4E7VdlzSJ_45.019699_-93.342903@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462608011,
-    "wof:geomhash":"a86e256563ce11faa753ae13efceb33d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe10025ef837d0ade5b9b73516d336dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823175749
+        }
+    ],
     "wof:id":823175749,
-    "wof:lastmodified":1472629014,
+    "wof:lastmodified":1492830061,
     "wof:name":"Minneapolis Gift Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.602626,47.371859,-92.602626,47.371859",
     "geom:latitude":47.371859,
     "geom:longitude":-92.602626,
@@ -28,17 +29,26 @@
     "sg:postcode":"55738",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KaWVxLAjY9PW2Llve4JfU_47.371859_-92.602626@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589898,
-    "wof:geomhash":"4ba68abd0bbaeb2f94bbf51ee0ca2ea1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc77dc518e5bdda5e802495aa805a291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789705921
+        }
+    ],
     "wof:id":789705921,
-    "wof:lastmodified":1472629244,
+    "wof:lastmodified":1492809469,
     "wof:name":"Boondocks",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

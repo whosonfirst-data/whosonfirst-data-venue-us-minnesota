@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.725487,43.743889,-93.725487,43.743889",
     "geom:latitude":43.743889,
     "geom:longitude":-93.725487,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"http://www.wellsville.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509619,
+        85633793,
+        85952579,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jsowv4lALXl3dwzZ9tz6b_43.743884_-93.725407@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604026,
-    "wof:geomhash":"6e7c709c011a13b8e1813224fe805c6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7bdd5637d67a6ef05c497c52eb19039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509619,
+            "locality_id":85952579,
+            "region_id":85688727,
+            "venue_id":807127653
+        }
+    ],
     "wof:id":807127653,
-    "wof:lastmodified":1472629254,
+    "wof:lastmodified":1492826675,
     "wof:name":"City Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

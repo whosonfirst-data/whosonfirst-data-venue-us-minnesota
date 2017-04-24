@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.700574,43.630051,-93.700574,43.630051",
     "geom:latitude":43.630051,
     "geom:longitude":-93.700574,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514083,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BWBjeuQeXrf7oI6pKcocl_43.630051_-93.700574@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592098,
-    "wof:geomhash":"53d91a4fad15c80fb5c5e2315f93d227",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dd86bb1d31d08c912e6ca351d04e3ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514083,
+            "region_id":85688727,
+            "venue_id":789972037
+        }
+    ],
     "wof:id":789972037,
-    "wof:lastmodified":1472629671,
+    "wof:lastmodified":1492811520,
     "wof:name":"Robert McGregor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

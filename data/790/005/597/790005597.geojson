@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.355748,44.750753,-93.355748,44.750753",
     "geom:latitude":44.750753,
     "geom:longitude":-93.355748,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tMsSDhBVV5Vbjzh19uoPb_44.750753_-93.355748@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592374,
-    "wof:geomhash":"4b22c8900c3e69fb869f54afe4b15373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"382f83fd467f2ced1c723819b34d9f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":790005597
+        }
+    ],
     "wof:id":790005597,
-    "wof:lastmodified":1472628951,
+    "wof:lastmodified":1492833514,
     "wof:name":"Vornwald Suann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

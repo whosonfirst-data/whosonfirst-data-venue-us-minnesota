@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.208965,45.060166,-93.208965,45.060166",
     "geom:latitude":45.060166,
     "geom:longitude":-93.208965,
@@ -31,17 +32,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hwiOg1PNPjU8JmM714Jem_45.060166_-93.208965@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582781,
-    "wof:geomhash":"fd61891a5152e739a0f1f5dbbe1a7fbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccdcdd3ecee8c2ec812cd368c5056331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":773052395
+        }
+    ],
     "wof:id":773052395,
-    "wof:lastmodified":1472629411,
+    "wof:lastmodified":1492803661,
     "wof:name":"Gryphon Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

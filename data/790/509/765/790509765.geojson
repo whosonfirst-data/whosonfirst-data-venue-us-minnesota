@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580628,44.853925,-93.580628,44.853925",
     "geom:latitude":44.853925,
     "geom:longitude":-93.580628,
@@ -28,17 +29,34 @@
     "sg:postcode":"55317",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mklm5FYqTh1fNU1rRuBCy_44.853925_-93.580628@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596450,
-    "wof:geomhash":"f9952b8ce829d61ec20204861e3320dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"068e91e877f5508e7f98657aa061bc77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":790509765
+        }
+    ],
     "wof:id":790509765,
-    "wof:lastmodified":1472629789,
+    "wof:lastmodified":1492837410,
     "wof:name":"ARC Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.568145,44.901473,-93.568145,44.901473",
     "geom:latitude":44.901473,
     "geom:longitude":-93.568145,
@@ -40,17 +41,34 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509445,
+        85633793,
+        85969207,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hywPhi6zmn2LeieLeOBEU_44.901473_-93.568145@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462605994,
-    "wof:geomhash":"595fd8777ca76c1624be2968df8f7fcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d3c2af1fc67b1b86d8f689dea1ace07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509445,
+            "locality_id":85969207,
+            "region_id":85688727,
+            "venue_id":807313263
+        }
+    ],
     "wof:id":807313263,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492826065,
     "wof:name":"Gray Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

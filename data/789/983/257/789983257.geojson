@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.66777,45.726773,-93.66777,45.726773",
     "geom:latitude":45.726773,
     "geom:longitude":-93.66777,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512561,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ml35Fl9nieb6SHFzM8GTu_45.726773_-93.667770@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592196,
-    "wof:geomhash":"b730652d2fdedd1c7d95c647a8044309",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebcaacfd93e45efcb662cbaa1e5b88d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512561,
+            "region_id":85688727,
+            "venue_id":789983257
+        }
+    ],
     "wof:id":789983257,
-    "wof:lastmodified":1472629671,
+    "wof:lastmodified":1492809350,
     "wof:name":"Lee Mitzel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

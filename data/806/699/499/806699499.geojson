@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.382396,45.036359,-93.382396,45.036359",
     "geom:latitude":45.036359,
     "geom:longitude":-93.382396,
@@ -32,17 +33,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15oAqrt7s3fMRcudxZTHMo_45.036359_-93.382396@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600331,
-    "wof:geomhash":"25d03bf1decd406b46dd0324e95906dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f9bd736f08e53a8f2ca7e94468f55b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":806699499
+        }
+    ],
     "wof:id":806699499,
-    "wof:lastmodified":1472629710,
+    "wof:lastmodified":1492818335,
     "wof:name":"Senior Dining Volunteers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

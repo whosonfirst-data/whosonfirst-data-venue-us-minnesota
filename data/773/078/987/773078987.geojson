@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.32122,44.876349,-93.32122,44.876349",
     "geom:latitude":44.876349,
     "geom:longitude":-93.32122,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59CRNVbYXJ0nKQ8brZ8MoA_44.876349_-93.321220@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582997,
-    "wof:geomhash":"e3bd4688966adc8c2481257502d5f36d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bd4663bfdf76f6b88167b9ec03c70e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773078987
+        }
+    ],
     "wof:id":773078987,
-    "wof:lastmodified":1472629532,
+    "wof:lastmodified":1492805505,
     "wof:name":"Ophthalmology PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

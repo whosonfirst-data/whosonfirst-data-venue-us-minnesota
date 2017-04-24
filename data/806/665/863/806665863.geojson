@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.738461,44.908724,-93.738461,44.908724",
     "geom:latitude":44.908724,
     "geom:longitude":-93.738461,
@@ -28,17 +29,34 @@
     "sg:postcode":"55375",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511907,
+        85633793,
+        85969123,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JGHUlosTl9rl05yek7uuG_44.908724_-93.738461@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600046,
-    "wof:geomhash":"77e9bfe02eeaf6dd627e041ddf205232",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60cf39e267ac2f82d810821d7d31866a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511907,
+            "locality_id":85969123,
+            "region_id":85688727,
+            "venue_id":806665863
+        }
+    ],
     "wof:id":806665863,
-    "wof:lastmodified":1472629662,
+    "wof:lastmodified":1492819025,
     "wof:name":"Gartner Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

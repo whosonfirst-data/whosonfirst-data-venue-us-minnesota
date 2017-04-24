@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.524228,47.465527,-92.524228,47.465527",
     "geom:latitude":47.465527,
     "geom:longitude":-92.524228,
@@ -32,17 +33,26 @@
         "refrigeration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74r5d3IC3KXnfDSPgVSG6Y_47.465527_-92.524228@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594870,
-    "wof:geomhash":"306580ee53f1ce923d784ca9257e270e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"badb505f0c56966aeeb9c07f86f412ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790313137
+        }
+    ],
     "wof:id":790313137,
-    "wof:lastmodified":1472629486,
+    "wof:lastmodified":1492835666,
     "wof:name":"Arrowhead Heating Coolg Rfrgn",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

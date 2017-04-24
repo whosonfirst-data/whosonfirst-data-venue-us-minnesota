@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.532944,43.758556,-95.532944,43.758556",
     "geom:latitude":43.758556,
     "geom:longitude":-95.532944,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512127,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qVrO1kNIgtXYSgwB2c7BV_43.758556_-95.532944@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604399,
-    "wof:geomhash":"866b05a7eccdb8819b242178cf0f0619",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be524e7560e73573d90a44c3df95cc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512127,
+            "region_id":85688727,
+            "venue_id":807162271
+        }
+    ],
     "wof:id":807162271,
-    "wof:lastmodified":1472629300,
+    "wof:lastmodified":1492827638,
     "wof:name":"Marco Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

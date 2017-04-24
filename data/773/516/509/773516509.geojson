@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.944145,45.762514,-94.944145,45.762514",
     "geom:latitude":45.762514,
     "geom:longitude":-94.944145,
@@ -28,17 +29,32 @@
     "sg:postcode":"56378",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512157,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03z71yK6Qoi0Icako0A74Z_45.762514_-94.944145@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586321,
-    "wof:geomhash":"b117f6122d0005d2592b7acf061c135b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d420220c1b72ad802d388823a56ea8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512157,
+            "region_id":85688727,
+            "venue_id":773516509
+        }
+    ],
     "wof:id":773516509,
-    "wof:lastmodified":1472630078,
+    "wof:lastmodified":1492805647,
     "wof:name":"Harrison Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

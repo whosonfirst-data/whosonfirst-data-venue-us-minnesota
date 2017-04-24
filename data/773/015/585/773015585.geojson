@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.311996,45.200216,-94.311996,45.200216",
     "geom:latitude":45.200216,
     "geom:longitude":-94.311996,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512403,
+        85633793,
+        85953559,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aDWPDVb84aH0L2U3TaG3B_45.200216_-94.311996@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582406,
-    "wof:geomhash":"76143b2bc2a402eaa35ab310b0108488",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d36adf27e3799db73131930da499433a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512403,
+            "locality_id":85953559,
+            "region_id":85688727,
+            "venue_id":773015585
+        }
+    ],
     "wof:id":773015585,
-    "wof:lastmodified":1472628993,
+    "wof:lastmodified":1492799095,
     "wof:name":"King Crow Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

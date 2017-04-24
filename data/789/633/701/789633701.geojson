@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.362508,45.019809,-93.362508,45.019809",
     "geom:latitude":45.019809,
     "geom:longitude":-93.362508,
@@ -37,17 +38,34 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NriNZXXN3CPpCiYgQ6qi3_45.019809_-93.362508@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589328,
-    "wof:geomhash":"2a8761d7cd7b70ee59a1b79a2835a1c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"786a9b56769630ec853b5d91e8892de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":789633701
+        }
+    ],
     "wof:id":789633701,
-    "wof:lastmodified":1472629081,
+    "wof:lastmodified":1492811371,
     "wof:name":"J & P Manufacturing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

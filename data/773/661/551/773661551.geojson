@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.888172,45.378193,-92.888172,45.378193",
     "geom:latitude":45.378193,
     "geom:longitude":-92.888172,
@@ -32,17 +33,34 @@
         "fiber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mFpyyxlFH2hLkKhHPJVIP_45.378193_-92.888172@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587408,
-    "wof:geomhash":"9cdd97077fb51befa6aa14cbbebdb4d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"736b813d2282bc74e27900c8ad3b32e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773661551
+        }
+    ],
     "wof:id":773661551,
-    "wof:lastmodified":1472630124,
+    "wof:lastmodified":1492799872,
     "wof:name":"Northern Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

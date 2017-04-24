@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.933199,43.639777,-95.933199,43.639777",
     "geom:latitude":43.639777,
     "geom:longitude":-95.933199,
@@ -28,17 +29,34 @@
     "sg:postcode":"56110",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513483,
+        85633793,
+        85968701,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vYebyKp9JsMULQg6VRAWI_43.639777_-95.933199@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593605,
-    "wof:geomhash":"3cea9ff97c81124d35e0d99f698133bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80441cbb0f8ab2afe7656c66e38c66e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404513483,
+            "locality_id":85968701,
+            "region_id":85688727,
+            "venue_id":790160991
+        }
+    ],
     "wof:id":790160991,
-    "wof:lastmodified":1472629265,
+    "wof:lastmodified":1492837845,
     "wof:name":"American Family Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

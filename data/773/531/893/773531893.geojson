@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.36512,43.621044,-91.36512,43.621044",
     "geom:latitude":43.621044,
     "geom:longitude":-91.36512,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1462586427,
-    "wof:geomhash":"260d8fb296f9d643e8a2c7bedfc44e49",
+    "wof:geomhash":"13b219a05b36a8a690ade6df9ae500e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":773531893
         }
     ],
     "wof:id":773531893,
-    "wof:lastmodified":1472630086,
+    "wof:lastmodified":1492802958,
     "wof:name":"Harold Olinger",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

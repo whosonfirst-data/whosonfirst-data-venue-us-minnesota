@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.805594,48.295159,-95.805594,48.295159",
     "geom:latitude":48.295159,
     "geom:longitude":-95.805594,
@@ -28,17 +29,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513815,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w4o18Ms12htxvmQMoG146_48.295159_-95.805594@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604427,
-    "wof:geomhash":"9ab797fa3ffda4c6af86f8d403883bae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9f3da0062086931a9e91aa9a41f9f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513815,
+            "region_id":85688727,
+            "venue_id":807164911
+        }
+    ],
     "wof:id":807164911,
-    "wof:lastmodified":1472629316,
+    "wof:lastmodified":1492823808,
     "wof:name":"Steve Holte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

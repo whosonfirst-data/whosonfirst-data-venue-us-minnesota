@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.178353,48.120244,-96.178353,48.120244",
     "geom:latitude":48.120244,
     "geom:longitude":-96.178353,
@@ -31,17 +32,34 @@
         "adjuster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lWi5wgFlDcABAWeJv0YZ0_48.120244_-96.178353@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588273,
-    "wof:geomhash":"3d426c7eed9903a2ecc5d8a88a564d98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fd47c01f8ff86fb1d976a54160553a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773774275
+        }
+    ],
     "wof:id":773774275,
-    "wof:lastmodified":1472630155,
+    "wof:lastmodified":1492805853,
     "wof:name":"Adams Claim Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

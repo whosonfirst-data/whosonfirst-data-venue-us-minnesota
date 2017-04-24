@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.61003,43.631137,-95.61003,43.631137",
     "geom:latitude":43.631137,
     "geom:longitude":-95.61003,
@@ -32,17 +33,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DMovZwuCqohUWXZ0gqOwp_43.631137_-95.610030@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602139,
-    "wof:geomhash":"e9351c862ef294b92cecbc6eb360417b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ed0239c7a14bf29bea485aa6ffb3ab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":806915647
+        }
+    ],
     "wof:id":806915647,
-    "wof:lastmodified":1472629933,
+    "wof:lastmodified":1492820474,
     "wof:name":"Oxford Bowl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

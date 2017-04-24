@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.500174,44.079471,-93.500174,44.079471",
     "geom:latitude":44.079471,
     "geom:longitude":-93.500174,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eVL5sdOhAZcqFmtcv6Ats_44.079471_-93.500174@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588074,
-    "wof:geomhash":"82f3b9da4f279f84b2e2d9e2052235ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06898cd6dff84ce693d1b82f1c742568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":773746685
+        }
+    ],
     "wof:id":773746685,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1492801928,
     "wof:name":"Evangelical United Methodist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

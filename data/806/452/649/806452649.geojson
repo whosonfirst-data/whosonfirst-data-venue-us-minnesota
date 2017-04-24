@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.401615,44.847078,-95.401615,44.847078",
     "geom:latitude":44.847078,
     "geom:longitude":-95.401615,
@@ -32,17 +33,32 @@
         "gas"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510597,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23E0TaF0PHFmqEGiiwWLQW_44.847078_-95.401615@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598262,
-    "wof:geomhash":"6b7936d2801f3f14d5224a3ee4c71d64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0516c6d4f548e6f6be354526d901cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510597,
+            "region_id":85688727,
+            "venue_id":806452649
+        }
+    ],
     "wof:id":806452649,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492816609,
     "wof:name":"New Horizons Ag Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

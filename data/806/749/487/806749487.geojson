@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.793104,46.556486,-95.793104,46.556486",
     "geom:latitude":46.556486,
     "geom:longitude":-95.793104,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512739,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WeOkUTjLksI4EgYmkENsS_46.556486_-95.793104@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600758,
-    "wof:geomhash":"b9ec529ceaa199c82de54f3fe2d9a9d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9780b612c8a7b300c5dc333484478bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512739,
+            "region_id":85688727,
+            "venue_id":806749487
+        }
+    ],
     "wof:id":806749487,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492813837,
     "wof:name":"Michael Kern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

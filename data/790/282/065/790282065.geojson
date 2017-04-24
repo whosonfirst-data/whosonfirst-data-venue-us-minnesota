@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.438924,44.04526,-95.438924,44.04526",
     "geom:latitude":44.04526,
     "geom:longitude":-95.438924,
@@ -31,17 +32,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VWNIQecy4cSJzJFkuEsgo_44.045260_-95.438924@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594625,
-    "wof:geomhash":"6b836853a207547e938f5d2d0375b2c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04af0d7c8839381181579dae684ab9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":790282065
+        }
+    ],
     "wof:id":790282065,
-    "wof:lastmodified":1472629433,
+    "wof:lastmodified":1492832613,
     "wof:name":"Westbrook Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

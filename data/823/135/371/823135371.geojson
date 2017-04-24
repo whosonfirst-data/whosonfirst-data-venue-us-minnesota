@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.32906,44.911649,-93.32906,44.911649",
     "geom:latitude":44.911649,
     "geom:longitude":-93.32906,
@@ -38,17 +39,34 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BMupcjPDRgoKcwUXpIGw0_44.911649_-93.329060@1303262826"
     },
     "wof:country":"US",
     "wof:created":1462607423,
-    "wof:geomhash":"8a3aa60e1eaf21b9b0c0168ca93d2fa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bbbd85fa3289f9a43dc9c5f7acf7458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823135371
+        }
+    ],
     "wof:id":823135371,
-    "wof:lastmodified":1472628931,
+    "wof:lastmodified":1492829122,
     "wof:name":"Patrick O'brien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

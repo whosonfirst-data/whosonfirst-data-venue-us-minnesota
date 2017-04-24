@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.005696,44.013336,-93.005696,44.013336",
     "geom:latitude":44.013336,
     "geom:longitude":-93.005696,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513743,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QK792o5VRgHmrQxHVfo1F_44.013336_-93.005696@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604563,
-    "wof:geomhash":"e1b5be8efc0c0dbe07f1eb39617b70b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72db9f154ca3f421490c071128c984a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513743,
+            "region_id":85688727,
+            "venue_id":807177697
+        }
+    ],
     "wof:id":807177697,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492824421,
     "wof:name":"Dave Griffith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

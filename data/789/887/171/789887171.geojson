@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.508251,47.499142,-92.508251,47.499142",
     "geom:latitude":47.499142,
     "geom:longitude":-92.508251,
@@ -31,17 +32,26 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09mrY3XkMRLOFsXFori1iE_47.499142_-92.508251@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591347,
-    "wof:geomhash":"52e59b060074c0737bf193608d2cc7f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4dedd3256516f9791ba4199daf40d6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789887171
+        }
+    ],
     "wof:id":789887171,
-    "wof:lastmodified":1472629591,
+    "wof:lastmodified":1492811797,
     "wof:name":"Virginia Area Office",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

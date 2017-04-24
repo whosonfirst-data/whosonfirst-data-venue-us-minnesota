@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.444646,45.305776,-96.444646,45.305776",
     "geom:latitude":45.305776,
     "geom:longitude":-96.444646,
@@ -32,17 +33,34 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511331,
+        85633793,
+        85952719,
+        102087619
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7REVO01mqCMhKg4CdViweb_45.305776_-96.444646@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592215,
-    "wof:geomhash":"630d08e9b8cf425adf03c6528b2b3506",
-    "wof:hierarchy":[],
+    "wof:geomhash":"860593992592c06ed6afe867e90aaa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087619,
+            "localadmin_id":404511331,
+            "locality_id":85952719,
+            "region_id":85688727,
+            "venue_id":789985825
+        }
+    ],
     "wof:id":789985825,
-    "wof:lastmodified":1472629685,
+    "wof:lastmodified":1492811107,
     "wof:name":"01 Delta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

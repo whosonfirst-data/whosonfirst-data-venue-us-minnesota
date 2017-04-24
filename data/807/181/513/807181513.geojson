@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.591031,48.711677,-94.591031,48.711677",
     "geom:latitude":48.711677,
     "geom:longitude":-94.591031,
@@ -31,17 +32,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515153,
+        85633793,
+        85952741,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yDBsNJQTR1wMFFKKPGOZX_48.711245_-94.591163@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604601,
-    "wof:geomhash":"b5bb21727e2f858db8a4ef4dc9655a7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52ab54cd31fdcdca1e93cb214e26d15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404515153,
+            "locality_id":85952741,
+            "region_id":85688727,
+            "venue_id":807181513
+        }
+    ],
     "wof:id":807181513,
-    "wof:lastmodified":1472629366,
+    "wof:lastmodified":1492826303,
     "wof:name":"Ball Ross Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.381526,44.822247,-93.381526,44.822247",
     "geom:latitude":44.822247,
     "geom:longitude":-93.381526,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h9TVHVt3T6V8Nzk3RsQ4V_44.822247_-93.381526@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600808,
-    "wof:geomhash":"3a5f45228d4ed1ffc9109b4258dc6e25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8639aa2c1ab836f8d72019232a1e0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806755435
+        }
+    ],
     "wof:id":806755435,
-    "wof:lastmodified":1472629790,
+    "wof:lastmodified":1492818050,
     "wof:name":"Maria Orosz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

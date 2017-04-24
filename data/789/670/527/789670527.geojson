@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.26312,44.866103,-93.26312,44.866103",
     "geom:latitude":44.866103,
     "geom:longitude":-93.26312,
@@ -34,17 +35,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XoRtenh6WoSICu9QVglSl_44.866103_-93.263120@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589630,
-    "wof:geomhash":"788c8cd854b9ecaa64237db4d1e2b220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb408135e226d242ee78a82ef607652f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":789670527
+        }
+    ],
     "wof:id":789670527,
-    "wof:lastmodified":1472629149,
+    "wof:lastmodified":1492813492,
     "wof:name":"Northwestern Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

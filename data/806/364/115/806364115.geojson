@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.256552,43.889493,-96.256552,43.889493",
     "geom:latitude":43.889493,
     "geom:longitude":-96.256552,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510441,
+        85633793,
+        85952977,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Wjx9vMDP1eMJl7Pw2AT6L_43.889493_-96.256552@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597535,
-    "wof:geomhash":"098db5ca09604436e496886140097fc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"853c3bd69d9041becd6f1b4accedefbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510441,
+            "locality_id":85952977,
+            "region_id":85688727,
+            "venue_id":806364115
+        }
+    ],
     "wof:id":806364115,
-    "wof:lastmodified":1472628954,
+    "wof:lastmodified":1492815451,
     "wof:name":"Punt Gary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

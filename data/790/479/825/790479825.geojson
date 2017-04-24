@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326914,45.41768,-93.326914,45.41768",
     "geom:latitude":45.41768,
     "geom:longitude":-93.326914,
@@ -31,17 +32,32 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512979,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IoZ0Dy3avVBue4jiwbzBi_45.417680_-93.326914@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596188,
-    "wof:geomhash":"8e765e8ea971b095fd1e0bed44f99c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6cd837f174319e95311ccce4daef902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512979,
+            "region_id":85688727,
+            "venue_id":790479825
+        }
+    ],
     "wof:id":790479825,
-    "wof:lastmodified":1472629767,
+    "wof:lastmodified":1492831907,
     "wof:name":"Vrc Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

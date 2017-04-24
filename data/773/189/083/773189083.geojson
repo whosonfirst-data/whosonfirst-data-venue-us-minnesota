@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.311432,45.095779,-93.311432,45.095779",
     "geom:latitude":45.095779,
     "geom:longitude":-93.311432,
@@ -28,17 +29,34 @@
     "sg:postcode":"55444",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ifiSI4tcXRVuvft0rFRW2_45.095779_-93.311432@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583839,
-    "wof:geomhash":"6a72396ddee9dbe3a35d6dea3361d548",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe0009683a5f1a24b811a21d402a9710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773189083
+        }
+    ],
     "wof:id":773189083,
-    "wof:lastmodified":1472629936,
+    "wof:lastmodified":1492804950,
     "wof:name":"Southtown Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

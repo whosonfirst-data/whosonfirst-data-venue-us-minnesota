@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.50509,47.430589,-92.50509,47.430589",
     "geom:latitude":47.430589,
     "geom:longitude":-92.50509,
@@ -31,17 +32,26 @@
         "busing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zDLTPpmRCuLk6KcHejCBd_47.430589_-92.505090@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584181,
-    "wof:geomhash":"46bc8d2b001cd8f806504a3dc607ce4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe57aea1e9baf4ab8d961d2340867876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773234849
+        }
+    ],
     "wof:id":773234849,
-    "wof:lastmodified":1472629982,
+    "wof:lastmodified":1492799568,
     "wof:name":"Brown Transportation Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

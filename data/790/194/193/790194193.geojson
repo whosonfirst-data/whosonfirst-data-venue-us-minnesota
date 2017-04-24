@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.090789,43.63758,-94.090789,43.63758",
     "geom:latitude":43.63758,
     "geom:longitude":-94.090789,
@@ -33,17 +34,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_023AS2awwhQDU5atax10yl_43.637580_-94.090789@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593891,
-    "wof:geomhash":"23985e6bbe3c69b2909f067d7f73dd0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9d88b761adf68aadb5eaf6f9f157654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":790194193
+        }
+    ],
     "wof:id":790194193,
-    "wof:lastmodified":1472629274,
+    "wof:lastmodified":1492835479,
     "wof:name":"Kwik Trip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

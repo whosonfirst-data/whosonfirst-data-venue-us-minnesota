@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.379437,46.516001,-95.379437,46.516001",
     "geom:latitude":46.516001,
     "geom:longitude":-95.379437,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515169,
+        85633793,
+        85968759,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R4aHZiF607osdLHFLYixE_46.516001_-95.379437@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592084,
-    "wof:geomhash":"a75a1c546809213555bcb484e8116745",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f39fe2d09ad953d02c0766389e08b96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404515169,
+            "locality_id":85968759,
+            "region_id":85688727,
+            "venue_id":789970327
+        }
+    ],
     "wof:id":789970327,
-    "wof:lastmodified":1472629671,
+    "wof:lastmodified":1492809361,
     "wof:name":"Zion United Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

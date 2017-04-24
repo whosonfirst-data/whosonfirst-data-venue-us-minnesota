@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.929064,46.239424,-95.929064,46.239424",
     "geom:latitude":46.239424,
     "geom:longitude":-95.929064,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512737,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Da9eJFbcI27HjWvtEeYR0_46.239424_-95.929064@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603651,
-    "wof:geomhash":"839c0c1c4c61a8bfe1638d4155f65803",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01c64ed4f3e0420228363d10e52f8a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512737,
+            "region_id":85688727,
+            "venue_id":807093737
+        }
+    ],
     "wof:id":807093737,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492827273,
     "wof:name":"Petterson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

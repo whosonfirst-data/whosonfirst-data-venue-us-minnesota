@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.382797,45.119598,-93.382797,45.119598",
     "geom:latitude":45.119598,
     "geom:longitude":-93.382797,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"www.borderstateselectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66Ckq1E6j7jTlWmPFGJ29f_45.119732_-93.382736@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604625,
-    "wof:geomhash":"76bb5783187ca2708040ce119d856146",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23300340fe9689566774c0dfd8c95bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":807184021
+        }
+    ],
     "wof:id":807184021,
-    "wof:lastmodified":1472629344,
+    "wof:lastmodified":1492825602,
     "wof:name":"Border States Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

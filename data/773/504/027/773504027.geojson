@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.541242,47.462303,-92.541242,47.462303",
     "geom:latitude":47.462303,
     "geom:longitude":-92.541242,
@@ -31,17 +32,26 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DPvhNhfFONmKaqtKwSEf5_47.462303_-92.541242@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586232,
-    "wof:geomhash":"82f62a2f7ef5a3f3e84e85ea3bff204f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31a0b0f22f20903714c6bd2104f3f539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773504027
+        }
+    ],
     "wof:id":773504027,
-    "wof:lastmodified":1472630071,
+    "wof:lastmodified":1492805393,
     "wof:name":"Range Plastic Welding",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

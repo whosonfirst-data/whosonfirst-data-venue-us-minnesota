@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.230324,46.398297,-96.230324,46.398297",
     "geom:latitude":46.398297,
     "geom:longitude":-96.230324,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512913,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30d05lBLbqkZPkM0Z0FjVB_46.398297_-96.230324@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604119,
-    "wof:geomhash":"00f8017b7099dbf8543cccf39d5f9ee5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fd0008916ebaec0f88987f81a534c84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512913,
+            "region_id":85688727,
+            "venue_id":807135749
+        }
+    ],
     "wof:id":807135749,
-    "wof:lastmodified":1472629264,
+    "wof:lastmodified":1492823762,
     "wof:name":"Stenerson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

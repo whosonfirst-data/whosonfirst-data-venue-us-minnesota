@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.06559,44.270535,-94.06559,44.270535",
     "geom:latitude":44.270535,
     "geom:longitude":-94.06559,
@@ -27,17 +28,32 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513475,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z3R2YJkH1HiattGtPguqd_44.270535_-94.065590@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604780,
-    "wof:geomhash":"186c31c132ec233c1c14ce9748c769ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40283fc86eb7533385a6460eaea09ec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513475,
+            "region_id":85688727,
+            "venue_id":807198191
+        }
+    ],
     "wof:id":807198191,
-    "wof:lastmodified":1472629381,
+    "wof:lastmodified":1492827001,
     "wof:name":"Howard Vogel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

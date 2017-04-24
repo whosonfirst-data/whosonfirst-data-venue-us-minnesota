@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.755433,43.808307,-91.755433,43.808307",
     "geom:latitude":43.808307,
     "geom:longitude":-91.755433,
@@ -28,17 +29,34 @@
     "sg:postcode":"55971",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ROhXPPRIwiAlwWpzdy2oC_43.808307_-91.755433@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585682,
-    "wof:geomhash":"384c717286abe42d09de9d8ec0ada18f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf9f5093f037dc7298777f25e545ac6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":773431835
+        }
+    ],
     "wof:id":773431835,
-    "wof:lastmodified":1472630055,
+    "wof:lastmodified":1492801966,
     "wof:name":"Emmanuel Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

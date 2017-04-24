@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.393125,44.911878,-93.393125,44.911878",
     "geom:latitude":44.911878,
     "geom:longitude":-93.393125,
@@ -38,17 +39,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ghP3niPflepc6GQu1yefj_44.911878_-93.393125@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608457,
-    "wof:geomhash":"fdfddd654458b9806f35f17d9080d5be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd8e0943663dc25123af2b95dc4a1b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823205793
+        }
+    ],
     "wof:id":823205793,
-    "wof:lastmodified":1472629063,
+    "wof:lastmodified":1492829934,
     "wof:name":"Mambo Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

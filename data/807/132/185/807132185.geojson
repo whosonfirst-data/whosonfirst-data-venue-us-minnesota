@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.117068,47.180693,-96.117068,47.180693",
     "geom:latitude":47.180693,
     "geom:longitude":-96.117068,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512277,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T8MdmeagAfrUw3zABBSm5_47.180693_-96.117068@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604075,
-    "wof:geomhash":"448a4dafdb5216b85683d392528e6513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"777ba17ed5705a65d8aef048709abe65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512277,
+            "region_id":85688727,
+            "venue_id":807132185
+        }
+    ],
     "wof:id":807132185,
-    "wof:lastmodified":1472629233,
+    "wof:lastmodified":1492827311,
     "wof:name":"Charles Braaten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

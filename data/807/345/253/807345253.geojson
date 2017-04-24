@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.572197,44.758301,-93.572197,44.758301",
     "geom:latitude":44.758301,
     "geom:longitude":-93.572197,
@@ -41,17 +42,32 @@
         "nightlife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514989,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53nig0L0wVEdg3ofl3Ue60_44.758301_-93.572197@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606436,
-    "wof:geomhash":"ccb74b9cfcf38975c0bd459f8d5f9fa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b4529cb712f092cb31ce6021d0317d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514989,
+            "region_id":85688727,
+            "venue_id":807345253
+        }
+    ],
     "wof:id":807345253,
-    "wof:lastmodified":1472629775,
+    "wof:lastmodified":1492826831,
     "wof:name":"Louie's Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.768168,44.623674,-93.768168,44.623674",
     "geom:latitude":44.623674,
     "geom:longitude":-93.768168,
@@ -31,17 +32,34 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514973,
+        85633793,
+        85952539,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aaUzojxC01xfrc0ruCFvM_44.623674_-93.768168@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586940,
-    "wof:geomhash":"a7971149a56b4f742454c43e2b95ffae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73d66aad3c2f728784177fc2d6162666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514973,
+            "locality_id":85952539,
+            "region_id":85688727,
+            "venue_id":773599615
+        }
+    ],
     "wof:id":773599615,
-    "wof:lastmodified":1472630109,
+    "wof:lastmodified":1492800496,
     "wof:name":"Bake Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

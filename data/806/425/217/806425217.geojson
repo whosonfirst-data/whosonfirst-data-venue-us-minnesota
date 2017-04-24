@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.373806,43.651588,-93.373806,43.651588",
     "geom:latitude":43.651588,
     "geom:longitude":-93.373806,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"www.fountaincenters.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56zl4ZC440QaBUOpBewoas_43.651588_-93.373806@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598043,
-    "wof:geomhash":"401dc24574825e9db487da849d80e5d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b46627ad41956cc5d2d54d44faa3da12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806425217
+        }
+    ],
     "wof:id":806425217,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492818180,
     "wof:name":"Fountain Centers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.329153,45.060181,-93.329153,45.060181",
     "geom:latitude":45.060181,
     "geom:longitude":-93.329153,
@@ -42,17 +43,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qWUZav9tEbCKYfUfyIO0B_45.060181_-93.329153@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608220,
-    "wof:geomhash":"2be0c75a1e5503b053eb092c9dea4373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e08d823c39010ba6f97b15968ca5916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823192121
+        }
+    ],
     "wof:id":823192121,
-    "wof:lastmodified":1472629021,
+    "wof:lastmodified":1492828840,
     "wof:name":"Integrated Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

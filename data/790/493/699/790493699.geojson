@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.842051,44.123368,-93.842051,44.123368",
     "geom:latitude":44.123368,
     "geom:longitude":-93.842051,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511537,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NdbMnRLxI5DzYlVTV7q4u_44.123368_-93.842051@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596317,
-    "wof:geomhash":"bd5c1183f222ab377c39b524852eb749",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a4ac8ef5f45bfd607dc51ee723a29a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511537,
+            "region_id":85688727,
+            "venue_id":790493699
+        }
+    ],
     "wof:id":790493699,
-    "wof:lastmodified":1472629772,
+    "wof:lastmodified":1492831598,
     "wof:name":"Eggen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

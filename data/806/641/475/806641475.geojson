@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.542352,44.81184,-93.542352,44.81184",
     "geom:latitude":44.81184,
     "geom:longitude":-93.542352,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PAazAULaoyqbcOfSdZJqf_44.811840_-93.542352@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599826,
-    "wof:geomhash":"1c923998147e289290d5105cd445799e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ded408b0eaf4c930414bdc3ef00c4b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":806641475
+        }
+    ],
     "wof:id":806641475,
-    "wof:lastmodified":1472629584,
+    "wof:lastmodified":1492818137,
     "wof:name":"Paradise Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

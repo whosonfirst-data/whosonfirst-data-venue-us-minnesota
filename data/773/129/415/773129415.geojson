@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.131664,44.924524,-93.131664,44.924524",
     "geom:latitude":44.924524,
     "geom:longitude":-93.131664,
@@ -32,19 +33,38 @@
     ],
     "sg:website":"www.speedwaysuperamerica.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HXWawmfKKatPtxxIAYOm1_44.924524_-93.131664@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583356,
-    "wof:geomhash":"2a3e43b283a7008caf162ea71f55bd1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"531d48ae46e20729686b7f302b70b9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":773129415
+        }
+    ],
     "wof:id":773129415,
-    "wof:lastmodified":1472629656,
+    "wof:lastmodified":1492805896,
     "wof:name":"Super America",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

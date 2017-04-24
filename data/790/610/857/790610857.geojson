@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.932299,44.107749,-94.932299,44.107749",
     "geom:latitude":44.107749,
     "geom:longitude":-94.932299,
@@ -37,17 +38,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511873,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ETXzNEQr1ZikowaQvJoWS_44.107749_-94.932299@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597311,
-    "wof:geomhash":"a3602b552b5bbff9892847919a26412d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0804995b2236f98d1d78d46ca894e163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511873,
+            "region_id":85688727,
+            "venue_id":790610857
+        }
+    ],
     "wof:id":790610857,
-    "wof:lastmodified":1472629920,
+    "wof:lastmodified":1492836514,
     "wof:name":"Tim Evers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

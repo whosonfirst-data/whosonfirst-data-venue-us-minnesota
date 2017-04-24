@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.675896,45.159743,-94.675896,45.159743",
     "geom:latitude":45.159743,
     "geom:longitude":-94.675896,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512413,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JNCdOOfmWMonpuripFpHS_45.159743_-94.675896@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588982,
-    "wof:geomhash":"b131877e7fd7d066472fa50bb7b6402a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d345120c7c122137f3f7b7512c15454e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512413,
+            "region_id":85688727,
+            "venue_id":789589435
+        }
+    ],
     "wof:id":789589435,
-    "wof:lastmodified":1472628943,
+    "wof:lastmodified":1492812425,
     "wof:name":"Struthers Pork Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

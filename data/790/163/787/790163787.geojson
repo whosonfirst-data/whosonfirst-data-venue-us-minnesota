@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.408929,43.981748,-92.408929,43.981748",
     "geom:latitude":43.981748,
     "geom:longitude":-92.408929,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KqxwVEN1kNjN1EwQM91Da_43.981748_-92.408929@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593634,
-    "wof:geomhash":"1efa044f6d73a0294c82df2e437bc161",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a975ef6c302cb50a3aa56715d3ea145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790163787
+        }
+    ],
     "wof:id":790163787,
-    "wof:lastmodified":1472629264,
+    "wof:lastmodified":1492833698,
     "wof:name":"Steve Ihrke Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.915011,45.586828,-95.915011,45.586828",
     "geom:latitude":45.586828,
     "geom:longitude":-95.915011,
@@ -32,17 +33,34 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30bIzPzKF7M6a0qum7JxZx_45.586828_-95.915011@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587148,
-    "wof:geomhash":"a1dab0e3f550919e4fd5988822812836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be3b24423135bcbd78d7300337ee3994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":773627123
+        }
+    ],
     "wof:id":773627123,
-    "wof:lastmodified":1472630113,
+    "wof:lastmodified":1492801278,
     "wof:name":"United Building Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.191197,43.920431,-94.191197,43.920431",
     "geom:latitude":43.920431,
     "geom:longitude":-94.191197,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511565,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q8bOJ2XmelrswyLmXfFFO_43.920431_-94.191197@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604396,
-    "wof:geomhash":"f2e75a412d5ce736a949f2774de38f55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60dcdd15b0867b490259e4b76c4bc479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511565,
+            "region_id":85688727,
+            "venue_id":807161887
+        }
+    ],
     "wof:id":807161887,
-    "wof:lastmodified":1472629319,
+    "wof:lastmodified":1492824815,
     "wof:name":"Keith Wendt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

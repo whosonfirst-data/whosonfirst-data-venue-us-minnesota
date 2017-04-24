@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.491243,45.89972,-95.491243,45.89972",
     "geom:latitude":45.89972,
     "geom:longitude":-95.491243,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513913,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O2Yomoie2ELypsaxyAAPr_45.899720_-95.491243@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586717,
-    "wof:geomhash":"0b5e8b1c2029222c616557ef22f893eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98e55712c61240920e4e7bd94503e134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513913,
+            "region_id":85688727,
+            "venue_id":773569775
+        }
+    ],
     "wof:id":773569775,
-    "wof:lastmodified":1472630097,
+    "wof:lastmodified":1492800150,
     "wof:name":"Border States Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

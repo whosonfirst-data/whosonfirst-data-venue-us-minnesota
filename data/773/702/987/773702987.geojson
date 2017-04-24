@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.366363,44.890968,-94.366363,44.890968",
     "geom:latitude":44.890968,
     "geom:longitude":-94.366363,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eAhU0kc2wB8KdEqkQ5k4t_44.890968_-94.366363@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587746,
-    "wof:geomhash":"aff1c58cbb2ddef32d5c634f123ef471",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddfdd0496a9178706f1e612aac8bc94e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773702987
+        }
+    ],
     "wof:id":773702987,
-    "wof:lastmodified":1472630137,
+    "wof:lastmodified":1492803195,
     "wof:name":"Evergreen Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.773421,48.19659,-96.773421,48.19659",
     "geom:latitude":48.19659,
     "geom:longitude":-96.773421,
@@ -32,17 +33,34 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513989,
+        85633793,
+        85953457,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WMDBobP9ylf1fNXlQxK1s_48.196590_-96.773421@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602713,
-    "wof:geomhash":"4815087adbdd8f61471c76dfeb4cbbef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d772c83c0e9256343e6adbe1013dcd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513989,
+            "locality_id":85953457,
+            "region_id":85688727,
+            "venue_id":806982411
+        }
+    ],
     "wof:id":806982411,
-    "wof:lastmodified":1472629968,
+    "wof:lastmodified":1492821373,
     "wof:name":"Warren Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

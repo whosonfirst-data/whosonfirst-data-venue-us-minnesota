@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.342522,45.14869,-93.342522,45.14869",
     "geom:latitude":45.14869,
     "geom:longitude":-93.342522,
@@ -31,17 +32,34 @@
         "instruments-industrial-repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12gc08j0eMjZkxJnthhYnx_45.148690_-93.342522@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608568,
-    "wof:geomhash":"3c9b75355b40566b1e4bbcafb42f6c93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89fc28d21175d2e4d6a8ecd524296cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823211977
+        }
+    ],
     "wof:id":823211977,
-    "wof:lastmodified":1472629115,
+    "wof:lastmodified":1492828219,
     "wof:name":"Laserserve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

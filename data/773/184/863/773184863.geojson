@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.600051,46.556725,-95.600051,46.556725",
     "geom:latitude":46.556725,
     "geom:longitude":-95.600051,
@@ -31,17 +32,32 @@
         "field"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513043,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70r2SHfeZrMFtKKCapgw4P_46.556725_-95.600051@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583798,
-    "wof:geomhash":"c08f1cd517bc9a0020e1973c6444f4a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e96d4d75227da7525acb13c17dfcf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513043,
+            "region_id":85688727,
+            "venue_id":773184863
+        }
+    ],
     "wof:id":773184863,
-    "wof:lastmodified":1472629924,
+    "wof:lastmodified":1492804857,
     "wof:name":"Ternus Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

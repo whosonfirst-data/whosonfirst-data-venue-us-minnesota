@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.490736,44.021623,-92.490736,44.021623",
     "geom:latitude":44.021623,
     "geom:longitude":-92.490736,
@@ -51,17 +52,34 @@
         "renter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jaLdRZWbSzlNGbfTrFv7k_44.021623_-92.490736@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608982,
-    "wof:geomhash":"b912320f6c547229f5f6b2ad3fe97490",
-    "wof:hierarchy":[],
+    "wof:geomhash":"187ce50e48b6af418ab06552df9fd9a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823231645
+        }
+    ],
     "wof:id":823231645,
-    "wof:lastmodified":1472629143,
+    "wof:lastmodified":1492830774,
     "wof:name":"Allstate Insurance Company - Thomas Henslin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

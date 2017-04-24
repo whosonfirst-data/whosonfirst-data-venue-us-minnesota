@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.383809,44.948313,-93.383809,44.948313",
     "geom:latitude":44.948313,
     "geom:longitude":-93.383809,
@@ -40,17 +41,34 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EAtCxu2qgNG0yG8a6ychU_44.948313_-93.383809@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608107,
-    "wof:geomhash":"e2d99b0cddfba445a814bb651a7b1424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f2e6fad531cd88fb22ff9789ba4b87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823183373
+        }
+    ],
     "wof:id":823183373,
-    "wof:lastmodified":1472629022,
+    "wof:lastmodified":1492830706,
     "wof:name":"Aquila Park Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

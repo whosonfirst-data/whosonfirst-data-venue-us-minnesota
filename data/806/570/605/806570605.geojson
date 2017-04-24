@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.56033,44.850358,-93.56033,44.850358",
     "geom:latitude":44.850358,
     "geom:longitude":-93.56033,
@@ -31,17 +32,34 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YkqeYC76kXSVWoG4O5oMg_44.850358_-93.560330@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599216,
-    "wof:geomhash":"0982ad4f6883d490d0f0a782fd0700c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b43fe5b1933be58343bde2926a06ca21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":806570605
+        }
+    ],
     "wof:id":806570605,
-    "wof:lastmodified":1472629475,
+    "wof:lastmodified":1492815427,
     "wof:name":"Jon Herring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

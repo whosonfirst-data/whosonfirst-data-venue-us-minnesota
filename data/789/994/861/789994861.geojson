@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.970775,44.551754,-95.970775,44.551754",
     "geom:latitude":44.551754,
     "geom:longitude":-95.970775,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512663,
+        85633793,
+        85968533,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g9a3yvj3DKTx2hiWwAiYg_44.551754_-95.970775@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592286,
-    "wof:geomhash":"fe25264d253902e2a4a7def934bcdd43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faf93165c3fc762cf246bd0ca9490831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512663,
+            "locality_id":85968533,
+            "region_id":85688727,
+            "venue_id":789994861
+        }
+    ],
     "wof:id":789994861,
-    "wof:lastmodified":1472629682,
+    "wof:lastmodified":1492811037,
     "wof:name":"Hearts and Hands Day Care Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.444693,44.906721,-94.444693,44.906721",
     "geom:latitude":44.906721,
     "geom:longitude":-94.444693,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512681,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MJ0JOuI6FSIPekoK7WOSw_44.906721_-94.444693@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591065,
-    "wof:geomhash":"caa5db68210c6edbb4cd7ec2aabe6839",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66430c1e0aa3589e40b65696c6b628cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512681,
+            "region_id":85688727,
+            "venue_id":789854785
+        }
+    ],
     "wof:id":789854785,
-    "wof:lastmodified":1472629525,
+    "wof:lastmodified":1492812709,
     "wof:name":"Upper Midwest AC Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.827022,47.351754,-96.827022,47.351754",
     "geom:latitude":47.351754,
     "geom:longitude":-96.827022,
@@ -39,17 +40,34 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512285,
+        85633793,
+        85968335,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QvApJCLsYTDlDFLnFbTBB_47.351754_-96.827022@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609459,
-    "wof:geomhash":"b2dda152ea7466dc0b510e09a572bb3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a7724de30ed1a6ae27df9615e3e01a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512285,
+            "locality_id":85968335,
+            "region_id":85688727,
+            "venue_id":823255999
+        }
+    ],
     "wof:id":823255999,
-    "wof:lastmodified":1472629227,
+    "wof:lastmodified":1492831212,
     "wof:name":"Jacobson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.386991,45.109273,-93.386991,45.109273",
     "geom:latitude":45.109273,
     "geom:longitude":-93.386991,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://www.tcfence.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YMjjZrfj2yUU1zX7MEAky_45.109273_-93.386991@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608607,
-    "wof:geomhash":"d45e408d33400ac47453baa9655c26aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d99b30662c4c724721a6203c9509269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213997
+        }
+    ],
     "wof:id":823213997,
-    "wof:lastmodified":1472629115,
+    "wof:lastmodified":1492829219,
     "wof:name":"Town & Country Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

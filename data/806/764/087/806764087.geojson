@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.177481,43.724293,-94.177481,43.724293",
     "geom:latitude":43.724293,
     "geom:longitude":-94.177481,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514103,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l4Tbz6VaDveFKrwK7J1Lr_43.724293_-94.177481@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600879,
-    "wof:geomhash":"27bed55311f26b3a69c5379c1a490a4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99c58a2f283536c250865832fcba2b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514103,
+            "region_id":85688727,
+            "venue_id":806764087
+        }
+    ],
     "wof:id":806764087,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492814360,
     "wof:name":"Hill Brothers Partnership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

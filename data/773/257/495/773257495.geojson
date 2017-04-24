@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.028812,44.148145,-94.028812,44.148145",
     "geom:latitude":44.148145,
     "geom:longitude":-94.028812,
@@ -32,17 +33,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cPpBIAnPhoKQumAnrEyoH_44.148145_-94.028812@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584345,
-    "wof:geomhash":"9dc9390145489c2c41e5d36aa3bc5ec3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cdf7ca7bbc7b430ecdc00226f199fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":773257495
+        }
+    ],
     "wof:id":773257495,
-    "wof:lastmodified":1472629996,
+    "wof:lastmodified":1492805525,
     "wof:name":"Woodland Hills Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.323304,44.885385,-93.323304,44.885385",
     "geom:latitude":44.885385,
     "geom:longitude":-93.323304,
@@ -40,17 +41,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BM8Jpf1Yj8yDospEcWpGu_44.885385_-93.323304@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608438,
-    "wof:geomhash":"5ac1e1ecd6e9557a3d7283d1837adc95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7ba7e42329d217ff2920a0d336e32ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823204727
+        }
+    ],
     "wof:id":823204727,
-    "wof:lastmodified":1472629064,
+    "wof:lastmodified":1492828952,
     "wof:name":"Mulligan Golf Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

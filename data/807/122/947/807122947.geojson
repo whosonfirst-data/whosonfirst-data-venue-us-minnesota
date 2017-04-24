@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.3377,44.829334,-93.3377,44.829334",
     "geom:latitude":44.829334,
     "geom:longitude":-93.3377,
@@ -33,17 +34,34 @@
         "organ-tuning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aO5xrjVltwjfbE7d24mBp_44.828706_-93.337798@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603971,
-    "wof:geomhash":"a4ba7d0bd20f6cae9b873e9aff552eef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a5bdecb78a980512edfcce4f11694a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":807122947
+        }
+    ],
     "wof:id":807122947,
-    "wof:lastmodified":1472629258,
+    "wof:lastmodified":1492825206,
     "wof:name":"Mark Easter Rpt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

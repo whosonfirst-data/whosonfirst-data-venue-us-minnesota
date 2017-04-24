@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.095766,44.93615,-93.095766,44.93615",
     "geom:latitude":44.93615,
     "geom:longitude":-93.095766,
@@ -32,19 +33,38 @@
     ],
     "sg:website":"www.anchorfasteners.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AROYIXZQzwYCZiOFJHz9a_44.936150_-93.095766@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597519,
-    "wof:geomhash":"68e1bcc1662ae2a669c9a47ee6943653",
-    "wof:hierarchy":[],
+    "wof:geomhash":"916466c18af8fd8e7603a956abdf40ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":806361789
+        }
+    ],
     "wof:id":806361789,
-    "wof:lastmodified":1472628972,
+    "wof:lastmodified":1492818753,
     "wof:name":"Anchor Fasteners",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

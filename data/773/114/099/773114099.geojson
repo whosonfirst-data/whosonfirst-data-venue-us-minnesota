@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.391336,44.78878,-95.391336,44.78878",
     "geom:latitude":44.78878,
     "geom:longitude":-95.391336,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512477,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W5ZIfMdwWqy00VHtaeDMV_44.788780_-95.391336@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583248,
-    "wof:geomhash":"7ccc8b0e578b21a4fd12267ef485cb6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9e94d267ce8be5842d6abaec2246124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512477,
+            "region_id":85688727,
+            "venue_id":773114099
+        }
+    ],
     "wof:id":773114099,
-    "wof:lastmodified":1472629593,
+    "wof:lastmodified":1492807881,
     "wof:name":"C C X",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.395222,48.582804,-93.395222,48.582804",
     "geom:latitude":48.582804,
     "geom:longitude":-93.395222,
@@ -31,17 +32,34 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XKdoDLujypsD80NGByN4M_48.582804_-93.395222@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601024,
-    "wof:geomhash":"381ed3cbab75631922db3e6d89f4a0bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72a9d32514d96d77e2285d17c6a7db25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":806781179
+        }
+    ],
     "wof:id":806781179,
-    "wof:lastmodified":1472629818,
+    "wof:lastmodified":1492815236,
     "wof:name":"Three Lakes Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

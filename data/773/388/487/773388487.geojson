@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.049204,44.964195,-94.049204,44.964195",
     "geom:latitude":44.964195,
     "geom:longitude":-94.049204,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4teXHzKVaCB1ZPeCA7pA2t_44.964195_-94.049204@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585312,
-    "wof:geomhash":"b593c048cda425754346befdd41fe521",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5362c653fa840170b7c622c5d58b401b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":773388487
+        }
+    ],
     "wof:id":773388487,
-    "wof:lastmodified":1472630038,
+    "wof:lastmodified":1492808378,
     "wof:name":"Bryan Cafferty's Svc Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

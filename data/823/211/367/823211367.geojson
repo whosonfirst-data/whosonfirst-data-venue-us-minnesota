@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.409148,45.062414,-93.409148,45.062414",
     "geom:latitude":45.062414,
     "geom:longitude":-93.409148,
@@ -53,17 +54,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kp4Qzmd2IrTij90DC1wKA_45.062414_-93.409148@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608558,
-    "wof:geomhash":"a82633cd51c0a8980b6f64d40940aa36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd7e1f8531402da83818be7bcedd2e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823211367
+        }
+    ],
     "wof:id":823211367,
-    "wof:lastmodified":1472629095,
+    "wof:lastmodified":1492828213,
     "wof:name":"Anixter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

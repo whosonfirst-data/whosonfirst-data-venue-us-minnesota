@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.051441,46.426674,-95.051441,46.426674",
     "geom:latitude":46.426674,
     "geom:longitude":-95.051441,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514851,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ULjwtGJPMQu7Z4Yg21GOB_46.426674_-95.051441@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603912,
-    "wof:geomhash":"abc134eb6f64d3f99673b6cdfd8e1b87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1e6439ebe86b76e51ec9e9f36027e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514851,
+            "region_id":85688727,
+            "venue_id":807117411
+        }
+    ],
     "wof:id":807117411,
-    "wof:lastmodified":1472629225,
+    "wof:lastmodified":1492825789,
     "wof:name":"Scott Horn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

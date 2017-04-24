@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576236,43.775434,-94.576236,43.775434",
     "geom:latitude":43.775434,
     "geom:longitude":-94.576236,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509987,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tXENCK44SNblAfy5fKpBr_43.775434_-94.576236@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604080,
-    "wof:geomhash":"91c4fecbc72751413a78b6a4b3a5e3bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7d96971ec967c3580c01259279d0edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404509987,
+            "region_id":85688727,
+            "venue_id":807132553
+        }
+    ],
     "wof:id":807132553,
-    "wof:lastmodified":1472629259,
+    "wof:lastmodified":1492827319,
     "wof:name":"Jon Helvig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.198444,45.537758,-94.198444,45.537758",
     "geom:latitude":45.537758,
     "geom:longitude":-94.198444,
@@ -39,17 +40,34 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y2UQbwSg7q9GvuxLIB9w3_45.537758_-94.198444@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598306,
-    "wof:geomhash":"610122a09b9c9f0aeffc2818fe05477f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdda65487c0cb201690737084c8f70ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":806459065
+        }
+    ],
     "wof:id":806459065,
-    "wof:lastmodified":1472629181,
+    "wof:lastmodified":1492821486,
     "wof:name":"Quarry Heights Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

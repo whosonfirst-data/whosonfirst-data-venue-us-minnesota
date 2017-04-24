@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.275589,44.883457,-93.275589,44.883457",
     "geom:latitude":44.883457,
     "geom:longitude":-93.275589,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31yx0o0TbbKeM03KhzRIfQ_44.883457_-93.275589@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587734,
-    "wof:geomhash":"65efec453eac389bf052b471db5f710c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c03d360be270daa63e0f4ccba3f13726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":773701205
+        }
+    ],
     "wof:id":773701205,
-    "wof:lastmodified":1472630132,
+    "wof:lastmodified":1492807773,
     "wof:name":"LA Prep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

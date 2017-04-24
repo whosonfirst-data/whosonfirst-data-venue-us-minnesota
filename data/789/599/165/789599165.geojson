@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.360752,45.977222,-94.360752,45.977222",
     "geom:latitude":45.977222,
     "geom:longitude":-94.360752,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L5x0RBhrbBaikxIgLbsFI_45.977222_-94.360752@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589062,
-    "wof:geomhash":"43d2682ecdae0ebf95b814084e86af7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4afdc738af179fa87f70766a09059480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":789599165
+        }
+    ],
     "wof:id":789599165,
-    "wof:lastmodified":1472628958,
+    "wof:lastmodified":1492809803,
     "wof:name":"Jensen Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

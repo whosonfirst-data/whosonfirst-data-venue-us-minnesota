@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.025702,44.938929,-93.025702,44.938929",
     "geom:latitude":44.938929,
     "geom:longitude":-93.025702,
@@ -28,19 +29,40 @@
     "sg:postcode":"55106",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fUr29UqMHKBYb2mRZ5pws_44.938929_-93.025702@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591359,
-    "wof:geomhash":"04dddd2fcc8a4664708797cb3a9c031d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90cb5d6faad87ec65df7d61923d13e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":789888851
+        }
+    ],
     "wof:id":789888851,
-    "wof:lastmodified":1472629597,
+    "wof:lastmodified":1492809548,
     "wof:name":"Pattys Poodles",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

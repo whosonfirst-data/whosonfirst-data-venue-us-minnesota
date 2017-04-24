@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.643611,46.628982,-95.643611,46.628982",
     "geom:latitude":46.628982,
     "geom:longitude":-95.643611,
@@ -31,17 +32,32 @@
         "resort"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513043,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X48MgAAnslXO5rcIdDwe4_46.628982_-95.643611@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584491,
-    "wof:geomhash":"3824f564ca8ee7e74dbb13d060018200",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3693cc7716e7e743e10cce60ab8d2163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513043,
+            "region_id":85688727,
+            "venue_id":773276713
+        }
+    ],
     "wof:id":773276713,
-    "wof:lastmodified":1472630023,
+    "wof:lastmodified":1492803961,
     "wof:name":"Pine Beach Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

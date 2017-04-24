@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.436111,44.045152,-95.436111,44.045152",
     "geom:latitude":44.045152,
     "geom:longitude":-95.436111,
@@ -31,17 +32,34 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35rLrQ3Z48UmMqaBlloTJz_44.045152_-95.436111@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593886,
-    "wof:geomhash":"04b4951505809957323df33db6672c19",
-    "wof:hierarchy":[],
+    "wof:geomhash":"790ad881b0a93536c618d68affa6fea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":790193591
+        }
+    ],
     "wof:id":790193591,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492833309,
     "wof:name":"Floyd's Tire Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

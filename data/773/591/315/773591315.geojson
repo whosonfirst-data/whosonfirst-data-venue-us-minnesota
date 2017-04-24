@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.112937,44.541277,-95.112937,44.541277",
     "geom:latitude":44.541277,
     "geom:longitude":-95.112937,
@@ -31,17 +32,34 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512313,
+        85633793,
+        85968817,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54qyi8K0UR25D7rcqdGT4P_44.541277_-95.112937@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586883,
-    "wof:geomhash":"bfa2e1812aeeee8f8e8c9a928de9f112",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85345c60edc53b5a61336bed421896ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512313,
+            "locality_id":85968817,
+            "region_id":85688727,
+            "venue_id":773591315
+        }
+    ],
     "wof:id":773591315,
-    "wof:lastmodified":1472630101,
+    "wof:lastmodified":1492806237,
     "wof:name":"Nelson-Martin Funeral Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

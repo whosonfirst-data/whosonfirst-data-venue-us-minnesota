@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.380363,44.9855,-93.380363,44.9855",
     "geom:latitude":44.9855,
     "geom:longitude":-93.380363,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511717,
+        85633793,
+        85969205,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ltIonneenm8GZZM7lAPFP_44.985500_-93.380363@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590478,
-    "wof:geomhash":"2e7cf925af93b0fcded55d4044d34575",
-    "wof:hierarchy":[],
+    "wof:geomhash":"295ba76894053ecc42a814e8473c75f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511717,
+            "locality_id":85969205,
+            "region_id":85688727,
+            "venue_id":789779803
+        }
+    ],
     "wof:id":789779803,
-    "wof:lastmodified":1472629360,
+    "wof:lastmodified":1492812291,
     "wof:name":"City Finance Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

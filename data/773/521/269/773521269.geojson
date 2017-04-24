@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.398673,44.907145,-93.398673,44.907145",
     "geom:latitude":44.907145,
     "geom:longitude":-93.398673,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aMWSBMkb8QuiR0ZBVAO6X_44.907145_-93.398673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586351,
-    "wof:geomhash":"fca5f08466ac4d69ae9e96e416ec8b43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58b7fa6e44702aaa60c49aa510f867c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773521269
+        }
+    ],
     "wof:id":773521269,
-    "wof:lastmodified":1472630080,
+    "wof:lastmodified":1492802093,
     "wof:name":"Janovia Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

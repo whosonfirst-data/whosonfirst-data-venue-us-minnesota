@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.110734,44.938686,-93.110734,44.938686",
     "geom:latitude":44.938686,
     "geom:longitude":-93.110734,
@@ -29,19 +30,40 @@
     "sg:province":"MN",
     "sg:website":"www.degidios.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BMwaffo4O2c9y3vqu6cNb_44.938686_-93.110734@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590437,
-    "wof:geomhash":"dd478642766bdf7b5fe13071f32aaa18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fd3cec623d40d268e767cc3f47fbdee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":789774619
+        }
+    ],
     "wof:id":789774619,
-    "wof:lastmodified":1472629341,
+    "wof:lastmodified":1492812367,
     "wof:name":"Degidio's Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

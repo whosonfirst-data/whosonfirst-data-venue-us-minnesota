@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.124526,45.672126,-93.124526,45.672126",
     "geom:latitude":45.672126,
     "geom:longitude":-93.124526,
@@ -32,17 +33,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rClSfSpUG7spj8i5Z6xSW_45.672126_-93.124526@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589846,
-    "wof:geomhash":"7a162d4c444a2107e782d6232cfd749f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81df777fb20f4f5e1ffd8d127c0e5622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":789698279
+        }
+    ],
     "wof:id":789698279,
-    "wof:lastmodified":1472629191,
+    "wof:lastmodified":1492809159,
     "wof:name":"Community Living Options",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

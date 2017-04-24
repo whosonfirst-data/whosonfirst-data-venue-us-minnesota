@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.185838,43.858435,-93.185838,43.858435",
     "geom:latitude":43.858435,
     "geom:longitude":-93.185838,
@@ -32,17 +33,32 @@
         "soil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510819,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1doIs4QuJGFzf0jhhZ6A7U_43.858435_-93.185838@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582638,
-    "wof:geomhash":"06fbf7023d3c9d6c81efc558acbeee4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b07090226409d7a01790f9f9a477b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510819,
+            "region_id":85688727,
+            "venue_id":773037253
+        }
+    ],
     "wof:id":773037253,
-    "wof:lastmodified":1472629352,
+    "wof:lastmodified":1492808295,
     "wof:name":"Coughlin Francis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

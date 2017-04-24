@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.860205,45.389786,-92.860205,45.389786",
     "geom:latitude":45.389786,
     "geom:longitude":-92.860205,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HafUF7K3rioXdxFlbFXJS_45.389786_-92.860205@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587624,
-    "wof:geomhash":"7fb36fad7bfdf5ce9b96cd3007e821e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"836e991ede0bdaf317f28d5fcee330ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":773691429
+        }
+    ],
     "wof:id":773691429,
-    "wof:lastmodified":1472630131,
+    "wof:lastmodified":1492805252,
     "wof:name":"Rose Hill Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

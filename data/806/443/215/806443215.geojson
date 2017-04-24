@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.94994,45.562851,-92.94994,45.562851",
     "geom:latitude":45.562851,
     "geom:longitude":-92.94994,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511115,
+        85633793,
+        85952703,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h9sfwbCMAQU7wpIJnTfJq_45.562851_-92.949940@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598191,
-    "wof:geomhash":"2b889a92677f4818628cca30e32251dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5844c17d3961c5badeb13c820adf4a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511115,
+            "locality_id":85952703,
+            "region_id":85688727,
+            "venue_id":806443215
+        }
+    ],
     "wof:id":806443215,
-    "wof:lastmodified":1472629136,
+    "wof:lastmodified":1492817361,
     "wof:name":"Ed Fields & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

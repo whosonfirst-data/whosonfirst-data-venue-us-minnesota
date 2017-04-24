@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.056913,44.832734,-95.056913,44.832734",
     "geom:latitude":44.832734,
     "geom:longitude":-95.056913,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512619,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aAo57J3W6XhrdpE4j2RwO_44.832734_-95.056913@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603639,
-    "wof:geomhash":"e079993998a4f66bce32e9f4e10fc068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ddc7f2220c39d0e1b828e37aa739f38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512619,
+            "region_id":85688727,
+            "venue_id":807092393
+        }
+    ],
     "wof:id":807092393,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1492823262,
     "wof:name":"David Kubesh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

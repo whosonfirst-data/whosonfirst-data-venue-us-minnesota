@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.398444,47.523625,-95.398444,47.523625",
     "geom:latitude":47.523625,
     "geom:longitude":-95.398444,
@@ -28,17 +29,34 @@
     "sg:postcode":"56621",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511097,
+        85633793,
+        85953367,
+        102087753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z6GcvWuUPmBgvuxJnOBlL_47.523625_-95.398444@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600761,
-    "wof:geomhash":"cfa7b5041308434fa447fb1e4465de41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad7982b5f46bd4d3c62ac09bc1a9aea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087753,
+            "localadmin_id":404511097,
+            "locality_id":85953367,
+            "region_id":85688727,
+            "venue_id":806749781
+        }
+    ],
     "wof:id":806749781,
-    "wof:lastmodified":1472629780,
+    "wof:lastmodified":1492813833,
     "wof:name":"Main Street Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

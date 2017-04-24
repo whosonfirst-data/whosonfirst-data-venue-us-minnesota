@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.917739,44.778338,-93.917739,44.778338",
     "geom:latitude":44.778338,
     "geom:longitude":-93.917739,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511701,
+        85633793,
+        85953355,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XgDOHqDvKNB7cKZjHEh3w_44.778338_-93.917739@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601145,
-    "wof:geomhash":"e74e43805aaf31e2c1d2d22437813790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"395a4827183410b06e02051b17db8a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511701,
+            "locality_id":85953355,
+            "region_id":85688727,
+            "venue_id":806795373
+        }
+    ],
     "wof:id":806795373,
-    "wof:lastmodified":1472629827,
+    "wof:lastmodified":1492816962,
     "wof:name":"D & M Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

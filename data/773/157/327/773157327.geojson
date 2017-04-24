@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.996199,45.332221,-92.996199,45.332221",
     "geom:latitude":45.332221,
     "geom:longitude":-92.996199,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j3SwGHPseX4DZDOqvIxJ2_45.332221_-92.996199@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583572,
-    "wof:geomhash":"1ac89c85248c910f7eb96df4b43eea12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"622523fe80449c62739907c3ba43b7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773157327
+        }
+    ],
     "wof:id":773157327,
-    "wof:lastmodified":1472629725,
+    "wof:lastmodified":1492804794,
     "wof:name":"Evergreen Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

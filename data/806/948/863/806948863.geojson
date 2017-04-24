@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.213169,45.553338,-94.213169,45.553338",
     "geom:latitude":45.553338,
     "geom:longitude":-94.213169,
@@ -28,17 +29,34 @@
     "sg:postcode":"56301",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17KFWQlwaHgXrnwmYUapvN_45.553338_-94.213169@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602429,
-    "wof:geomhash":"42db3e5d8957607f1ea0360c70fad171",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e9daa1a4a9c29ea28e20b89c989d7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":806948863
+        }
+    ],
     "wof:id":806948863,
-    "wof:lastmodified":1472629958,
+    "wof:lastmodified":1492820747,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

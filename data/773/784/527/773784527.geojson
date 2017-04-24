@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.62744,43.980935,-94.62744,43.980935",
     "geom:latitude":43.980935,
     "geom:longitude":-94.62744,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Su742RzsH6l0bckSZixfa_43.980935_-94.627440@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588351,
-    "wof:geomhash":"de7d79d93e3b7eff4923d537f8f3e754",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b272524c8e5d10c947d3e325348f6f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":773784527
+        }
+    ],
     "wof:id":773784527,
-    "wof:lastmodified":1472630157,
+    "wof:lastmodified":1492806328,
     "wof:name":"United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

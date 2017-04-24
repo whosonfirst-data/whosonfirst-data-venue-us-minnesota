@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.691002,47.337938,-92.691002,47.337938",
     "geom:latitude":47.337938,
     "geom:longitude":-92.691002,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85847473,
+        102191575,
+        404513387,
         85633793,
         85968501,
         102087653,
-        85847473
+        85688727,
+        85968453,
+        85829803
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,21 +49,31 @@
     },
     "wof:country":"US",
     "wof:created":1462602394,
-    "wof:geomhash":"cf6d0bf9ba455bf227078a36cd079d24",
+    "wof:geomhash":"e4649d3f030c14b27f0f43dafe84dff8",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":85847473,
+            "region_id":85688727,
+            "venue_id":806944263
+        },
         {
             "country_id":85633793,
             "county_id":102087653,
-            "locality_id":85968501,
-            "neighbourhood_id":85847473,
+            "locality_id":85968453,
+            "neighbourhood_id":85829803,
             "region_id":85688727,
             "venue_id":806944263
         }
     ],
     "wof:id":806944263,
-    "wof:lastmodified":1472629945,
+    "wof:lastmodified":1492820647,
     "wof:name":"Synergy Builders LLC",
-    "wof:parent_id":85847473,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.251137,44.907688,-93.251137,44.907688",
     "geom:latitude":44.907688,
     "geom:longitude":-93.251137,
@@ -36,12 +37,12 @@
     "wof:belongsto":[
         85872545,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872695
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596349,
-    "wof:geomhash":"c2c2d733200dff9e6361613466475e2c",
+    "wof:geomhash":"5624b9c7b511fdc21d99aa6f048b61b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,25 +58,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872545,
-            "region_id":85688727,
-            "venue_id":790497457
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872695,
             "region_id":85688727,
             "venue_id":790497457
         }
     ],
     "wof:id":790497457,
-    "wof:lastmodified":1472629773,
+    "wof:lastmodified":1492831401,
     "wof:name":"Integrity Software Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.297015,44.915643,-94.297015,44.915643",
     "geom:latitude":44.915643,
     "geom:longitude":-94.297015,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512815,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24AAi3pxmKOzRFN3iTnLhi_44.915643_-94.297015@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603952,
-    "wof:geomhash":"8bfe64ed91b2ed292baeed54ee06855f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbab56a64c2c5c32a029eed3bde18e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512815,
+            "region_id":85688727,
+            "venue_id":807121229
+        }
+    ],
     "wof:id":807121229,
-    "wof:lastmodified":1472629234,
+    "wof:lastmodified":1492825506,
     "wof:name":"Larry Murphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

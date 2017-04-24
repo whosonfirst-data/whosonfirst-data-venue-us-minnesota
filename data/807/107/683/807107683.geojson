@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.048058,44.221554,-95.048058,44.221554",
     "geom:latitude":44.221554,
     "geom:longitude":-95.048058,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511601,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bIC5FpRkXhw9stowF6usF_44.221554_-95.048058@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603812,
-    "wof:geomhash":"5bc0e3ee9ff54dd603fad885f5daa06e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc49c3b8201d82e4624d056d4f61c55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511601,
+            "region_id":85688727,
+            "venue_id":807107683
+        }
+    ],
     "wof:id":807107683,
-    "wof:lastmodified":1472629218,
+    "wof:lastmodified":1492824431,
     "wof:name":"Richard Nachreiner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

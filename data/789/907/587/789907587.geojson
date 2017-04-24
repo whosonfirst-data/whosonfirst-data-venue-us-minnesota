@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.080453,44.247206,-94.080453,44.247206",
     "geom:latitude":44.247206,
     "geom:longitude":-94.080453,
@@ -32,17 +33,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513327,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u1CFRYcQix5Y643AL0ciE_44.247206_-94.080453@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591509,
-    "wof:geomhash":"0fc5dc48c10bd7357d9411a6740bf352",
-    "wof:hierarchy":[],
+    "wof:geomhash":"367abac8d7c3dd33ddc181e6e4511acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513327,
+            "region_id":85688727,
+            "venue_id":789907587
+        }
+    ],
     "wof:id":789907587,
-    "wof:lastmodified":1472629614,
+    "wof:lastmodified":1492813420,
     "wof:name":"Air Maintenance-Hvac Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

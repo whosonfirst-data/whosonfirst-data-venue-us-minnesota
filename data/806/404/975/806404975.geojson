@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.472889,44.016033,-92.472889,44.016033",
     "geom:latitude":44.016033,
     "geom:longitude":-92.472889,
@@ -33,17 +34,34 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74xXuqrysr1iPb6p8HO2dO_44.016033_-92.472889@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597875,
-    "wof:geomhash":"114cab86c1d6521d70f83870f1a31d88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41bb9eb85a08893587fce98d9109d944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806404975
+        }
+    ],
     "wof:id":806404975,
-    "wof:lastmodified":1472629066,
+    "wof:lastmodified":1492816591,
     "wof:name":"Region 10 Special Ed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

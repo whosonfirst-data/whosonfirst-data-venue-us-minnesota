@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.334101,47.451187,-92.334101,47.451187",
     "geom:latitude":47.451187,
     "geom:longitude":-92.334101,
@@ -39,17 +40,26 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5G62VBor37klBfcND2ZgnG_47.451187_-92.334101@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608839,
-    "wof:geomhash":"e56cbc32ced3e3cea191fa8cbef8de11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2af5bf97171c061ecb90235e6156982a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":823225027
+        }
+    ],
     "wof:id":823225027,
-    "wof:lastmodified":1472629077,
+    "wof:lastmodified":1492828079,
     "wof:name":"Old Apostolic Lutheran Ch",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

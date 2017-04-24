@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.355454,45.048686,-93.355454,45.048686",
     "geom:latitude":45.048686,
     "geom:longitude":-93.355454,
@@ -32,17 +33,34 @@
         "garbage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N6ZwExTW0yIMctvOqerH4_45.048686_-93.355454@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608207,
-    "wof:geomhash":"8a7ce5db126612a1a9c8b3c10c1b6a3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07f61cfeaf14f682118264b52b0ed4fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823191343
+        }
+    ],
     "wof:id":823191343,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492830466,
     "wof:name":"Master Waste Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

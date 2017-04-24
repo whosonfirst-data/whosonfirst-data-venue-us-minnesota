@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.711815,44.12417,-93.711815,44.12417",
     "geom:latitude":44.12417,
     "geom:longitude":-93.711815,
@@ -28,17 +29,34 @@
     "sg:postcode":"56048",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514863,
+        85633793,
+        85953079,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UfLTUoLC3cjJSkptR8rfG_44.124170_-93.711815@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590767,
-    "wof:geomhash":"45469bd592c1d96dc7dd66a19f3b9946",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51d32c90f0bdb7cac1f225fd970852fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514863,
+            "locality_id":85953079,
+            "region_id":85688727,
+            "venue_id":789817243
+        }
+    ],
     "wof:id":789817243,
-    "wof:lastmodified":1472629392,
+    "wof:lastmodified":1492813127,
     "wof:name":"Smart PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

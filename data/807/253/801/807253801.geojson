@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.146599,44.1026,-93.146599,44.1026",
     "geom:latitude":44.1026,
     "geom:longitude":-93.146599,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514593,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tsWHYAgef1kSuCdXq6dzJ_44.102600_-93.146599@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605367,
-    "wof:geomhash":"cbb0ef0a43f81ede178426c08789686f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74ebd584958400b49b168d239cb32f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514593,
+            "region_id":85688727,
+            "venue_id":807253801
+        }
+    ],
     "wof:id":807253801,
-    "wof:lastmodified":1472629525,
+    "wof:lastmodified":1492824599,
     "wof:name":"Lynn Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

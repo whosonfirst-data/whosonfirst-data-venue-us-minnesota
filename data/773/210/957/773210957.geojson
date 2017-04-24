@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.820968,45.037715,-92.820968,45.037715",
     "geom:latitude":45.037715,
     "geom:longitude":-92.820968,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85815391,
+        102191575,
+        404510951,
         85633793,
         85968253,
         102087659,
-        85815391
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462584003,
-    "wof:geomhash":"006a9ed44947b17b83b906b5f1008ae4",
+    "wof:geomhash":"44a4a9041da3679e47be6163323782cd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087659,
+            "localadmin_id":404510951,
             "locality_id":85968253,
             "neighbourhood_id":85815391,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":773210957,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492801468,
     "wof:name":"Center of Attraction",
     "wof:parent_id":85815391,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.175917,45.511201,-94.175917,45.511201",
     "geom:latitude":45.511201,
     "geom:longitude":-94.175917,
@@ -33,17 +34,34 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AMN4CluClBLsxIoe1uiJu_45.511201_-94.175917@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601180,
-    "wof:geomhash":"235094ac6888f2d54948f8dadd307252",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01fbe50c77de7d779126a30a0c465648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":806799319
+        }
+    ],
     "wof:id":806799319,
-    "wof:lastmodified":1472629832,
+    "wof:lastmodified":1492814669,
     "wof:name":"Plm Striping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

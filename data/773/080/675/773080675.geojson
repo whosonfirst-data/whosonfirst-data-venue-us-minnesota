@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.717032,45.375859,-94.717032,45.375859",
     "geom:latitude":45.375859,
     "geom:longitude":-94.717032,
@@ -31,17 +32,34 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514385,
+        85633793,
+        85952481,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NfjMOeF12ZqjH69epRhMF_45.375859_-94.717032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583013,
-    "wof:geomhash":"6be74d4537e8f6bb029c36d048d16326",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17368310103ca9390a6b82be6590a5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514385,
+            "locality_id":85952481,
+            "region_id":85688727,
+            "venue_id":773080675
+        }
+    ],
     "wof:id":773080675,
-    "wof:lastmodified":1472629525,
+    "wof:lastmodified":1492804325,
     "wof:name":"Swyter Monuments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.506764,44.094345,-93.506764,44.094345",
     "geom:latitude":44.094345,
     "geom:longitude":-93.506764,
@@ -31,17 +32,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g9GzlCOuFeNrns7kAxC0B_44.094345_-93.506764@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590086,
-    "wof:geomhash":"1540f651e0b1476e1ed409223eafd27a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8db4eabf07ecbd43b8641bfeb4ed5087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":789727501
+        }
+    ],
     "wof:id":789727501,
-    "wof:lastmodified":1472629247,
+    "wof:lastmodified":1492812628,
     "wof:name":"Edward Jones Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

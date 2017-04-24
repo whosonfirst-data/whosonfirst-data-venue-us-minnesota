@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.973741,44.915166,-92.973741,44.915166",
     "geom:latitude":44.915166,
     "geom:longitude":-92.973741,
@@ -33,17 +34,34 @@
         "telephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514931,
+        85633793,
+        85953535,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PTgfqIAK9Ud68FDRqVMmu_44.915166_-92.973741@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584670,
-    "wof:geomhash":"4b0616a75dad61fff2a7af3a8aee7cec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4df8f209c9c93982378235972c47ca11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514931,
+            "locality_id":85953535,
+            "region_id":85688727,
+            "venue_id":773298807
+        }
+    ],
     "wof:id":773298807,
-    "wof:lastmodified":1472630036,
+    "wof:lastmodified":1492808092,
     "wof:name":"Liberty Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

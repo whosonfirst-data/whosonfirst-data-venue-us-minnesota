@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.080633,43.669359,-92.080633,43.669359",
     "geom:latitude":43.669359,
     "geom:longitude":-92.080633,
@@ -32,17 +33,34 @@
         "thrift"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E8Bmd3PmvgiEDlIqxfsMr_43.669359_-92.080633@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600673,
-    "wof:geomhash":"55572b81fcec4fe8182267bc43ccbe84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5959012cef18b1f4a37be408853d1ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":806739083
+        }
+    ],
     "wof:id":806739083,
-    "wof:lastmodified":1472629753,
+    "wof:lastmodified":1492816888,
     "wof:name":"Thrifty Threads",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

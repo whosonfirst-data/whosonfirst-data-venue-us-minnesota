@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.388921,45.831361,-93.388921,45.831361",
     "geom:latitude":45.831361,
     "geom:longitude":-93.388921,
@@ -28,17 +29,41 @@
     "sg:postcode":"56358",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513621,
+        85633793,
+        102087687,
+        404513763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p5OxE9noaGOTf8Mkexz4b_45.831361_-93.388921@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587008,
-    "wof:geomhash":"e3ba2975869ff300e0192bdbd1f3c837",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65a9fe828a28597cd65d70c6830227ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513621,
+            "region_id":85688727,
+            "venue_id":773609647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513763,
+            "region_id":85688727,
+            "venue_id":773609647
+        }
+    ],
     "wof:id":773609647,
-    "wof:lastmodified":1472630108,
+    "wof:lastmodified":1492801686,
     "wof:name":"Moon and Stars Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

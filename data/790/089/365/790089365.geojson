@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.920138,45.400704,-92.920138,45.400704",
     "geom:latitude":45.400704,
     "geom:longitude":-92.920138,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JKT2z5iAhL9RpXr8r9qI2_45.400704_-92.920138@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593042,
-    "wof:geomhash":"4acc82ce0ebdd7a35825fa8d6c1101c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48f8c35ceeeebaddfe7c0ab731060195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":790089365
+        }
+    ],
     "wof:id":790089365,
-    "wof:lastmodified":1472629117,
+    "wof:lastmodified":1492834002,
     "wof:name":"EZ Sharp Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

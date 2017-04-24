@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.043562,45.096193,-95.043562,45.096193",
     "geom:latitude":45.096193,
     "geom:longitude":-95.043562,
@@ -28,17 +29,34 @@
     "sg:postcode":"56201",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JQdOC71zOX9ovpZSnWQ50_45.096193_-95.043562@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598254,
-    "wof:geomhash":"dd7c0197af05e506a49f5034c62806c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc6c5c3bc03ecfa58e3eb319db3687a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":806451463
+        }
+    ],
     "wof:id":806451463,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492814942,
     "wof:name":"Home Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

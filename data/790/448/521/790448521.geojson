@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.087947,44.920405,-93.087947,44.920405",
     "geom:latitude":44.920405,
     "geom:longitude":-93.087947,
@@ -32,19 +33,38 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oR2VP1JsnkrBE6430ivVt_44.920405_-93.087947@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595903,
-    "wof:geomhash":"f73213fab7313b97017246c1802fa892",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19aaeb0a63f80ae93b7ef4bf3c02f7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":790448521
+        }
+    ],
     "wof:id":790448521,
-    "wof:lastmodified":1472629716,
+    "wof:lastmodified":1492833746,
     "wof:name":"Nomadic Press",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.293512,45.358064,-93.293512,45.358064",
     "geom:latitude":45.358064,
     "geom:longitude":-93.293512,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bEUwQJlG1CovhyTaPO6HB_45.358064_-93.293512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595937,
-    "wof:geomhash":"a24823c71bf85914d76c584bc4ed9355",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74a5ca7e609d4bdc1ee2d1862c6b0a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":790453599
+        }
+    ],
     "wof:id":790453599,
-    "wof:lastmodified":1472629728,
+    "wof:lastmodified":1492831835,
     "wof:name":"Maintenance Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

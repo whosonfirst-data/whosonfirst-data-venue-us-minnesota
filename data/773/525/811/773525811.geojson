@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.634385,43.979749,-94.634385,43.979749",
     "geom:latitude":43.979749,
     "geom:longitude":-94.634385,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PliTwgsUsrXy92qbKAlBa_43.979749_-94.634385@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586383,
-    "wof:geomhash":"0472ff9562559f6ec642820e0a5df818",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9dbc6b754e829fb17f0b3189f0bedd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":773525811
+        }
+    ],
     "wof:id":773525811,
-    "wof:lastmodified":1472630084,
+    "wof:lastmodified":1492801662,
     "wof:name":"St James Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.008556,44.398307,-95.008556,44.398307",
     "geom:latitude":44.398307,
     "geom:longitude":-95.008556,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512329,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mPiLJDLYuxh4g16QII6fj_44.398307_-95.008556@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586829,
-    "wof:geomhash":"2571d8c23e5c8274878fd7bdad79d837",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e76bf17843e5fba3282b2996aa30269d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512329,
+            "region_id":85688727,
+            "venue_id":773583743
+        }
+    ],
     "wof:id":773583743,
-    "wof:lastmodified":1472630106,
+    "wof:lastmodified":1492799797,
     "wof:name":"Raymond Lange Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

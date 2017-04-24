@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.459823,44.012639,-92.459823,44.012639",
     "geom:latitude":44.012639,
     "geom:longitude":-92.459823,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cusZHg0tPgQtsBMbixlbd_44.012639_-92.459823@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593012,
-    "wof:geomhash":"2c36060f98fe00f87dd6786dbf823c59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc7b925e13ab44b39557cc611cd75084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790086185
+        }
+    ],
     "wof:id":790086185,
-    "wof:lastmodified":1472629114,
+    "wof:lastmodified":1492835656,
     "wof:name":"Tilson Automotive Svc Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

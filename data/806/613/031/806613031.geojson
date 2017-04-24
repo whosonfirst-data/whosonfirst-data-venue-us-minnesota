@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.122235,43.860342,-95.122235,43.860342",
     "geom:latitude":43.860342,
     "geom:longitude":-95.122235,
@@ -32,17 +33,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51FlyvKve9bzopvdZjz0os_43.860342_-95.122235@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599591,
-    "wof:geomhash":"4339aa9bdd06934b288004f332771c8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"978dc52d2c2e4435f64d881a7b85a0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":806613031
+        }
+    ],
     "wof:id":806613031,
-    "wof:lastmodified":1472629543,
+    "wof:lastmodified":1492815880,
     "wof:name":"Mikkelsen Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

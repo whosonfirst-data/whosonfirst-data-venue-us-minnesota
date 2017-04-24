@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.939673,43.896428,-94.939673,43.896428",
     "geom:latitude":43.896428,
     "geom:longitude":-94.939673,
@@ -33,17 +34,32 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509507,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZwCWFNhUWRqiECPkjuSp5_43.896428_-94.939673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589379,
-    "wof:geomhash":"d6bd69b305e6af2189c80f8fef315f74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2895a6179f7d84688254b15f5989004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509507,
+            "region_id":85688727,
+            "venue_id":789640589
+        }
+    ],
     "wof:id":789640589,
-    "wof:lastmodified":1472629074,
+    "wof:lastmodified":1492810471,
     "wof:name":"NH Metal Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

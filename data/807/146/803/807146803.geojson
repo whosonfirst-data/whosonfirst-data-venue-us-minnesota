@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.766483,45.058302,-95.766483,45.058302",
     "geom:latitude":45.058302,
     "geom:longitude":-95.766483,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511101,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RN3LlYP9ZMopdh2iWBM0S_45.058302_-95.766483@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604237,
-    "wof:geomhash":"f8634900ebe38ff3c25b606ab9f47995",
-    "wof:hierarchy":[],
+    "wof:geomhash":"843827aac0e9758b87e856dfdc0c3e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404511101,
+            "region_id":85688727,
+            "venue_id":807146803
+        }
+    ],
     "wof:id":807146803,
-    "wof:lastmodified":1472629287,
+    "wof:lastmodified":1492822326,
     "wof:name":"Jim Eichhorst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

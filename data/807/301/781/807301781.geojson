@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.363156,45.159033,-93.363156,45.159033",
     "geom:latitude":45.159033,
     "geom:longitude":-93.363156,
@@ -32,17 +33,34 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A5VM7FUVmImxpeqnU4PKN_45.159033_-93.363156@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605871,
-    "wof:geomhash":"e759bdd11c8f22db02a4e803162c0715",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c64052a6d6e852b810323c3ed9cb1ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807301781
+        }
+    ],
     "wof:id":807301781,
-    "wof:lastmodified":1472629632,
+    "wof:lastmodified":1492827555,
     "wof:name":"Cornerstone Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

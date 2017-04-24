@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.474054,47.358132,-92.474054,47.358132",
     "geom:latitude":47.358132,
     "geom:longitude":-92.474054,
@@ -33,17 +34,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62lDzaMJDDsDmzWXWzVK0H_47.358132_-92.474054@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586191,
-    "wof:geomhash":"b8cf9125698ad115af80a32d94963504",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2c7c5cfb928d5b33e158eb255af9b54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773497897
+        }
+    ],
     "wof:id":773497897,
-    "wof:lastmodified":1472630075,
+    "wof:lastmodified":1492799227,
     "wof:name":"Ray's Body Shop",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.229992,44.89082,-93.229992,44.89082",
     "geom:latitude":44.89082,
     "geom:longitude":-93.229992,
@@ -36,17 +37,32 @@
     ],
     "sg:website":"http://www.usmc.mil",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511715,
+        85633793,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19msH2JEJfeegOfDnMOEdv_44.890749_-93.230386@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603804,
-    "wof:geomhash":"4abcbc1e5f6b34ec046aecc9d402e509",
-    "wof:hierarchy":[],
+    "wof:geomhash":"919275cdd3bd85185f721f954fbe8a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511715,
+            "region_id":85688727,
+            "venue_id":807106915
+        }
+    ],
     "wof:id":807106915,
-    "wof:lastmodified":1472629216,
+    "wof:lastmodified":1492827144,
     "wof:name":"United States Marine Corps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

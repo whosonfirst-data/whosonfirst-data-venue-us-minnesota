@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.758922,43.819016,-91.758922,43.819016",
     "geom:latitude":43.819016,
     "geom:longitude":-91.758922,
@@ -28,17 +29,34 @@
     "sg:postcode":"55971",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P2ZLtvVHDnqXtywgqxMuC_43.819016_-91.758922@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601362,
-    "wof:geomhash":"adc061f09899e24c7333c30ef8152e7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04282309faeed6dcd24724b80562e091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":806822479
+        }
+    ],
     "wof:id":806822479,
-    "wof:lastmodified":1472629854,
+    "wof:lastmodified":1492814037,
     "wof:name":"City of Rushford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.812556,44.565238,-92.812556,44.565238",
     "geom:latitude":44.565238,
     "geom:longitude":-92.812556,
@@ -31,17 +32,32 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512097,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wJiJ01NKkbktGA3LPPDGu_44.565238_-92.812556@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590664,
-    "wof:geomhash":"daafe4d760a24255f40f5c660c9b13e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d75613be8e997f06e8266b79a92581f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512097,
+            "region_id":85688727,
+            "venue_id":789803437
+        }
+    ],
     "wof:id":789803437,
-    "wof:lastmodified":1472629384,
+    "wof:lastmodified":1492813529,
     "wof:name":"Gopher Hills Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

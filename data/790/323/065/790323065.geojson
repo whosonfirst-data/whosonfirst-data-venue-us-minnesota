@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.324208,45.109696,-93.324208,45.109696",
     "geom:latitude":45.109696,
     "geom:longitude":-93.324208,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Huq9yJFVFcNAc5q6RYR4R_45.109696_-93.324208@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594937,
-    "wof:geomhash":"8661251aa8802a8ac1c439fd737e630d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0935b8495bcba2eeb6cd77a94bdc0cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":790323065
+        }
+    ],
     "wof:id":790323065,
-    "wof:lastmodified":1472629496,
+    "wof:lastmodified":1492836827,
     "wof:name":"Audicon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

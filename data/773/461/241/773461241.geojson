@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.434609,45.605555,-94.434609,45.605555",
     "geom:latitude":45.605555,
     "geom:longitude":-94.434609,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        85952451,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dPfHpqO0QeFn7NP9D0RO8_45.605555_-94.434609@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585924,
-    "wof:geomhash":"a3155ba3f7e4c456ca511a7d354cba90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3523eb8c70ab98e34478dc9154af628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "locality_id":85952451,
+            "region_id":85688727,
+            "venue_id":773461241
+        }
+    ],
     "wof:id":773461241,
-    "wof:lastmodified":1472630057,
+    "wof:lastmodified":1492805792,
     "wof:name":"Artistic Stone Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

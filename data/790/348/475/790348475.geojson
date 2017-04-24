@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.152927,44.768977,-94.152927,44.768977",
     "geom:latitude":44.768977,
     "geom:longitude":-94.152927,
@@ -31,17 +32,34 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kDIRnLvuTVnu7ronzWHxa_44.768977_-94.152927@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595125,
-    "wof:geomhash":"20338367eb144eb438ed4f5e4c18b1bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4992d15a963cc976e02c8889c65205f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":790348475
+        }
+    ],
     "wof:id":790348475,
-    "wof:lastmodified":1472629546,
+    "wof:lastmodified":1492834368,
     "wof:name":"Chronicle Advertiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

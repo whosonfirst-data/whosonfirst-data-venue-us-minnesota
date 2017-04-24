@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.75598,43.993134,-95.75598,43.993134",
     "geom:latitude":43.993134,
     "geom:longitude":-95.75598,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513321,
+        85633793,
+        85952743,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bZ4uHDySgFTJHgdjRJmS3_43.993134_-95.755980@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597226,
-    "wof:geomhash":"40c2ef70695b3b460aeebd50915a49e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5549bab878038a2f3174757d1420c816",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513321,
+            "locality_id":85952743,
+            "region_id":85688727,
+            "venue_id":790600025
+        }
+    ],
     "wof:id":790600025,
-    "wof:lastmodified":1472629901,
+    "wof:lastmodified":1492834457,
     "wof:name":"Jim's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

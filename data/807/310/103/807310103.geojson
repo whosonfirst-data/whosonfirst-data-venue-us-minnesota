@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.184386,45.077179,-94.184386,45.077179",
     "geom:latitude":45.077179,
     "geom:longitude":-94.184386,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515193,
+        85633793,
+        85968917,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o0qSlUGPhjvZYxXNya4S0_45.077179_-94.184386@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605958,
-    "wof:geomhash":"c34278544b6ffb4ff1b827718b20d3a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae7df2126b47a7dd951fbaa1961a013b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515193,
+            "locality_id":85968917,
+            "region_id":85688727,
+            "venue_id":807310103
+        }
+    ],
     "wof:id":807310103,
-    "wof:lastmodified":1472629680,
+    "wof:lastmodified":1492824313,
     "wof:name":"Cokato Eldery Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

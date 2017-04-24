@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.537653,45.657903,-95.537653,45.657903",
     "geom:latitude":45.657903,
     "geom:longitude":-95.537653,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514353,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cSNA1j3osDxPFY5JB4sSI_45.657903_-95.537653@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582756,
-    "wof:geomhash":"ca8b406aa04989461ed54c3fe1becbab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6c99355005d6a23b37f35a66fcf306d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514353,
+            "region_id":85688727,
+            "venue_id":773049653
+        }
+    ],
     "wof:id":773049653,
-    "wof:lastmodified":1472629425,
+    "wof:lastmodified":1492804054,
     "wof:name":"Gateway Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

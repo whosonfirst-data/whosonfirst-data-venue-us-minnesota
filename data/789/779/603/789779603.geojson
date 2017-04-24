@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.35472,48.568929,-93.35472,48.568929",
     "geom:latitude":48.568929,
     "geom:longitude":-93.35472,
@@ -36,17 +37,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515151,
+        85633793,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_762uXIMkM9EH0Beu8s8AU2_48.568929_-93.354720@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590476,
-    "wof:geomhash":"867059fe6371fd3d1309ef80da3f8555",
-    "wof:hierarchy":[],
+    "wof:geomhash":"738ea34947f732e6254829b1d1886c0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404515151,
+            "region_id":85688727,
+            "venue_id":789779603
+        }
+    ],
     "wof:id":789779603,
-    "wof:lastmodified":1472629357,
+    "wof:lastmodified":1492812291,
     "wof:name":"Crandall's Septic Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

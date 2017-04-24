@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.479701,44.142666,-94.479701,44.142666",
     "geom:latitude":44.142666,
     "geom:longitude":-94.479701,
@@ -33,17 +34,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511593,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18FObPyxOyeUfL0yWZElHc_44.142529_-94.479772@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603797,
-    "wof:geomhash":"bd6f20dd196d52a235d208523c0ac12c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"788f85cfd73274c6acc63896f9021f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511593,
+            "region_id":85688727,
+            "venue_id":807106395
+        }
+    ],
     "wof:id":807106395,
-    "wof:lastmodified":1472629207,
+    "wof:lastmodified":1492827144,
     "wof:name":"Nora Unitarian Universalist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

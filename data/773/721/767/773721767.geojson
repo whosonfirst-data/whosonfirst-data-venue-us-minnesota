@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.384119,44.919109,-93.384119,44.919109",
     "geom:latitude":44.919109,
     "geom:longitude":-93.384119,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fEoF8l0muhzrcqHjjHbnt_44.919109_-93.384119@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587883,
-    "wof:geomhash":"840c65bc115bbd2b8c33576c43887169",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b193609e3fed370c6b9d375a1b9cd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773721767
+        }
+    ],
     "wof:id":773721767,
-    "wof:lastmodified":1472630142,
+    "wof:lastmodified":1492803702,
     "wof:name":"Computer Add Ons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.02777,46.832306,-92.02777,46.832306",
     "geom:latitude":46.832306,
     "geom:longitude":-92.02777,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85858687,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85858687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462591556,
-    "wof:geomhash":"f0f2a2ec15334e6ceb89b66a8af14296",
+    "wof:geomhash":"b57587ab77169699bf7f9399661724b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85858687,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":789911835,
-    "wof:lastmodified":1472629615,
+    "wof:lastmodified":1492812333,
     "wof:name":"Behavior Intervention Resource",
     "wof:parent_id":85858687,
     "wof:placetype":"venue",

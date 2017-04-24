@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.234473,45.290179,-93.234473,45.290179",
     "geom:latitude":45.290179,
     "geom:longitude":-93.234473,
@@ -28,17 +29,34 @@
     "sg:postcode":"55304",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511287,
+        85633793,
+        85953395,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gKbW1CxI9EclrLzFGM5Dv_45.290179_-93.234473@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590812,
-    "wof:geomhash":"641371c89722822d2dec9addc6d7d421",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ccb57a06f56e61d8f1fa50eae376e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511287,
+            "locality_id":85953395,
+            "region_id":85688727,
+            "venue_id":789822703
+        }
+    ],
     "wof:id":789822703,
-    "wof:lastmodified":1472629414,
+    "wof:lastmodified":1492809227,
     "wof:name":"A Ruppert & Son Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

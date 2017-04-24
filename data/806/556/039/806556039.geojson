@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.194032,45.12039,-93.194032,45.12039",
     "geom:latitude":45.12039,
     "geom:longitude":-93.194032,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511275,
+        85633793,
+        85953007,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f1PHAlAHRhbENSuYBA9wU_45.120390_-93.194032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599085,
-    "wof:geomhash":"2ce752ee4b324f077512161fc7e2b967",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9c8afd5387d689c905b76e190349659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511275,
+            "locality_id":85953007,
+            "region_id":85688727,
+            "venue_id":806556039
+        }
+    ],
     "wof:id":806556039,
-    "wof:lastmodified":1472629430,
+    "wof:lastmodified":1492821884,
     "wof:name":"Lakeview Associated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

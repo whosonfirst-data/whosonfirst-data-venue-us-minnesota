@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.817133,46.954808,-93.817133,46.954808",
     "geom:latitude":46.954808,
     "geom:longitude":-93.817133,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509407,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TCdW5WoIiMAk1nigB45xc_46.954808_-93.817133@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608874,
-    "wof:geomhash":"6f13d21884706ccf4e89a7159f8059f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e561099d483fb7a790573d777df9a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509407,
+            "region_id":85688727,
+            "venue_id":823226167
+        }
+    ],
     "wof:id":823226167,
-    "wof:lastmodified":1472629093,
+    "wof:lastmodified":1492830861,
     "wof:name":"Windy Shovel Dirt Product",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.032301,46.873275,-96.032301,46.873275",
     "geom:latitude":46.873275,
     "geom:longitude":-96.032301,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511131,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j16yCLUgFmr3bceujr3TL_46.873275_-96.032301@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591215,
-    "wof:geomhash":"8672a68a61afbeb9e41d53245e3be487",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeb3886187c6bdf4085acdb785b12329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511131,
+            "region_id":85688727,
+            "venue_id":789873793
+        }
+    ],
     "wof:id":789873793,
-    "wof:lastmodified":1472629567,
+    "wof:lastmodified":1492810899,
     "wof:name":"Baer Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

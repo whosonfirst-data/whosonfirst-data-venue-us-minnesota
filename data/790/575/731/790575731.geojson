@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.706757,44.947215,-95.706757,44.947215",
     "geom:latitude":44.947215,
     "geom:longitude":-95.706757,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20DOoqla8mX0iwYWFBbUyi_44.947215_-95.706757@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597005,
-    "wof:geomhash":"92acfb8b33640fa17172b6d83190a8e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ae785c24b0576712736e9579f6054e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":790575731
+        }
+    ],
     "wof:id":790575731,
-    "wof:lastmodified":1472629882,
+    "wof:lastmodified":1492831502,
     "wof:name":"Lynn Allickson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

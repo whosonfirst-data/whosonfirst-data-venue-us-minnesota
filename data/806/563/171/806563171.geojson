@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.950751,44.910515,-93.950751,44.910515",
     "geom:latitude":44.910515,
     "geom:longitude":-93.950751,
@@ -31,17 +32,32 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511695,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xivFVlriyFwlh7Jk3dQIn_44.910515_-93.950751@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599151,
-    "wof:geomhash":"27d155957017e28d4fdcb95282f0c154",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa7ac189e935a90191dc3c4b1a3436cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511695,
+            "region_id":85688727,
+            "venue_id":806563171
+        }
+    ],
     "wof:id":806563171,
-    "wof:lastmodified":1472629439,
+    "wof:lastmodified":1492820144,
     "wof:name":"Architectural Louvre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

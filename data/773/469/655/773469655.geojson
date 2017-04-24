@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.958584,44.341651,-91.958584,44.341651",
     "geom:latitude":44.341651,
     "geom:longitude":-91.958584,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514785,
+        85633793,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O9UNvbaROTC1ylDdR6V3b_44.341651_-91.958584@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585987,
-    "wof:geomhash":"fc2b92dc3ba4a1a992b545519e545648",
-    "wof:hierarchy":[],
+    "wof:geomhash":"134dec6f2d1b21a1107f3a389c594da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514785,
+            "region_id":85688727,
+            "venue_id":773469655
+        }
+    ],
     "wof:id":773469655,
-    "wof:lastmodified":1472630064,
+    "wof:lastmodified":1492808926,
     "wof:name":"Hartert Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.366436,44.891132,-94.366436,44.891132",
     "geom:latitude":44.891132,
     "geom:longitude":-94.366436,
@@ -34,17 +35,34 @@
         "channel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00Fa2xftmvpt3sUHYqDSbb_44.891132_-94.366436@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585093,
-    "wof:geomhash":"fa5914619a186ea390fd3cd53f5fc7fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd4bde9b9c5fe7f0329f4d3bcebd6422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773356443
+        }
+    ],
     "wof:id":773356443,
-    "wof:lastmodified":1472630029,
+    "wof:lastmodified":1492799831,
     "wof:name":"Channel 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

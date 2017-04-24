@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.877003,48.452465,-96.877003,48.452465",
     "geom:latitude":48.452465,
     "geom:longitude":-96.877003,
@@ -39,17 +40,34 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513859,
+        85633793,
+        85953463,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T70iN7IzhukEH1WLoq99g_48.452465_-96.877003@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609559,
-    "wof:geomhash":"1e14bf9e3db599df337ca627d490e926",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf22c5b2fefa9faecfc73e7eba775224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513859,
+            "locality_id":85953463,
+            "region_id":85688727,
+            "venue_id":823260405
+        }
+    ],
     "wof:id":823260405,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492828529,
     "wof:name":"First Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

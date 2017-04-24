@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.379471,45.871613,-95.379471,45.871613",
     "geom:latitude":45.871613,
     "geom:longitude":-95.379471,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3y8yJ9zW3acnJDNjNiG8X3_45.871613_-95.379471@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583480,
-    "wof:geomhash":"495e7b00104cf22d5ecae026e3043788",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a1b74563c7d12cf71a497dd8a97c73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773146739
+        }
+    ],
     "wof:id":773146739,
-    "wof:lastmodified":1472629729,
+    "wof:lastmodified":1492799272,
     "wof:name":"United Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

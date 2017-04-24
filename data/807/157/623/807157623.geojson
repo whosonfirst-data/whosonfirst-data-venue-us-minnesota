@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.250799,44.302145,-93.250799,44.302145",
     "geom:latitude":44.302145,
     "geom:longitude":-93.250799,
@@ -25,17 +26,34 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hgXYLgoN3oBev7sd7yqxr_44.302145_-93.250799@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604345,
-    "wof:geomhash":"0ea2e3259527a27123fcb18adb5d8ad0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d3eb35467bc6d090d1df71447bf0ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":807157623
+        }
+    ],
     "wof:id":807157623,
-    "wof:lastmodified":1472629305,
+    "wof:lastmodified":1492825563,
     "wof:name":"Murray Acres Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

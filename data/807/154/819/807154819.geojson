@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.255442,45.789452,-93.255442,45.789452",
     "geom:latitude":45.789452,
     "geom:longitude":-93.255442,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513627,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Cb7zVki6r2jXO2ye4NyCq_45.789452_-93.255442@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604318,
-    "wof:geomhash":"27cbd51bc7b396ea74e3b23ef680e220",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27cec6a7a417688cc8fdd1ac83e94fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513627,
+            "region_id":85688727,
+            "venue_id":807154819
+        }
+    ],
     "wof:id":807154819,
-    "wof:lastmodified":1472629306,
+    "wof:lastmodified":1492823944,
     "wof:name":"Kevin Belkholm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

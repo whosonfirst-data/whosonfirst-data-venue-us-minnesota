@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.83323,45.386033,-92.83323,45.386033",
     "geom:latitude":45.386033,
     "geom:longitude":-92.83323,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CKt1sWQE5PKhwFPnsbJLI_45.386033_-92.833230@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589070,
-    "wof:geomhash":"77329ae01412d623fcf44605447120b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51b7d8f97fc5624ddc70f1ecab1b245c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":789600363
+        }
+    ],
     "wof:id":789600363,
-    "wof:lastmodified":1472628962,
+    "wof:lastmodified":1492811386,
     "wof:name":"Maintenance Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

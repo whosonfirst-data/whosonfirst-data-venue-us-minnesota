@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.231036,43.987492,-92.231036,43.987492",
     "geom:latitude":43.987492,
     "geom:longitude":-92.231036,
@@ -31,17 +32,34 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510305,
+        85633793,
+        85953509,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_557puNYwg1XwMLVr2gfJmQ_43.987492_-92.231036@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595110,
-    "wof:geomhash":"c169667b5e1371f82c8752a878e5e55d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cd9003491f26c65d49ff3f8b371a751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510305,
+            "locality_id":85953509,
+            "region_id":85688727,
+            "venue_id":790346293
+        }
+    ],
     "wof:id":790346293,
-    "wof:lastmodified":1472629538,
+    "wof:lastmodified":1492835908,
     "wof:name":"Vision Quest Mortgages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

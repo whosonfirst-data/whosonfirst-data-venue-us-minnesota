@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.993476,45.011596,-92.993476,45.011596",
     "geom:latitude":45.011596,
     "geom:longitude":-92.993476,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514461,
+        85633793,
+        85953179,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40B4MNZkUP2oWkbwVn70PG_45.011596_-92.993476@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589043,
-    "wof:geomhash":"fdfc65a04b5b1aa4fc94d599f30b818e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cc0026ad4741fdfa44d46f911419c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514461,
+            "locality_id":85953179,
+            "region_id":85688727,
+            "venue_id":789597883
+        }
+    ],
     "wof:id":789597883,
-    "wof:lastmodified":1472628972,
+    "wof:lastmodified":1492809305,
     "wof:name":"OSI Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

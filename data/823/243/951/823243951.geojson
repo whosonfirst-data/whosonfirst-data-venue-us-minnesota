@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.054962,45.10122,-95.054962,45.10122",
     "geom:latitude":45.10122,
     "geom:longitude":-95.054962,
@@ -37,17 +38,34 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zqwx03yQlS1tR4GBPB43X_45.101220_-95.054962@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609219,
-    "wof:geomhash":"14a260b0d8e821e788239ac4fb8e6f66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09f95b051c0de7b597826cabaee416ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":823243951
+        }
+    ],
     "wof:id":823243951,
-    "wof:lastmodified":1472629168,
+    "wof:lastmodified":1492829332,
     "wof:name":"Anderson Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.523023,48.577542,-96.523023,48.577542",
     "geom:latitude":48.577542,
     "geom:longitude":-96.523023,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514127,
+        85633793,
+        85953247,
+        102087613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YOwAMtH87eK9SEHw3p2iN_48.577542_-96.523023@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586814,
-    "wof:geomhash":"cbc4c4518b8f9dd1b4404aed71c6b16d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de00d9d948bdd4703829357536a166b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087613,
+            "localadmin_id":404514127,
+            "locality_id":85953247,
+            "region_id":85688727,
+            "venue_id":773581543
+        }
+    ],
     "wof:id":773581543,
-    "wof:lastmodified":1472630100,
+    "wof:lastmodified":1492802112,
     "wof:name":"Karlstad City Council",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

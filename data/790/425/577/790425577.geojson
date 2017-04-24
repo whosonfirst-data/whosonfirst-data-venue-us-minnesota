@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.336033,45.370374,-93.336033,45.370374",
     "geom:latitude":45.370374,
     "geom:longitude":-93.336033,
@@ -28,17 +29,34 @@
     "sg:postcode":"55011",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sCwxMH9FDOP0vfOooH3NV_45.370374_-93.336033@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595737,
-    "wof:geomhash":"2fc51c5d8e70b282be1b9face09f5e52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6ec4ed1188c2e93aeaa38fab0aee3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":790425577
+        }
+    ],
     "wof:id":790425577,
-    "wof:lastmodified":1472629702,
+    "wof:lastmodified":1492834887,
     "wof:name":"County of Anoka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

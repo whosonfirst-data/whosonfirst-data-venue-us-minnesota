@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.472043,43.802336,-95.472043,43.802336",
     "geom:latitude":43.802336,
     "geom:longitude":-95.472043,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510261,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qhSzyh5UYIYUWYJynxBGr_43.802336_-95.472043@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604056,
-    "wof:geomhash":"8623db1dc5138711b27e9da4db238f74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69cfaae2ec90c30e9ef03c61979c4403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510261,
+            "region_id":85688727,
+            "venue_id":807130779
+        }
+    ],
     "wof:id":807130779,
-    "wof:lastmodified":1472629264,
+    "wof:lastmodified":1492823028,
     "wof:name":"Mark Bartosh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

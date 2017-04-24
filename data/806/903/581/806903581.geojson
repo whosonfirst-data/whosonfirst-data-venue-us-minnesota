@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.205544,45.116533,-94.205544,45.116533",
     "geom:latitude":45.116533,
     "geom:longitude":-94.205544,
@@ -32,17 +33,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515195,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hc6J7NYClucPzXg2a0twx_45.116533_-94.205544@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602035,
-    "wof:geomhash":"b81540778949f52a6d00ca8dccd3cccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c215f74ae5a6223cc60a220c6d06bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515195,
+            "region_id":85688727,
+            "venue_id":806903581
+        }
+    ],
     "wof:id":806903581,
-    "wof:lastmodified":1472629930,
+    "wof:lastmodified":1492819185,
     "wof:name":"David Aho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.685512,46.8698,-92.685512,46.8698",
     "geom:latitude":46.8698,
     "geom:longitude":-92.685512,
@@ -32,17 +33,32 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510657,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SGTMqwUPRStL60iIYl49D_46.869800_-92.685512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598009,
-    "wof:geomhash":"4b296c545cf963f2b5643b3f71f4ffda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"583654cce7b384bb09ded8ea6dea5f74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510657,
+            "region_id":85688727,
+            "venue_id":806420179
+        }
+    ],
     "wof:id":806420179,
-    "wof:lastmodified":1472629085,
+    "wof:lastmodified":1492815560,
     "wof:name":"Residential Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.56268,43.85631,-95.56268,43.85631",
     "geom:latitude":43.85631,
     "geom:longitude":-95.56268,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513165,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PUP16rstBwcNeLDMD1jFI_43.856310_-95.562680@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590334,
-    "wof:geomhash":"e29d0295d6edfe256b9c95c4116e4db5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13170efb0139407955ef1cfa9ed31b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513165,
+            "region_id":85688727,
+            "venue_id":789760805
+        }
+    ],
     "wof:id":789760805,
-    "wof:lastmodified":1472629344,
+    "wof:lastmodified":1492810648,
     "wof:name":"Behr Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

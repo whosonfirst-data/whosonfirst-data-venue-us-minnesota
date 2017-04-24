@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.330101,44.948443,-93.330101,44.948443",
     "geom:latitude":44.948443,
     "geom:longitude":-93.330101,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xTsjHomnYlwzfz14wF5Do_44.948443_-93.330101@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601764,
-    "wof:geomhash":"bef6d5485bf042d216b745ba1787558a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db9e5e33857e37c90f04a1a310945c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":806869059
+        }
+    ],
     "wof:id":806869059,
-    "wof:lastmodified":1472629901,
+    "wof:lastmodified":1492814386,
     "wof:name":"Valvoline Instant Oil Change",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

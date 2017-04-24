@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.300737,44.832307,-95.300737,44.832307",
     "geom:latitude":44.832307,
     "geom:longitude":-95.300737,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510579,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3APx2AjM9LUGFuWNfsTRX3_44.832307_-95.300737@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604144,
-    "wof:geomhash":"fc79b6518e349552f59da3378d631874",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9c348cb08316f8d89e730f6d67219f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510579,
+            "region_id":85688727,
+            "venue_id":807138357
+        }
+    ],
     "wof:id":807138357,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492823879,
     "wof:name":"D Refsland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

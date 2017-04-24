@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.484064,44.067331,-92.484064,44.067331",
     "geom:latitude":44.067331,
     "geom:longitude":-92.484064,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ODJzyY8k7Fypf0Eor6Mdb_44.067331_-92.484064@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595501,
-    "wof:geomhash":"05361b60b328ebfee7020fa76da4c904",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d6bdbbadea1dffc09847cbff3325052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790395095
+        }
+    ],
     "wof:id":790395095,
-    "wof:lastmodified":1472629636,
+    "wof:lastmodified":1492836723,
     "wof:name":"Rhondas Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

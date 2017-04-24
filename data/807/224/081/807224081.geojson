@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.448084,45.028568,-93.448084,45.028568",
     "geom:latitude":45.028568,
     "geom:longitude":-93.448084,
@@ -36,17 +37,34 @@
         "soup"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V4jP5x9qayVJGpi4THKx0_45.028568_-93.448084@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605053,
-    "wof:geomhash":"d51ba85066af2c533dd8fbe4854f90af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e97b47803a203d3a4d088f4dea1dc3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":807224081
+        }
+    ],
     "wof:id":807224081,
-    "wof:lastmodified":1472629433,
+    "wof:lastmodified":1492823146,
     "wof:name":"Chili's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

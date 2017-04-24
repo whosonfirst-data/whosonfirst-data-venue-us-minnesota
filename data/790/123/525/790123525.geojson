@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.279246,44.968726,-93.279246,44.968726",
     "geom:latitude":44.968726,
     "geom:longitude":-93.279246,
@@ -34,15 +35,15 @@
     "sg:website":"www.captainsoftheguard.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872585,
+        1108800007,
+        85872643,
         102191575,
+        1108799997,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420558763,
-        85867007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593318,
-    "wof:geomhash":"faf756b73167871529827b067f3853fa",
+    "wof:geomhash":"6dec48d17890fc6bdde0137dd09561d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,35 +59,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872585,
-            "region_id":85688727,
-            "venue_id":790123525
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420558763,
-            "region_id":85688727,
-            "venue_id":790123525
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867007,
+            "macrohood_id":1108799997,
+            "microhood_id":1108800007,
+            "neighbourhood_id":85872643,
             "region_id":85688727,
             "venue_id":790123525
         }
     ],
     "wof:id":790123525,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492832334,
     "wof:name":"Captains Of The Guard Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

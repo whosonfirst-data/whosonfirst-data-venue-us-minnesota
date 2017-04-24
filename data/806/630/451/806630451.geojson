@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.824705,45.470731,-94.824705,45.470731",
     "geom:latitude":45.470731,
     "geom:longitude":-94.824705,
@@ -37,17 +38,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514365,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qi16S9oaFoWyBknMqMjS9_45.470731_-94.824705@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599739,
-    "wof:geomhash":"88e354785b84fffc30d608402cd75896",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e8c7336115b3497dc5906d00f17b6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514365,
+            "region_id":85688727,
+            "venue_id":806630451
+        }
+    ],
     "wof:id":806630451,
-    "wof:lastmodified":1472629559,
+    "wof:lastmodified":1492819155,
     "wof:name":"Jeff Dahl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

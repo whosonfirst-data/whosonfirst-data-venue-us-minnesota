@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.942651,46.017171,-92.942651,46.017171",
     "geom:latitude":46.017171,
     "geom:longitude":-92.942651,
@@ -44,17 +45,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513353,
+        85633793,
+        85953295,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W6pTql5wzRNe2y1NDCwe8_46.017171_-92.942651@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605251,
-    "wof:geomhash":"37b9201fcca9d5d7d1259fd7dbbb37fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9a9f88c3fa4566754dcb8385e746767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513353,
+            "locality_id":85953295,
+            "region_id":85688727,
+            "venue_id":807243139
+        }
+    ],
     "wof:id":807243139,
-    "wof:lastmodified":1472629494,
+    "wof:lastmodified":1492824115,
     "wof:name":"Northbound Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

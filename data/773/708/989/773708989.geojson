@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.344144,46.075267,-94.344144,46.075267",
     "geom:latitude":46.075267,
     "geom:longitude":-94.344144,
@@ -32,17 +33,32 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512709,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hrU9DFDbbslpJKMKu0RYP_46.075267_-94.344144@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587797,
-    "wof:geomhash":"da0592835344c7c6e8e1ed67f97d7476",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afd7dc59bb60132a5600ee6a348228cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512709,
+            "region_id":85688727,
+            "venue_id":773708989
+        }
+    ],
     "wof:id":773708989,
-    "wof:lastmodified":1472630137,
+    "wof:lastmodified":1492800073,
     "wof:name":"Military Post Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.755648,47.579436,-95.755648,47.579436",
     "geom:latitude":47.579436,
     "geom:longitude":-95.755648,
@@ -31,17 +32,34 @@
         "blasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TnIL4O9JFUjdnVp83cEEq_47.579436_-95.755648@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601166,
-    "wof:geomhash":"e4c3080eb8122690fae5573b3674bdb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5b0f4d7211e1336ed8e26e47b8790a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":806797621
+        }
+    ],
     "wof:id":806797621,
-    "wof:lastmodified":1472629831,
+    "wof:lastmodified":1492818438,
     "wof:name":"Buchholz Blasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

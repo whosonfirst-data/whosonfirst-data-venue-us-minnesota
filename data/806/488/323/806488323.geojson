@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.128532,43.872276,-96.128532,43.872276",
     "geom:latitude":43.872276,
     "geom:longitude":-96.128532,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510433,
+        85633793,
+        85953115,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vAx9O5nm8NWh8F6hp9wHh_43.872276_-96.128532@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598530,
-    "wof:geomhash":"ead0257df01907497e6c24ce88884a5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8333794b8f71e24a28d269fa2e935919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510433,
+            "locality_id":85953115,
+            "region_id":85688727,
+            "venue_id":806488323
+        }
+    ],
     "wof:id":806488323,
-    "wof:lastmodified":1472629286,
+    "wof:lastmodified":1492818539,
     "wof:name":"Edgerton Frontier Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

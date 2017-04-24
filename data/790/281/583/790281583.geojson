@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.129903,46.451058,-95.129903,46.451058",
     "geom:latitude":46.451058,
     "geom:longitude":-95.129903,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514849,
+        85633793,
+        85968683,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NClneiTXYxUv3SOPzgja4_46.451058_-95.129903@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594622,
-    "wof:geomhash":"5a9d378d2127378aed8db25a41ba41aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9af942b34a17f047704fab95f155c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514849,
+            "locality_id":85968683,
+            "region_id":85688727,
+            "venue_id":790281583
+        }
+    ],
     "wof:id":790281583,
-    "wof:lastmodified":1472629451,
+    "wof:lastmodified":1492835265,
     "wof:name":"Fix's Family Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

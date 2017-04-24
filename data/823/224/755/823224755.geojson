@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.485283,47.441528,-92.485283,47.441528",
     "geom:latitude":47.441528,
     "geom:longitude":-92.485283,
@@ -39,17 +40,26 @@
         "processing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L81TXdtnK5hh579U6Mg47_47.441528_-92.485283@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608834,
-    "wof:geomhash":"612cb099aa0cb87503819c58c736fe11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2176e4622c8e2d8a19a427fcd5ed56c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224755
+        }
+    ],
     "wof:id":823224755,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492828777,
     "wof:name":"J J L Computer Services",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

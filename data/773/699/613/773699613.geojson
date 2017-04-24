@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.078451,45.062656,-94.078451,45.062656",
     "geom:latitude":45.062656,
     "geom:longitude":-94.078451,
@@ -32,17 +33,34 @@
         "panel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515229,
+        85633793,
+        85968913,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02lxgGIJjAiXUi2pRP4wkI_45.062656_-94.078451@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587723,
-    "wof:geomhash":"ff1d0a0441d70cf1331c6c6828880f8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"100eefb1d5634dfeb813ce51dec4b289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515229,
+            "locality_id":85968913,
+            "region_id":85688727,
+            "venue_id":773699613
+        }
+    ],
     "wof:id":773699613,
-    "wof:lastmodified":1472630134,
+    "wof:lastmodified":1492804601,
     "wof:name":"Northstar Controls Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

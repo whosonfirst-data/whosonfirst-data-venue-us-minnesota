@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.729248,44.898334,-93.729248,44.898334",
     "geom:latitude":44.898334,
     "geom:longitude":-93.729248,
@@ -33,17 +34,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511889,
+        85633793,
+        85969155,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jP4uNTxc7XwjUQqp8C3i0_44.898334_-93.729248@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597475,
-    "wof:geomhash":"b067f9ec3907401b5751f6abac4a19f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29923eea0a0fe5b5436eef62b9bd8cb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":806355645
+        }
+    ],
     "wof:id":806355645,
-    "wof:lastmodified":1472628947,
+    "wof:lastmodified":1492815843,
     "wof:name":"Tony Ebert Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

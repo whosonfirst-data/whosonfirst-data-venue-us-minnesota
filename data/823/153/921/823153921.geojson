@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.339233,44.950242,-93.339233,44.950242",
     "geom:latitude":44.950242,
     "geom:longitude":-93.339233,
@@ -43,17 +44,34 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qvUgXkCaFWbhN1rNherkq_44.950242_-93.339233@1303262827"
     },
     "wof:country":"US",
     "wof:created":1462607718,
-    "wof:geomhash":"1399f66f6aca202764b85f9853bfd1c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4f5ac2fdc96c9cb01d73b35ac5edc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823153921
+        }
+    ],
     "wof:id":823153921,
-    "wof:lastmodified":1472628973,
+    "wof:lastmodified":1492828473,
     "wof:name":"Thurnco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

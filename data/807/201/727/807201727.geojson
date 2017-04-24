@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.094935,43.888538,-95.094935,43.888538",
     "geom:latitude":43.888538,
     "geom:longitude":-95.094935,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511863,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bFdphZdCPOEZp6cfzrR8e_43.888538_-95.094935@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604815,
-    "wof:geomhash":"004b824f4eff49cf67375ce0a92a9ff1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d73e32806fc107b7d6fe284d81d85161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511863,
+            "region_id":85688727,
+            "venue_id":807201727
+        }
+    ],
     "wof:id":807201727,
-    "wof:lastmodified":1472629419,
+    "wof:lastmodified":1492825846,
     "wof:name":"Charles Axford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.495348,45.122088,-93.495348,45.122088",
     "geom:latitude":45.122088,
     "geom:longitude":-93.495348,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H4ChYARchOa4txcyH9rBg_45.122088_-93.495348@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599627,
-    "wof:geomhash":"1bdb5a08df84fdfc72dd3dbe48c3eb91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff8a23e92af0309faa6fc4450579e172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806616663
+        }
+    ],
     "wof:id":806616663,
-    "wof:lastmodified":1472629566,
+    "wof:lastmodified":1492813977,
     "wof:name":"Glen Arbor Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

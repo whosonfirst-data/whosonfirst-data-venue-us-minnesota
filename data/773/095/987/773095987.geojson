@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.934572,48.048826,-92.934572,48.048826",
     "geom:latitude":48.048826,
     "geom:longitude":-92.934572,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513401,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kCmC1BXyU5vxy7BKd4Lp0_48.048826_-92.934572@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583122,
-    "wof:geomhash":"f4876bef3d45d8709937d1d7cf72a717",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d580dbd2503acf505ca64bad202f1b04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513401,
+            "region_id":85688727,
+            "venue_id":773095987
+        }
+    ],
     "wof:id":773095987,
-    "wof:lastmodified":1472629584,
+    "wof:lastmodified":1492803024,
     "wof:name":"Northland Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

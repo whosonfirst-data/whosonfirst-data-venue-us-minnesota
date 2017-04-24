@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.154144,44.908528,-93.154144,44.908528",
     "geom:latitude":44.908528,
     "geom:longitude":-93.154144,
@@ -35,19 +36,38 @@
         "installer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4liQh4xxxB11Vfi0ltkoOi_44.908528_-93.154144@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585346,
-    "wof:geomhash":"3e25b6fad8a15081f320736264853cfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e826ab08bbcdaabcc01e46b7273310e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":773392531
+        }
+    ],
     "wof:id":773392531,
-    "wof:lastmodified":1472630039,
+    "wof:lastmodified":1492800761,
     "wof:name":"Metro Glass Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

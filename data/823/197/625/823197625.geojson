@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.227768,45.101541,-93.227768,45.101541",
     "geom:latitude":45.101541,
     "geom:longitude":-93.227768,
@@ -38,17 +39,34 @@
         "elevator-consultants"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514455,
+        85633793,
+        85953145,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rB6fHxztBzvZTAqNZ8PfF_45.101541_-93.227768@1303262832"
     },
     "wof:country":"US",
     "wof:created":1462608303,
-    "wof:geomhash":"d6b15b2369c7b08adf2a91f7d04aa26f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"857f73bd6175b5f35f6079e55fcae29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514455,
+            "locality_id":85953145,
+            "region_id":85688727,
+            "venue_id":823197625
+        }
+    ],
     "wof:id":823197625,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492829396,
     "wof:name":"North Central Elevators Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

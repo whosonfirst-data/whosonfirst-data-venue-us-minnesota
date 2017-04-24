@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.068126,46.614921,-96.068126,46.614921",
     "geom:latitude":46.614921,
     "geom:longitude":-96.068126,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513039,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LaQAuzBPwzaLR8Z7VIUH1_46.614921_-96.068126@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582758,
-    "wof:geomhash":"11b4aea0723b98ffaeda5fc41f5e88e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e0b99fe7d097d6f6091a8d43eccd41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513039,
+            "region_id":85688727,
+            "venue_id":773049895
+        }
+    ],
     "wof:id":773049895,
-    "wof:lastmodified":1472629432,
+    "wof:lastmodified":1492804047,
     "wof:name":"Pullen Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

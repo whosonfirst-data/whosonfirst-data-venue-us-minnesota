@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.731524,44.388192,-93.731524,44.388192",
     "geom:latitude":44.388192,
     "geom:longitude":-93.731524,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512359,
+        85633793,
+        85953433,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KtXKgaG5UI3qPFkTVAtCh_44.388192_-93.731524@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591255,
-    "wof:geomhash":"689943c4221bc92ba8363dca0b93a477",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0bba9ec8e068754a32ed149bf145fb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512359,
+            "locality_id":85953433,
+            "region_id":85688727,
+            "venue_id":789877121
+        }
+    ],
     "wof:id":789877121,
-    "wof:lastmodified":1472629555,
+    "wof:lastmodified":1492811756,
     "wof:name":"Hultgren & Hoxie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

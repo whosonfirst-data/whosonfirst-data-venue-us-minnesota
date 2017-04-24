@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.234406,45.86498,-95.234406,45.86498",
     "geom:latitude":45.86498,
     "geom:longitude":-95.234406,
@@ -38,17 +39,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513931,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p3JVWkvCBVKC7gQh7cmVn_45.864980_-95.234406@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599264,
-    "wof:geomhash":"320cb16c681f5bbee87a0fb015366a35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5aa1148b846d244356e23a4052764168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513931,
+            "region_id":85688727,
+            "venue_id":806573911
+        }
+    ],
     "wof:id":806573911,
-    "wof:lastmodified":1472629477,
+    "wof:lastmodified":1492820300,
     "wof:name":"Gregg Thompson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

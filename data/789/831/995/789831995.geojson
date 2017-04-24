@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.196753,45.573849,-94.196753,45.573849",
     "geom:latitude":45.573849,
     "geom:longitude":-94.196753,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qny4x42Yvt0beQeDBM1TY_45.573849_-94.196753@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590885,
-    "wof:geomhash":"7875659f46704ce24a29fa18ecae8f30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6829b596e4a51ab4fb876053c838bd55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789831995
+        }
+    ],
     "wof:id":789831995,
-    "wof:lastmodified":1472629431,
+    "wof:lastmodified":1492809504,
     "wof:name":"Center For Pain Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

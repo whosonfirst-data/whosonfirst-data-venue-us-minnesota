@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.417925,45.050907,-93.417925,45.050907",
     "geom:latitude":45.050907,
     "geom:longitude":-93.417925,
@@ -31,17 +32,34 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fB8CFxy7RI45BR7awgvCM_45.050907_-93.417925@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608563,
-    "wof:geomhash":"944e48476d630e96a8a768186f7862fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c13f10fc14aa3e94051d6687e37b7b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823211681
+        }
+    ],
     "wof:id":823211681,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492828220,
     "wof:name":"Healthcare Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

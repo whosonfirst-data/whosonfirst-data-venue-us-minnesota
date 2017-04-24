@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.46322,44.006868,-92.46322,44.006868",
     "geom:latitude":44.006868,
     "geom:longitude":-92.46322,
@@ -33,17 +34,34 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LONBdCeLNyEt26SGpgfEs_44.006868_-92.463220@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586816,
-    "wof:geomhash":"ed4904a707994211c3602be5a8bf5656",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dff5a16a5da090882a7893bfeffe940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773581787
+        }
+    ],
     "wof:id":773581787,
-    "wof:lastmodified":1472630100,
+    "wof:lastmodified":1492802111,
     "wof:name":"Dollar and Cents",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

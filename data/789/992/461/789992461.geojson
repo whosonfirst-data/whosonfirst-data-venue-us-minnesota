@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.615151,47.383097,-94.615151,47.383097",
     "geom:latitude":47.383097,
     "geom:longitude":-94.615151,
@@ -31,17 +32,32 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511735,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iTZtb8ZjsuNolum4shD30_47.383097_-94.615151@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592269,
-    "wof:geomhash":"6745708ba27e5e387b98402d158e6a92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a4647217dead83d97f1de71d2e22374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511735,
+            "region_id":85688727,
+            "venue_id":789992461
+        }
+    ],
     "wof:id":789992461,
-    "wof:lastmodified":1472629685,
+    "wof:lastmodified":1492813576,
     "wof:name":"US Forest Svc C & M Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

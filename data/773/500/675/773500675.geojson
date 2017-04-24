@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.125596,44.209755,-95.125596,44.209755",
     "geom:latitude":44.209755,
     "geom:longitude":-95.125596,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512319,
+        85633793,
+        85968755,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n55Gg2JCb83WDT4qgBAHI_44.209755_-95.125596@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586210,
-    "wof:geomhash":"82f9a29579cef72e814bae33079547be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8fb8fc3ed6ef08bd96becd192ac774c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512319,
+            "locality_id":85968755,
+            "region_id":85688727,
+            "venue_id":773500675
+        }
+    ],
     "wof:id":773500675,
-    "wof:lastmodified":1472630074,
+    "wof:lastmodified":1492806921,
     "wof:name":"Kircher Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.185313,48.122335,-96.185313,48.122335",
     "geom:latitude":48.122335,
     "geom:longitude":-96.185313,
@@ -39,17 +40,34 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pdSi6mdBTP82mgr1WNj3n_48.122335_-96.185313@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602512,
-    "wof:geomhash":"9781b0284f8a8e30c618b6ed870171eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2c2facd037be084e6f98b6365ae636f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806958251
+        }
+    ],
     "wof:id":806958251,
-    "wof:lastmodified":1472629959,
+    "wof:lastmodified":1492819548,
     "wof:name":"Nelson Dental Lab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

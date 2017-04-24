@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.301344,47.259229,-91.301344,47.259229",
     "geom:latitude":47.259229,
     "geom:longitude":-91.301344,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        85633793,
+        85968597,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nnW4dRQJbuXk9GnIe9Kgl_47.259229_-91.301344@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584617,
-    "wof:geomhash":"11950e5998a800f47800a4f951664746",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb09598b692497d03141cf4433a50699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "locality_id":85968597,
+            "region_id":85688727,
+            "venue_id":773292379
+        }
+    ],
     "wof:id":773292379,
-    "wof:lastmodified":1472630016,
+    "wof:lastmodified":1492802056,
     "wof:name":"Assembly Of God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

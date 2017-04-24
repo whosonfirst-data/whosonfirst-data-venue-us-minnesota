@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.654725,44.371037,-95.654725,44.371037",
     "geom:latitude":44.371037,
     "geom:longitude":-95.654725,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512529,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hCJ2mLJsppCeTtvqTtGl9_44.371037_-95.654725@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604680,
-    "wof:geomhash":"920169171ec36551a903c06f85464223",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c331e3e28d7fcef3737f43caf230b98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512529,
+            "region_id":85688727,
+            "venue_id":807189017
+        }
+    ],
     "wof:id":807189017,
-    "wof:lastmodified":1472629376,
+    "wof:lastmodified":1492825684,
     "wof:name":"Schulte Hatchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

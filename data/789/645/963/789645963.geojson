@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.335258,44.869856,-94.335258,44.869856",
     "geom:latitude":44.869856,
     "geom:longitude":-94.335258,
@@ -31,17 +32,32 @@
         "waste"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512809,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Si8iqmF47NHM21zWiGc6k_44.869856_-94.335258@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589416,
-    "wof:geomhash":"0055dd3f91f122922ceb4643a7d1ec78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97438478ab36ae151c04079d7b7a8cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512809,
+            "region_id":85688727,
+            "venue_id":789645963
+        }
+    ],
     "wof:id":789645963,
-    "wof:lastmodified":1472629091,
+    "wof:lastmodified":1492810783,
     "wof:name":"Hutchinson Waste Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

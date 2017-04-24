@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.916232,45.271001,-94.916232,45.271001",
     "geom:latitude":45.271001,
     "geom:longitude":-94.916232,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513945,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52e6nDEs9euhXWXDw4cUMa_45.271001_-94.916232@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582144,
-    "wof:geomhash":"e4f26567a19ff998437f36e5bd6ff5d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b4491fd6aab7007bba0b3e36b8bc9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513945,
+            "region_id":85688727,
+            "venue_id":773001319
+        }
+    ],
     "wof:id":773001319,
-    "wof:lastmodified":1472628926,
+    "wof:lastmodified":1492803043,
     "wof:name":"Faithworks Fitness LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

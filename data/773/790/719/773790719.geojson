@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.119787,44.989999,-93.119787,44.989999",
     "geom:latitude":44.989999,
     "geom:longitude":-93.119787,
@@ -31,11 +32,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        1108800551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,23 +45,33 @@
     },
     "wof:country":"US",
     "wof:created":1462588394,
-    "wof:geomhash":"8a1671ca878aac6fcf562f71b841ae8c",
+    "wof:geomhash":"768347a9f5e4be0e0af3dc9d423aca11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":773790719
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800551,
             "region_id":85688727,
             "venue_id":773790719
         }
     ],
     "wof:id":773790719,
-    "wof:lastmodified":1472630161,
+    "wof:lastmodified":1492808900,
     "wof:name":"Thomas Allen Incorporated",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

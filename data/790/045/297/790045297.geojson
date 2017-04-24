@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.695428,46.178228,-95.695428,46.178228",
     "geom:latitude":46.178228,
     "geom:longitude":-95.695428,
@@ -31,17 +32,32 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510335,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iVtZwZoetO1t1DdoE68rW_46.178228_-95.695428@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592680,
-    "wof:geomhash":"640b13246c6d645387c2593941a81372",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6efbe8f58e78160d2242607231459e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510335,
+            "region_id":85688727,
+            "venue_id":790045297
+        }
+    ],
     "wof:id":790045297,
-    "wof:lastmodified":1472629024,
+    "wof:lastmodified":1492833300,
     "wof:name":"Herges Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

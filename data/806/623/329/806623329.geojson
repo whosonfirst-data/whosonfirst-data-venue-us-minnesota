@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.600176,48.712972,-94.600176,48.712972",
     "geom:latitude":48.712972,
     "geom:longitude":-94.600176,
@@ -31,17 +32,34 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515153,
+        85633793,
+        85952741,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74PjtDD9L0ruP13c7TvBzR_48.712972_-94.600176@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599679,
-    "wof:geomhash":"0a540ad3db2631f98913c0526cf93acd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e3a4b8ba880e9b281d04aec810d2330",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404515153,
+            "locality_id":85952741,
+            "region_id":85688727,
+            "venue_id":806623329
+        }
+    ],
     "wof:id":806623329,
-    "wof:lastmodified":1472629541,
+    "wof:lastmodified":1492815084,
     "wof:name":"Main Mug & Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

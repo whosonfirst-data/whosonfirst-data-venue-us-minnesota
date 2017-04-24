@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.616759,47.767981,-96.616759,47.767981",
     "geom:latitude":47.767981,
     "geom:longitude":-96.616759,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513695,
+        85633793,
+        85968417,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kpCHk6x3IR5G21HfYKUGT_47.767981_-96.616759@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609548,
-    "wof:geomhash":"38ded00119c21fca30f95f906f6ad950",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f1985494fd748d3859c2da2643d1963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513695,
+            "locality_id":85968417,
+            "region_id":85688727,
+            "venue_id":823259753
+        }
+    ],
     "wof:id":823259753,
-    "wof:lastmodified":1472629224,
+    "wof:lastmodified":1492829159,
     "wof:name":"David Szczech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

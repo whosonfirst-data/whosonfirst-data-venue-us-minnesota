@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.500509,45.80804,-96.500509,45.80804",
     "geom:latitude":45.80804,
     "geom:longitude":-96.500509,
@@ -32,17 +33,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2whl3NCyf9ib6skKZmUAll_45.808040_-96.500509@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589418,
-    "wof:geomhash":"04939c6e42d0bd35b6c163ce1bc7dc36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a50a352433c9776236e7fb06d846fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":789646253
+        }
+    ],
     "wof:id":789646253,
-    "wof:lastmodified":1472629075,
+    "wof:lastmodified":1492812484,
     "wof:name":"Big Stone Therapies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

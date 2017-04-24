@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.347608,44.911558,-93.347608,44.911558",
     "geom:latitude":44.911558,
     "geom:longitude":-93.347608,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O1oH61tnk3DNAnTfmZZLI_44.911558_-93.347608@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599775,
-    "wof:geomhash":"d583ab7e2dca214b644b1f6586f71b09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4408d16d27d695c1bc9dddacc8296d7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":806634953
+        }
+    ],
     "wof:id":806634953,
-    "wof:lastmodified":1472629581,
+    "wof:lastmodified":1492820433,
     "wof:name":"City of Edina",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

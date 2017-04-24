@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.329703,44.811713,-93.329703,44.811713",
     "geom:latitude":44.811713,
     "geom:longitude":-93.329703,
@@ -28,17 +29,34 @@
     "sg:postcode":"55431",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39GQ4kd4yKTw7e7Hac8myB_44.811713_-93.329703@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608261,
-    "wof:geomhash":"ba10782b0882edc483a43d71ad4afa61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a82025d3dcccfc13783a7c90a045986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823194775
+        }
+    ],
     "wof:id":823194775,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492830275,
     "wof:name":"Marshalls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

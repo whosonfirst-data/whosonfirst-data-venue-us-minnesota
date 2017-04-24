@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.366723,45.889192,-95.366723,45.889192",
     "geom:latitude":45.889192,
     "geom:longitude":-95.366723,
@@ -31,17 +32,34 @@
         "accident"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VOA8EI71d3nQZvFCRbEuT_45.889192_-95.366723@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585742,
-    "wof:geomhash":"cf066f977dc88a43a8576f7c70bca608",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cdf4019d9ae5ab92c6f20accbab89dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773437827
+        }
+    ],
     "wof:id":773437827,
-    "wof:lastmodified":1472630054,
+    "wof:lastmodified":1492806655,
     "wof:name":"Gibbons & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

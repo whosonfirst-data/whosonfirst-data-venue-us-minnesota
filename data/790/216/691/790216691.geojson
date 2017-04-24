@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.375648,44.877463,-94.375648,44.877463",
     "geom:latitude":44.877463,
     "geom:longitude":-94.375648,
@@ -28,17 +29,34 @@
     "sg:postcode":"55350",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BtF2JZXu3lb0bwozm6V7S_44.877463_-94.375648@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594081,
-    "wof:geomhash":"0002f811e4250508706c65f3906cb656",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e3d9c7905b324842819143b424add51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":790216691
+        }
+    ],
     "wof:id":790216691,
-    "wof:lastmodified":1472629333,
+    "wof:lastmodified":1492832208,
     "wof:name":"Home State Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

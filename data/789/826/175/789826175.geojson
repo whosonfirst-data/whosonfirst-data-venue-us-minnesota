@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.993754,45.329992,-92.993754,45.329992",
     "geom:latitude":45.329992,
     "geom:longitude":-92.993754,
@@ -32,17 +33,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TAUt5QHnwnCh9A2MFJZCF_45.329992_-92.993754@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590840,
-    "wof:geomhash":"a74f145f6b4f24090a1faba4d13b43b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fad8b4cd91c9786d1c9f8ef84b065be2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":789826175
+        }
+    ],
     "wof:id":789826175,
-    "wof:lastmodified":1472629398,
+    "wof:lastmodified":1492812496,
     "wof:name":"Clark Processing Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278201,44.886088,-93.278201,44.886088",
     "geom:latitude":44.886088,
     "geom:longitude":-93.278201,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M2Emxmnx2cnrXfg8ZuQCq_44.886088_-93.278201@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597583,
-    "wof:geomhash":"d5d8f7b9e6f33ff341cfeb4e5f3c909e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa1fd1c65e8aa9ed5b1d8f128e471df5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":806367979
+        }
+    ],
     "wof:id":806367979,
-    "wof:lastmodified":1472628978,
+    "wof:lastmodified":1492818639,
     "wof:name":"Frederick Dental Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

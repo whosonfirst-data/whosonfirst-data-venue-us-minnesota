@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.2995,44.998278,-93.2995,44.998278",
     "geom:latitude":44.998278,
     "geom:longitude":-93.2995,
@@ -29,14 +30,14 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872691,
+        85872601,
         102191575,
+        1108799979,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872601
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587996,
-    "wof:geomhash":"3116daac41d88a3acca01d4b31cc3df3",
+    "wof:geomhash":"ab1aca2b0da45c35db5e1ce3f08486eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +53,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872691,
-            "region_id":85688727,
-            "venue_id":773736403
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799979,
             "neighbourhood_id":85872601,
             "region_id":85688727,
             "venue_id":773736403
         }
     ],
     "wof:id":773736403,
-    "wof:lastmodified":1472630143,
+    "wof:lastmodified":1492801408,
     "wof:name":"Sandy Green Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.21758,45.541949,-94.21758,45.541949",
     "geom:latitude":45.541949,
     "geom:longitude":-94.21758,
@@ -35,17 +36,34 @@
         "between"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FOUBphvOrsqYtPaiOqubl_45.541949_-94.217580@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597779,
-    "wof:geomhash":"9166fe9c5184132f7bbede8d27dc8b37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f730a4c450d9eaab85e1544269c04627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":806393093
+        }
+    ],
     "wof:id":806393093,
-    "wof:lastmodified":1472629021,
+    "wof:lastmodified":1492818591,
     "wof:name":"Central Minn Hlth Info Netwrk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

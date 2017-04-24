@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.463006,47.493582,-92.463006,47.493582",
     "geom:latitude":47.493582,
     "geom:longitude":-92.463006,
@@ -25,17 +26,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52U8yTGLLkn6CDBZ92hluF_47.493582_-92.463006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604459,
-    "wof:geomhash":"f410be3e0996de08c16f2dfd1dce2f10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7751755985bed5294623014d6ba53732",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":807167805
+        }
+    ],
     "wof:id":807167805,
-    "wof:lastmodified":1472629322,
+    "wof:lastmodified":1492822569,
     "wof:name":"Kohler Fuel",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

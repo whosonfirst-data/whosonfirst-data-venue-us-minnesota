@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.468179,44.02044,-92.468179,44.02044",
     "geom:latitude":44.02044,
     "geom:longitude":-92.468179,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BVbPjLsleBMGrWhaYUWtQ_44.020440_-92.468179@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597233,
-    "wof:geomhash":"fda52a17be08cdeede1cd1091e353a14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efbf795889bb41c7288d639f63c990d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790600901
+        }
+    ],
     "wof:id":790600901,
-    "wof:lastmodified":1472629915,
+    "wof:lastmodified":1492834455,
     "wof:name":"Urgent Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

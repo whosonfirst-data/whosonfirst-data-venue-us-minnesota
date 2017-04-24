@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.392591,44.809959,-93.392591,44.809959",
     "geom:latitude":44.809959,
     "geom:longitude":-93.392591,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JoV9jOeWsxfc6CdrqBvBs_44.809959_-93.392591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603478,
-    "wof:geomhash":"976b43230b7db2464c555eef911a888f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97273643c53d91b66b7e26af183b7a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":807072787
+        }
+    ],
     "wof:id":807072787,
-    "wof:lastmodified":1472629083,
+    "wof:lastmodified":1492824200,
     "wof:name":"Clemons Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

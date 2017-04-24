@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.046643,45.120546,-95.046643,45.120546",
     "geom:latitude":45.120546,
     "geom:longitude":-95.046643,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41iKBsizvgqbBNDZDGNFPe_45.120546_-95.046643@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601089,
-    "wof:geomhash":"3069977001299848cb778a24fd624716",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d618ee89fcbde2f33b2a07bc12f08045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":806788229
+        }
+    ],
     "wof:id":806788229,
-    "wof:lastmodified":1472629822,
+    "wof:lastmodified":1492814877,
     "wof:name":"Wilmar Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

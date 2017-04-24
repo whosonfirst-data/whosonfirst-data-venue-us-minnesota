@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.384507,47.400797,-92.384507,47.400797",
     "geom:latitude":47.400797,
     "geom:longitude":-92.384507,
@@ -32,17 +33,26 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hAfxgeUBLhVC9r6xfusru_47.400797_-92.384507@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587089,
-    "wof:geomhash":"937183c6e11d89694d685af77b8f048c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"052895a15f50db3be9453a2e9ccd4653",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773618543
+        }
+    ],
     "wof:id":773618543,
-    "wof:lastmodified":1472630111,
+    "wof:lastmodified":1492808422,
     "wof:name":"Kunnari's River Acres",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

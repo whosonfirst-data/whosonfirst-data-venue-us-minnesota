@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.612316,45.570134,-93.612316,45.570134",
     "geom:latitude":45.570134,
     "geom:longitude":-93.612316,
@@ -33,17 +34,32 @@
         "companies-bottled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512573,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48jA6B4ECUvgmUWOzXF5H4_45.570285_-93.613001@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604304,
-    "wof:geomhash":"1c85a6125fbc6936c7a0d8ae56670e95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be194b3e58cab9c7899ff36f898b1180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512573,
+            "region_id":85688727,
+            "venue_id":807153285
+        }
+    ],
     "wof:id":807153285,
-    "wof:lastmodified":1472629278,
+    "wof:lastmodified":1492822791,
     "wof:name":"Great Glacier Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

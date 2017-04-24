@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.930359,43.941113,-94.930359,43.941113",
     "geom:latitude":43.941113,
     "geom:longitude":-94.930359,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511869,
+        85633793,
+        85952779,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ONTjbHYa4zVzGZhLu76Cb_43.941113_-94.930359@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603884,
-    "wof:geomhash":"d59226e505db1fe554785d4c018438a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28795574f88aad177bf400b77b57bd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511869,
+            "locality_id":85952779,
+            "region_id":85688727,
+            "venue_id":807114489
+        }
+    ],
     "wof:id":807114489,
-    "wof:lastmodified":1472629228,
+    "wof:lastmodified":1492827340,
     "wof:name":"Melson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

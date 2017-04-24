@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.595334,44.820411,-93.595334,44.820411",
     "geom:latitude":44.820411,
     "geom:longitude":-93.595334,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14Odmaw0DBlaZhvRkXiavV_44.820411_-93.595334@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589054,
-    "wof:geomhash":"a41632410b14c80c0cbedb6253fca26d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6284b06759340afd1ba58dbb96806b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":789598689
+        }
+    ],
     "wof:id":789598689,
-    "wof:lastmodified":1472628965,
+    "wof:lastmodified":1492811593,
     "wof:name":"New Holland Credit Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

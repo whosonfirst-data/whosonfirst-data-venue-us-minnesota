@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.221512,44.793047,-94.221512,44.793047",
     "geom:latitude":44.793047,
     "geom:longitude":-94.221512,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512807,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_239EmQDqygWbWOeiflEnta_44.793047_-94.221512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583201,
-    "wof:geomhash":"8feda842ebce1aa9b97e8d4f69f9b73b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"464af493b63d84305cdd024c1c9d5ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512807,
+            "region_id":85688727,
+            "venue_id":773106783
+        }
+    ],
     "wof:id":773106783,
-    "wof:lastmodified":1472629625,
+    "wof:lastmodified":1492807469,
     "wof:name":"Norman Mathews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

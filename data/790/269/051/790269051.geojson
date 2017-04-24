@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.363629,45.889239,-95.363629,45.889239",
     "geom:latitude":45.889239,
     "geom:longitude":-95.363629,
@@ -28,17 +29,34 @@
     "sg:postcode":"56308",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LXLpjIb145QURKZzeoKic_45.889239_-95.363629@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594491,
-    "wof:geomhash":"f80f60dacdfc35fc197f4b86209fe9e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c286c17847d605036789c816dc0f595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":790269051
+        }
+    ],
     "wof:id":790269051,
-    "wof:lastmodified":1472629430,
+    "wof:lastmodified":1492834143,
     "wof:name":"Beverage Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

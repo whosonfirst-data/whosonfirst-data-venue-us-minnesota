@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.516262,47.437897,-92.516262,47.437897",
     "geom:latitude":47.437897,
     "geom:longitude":-92.516262,
@@ -32,17 +33,26 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vI6btmhjIRj2V4hGxNltv_47.437897_-92.516262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598914,
-    "wof:geomhash":"848eca433d750a60374d1d01238f5f92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b761d6d5dd4c5f7fd082908d40008294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806534993
+        }
+    ],
     "wof:id":806534993,
-    "wof:lastmodified":1472629419,
+    "wof:lastmodified":1492820834,
     "wof:name":"Kathryn K Sjoberg",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

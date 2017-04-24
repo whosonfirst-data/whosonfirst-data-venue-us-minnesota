@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.643037,43.853234,-95.643037,43.853234",
     "geom:latitude":43.853234,
     "geom:longitude":-95.643037,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513167,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fXPnNH1tPP7zMnrhzPXoP_43.853234_-95.643037@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604339,
-    "wof:geomhash":"78611fdb4afc7526dc7e57c918c6c1fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58808ca9f55cd2eff2d219dbd63254c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513167,
+            "region_id":85688727,
+            "venue_id":807156911
+        }
+    ],
     "wof:id":807156911,
-    "wof:lastmodified":1472629309,
+    "wof:lastmodified":1492824893,
     "wof:name":"Jay Dekker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.508304,43.934635,-92.508304,43.934635",
     "geom:latitude":43.934635,
     "geom:longitude":-92.508304,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512449,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EG3tCCoZn75amzX671XDD_43.934635_-92.508304@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604160,
-    "wof:geomhash":"7bec3f31f325a9d59cad8fede54147bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"625c61c2c07250cc28be7e47fd10c96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512449,
+            "region_id":85688727,
+            "venue_id":807140197
+        }
+    ],
     "wof:id":807140197,
-    "wof:lastmodified":1472629271,
+    "wof:lastmodified":1492826381,
     "wof:name":"Roger Barsness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

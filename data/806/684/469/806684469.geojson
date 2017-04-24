@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.909424,44.532,-93.909424,44.532",
     "geom:latitude":44.532,
     "geom:longitude":-93.909424,
@@ -31,17 +32,34 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514041,
+        85633793,
+        85953289,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uEFQlSpxOYgcEm0QPKHxV_44.532000_-93.909424@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600207,
-    "wof:geomhash":"4fd6541c05248dbf13386966fe9c4e87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5855eb21fa92c20fcfff0101a3324b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514041,
+            "locality_id":85953289,
+            "region_id":85688727,
+            "venue_id":806684469
+        }
+    ],
     "wof:id":806684469,
-    "wof:lastmodified":1472629693,
+    "wof:lastmodified":1492817550,
     "wof:name":"Felix Warren Auctioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

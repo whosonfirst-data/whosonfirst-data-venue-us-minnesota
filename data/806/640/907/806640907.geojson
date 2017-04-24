@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.36278,46.197521,-92.36278,46.197521",
     "geom:latitude":46.197521,
     "geom:longitude":-92.36278,
@@ -31,17 +32,32 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513365,
+        85633793,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GI2t214ou3kiGITdr1oCa_46.197521_-92.362780@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599822,
-    "wof:geomhash":"0d7499d5a3a8b15d237c18ce4dec943e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"995064ebaddaca23b5c692a7bad916d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513365,
+            "region_id":85688727,
+            "venue_id":806640907
+        }
+    ],
     "wof:id":806640907,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492816183,
     "wof:name":"Schirmer Portable Sawmill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

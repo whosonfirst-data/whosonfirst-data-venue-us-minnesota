@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.743653,43.983574,-95.743653,43.983574",
     "geom:latitude":43.983574,
     "geom:longitude":-95.743653,
@@ -31,17 +32,32 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513321,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HpWqwThuUxL7zUEpXd6Ly_43.983574_-95.743653@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582639,
-    "wof:geomhash":"19403c3c15aa9d90f7e0d7f3d74ae597",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bd24973ef8154acd4883c99a71d2494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513321,
+            "region_id":85688727,
+            "venue_id":773037317
+        }
+    ],
     "wof:id":773037317,
-    "wof:lastmodified":1472629352,
+    "wof:lastmodified":1492808299,
     "wof:name":"Slayton Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

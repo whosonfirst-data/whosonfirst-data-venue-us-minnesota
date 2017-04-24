@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.17336,48.187154,-96.17336,48.187154",
     "geom:latitude":48.187154,
     "geom:longitude":-96.17336,
@@ -26,17 +27,32 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513817,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sRkpLk2ZgOD2ZoM536JGn_48.187154_-96.173360@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604572,
-    "wof:geomhash":"511b9217b46f352528e29066af877b99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d9d65f4ea157694b6dcd86ae69b9b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513817,
+            "region_id":85688727,
+            "venue_id":807178699
+        }
+    ],
     "wof:id":807178699,
-    "wof:lastmodified":1472629365,
+    "wof:lastmodified":1492823585,
     "wof:name":"Jim Hillyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.551195,47.144636,-95.551195,47.144636",
     "geom:latitude":47.144636,
     "geom:longitude":-95.551195,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509219,
+        85633793,
+        85969261,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7242q8S1wl8ysoDhFm5kIk_47.144636_-95.551195@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589416,
-    "wof:geomhash":"d82d992e0a86bb67c7fd2b8b12e7e42b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37d873f2ad661e4a5013e04fbcb5b33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404509219,
+            "locality_id":85969261,
+            "region_id":85688727,
+            "venue_id":789646029
+        }
+    ],
     "wof:id":789646029,
-    "wof:lastmodified":1472629069,
+    "wof:lastmodified":1492812488,
     "wof:name":"JD Finch Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

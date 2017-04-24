@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.531443,45.612357,-95.531443,45.612357",
     "geom:latitude":45.612357,
     "geom:longitude":-95.531443,
@@ -38,17 +39,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514343,
+        85633793,
+        85968609,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rjy0dsfcwxNNI5zo4v8fr_45.612357_-95.531443@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609363,
-    "wof:geomhash":"93917e946b116c0369e0dd3f5cdf70a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4c3b9e82713b29b9a9df9539d20b37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514343,
+            "locality_id":85968609,
+            "region_id":85688727,
+            "venue_id":823251547
+        }
+    ],
     "wof:id":823251547,
-    "wof:lastmodified":1472629202,
+    "wof:lastmodified":1492828225,
     "wof:name":"Bangsund Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

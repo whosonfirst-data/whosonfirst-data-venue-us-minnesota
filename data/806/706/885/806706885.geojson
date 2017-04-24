@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.290876,47.493741,-92.290876,47.493741",
     "geom:latitude":47.493741,
     "geom:longitude":-92.290876,
@@ -32,17 +33,26 @@
         "banner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74KkS4BzSdjVZmPEfQKZma_47.493741_-92.290876@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600395,
-    "wof:geomhash":"88ba677f309e831890c7d27129db3612",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ee959834b06b3f3678df1e8a52214c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806706885
+        }
+    ],
     "wof:id":806706885,
-    "wof:lastmodified":1472629733,
+    "wof:lastmodified":1492821270,
     "wof:name":"Party Pals",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

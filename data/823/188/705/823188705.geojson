@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.389763,45.087372,-93.389763,45.087372",
     "geom:latitude":45.087372,
     "geom:longitude":-93.389763,
@@ -46,17 +47,34 @@
     ],
     "sg:website":"http://minneapolismn872.pip.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NIavT2CQ22WK8Ezf1Uh2q_45.087372_-93.389763@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608176,
-    "wof:geomhash":"08403802f8d33c50abf81d142a9574d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39b59112dfe51604e3aa32ae050d0b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823188705
+        }
+    ],
     "wof:id":823188705,
-    "wof:lastmodified":1472629041,
+    "wof:lastmodified":1492828123,
     "wof:name":"PIP Printing and Marketing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

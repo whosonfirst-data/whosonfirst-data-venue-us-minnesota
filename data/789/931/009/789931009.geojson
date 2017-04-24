@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.521974,47.479335,-92.521974,47.479335",
     "geom:latitude":47.479335,
     "geom:longitude":-92.521974,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0basF4AZJmV8HZMTrxM7pE_47.479335_-92.521974@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591718,
-    "wof:geomhash":"469767066a69d8d032514a8d12aefaab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b131bcf8853bb0b8546b9a3862504e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789931009
+        }
+    ],
     "wof:id":789931009,
-    "wof:lastmodified":1472629635,
+    "wof:lastmodified":1492810488,
     "wof:name":"Utility Systems Of America Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

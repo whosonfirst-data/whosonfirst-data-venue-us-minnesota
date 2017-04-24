@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.040648,46.384553,-96.040648,46.384553",
     "geom:latitude":46.384553,
     "geom:longitude":-96.040648,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512751,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IgxpdWPWyOcz6b3n5m2q2_46.384553_-96.040648@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590874,
-    "wof:geomhash":"a0179a69b29aaea42a2fb2917e5eea51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fb2043a224bbd33194990b94a8c0f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512751,
+            "region_id":85688727,
+            "venue_id":789830357
+        }
+    ],
     "wof:id":789830357,
-    "wof:lastmodified":1472629430,
+    "wof:lastmodified":1492813058,
     "wof:name":"Robert Hendrickx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

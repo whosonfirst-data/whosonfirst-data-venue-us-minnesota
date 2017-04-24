@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.348064,43.697538,-94.348064,43.697538",
     "geom:latitude":43.697538,
     "geom:longitude":-94.348064,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514015,
+        85633793,
+        85953061,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BiUsPNJ1utnOzrJwTaaSk_43.697538_-94.348064@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597340,
-    "wof:geomhash":"a5fd3d21625a04b9bae08ee7d5ef2106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74d9cb0884483deb83262796ee0b9ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514015,
+            "locality_id":85953061,
+            "region_id":85688727,
+            "venue_id":790613709
+        }
+    ],
     "wof:id":790613709,
-    "wof:lastmodified":1472629922,
+    "wof:lastmodified":1492832911,
     "wof:name":"Assembly Of God Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

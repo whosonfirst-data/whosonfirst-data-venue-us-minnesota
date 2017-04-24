@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.80724,45.600072,-94.80724,45.600072",
     "geom:latitude":45.600072,
     "geom:longitude":-94.80724,
@@ -37,17 +38,32 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514239,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KOkI0cFK3Gvhiym7v99oY_45.600072_-94.807240@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609327,
-    "wof:geomhash":"028705e037ea4d5921c8cecf23cdd985",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5121fef3873661061b141a7242345ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514239,
+            "region_id":85688727,
+            "venue_id":823249745
+        }
+    ],
     "wof:id":823249745,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492828180,
     "wof:name":"J Funk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

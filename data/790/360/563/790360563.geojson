@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.495739,47.441487,-92.495739,47.441487",
     "geom:latitude":47.441487,
     "geom:longitude":-92.495739,
@@ -32,17 +33,26 @@
         "dental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hTYsMr4SI5htLyTtIlVv7_47.441487_-92.495739@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595227,
-    "wof:geomhash":"a65a83e66ea2c159e5ac0240981a8ac3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f84e7b1deee365cad6a93667c5e1491",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790360563
+        }
+    ],
     "wof:id":790360563,
-    "wof:lastmodified":1472629563,
+    "wof:lastmodified":1492833860,
     "wof:name":"Lakeview Dental Lab",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

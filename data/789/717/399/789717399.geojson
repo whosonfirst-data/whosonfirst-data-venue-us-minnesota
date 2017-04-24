@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.28361,47.53302,-96.28361,47.53302",
     "geom:latitude":47.53302,
     "geom:longitude":-96.28361,
@@ -32,17 +33,34 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513711,
+        85633793,
+        85968403,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CWCu8NVvmgiisWOkNi00L_47.533020_-96.283610@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589991,
-    "wof:geomhash":"626265ab741d8db20fc0905741eb93b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59fcbbed2124bf03606f6fb96fb29f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513711,
+            "locality_id":85968403,
+            "region_id":85688727,
+            "venue_id":789717399
+        }
+    ],
     "wof:id":789717399,
-    "wof:lastmodified":1472629238,
+    "wof:lastmodified":1492809890,
     "wof:name":"Fertile Grain Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

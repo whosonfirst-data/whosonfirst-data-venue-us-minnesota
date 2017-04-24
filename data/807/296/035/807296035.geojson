@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.504615,45.124568,-93.504615,45.124568",
     "geom:latitude":45.124568,
     "geom:longitude":-93.504615,
@@ -38,17 +39,34 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73NemK9Jbt2NhbVhwEoFjb_45.124568_-93.504615@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605813,
-    "wof:geomhash":"3fd5bde27427aefe4ee291c19dfe4390",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e7fa507a593b77731ad9225c8b9a8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807296035
+        }
+    ],
     "wof:id":807296035,
-    "wof:lastmodified":1472629591,
+    "wof:lastmodified":1492822205,
     "wof:name":"Tvcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

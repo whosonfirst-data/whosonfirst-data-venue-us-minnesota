@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.528727,47.209051,-93.528727,47.209051",
     "geom:latitude":47.209051,
     "geom:longitude":-93.528727,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462598739,
-    "wof:geomhash":"2243fae34e535c659378e7c960833e1d",
+    "wof:geomhash":"f8efc8b2d0da74d31d41049baf323d6e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":806513179,
-    "wof:lastmodified":1472629337,
+    "wof:lastmodified":1492819623,
     "wof:name":"Target",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

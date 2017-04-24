@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.31471,44.003854,-96.31471,44.003854",
     "geom:latitude":44.003854,
     "geom:longitude":-96.31471,
@@ -41,17 +42,34 @@
         "welding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EQBUvIZ5ftJerAPvsaNOV_44.003854_-96.314710@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601103,
-    "wof:geomhash":"1f42c9f4e99468aa67030d1396c06332",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e92759133b756e2e850a6f1168da48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":806789887
+        }
+    ],
     "wof:id":806789887,
-    "wof:lastmodified":1472629838,
+    "wof:lastmodified":1492815245,
     "wof:name":"Greg's Welding Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

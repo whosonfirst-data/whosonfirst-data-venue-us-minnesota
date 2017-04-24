@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769887,46.897787,-96.769887,46.897787",
     "geom:latitude":46.897787,
     "geom:longitude":-96.769887,
@@ -41,7 +42,12 @@
         85633793,
         85968969,
         102087681,
-        85688727
+        85688727,
+        85877369,
+        404478877,
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600729,
-    "wof:geomhash":"06ee48a4a98b14705cf5909a491a513c",
+    "wof:geomhash":"637d3c02ba02972494eaaed12e55135c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +66,22 @@
             "neighbourhood_id":85877345,
             "region_id":85688727,
             "venue_id":806745975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877369,
+            "region_id":85688525,
+            "venue_id":806745975
         }
     ],
     "wof:id":806745975,
-    "wof:lastmodified":1472629781,
+    "wof:lastmodified":1492820391,
     "wof:name":"Vanraden Enterprises and Cnstr",
-    "wof:parent_id":85877345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

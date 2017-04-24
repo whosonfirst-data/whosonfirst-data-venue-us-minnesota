@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.294052,45.973494,-95.294052,45.973494",
     "geom:latitude":45.973494,
     "geom:longitude":-95.294052,
@@ -31,17 +32,34 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513759,
+        85633793,
+        85953531,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yAxbSGaDvjy9xYvx0cDyQ_45.973494_-95.294052@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588807,
-    "wof:geomhash":"b15a62b32135677fa25d6fb1cafe46ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23138c4c588a2a8ad119ae9346046a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513759,
+            "locality_id":85953531,
+            "region_id":85688727,
+            "venue_id":773839355
+        }
+    ],
     "wof:id":773839355,
-    "wof:lastmodified":1472630169,
+    "wof:lastmodified":1492801106,
     "wof:name":"TPT Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

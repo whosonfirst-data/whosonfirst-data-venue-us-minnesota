@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.463509,43.507851,-91.463509,43.507851",
     "geom:latitude":43.507851,
     "geom:longitude":-91.463509,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +53,21 @@
     },
     "wof:country":"US",
     "wof:created":1462609031,
-    "wof:geomhash":"f881a5ef998d29c3dd091c00aa9932dd",
+    "wof:geomhash":"c098aced1600184498e549e22729374b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":823233877
         }
     ],
     "wof:id":823233877,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492828672,
     "wof:name":"Esr Real Estate",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

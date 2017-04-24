@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.428894,45.079484,-93.428894,45.079484",
     "geom:latitude":45.079484,
     "geom:longitude":-93.428894,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72WMXvZLUDnRC3gLIGtgHW_45.079484_-93.428894@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590451,
-    "wof:geomhash":"3985d3276634c17d9fd9457a9d540121",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6574ef19e37cbb0dfdf826f609682350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789776583
+        }
+    ],
     "wof:id":789776583,
-    "wof:lastmodified":1472629352,
+    "wof:lastmodified":1492812156,
     "wof:name":"Focus Financial Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

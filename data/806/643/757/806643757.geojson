@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.187446,44.923129,-93.187446,44.923129",
     "geom:latitude":44.923129,
     "geom:longitude":-93.187446,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02LNRYHKJ5XRwQzF5yzuAc_44.923129_-93.187446@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599849,
-    "wof:geomhash":"2c140500b5569762284b81a1f9b64c35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"014d259d331c4e73437fa50a31016cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806643757
+        }
+    ],
     "wof:id":806643757,
-    "wof:lastmodified":1472629622,
+    "wof:lastmodified":1492817483,
     "wof:name":"Northwstern Hlth Sciences Univ",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

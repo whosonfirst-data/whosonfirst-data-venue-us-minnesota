@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.128709,43.942216,-94.128709,43.942216",
     "geom:latitude":43.942216,
     "geom:longitude":-94.128709,
@@ -35,17 +36,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511573,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wsaY29WrEPZ6GqlgpqKgX_43.942216_-94.128709@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588844,
-    "wof:geomhash":"d6e744caa0b28dd4d7f9a4a5dfbec0dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a42363ec2b5ccd0ac0e9f36c4562df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511573,
+            "region_id":85688727,
+            "venue_id":773842829
+        }
+    ],
     "wof:id":773842829,
-    "wof:lastmodified":1472630172,
+    "wof:lastmodified":1492801176,
     "wof:name":"Dan Sowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.663046,46.048817,-93.663046,46.048817",
     "geom:latitude":46.048817,
     "geom:longitude":-93.663046,
@@ -32,17 +33,32 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512565,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z1REaCFZXUVdcamEyr0eD_46.048817_-93.663046@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594109,
-    "wof:geomhash":"e863737e2cfeec8bca018267d614bf13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d04d52b610dcb685cb919181757bff0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512565,
+            "region_id":85688727,
+            "venue_id":790220897
+        }
+    ],
     "wof:id":790220897,
-    "wof:lastmodified":1472629345,
+    "wof:lastmodified":1492832979,
     "wof:name":"Chicos Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

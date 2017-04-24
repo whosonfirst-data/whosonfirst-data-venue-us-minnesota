@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.134419,44.89205,-94.134419,44.89205",
     "geom:latitude":44.89205,
     "geom:longitude":-94.134419,
@@ -34,17 +35,50 @@
         "refrigeration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512823,
+        85633793,
+        102086993,
+        404513633,
+        404509747
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BBKyKU9JNxD7clTDRXMTW_44.892050_-94.134419@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587389,
-    "wof:geomhash":"7b7624716eb5c6f277b4bbc25bc4b794",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f79e89de9880adb1774d897ae6ed5057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512823,
+            "region_id":85688727,
+            "venue_id":773659453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513633,
+            "region_id":85688727,
+            "venue_id":773659453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509747,
+            "region_id":85688727,
+            "venue_id":773659453
+        }
+    ],
     "wof:id":773659453,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492800900,
     "wof:name":"Dale's Appliance Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.820985,47.554908,-94.820985,47.554908",
     "geom:latitude":47.554908,
     "geom:longitude":-94.820985,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511415,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HoH0lhvRuQePrQdLRSten_47.554908_-94.820985@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593216,
-    "wof:geomhash":"3c78402b407ba3fbe85230ad9d3e5440",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5b061ffc8902d526cf6479005fe16db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511415,
+            "region_id":85688727,
+            "venue_id":790109491
+        }
+    ],
     "wof:id":790109491,
-    "wof:lastmodified":1472629136,
+    "wof:lastmodified":1492836674,
     "wof:name":"Beer Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

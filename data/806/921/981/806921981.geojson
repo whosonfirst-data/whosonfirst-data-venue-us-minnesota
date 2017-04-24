@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.330772,47.504939,-92.330772,47.504939",
     "geom:latitude":47.504939,
     "geom:longitude":-92.330772,
@@ -32,17 +33,26 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zg33mPyHVecFpPaQX5U5y_47.504939_-92.330772@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602205,
-    "wof:geomhash":"2d8967f9246ea98a63675ca2cec6f30a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"807893b5e36354688a088ed93df48374",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806921981
+        }
+    ],
     "wof:id":806921981,
-    "wof:lastmodified":1472629940,
+    "wof:lastmodified":1492819128,
     "wof:name":"Rod & Sons Carpentry",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.340294,44.933798,-93.340294,44.933798",
     "geom:latitude":44.933798,
     "geom:longitude":-93.340294,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"http://www.boottique.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hKgL46eXW3wf2ONw21I1g_44.933798_-93.340294@1303262828"
     },
     "wof:country":"US",
     "wof:created":1462607767,
-    "wof:geomhash":"2257910a4db1ce5982e98ea6d3056d2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60601b95b4bce59cce713a307f49f0ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823157315
+        }
+    ],
     "wof:id":823157315,
-    "wof:lastmodified":1472628959,
+    "wof:lastmodified":1492830102,
     "wof:name":"Boottique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

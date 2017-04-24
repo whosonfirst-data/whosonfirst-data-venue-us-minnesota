@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.673592,44.599751,-95.673592,44.599751",
     "geom:latitude":44.599751,
     "geom:longitude":-95.673592,
@@ -38,17 +39,34 @@
         "oils-petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512531,
+        85633793,
+        85968555,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZaHzTY9nmwLeEnkK7VybX_44.599751_-95.673592@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609251,
-    "wof:geomhash":"695ed44d3c573f241e1944a7426ff295",
-    "wof:hierarchy":[],
+    "wof:geomhash":"082ea094fd4fa6ab30ee9693dcf417a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512531,
+            "locality_id":85968555,
+            "region_id":85688727,
+            "venue_id":823245467
+        }
+    ],
     "wof:id":823245467,
-    "wof:lastmodified":1472629165,
+    "wof:lastmodified":1492829419,
     "wof:name":"Coop Cottonwood Oil Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.19045,44.275999,-94.19045,44.275999",
     "geom:latitude":44.275999,
     "geom:longitude":-94.19045,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513345,
+        85633793,
+        85953473,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZzKZ7ur12C2YJqKKGSGwA_44.275999_-94.190450@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598606,
-    "wof:geomhash":"91b800e2503dbf2ff41d1c69a2bd29e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7ed9211473231473beac1d5895b730c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513345,
+            "locality_id":85953473,
+            "region_id":85688727,
+            "venue_id":806497805
+        }
+    ],
     "wof:id":806497805,
-    "wof:lastmodified":1472629318,
+    "wof:lastmodified":1492813987,
     "wof:name":"Nicollet Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

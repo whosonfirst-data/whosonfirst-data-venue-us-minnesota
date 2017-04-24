@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.040248,47.912131,-96.040248,47.912131",
     "geom:latitude":47.912131,
     "geom:longitude":-96.040248,
@@ -38,17 +39,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512113,
+        85633793,
+        85952929,
+        102087755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nzwxBCTzw8KBqATZTzNEu_47.912131_-96.040248@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609556,
-    "wof:geomhash":"a0b313e37b2853dc4b48a06cc9965859",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab8aff951cc92b04a5b845497fa2990b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087755,
+            "localadmin_id":404512113,
+            "locality_id":85952929,
+            "region_id":85688727,
+            "venue_id":823260209
+        }
+    ],
     "wof:id":823260209,
-    "wof:lastmodified":1472629201,
+    "wof:lastmodified":1492828539,
     "wof:name":"B S Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

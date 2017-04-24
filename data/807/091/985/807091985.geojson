@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.116129,45.231349,-94.116129,45.231349",
     "geom:latitude":45.231349,
     "geom:longitude":-94.116129,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515115,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08t1Q89C8dDO5dHvNROK8x_45.231349_-94.116129@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603635,
-    "wof:geomhash":"09965d5fdd47fd34e416240141ef524c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bb295edb1aad0c8d552e296c3e8cd2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515115,
+            "region_id":85688727,
+            "venue_id":807091985
+        }
+    ],
     "wof:id":807091985,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492822381,
     "wof:name":"Wayne Rathje",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

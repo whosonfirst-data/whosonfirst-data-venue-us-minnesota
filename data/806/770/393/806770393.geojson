@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.865089,47.458052,-94.865089,47.458052",
     "geom:latitude":47.458052,
     "geom:longitude":-94.865089,
@@ -28,17 +29,34 @@
     "sg:postcode":"56601",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WtYVJpivYAmFbwQ4mwjhD_47.458052_-94.865089@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600932,
-    "wof:geomhash":"e4a9b7e3ee2573a49f7043ea3116ff9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"552a84b8faded6da92944cfb1de31f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":806770393
+        }
+    ],
     "wof:id":806770393,
-    "wof:lastmodified":1472629804,
+    "wof:lastmodified":1492815596,
     "wof:name":"Animal Care Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

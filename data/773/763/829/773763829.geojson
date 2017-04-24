@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.600096,48.711481,-94.600096,48.711481",
     "geom:latitude":48.711481,
     "geom:longitude":-94.600096,
@@ -31,17 +32,34 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515153,
+        85633793,
+        85952741,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FVzLWjkqapmYxRI15fgsy_48.711481_-94.600096@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588198,
-    "wof:geomhash":"e88eed7bff1711b24203049de783a046",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcc0ce9ae94fcf535f2b0fb32c34612b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404515153,
+            "locality_id":85952741,
+            "region_id":85688727,
+            "venue_id":773763829
+        }
+    ],
     "wof:id":773763829,
-    "wof:lastmodified":1472630155,
+    "wof:lastmodified":1492805188,
     "wof:name":"Veterans Of Foreign Wars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

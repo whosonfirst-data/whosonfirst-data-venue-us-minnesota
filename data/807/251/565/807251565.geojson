@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.142884,44.484521,-93.142884,44.484521",
     "geom:latitude":44.484521,
     "geom:longitude":-93.142884,
@@ -36,17 +37,32 @@
         "take"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512001,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TOwoGM5QnsecGSohiioRA_44.484521_-93.142884@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605339,
-    "wof:geomhash":"634e8e8a1e3decf7ad04f6c99e276a49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6fbe70bc31bdc362d0b824533645a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512001,
+            "region_id":85688727,
+            "venue_id":807251565
+        }
+    ],
     "wof:id":807251565,
-    "wof:lastmodified":1472629520,
+    "wof:lastmodified":1492822395,
     "wof:name":"Tacoasis Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

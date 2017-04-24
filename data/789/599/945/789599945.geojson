@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.452406,44.297845,-94.452406,44.297845",
     "geom:latitude":44.297845,
     "geom:longitude":-94.452406,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qPVQ7Jp2Xy7dNdWel479P_44.297845_-94.452406@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589068,
-    "wof:geomhash":"f336ad5c67bd58d792036353d80208a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"099fd1c4ae543b43f7498615d149ae63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":789599945
+        }
+    ],
     "wof:id":789599945,
-    "wof:lastmodified":1472628973,
+    "wof:lastmodified":1492809808,
     "wof:name":"Laura Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.480526,44.031601,-92.480526,44.031601",
     "geom:latitude":44.031601,
     "geom:longitude":-92.480526,
@@ -41,17 +42,34 @@
         "vault"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fuhww8ySKVeqp7iu1wyDw_44.031601_-92.480526@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608959,
-    "wof:geomhash":"262c9ff27ebd44be6bfabe821017a10b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76166b7e4e830f2e49a5100c0e51d8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823230453
+        }
+    ],
     "wof:id":823230453,
-    "wof:lastmodified":1472629126,
+    "wof:lastmodified":1492829505,
     "wof:name":"Bowman Safe And Lock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

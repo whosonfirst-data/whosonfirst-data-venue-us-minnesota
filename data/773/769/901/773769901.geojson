@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.1831,48.117029,-96.1831,48.117029",
     "geom:latitude":48.117029,
     "geom:longitude":-96.1831,
@@ -28,17 +29,34 @@
     "sg:postcode":"56701",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59UDQQiMBO4NJ2ICaJGkJE_48.117029_-96.183100@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588241,
-    "wof:geomhash":"40fc938f85b3bf8a230e1253c9b73ae9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c526c8be2303516184407e281ce3140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773769901
+        }
+    ],
     "wof:id":773769901,
-    "wof:lastmodified":1472630156,
+    "wof:lastmodified":1492801340,
     "wof:name":"Thief River Falls Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

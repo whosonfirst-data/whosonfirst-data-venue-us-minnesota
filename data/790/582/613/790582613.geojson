@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.158263,44.921603,-93.158263,44.921603",
     "geom:latitude":44.921603,
     "geom:longitude":-93.158263,
@@ -31,19 +32,38 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AKr1s3qkXXYhLBv11eb4E_44.921603_-93.158263@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597062,
-    "wof:geomhash":"527e38c9d0abbb7f44a3dc8a9c027fd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbb1f5262c3741f986a5763c9bb18d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":790582613
+        }
+    ],
     "wof:id":790582613,
-    "wof:lastmodified":1472629872,
+    "wof:lastmodified":1492835881,
     "wof:name":"Jog A Thought LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

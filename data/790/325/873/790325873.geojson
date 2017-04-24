@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.580897,45.904769,-95.580897,45.904769",
     "geom:latitude":45.904769,
     "geom:longitude":-95.580897,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509591,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zowQU4xnwr0IOfeJFUjhq_45.904769_-95.580897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594961,
-    "wof:geomhash":"7508388f9736283fda2c203a365570c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da85056c17248620de7c914aa39df680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509591,
+            "region_id":85688727,
+            "venue_id":790325873
+        }
+    ],
     "wof:id":790325873,
-    "wof:lastmodified":1472629518,
+    "wof:lastmodified":1492834517,
     "wof:name":"Paul Boeddeker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

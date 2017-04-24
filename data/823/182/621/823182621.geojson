@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.37438,44.936659,-93.37438,44.936659",
     "geom:latitude":44.936659,
     "geom:longitude":-93.37438,
@@ -69,17 +70,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11OMIFcQeUSYQoJSDv6r5M_44.936659_-93.374380@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608098,
-    "wof:geomhash":"32d95d3b921299f3134dee6dda477395",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb841d0aab758e65f35fec0c065a2cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823182621
+        }
+    ],
     "wof:id":823182621,
-    "wof:lastmodified":1472629022,
+    "wof:lastmodified":1492828808,
     "wof:name":"Valley View Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

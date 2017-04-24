@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.080291,46.574873,-96.080291,46.574873",
     "geom:latitude":46.574873,
     "geom:longitude":-96.080291,
@@ -28,17 +29,34 @@
     "sg:postcode":"56572",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510359,
+        85633793,
+        85968713,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fDsuULxMSP79pWqrdOoBq_46.574873_-96.080291@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602787,
-    "wof:geomhash":"7adc7f522218956711ccc06481d8094b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4cb109f49395f74c11000884afd2295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510359,
+            "locality_id":85968713,
+            "region_id":85688727,
+            "venue_id":806991531
+        }
+    ],
     "wof:id":806991531,
-    "wof:lastmodified":1472629986,
+    "wof:lastmodified":1492814734,
     "wof:name":"County Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

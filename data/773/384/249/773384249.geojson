@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.680613,45.241481,-93.680613,45.241481",
     "geom:latitude":45.241481,
     "geom:longitude":-93.680613,
@@ -32,17 +33,34 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510755,
+        85633793,
+        85968935,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SVZ5a2bTrWKM92uYOW5ge_45.241481_-93.680613@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585280,
-    "wof:geomhash":"f46717b65751c976d33521049317dcd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45ec2788db8ebeb0cb41cb67149a6cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510755,
+            "locality_id":85968935,
+            "region_id":85688727,
+            "venue_id":773384249
+        }
+    ],
     "wof:id":773384249,
-    "wof:lastmodified":1472630031,
+    "wof:lastmodified":1492806603,
     "wof:name":"Priority Financial Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

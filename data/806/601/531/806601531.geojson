@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.397418,47.149567,-92.397418,47.149567",
     "geom:latitude":47.149567,
     "geom:longitude":-92.397418,
@@ -28,17 +29,26 @@
     "sg:postcode":"55724",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tgDKhlmRafUzfdiNZiYa6_47.149567_-92.397418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599503,
-    "wof:geomhash":"56043690bec58f21ccd6f29b0792d652",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f61ffb333be25255592842d6ead2b028",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806601531
+        }
+    ],
     "wof:id":806601531,
-    "wof:lastmodified":1472629529,
+    "wof:lastmodified":1492821323,
     "wof:name":"Computer Services",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

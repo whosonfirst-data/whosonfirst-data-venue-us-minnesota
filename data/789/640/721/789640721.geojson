@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.174546,43.675579,-95.174546,43.675579",
     "geom:latitude":43.675579,
     "geom:longitude":-95.174546,
@@ -31,17 +32,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509845,
+        85633793,
+        85952431,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bjbIHah9w8i3POSwT0XGq_43.675579_-95.174546@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589380,
-    "wof:geomhash":"d76313271adf783c009854946090bdd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"124d1dfa38640e8b2c36d709758cb6a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509845,
+            "locality_id":85952431,
+            "region_id":85688727,
+            "venue_id":789640721
+        }
+    ],
     "wof:id":789640721,
-    "wof:lastmodified":1472629086,
+    "wof:lastmodified":1492810466,
     "wof:name":"Monson & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

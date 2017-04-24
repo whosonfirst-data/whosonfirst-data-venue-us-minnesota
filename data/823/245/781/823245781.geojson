@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.32138,45.194708,-95.32138,45.194708",
     "geom:latitude":45.194708,
     "geom:longitude":-95.32138,
@@ -32,17 +33,34 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514669,
+        85633793,
+        85968623,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ANKlKdxsBrKA3AGyMIKDc_45.194708_-95.321380@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609256,
-    "wof:geomhash":"6cb555ad5666b63ad2983f3f8059d1b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08d42ad88483348e9debce16bddbac2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514669,
+            "locality_id":85968623,
+            "region_id":85688727,
+            "venue_id":823245781
+        }
+    ],
     "wof:id":823245781,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492829423,
     "wof:name":"School Kms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

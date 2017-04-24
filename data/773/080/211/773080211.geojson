@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.171895,48.129331,-96.171895,48.129331",
     "geom:latitude":48.129331,
     "geom:longitude":-96.171895,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XdaTJ855OJeXJ61C05g6A_48.129331_-96.171895@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583010,
-    "wof:geomhash":"57458a16b807a957ba60e9fad8423ddf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a84a26e6e51a4fce981ac0879fa46633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773080211
+        }
+    ],
     "wof:id":773080211,
-    "wof:lastmodified":1472629507,
+    "wof:lastmodified":1492804323,
     "wof:name":"Hoffman Gary Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

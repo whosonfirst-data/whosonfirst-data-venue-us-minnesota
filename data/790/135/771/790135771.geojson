@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.412178,47.477565,-92.412178,47.477565",
     "geom:latitude":47.477565,
     "geom:longitude":-92.412178,
@@ -32,17 +33,26 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fkjMoc9oMTVPjwqTlVCZ7_47.477565_-92.412178@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593398,
-    "wof:geomhash":"fe6a3d8ed1efc962844d7ea3b11e3f3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"947a582c8e6306a9f25a732d34bd731f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":790135771
+        }
+    ],
     "wof:id":790135771,
-    "wof:lastmodified":1472629202,
+    "wof:lastmodified":1492833112,
     "wof:name":"Lisa Country Kids",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

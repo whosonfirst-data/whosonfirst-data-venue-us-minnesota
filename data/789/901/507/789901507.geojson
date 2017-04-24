@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.005672,44.908573,-93.005672,44.908573",
     "geom:latitude":44.908573,
     "geom:longitude":-93.005672,
@@ -28,19 +29,40 @@
     "sg:postcode":"55119",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800629,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UcSx6m020MvHzkB2IekR4_44.908573_-93.005672@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591458,
-    "wof:geomhash":"c7a5d78fc9e88bbc934ff8f9c51c670b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69741a95fc3ce9bbca84071368de938c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800629,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":789901507
+        }
+    ],
     "wof:id":789901507,
-    "wof:lastmodified":1472629596,
+    "wof:lastmodified":1492810958,
     "wof:name":"Arnold Nelson Aviation Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

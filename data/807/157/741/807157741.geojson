@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.465887,45.649492,-93.465887,45.649492",
     "geom:latitude":45.649492,
     "geom:longitude":-93.465887,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509783,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HPTrQa5nsM7StPTFHFSLE_45.649492_-93.465887@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604347,
-    "wof:geomhash":"df963e8c11efb8610f47860d65b318f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c656f09dd4c15319a12299118df6679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509783,
+            "region_id":85688727,
+            "venue_id":807157741
+        }
+    ],
     "wof:id":807157741,
-    "wof:lastmodified":1472629308,
+    "wof:lastmodified":1492825574,
     "wof:name":"Greg Oldenkamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

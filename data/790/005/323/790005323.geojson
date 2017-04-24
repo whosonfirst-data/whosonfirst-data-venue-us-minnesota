@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.175043,44.910787,-93.175043,44.910787",
     "geom:latitude":44.910787,
     "geom:longitude":-93.175043,
@@ -33,19 +34,38 @@
     ],
     "sg:website":"www.pavoloniinternational.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xYKMZ7uM1iVoItqK8H90D_44.910787_-93.175043@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592372,
-    "wof:geomhash":"e85d1a1b9abbe07c835668cd3da9d644",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce893d45e8b327574a85867de77bfb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":790005323
+        }
+    ],
     "wof:id":790005323,
-    "wof:lastmodified":1472628942,
+    "wof:lastmodified":1492833522,
     "wof:name":"Italian & Spanish Connection",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

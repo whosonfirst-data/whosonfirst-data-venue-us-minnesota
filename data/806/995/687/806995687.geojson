@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.830054,46.812221,-95.830054,46.812221",
     "geom:latitude":46.812221,
     "geom:longitude":-95.830054,
@@ -28,17 +29,34 @@
     "sg:postcode":"56501",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HBJejruIE5NoJ0hVQoSvF_46.812221_-95.830054@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602817,
-    "wof:geomhash":"140a0c065a43949e59ab75ed24d97318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e7d03cb8e80b18999f4d9fc0295ecb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":806995687
+        }
+    ],
     "wof:id":806995687,
-    "wof:lastmodified":1472629983,
+    "wof:lastmodified":1492814603,
     "wof:name":"Country Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

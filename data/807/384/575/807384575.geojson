@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.26573,44.970174,-93.26573,44.970174",
     "geom:latitude":44.970174,
     "geom:longitude":-93.26573,
@@ -34,12 +35,12 @@
     "wof:belongsto":[
         420525017,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606993,
-    "wof:geomhash":"28af65e192a68c3df6d7d954fce6d61c",
+    "wof:geomhash":"7a976885481f1e7c5e7156fbe5a260e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":420525017,
-            "region_id":85688727,
-            "venue_id":807384575
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867007,
             "region_id":85688727,
             "venue_id":807384575
         }
     ],
     "wof:id":807384575,
-    "wof:lastmodified":1472629872,
+    "wof:lastmodified":1492826768,
     "wof:name":"Banneker Fianance And Mortgage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420525017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

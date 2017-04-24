@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.299055,44.948378,-93.299055,44.948378",
     "geom:latitude":44.948378,
     "geom:longitude":-93.299055,
@@ -73,8 +74,10 @@
     "sg:website":"www.fedex.com/us/office/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800005,
         85872647,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
@@ -87,7 +90,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607260,
-    "wof:geomhash":"3c5722964b1391798992c512844089d8",
+    "wof:geomhash":"a04651b466215d5d6c07db6689fb6f53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -95,15 +98,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800005,
             "neighbourhood_id":85872647,
             "region_id":85688727,
             "venue_id":807398999
         }
     ],
     "wof:id":807398999,
-    "wof:lastmodified":1472629898,
+    "wof:lastmodified":1492826620,
     "wof:name":"FedEx Office Print & Ship Center",
-    "wof:parent_id":85872647,
+    "wof:parent_id":1108800005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

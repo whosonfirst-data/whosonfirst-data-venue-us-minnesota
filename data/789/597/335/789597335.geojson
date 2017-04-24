@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.996264,45.517393,-92.996264,45.517393",
     "geom:latitude":45.517393,
     "geom:longitude":-92.996264,
@@ -33,17 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E3bdaqQbPRH3hcVb3PjWD_45.517393_-92.996264@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589038,
-    "wof:geomhash":"e257df4df1638ac0130cee73d86ed8d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"606d165f8ff14e6902bd40a793a5cce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":789597335
+        }
+    ],
     "wof:id":789597335,
-    "wof:lastmodified":1472628962,
+    "wof:lastmodified":1492809305,
     "wof:name":"Total Family Fitness Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.475622,44.134441,-92.475622,44.134441",
     "geom:latitude":44.134441,
     "geom:longitude":-92.475622,
@@ -38,17 +39,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512585,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Avz8M6m3u327nyTHUtn1G_44.134441_-92.475622@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609049,
-    "wof:geomhash":"1118df49cff2192860b801ef141b0c51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8e510ced57dd996e4729419a83eb6b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512585,
+            "region_id":85688727,
+            "venue_id":823234873
+        }
+    ],
     "wof:id":823234873,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492828373,
     "wof:name":"Frank Armstrong",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

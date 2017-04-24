@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.124725,45.495302,-95.124725,45.495302",
     "geom:latitude":45.495302,
     "geom:longitude":-95.124725,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510495,
+        85633793,
+        85952455,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wwnm7uQCr2f90oGHpbLK3_45.495302_-95.124725@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602075,
-    "wof:geomhash":"7dd5174014a34e512f96f1ab7508dc71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45536d4917dca8d2638832ed3b67bf0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510495,
+            "locality_id":85952455,
+            "region_id":85688727,
+            "venue_id":806907863
+        }
+    ],
     "wof:id":806907863,
-    "wof:lastmodified":1472629935,
+    "wof:lastmodified":1492821264,
     "wof:name":"Weber Mertis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

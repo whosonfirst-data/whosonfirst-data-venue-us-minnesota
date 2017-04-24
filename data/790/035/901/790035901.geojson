@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.922589,45.582971,-95.922589,45.582971",
     "geom:latitude":45.582971,
     "geom:longitude":-95.922589,
@@ -34,17 +35,34 @@
         "dev"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vDv8tIcH6ed3OJp5E385O_45.582971_-95.922589@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592612,
-    "wof:geomhash":"f212f9c0550f819b9bbad9f716b67d03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91d55198a0749b21f60bf552335bbaa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":790035901
+        }
+    ],
     "wof:id":790035901,
-    "wof:lastmodified":1472629012,
+    "wof:lastmodified":1492834377,
     "wof:name":"Ravenwood Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.013619,43.934122,-95.013619,43.934122",
     "geom:latitude":43.934122,
     "geom:longitude":-95.013619,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511863,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tpr3ZMUlgkf68pExJuosA_43.934122_-95.013619@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604745,
-    "wof:geomhash":"1098ddf51d76a3b31aef8a607a545907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f27379c53ff4ece8a1cec79145a689a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511863,
+            "region_id":85688727,
+            "venue_id":807195381
+        }
+    ],
     "wof:id":807195381,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492826641,
     "wof:name":"Willard Dick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

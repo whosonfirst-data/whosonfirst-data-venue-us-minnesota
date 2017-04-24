@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.698279,43.642616,-93.698279,43.642616",
     "geom:latitude":43.642616,
     "geom:longitude":-93.698279,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514083,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FVQd1ScB7t6XnssAwZIRr_43.642616_-93.698279@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603834,
-    "wof:geomhash":"76c297a322aa76c299630cbbf82e5de9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13d1211f31c7aa0bdaa33583bf8db333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514083,
+            "region_id":85688727,
+            "venue_id":807110027
+        }
+    ],
     "wof:id":807110027,
-    "wof:lastmodified":1472629198,
+    "wof:lastmodified":1492825534,
     "wof:name":"Don & Mary Slette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

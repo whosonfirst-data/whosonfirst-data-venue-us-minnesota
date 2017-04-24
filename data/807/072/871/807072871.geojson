@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.586092,47.371776,-92.586092,47.371776",
     "geom:latitude":47.371776,
     "geom:longitude":-92.586092,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IX6cdFG6LpcDjHj1DkcaB_47.371776_-92.586092@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603479,
-    "wof:geomhash":"acf9392cb953b354c980f19b2d46ce3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a1fe7b551eb9ca2d07fe53c3c2f26a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":807072871
+        }
+    ],
     "wof:id":807072871,
-    "wof:lastmodified":1472629086,
+    "wof:lastmodified":1492824203,
     "wof:name":"J & S Cronin Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

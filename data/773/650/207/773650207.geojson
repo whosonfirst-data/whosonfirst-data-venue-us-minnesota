@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.626392,44.525135,-93.626392,44.525135",
     "geom:latitude":44.525135,
     "geom:longitude":-93.626392,
@@ -35,17 +36,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512357,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75pTC7Tm14uu6d37pHbvGQ_44.525135_-93.626392@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587329,
-    "wof:geomhash":"e4afb7d9643caacd7ac21d95b894b748",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50e40b1873093c57706df0fa6862ea2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512357,
+            "region_id":85688727,
+            "venue_id":773650207
+        }
+    ],
     "wof:id":773650207,
-    "wof:lastmodified":1472630116,
+    "wof:lastmodified":1492807660,
     "wof:name":"Jack Widmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

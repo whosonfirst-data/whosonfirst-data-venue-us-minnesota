@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.743772,45.405496,-92.743772,45.405496",
     "geom:latitude":45.405496,
     "geom:longitude":-92.743772,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511027,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y5N8HslFGJcgT0TZY2uwO_45.405496_-92.743772@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586065,
-    "wof:geomhash":"c473b98ac5e2a89b31fcec6db3e880ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7b600388d115c4a64a3eba30e6a0572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511027,
+            "region_id":85688727,
+            "venue_id":773478661
+        }
+    ],
     "wof:id":773478661,
-    "wof:lastmodified":1472630067,
+    "wof:lastmodified":1492805710,
     "wof:name":"Tim Christensen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

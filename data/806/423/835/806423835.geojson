@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.310369,45.11745,-93.310369,45.11745",
     "geom:latitude":45.11745,
     "geom:longitude":-93.310369,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rfkGikJ3Leek2hipPpCFY_45.117450_-93.310369@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598033,
-    "wof:geomhash":"b8c57197aa6913c4b73423789f15cd87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd4dc295f65b424e668d255059d686fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":806423835
+        }
+    ],
     "wof:id":806423835,
-    "wof:lastmodified":1472629144,
+    "wof:lastmodified":1492815709,
     "wof:name":"Ja Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.613545,43.608385,-95.613545,43.608385",
     "geom:latitude":43.608385,
     "geom:longitude":-95.613545,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BegEp1CgGVLis59enC6uF_43.608385_-95.613545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602477,
-    "wof:geomhash":"a2a819d90c6b488199a391fdcc654443",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d42ad92a8f3b6d30af84dcbbc7773b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":806954041
+        }
+    ],
     "wof:id":806954041,
-    "wof:lastmodified":1472629949,
+    "wof:lastmodified":1492820492,
     "wof:name":"United Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.941357,45.092085,-94.941357,45.092085",
     "geom:latitude":45.092085,
     "geom:longitude":-94.941357,
@@ -33,17 +34,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513801,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a5xnkFYBPBeJDqLMLdJnd_45.092085_-94.941357@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596139,
-    "wof:geomhash":"2bdb5abaa0add55e0fb4261ce3fc2439",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8d096a1c58561c1dcb0e72cf938e944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513801,
+            "region_id":85688727,
+            "venue_id":790473427
+        }
+    ],
     "wof:id":790473427,
-    "wof:lastmodified":1472629753,
+    "wof:lastmodified":1492833167,
     "wof:name":"Blizzard Truck Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

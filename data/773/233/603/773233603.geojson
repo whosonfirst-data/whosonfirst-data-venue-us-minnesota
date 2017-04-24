@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.211982,44.790209,-95.211982,44.790209",
     "geom:latitude":44.790209,
     "geom:longitude":-95.211982,
@@ -32,17 +33,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512611,
+        85633793,
+        85969081,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28rncHaxSdbBTzEJ4Yywe9_44.790209_-95.211982@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584173,
-    "wof:geomhash":"63b533d03879f4bf2e3e90f33be3c947",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d7ecd03e591a10a8cf5f28c2353a181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512611,
+            "locality_id":85969081,
+            "region_id":85688727,
+            "venue_id":773233603
+        }
+    ],
     "wof:id":773233603,
-    "wof:lastmodified":1472629977,
+    "wof:lastmodified":1492800316,
     "wof:name":"Marcus Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

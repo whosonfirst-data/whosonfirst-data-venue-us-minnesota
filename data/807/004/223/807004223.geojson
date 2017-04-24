@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.001956,43.620859,-95.001956,43.620859",
     "geom:latitude":43.620859,
     "geom:longitude":-95.001956,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b2ZZ6QdviHdU8oD5OMFk6_43.620859_-95.001956@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602892,
-    "wof:geomhash":"6bfb5d263f1b9801db64de13500cb9dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94a46add7167930f8abca12176956b6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":807004223
+        }
+    ],
     "wof:id":807004223,
-    "wof:lastmodified":1472628929,
+    "wof:lastmodified":1492827132,
     "wof:name":"Martin County Farm Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

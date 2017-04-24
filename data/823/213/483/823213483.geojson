@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.372479,45.094545,-93.372479,45.094545",
     "geom:latitude":45.094545,
     "geom:longitude":-93.372479,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"http://www.hobbytown.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GIdIhsOdXyKEjfzHhJAMw_45.094545_-93.372479@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608593,
-    "wof:geomhash":"8602fe2bb79b3370606188201731c643",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc2e1a77234ed06c8d5bb0bb4579ed0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213483
+        }
+    ],
     "wof:id":823213483,
-    "wof:lastmodified":1472629094,
+    "wof:lastmodified":1492829226,
     "wof:name":"Hobbytown Usa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

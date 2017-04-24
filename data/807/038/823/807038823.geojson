@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.449796,44.268483,-94.449796,44.268483",
     "geom:latitude":44.268483,
     "geom:longitude":-94.449796,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511583,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Dl0pvmIdPasLIQhDYP1c8_44.268483_-94.449796@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603194,
-    "wof:geomhash":"0b57ba7218015f3f448fc59ca64fd2d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e91b80a54ad761bca2bdf4f6b7723c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511583,
+            "region_id":85688727,
+            "venue_id":807038823
+        }
+    ],
     "wof:id":807038823,
-    "wof:lastmodified":1472629012,
+    "wof:lastmodified":1492827456,
     "wof:name":"America Midwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

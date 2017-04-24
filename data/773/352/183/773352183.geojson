@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.156813,45.545115,-94.156813,45.545115",
     "geom:latitude":45.545115,
     "geom:longitude":-94.156813,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ToZGjbTjoPKNp6rVcCAuE_45.545115_-94.156813@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585062,
-    "wof:geomhash":"095b8d1b5e3c6ea2b489f0a6cfd5ce2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84147778345a2babfea93efe31b8c931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773352183
+        }
+    ],
     "wof:id":773352183,
-    "wof:lastmodified":1472630026,
+    "wof:lastmodified":1492808192,
     "wof:name":"Parkview Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

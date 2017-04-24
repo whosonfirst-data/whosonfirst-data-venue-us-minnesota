@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.75522,44.069752,-92.75522,44.069752",
     "geom:latitude":44.069752,
     "geom:longitude":-92.75522,
@@ -32,17 +33,34 @@
         "motor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515137,
+        85633793,
+        85952823,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F1U97jOuohm3JGKlKy3EB_44.069752_-92.755220@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590151,
-    "wof:geomhash":"6e65ede8e16d1ded4a5b0381f685af7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bca86bc33ca12c11592bf9b99cd550e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404515137,
+            "locality_id":85952823,
+            "region_id":85688727,
+            "venue_id":789736865
+        }
+    ],
     "wof:id":789736865,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492810293,
     "wof:name":"Bromley Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

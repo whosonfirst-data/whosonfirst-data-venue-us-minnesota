@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.735083,44.727946,-93.735083,44.727946",
     "geom:latitude":44.727946,
     "geom:longitude":-93.735083,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511691,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p3jN2wlBy4wmCKFxhH1LI_44.727946_-93.735083@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587694,
-    "wof:geomhash":"daf0344acaab89efacaf1937063e1f17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f7025b2ae02e5cb95a7f595cd2dc849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511691,
+            "region_id":85688727,
+            "venue_id":773696291
+        }
+    ],
     "wof:id":773696291,
-    "wof:lastmodified":1472630132,
+    "wof:lastmodified":1492807488,
     "wof:name":"Wayne Lenzen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

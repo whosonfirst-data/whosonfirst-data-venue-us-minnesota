@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.462836,44.032268,-92.462836,44.032268",
     "geom:latitude":44.032268,
     "geom:longitude":-92.462836,
@@ -38,17 +39,34 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hW2mrTQ8JOsQxZkH21I3O_44.032268_-92.462836@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609006,
-    "wof:geomhash":"9d82338af8380c4eb22508c79b67552a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42e738a21f8614cff1688fb18a660d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823232527
+        }
+    ],
     "wof:id":823232527,
-    "wof:lastmodified":1472629134,
+    "wof:lastmodified":1492828098,
     "wof:name":"Rochester Friends Meeting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

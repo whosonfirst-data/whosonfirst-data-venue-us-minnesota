@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.588786,44.872928,-93.588786,44.872928",
     "geom:latitude":44.872928,
     "geom:longitude":-93.588786,
@@ -32,17 +33,34 @@
         "answering"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54WAEeThZkY2PXLhl5p14w_44.872928_-93.588786@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599499,
-    "wof:geomhash":"fa32ad1f5865e6da77efc183faec4dbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f35fd6b7a78b5a4a67bab2705acbed03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":806601095
+        }
+    ],
     "wof:id":806601095,
-    "wof:lastmodified":1472629527,
+    "wof:lastmodified":1492821323,
     "wof:name":"School Closures By Notify",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

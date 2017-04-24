@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.769309,44.45513,-95.769309,44.45513",
     "geom:latitude":44.45513,
     "geom:longitude":-95.769309,
@@ -31,17 +32,34 @@
         "organization"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BnCg8YvcVOpnFhXeJ1ci9_44.455130_-95.769309@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599715,
-    "wof:geomhash":"9462b22968f386d2f13fff541792bc5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba92a1409e1ae6706a9235adc3e05235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":806627411
+        }
+    ],
     "wof:id":806627411,
-    "wof:lastmodified":1472629562,
+    "wof:lastmodified":1492815704,
     "wof:name":"Samuel Lutheran School WELS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

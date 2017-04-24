@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.436089,44.041486,-95.436089,44.041486",
     "geom:latitude":44.041486,
     "geom:longitude":-95.436089,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UGHZL4NCMaARzUaLTNs2Y_44.041486_-95.436089@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587269,
-    "wof:geomhash":"775f18627d48e21f8747fddfa8b97511",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c34d487140b6caca14914976b4ce293c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":773642021
+        }
+    ],
     "wof:id":773642021,
-    "wof:lastmodified":1472630115,
+    "wof:lastmodified":1492807580,
     "wof:name":"Village Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

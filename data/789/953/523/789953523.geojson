@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.117719,43.864819,-95.117719,43.864819",
     "geom:latitude":43.864819,
     "geom:longitude":-95.117719,
@@ -31,17 +32,34 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DfZtWiK8ihe22fr5FgDYY_43.864819_-95.117719@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591947,
-    "wof:geomhash":"dd6f591a67f51b9972fb8da0f20ffe7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39408fca14affd0641f2de120e8168b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":789953523
+        }
+    ],
     "wof:id":789953523,
-    "wof:lastmodified":1472629654,
+    "wof:lastmodified":1492810538,
     "wof:name":"Meier Dental Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

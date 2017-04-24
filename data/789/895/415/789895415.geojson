@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.580409,48.395145,-95.580409,48.395145",
     "geom:latitude":48.395145,
     "geom:longitude":-95.580409,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511413,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Ejdr3s5PVlEWfZlxIbZM_48.395145_-95.580409@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591408,
-    "wof:geomhash":"d44b6807d96deef474add775e02947ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d26e1c4d3e8a11df9103f76e37885a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511413,
+            "region_id":85688727,
+            "venue_id":789895415
+        }
+    ],
     "wof:id":789895415,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492809240,
     "wof:name":"Lowell Warne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

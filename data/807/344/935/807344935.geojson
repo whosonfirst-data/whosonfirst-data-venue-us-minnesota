@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.515102,44.78781,-93.515102,44.78781",
     "geom:latitude":44.78781,
     "geom:longitude":-93.515102,
@@ -38,17 +39,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kpyxIJqTZ4SnEWVIe5nMy_44.787810_-93.515102@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606431,
-    "wof:geomhash":"8ee3ee9b6a135a5cbdbc60da32d72ee4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0373f06a5e15dfe091a3a10f2bf0277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":807344935
+        }
+    ],
     "wof:id":807344935,
-    "wof:lastmodified":1472629779,
+    "wof:lastmodified":1492826495,
     "wof:name":"Add Vantage Realtors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

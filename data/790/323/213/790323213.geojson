@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.442407,45.419519,-95.442407,45.419519",
     "geom:latitude":45.419519,
     "geom:longitude":-95.442407,
@@ -34,17 +35,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510223,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E1bhgEuZspAzTnvv4zPsA_45.419519_-95.442407@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594938,
-    "wof:geomhash":"d4ed74100e2a906da74db507875a7998",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b8b3b0c8337126a9f443a20a72faca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404510223,
+            "region_id":85688727,
+            "venue_id":790323213
+        }
+    ],
     "wof:id":790323213,
-    "wof:lastmodified":1472629493,
+    "wof:lastmodified":1492836827,
     "wof:name":"Nelson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.040854,45.153011,-93.040854,45.153011",
     "geom:latitude":45.153011,
     "geom:longitude":-93.040854,
@@ -32,17 +33,34 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509191,
+        85633793,
+        85953407,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E367tD9NgdPFFto0vDX9s_45.153011_-93.040854@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586170,
-    "wof:geomhash":"8c9e1d886ffa729800de213dc089b1de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da99fd8862607c5f90890e441d1cf141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404509191,
+            "locality_id":85953407,
+            "region_id":85688727,
+            "venue_id":773494469
+        }
+    ],
     "wof:id":773494469,
-    "wof:lastmodified":1472630072,
+    "wof:lastmodified":1492802363,
     "wof:name":"Custom Container Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359336,44.914777,-93.359336,44.914777",
     "geom:latitude":44.914777,
     "geom:longitude":-93.359336,
@@ -28,17 +29,34 @@
     "sg:postcode":"55436",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d3fO2OHryUhPI4atXyo3h_44.914777_-93.359336@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599381,
-    "wof:geomhash":"e42e96fc1dc18e1a007d980be2c9796b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"085841ce57e25ddb48411bfe0f424a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":806587887
+        }
+    ],
     "wof:id":806587887,
-    "wof:lastmodified":1472629510,
+    "wof:lastmodified":1492820902,
     "wof:name":"Kds Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

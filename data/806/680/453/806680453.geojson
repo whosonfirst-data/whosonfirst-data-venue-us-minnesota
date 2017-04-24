@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.707494,44.104167,-95.707494,44.104167",
     "geom:latitude":44.104167,
     "geom:longitude":-95.707494,
@@ -31,17 +32,34 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513187,
+        85633793,
+        85969289,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wzQttnc2JsjXtMDOMoneO_44.104167_-95.707494@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600174,
-    "wof:geomhash":"1ae38dd43185130309d1f0eddc347e5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a7f0cf0947e0d7a1a6a4822c05b7d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513187,
+            "locality_id":85969289,
+            "region_id":85688727,
+            "venue_id":806680453
+        }
+    ],
     "wof:id":806680453,
-    "wof:lastmodified":1472629688,
+    "wof:lastmodified":1492819312,
     "wof:name":"JAS Tek LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

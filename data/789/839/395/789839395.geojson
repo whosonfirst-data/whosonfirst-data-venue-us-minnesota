@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.768264,44.622987,-93.768264,44.622987",
     "geom:latitude":44.622987,
     "geom:longitude":-93.768264,
@@ -36,17 +37,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514973,
+        85633793,
+        85952539,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HV2muWBGbudjIJCTgm8SJ_44.622987_-93.768264@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590941,
-    "wof:geomhash":"f3ad81daf4bf351a50494d997b931c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"214275fd7e196fded38953583eb91522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514973,
+            "locality_id":85952539,
+            "region_id":85688727,
+            "venue_id":789839395
+        }
+    ],
     "wof:id":789839395,
-    "wof:lastmodified":1472629451,
+    "wof:lastmodified":1492810164,
     "wof:name":"Neil's Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

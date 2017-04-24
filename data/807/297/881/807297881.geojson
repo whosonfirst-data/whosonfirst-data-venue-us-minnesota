@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.316093,44.644913,-94.316093,44.644913",
     "geom:latitude":44.644913,
     "geom:longitude":-94.316093,
@@ -39,17 +40,32 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512819,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b1VlCb8NH6qqZ5ZnSYkTi_44.644913_-94.316093@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605829,
-    "wof:geomhash":"3be2226bffb24492c01b397b4c50f9ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a729ef0576453bed67be78b8441754f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512819,
+            "region_id":85688727,
+            "venue_id":807297881
+        }
+    ],
     "wof:id":807297881,
-    "wof:lastmodified":1472629631,
+    "wof:lastmodified":1492827429,
     "wof:name":"St Matthews Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

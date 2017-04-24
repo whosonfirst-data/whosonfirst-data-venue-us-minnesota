@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.454394,45.110941,-93.454394,45.110941",
     "geom:latitude":45.110941,
     "geom:longitude":-93.454394,
@@ -31,17 +32,34 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58pL5MCDmG5hVO3Mpytg7D_45.110941_-93.454394@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601385,
-    "wof:geomhash":"cc968388ac8162fcc172d24bda9fa38f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5ebf5ff499c4d241d55599bb9ae2835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806825189
+        }
+    ],
     "wof:id":806825189,
-    "wof:lastmodified":1472629852,
+    "wof:lastmodified":1492819012,
     "wof:name":"Moir Inspection Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.689891,45.663421,-94.689891,45.663421",
     "geom:latitude":45.663421,
     "geom:longitude":-94.689891,
@@ -28,17 +29,34 @@
     "sg:postcode":"56331",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515175,
+        85633793,
+        85952463,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u6pyXVCwq3ECI5CUzrnX4_45.663421_-94.689891@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599448,
-    "wof:geomhash":"480f7e2a96b974f00af5e71978c7ef2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e2c88bb31ba3a6bfa95e5b79963b0fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404515175,
+            "locality_id":85952463,
+            "region_id":85688727,
+            "venue_id":806595605
+        }
+    ],
     "wof:id":806595605,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492819331,
     "wof:name":"Charlie's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.59166,47.335867,-92.59166,47.335867",
     "geom:latitude":47.335867,
     "geom:longitude":-92.59166,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25mcFEyNIEAYxkYwRbyAVl_47.335867_-92.591660@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585779,
-    "wof:geomhash":"caef70a1bab18435a030c0280b7e9d81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"501e0c2b4657ec9fdc2ae667779c1044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773442841
+        }
+    ],
     "wof:id":773442841,
-    "wof:lastmodified":1472630060,
+    "wof:lastmodified":1492799597,
     "wof:name":"Lightening Electric",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

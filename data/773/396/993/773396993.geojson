@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.975621,44.266321,-93.975621,44.266321",
     "geom:latitude":44.266321,
     "geom:longitude":-93.975621,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512351,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U17WVt4pFWdoG7fUnIIex_44.266321_-93.975621@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585378,
-    "wof:geomhash":"283873c5fd4f7f3d5227c863c1323f21",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b779b21dcb60c8c1b3ea80fea8e3ac8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512351,
+            "region_id":85688727,
+            "venue_id":773396993
+        }
+    ],
     "wof:id":773396993,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492805732,
     "wof:name":"Southern Minnesota Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

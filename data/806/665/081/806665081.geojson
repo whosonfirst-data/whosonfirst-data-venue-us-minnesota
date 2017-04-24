@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217083,44.321652,-93.217083,44.321652",
     "geom:latitude":44.321652,
     "geom:longitude":-93.217083,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512625,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54UzCfx7bXjGh6w3V71iWd_44.321652_-93.217083@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600040,
-    "wof:geomhash":"00eb3d54bf2ad010744ab064d2f61e63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"267428a99b3ffef4e32fc2f69f55d54d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512625,
+            "region_id":85688727,
+            "venue_id":806665081
+        }
+    ],
     "wof:id":806665081,
-    "wof:lastmodified":1472629638,
+    "wof:lastmodified":1492819019,
     "wof:name":"D&D Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

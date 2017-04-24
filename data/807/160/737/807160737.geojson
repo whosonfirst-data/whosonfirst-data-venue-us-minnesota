@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.188623,44.44069,-95.188623,44.44069",
     "geom:latitude":44.44069,
     "geom:longitude":-95.188623,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510555,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nR2N8PDm8FoOjURDrXuw6_44.440690_-95.188623@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604386,
-    "wof:geomhash":"257f4f9d9f390e8b3b2ba4b017ce7402",
-    "wof:hierarchy":[],
+    "wof:geomhash":"141c788a67a726e090a5401a2261d518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510555,
+            "region_id":85688727,
+            "venue_id":807160737
+        }
+    ],
     "wof:id":807160737,
-    "wof:lastmodified":1472629312,
+    "wof:lastmodified":1492827828,
     "wof:name":"Daniel Barnum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

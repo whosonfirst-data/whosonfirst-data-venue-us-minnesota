@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.761367,43.990185,-95.761367,43.990185",
     "geom:latitude":43.990185,
     "geom:longitude":-95.761367,
@@ -31,17 +32,34 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513321,
+        85633793,
+        85952743,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7INmmjWXtHbiYyUCbqDsNZ_43.990185_-95.761367@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597418,
-    "wof:geomhash":"bfb1a54945f30cd45f195d42f651bdb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c5ca3b7e7e3096aad185ac12b2d39255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513321,
+            "locality_id":85952743,
+            "region_id":85688727,
+            "venue_id":790620653
+        }
+    ],
     "wof:id":790620653,
-    "wof:lastmodified":1472629921,
+    "wof:lastmodified":1492835781,
     "wof:name":"Lakeside Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

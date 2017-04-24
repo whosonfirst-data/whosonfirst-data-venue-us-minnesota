@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.375925,43.659473,-95.375925,43.659473",
     "geom:latitude":43.659473,
     "geom:longitude":-95.375925,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509841,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZAIBzkv8E6mov5gwW6dW6_43.659473_-95.375925@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609173,
-    "wof:geomhash":"88bbe0c041c8a3fd048a59af7a17607c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fab833f2d1924ce5f1ae3a89965b0110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509841,
+            "region_id":85688727,
+            "venue_id":823241351
+        }
+    ],
     "wof:id":823241351,
-    "wof:lastmodified":1472629144,
+    "wof:lastmodified":1492828914,
     "wof:name":"Curt Baumgard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

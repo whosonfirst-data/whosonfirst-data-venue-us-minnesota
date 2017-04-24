@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.156003,45.568903,-94.156003,45.568903",
     "geom:latitude":45.568903,
     "geom:longitude":-94.156003,
@@ -28,17 +29,34 @@
     "sg:postcode":"56304",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11j72FpszQSXxdZftAMbFi_45.568903_-94.156003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582262,
-    "wof:geomhash":"9bfe81968ae30ee97c749c60033f4394",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20baa9a113cacd539e61763215dc10d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773007581
+        }
+    ],
     "wof:id":773007581,
-    "wof:lastmodified":1472629017,
+    "wof:lastmodified":1492799908,
     "wof:name":"Traffic Control Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

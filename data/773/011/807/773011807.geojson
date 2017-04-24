@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.322254,45.565793,-94.322254,45.565793",
     "geom:latitude":45.565793,
     "geom:longitude":-94.322254,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514493,
+        85633793,
+        85952495,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MT7KDrCTgGu5hidX1NKvw_45.565793_-94.322254@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582345,
-    "wof:geomhash":"2aec7096ca0f211e430d9045caafca4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"538bc878825922c2c88f0eb9626f0731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514493,
+            "locality_id":85952495,
+            "region_id":85688727,
+            "venue_id":773011807
+        }
+    ],
     "wof:id":773011807,
-    "wof:lastmodified":1472629016,
+    "wof:lastmodified":1492804151,
     "wof:name":"Centracare Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.929718,43.531621,-91.929718,43.531621",
     "geom:latitude":43.531621,
     "geom:longitude":-91.929718,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509627,
+        85633793,
+        85953137,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oVhljFODUxkxyiEu5HNY5_43.531621_-91.929718@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602708,
-    "wof:geomhash":"13bb2b3623bbcfe62dc1ded89216c3d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8871a1ac0f9efd52557340b1d8b81329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509627,
+            "locality_id":85953137,
+            "region_id":85688727,
+            "venue_id":806981843
+        }
+    ],
     "wof:id":806981843,
-    "wof:lastmodified":1472629973,
+    "wof:lastmodified":1492821151,
     "wof:name":"Canton-Scotland Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

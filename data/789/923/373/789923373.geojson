@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.583153,44.859937,-93.583153,44.859937",
     "geom:latitude":44.859937,
     "geom:longitude":-93.583153,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58TfsthqxYv1S9U4i6TyrS_44.859937_-93.583153@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591652,
-    "wof:geomhash":"c61d3905682d66accff6d57543bbc982",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7246afd48bb57e9cbeb9af9e30560429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":789923373
+        }
+    ],
     "wof:id":789923373,
-    "wof:lastmodified":1472629613,
+    "wof:lastmodified":1492813122,
     "wof:name":"Boris Gelfand Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

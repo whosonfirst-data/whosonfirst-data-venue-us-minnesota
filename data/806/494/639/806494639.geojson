@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.326615,47.45193,-92.326615,47.45193",
     "geom:latitude":47.45193,
     "geom:longitude":-92.326615,
@@ -32,17 +33,26 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jnw65BKRBDJckXVpcvZK3_47.451930_-92.326615@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598575,
-    "wof:geomhash":"5714fb3e904dbff28c4f02ba9dc1c12d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87a40250366566be64da51650c419c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806494639
+        }
+    ],
     "wof:id":806494639,
-    "wof:lastmodified":1472629306,
+    "wof:lastmodified":1492816635,
     "wof:name":"Trk Ltd",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

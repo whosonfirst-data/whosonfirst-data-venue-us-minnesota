@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.603713,47.507553,-92.603713,47.507553",
     "geom:latitude":47.507553,
     "geom:longitude":-92.603713,
@@ -33,17 +34,36 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l2mEG0EhTDsYLWtNViogD_47.507553_-92.603713@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598751,
-    "wof:geomhash":"0d7baf7fc5e1c889c6d574a752dd4016",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20500aaf091a27bce05f087ddd3c562b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":806514775
+        }
+    ],
     "wof:id":806514775,
-    "wof:lastmodified":1472629359,
+    "wof:lastmodified":1492820033,
     "wof:name":"Daronco Trucking",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

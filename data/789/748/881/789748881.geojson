@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.665503,46.068219,-93.665503,46.068219",
     "geom:latitude":46.068219,
     "geom:longitude":-93.665503,
@@ -32,17 +33,34 @@
         "invitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512563,
+        85633793,
+        85969099,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ShcTvbiW7zjObz0DJA5Mk_46.068219_-93.665503@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590245,
-    "wof:geomhash":"c1ec17d4973cb854c982dd52a44780b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24a27ce1c40b0ac3116565033478bd22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512563,
+            "locality_id":85969099,
+            "region_id":85688727,
+            "venue_id":789748881
+        }
+    ],
     "wof:id":789748881,
-    "wof:lastmodified":1472629318,
+    "wof:lastmodified":1492812728,
     "wof:name":"Business Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

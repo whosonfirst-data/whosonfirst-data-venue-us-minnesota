@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.020946,44.760811,-96.020946,44.760811",
     "geom:latitude":44.760811,
     "geom:longitude":-96.020946,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514571,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yuPKSdTcQwoyZIb4gxcDK_44.760811_-96.020946@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598742,
-    "wof:geomhash":"00e074f4e416bacae83c7bbc320e879b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dcf5b719b6414e45d97d056d623436f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404514571,
+            "region_id":85688727,
+            "venue_id":806513705
+        }
+    ],
     "wof:id":806513705,
-    "wof:lastmodified":1472629359,
+    "wof:lastmodified":1492819613,
     "wof:name":"St Johns Evang Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.405646,48.602805,-93.405646,48.602805",
     "geom:latitude":48.602805,
     "geom:longitude":-93.405646,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46z7uCABZzvXFrD7gETrV7_48.602805_-93.405646@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588999,
-    "wof:geomhash":"1708e9a4115886556c038c06cceff11a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"325e9f42980975a7470f34740d4ef89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":789591811
+        }
+    ],
     "wof:id":789591811,
-    "wof:lastmodified":1472628969,
+    "wof:lastmodified":1492812544,
     "wof:name":"Larsen Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

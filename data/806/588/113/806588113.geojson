@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.712342,45.383591,-94.712342,45.383591",
     "geom:latitude":45.383591,
     "geom:longitude":-94.712342,
@@ -28,17 +29,34 @@
     "sg:postcode":"56362",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514385,
+        85633793,
+        85952481,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r9gpndm4pXMgFP4mveK3B_45.383591_-94.712342@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599382,
-    "wof:geomhash":"2a3b1e3216942cb7cc977ef5f614c5ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c48b4b95e1b0ffad49c9382ea51c7e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514385,
+            "locality_id":85952481,
+            "region_id":85688727,
+            "venue_id":806588113
+        }
+    ],
     "wof:id":806588113,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492820580,
     "wof:name":"Central Minnesota Federal Cu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

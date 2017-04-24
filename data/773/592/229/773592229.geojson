@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.076697,44.932991,-93.076697,44.932991",
     "geom:latitude":44.932991,
     "geom:longitude":-93.076697,
@@ -31,19 +32,38 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AC496mJqvbZyblKvd41Z4_44.932991_-93.076697@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586889,
-    "wof:geomhash":"5d3f336c433d7a3252f298fb67ab1fcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e31dbadff5cc970ab6ef5a704f35321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773592229
+        }
+    ],
     "wof:id":773592229,
-    "wof:lastmodified":1472630101,
+    "wof:lastmodified":1492804926,
     "wof:name":"Roosevelt Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

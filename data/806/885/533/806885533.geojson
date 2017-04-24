@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.996248,45.441858,-93.996248,45.441858",
     "geom:latitude":45.441858,
     "geom:longitude":-93.996248,
@@ -31,17 +32,34 @@
         "forming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510743,
+        85633793,
+        85968827,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wsLfBfIrH1wCYuxHbd4U5_45.441858_-93.996248@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601896,
-    "wof:geomhash":"948eac769bbd7ad9ded623662963cc03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55b52d017a67f11a2bba515d1be4aa8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510743,
+            "locality_id":85968827,
+            "region_id":85688727,
+            "venue_id":806885533
+        }
+    ],
     "wof:id":806885533,
-    "wof:lastmodified":1472629916,
+    "wof:lastmodified":1492815948,
     "wof:name":"Thermo Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

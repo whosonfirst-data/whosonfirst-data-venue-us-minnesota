@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286431,45.776901,-93.286431,45.776901",
     "geom:latitude":45.776901,
     "geom:longitude":-93.286431,
@@ -32,17 +33,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513623,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PGuZiFXdysct6aSrNWeUE_45.776901_-93.286431@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592152,
-    "wof:geomhash":"0c103aa3ec051734d3dbcec2fb5557ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed44e5b543112b129d201dcf881bdd76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513623,
+            "region_id":85688727,
+            "venue_id":789978145
+        }
+    ],
     "wof:id":789978145,
-    "wof:lastmodified":1472629674,
+    "wof:lastmodified":1492810994,
     "wof:name":"Wayside Gift Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

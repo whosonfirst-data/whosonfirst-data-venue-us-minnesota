@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.429915,45.713886,-95.429915,45.713886",
     "geom:latitude":45.713886,
     "geom:longitude":-95.429915,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514339,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QJZNP3ndmGnec3SbBwNd6_45.713886_-95.429915@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585622,
-    "wof:geomhash":"44f4203b600f84b5bdd1ccb4e0ef1aa6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa35b19dd6806872107071ca6837f6d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514339,
+            "region_id":85688727,
+            "venue_id":773425325
+        }
+    ],
     "wof:id":773425325,
-    "wof:lastmodified":1472630050,
+    "wof:lastmodified":1492804496,
     "wof:name":"Bruce Blair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.08123,46.100391,-93.08123,46.100391",
     "geom:latitude":46.100391,
     "geom:longitude":-93.08123,
@@ -31,17 +32,32 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513765,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iW1LvZiRWIUpyAYGz1ziZ_46.100391_-93.081230@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605379,
-    "wof:geomhash":"ba679e212d3fd48074a5087338c1369b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75cc13e16f8ff0d0231531516e473391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513765,
+            "region_id":85688727,
+            "venue_id":807254999
+        }
+    ],
     "wof:id":807254999,
-    "wof:lastmodified":1472629524,
+    "wof:lastmodified":1492827393,
     "wof:name":"Maser Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

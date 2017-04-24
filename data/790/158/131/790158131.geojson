@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.888655,47.486945,-92.888655,47.486945",
     "geom:latitude":47.486945,
     "geom:longitude":-92.888655,
@@ -31,17 +32,36 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WakznRsCY47ho0cUpcEr2_47.486945_-92.888655@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593578,
-    "wof:geomhash":"c238f16159d6f8251b44d6804b43ffac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d900aca6527b074f3110c1f3e25ca3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":790158131
+        }
+    ],
     "wof:id":790158131,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492835393,
     "wof:name":"Midtown Transmission",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

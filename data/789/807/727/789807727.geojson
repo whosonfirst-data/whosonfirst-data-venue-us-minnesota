@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.520673,47.29606,-96.520673,47.29606",
     "geom:latitude":47.29606,
     "geom:longitude":-96.520673,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510277,
+        85633793,
+        85968341,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04ejYYcoLtSu9zgsOfb7mT_47.296060_-96.520673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590697,
-    "wof:geomhash":"946174064f97b03f8e10a19bb679ec74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9363b315cf1333cf4a88ae795f203fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404510277,
+            "locality_id":85968341,
+            "region_id":85688727,
+            "venue_id":789807727
+        }
+    ],
     "wof:id":789807727,
-    "wof:lastmodified":1472629404,
+    "wof:lastmodified":1492811475,
     "wof:name":"Eugene's Muffler & Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

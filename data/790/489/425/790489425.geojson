@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.407557,43.923415,-96.407557,43.923415",
     "geom:latitude":43.923415,
     "geom:longitude":-96.407557,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513511,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HtfIPBUo2fT42WgF7EqQX_43.923415_-96.407557@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596286,
-    "wof:geomhash":"1e1023048d0e3807280d36b820990c0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc759269e4f54624dd8109ef808eafa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513511,
+            "region_id":85688727,
+            "venue_id":790489425
+        }
+    ],
     "wof:id":790489425,
-    "wof:lastmodified":1472629763,
+    "wof:lastmodified":1492834729,
     "wof:name":"Denoble Marlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

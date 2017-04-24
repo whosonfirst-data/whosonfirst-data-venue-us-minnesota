@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.172235,44.4605,-93.172235,44.4605",
     "geom:latitude":44.4605,
     "geom:longitude":-93.172235,
@@ -28,17 +29,34 @@
     "sg:postcode":"55057",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X9SqrUj5eikaOVXUEvxD8_44.460500_-93.172235@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593244,
-    "wof:geomhash":"e480f9743375bdab36203f6c49e0f3f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a25fbc51b0390ca7fc3fa6649551d871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":790113723
+        }
+    ],
     "wof:id":790113723,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492834977,
     "wof:name":"Go Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

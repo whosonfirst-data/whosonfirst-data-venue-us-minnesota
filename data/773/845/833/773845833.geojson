@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.954238,45.707764,-92.954238,45.707764",
     "geom:latitude":45.707764,
     "geom:longitude":-92.954238,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jXoMjcoZF0ZjPMiJfZ0um_45.707764_-92.954238@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588865,
-    "wof:geomhash":"14bb58a86dd9d3c117eadc85072aef92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3594858e476d89a50a53db62dd8877bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":773845833
+        }
+    ],
     "wof:id":773845833,
-    "wof:lastmodified":1472630172,
+    "wof:lastmodified":1492799134,
     "wof:name":"Minnesota Correctional Facilit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

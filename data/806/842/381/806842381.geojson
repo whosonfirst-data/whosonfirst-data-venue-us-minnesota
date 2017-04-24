@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.210447,46.107061,-95.210447,46.107061",
     "geom:latitude":46.107061,
     "geom:longitude":-95.210447,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512743,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yVNLOoysTHbj6fb0BtooC_46.107061_-95.210447@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601530,
-    "wof:geomhash":"a3ffe3312f1b86fce39bc0a1db12087e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c77c360782fb8264ee724a1fca94ad9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512743,
+            "region_id":85688727,
+            "venue_id":806842381
+        }
+    ],
     "wof:id":806842381,
-    "wof:lastmodified":1472629874,
+    "wof:lastmodified":1492815625,
     "wof:name":"Evan Yochim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

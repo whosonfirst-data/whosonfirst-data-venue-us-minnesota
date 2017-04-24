@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.4882,43.857545,-92.4882,43.857545",
     "geom:latitude":43.857545,
     "geom:longitude":-92.4882,
@@ -37,17 +38,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512597,
+        85633793,
+        85953503,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bLnXFxHS2aMDVYyrK1va7_43.857545_-92.488200@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586651,
-    "wof:geomhash":"cec4d199dbbc79a48d1db4ca30ea0b2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9230c66a8decf5f43194c76c1df62009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512597,
+            "locality_id":85953503,
+            "region_id":85688727,
+            "venue_id":773560501
+        }
+    ],
     "wof:id":773560501,
-    "wof:lastmodified":1472630095,
+    "wof:lastmodified":1492799578,
     "wof:name":"Downtowner II LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

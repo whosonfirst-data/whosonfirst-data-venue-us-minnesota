@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.448352,48.295959,-97.448352,48.295959",
     "geom:latitude":48.295959,
     "geom:longitude":-97.448352,
@@ -34,17 +35,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479709,
+        85633793,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KMg6rYHHN68sY7TNDrWcv_48.295959_-97.448352@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589427,
-    "wof:geomhash":"f759bc57543997e0412185c625baff1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8bf67a8f38ef251644ef8c943517f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404479709,
+            "region_id":85688525,
+            "venue_id":789646927
+        }
+    ],
     "wof:id":789646927,
-    "wof:lastmodified":1472629100,
+    "wof:lastmodified":1492812479,
     "wof:name":"Bills Parts & Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

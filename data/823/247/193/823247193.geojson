@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.212647,44.716353,-95.212647,44.716353",
     "geom:latitude":44.716353,
     "geom:longitude":-95.212647,
@@ -37,17 +38,32 @@
         "grill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512469,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kMZghiNTyISUch8bEGq93_44.716353_-95.212647@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609280,
-    "wof:geomhash":"0c5da8c87415c68ab11ffb52ed3fe00c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc6b6cdbd8545eb3c8e418fc99475635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512469,
+            "region_id":85688727,
+            "venue_id":823247193
+        }
+    ],
     "wof:id":823247193,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492829633,
     "wof:name":"Billys Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

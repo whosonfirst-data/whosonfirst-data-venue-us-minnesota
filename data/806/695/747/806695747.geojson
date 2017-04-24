@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.374501,45.977189,-94.374501,45.977189",
     "geom:latitude":45.977189,
     "geom:longitude":-94.374501,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6O2Fxmu5iwI7aWO1MCVNNm_45.977189_-94.374501@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600302,
-    "wof:geomhash":"5ee4f424f0198bc7c94456d6f8772b34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"609a64069889fcb7bda9e883a9719d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":806695747
+        }
+    ],
     "wof:id":806695747,
-    "wof:lastmodified":1472629713,
+    "wof:lastmodified":1492821139,
     "wof:name":"CG-Macs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

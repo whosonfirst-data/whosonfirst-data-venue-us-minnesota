@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.515416,47.493234,-92.515416,47.493234",
     "geom:latitude":47.493234,
     "geom:longitude":-92.515416,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hjJj9dqmo3j0PHugTHet8_47.493234_-92.515416@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585312,
-    "wof:geomhash":"abdd1bd75cf1808818f335cb19ba9a55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e5009591889776f4aaab90644401564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773388473
+        }
+    ],
     "wof:id":773388473,
-    "wof:lastmodified":1472630038,
+    "wof:lastmodified":1492808376,
     "wof:name":"Birchwood East Apartments",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.818986,43.898249,-92.818986,43.898249",
     "geom:latitude":43.898249,
     "geom:longitude":-92.818986,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513735,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fs7Mi9bOO7B6jMeXpGQfz_43.898249_-92.818986@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604673,
-    "wof:geomhash":"ffa9119ddd24c35bacb83d209b54f408",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bf83ecd996d3e3677d2088a782b459a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513735,
+            "region_id":85688727,
+            "venue_id":807188205
+        }
+    ],
     "wof:id":807188205,
-    "wof:lastmodified":1472629381,
+    "wof:lastmodified":1492822231,
     "wof:name":"Roger Kruger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

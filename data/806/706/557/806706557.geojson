@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.978935,45.680377,-92.978935,45.680377",
     "geom:latitude":45.680377,
     "geom:longitude":-92.978935,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qMfulDMWbuT9vvNe6GqB9_45.680377_-92.978935@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600392,
-    "wof:geomhash":"e894bb382b98f3edc2073d36524183b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a75ab201cd02eb3f7177e85b1c0491b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":806706557
+        }
+    ],
     "wof:id":806706557,
-    "wof:lastmodified":1472629727,
+    "wof:lastmodified":1492821277,
     "wof:name":"Living Water Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

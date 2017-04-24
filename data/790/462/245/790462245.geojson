@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.503108,44.094405,-93.503108,44.094405",
     "geom:latitude":44.094405,
     "geom:longitude":-93.503108,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TW0tMxiUN73zBVTds2Z8T_44.094405_-93.503108@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596028,
-    "wof:geomhash":"8a79690c91a2afd3855764505dedf842",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb9710055dca5b711d7a0d35ce6ba5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":790462245
+        }
+    ],
     "wof:id":790462245,
-    "wof:lastmodified":1472629738,
+    "wof:lastmodified":1492833397,
     "wof:name":"Wend Don Appartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

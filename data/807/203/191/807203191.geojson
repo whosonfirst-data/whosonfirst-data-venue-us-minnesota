@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.399339,48.254123,-96.399339,48.254123",
     "geom:latitude":48.254123,
     "geom:longitude":-96.399339,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513985,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eE9Eg63W1dEGqGVa4TwQq_48.254123_-96.399339@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604828,
-    "wof:geomhash":"4989e54df0eb42eaaa80240f9083da25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2836f3c341479fcfdeee0ec0d410a1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513985,
+            "region_id":85688727,
+            "venue_id":807203191
+        }
+    ],
     "wof:id":807203191,
-    "wof:lastmodified":1472629404,
+    "wof:lastmodified":1492823610,
     "wof:name":"Bill Langlois",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

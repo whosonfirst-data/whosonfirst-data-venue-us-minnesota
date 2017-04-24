@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.288141,44.95275,-93.288141,44.95275",
     "geom:latitude":44.95275,
     "geom:longitude":-93.288141,
@@ -41,14 +42,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872583
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582198,
-    "wof:geomhash":"feb4582478f25ff88e149e5894bc7b7d",
+    "wof:geomhash":"e7b8aab53fbe24209c26d92ac3a37f3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,25 +65,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867013,
-            "region_id":85688727,
-            "venue_id":773004347
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799977,
             "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":773004347
         }
     ],
     "wof:id":773004347,
-    "wof:lastmodified":1472628976,
+    "wof:lastmodified":1492807453,
     "wof:name":"Gaytee Stained Glass Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

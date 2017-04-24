@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.328758,45.529911,-93.328758,45.529911",
     "geom:latitude":45.529911,
     "geom:longitude":-93.328758,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512981,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zl7ZM0ziJ4uoiZRd8Xgct_45.529911_-93.328758@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605185,
-    "wof:geomhash":"dc9b1ef459e568b93c7f0527c4cd15d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d930d6d60be9210f676b58e52da2943d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512981,
+            "region_id":85688727,
+            "venue_id":807237295
+        }
+    ],
     "wof:id":807237295,
-    "wof:lastmodified":1472629455,
+    "wof:lastmodified":1492827764,
     "wof:name":"Brad Oslund Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

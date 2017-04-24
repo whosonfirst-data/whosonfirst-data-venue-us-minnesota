@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.857748,44.50126,-95.857748,44.50126",
     "geom:latitude":44.50126,
     "geom:longitude":-95.857748,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512649,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oUPmZyzylnna1xYts378I_44.501260_-95.857748@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604555,
-    "wof:geomhash":"962b90f2ee6d7e09610434b9455c0edd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9bec91b8e18707b0a9e0d7c0aa1f6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512649,
+            "region_id":85688727,
+            "venue_id":807176953
+        }
+    ],
     "wof:id":807176953,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492822727,
     "wof:name":"Wayne Brehmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

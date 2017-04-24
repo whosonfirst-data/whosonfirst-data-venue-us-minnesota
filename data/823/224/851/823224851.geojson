@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538523,47.460464,-92.538523,47.460464",
     "geom:latitude":47.460464,
     "geom:longitude":-92.538523,
@@ -36,17 +37,26 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BaB17q4BUWM2WkUIXXKje_47.460464_-92.538523@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608836,
-    "wof:geomhash":"308c96676141a37d9bf6d2bb44c2babd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb4bf0f42247f2714066b02721e6031a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224851
+        }
+    ],
     "wof:id":823224851,
-    "wof:lastmodified":1472629113,
+    "wof:lastmodified":1492828789,
     "wof:name":"Ed's Body Shop",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

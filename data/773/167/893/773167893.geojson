@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580768,45.190132,-93.580768,45.190132",
     "geom:latitude":45.190132,
     "geom:longitude":-93.580768,
@@ -31,17 +32,34 @@
         "development"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qETBoggAAJb7Ck694IgCP_45.190132_-93.580768@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583650,
-    "wof:geomhash":"ec90a3b87e040dd537d3ed87e20de027",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b220154ffc2ee2221461e0a88971bf3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":773167893
+        }
+    ],
     "wof:id":773167893,
-    "wof:lastmodified":1472629791,
+    "wof:lastmodified":1492799581,
     "wof:name":"Moxxe Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

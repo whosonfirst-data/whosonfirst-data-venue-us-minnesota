@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.754649,44.4194,-93.754649,44.4194",
     "geom:latitude":44.4194,
     "geom:longitude":-93.754649,
@@ -31,17 +32,32 @@
         "sporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512363,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yaT8ieDkNYukUzCMXoT6G_44.419400_-93.754649@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584561,
-    "wof:geomhash":"e245c2d8955443f18f2fe89d00b37fda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1edd76b28a9ea4786b24dac9946baf4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512363,
+            "region_id":85688727,
+            "venue_id":773284917
+        }
+    ],
     "wof:id":773284917,
-    "wof:lastmodified":1472630031,
+    "wof:lastmodified":1492800003,
     "wof:name":"Pauls Bicycle Repair Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

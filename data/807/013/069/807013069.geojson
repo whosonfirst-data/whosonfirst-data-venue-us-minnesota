@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.28819,44.946757,-93.28819,44.946757",
     "geom:latitude":44.946757,
     "geom:longitude":-93.28819,
@@ -29,14 +30,15 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872635,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602971,
-    "wof:geomhash":"0c8edab08553e606a2b0c4e0d73b1b05",
+    "wof:geomhash":"d33f401e83d526af20a9a037449c4f65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +54,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872635,
-            "region_id":85688727,
-            "venue_id":807013069
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":807013069
         }
     ],
     "wof:id":807013069,
-    "wof:lastmodified":1472628933,
+    "wof:lastmodified":1492824755,
     "wof:name":"Summit Marketing Communication",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.046901,45.159654,-93.046901,45.159654",
     "geom:latitude":45.159654,
     "geom:longitude":-93.046901,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509191,
+        85633793,
+        85953407,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75UfOyFooGyRS1t47gLQ2U_45.159654_-93.046901@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599765,
-    "wof:geomhash":"51ff3b1c19d62647d78ed53816aa0696",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cfd1eb4236da49b5a624eebd47aea0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404509191,
+            "locality_id":85953407,
+            "region_id":85688727,
+            "venue_id":806633651
+        }
+    ],
     "wof:id":806633651,
-    "wof:lastmodified":1472629574,
+    "wof:lastmodified":1492817726,
     "wof:name":"Bulldog Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

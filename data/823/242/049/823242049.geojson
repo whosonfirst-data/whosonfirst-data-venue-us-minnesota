@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.368692,43.907446,-96.368692,43.907446",
     "geom:latitude":43.907446,
     "geom:longitude":-96.368692,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"http://www.pcmchealth.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513521,
+        85633793,
+        85953041,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h2taJ66PkEszwUFwmYlq5_43.907446_-96.368692@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609186,
-    "wof:geomhash":"d7acf1ecb87a2a5eb3ee340603194d0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7759bc043856fc89337c671d290fdeaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513521,
+            "locality_id":85953041,
+            "region_id":85688727,
+            "venue_id":823242049
+        }
+    ],
     "wof:id":823242049,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492828579,
     "wof:name":"Pipestone County Medical Center & Jasper Family Clinic Avera",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

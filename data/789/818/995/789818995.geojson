@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.147885,44.720947,-93.147885,44.720947",
     "geom:latitude":44.720947,
     "geom:longitude":-93.147885,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511991,
+        85633793,
+        85968455,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZZXMddaR2Djm03fEDEkdh_44.720947_-93.147885@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590779,
-    "wof:geomhash":"d315571a2ddc0ef3eeb476e6b9e574ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ef9a705d53feb5ef19bfacd525530bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511991,
+            "locality_id":85968455,
+            "region_id":85688727,
+            "venue_id":789818995
+        }
+    ],
     "wof:id":789818995,
-    "wof:lastmodified":1472629417,
+    "wof:lastmodified":1492813773,
     "wof:name":"Romfo Computing & Networking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

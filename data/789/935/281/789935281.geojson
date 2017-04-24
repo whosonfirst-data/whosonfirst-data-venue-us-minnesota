@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.213972,44.55499,-94.213972,44.55499",
     "geom:latitude":44.55499,
     "geom:longitude":-94.213972,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510479,
+        85633793,
+        85953311,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OvS1APbw2raaL42imOFdW_44.554990_-94.213972@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591754,
-    "wof:geomhash":"8b8d6b992ae1158bcce0a8b01d452991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0a5f7a6fdd19b81586ff3cdf57a55c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510479,
+            "locality_id":85953311,
+            "region_id":85688727,
+            "venue_id":789935281
+        }
+    ],
     "wof:id":789935281,
-    "wof:lastmodified":1472629637,
+    "wof:lastmodified":1492812407,
     "wof:name":"Freeman Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

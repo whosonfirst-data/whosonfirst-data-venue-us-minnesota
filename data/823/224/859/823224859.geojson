@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.495648,47.435023,-92.495648,47.435023",
     "geom:latitude":47.435023,
     "geom:longitude":-92.495648,
@@ -46,17 +47,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XUhH83vDG6YY3asgOqQVp_47.435023_-92.495648@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608836,
-    "wof:geomhash":"f3d77603d7754cc5a0e2a2d9d823a1f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01d07ff390c0d0b18653f868d9bddeb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224859
+        }
+    ],
     "wof:id":823224859,
-    "wof:lastmodified":1472629114,
+    "wof:lastmodified":1492828789,
     "wof:name":"Venetian Interior Plastering & Stucco",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

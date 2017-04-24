@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.673457,43.701563,-95.673457,43.701563",
     "geom:latitude":43.701563,
     "geom:longitude":-95.673457,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510257,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zvoy7a7JvioHzsYA8tB8D_43.701563_-95.673457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604449,
-    "wof:geomhash":"22aad2b861583a721c9f88902fe3d029",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8daaca0672708aef0bc8c2003b210294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510257,
+            "region_id":85688727,
+            "venue_id":807167107
+        }
+    ],
     "wof:id":807167107,
-    "wof:lastmodified":1472629318,
+    "wof:lastmodified":1492822572,
     "wof:name":"Hemmem Elden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

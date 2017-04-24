@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.628338,43.982041,-94.628338,43.982041",
     "geom:latitude":43.982041,
     "geom:longitude":-94.628338,
@@ -28,17 +29,34 @@
     "sg:postcode":"56081",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wPSlUJXc42Qnht2TYsg66_43.982041_-94.628338@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587316,
-    "wof:geomhash":"0c121297d3783a7db145b8aa19b0983f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f89b8e56da1e0fee1ba2056d0c0e0ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":773648317
+        }
+    ],
     "wof:id":773648317,
-    "wof:lastmodified":1472630118,
+    "wof:lastmodified":1492802216,
     "wof:name":"Community Center/Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

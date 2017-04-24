@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.474034,45.833706,-94.474034,45.833706",
     "geom:latitude":45.833706,
     "geom:longitude":-94.474034,
@@ -31,17 +32,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510029,
+        85633793,
+        85968861,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qPAAovnbo0IZxVIJlEilQ_45.833706_-94.474034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592401,
-    "wof:geomhash":"abc9abdae661e9021a1af6333087304a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6d3869c2f84838a339cca9d42e1cc2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510029,
+            "locality_id":85968861,
+            "region_id":85688727,
+            "venue_id":790009131
+        }
+    ],
     "wof:id":790009131,
-    "wof:lastmodified":1472628938,
+    "wof:lastmodified":1492833439,
     "wof:name":"Elmdale Community Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

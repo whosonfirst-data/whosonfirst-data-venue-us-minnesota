@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.205747,43.991978,-93.205747,43.991978",
     "geom:latitude":43.991978,
     "geom:longitude":-93.205747,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514609,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qIkJkiFhw9ioKRaGUZNHz_43.991978_-93.205747@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604221,
-    "wof:geomhash":"b635a018b6fdad0f975c768f1af6f88a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ffac85926c8a87103c830036fe748ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514609,
+            "region_id":85688727,
+            "venue_id":807145813
+        }
+    ],
     "wof:id":807145813,
-    "wof:lastmodified":1472629276,
+    "wof:lastmodified":1492827778,
     "wof:name":"James Skalicky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

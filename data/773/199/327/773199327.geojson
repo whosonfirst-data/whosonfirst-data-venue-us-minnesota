@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.724032,44.944247,-95.724032,44.944247",
     "geom:latitude":44.944247,
     "geom:longitude":-95.724032,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m4TK5rZ4Wv4PX4WkTS9aU_44.944247_-95.724032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583927,
-    "wof:geomhash":"a12418650c049fbb2b29fd8a7fea1c6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d75d08f2e1eaf1224a87de43077ec147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":773199327
+        }
+    ],
     "wof:id":773199327,
-    "wof:lastmodified":1472629944,
+    "wof:lastmodified":1492808562,
     "wof:name":"Monte Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

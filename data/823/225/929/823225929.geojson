@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.821882,48.065592,-92.821882,48.065592",
     "geom:latitude":48.065592,
     "geom:longitude":-92.821882,
@@ -32,17 +33,34 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510717,
+        85633793,
+        85968451,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47OUjZV25SNd9pkDW3nIhF_48.065592_-92.821882@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608870,
-    "wof:geomhash":"00860976142a74767ca2336cce556d92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3ad16eea516e56a79e289a79cc9a451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510717,
+            "locality_id":85968451,
+            "region_id":85688727,
+            "venue_id":823225929
+        }
+    ],
     "wof:id":823225929,
-    "wof:lastmodified":1472629119,
+    "wof:lastmodified":1492828072,
     "wof:name":"Gabrielson Heating & Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

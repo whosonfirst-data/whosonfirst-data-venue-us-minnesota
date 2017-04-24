@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.769735,43.52024,-91.769735,43.52024",
     "geom:latitude":43.52024,
     "geom:longitude":-91.769735,
@@ -36,17 +37,34 @@
         "super"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509637,
+        85633793,
+        85953171,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K8wTVQjdvF6c9ufoAk5ls_43.520240_-91.769735@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609046,
-    "wof:geomhash":"e6dbbfd0171053cebd682d411300da57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a6e33be5b7d45912e7174a405456280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509637,
+            "locality_id":85953171,
+            "region_id":85688727,
+            "venue_id":823234727
+        }
+    ],
     "wof:id":823234727,
-    "wof:lastmodified":1472629163,
+    "wof:lastmodified":1492828386,
     "wof:name":"Hometown Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

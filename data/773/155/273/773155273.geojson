@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.914194,45.585834,-95.914194,45.585834",
     "geom:latitude":45.585834,
     "geom:longitude":-95.914194,
@@ -31,17 +32,34 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HoNiMMjKkBZFL6otskDEs_45.585834_-95.914194@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583559,
-    "wof:geomhash":"b244bce6c787804a9dc1306249f1c002",
-    "wof:hierarchy":[],
+    "wof:geomhash":"660d9c9451f8ba59683cc47cdfdf076c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":773155273
+        }
+    ],
     "wof:id":773155273,
-    "wof:lastmodified":1472629723,
+    "wof:lastmodified":1492806769,
     "wof:name":"New Horizons Egg Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

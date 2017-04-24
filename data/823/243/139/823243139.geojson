@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.606685,44.23226,-95.606685,44.23226",
     "geom:latitude":44.23226,
     "geom:longitude":-95.606685,
@@ -43,17 +44,34 @@
     ],
     "sg:website":"http://www.sanfordtracy.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57S0kQaqgLd3jKogAWhchX_44.232260_-95.606685@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609205,
-    "wof:geomhash":"d9d9fee0a3c7919c221322f0460e5177",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a33a2b6d9fd4cf5039aa334ee1c88a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":823243139
+        }
+    ],
     "wof:id":823243139,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492829306,
     "wof:name":"Sanford Tracy Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

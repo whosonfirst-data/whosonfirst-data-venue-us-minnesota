@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.627862,43.617115,-93.627862,43.617115",
     "geom:latitude":43.617115,
     "geom:longitude":-93.627862,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514395,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14O6UGg1NdVDDYOAS1iMaW_43.617115_-93.627862@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603789,
-    "wof:geomhash":"0fd4477775426d84329c57eae7bee63a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f112c33f6e6a659645ce0e5c76d50a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514395,
+            "region_id":85688727,
+            "venue_id":807105521
+        }
+    ],
     "wof:id":807105521,
-    "wof:lastmodified":1472629207,
+    "wof:lastmodified":1492822247,
     "wof:name":"Warren Greenfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

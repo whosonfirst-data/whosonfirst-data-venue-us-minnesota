@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.258003,44.861809,-93.258003,44.861809",
     "geom:latitude":44.861809,
     "geom:longitude":-93.258003,
@@ -31,17 +32,45 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709,
+        404511825,
+        85969239
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lIkCF93YkN23ABdDqdM7W_44.861809_-93.258003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583619,
-    "wof:geomhash":"a9c4423ace6c85007d05c0425e2a3a1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"944f8fef68919328eaea15029f947c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":773163445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773163445
+        }
+    ],
     "wof:id":773163445,
-    "wof:lastmodified":1472629767,
+    "wof:lastmodified":1492802714,
     "wof:name":"Hotel & Conference Ctr Partnr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

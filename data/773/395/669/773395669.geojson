@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.095313,45.031297,-93.095313,45.031297",
     "geom:latitude":45.031297,
     "geom:longitude":-93.095313,
@@ -31,17 +32,34 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514361,
+        85633793,
+        85953109,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54EPgjvITSiNGUmCUoeF8a_45.031297_-93.095313@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585368,
-    "wof:geomhash":"93eba28bcc0e2eb8af5686633531c2f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3d4a450c70361db638bf99642c7b784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514361,
+            "locality_id":85953109,
+            "region_id":85688727,
+            "venue_id":773395669
+        }
+    ],
     "wof:id":773395669,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492807040,
     "wof:name":"Integrated Logistic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

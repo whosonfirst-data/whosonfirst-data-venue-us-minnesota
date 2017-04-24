@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.046476,43.909913,-95.046476,43.909913",
     "geom:latitude":43.909913,
     "geom:longitude":-95.046476,
@@ -40,17 +41,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511851,
+        85633793,
+        85952785,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RCmqfYIwbBAcYKo3Fsgq7_43.909913_-95.046476@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591328,
-    "wof:geomhash":"c533730416e8e43ad9e84981c83ca36a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42a36f5a7a7a3d61c1d5746ea0f599e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511851,
+            "locality_id":85952785,
+            "region_id":85688727,
+            "venue_id":789884669
+        }
+    ],
     "wof:id":789884669,
-    "wof:lastmodified":1472629581,
+    "wof:lastmodified":1492811786,
     "wof:name":"Bingham Lake Truck Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

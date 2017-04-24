@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.018191,44.516652,-96.018191,44.516652",
     "geom:latitude":44.516652,
     "geom:longitude":-96.018191,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509735,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2epJRkN4eDd4vQGMXkNy9k_44.516652_-96.018191@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604000,
-    "wof:geomhash":"23ea72e891cd0b6589c13e06f3be0773",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79533ce707fe9738e32c7c7c8ad6658e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404509735,
+            "region_id":85688727,
+            "venue_id":807124985
+        }
+    ],
     "wof:id":807124985,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492825183,
     "wof:name":"James Opdahl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

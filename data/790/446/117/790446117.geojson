@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.871362,45.128994,-92.871362,45.128994",
     "geom:latitude":45.128994,
     "geom:longitude":-92.871362,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85815391,
+        102191575,
+        404510951,
         85633793,
-        85858423,
-        102087659,
         85968253,
-        85815391
+        102087659,
+        85688727,
+        85858423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,28 +49,30 @@
     },
     "wof:country":"US",
     "wof:created":1462595887,
-    "wof:geomhash":"ffc35a83f20c863b277cb825be645754",
+    "wof:geomhash":"ca978508cf5a5fcefb0aa18ceb1591a5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087659,
-            "neighbourhood_id":85858423,
+            "localadmin_id":404510951,
+            "locality_id":85968253,
+            "neighbourhood_id":85815391,
             "region_id":85688727,
             "venue_id":790446117
         },
         {
             "country_id":85633793,
             "county_id":102087659,
-            "locality_id":85968253,
-            "neighbourhood_id":85815391,
+            "neighbourhood_id":85858423,
             "region_id":85688727,
             "venue_id":790446117
         }
     ],
     "wof:id":790446117,
-    "wof:lastmodified":1472629712,
+    "wof:lastmodified":1492836871,
     "wof:name":"Software Workshop Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

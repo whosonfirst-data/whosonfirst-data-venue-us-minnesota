@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.057034,43.870826,-96.057034,43.870826",
     "geom:latitude":43.870826,
     "geom:longitude":-96.057034,
@@ -36,17 +37,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513195,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Kvl9L9BQJ4L4rruokBRba_43.870826_-96.057034@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609176,
-    "wof:geomhash":"6adca39af2d5e48616216fd246105a2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d664b2045e75adb6ebf6ffadf0541b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513195,
+            "region_id":85688727,
+            "venue_id":823241535
+        }
+    ],
     "wof:id":823241535,
-    "wof:lastmodified":1472629152,
+    "wof:lastmodified":1492828927,
     "wof:name":"Randy Bolt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

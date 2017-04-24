@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.388565,43.568154,-91.388565,43.568154",
     "geom:latitude":43.568154,
     "geom:longitude":-91.388565,
@@ -29,10 +30,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1462604653,
-    "wof:geomhash":"5a69eb55a943413dcc50058396c6c60b",
+    "wof:geomhash":"3be17ac9ff5dcc8c548c8275e5b937e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":807186335
         }
     ],
     "wof:id":807186335,
-    "wof:lastmodified":1472629380,
+    "wof:lastmodified":1492826709,
     "wof:name":"Francis Gallagher",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

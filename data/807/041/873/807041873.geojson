@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.476778,45.002537,-93.476778,45.002537",
     "geom:latitude":45.002537,
     "geom:longitude":-93.476778,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aYSDBDzqfCTjGi7djr0L2_45.002537_-93.476778@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603227,
-    "wof:geomhash":"8f052fcf3139b9902ec91007868fc6b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1651aaad63fa6c20ee74644a82863938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":807041873
+        }
+    ],
     "wof:id":807041873,
-    "wof:lastmodified":1472629034,
+    "wof:lastmodified":1492827846,
     "wof:name":"Shenandoah Woods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.407927,43.696268,-94.407927,43.696268",
     "geom:latitude":43.696268,
     "geom:longitude":-94.407927,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512249,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2azA5toVx0MWJgLxlDkuQF_43.696268_-94.407927@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601421,
-    "wof:geomhash":"70663f4d9eeda3b5bd3980834a764cf9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc701a364f6c7544fa3449daadb21d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512249,
+            "region_id":85688727,
+            "venue_id":806829503
+        }
+    ],
     "wof:id":806829503,
-    "wof:lastmodified":1472629870,
+    "wof:lastmodified":1492816735,
     "wof:name":"Wolter Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

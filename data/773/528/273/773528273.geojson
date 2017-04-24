@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.912691,45.590426,-95.912691,45.590426",
     "geom:latitude":45.590426,
     "geom:longitude":-95.912691,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BXIr8xP9CySy9D81Rw0vA_45.590426_-95.912691@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586399,
-    "wof:geomhash":"1dc06f5aa9975d4a8bccfd09d710b1dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea9d6ca500eb3262c8920669087f26fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":773528273
+        }
+    ],
     "wof:id":773528273,
-    "wof:lastmodified":1472630081,
+    "wof:lastmodified":1492801572,
     "wof:name":"J & B Horse Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.789303,44.151896,-94.789303,44.151896",
     "geom:latitude":44.151896,
     "geom:longitude":-94.789303,
@@ -31,17 +32,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509327,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iFsHlQDXwrF0Zyy30RZz1_44.151896_-94.789303@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600390,
-    "wof:geomhash":"bec35aebcc548eb269ac50c4be7ed07b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d9113e06a27e2e784bea6435058eee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509327,
+            "region_id":85688727,
+            "venue_id":806706179
+        }
+    ],
     "wof:id":806706179,
-    "wof:lastmodified":1472629710,
+    "wof:lastmodified":1492821277,
     "wof:name":"Windschilt Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

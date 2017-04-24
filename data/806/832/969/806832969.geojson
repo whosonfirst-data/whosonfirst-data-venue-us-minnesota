@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.522292,47.492881,-92.522292,47.492881",
     "geom:latitude":47.492881,
     "geom:longitude":-92.522292,
@@ -28,17 +29,26 @@
     "sg:postcode":"55792",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mvfroGM7DojWXxgEGmTzG_47.492881_-92.522292@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601448,
-    "wof:geomhash":"415c44fd81ae24ae9176513255e9e0b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb93bb7dc4964ba29f6adb10bad3cf15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806832969
+        }
+    ],
     "wof:id":806832969,
-    "wof:lastmodified":1472629869,
+    "wof:lastmodified":1492820588,
     "wof:name":"Fire Rescue Communication",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

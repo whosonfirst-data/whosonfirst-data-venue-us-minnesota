@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.530984,47.467081,-92.530984,47.467081",
     "geom:latitude":47.467081,
     "geom:longitude":-92.530984,
@@ -31,17 +32,26 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ovZcTTjFYsxIoINy9ub0C_47.467081_-92.530984@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593223,
-    "wof:geomhash":"60f32f14bbaac2ff1cb43a475f6f8298",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba9b26c9890e0b31019745c58d87c425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790110507
+        }
+    ],
     "wof:id":790110507,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492835033,
     "wof:name":"Avon Ind Sls Representative",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

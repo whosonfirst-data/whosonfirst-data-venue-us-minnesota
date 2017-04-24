@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.049748,44.885284,-94.049748,44.885284",
     "geom:latitude":44.885284,
     "geom:longitude":-94.049748,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509749,
+        85633793,
+        85952559,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CVqST1I8zlss7VFjUjsRS_44.885284_-94.049748@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602363,
-    "wof:geomhash":"9e1e9347131c0be9082b3fbedfe2fc80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87715657d08811ce46ed16bcde19f249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509749,
+            "locality_id":85952559,
+            "region_id":85688727,
+            "venue_id":806940295
+        }
+    ],
     "wof:id":806940295,
-    "wof:lastmodified":1472629943,
+    "wof:lastmodified":1492820917,
     "wof:name":"Bethel Lutheran Church ELCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.867234,46.084342,-94.867234,46.084342",
     "geom:latitude":46.084342,
     "geom:longitude":-94.867234,
@@ -44,17 +45,34 @@
     "sg:province":"MN",
     "sg:website":"http://national.citysearch.com/profile/external/34719455/browerville_mn/country_financial_kris_kemmer.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514697,
+        85633793,
+        85968411,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JTdzAQCyOk6jYcWy4JbmM_46.084342_-94.867234@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609411,
-    "wof:geomhash":"1e3879f0f9177a96329063ef401ed25a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00f176442f0db3648c6bd71402cd1328",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514697,
+            "locality_id":85968411,
+            "region_id":85688727,
+            "venue_id":823253441
+        }
+    ],
     "wof:id":823253441,
-    "wof:lastmodified":1472629212,
+    "wof:lastmodified":1492829730,
     "wof:name":"COUNTRY Financial - Kris Kemmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

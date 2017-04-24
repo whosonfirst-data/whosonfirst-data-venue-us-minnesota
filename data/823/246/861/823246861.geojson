@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.82515,45.337351,-94.82515,45.337351",
     "geom:latitude":45.337351,
     "geom:longitude":-94.82515,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513953,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MHCQkFjckfunipplAl1hk_45.337351_-94.825150@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609275,
-    "wof:geomhash":"e55078cb4cb31a184810f600de467144",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98c250e8535427124fcbc7f8a75fc982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513953,
+            "region_id":85688727,
+            "venue_id":823246861
+        }
+    ],
     "wof:id":823246861,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492829601,
     "wof:name":"Vic Keller Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

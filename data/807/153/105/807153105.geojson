@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.252899,45.000999,-93.252899,45.000999",
     "geom:latitude":45.000999,
     "geom:longitude":-93.252899,
@@ -36,14 +37,15 @@
     "sg:website":"www.elimnurseryschool.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558767,
+        1108800097,
+        85872675,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604303,
-    "wof:geomhash":"d14ce9c690822b19564f3a73aacc26af",
+    "wof:geomhash":"40e412f0500b38c1e0dd33519ddb3c1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,25 +61,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420558767,
-            "region_id":85688727,
-            "venue_id":807153105
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
+            "macrohood_id":1108800001,
+            "microhood_id":1108800097,
+            "neighbourhood_id":85872675,
             "region_id":85688727,
             "venue_id":807153105
         }
     ],
     "wof:id":807153105,
-    "wof:lastmodified":1472629274,
+    "wof:lastmodified":1492822791,
     "wof:name":"Elim Nursery School",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

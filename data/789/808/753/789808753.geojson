@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.860541,45.168534,-93.860541,45.168534",
     "geom:latitude":45.168534,
     "geom:longitude":-93.860541,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.countryinn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JqAb4qbagTTwZf5vRquVq_45.168534_-93.860541@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590705,
-    "wof:geomhash":"7bfffb18743bc96de5a599aafc548add",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87ca69d459be92a7e5b73017d55b337f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":789808753
+        }
+    ],
     "wof:id":789808753,
-    "wof:lastmodified":1472629395,
+    "wof:lastmodified":1492809441,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

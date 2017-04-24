@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.723458,48.76397,-95.723458,48.76397",
     "geom:latitude":48.76397,
     "geom:longitude":-95.723458,
@@ -31,17 +32,32 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512931,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gCTrYSmFWtBxcTFVyRkUZ_48.763970_-95.723458@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600341,
-    "wof:geomhash":"dedaa3b12608b2d08e5d8091d8f319f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea8f4cf294de70062682f4aa33e36ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512931,
+            "region_id":85688727,
+            "venue_id":806700271
+        }
+    ],
     "wof:id":806700271,
-    "wof:lastmodified":1472629715,
+    "wof:lastmodified":1492815960,
     "wof:name":"Courtrights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

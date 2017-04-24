@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.968026,44.733502,-93.968026,44.733502",
     "geom:latitude":44.733502,
     "geom:longitude":-93.968026,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511693,
+        85633793,
+        85952955,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gMH7H7nnBqQFsXWwo7H9k_44.733502_-93.968026@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587878,
-    "wof:geomhash":"9a584c7591ca32c9374be9f6d837592c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0399d7177f555e249e6ca02091f08db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511693,
+            "locality_id":85952955,
+            "region_id":85688727,
+            "venue_id":773721079
+        }
+    ],
     "wof:id":773721079,
-    "wof:lastmodified":1472630138,
+    "wof:lastmodified":1492803701,
     "wof:name":"All Metro Plumbing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

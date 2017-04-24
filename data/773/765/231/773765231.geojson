@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.372248,44.897114,-94.372248,44.897114",
     "geom:latitude":44.897114,
     "geom:longitude":-94.372248,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sj4lhUjWEAYLzXowHIocR_44.897114_-94.372248@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588208,
-    "wof:geomhash":"d92a8a6e62636c4bf28e90fdb4bfc977",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25d3728167eebba9b5d9bd17c040ee31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773765231
+        }
+    ],
     "wof:id":773765231,
-    "wof:lastmodified":1472630151,
+    "wof:lastmodified":1492801912,
     "wof:name":"Gruis Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

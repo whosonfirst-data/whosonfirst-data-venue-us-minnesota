@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.492402,45.155429,-94.492402,45.155429",
     "geom:latitude":45.155429,
     "geom:longitude":-94.492402,
@@ -36,17 +37,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512395,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Zw6PaUGk7z8kzA1luFOde_45.155429_-94.492402@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606246,
-    "wof:geomhash":"7de0318073666a1c0db7d03ad6da5bc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a33c774be298baf8addf170f6ff92f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512395,
+            "region_id":85688727,
+            "venue_id":807333801
+        }
+    ],
     "wof:id":807333801,
-    "wof:lastmodified":1472629742,
+    "wof:lastmodified":1492826235,
     "wof:name":"Mike's Furnace Repair & Ac Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

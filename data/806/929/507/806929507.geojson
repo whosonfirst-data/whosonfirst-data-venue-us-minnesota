@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.844126,44.029806,-92.844126,44.029806",
     "geom:latitude":44.029806,
     "geom:longitude":-92.844126,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513731,
+        85633793,
+        85952839,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pSIyP3WY8XEqxay2wYvSE_44.029806_-92.844126@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602271,
-    "wof:geomhash":"19ce0f5ad16d97f719c311d37c2ab4d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82a63152b2c2a0d9405d158a6de84e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513731,
+            "locality_id":85952839,
+            "region_id":85688727,
+            "venue_id":806929507
+        }
+    ],
     "wof:id":806929507,
-    "wof:lastmodified":1472629943,
+    "wof:lastmodified":1492819038,
     "wof:name":"Johnson Concrete Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

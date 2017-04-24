@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.285698,44.9501,-93.285698,44.9501",
     "geom:latitude":44.9501,
     "geom:longitude":-93.285698,
@@ -65,14 +66,15 @@
     "sg:website":"www.uptownimports.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867013,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872643
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +82,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607290,
-    "wof:geomhash":"ce1fc678bf3e53fe4e37d302592556fa",
+    "wof:geomhash":"4baed2596da4a72c3384fed704777017",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -88,25 +90,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867013,
-            "region_id":85688727,
-            "venue_id":807400387
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872643,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":807400387
         }
     ],
     "wof:id":807400387,
-    "wof:lastmodified":1472629887,
+    "wof:lastmodified":1492823735,
     "wof:name":"Uptown Imports",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

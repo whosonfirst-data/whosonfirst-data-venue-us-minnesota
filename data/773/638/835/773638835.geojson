@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.620205,44.735131,-94.620205,44.735131",
     "geom:latitude":44.735131,
     "geom:longitude":-94.620205,
@@ -36,17 +37,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512459,
+        85633793,
+        85969057,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g8WD5OlnwkReWiSa8VrUc_44.735131_-94.620205@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587238,
-    "wof:geomhash":"0d9a5670c0aa6e709aef38f027d94c9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dd52c3ff2aef660b61269cd72a72dab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512459,
+            "locality_id":85969057,
+            "region_id":85688727,
+            "venue_id":773638835
+        }
+    ],
     "wof:id":773638835,
-    "wof:lastmodified":1472630116,
+    "wof:lastmodified":1492805196,
     "wof:name":"Kandt's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

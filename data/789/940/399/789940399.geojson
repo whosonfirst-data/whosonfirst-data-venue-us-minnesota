@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.325781,44.808708,-93.325781,44.808708",
     "geom:latitude":44.808708,
     "geom:longitude":-93.325781,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WHukx5wn7MRvnLQzEPMxM_44.808708_-93.325781@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591789,
-    "wof:geomhash":"66ad531a29783fb060a5fe68b2f6fded",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd522386342ab05e716531716edca219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":789940399
+        }
+    ],
     "wof:id":789940399,
-    "wof:lastmodified":1472629643,
+    "wof:lastmodified":1492813234,
     "wof:name":"Carston Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

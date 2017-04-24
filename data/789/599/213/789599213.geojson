@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.823309,45.296581,-92.823309,45.296581",
     "geom:latitude":45.296581,
     "geom:longitude":-92.823309,
@@ -31,17 +32,32 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cTUcMjShzWLeA0CrNEmLX_45.296581_-92.823309@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589062,
-    "wof:geomhash":"dadd4c55a8e95fec735b2860f48f70c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83f2e6bd2f5480bd14895ff1aa416bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":789599213
+        }
+    ],
     "wof:id":789599213,
-    "wof:lastmodified":1472628959,
+    "wof:lastmodified":1492809802,
     "wof:name":"Choice Financial Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

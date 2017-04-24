@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.333033,47.747752,-90.333033,47.747752",
     "geom:latitude":47.747752,
     "geom:longitude":-90.333033,
@@ -31,17 +32,34 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511965,
+        85633793,
+        85953369,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h4m3cU7JW2zceQti6AUME_47.747752_-90.333033@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599732,
-    "wof:geomhash":"6995a4dee1ff08bd0b353a7e3ec08907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"984a80479df4638fc9cabd6c017ff2f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404511965,
+            "locality_id":85953369,
+            "region_id":85688727,
+            "venue_id":806629603
+        }
+    ],
     "wof:id":806629603,
-    "wof:lastmodified":1472629571,
+    "wof:lastmodified":1492816398,
     "wof:name":"Cook County News-Herald",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

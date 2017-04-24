@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.465784,43.654586,-94.465784,43.654586",
     "geom:latitude":43.654586,
     "geom:longitude":-94.465784,
@@ -37,17 +38,34 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514005,
+        85633793,
+        85953127,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7e5veRchcB2DFxh7Mp0mFp_43.654586_-94.465784@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601844,
-    "wof:geomhash":"c091718f2b7c4e5f05aaa2e7d36cdfc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf86fccf6f2b1965a439d31005cb3964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514005,
+            "locality_id":85953127,
+            "region_id":85688727,
+            "venue_id":806878693
+        }
+    ],
     "wof:id":806878693,
-    "wof:lastmodified":1472629916,
+    "wof:lastmodified":1492822091,
     "wof:name":"Public Defender",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

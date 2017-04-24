@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.253425,45.032043,-93.253425,45.032043",
     "geom:latitude":45.032043,
     "geom:longitude":-93.253425,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420525003,
+        420524993,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420524993
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602372,
-    "wof:geomhash":"5e806bd43a630e1e7e4e11d604a3c2fa",
+    "wof:geomhash":"d262cc4a4681fc102d58cdcf0359c611",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420525003,
-            "region_id":85688727,
-            "venue_id":806941465
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108800001,
             "neighbourhood_id":420524993,
             "region_id":85688727,
             "venue_id":806941465
         }
     ],
     "wof:id":806941465,
-    "wof:lastmodified":1472629944,
+    "wof:lastmodified":1492819691,
     "wof:name":"Northeast Service Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420524993,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

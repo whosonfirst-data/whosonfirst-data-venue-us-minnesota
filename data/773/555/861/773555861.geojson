@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.21067,43.948665,-95.21067,43.948665",
     "geom:latitude":43.948665,
     "geom:longitude":-95.21067,
@@ -28,17 +29,32 @@
     "sg:postcode":"56101",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511855,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kj0SlKwAnj59yzF1sBPky_43.948665_-95.210670@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586614,
-    "wof:geomhash":"6fac7d868b236f313b06fa4375e6bcea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f4017184679171e2f165a1e47a47471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511855,
+            "region_id":85688727,
+            "venue_id":773555861
+        }
+    ],
     "wof:id":773555861,
-    "wof:lastmodified":1472630090,
+    "wof:lastmodified":1492807143,
     "wof:name":"County Landfill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

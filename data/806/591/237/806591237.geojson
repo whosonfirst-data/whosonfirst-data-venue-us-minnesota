@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.403776,48.602797,-93.403776,48.602797",
     "geom:latitude":48.602797,
     "geom:longitude":-93.403776,
@@ -31,17 +32,34 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EAwJfA7WHShSozzRCjmA8_48.602797_-93.403776@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599407,
-    "wof:geomhash":"aabea9d8e43a7799ac3efa3b8bada891",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0e23a268eba3f5361aa8c7e7739099c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":806591237
+        }
+    ],
     "wof:id":806591237,
-    "wof:lastmodified":1472629494,
+    "wof:lastmodified":1492819808,
     "wof:name":"Bootery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

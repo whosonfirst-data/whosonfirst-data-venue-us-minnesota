@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.280229,45.821771,-93.280229,45.821771",
     "geom:latitude":45.821771,
     "geom:longitude":-93.280229,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513621,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iDbdpG30OzvEMB0UJtzLp_45.821771_-93.280229@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595884,
-    "wof:geomhash":"11f8417ffa3634fb779db5fcb57f2f9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c997988e97620294920b247e1e484e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513621,
+            "region_id":85688727,
+            "venue_id":790445695
+        }
+    ],
     "wof:id":790445695,
-    "wof:lastmodified":1472629716,
+    "wof:lastmodified":1492833725,
     "wof:name":"Moon Light Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

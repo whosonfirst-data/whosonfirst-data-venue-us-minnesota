@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.135469,46.50985,-94.135469,46.50985",
     "geom:latitude":46.50985,
     "geom:longitude":-94.135469,
@@ -42,7 +43,10 @@
         85633793,
         85952669,
         102087093,
-        85688727
+        85688727,
+        85896871,
+        404512017,
+        85952675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585434,
-    "wof:geomhash":"7c187f5820a51b6a54fe4afc5f17f73d",
+    "wof:geomhash":"7920eaa1662891e5e34314b4524eccdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +65,22 @@
             "neighbourhood_id":85812999,
             "region_id":85688727,
             "venue_id":773404531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087093,
+            "localadmin_id":404512017,
+            "locality_id":85952675,
+            "neighbourhood_id":85896871,
+            "region_id":85688727,
+            "venue_id":773404531
         }
     ],
     "wof:id":773404531,
-    "wof:lastmodified":1472630044,
+    "wof:lastmodified":1492802332,
     "wof:name":"M & J Carpet Installers",
-    "wof:parent_id":85812999,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

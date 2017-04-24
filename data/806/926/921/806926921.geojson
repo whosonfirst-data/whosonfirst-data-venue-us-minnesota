@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.236769,45.553773,-94.236769,45.553773",
     "geom:latitude":45.553773,
     "geom:longitude":-94.236769,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6znDHs1YeT9RMj2lYlBBRD_45.553773_-94.236769@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602248,
-    "wof:geomhash":"fcd9a189cd8f5ff4ade4152fd4e0d634",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e308f66e97ed8b32824e7014fb42b101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":806926921
+        }
+    ],
     "wof:id":806926921,
-    "wof:lastmodified":1472629941,
+    "wof:lastmodified":1492820049,
     "wof:name":"Beumer Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

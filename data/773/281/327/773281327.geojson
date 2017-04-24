@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.97699,43.720949,-91.97699,43.720949",
     "geom:latitude":43.720949,
     "geom:longitude":-91.97699,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514267,
+        85633793,
+        85953173,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G8rKsaZJbifWim1VdWCSQ_43.720949_-91.976990@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584524,
-    "wof:geomhash":"4bd967c9682f07824f1db450be878236",
-    "wof:hierarchy":[],
+    "wof:geomhash":"671bc2732801bd3b28540cf1f999188d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514267,
+            "locality_id":85953173,
+            "region_id":85688727,
+            "venue_id":773281327
+        }
+    ],
     "wof:id":773281327,
-    "wof:lastmodified":1472629999,
+    "wof:lastmodified":1492805028,
     "wof:name":"Jeff's Downtown Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

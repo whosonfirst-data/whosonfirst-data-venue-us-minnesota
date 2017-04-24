@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.042272,45.138024,-94.042272,45.138024",
     "geom:latitude":45.138024,
     "geom:longitude":-94.042272,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510763,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sxmKqOhftKGNB6WYpcKzx_45.138024_-94.042272@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604573,
-    "wof:geomhash":"7047f2e7bcdb64c5927c1efa9555dbbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ee8feed2abeb9ca3f98ab555ebe3c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510763,
+            "region_id":85688727,
+            "venue_id":807178801
+        }
+    ],
     "wof:id":807178801,
-    "wof:lastmodified":1472629360,
+    "wof:lastmodified":1492823586,
     "wof:name":"Bonnick Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

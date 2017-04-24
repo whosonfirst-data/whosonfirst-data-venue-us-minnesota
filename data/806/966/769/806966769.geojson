@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.432923,45.455852,-94.432923,45.455852",
     "geom:latitude":45.455852,
     "geom:longitude":-94.432923,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514221,
+        85633793,
+        85952459,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oHhnG6H2QbGHBP7waQuqv_45.455852_-94.432923@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602582,
-    "wof:geomhash":"2f083122e6e018731537fdb08f83bb17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1d53d3503a0a88848206072cefc964d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514221,
+            "locality_id":85952459,
+            "region_id":85688727,
+            "venue_id":806966769
+        }
+    ],
     "wof:id":806966769,
-    "wof:lastmodified":1472629973,
+    "wof:lastmodified":1492815760,
     "wof:name":"Patricia Fazio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

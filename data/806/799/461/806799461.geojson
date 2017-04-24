@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540019,47.463286,-92.540019,47.463286",
     "geom:latitude":47.463286,
     "geom:longitude":-92.540019,
@@ -31,17 +32,26 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79eWkrGzgbhjB6ObRMmFB2_47.463286_-92.540019@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601181,
-    "wof:geomhash":"85abc007222fd764aa7c8d9fe0c2bee3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9452d298890ce6389d6492d3e64dcdd5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806799461
+        }
+    ],
     "wof:id":806799461,
-    "wof:lastmodified":1472629836,
+    "wof:lastmodified":1492814677,
     "wof:name":"Ferrazzi Enterprises",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

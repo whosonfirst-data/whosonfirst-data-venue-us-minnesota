@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.571464,46.472876,-95.571464,46.472876",
     "geom:latitude":46.472876,
     "geom:longitude":-95.571464,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513047,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OnKeOkdAz19F21tnBGdBB_46.472876_-95.571464@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592481,
-    "wof:geomhash":"8bcb4d3231703f6493394cca03ee979f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87fd298277c15dcee2effcdb9843c80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513047,
+            "region_id":85688727,
+            "venue_id":790018555
+        }
+    ],
     "wof:id":790018555,
-    "wof:lastmodified":1472628965,
+    "wof:lastmodified":1492834744,
     "wof:name":"Four Seasons Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

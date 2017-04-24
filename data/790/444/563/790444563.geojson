@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.324551,44.845594,-93.324551,44.845594",
     "geom:latitude":44.845594,
     "geom:longitude":-93.324551,
@@ -31,17 +32,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MtsfKE5XQCNs8PPPgJ3m6_44.845594_-93.324551@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595877,
-    "wof:geomhash":"daea7fda03a486cd4ae096bbcdbee513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"553ea9d4fa2c513d47c00722e4c294b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":790444563
+        }
+    ],
     "wof:id":790444563,
-    "wof:lastmodified":1472629709,
+    "wof:lastmodified":1492832704,
     "wof:name":"Cocktails CA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

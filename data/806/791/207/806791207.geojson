@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.644698,44.926761,-93.644698,44.926761",
     "geom:latitude":44.926761,
     "geom:longitude":-93.644698,
@@ -33,17 +34,34 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511891,
+        85633793,
+        85969151,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lk0gCO7Vl9G4TyngyxLbR_44.926761_-93.644698@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601114,
-    "wof:geomhash":"60648d7efb7bd192b0978bfec7393849",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b249ff9a41c8396c4befb3f8b03880b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511891,
+            "locality_id":85969151,
+            "region_id":85688727,
+            "venue_id":806791207
+        }
+    ],
     "wof:id":806791207,
-    "wof:lastmodified":1472629825,
+    "wof:lastmodified":1492818410,
     "wof:name":"G & C Solid Decks & Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

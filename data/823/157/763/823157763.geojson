@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.336958,44.937723,-93.336958,44.937723",
     "geom:latitude":44.937723,
     "geom:longitude":-93.336958,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BxhyvM9QlQLQWWF7OTdUC_44.937723_-93.336958@1303262828"
     },
     "wof:country":"US",
     "wof:created":1462607772,
-    "wof:geomhash":"ceefc5e98bd23e7b638097c35051c5c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e460367fe32af3d2f3c4a27e287cfa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823157763
+        }
+    ],
     "wof:id":823157763,
-    "wof:lastmodified":1472628973,
+    "wof:lastmodified":1492830107,
     "wof:name":"Lynn Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.454826,45.104174,-93.454826,45.104174",
     "geom:latitude":45.104174,
     "geom:longitude":-93.454826,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MKpEn6H6Ln4O8hFy5g2KI_45.104174_-93.454826@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583458,
-    "wof:geomhash":"8da63ee390ef5ab50d89521ef77f0c25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fbb19292b457ebfeaed675b79e409eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773143369
+        }
+    ],
     "wof:id":773143369,
-    "wof:lastmodified":1472629724,
+    "wof:lastmodified":1492803877,
     "wof:name":"Maple Grove Dental Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

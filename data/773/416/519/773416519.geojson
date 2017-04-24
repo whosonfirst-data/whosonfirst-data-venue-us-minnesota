@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.155209,45.505389,-94.155209,45.505389",
     "geom:latitude":45.505389,
     "geom:longitude":-94.155209,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GJ11aFxn3vw5Z0kNgBH92_45.505389_-94.155209@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585545,
-    "wof:geomhash":"9719738e30c3589778874343287595b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76f0dd8a4bc89d081ad4f1540a06a2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773416519
+        }
+    ],
     "wof:id":773416519,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492804736,
     "wof:name":"St Cloud Auto Sales Com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

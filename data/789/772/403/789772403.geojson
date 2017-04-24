@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217028,45.042884,-93.217028,45.042884",
     "geom:latitude":45.042884,
     "geom:longitude":-93.217028,
@@ -28,17 +29,46 @@
     "sg:postcode":"55112",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509463,
+        85633793,
+        85953217,
+        102087709,
+        404510233,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e2lAizllxTNGQn8zsxGMR_45.042884_-93.217028@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590418,
-    "wof:geomhash":"3def52a868adbfa5cb368d6d0a0f7fca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18be030e945ae5bf14e41ff5a2fe67f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509463,
+            "locality_id":85953217,
+            "region_id":85688727,
+            "venue_id":789772403
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":789772403
+        }
+    ],
     "wof:id":789772403,
-    "wof:lastmodified":1472629330,
+    "wof:lastmodified":1492812557,
     "wof:name":"Tracey Blake Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

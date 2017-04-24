@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262583,44.956879,-93.262583,44.956879",
     "geom:latitude":44.956879,
     "geom:longitude":-93.262583,
@@ -39,14 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559143,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872701
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607019,
-    "wof:geomhash":"db483711e0f11f94b4de1ee00836af32",
+    "wof:geomhash":"c2a3f3d182b91ac7a09686666d964732",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,25 +63,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559143,
-            "region_id":85688727,
-            "venue_id":807386657
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872701,
+            "macrohood_id":1108799995,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":807386657
         }
     ],
     "wof:id":807386657,
-    "wof:lastmodified":1472629882,
+    "wof:lastmodified":1492827673,
     "wof:name":"Knutson Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

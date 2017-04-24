@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.391833,45.090937,-93.391833,45.090937",
     "geom:latitude":45.090937,
     "geom:longitude":-93.391833,
@@ -38,17 +39,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WpbbuNGStvIM7RjBU0ekv_45.090937_-93.391833@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608200,
-    "wof:geomhash":"69d5421d9c99848d85cdaf2504d6d92b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbfc9c51db6f80c22f5b8c88f54d83ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823190813
+        }
+    ],
     "wof:id":823190813,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492830052,
     "wof:name":"Gift Connection Minneapolis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

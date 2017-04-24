@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538286,47.465211,-92.538286,47.465211",
     "geom:latitude":47.465211,
     "geom:longitude":-92.538286,
@@ -31,17 +32,26 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WdIMoQlfIKMisPZhVwGIG_47.465211_-92.538286@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589693,
-    "wof:geomhash":"14baa94af9967e092c11fb3912a1423c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d17fa93c4fba48df6d50b8c283099158",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789679151
+        }
+    ],
     "wof:id":789679151,
-    "wof:lastmodified":1472629146,
+    "wof:lastmodified":1492810680,
     "wof:name":"Cron-Sheehy Funeral Home",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

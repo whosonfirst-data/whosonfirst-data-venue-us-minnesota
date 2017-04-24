@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.190717,44.089208,-96.190717,44.089208",
     "geom:latitude":44.089208,
     "geom:longitude":-96.190717,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510437,
+        85633793,
+        85953045,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bjgNYQNl0nbzibgKUfCE3_44.089208_-96.190717@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601831,
-    "wof:geomhash":"a7b0d498f4e4ebc10915333e84776f38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4c9d8dbf4ca9ec2db22bb663b37f7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510437,
+            "locality_id":85953045,
+            "region_id":85688727,
+            "venue_id":806877471
+        }
+    ],
     "wof:id":806877471,
-    "wof:lastmodified":1472629912,
+    "wof:lastmodified":1492818302,
     "wof:name":"Holland Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

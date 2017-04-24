@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.101758,45.026951,-93.101758,45.026951",
     "geom:latitude":45.026951,
     "geom:longitude":-93.101758,
@@ -33,17 +34,34 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514361,
+        85633793,
+        85953109,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XX3GLCDFRLvYhJgpHe1JS_45.026951_-93.101758@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584635,
-    "wof:geomhash":"4bf4b333e710c68c4c5ca7362ac236cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c487cedfd59705819bb14a30e369197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514361,
+            "locality_id":85953109,
+            "region_id":85688727,
+            "venue_id":773294645
+        }
+    ],
     "wof:id":773294645,
-    "wof:lastmodified":1472630021,
+    "wof:lastmodified":1492808489,
     "wof:name":"Garden Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

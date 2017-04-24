@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.170236,44.902025,-93.170236,44.902025",
     "geom:latitude":44.902025,
     "geom:longitude":-93.170236,
@@ -34,19 +35,38 @@
         "cashing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EHYkqTP03Hv6jbRjc4nc0_44.902025_-93.170236@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590317,
-    "wof:geomhash":"d45ea870d59c2dbefd056c3eacc10d18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be625063c205170bcc110aa1dacdbebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":789758269
+        }
+    ],
     "wof:id":789758269,
-    "wof:lastmodified":1472629324,
+    "wof:lastmodified":1492813031,
     "wof:name":"Money Xchange Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

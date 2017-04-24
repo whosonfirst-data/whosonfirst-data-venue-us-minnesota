@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.013436,43.551171,-92.013436,43.551171",
     "geom:latitude":43.551171,
     "geom:longitude":-92.013436,
@@ -33,17 +34,34 @@
         "adm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PTjoEvc1FtdvgczePLrNH_43.551171_-92.013436@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584088,
-    "wof:geomhash":"92340dc036bd11273c7df2df90fbc8f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e946b1e9c9bb58afcc942b8a1f4e667c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":773221931
+        }
+    ],
     "wof:id":773221931,
-    "wof:lastmodified":1472629983,
+    "wof:lastmodified":1492804589,
     "wof:name":"Economic Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

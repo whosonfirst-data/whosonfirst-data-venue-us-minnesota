@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.95826,43.960504,-93.95826,43.960504",
     "geom:latitude":43.960504,
     "geom:longitude":-93.95826,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511515,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43RDfOH6gAtlkOUN2O6iQt_43.960504_-93.958260@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604294,
-    "wof:geomhash":"b953a1316153d0f7c29b034ec89f7af4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c200464ab5526fa74bc297f36bbcb16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511515,
+            "region_id":85688727,
+            "venue_id":807152169
+        }
+    ],
     "wof:id":807152169,
-    "wof:lastmodified":1472629277,
+    "wof:lastmodified":1492827696,
     "wof:name":"John Trio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

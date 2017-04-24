@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.889134,44.282351,-94.889134,44.282351",
     "geom:latitude":44.282351,
     "geom:longitude":-94.889134,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511577,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LdzNMTUYCYIlm9nZ6bhC8_44.282351_-94.889134@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604198,
-    "wof:geomhash":"2c13649115e5cfcd2cb19f8c50950c5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74f3da22ded13fa0ab621210028e9812",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511577,
+            "region_id":85688727,
+            "venue_id":807143525
+        }
+    ],
     "wof:id":807143525,
-    "wof:lastmodified":1472629277,
+    "wof:lastmodified":1492824970,
     "wof:name":"Dale Roiger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

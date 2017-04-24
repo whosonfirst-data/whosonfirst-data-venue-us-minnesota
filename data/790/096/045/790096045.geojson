@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.154106,48.115582,-96.154106,48.115582",
     "geom:latitude":48.115582,
     "geom:longitude":-96.154106,
@@ -36,17 +37,34 @@
         "rural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m70LSbU4BSINTTKeOKGMH_48.115582_-96.154106@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593097,
-    "wof:geomhash":"3f7caee59b62cbf93853756aefb6898f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f8988ff59a3a37396a79e741b3b3989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":790096045
+        }
+    ],
     "wof:id":790096045,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492837377,
     "wof:name":"Rural Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

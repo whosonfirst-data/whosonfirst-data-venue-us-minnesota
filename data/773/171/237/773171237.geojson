@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262709,44.917098,-93.262709,44.917098",
     "geom:latitude":44.917098,
     "geom:longitude":-93.262709,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872541,
+        420781105,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420558765
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583676,
-    "wof:geomhash":"5410290cc38346aceea3aa401c914a2c",
+    "wof:geomhash":"4312f234c213dced5fe345cc7eac370d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872541,
-            "region_id":85688727,
-            "venue_id":773171237
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420558765,
+            "macrohood_id":1108799987,
+            "neighbourhood_id":420781105,
             "region_id":85688727,
             "venue_id":773171237
         }
     ],
     "wof:id":773171237,
-    "wof:lastmodified":1472629778,
+    "wof:lastmodified":1492803324,
     "wof:name":"Pumphouse Creamery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781105,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

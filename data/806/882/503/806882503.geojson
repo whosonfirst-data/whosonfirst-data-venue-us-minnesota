@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.329094,45.066885,-95.329094,45.066885",
     "geom:latitude":45.066885,
     "geom:longitude":-95.329094,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509093,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IxE7RDzHbFf9Jn4YDuaw7_45.066885_-95.329094@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601874,
-    "wof:geomhash":"80990a819d145ef5c4d2833498da8a59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db5e7543e1d6a0a91ba449ed7a53bd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509093,
+            "region_id":85688727,
+            "venue_id":806882503
+        }
+    ],
     "wof:id":806882503,
-    "wof:lastmodified":1472629916,
+    "wof:lastmodified":1492817083,
     "wof:name":"Peterson Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

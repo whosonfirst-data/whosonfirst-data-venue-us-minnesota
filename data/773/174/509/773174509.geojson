@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.757257,47.439395,-94.757257,47.439395",
     "geom:latitude":47.439395,
     "geom:longitude":-94.757257,
@@ -40,17 +41,32 @@
         "tract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509241,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GHKOhqK74XZNTdnPFwQBI_47.439395_-94.757257@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583697,
-    "wof:geomhash":"07d7a8bc5e5fd8298ccca0e77d8923bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6bddedfe781c3b920e3c482f587b120b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404509241,
+            "region_id":85688727,
+            "venue_id":773174509
+        }
+    ],
     "wof:id":773174509,
-    "wof:lastmodified":1472629823,
+    "wof:lastmodified":1492808876,
     "wof:name":"Christmas Forest Choose N Cut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

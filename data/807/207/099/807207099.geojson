@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.426636,44.788929,-95.426636,44.788929",
     "geom:latitude":44.788929,
     "geom:longitude":-95.426636,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512477,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lryCwuMZx6AFs0vfxiCr0_44.788929_-95.426636@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604869,
-    "wof:geomhash":"c21d45b29e97f94cbd7f5561bac2b46f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"005484d43cd567ad854aed3dbb432c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512477,
+            "region_id":85688727,
+            "venue_id":807207099
+        }
+    ],
     "wof:id":807207099,
-    "wof:lastmodified":1472629400,
+    "wof:lastmodified":1492825766,
     "wof:name":"Earl Nellermoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.523168,46.92578,-94.523168,46.92578",
     "geom:latitude":46.92578,
     "geom:longitude":-94.523168,
@@ -31,17 +32,34 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511647,
+        85633793,
+        85968787,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16TR1tbIxlROZljqkQ09F0_46.925780_-94.523168@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600751,
-    "wof:geomhash":"2e31abece86f0d790bab735184ef423a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d5a29bf0ec64e5339700c713b1a5186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511647,
+            "locality_id":85968787,
+            "region_id":85688727,
+            "venue_id":806748555
+        }
+    ],
     "wof:id":806748555,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492820174,
     "wof:name":"Hackensack Appliance Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.645222,45.230444,-93.645222,45.230444",
     "geom:latitude":45.230444,
     "geom:longitude":-93.645222,
@@ -31,17 +32,34 @@
         "lumber-used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510755,
+        85633793,
+        85968935,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lEuHuKiQd0uMtpegkN1DK_45.230444_-93.645222@1303262815"
     },
     "wof:country":"US",
     "wof:created":1462605633,
-    "wof:geomhash":"0ecc799a643ac64cc1548ffdab239a22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a17e465477fd9f0e5132e488fa537481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510755,
+            "locality_id":85968935,
+            "region_id":85688727,
+            "venue_id":807278633
+        }
+    ],
     "wof:id":807278633,
-    "wof:lastmodified":1472629603,
+    "wof:lastmodified":1492825433,
     "wof:name":"Lumber Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

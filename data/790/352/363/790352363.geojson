@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.508318,44.073099,-93.508318,44.073099",
     "geom:latitude":44.073099,
     "geom:longitude":-93.508318,
@@ -33,17 +34,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HAkIKQFCXRBEludr21Yf4_44.073099_-93.508318@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595155,
-    "wof:geomhash":"9588731d636c934c3e8a566dfbe80968",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98a99c97c6001fd377e9f64a21b8f9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":790352363
+        }
+    ],
     "wof:id":790352363,
-    "wof:lastmodified":1472629552,
+    "wof:lastmodified":1492837460,
     "wof:name":"John's Service Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

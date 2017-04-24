@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.615194,46.313939,-95.615194,46.313939",
     "geom:latitude":46.313939,
     "geom:longitude":-95.615194,
@@ -31,17 +32,32 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512883,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oAe9LAAovAZGVZUa828TU_46.313939_-95.615194@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591104,
-    "wof:geomhash":"0fb921f90fa9f2937ec895e8cb878980",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36abeeff26fd85476b9637b6742e1465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512883,
+            "region_id":85688727,
+            "venue_id":789859767
+        }
+    ],
     "wof:id":789859767,
-    "wof:lastmodified":1472629532,
+    "wof:lastmodified":1492813617,
     "wof:name":"Hansen Advertising",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

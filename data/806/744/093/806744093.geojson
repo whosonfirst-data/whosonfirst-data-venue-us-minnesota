@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.285666,45.09015,-93.285666,45.09015",
     "geom:latitude":45.09015,
     "geom:longitude":-93.285666,
@@ -32,17 +33,34 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bt4mb5QTwxTFi52EFO5OX_45.090150_-93.285666@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600716,
-    "wof:geomhash":"60d58a599d0732f3ffd342fc320c62da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed82c9d4c2f7f5f3122c727f13fc84b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":806744093
+        }
+    ],
     "wof:id":806744093,
-    "wof:lastmodified":1472629760,
+    "wof:lastmodified":1492818127,
     "wof:name":"Coffee Cabana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

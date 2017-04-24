@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.060083,45.138896,-95.060083,45.138896",
     "geom:latitude":45.138896,
     "geom:longitude":-95.060083,
@@ -28,17 +29,34 @@
     "sg:postcode":"56201",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c9GTbbkYWwcA7jvIfbbXd_45.138896_-95.060083@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597403,
-    "wof:geomhash":"bc599290e7e36e9d5b85a45a237dcf32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70ca88aa184d2e709c07c5dcb40bf6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":790618791
+        }
+    ],
     "wof:id":790618791,
-    "wof:lastmodified":1472629919,
+    "wof:lastmodified":1492837626,
     "wof:name":"Montana Interlink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

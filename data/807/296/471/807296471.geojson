@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.518338,45.118193,-93.518338,45.118193",
     "geom:latitude":45.118193,
     "geom:longitude":-93.518338,
@@ -37,17 +38,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7D2Jx4r65z9kIGy7yzpB5h_45.118193_-93.518338@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605817,
-    "wof:geomhash":"f6cb385466947d1b74ce0e23cf2ce878",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57bab1f2b63b129938646a621ed67de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807296471
+        }
+    ],
     "wof:id":807296471,
-    "wof:lastmodified":1472629621,
+    "wof:lastmodified":1492822197,
     "wof:name":"Peterson Real Estate Group, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

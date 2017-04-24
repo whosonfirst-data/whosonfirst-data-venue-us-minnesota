@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.839783,45.398289,-92.839783,45.398289",
     "geom:latitude":45.398289,
     "geom:longitude":-92.839783,
@@ -38,17 +39,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HKzsQCyGdbptN2I8BX5PH_45.398289_-92.839783@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605315,
-    "wof:geomhash":"26120d2491648a416cf4cd83fa797e81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"785a8fe92faccd97e69e7392d102707d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":807249037
+        }
+    ],
     "wof:id":807249037,
-    "wof:lastmodified":1472629491,
+    "wof:lastmodified":1492822282,
     "wof:name":"Hartman & Son Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

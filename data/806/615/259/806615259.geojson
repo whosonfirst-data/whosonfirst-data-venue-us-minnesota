@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.537374,47.353306,-96.537374,47.353306",
     "geom:latitude":47.353306,
     "geom:longitude":-96.537374,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512303,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P5yXjQ5X8zxkDUhopOUlI_47.353306_-96.537374@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599608,
-    "wof:geomhash":"e3fd5aee076b72766cec8e074b8e9a57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3232453ff6ddc42037ed5de62fece32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512303,
+            "region_id":85688727,
+            "venue_id":806615259
+        }
+    ],
     "wof:id":806615259,
-    "wof:lastmodified":1472629549,
+    "wof:lastmodified":1492817178,
     "wof:name":"Peter Revier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

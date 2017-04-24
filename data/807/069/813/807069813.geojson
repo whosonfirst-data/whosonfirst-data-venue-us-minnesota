@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.071367,44.890708,-94.071367,44.890708",
     "geom:latitude":44.890708,
     "geom:longitude":-94.071367,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512683,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VhUpxns2G6N9o3MWz96MB_44.890708_-94.071367@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603444,
-    "wof:geomhash":"a29c0ddfe89ad1df5ba250fc52f0dc23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a41f062d25cbfd21f5392164be48a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512683,
+            "region_id":85688727,
+            "venue_id":807069813
+        }
+    ],
     "wof:id":807069813,
-    "wof:lastmodified":1472629090,
+    "wof:lastmodified":1492825172,
     "wof:name":"Roger Feltmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

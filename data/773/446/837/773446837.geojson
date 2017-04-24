@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.059915,46.919867,-95.059915,46.919867",
     "geom:latitude":46.919867,
     "geom:longitude":-95.059915,
@@ -31,17 +32,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15agYLIDJcf7IT5NjPBEBe_46.919867_-95.059915@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585815,
-    "wof:geomhash":"318c021f75fb044ef5de3cd86d1678bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33d38293ddc92da71815da11147cd920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":773446837
+        }
+    ],
     "wof:id":773446837,
-    "wof:lastmodified":1472630063,
+    "wof:lastmodified":1492807234,
     "wof:name":"Fresh Catch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

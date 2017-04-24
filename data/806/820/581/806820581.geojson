@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.849807,46.813676,-95.849807,46.813676",
     "geom:latitude":46.813676,
     "geom:longitude":-95.849807,
@@ -32,17 +33,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IBNYJFF0RHyAF2NFHxlCJ_46.813676_-95.849807@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601349,
-    "wof:geomhash":"feef9135594055c0fe46549e39bafdb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"640605ccf6970015e156b2de0d23c58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":806820581
+        }
+    ],
     "wof:id":806820581,
-    "wof:lastmodified":1472629846,
+    "wof:lastmodified":1492821052,
     "wof:name":"Gary Harris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

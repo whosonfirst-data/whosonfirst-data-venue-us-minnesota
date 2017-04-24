@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.872937,45.380901,-92.872937,45.380901",
     "geom:latitude":45.380901,
     "geom:longitude":-92.872937,
@@ -31,17 +32,34 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j3lzs84pr2CSw4bd2ezRE_45.380901_-92.872937@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586219,
-    "wof:geomhash":"41a76653af8271d8f5b406b5257fed3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad40d586bf2466986f5022f365ed5a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773502205
+        }
+    ],
     "wof:id":773502205,
-    "wof:lastmodified":1472630073,
+    "wof:lastmodified":1492799175,
     "wof:name":"Sylvan Learning Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

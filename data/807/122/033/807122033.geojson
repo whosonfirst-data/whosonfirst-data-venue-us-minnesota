@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.969627,44.458225,-95.969627,44.458225",
     "geom:latitude":44.458225,
     "geom:longitude":-95.969627,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509735,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27ccSEkxgrtITJ1Viyk3Xo_44.458225_-95.969627@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603962,
-    "wof:geomhash":"d82879da4be0d565ed3556bc3d101c44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0faccbd1c538557de1808dfd97c5ffa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404509735,
+            "region_id":85688727,
+            "venue_id":807122033
+        }
+    ],
     "wof:id":807122033,
-    "wof:lastmodified":1472629228,
+    "wof:lastmodified":1492825210,
     "wof:name":"Brian Boehnke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

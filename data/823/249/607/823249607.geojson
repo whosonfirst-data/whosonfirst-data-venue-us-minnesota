@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.469902,46.136671,-93.469902,46.136671",
     "geom:latitude":46.136671,
     "geom:longitude":-93.469902,
@@ -42,17 +43,34 @@
         "churches-baptist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512553,
+        85633793,
+        85969103,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JYKhOADgfmXWrwNFmCXu3_46.136671_-93.469902@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609325,
-    "wof:geomhash":"68814e0849e4f9e79ad83c5179ad46dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8fa67156da4cdc20c1e3fc9fbc0822a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512553,
+            "locality_id":85969103,
+            "region_id":85688727,
+            "venue_id":823249607
+        }
+    ],
     "wof:id":823249607,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492828186,
     "wof:name":"Isle Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

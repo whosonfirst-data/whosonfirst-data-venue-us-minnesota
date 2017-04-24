@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.358724,43.977699,-92.358724,43.977699",
     "geom:latitude":43.977699,
     "geom:longitude":-92.358724,
@@ -28,17 +29,32 @@
     "sg:postcode":"55904",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512579,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M3TSKvGlPrWieSMW27QXK_43.977699_-92.358724@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596608,
-    "wof:geomhash":"6c48e1ee0767c5dc87a1e56ce47a7e95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e358e5cad38fe50eb2e5ef029a069e60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512579,
+            "region_id":85688727,
+            "venue_id":790528109
+        }
+    ],
     "wof:id":790528109,
-    "wof:lastmodified":1472629799,
+    "wof:lastmodified":1492832956,
     "wof:name":"Fred Schmidt Developer Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

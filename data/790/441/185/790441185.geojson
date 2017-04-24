@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.179771,45.983441,-94.179771,45.983441",
     "geom:latitude":45.983441,
     "geom:longitude":-94.179771,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512697,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gn2bwlK6BLe4XZqNsjZCf_45.983441_-94.179771@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595848,
-    "wof:geomhash":"8bb283684c58a26bf936e106159e3d5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ff60e21ed2d1540617915108005983b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512697,
+            "region_id":85688727,
+            "venue_id":790441185
+        }
+    ],
     "wof:id":790441185,
-    "wof:lastmodified":1472629709,
+    "wof:lastmodified":1492838053,
     "wof:name":"Burggraff Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

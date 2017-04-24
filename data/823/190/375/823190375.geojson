@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.398724,45.046365,-93.398724,45.046365",
     "geom:latitude":45.046365,
     "geom:longitude":-93.398724,
@@ -31,17 +32,34 @@
         "shuttle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AxF2fKUusbNBey5MRZ3TE_45.046365_-93.398724@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608195,
-    "wof:geomhash":"59f05b2dcd99f1b681fe317c608c5b5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a9dbbfa59510d9b2461107dc2f41208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":823190375
+        }
+    ],
     "wof:id":823190375,
-    "wof:lastmodified":1472629034,
+    "wof:lastmodified":1492830039,
     "wof:name":"All Suburbs Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

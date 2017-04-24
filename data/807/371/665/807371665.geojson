@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.270897,44.978298,-93.270897,44.978298",
     "geom:latitude":44.978298,
     "geom:longitude":-93.270897,
@@ -37,8 +38,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800095,
         85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606813,
-    "wof:geomhash":"97ccac5c98688698ac1a73f24fd31536",
+    "wof:geomhash":"d6d1e112565e17f5ea66ee67edf3db02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,15 +62,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799999,
+            "microhood_id":1108800095,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":807371665
         }
     ],
     "wof:id":807371665,
-    "wof:lastmodified":1472629851,
+    "wof:lastmodified":1492823274,
     "wof:name":"Juut Salonspa",
-    "wof:parent_id":85872619,
+    "wof:parent_id":1108800095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

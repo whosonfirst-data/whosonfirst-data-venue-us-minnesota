@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.342264,45.474235,-93.342264,45.474235",
     "geom:latitude":45.474235,
     "geom:longitude":-93.342264,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512981,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48iQuIxR5Z6f3fp1txOg0U_45.474235_-93.342264@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590752,
-    "wof:geomhash":"68912004ea32bf67595d84c01147c554",
-    "wof:hierarchy":[],
+    "wof:geomhash":"370405dede7e44bf1511b29d8e69d37a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512981,
+            "region_id":85688727,
+            "venue_id":789815091
+        }
+    ],
     "wof:id":789815091,
-    "wof:lastmodified":1472629390,
+    "wof:lastmodified":1492811717,
     "wof:name":"Midway Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

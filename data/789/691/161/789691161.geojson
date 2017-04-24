@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.811996,44.990571,-92.811996,44.990571",
     "geom:latitude":44.990571,
     "geom:longitude":-92.811996,
@@ -33,17 +34,32 @@
         "award"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510963,
+        85633793,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04WfqEli00zU6yhcDlYHyT_44.990571_-92.811996@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589786,
-    "wof:geomhash":"0429b9bd881558a6cfbaff407132147a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa15fbdfa195c554a90f01d0163920c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404510963,
+            "region_id":85688727,
+            "venue_id":789691161
+        }
+    ],
     "wof:id":789691161,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492812032,
     "wof:name":"Advanced Trophy & Awards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

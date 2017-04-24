@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.826459,46.809005,-95.826459,46.809005",
     "geom:latitude":46.809005,
     "geom:longitude":-95.826459,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Eg2lrzx6hFfF9pBc89VJL_46.809005_-95.826459@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592123,
-    "wof:geomhash":"b132b29ea2febc5f481e11a1c63cdb0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4f4b99d42e8aabae24b81c1fb5ebbd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":789974805
+        }
+    ],
     "wof:id":789974805,
-    "wof:lastmodified":1472629671,
+    "wof:lastmodified":1492809587,
     "wof:name":"Et Voila",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

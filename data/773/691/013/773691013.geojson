@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.744531,44.024291,-92.744531,44.024291",
     "geom:latitude":44.024291,
     "geom:longitude":-92.744531,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513737,
+        85633793,
+        85952827,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qmIGfZsJaFVK9hdP8NMfP_44.024291_-92.744531@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587621,
-    "wof:geomhash":"4c018662bbc3b028d34addf235b0a274",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02c8dbfdce9234a242e3c7b758609cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513737,
+            "locality_id":85952827,
+            "region_id":85688727,
+            "venue_id":773691013
+        }
+    ],
     "wof:id":773691013,
-    "wof:lastmodified":1472630128,
+    "wof:lastmodified":1492805247,
     "wof:name":"Kasson Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

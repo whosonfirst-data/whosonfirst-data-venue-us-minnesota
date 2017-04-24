@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.317452,44.972331,-94.317452,44.972331",
     "geom:latitude":44.972331,
     "geom:longitude":-94.317452,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512815,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P30fUJEoxXvwFe364eX50_44.972331_-94.317452@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585045,
-    "wof:geomhash":"88a8aa642619f495d618c0edcc5e9616",
-    "wof:hierarchy":[],
+    "wof:geomhash":"168973a994c9cddadc4e83cf1f56e0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512815,
+            "region_id":85688727,
+            "venue_id":773349807
+        }
+    ],
     "wof:id":773349807,
-    "wof:lastmodified":1472630026,
+    "wof:lastmodified":1492806100,
     "wof:name":"John Melin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

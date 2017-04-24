@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.344352,45.172064,-93.344352,45.172064",
     "geom:latitude":45.172064,
     "geom:longitude":-93.344352,
@@ -34,13 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85855319,
+        85852181,
         102191575,
-        404511281,
+        404511269,
         85633793,
-        85953401,
+        85953415,
         102087861,
-        85688727
+        85688727,
+        85855319,
+        404511281,
+        85953401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,8 +52,18 @@
     },
     "wof:country":"US",
     "wof:created":1462588152,
-    "wof:geomhash":"c77b8011437c73e38287b11fd93753f9",
+    "wof:geomhash":"6bea198784033acfd0778229b0ab2bc1",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511269,
+            "locality_id":85953415,
+            "neighbourhood_id":85852181,
+            "region_id":85688727,
+            "venue_id":773757851
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -62,9 +76,9 @@
         }
     ],
     "wof:id":773757851,
-    "wof:lastmodified":1472630154,
+    "wof:lastmodified":1492806299,
     "wof:name":"National Karate Schools",
-    "wof:parent_id":85855319,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

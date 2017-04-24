@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.68206,45.66023,-94.68206,45.66023",
     "geom:latitude":45.66023,
     "geom:longitude":-94.68206,
@@ -33,17 +34,34 @@
         "radiator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515175,
+        85633793,
+        85952463,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N1IUxfALcbxG4X2VegWYz_45.660230_-94.682060@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589784,
-    "wof:geomhash":"7d97517762828451f5e4a89c255d46fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfcb2106144d3e3fcc035d61501e2f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404515175,
+            "locality_id":85952463,
+            "region_id":85688727,
+            "venue_id":789690883
+        }
+    ],
     "wof:id":789690883,
-    "wof:lastmodified":1472629209,
+    "wof:lastmodified":1492812635,
     "wof:name":"Beutz Radiator Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.022281,43.517148,-96.022281,43.517148",
     "geom:latitude":43.517148,
     "geom:longitude":-96.022281,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510259,
+        85633793,
+        85968669,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZfctV0zfEV5b9KJRRAVUD_43.517148_-96.022281@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603011,
-    "wof:geomhash":"21d54bf68411f9bb3dc4a5461760205e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"995ae3a09751a27bfda798d5f08d667d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510259,
+            "locality_id":85968669,
+            "region_id":85688727,
+            "venue_id":807018045
+        }
+    ],
     "wof:id":807018045,
-    "wof:lastmodified":1472628947,
+    "wof:lastmodified":1492825261,
     "wof:name":"Paul Wurpts Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

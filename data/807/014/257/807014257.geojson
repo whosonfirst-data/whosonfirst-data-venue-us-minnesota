@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.212867,45.023202,-93.212867,45.023202",
     "geom:latitude":45.023202,
     "geom:longitude":-93.212867,
@@ -31,17 +32,34 @@
         "logistics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509463,
+        85633793,
+        85953217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cwYRW0UxML25jJtjcz6V6_45.023202_-93.212867@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602981,
-    "wof:geomhash":"3d47cc18e74a80cad771ccadaf892bf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0475ad9fdec327265ad478b798507bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509463,
+            "locality_id":85953217,
+            "region_id":85688727,
+            "venue_id":807014257
+        }
+    ],
     "wof:id":807014257,
-    "wof:lastmodified":1472628944,
+    "wof:lastmodified":1492823433,
     "wof:name":"Generation 3 Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

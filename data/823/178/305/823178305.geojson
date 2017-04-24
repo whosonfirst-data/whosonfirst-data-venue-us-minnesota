@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.309898,44.883455,-93.309898,44.883455",
     "geom:latitude":44.883455,
     "geom:longitude":-93.309898,
@@ -38,17 +39,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RRWBayTpSiKAM8PzVv416_44.883455_-93.309898@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608042,
-    "wof:geomhash":"c567449e1181daa86ca3dcff83caeeec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28a042d13ef5b88f495b37fe21a78893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823178305
+        }
+    ],
     "wof:id":823178305,
-    "wof:lastmodified":1472629005,
+    "wof:lastmodified":1492829008,
     "wof:name":"Senior Abilities Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

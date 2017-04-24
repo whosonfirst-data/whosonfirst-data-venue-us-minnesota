@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.615069,47.19105,-93.615069,47.19105",
     "geom:latitude":47.19105,
     "geom:longitude":-93.615069,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462594842,
-    "wof:geomhash":"4af2d55d7381f8e786d8f23dfcc7b2c4",
+    "wof:geomhash":"67f812a1bb3a3314f81ef17ee893cd0f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":790309373,
-    "wof:lastmodified":1472629489,
+    "wof:lastmodified":1492833895,
     "wof:name":"F22",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

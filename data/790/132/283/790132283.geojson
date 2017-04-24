@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.320862,45.905626,-95.320862,45.905626",
     "geom:latitude":45.905626,
     "geom:longitude":-95.320862,
@@ -32,17 +33,32 @@
         "developmentally"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513753,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JlOkMwATqazb2t9MD20Ok_45.905626_-95.320862@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593375,
-    "wof:geomhash":"023c38a069981d842d35677e6851b3de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ad83f448559dfbc16e03a0122724287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513753,
+            "region_id":85688727,
+            "venue_id":790132283
+        }
+    ],
     "wof:id":790132283,
-    "wof:lastmodified":1472629181,
+    "wof:lastmodified":1492837207,
     "wof:name":"Prairie Community Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

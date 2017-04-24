@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.338297,44.766875,-93.338297,44.766875",
     "geom:latitude":44.766875,
     "geom:longitude":-93.338297,
@@ -28,17 +29,34 @@
     "sg:postcode":"55378",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s8jCqL0rn0AZ4zGag7bpP_44.766875_-93.338297@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586433,
-    "wof:geomhash":"4967ced8b0e97eddcdcc774b09bd1796",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46fc7fe904af3e8288c7b1eedbe59971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":773532785
+        }
+    ],
     "wof:id":773532785,
-    "wof:lastmodified":1472630084,
+    "wof:lastmodified":1492805041,
     "wof:name":"Minneapolis Yardsale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

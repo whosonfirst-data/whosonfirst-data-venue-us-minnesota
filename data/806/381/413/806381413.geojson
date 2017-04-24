@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.579914,47.39391,-92.579914,47.39391",
     "geom:latitude":47.39391,
     "geom:longitude":-92.579914,
@@ -32,17 +33,26 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FEtHhIujkPxZXt0VjtTfk_47.393910_-92.579914@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597683,
-    "wof:geomhash":"1ce32e9b78dabc5e37083c3b62f0c478",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bda147e734cfa757e737caef68121c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806381413
+        }
+    ],
     "wof:id":806381413,
-    "wof:lastmodified":1472629001,
+    "wof:lastmodified":1492821745,
     "wof:name":"Tiny Tots",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

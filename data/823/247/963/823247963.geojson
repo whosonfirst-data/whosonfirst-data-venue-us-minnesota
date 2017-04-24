@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.376054,45.884637,-95.376054,45.884637",
     "geom:latitude":45.884637,
     "geom:longitude":-95.376054,
@@ -51,17 +52,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Rj64D4uN3xH9QmT8D76Ws_45.884637_-95.376054@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609294,
-    "wof:geomhash":"02c4bd34462edf3ba947b3833d8ad0b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a2ae63097f43ed5c0a582bf2d64cba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":823247963
+        }
+    ],
     "wof:id":823247963,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492829634,
     "wof:name":"Woodbury Financial Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

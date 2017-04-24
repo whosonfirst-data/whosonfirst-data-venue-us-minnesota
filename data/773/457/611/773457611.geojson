@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.100427,46.819406,-92.100427,46.819406",
     "geom:latitude":46.819406,
     "geom:longitude":-92.100427,
@@ -41,7 +42,8 @@
         85633793,
         85968517,
         102087653,
-        85688727
+        85688727,
+        85858687
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585895,
-    "wof:geomhash":"c3973f5919adadcab1c640090891caa9",
+    "wof:geomhash":"8e4cb5b9799cbf7b662fdceebd27ede8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,22 @@
             "neighbourhood_id":85815383,
             "region_id":85688727,
             "venue_id":773457611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513247,
+            "locality_id":85968517,
+            "neighbourhood_id":85858687,
+            "region_id":85688727,
+            "venue_id":773457611
         }
     ],
     "wof:id":773457611,
-    "wof:lastmodified":1472630057,
+    "wof:lastmodified":1492801022,
     "wof:name":"College Saint Scholastica 479",
-    "wof:parent_id":85815383,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

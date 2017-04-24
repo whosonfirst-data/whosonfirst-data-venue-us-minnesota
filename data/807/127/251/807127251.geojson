@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.253734,44.952973,-93.253734,44.952973",
     "geom:latitude":44.952973,
     "geom:longitude":-93.253734,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559175,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872701
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604022,
-    "wof:geomhash":"83de54f0de69d6fea8b037d36f2bf181",
+    "wof:geomhash":"4a96507f5562afa9ebd9b24ed7c65003",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559175,
-            "region_id":85688727,
-            "venue_id":807127251
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872701,
+            "macrohood_id":1108799995,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":807127251
         }
     ],
     "wof:id":807127251,
-    "wof:lastmodified":1472629243,
+    "wof:lastmodified":1492826665,
     "wof:name":"Saint Paul's E L C A",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

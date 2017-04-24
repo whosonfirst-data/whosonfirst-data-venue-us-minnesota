@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.328921,45.057158,-94.328921,45.057158",
     "geom:latitude":45.057158,
     "geom:longitude":-94.328921,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512381,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07QSbaxp4Cdtv6mIN1nHyr_45.057158_-94.328921@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593799,
-    "wof:geomhash":"89f4cc251444f05befe216e18439abfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aebef448e506609c39af963ecbfadee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512381,
+            "region_id":85688727,
+            "venue_id":790182847
+        }
+    ],
     "wof:id":790182847,
-    "wof:lastmodified":1472629254,
+    "wof:lastmodified":1492832468,
     "wof:name":"Latt Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.127922,43.560196,-94.127922,43.560196",
     "geom:latitude":43.560196,
     "geom:longitude":-94.127922,
@@ -31,17 +32,32 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509613,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gteNNy7RXmTrYHakUcwjl_43.560196_-94.127922@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596114,
-    "wof:geomhash":"c5d4a625a98ca799951fb0c6aa88f267",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e9dc91f86ad8177e2f09e9cbc342e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509613,
+            "region_id":85688727,
+            "venue_id":790472269
+        }
+    ],
     "wof:id":790472269,
-    "wof:lastmodified":1472629754,
+    "wof:lastmodified":1492833636,
     "wof:name":"Marlin Krupp Auctioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.447513,48.648393,-97.447513,48.648393",
     "geom:latitude":48.648393,
     "geom:longitude":-97.447513,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404481475,
+        85633793,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ypCkiC0pfa1yzVWVnp2QJ_48.648393_-97.447513@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591237,
-    "wof:geomhash":"9b3ede74b424b6435c858e2ec5646db8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dfb166dc85dcae3c2543d18b350feec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481475,
+            "region_id":85688525,
+            "venue_id":789875719
+        }
+    ],
     "wof:id":789875719,
-    "wof:lastmodified":1472629565,
+    "wof:lastmodified":1492810731,
     "wof:name":"Grandy Travel & Cruise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

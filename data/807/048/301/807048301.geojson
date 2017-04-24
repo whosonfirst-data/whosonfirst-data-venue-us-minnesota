@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.317391,44.883631,-93.317391,44.883631",
     "geom:latitude":44.883631,
     "geom:longitude":-93.317391,
@@ -33,17 +34,34 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CMyy2X2uLpBeXTvHvATxq_44.883631_-93.317391@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603275,
-    "wof:geomhash":"b92d5a808797540910bde5c2889af60c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cba46a0d12a4010d722650d6ad37d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":807048301
+        }
+    ],
     "wof:id":807048301,
-    "wof:lastmodified":1472629035,
+    "wof:lastmodified":1492826921,
     "wof:name":"Game Crazy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

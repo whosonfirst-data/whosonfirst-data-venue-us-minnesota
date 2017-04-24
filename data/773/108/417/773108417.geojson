@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.771931,45.355571,-93.771931,45.355571",
     "geom:latitude":45.355571,
     "geom:longitude":-93.771931,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515099,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A3kZ7xky2ny24gVyte6PT_45.355571_-93.771931@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583211,
-    "wof:geomhash":"ae725c2d5aa5a770932a74b682b3883e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d05cd04fcaa2e99ea88d1fe6e5f9be0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515099,
+            "region_id":85688727,
+            "venue_id":773108417
+        }
+    ],
     "wof:id":773108417,
-    "wof:lastmodified":1472629598,
+    "wof:lastmodified":1492802222,
     "wof:name":"Champion Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

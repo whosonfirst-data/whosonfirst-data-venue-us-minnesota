@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.624761,44.764303,-93.624761,44.764303",
     "geom:latitude":44.764303,
     "geom:longitude":-93.624761,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509357,
+        85633793,
+        85953001,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Z0gSFcGvF67vAfzMA84MF_44.764303_-93.624761@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594434,
-    "wof:geomhash":"53a41f85f659dec323b336ac998620a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c13f41630d3948506bcac956ccd91a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404509357,
+            "locality_id":85953001,
+            "region_id":85688727,
+            "venue_id":790261827
+        }
+    ],
     "wof:id":790261827,
-    "wof:lastmodified":1472629409,
+    "wof:lastmodified":1492834632,
     "wof:name":"Walkabout Freight Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

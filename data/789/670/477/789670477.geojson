@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.482962,45.081633,-93.482962,45.081633",
     "geom:latitude":45.081633,
     "geom:longitude":-93.482962,
@@ -31,17 +32,34 @@
         "stone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HndquNiK60T6414XXV9Dk_45.081633_-93.482962@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589630,
-    "wof:geomhash":"e04924af1993bf60bdf8370a6185c9af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c795146942da853de580bbb962f1f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789670477
+        }
+    ],
     "wof:id":789670477,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492813496,
     "wof:name":"Stone Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

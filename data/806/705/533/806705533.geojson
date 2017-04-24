@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.17452,44.919834,-93.17452,44.919834",
     "geom:latitude":44.919834,
     "geom:longitude":-93.17452,
@@ -32,19 +33,38 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_331zDzPAgpDFzM6OU0BVFl_44.919834_-93.174520@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600384,
-    "wof:geomhash":"88ad5b7b14c731b2884529f6f805e9fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea4b2c6a818d9849684443f8c3b26140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806705533
+        }
+    ],
     "wof:id":806705533,
-    "wof:lastmodified":1472629721,
+    "wof:lastmodified":1492814404,
     "wof:name":"S N J Engineering",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

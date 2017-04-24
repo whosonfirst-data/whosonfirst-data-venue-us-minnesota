@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.770687,46.68731,-95.770687,46.68731",
     "geom:latitude":46.68731,
     "geom:longitude":-95.770687,
@@ -31,17 +32,32 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512889,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZwuOhXA0vpufupunWSTPS_46.687310_-95.770687@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588346,
-    "wof:geomhash":"1ca8fac3f989b6919db71fd2e94a46ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ab52065cb7d6bf4e55964b689f39817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512889,
+            "region_id":85688727,
+            "venue_id":773783843
+        }
+    ],
     "wof:id":773783843,
-    "wof:lastmodified":1472630159,
+    "wof:lastmodified":1492806703,
     "wof:name":"Association of Growers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

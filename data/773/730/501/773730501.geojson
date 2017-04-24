@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.465652,45.20707,-94.465652,45.20707",
     "geom:latitude":45.20707,
     "geom:longitude":-94.465652,
@@ -33,17 +34,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512395,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eeooFwZbg60yBI0YfVClk_45.207070_-94.465652@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587951,
-    "wof:geomhash":"a7b800fefebd23666db51af8697b91cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5d731190a6c6e0878496c20bf8ff8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512395,
+            "region_id":85688727,
+            "venue_id":773730501
+        }
+    ],
     "wof:id":773730501,
-    "wof:lastmodified":1472630143,
+    "wof:lastmodified":1492801998,
     "wof:name":"Riverside Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

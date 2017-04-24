@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.752335,45.352003,-92.752335,45.352003",
     "geom:latitude":45.352003,
     "geom:longitude":-92.752335,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511113,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xeC0HzrZkZInqFMPtRSjV_45.352003_-92.752335@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604433,
-    "wof:geomhash":"8f0a090b67487799950fc0fc5a22dac3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7568140273d9a7d4d4796d951188478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511113,
+            "region_id":85688727,
+            "venue_id":807165613
+        }
+    ],
     "wof:id":807165613,
-    "wof:lastmodified":1472629313,
+    "wof:lastmodified":1492824221,
     "wof:name":"Greene Verner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

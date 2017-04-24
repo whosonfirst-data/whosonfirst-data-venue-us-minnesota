@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.553756,45.313713,-93.553756,45.313713",
     "geom:latitude":45.313713,
     "geom:longitude":-93.553756,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515103,
+        85633793,
+        85968825,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06sSe9uxF932ZnruQmJW9u_45.313713_-93.553756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582710,
-    "wof:geomhash":"4d428f6f88f92bf56309f74a3eda7df2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25331353177f64fa7a816bb9fc250bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515103,
+            "locality_id":85968825,
+            "region_id":85688727,
+            "venue_id":773046095
+        }
+    ],
     "wof:id":773046095,
-    "wof:lastmodified":1472629349,
+    "wof:lastmodified":1492800613,
     "wof:name":"Kevin Sorby Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

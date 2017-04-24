@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.465161,45.00981,-93.465161,45.00981",
     "geom:latitude":45.00981,
     "geom:longitude":-93.465161,
@@ -46,17 +47,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3obCvRWSTLcyLtys50f2o8_45.009810_-93.465161@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608634,
-    "wof:geomhash":"3e8ee4bf78da4468244377861e59cc0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8258d4300cf2f9fd88163c0b1870d73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823215529
+        }
+    ],
     "wof:id":823215529,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492830657,
     "wof:name":"Ric-Wic Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

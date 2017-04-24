@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.409774,45.770112,-93.409774,45.770112",
     "geom:latitude":45.770112,
     "geom:longitude":-93.409774,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513773,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pceCfKWKcvvzVUJYC1iJA_45.770112_-93.409774@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603886,
-    "wof:geomhash":"d8ced83a8bcd08ca53e3bd4745e6bebc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5448c8b72af1e6fbd5de994522d295eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513773,
+            "region_id":85688727,
+            "venue_id":807114737
+        }
+    ],
     "wof:id":807114737,
-    "wof:lastmodified":1472629234,
+    "wof:lastmodified":1492827341,
     "wof:name":"Nielsen Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

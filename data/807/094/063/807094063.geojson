@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.700502,46.727706,-95.700502,46.727706",
     "geom:latitude":46.727706,
     "geom:longitude":-95.700502,
@@ -32,17 +33,34 @@
         "grocers-specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511151,
+        85633793,
+        85952683,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DuHkQnBllC1PRAoEfbAco_46.727625_-95.700530@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603654,
-    "wof:geomhash":"6511efc7dd9cf1bd1c04aea77af81ad3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efe937ae809201ce536a517059e01102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511151,
+            "locality_id":85952683,
+            "region_id":85688727,
+            "venue_id":807094063
+        }
+    ],
     "wof:id":807094063,
-    "wof:lastmodified":1472629168,
+    "wof:lastmodified":1492822772,
     "wof:name":"Larson's Jack & Jill Food Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

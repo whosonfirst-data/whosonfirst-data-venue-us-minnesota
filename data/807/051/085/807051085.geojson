@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.04609,45.577967,-96.04609,45.577967",
     "geom:latitude":45.577967,
     "geom:longitude":-96.04609,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514611,
+        85633793,
+        85953259,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UeS4oeYxJTgoC3xAcqC5g_45.577967_-96.046090@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603296,
-    "wof:geomhash":"aee10292a577583a6bab8ca698744624",
-    "wof:hierarchy":[],
+    "wof:geomhash":"866143582fb6c30f9afc1775ebb16e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514611,
+            "locality_id":85953259,
+            "region_id":85688727,
+            "venue_id":807051085
+        }
+    ],
     "wof:id":807051085,
-    "wof:lastmodified":1472629027,
+    "wof:lastmodified":1492827741,
     "wof:name":"Genereux Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

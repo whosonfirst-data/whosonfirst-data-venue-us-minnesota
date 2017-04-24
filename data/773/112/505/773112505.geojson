@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.362942,45.143447,-93.362942,45.143447",
     "geom:latitude":45.143447,
     "geom:longitude":-93.362942,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1M5rzaXpl4B7R01lyBeasF_45.143447_-93.362942@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583237,
-    "wof:geomhash":"6ec3f8e6e86334f80a848ee9d0a62296",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd5dc324566ec7d82ebba99ed5dfe9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773112505
+        }
+    ],
     "wof:id":773112505,
-    "wof:lastmodified":1472629615,
+    "wof:lastmodified":1492803422,
     "wof:name":"Roofmax Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

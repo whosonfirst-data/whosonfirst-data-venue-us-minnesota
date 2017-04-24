@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.159396,45.524352,-94.159396,45.524352",
     "geom:latitude":45.524352,
     "geom:longitude":-94.159396,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X4IKmWmsAtYw6TVTEW6BS_45.524352_-94.159396@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586585,
-    "wof:geomhash":"4c6532c6e281461fc74ac571029dad71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72382e19f861752a3c15621eb36e5b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773552545
+        }
+    ],
     "wof:id":773552545,
-    "wof:lastmodified":1472630092,
+    "wof:lastmodified":1492805131,
     "wof:name":"Stop N Go",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

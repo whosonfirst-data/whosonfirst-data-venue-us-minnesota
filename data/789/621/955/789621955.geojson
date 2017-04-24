@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.333715,44.915909,-94.333715,44.915909",
     "geom:latitude":44.915909,
     "geom:longitude":-94.333715,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512815,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Z8dL2TTwCZndQBPwphsOu_44.915909_-94.333715@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589232,
-    "wof:geomhash":"cd929f1ea75ad96706a0c8acd7d3396f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d70784d0ff8293b9ac38d2202665dda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512815,
+            "region_id":85688727,
+            "venue_id":789621955
+        }
+    ],
     "wof:id":789621955,
-    "wof:lastmodified":1472629059,
+    "wof:lastmodified":1492812658,
     "wof:name":"Fiddle Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

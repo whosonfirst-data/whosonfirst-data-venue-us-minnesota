@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.511503,46.155755,-95.511503,46.155755",
     "geom:latitude":46.155755,
     "geom:longitude":-95.511503,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512747,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MTW70OvKvOL4ERd5I1JGa_46.155755_-95.511503@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604204,
-    "wof:geomhash":"e40ba1d8f6f97acc60572007a934cc2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30988f83931641bbd7213d7044895a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512747,
+            "region_id":85688727,
+            "venue_id":807144135
+        }
+    ],
     "wof:id":807144135,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492827082,
     "wof:name":"Otto Bernal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.428808,45.042415,-93.428808,45.042415",
     "geom:latitude":45.042415,
     "geom:longitude":-93.428808,
@@ -32,17 +33,34 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gb7M8GrgeU3wS47p2ZW9e_45.042415_-93.428808@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608563,
-    "wof:geomhash":"2c469d1d0b13836d9628f872fe66357a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55edc24ccf56f346cd0c892cd0b6f1f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823211665
+        }
+    ],
     "wof:id":823211665,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492828215,
     "wof:name":"Travel Options",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

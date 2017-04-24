@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.076839,44.612829,-94.076839,44.612829",
     "geom:latitude":44.612829,
     "geom:longitude":-94.076839,
@@ -31,17 +32,34 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510477,
+        85633793,
+        85953329,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IHkhwQcMsGu0nulOzd9yK_44.612829_-94.076839@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598765,
-    "wof:geomhash":"0095e19e8143fd11ddc4b9be73809d61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95ffcd50be4e6268f9e99f0d748d916b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510477,
+            "locality_id":85953329,
+            "region_id":85688727,
+            "venue_id":806516601
+        }
+    ],
     "wof:id":806516601,
-    "wof:lastmodified":1472629351,
+    "wof:lastmodified":1492819297,
     "wof:name":"Sibley County DAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

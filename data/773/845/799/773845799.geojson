@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.718282,43.873354,-92.718282,43.873354",
     "geom:latitude":43.873354,
     "geom:longitude":-92.718282,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513745,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4K3pfHnlo3WYTZ1jv6EjWt_43.873354_-92.718282@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588865,
-    "wof:geomhash":"cc51465a5414f8ca7fe696cad12edba8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"591f3712f9db53031f841466be305e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513745,
+            "region_id":85688727,
+            "venue_id":773845799
+        }
+    ],
     "wof:id":773845799,
-    "wof:lastmodified":1472630172,
+    "wof:lastmodified":1492799132,
     "wof:name":"AG-Com Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

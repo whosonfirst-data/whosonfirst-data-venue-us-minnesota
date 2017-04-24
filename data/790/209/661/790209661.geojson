@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.060074,43.871667,-93.060074,43.871667",
     "geom:latitude":43.871667,
     "geom:longitude":-93.060074,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510809,
+        85633793,
+        85952847,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LkMezmXq3zN9WLcsxMKG3_43.871667_-93.060074@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594025,
-    "wof:geomhash":"60b45571ad9a15a919c349009430f98c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cd1eea9108ebb735a4a4aa9b2ef45a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510809,
+            "locality_id":85952847,
+            "region_id":85688727,
+            "venue_id":790209661
+        }
+    ],
     "wof:id":790209661,
-    "wof:lastmodified":1472629310,
+    "wof:lastmodified":1492834196,
     "wof:name":"Heather Haus Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

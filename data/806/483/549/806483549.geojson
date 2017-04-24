@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.525211,45.13335,-94.525211,45.13335",
     "geom:latitude":45.13335,
     "geom:longitude":-94.525211,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FB3vAS85mFI8Z0wzlCq2H_45.133350_-94.525211@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598495,
-    "wof:geomhash":"88330482a34ef55fe687443d8a8cee4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15b9a9ab76e3c247b51838178a9bcafa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":806483549
+        }
+    ],
     "wof:id":806483549,
-    "wof:lastmodified":1472629290,
+    "wof:lastmodified":1492820562,
     "wof:name":"Stanley Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

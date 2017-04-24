@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.379545,45.845589,-95.379545,45.845589",
     "geom:latitude":45.845589,
     "geom:longitude":-95.379545,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SXgs59S19GI2sAn3tljwC_45.845589_-95.379545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601780,
-    "wof:geomhash":"67c04a5e7fe04d9938837cd2c77a5d1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e45fccf8cb2d9722207c130afe111e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":806871209
+        }
+    ],
     "wof:id":806871209,
-    "wof:lastmodified":1472629906,
+    "wof:lastmodified":1492817070,
     "wof:name":"American Linen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

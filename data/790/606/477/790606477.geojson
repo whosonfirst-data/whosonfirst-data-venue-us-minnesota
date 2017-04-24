@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.845011,45.389757,-92.845011,45.389757",
     "geom:latitude":45.389757,
     "geom:longitude":-92.845011,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cAClN4cpm3OWKvEo8fMH1_45.389757_-92.845011@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597275,
-    "wof:geomhash":"53743df93a35c8ec3f96f13e9452354a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"984b434e494e70920c9df684097eb973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":790606477
+        }
+    ],
     "wof:id":790606477,
-    "wof:lastmodified":1472629906,
+    "wof:lastmodified":1492834255,
     "wof:name":"Peterson Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

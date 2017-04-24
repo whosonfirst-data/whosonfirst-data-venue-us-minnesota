@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.608797,47.672727,-90.608797,47.672727",
     "geom:latitude":47.672727,
     "geom:longitude":-90.608797,
@@ -33,17 +34,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509495,
+        85633793,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RsTJfZHrfAA6q6YyGY397_47.672727_-90.608797@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608782,
-    "wof:geomhash":"9ba1d070db7fe2c62d87a2f8fa09a60b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a94f21bdee2abe1dca071d7da43cf6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404509495,
+            "region_id":85688727,
+            "venue_id":823222659
+        }
+    ],
     "wof:id":823222659,
-    "wof:lastmodified":1472629112,
+    "wof:lastmodified":1492830431,
     "wof:name":"Cascade Lodge & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

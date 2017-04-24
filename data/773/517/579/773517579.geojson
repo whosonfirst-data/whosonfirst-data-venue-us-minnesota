@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.105127,45.984424,-94.105127,45.984424",
     "geom:latitude":45.984424,
     "geom:longitude":-94.105127,
@@ -31,17 +32,34 @@
         "sanitation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510041,
+        85633793,
+        85968725,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W0BV1bdy83RWm7JmgLNIJ_45.984424_-94.105127@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586328,
-    "wof:geomhash":"0fb2fd217445463c0f6fc6da3aff3dd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a55d89c63108a70e82c39ad7efe38137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510041,
+            "locality_id":85968725,
+            "region_id":85688727,
+            "venue_id":773517579
+        }
+    ],
     "wof:id":773517579,
-    "wof:lastmodified":1472630079,
+    "wof:lastmodified":1492806155,
     "wof:name":"Pierz Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

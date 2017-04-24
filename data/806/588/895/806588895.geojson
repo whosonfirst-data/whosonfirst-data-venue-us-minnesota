@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.599653,43.631085,-95.599653,43.631085",
     "geom:latitude":43.631085,
     "geom:longitude":-95.599653,
@@ -32,17 +33,34 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TLNTjfrE3SAcuEVWaLMF7_43.631085_-95.599653@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599391,
-    "wof:geomhash":"f1047e28082e83bf4ca94a9a9b3082d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd4334f8d9c5e47a2a6733d0edd1b29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":806588895
+        }
+    ],
     "wof:id":806588895,
-    "wof:lastmodified":1472629517,
+    "wof:lastmodified":1492820573,
     "wof:name":"Hammer Communications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

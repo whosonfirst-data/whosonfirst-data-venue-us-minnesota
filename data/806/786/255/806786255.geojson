@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.026777,44.950511,-93.026777,44.950511",
     "geom:latitude":44.950511,
     "geom:longitude":-93.026777,
@@ -34,19 +35,40 @@
     ],
     "sg:website":"www.emmamusic.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YVJOPcF00cAaRuKgVI5Ag_44.950511_-93.026777@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601070,
-    "wof:geomhash":"469bd9c007e8a964e91f8427b0d3c551",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b12b0d61a4a3bae43927c8bd64c3bb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":806786255
+        }
+    ],
     "wof:id":806786255,
-    "wof:lastmodified":1472629824,
+    "wof:lastmodified":1492814871,
     "wof:name":"East Metro Music Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

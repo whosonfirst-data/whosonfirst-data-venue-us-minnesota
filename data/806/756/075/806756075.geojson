@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.38156,45.013946,-93.38156,45.013946",
     "geom:latitude":45.013946,
     "geom:longitude":-93.38156,
@@ -31,17 +32,34 @@
         "sales"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T5Zppct7xcxzQTNZtmgD8_45.013946_-93.381560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600813,
-    "wof:geomhash":"704aff5eda1ff788f6fe2c8ce6ca95e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6551d43204c9d376327398a882d4905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":806756075
+        }
+    ],
     "wof:id":806756075,
-    "wof:lastmodified":1472629784,
+    "wof:lastmodified":1492819593,
     "wof:name":"Mid Metro Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.266071,45.904444,-93.266071,45.904444",
     "geom:latitude":45.904444,
     "geom:longitude":-93.266071,
@@ -31,17 +32,59 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513625,
+        85633793,
+        102087687,
+        404513777,
+        404509861,
+        404513621
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3plpPGpirFhxvkDXjckorL_45.904444_-93.266071@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602225,
-    "wof:geomhash":"a4aa1757caf9c6388fb4431fc0e4a2d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eb677b888d02f8fc962a33df03f7473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513625,
+            "region_id":85688727,
+            "venue_id":806923999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513777,
+            "region_id":85688727,
+            "venue_id":806923999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404509861,
+            "region_id":85688727,
+            "venue_id":806923999
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513621,
+            "region_id":85688727,
+            "venue_id":806923999
+        }
+    ],
     "wof:id":806923999,
-    "wof:lastmodified":1472629940,
+    "wof:lastmodified":1492820767,
     "wof:name":"Drs Grge Mrion Wlton Fundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

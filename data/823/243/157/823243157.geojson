@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.706841,43.75882,-94.706841,43.75882",
     "geom:latitude":43.75882,
     "geom:longitude":-94.706841,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512255,
+        85633793,
+        85953049,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08nwtJd0SwAblBWsfvpEjI_43.758820_-94.706841@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609205,
-    "wof:geomhash":"542ebf9649db6b85f4793dfd07da7c5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2f099afa99cac06432212b7ddc09eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512255,
+            "locality_id":85953049,
+            "region_id":85688727,
+            "venue_id":823243157
+        }
+    ],
     "wof:id":823243157,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492829327,
     "wof:name":"Amberfield Place Apartments Of Trimont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

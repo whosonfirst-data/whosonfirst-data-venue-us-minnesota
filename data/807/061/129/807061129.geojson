@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.183351,48.69674,-96.183351,48.69674",
     "geom:latitude":48.69674,
     "geom:longitude":-96.183351,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512917,
+        85633793,
+        85953423,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6seK7Pob9pK6YQ2pTKDy1i_48.696740_-96.183351@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603379,
-    "wof:geomhash":"f67e22b7656bf5d510af3f4de3b5740b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b21dd59c668576cbbb22a65170da4a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512917,
+            "locality_id":85953423,
+            "region_id":85688727,
+            "venue_id":807061129
+        }
+    ],
     "wof:id":807061129,
-    "wof:lastmodified":1472629065,
+    "wof:lastmodified":1492822141,
     "wof:name":"Blessed Sacrament Rectory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

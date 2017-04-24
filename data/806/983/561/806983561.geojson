@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.852449,46.820355,-95.852449,46.820355",
     "geom:latitude":46.820355,
     "geom:longitude":-95.852449,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qnld0X6WAZiDYK9GGYxWL_46.820355_-95.852449@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602725,
-    "wof:geomhash":"03ad91c01e59b7e55c78d403a0bda65b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1a3385ff6a264f5a2693c4fe60b9cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":806983561
+        }
+    ],
     "wof:id":806983561,
-    "wof:lastmodified":1472629981,
+    "wof:lastmodified":1492814257,
     "wof:name":"Mount Olive Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

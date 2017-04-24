@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.321359,44.871423,-93.321359,44.871423",
     "geom:latitude":44.871423,
     "geom:longitude":-93.321359,
@@ -32,17 +33,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jn5kVDNCOG5NqJnvw22qZ_44.871423_-93.321359@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597334,
-    "wof:geomhash":"a66beea35d2e5e95d775b1f60c610425",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e0edf6c5497bcc050d2db84af82be3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":790613067
+        }
+    ],
     "wof:id":790613067,
-    "wof:lastmodified":1472629907,
+    "wof:lastmodified":1492832902,
     "wof:name":"Bob Zylka Sales Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

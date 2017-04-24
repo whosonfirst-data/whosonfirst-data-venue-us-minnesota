@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.652518,45.325511,-95.652518,45.325511",
     "geom:latitude":45.325511,
     "geom:longitude":-95.652518,
@@ -32,17 +33,32 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514681,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TIOPXATLDTyZqWhlosjRt_45.325511_-95.652518@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589725,
-    "wof:geomhash":"dee2b01705441d95f99734ded58876ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e806288811645eee4ba9ce028f59bdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514681,
+            "region_id":85688727,
+            "venue_id":789683187
+        }
+    ],
     "wof:id":789683187,
-    "wof:lastmodified":1472629179,
+    "wof:lastmodified":1492809658,
     "wof:name":"Pionner Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

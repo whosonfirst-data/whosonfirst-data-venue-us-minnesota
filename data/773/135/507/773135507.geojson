@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.39485,44.940844,-93.39485,44.940844",
     "geom:latitude":44.940844,
     "geom:longitude":-93.39485,
@@ -28,17 +29,34 @@
     "sg:postcode":"55426",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20RC8aGpocSZo6nxNlwiZD_44.940844_-93.394850@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583405,
-    "wof:geomhash":"cdca367a8a90da40b64b425f1aaea939",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09d0df3aff645648145d99009b1e93ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":773135507
+        }
+    ],
     "wof:id":773135507,
-    "wof:lastmodified":1472629689,
+    "wof:lastmodified":1492801770,
     "wof:name":"Jon Orton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

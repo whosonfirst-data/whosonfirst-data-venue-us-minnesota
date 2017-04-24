@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.801473,44.445166,-95.801473,44.445166",
     "geom:latitude":44.445166,
     "geom:longitude":-95.801473,
@@ -36,17 +37,34 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UDUvV9qw0u15USZPXtVOE_44.445166_-95.801473@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599392,
-    "wof:geomhash":"7952ccfcba366cc490047dbed41ca846",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaa3c6b28dd0e2894b94c1476c5f3391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":806589007
+        }
+    ],
     "wof:id":806589007,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492819562,
     "wof:name":"Federated Insurance Companies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

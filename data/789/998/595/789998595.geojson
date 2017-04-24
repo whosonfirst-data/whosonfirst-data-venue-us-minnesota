@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.12619,44.986103,-93.12619,44.986103",
     "geom:latitude":44.986103,
     "geom:longitude":-93.12619,
@@ -35,11 +36,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        420525031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,23 +49,33 @@
     },
     "wof:country":"US",
     "wof:created":1462592319,
-    "wof:geomhash":"9cf5f1bb73ee142faef12aeef1a1f6fb",
+    "wof:geomhash":"bd1fc1f2955a9c202ecb462fc4c6308c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":789998595
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":420525031,
             "region_id":85688727,
             "venue_id":789998595
         }
     ],
     "wof:id":789998595,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492813632,
     "wof:name":"Ace Vacuum Center Inc",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

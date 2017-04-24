@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.114101,46.600641,-96.114101,46.600641",
     "geom:latitude":46.600641,
     "geom:longitude":-96.114101,
@@ -32,17 +33,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513039,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wAAbs1X2BF4IOiiRRa0u2_46.600641_-96.114101@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601244,
-    "wof:geomhash":"c9bc88df1768457900a859d18c62a030",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c38d8523416c8dd27a8d25ad7d1d86e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513039,
+            "region_id":85688727,
+            "venue_id":806807335
+        }
+    ],
     "wof:id":806807335,
-    "wof:lastmodified":1472629832,
+    "wof:lastmodified":1492817868,
     "wof:name":"Pelican Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

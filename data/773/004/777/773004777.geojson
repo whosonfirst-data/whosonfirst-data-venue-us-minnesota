@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.228645,48.807195,-96.228645,48.807195",
     "geom:latitude":48.807195,
     "geom:longitude":-96.228645,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510649,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bicajCOgaQVspbEHQKabe_48.807195_-96.228645@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582213,
-    "wof:geomhash":"e06386329325819c5cbf534bb1958a78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec369ce9d05127a6f16f352666fb626e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404510649,
+            "region_id":85688727,
+            "venue_id":773004777
+        }
+    ],
     "wof:id":773004777,
-    "wof:lastmodified":1472629046,
+    "wof:lastmodified":1492807446,
     "wof:name":"Robert Novacek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

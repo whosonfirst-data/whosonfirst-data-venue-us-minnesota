@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.16456,48.12396,-96.16456,48.12396",
     "geom:latitude":48.12396,
     "geom:longitude":-96.16456,
@@ -32,17 +33,34 @@
         "administrative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CyFRdYI8qaPNu2vpKA9c4_48.123960_-96.164560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594260,
-    "wof:geomhash":"87d80f4a6f6d158e74fd2b09e40899b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a120c0340cb57c3a31af5d2b84118ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":790241771
+        }
+    ],
     "wof:id":790241771,
-    "wof:lastmodified":1472629366,
+    "wof:lastmodified":1492832720,
     "wof:name":"Workforce Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

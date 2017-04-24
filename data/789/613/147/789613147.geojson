@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.525072,47.466973,-92.525072,47.466973",
     "geom:latitude":47.466973,
     "geom:longitude":-92.525072,
@@ -33,17 +34,26 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u8KQZIBvqSf3sF33XR4ZJ_47.466973_-92.525072@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589160,
-    "wof:geomhash":"c1620bf2fbddbab892eabc4024551380",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a303509cfec15504dcdc1abe504bc04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789613147
+        }
+    ],
     "wof:id":789613147,
-    "wof:lastmodified":1472628992,
+    "wof:lastmodified":1492810318,
     "wof:name":"Washington Mutual Bank",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

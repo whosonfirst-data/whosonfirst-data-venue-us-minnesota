@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.092523,44.93879,-93.092523,44.93879",
     "geom:latitude":44.93879,
     "geom:longitude":-93.092523,
@@ -31,19 +32,38 @@
         "paint"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1reaqaDMqkCgtvx95IlWlH_44.938790_-93.092523@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582588,
-    "wof:geomhash":"3fb409f4be90d35768d0aac67759ad53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"457a7769a085dcc9f46d321888ec7565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773033027
+        }
+    ],
     "wof:id":773033027,
-    "wof:lastmodified":1472629188,
+    "wof:lastmodified":1492808740,
     "wof:name":"Valspar Contractor Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

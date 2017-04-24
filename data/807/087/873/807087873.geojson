@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.325556,45.099251,-93.325556,45.099251",
     "geom:latitude":45.099251,
     "geom:longitude":-93.325556,
@@ -31,17 +32,34 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13xuUcsCcViaFqTffhLk0T_45.099251_-93.325556@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603597,
-    "wof:geomhash":"68d0d79d4fc1166ad88b29042e181ebc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcc406a429ccf0fcbdd7e14b2bf17406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":807087873
+        }
+    ],
     "wof:id":807087873,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492822364,
     "wof:name":"Beard Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

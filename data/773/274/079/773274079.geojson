@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.494379,44.062722,-92.494379,44.062722",
     "geom:latitude":44.062722,
     "geom:longitude":-92.494379,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73ZWYzeAe7wezy54psy0b7_44.062722_-92.494379@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584471,
-    "wof:geomhash":"f56f84ce52dfef0560ee988fb1045f0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"066dc8f1559d3fd0d5cb91894dab7320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773274079
+        }
+    ],
     "wof:id":773274079,
-    "wof:lastmodified":1472629991,
+    "wof:lastmodified":1492799157,
     "wof:name":"Rose Welke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

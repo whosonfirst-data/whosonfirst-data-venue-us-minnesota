@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.12749,44.927418,-93.12749,44.927418",
     "geom:latitude":44.927418,
     "geom:longitude":-93.12749,
@@ -31,19 +32,38 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rIGr9Y2EBqlfKBoxOiClH_44.927418_-93.127490@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585959,
-    "wof:geomhash":"a88eb3521fcb270be7563992fc2ad56a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddc0c05df8360fba033c9870a278c84c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":773466053
+        }
+    ],
     "wof:id":773466053,
-    "wof:lastmodified":1472630061,
+    "wof:lastmodified":1492804820,
     "wof:name":"Hair I Go",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.12463,45.716757,-93.12463,45.716757",
     "geom:latitude":45.716757,
     "geom:longitude":-93.12463,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n7M2FFUdeK6tfgEGpEqQE_45.716757_-93.124630@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601328,
-    "wof:geomhash":"4ce8361d97597cebb5dd56fd9fdeb3e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8b97c5914d989182601d351b6578f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":806818373
+        }
+    ],
     "wof:id":806818373,
-    "wof:lastmodified":1472629849,
+    "wof:lastmodified":1492822088,
     "wof:name":"Rush Area Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

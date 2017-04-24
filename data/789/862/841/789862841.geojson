@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.184735,48.118144,-96.184735,48.118144",
     "geom:latitude":48.118144,
     "geom:longitude":-96.184735,
@@ -31,17 +32,34 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MCCzfC6XYHwQBvvP3LSlO_48.118144_-96.184735@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591129,
-    "wof:geomhash":"299a7f038a27a809e6ad64b9a26d5c60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"391383c9c0c7556003d52b111cfed723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":789862841
+        }
+    ],
     "wof:id":789862841,
-    "wof:lastmodified":1472629546,
+    "wof:lastmodified":1492810662,
     "wof:name":"Kittson County Highway Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

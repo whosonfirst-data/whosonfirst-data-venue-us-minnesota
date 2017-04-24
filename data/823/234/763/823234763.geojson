@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.755302,44.068896,-92.755302,44.068896",
     "geom:latitude":44.068896,
     "geom:longitude":-92.755302,
@@ -32,17 +33,34 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515137,
+        85633793,
+        85952823,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rGjV8OnTyNmEGANb48vWg_44.068896_-92.755302@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609046,
-    "wof:geomhash":"6da517a6b18aa0a9cb5f3e2929de4614",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17ebaf83e9f317d6a11fef649191e90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404515137,
+            "locality_id":85952823,
+            "region_id":85688727,
+            "venue_id":823234763
+        }
+    ],
     "wof:id":823234763,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492828382,
     "wof:name":"Mantorville Intermidiate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

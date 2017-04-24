@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.342321,47.448299,-92.342321,47.448299",
     "geom:latitude":47.448299,
     "geom:longitude":-92.342321,
@@ -31,17 +32,26 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CKOrz7DPepnf9BZKs9EOP_47.448299_-92.342321@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591319,
-    "wof:geomhash":"9f381d4cf3ff60d495a8a2c570c1bb2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da5923307c7b0358289b3fbca3739296",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":789883391
+        }
+    ],
     "wof:id":789883391,
-    "wof:lastmodified":1472629545,
+    "wof:lastmodified":1492810693,
     "wof:name":"Douglas Hustad Logging",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

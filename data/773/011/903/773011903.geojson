@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.533448,47.462855,-92.533448,47.462855",
     "geom:latitude":47.462855,
     "geom:longitude":-92.533448,
@@ -32,17 +33,26 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dK092KjLGstgLkrWI4JqU_47.462855_-92.533448@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582347,
-    "wof:geomhash":"d11712a37850d55c447b21e768abf98e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bed4298a5b0c3e2aec17cd93dc282b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773011903
+        }
+    ],
     "wof:id":773011903,
-    "wof:lastmodified":1472629017,
+    "wof:lastmodified":1492804156,
     "wof:name":"Carlson Home Plus",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

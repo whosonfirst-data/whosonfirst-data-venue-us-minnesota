@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.453322,45.100882,-93.453322,45.100882",
     "geom:latitude":45.100882,
     "geom:longitude":-93.453322,
@@ -28,17 +29,34 @@
     "sg:postcode":"55369",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eycVUtFPVOtVHO4w00yeG_45.100882_-93.453322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599260,
-    "wof:geomhash":"51510760dfc3e0f379f29f53684ea78a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"665f2450559299da289123dfa4561d1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806573365
+        }
+    ],
     "wof:id":806573365,
-    "wof:lastmodified":1472629453,
+    "wof:lastmodified":1492820297,
     "wof:name":"US Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

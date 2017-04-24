@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.747787,47.214135,-92.747787,47.214135",
     "geom:latitude":47.214135,
     "geom:longitude":-92.747787,
@@ -38,17 +39,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rIRJpUwK6oo3htiF9w3DM_47.214135_-92.747787@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608838,
-    "wof:geomhash":"6d0712156fbf9ad360f7baa13570e6ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"056266e1a504ceb5dccf1c19232b20a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224985
+        }
+    ],
     "wof:id":823224985,
-    "wof:lastmodified":1472629116,
+    "wof:lastmodified":1492828773,
     "wof:name":"Alan Hill Trucking",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

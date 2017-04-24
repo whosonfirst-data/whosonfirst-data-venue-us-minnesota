@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.32383,44.86553,-93.32383,44.86553",
     "geom:latitude":44.86553,
     "geom:longitude":-93.32383,
@@ -44,17 +45,34 @@
         "plastic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dDT3mMz7upQRAk1JEkdpp_44.865530_-93.323830@1303262832"
     },
     "wof:country":"US",
     "wof:created":1462608404,
-    "wof:geomhash":"4eb682d3164863acf75d4261b2cee6d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f91e66e6b9991cd9c88ef8d873263e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823202747
+        }
+    ],
     "wof:id":823202747,
-    "wof:lastmodified":1472629064,
+    "wof:lastmodified":1492829813,
     "wof:name":"American Laser Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

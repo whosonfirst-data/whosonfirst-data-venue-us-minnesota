@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.717544,45.380325,-94.717544,45.380325",
     "geom:latitude":45.380325,
     "geom:longitude":-94.717544,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514385,
+        85633793,
+        85952481,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xqkYgQPKZ2w1rO2KJaXPR_45.380325_-94.717544@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599743,
-    "wof:geomhash":"1021c580ed8512858528720ca03d5020",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f5de709e4dd8dbf09ba0561c6bf4cf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514385,
+            "locality_id":85952481,
+            "region_id":85688727,
+            "venue_id":806630921
+        }
+    ],
     "wof:id":806630921,
-    "wof:lastmodified":1472629573,
+    "wof:lastmodified":1492819162,
     "wof:name":"St Stephens Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

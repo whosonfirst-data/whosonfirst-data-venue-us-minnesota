@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.557604,47.523105,-92.557604,47.523105",
     "geom:latitude":47.523105,
     "geom:longitude":-92.557604,
@@ -41,17 +42,36 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20MTrvQaTjsXLTH1PqPR0n_47.523105_-92.557604@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585141,
-    "wof:geomhash":"6c56302b8716a06ead71c65a9ae9eff1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fcda92e5e2bb00dd4f02a60cb405391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":773364205
+        }
+    ],
     "wof:id":773364205,
-    "wof:lastmodified":1472630023,
+    "wof:lastmodified":1492800942,
     "wof:name":"Quest Engineering Inc",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.320587,43.99151,-96.320587,43.99151",
     "geom:latitude":43.99151,
     "geom:longitude":-96.320587,
@@ -37,17 +38,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uH86N1h5nWagdnEsGiRwZ_43.991599_-96.320546@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604082,
-    "wof:geomhash":"8dfd7ef253762aa18321cd453944db9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c01bbfcf77cc129dab61b2e0a87a342f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":807132777
+        }
+    ],
     "wof:id":807132777,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492827313,
     "wof:name":"Hope Haven Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

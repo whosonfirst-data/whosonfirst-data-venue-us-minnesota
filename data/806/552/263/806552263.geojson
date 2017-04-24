@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.827442,44.673299,-93.827442,44.673299",
     "geom:latitude":44.673299,
     "geom:longitude":-93.827442,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514033,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36IpXbaX3D3u7d2ZouMUtM_44.673299_-93.827442@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599051,
-    "wof:geomhash":"1cab34687a41d1a7c4956121d35918a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1632bcdeee3bd0da62e16f776b1ea3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514033,
+            "region_id":85688727,
+            "venue_id":806552263
+        }
+    ],
     "wof:id":806552263,
-    "wof:lastmodified":1472629439,
+    "wof:lastmodified":1492818745,
     "wof:name":"Larry Fahey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.078161,44.926212,-93.078161,44.926212",
     "geom:latitude":44.926212,
     "geom:longitude":-93.078161,
@@ -28,19 +29,38 @@
     "sg:postcode":"55107",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66hOfCPJVue683NM195kms_44.926212_-93.078161@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594044,
-    "wof:geomhash":"8492909c18de7a3690418fc0bf870917",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbd8b883340fc10f7f7b5b40959f6820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":790212523
+        }
+    ],
     "wof:id":790212523,
-    "wof:lastmodified":1472629305,
+    "wof:lastmodified":1492834572,
     "wof:name":"Kimlys Tailor",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

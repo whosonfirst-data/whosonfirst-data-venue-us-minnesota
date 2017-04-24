@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.130681,45.596185,-93.130681,45.596185",
     "geom:latitude":45.596185,
     "geom:longitude":-93.130681,
@@ -38,17 +39,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509099,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_184d8snGFG4fMfV90FCmI6_45.596185_-93.130681@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602835,
-    "wof:geomhash":"4683adbe8dff8a333385507821e86b7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8a0961b14101dbc72e76ee3b3bacbaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509099,
+            "region_id":85688727,
+            "venue_id":806997093
+        }
+    ],
     "wof:id":806997093,
-    "wof:lastmodified":1472629979,
+    "wof:lastmodified":1492819232,
     "wof:name":"Bob's Custom Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

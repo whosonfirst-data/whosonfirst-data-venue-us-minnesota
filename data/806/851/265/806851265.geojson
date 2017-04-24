@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.978659,44.915209,-92.978659,44.915209",
     "geom:latitude":44.915209,
     "geom:longitude":-92.978659,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.haskells.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514931,
+        85633793,
+        85953535,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UuYkvJ5gea9sNIRgn56aJ_44.915209_-92.978659@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601619,
-    "wof:geomhash":"7b8d1c4131ab76d1a56517e1fd30575c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b037ce2eb98970aa59b986888d21f001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514931,
+            "locality_id":85953535,
+            "region_id":85688727,
+            "venue_id":806851265
+        }
+    ],
     "wof:id":806851265,
-    "wof:lastmodified":1472629897,
+    "wof:lastmodified":1492821680,
     "wof:name":"Haskell's International Wine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

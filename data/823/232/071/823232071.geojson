@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.419594,44.014648,-92.419594,44.014648",
     "geom:latitude":44.014648,
     "geom:longitude":-92.419594,
@@ -51,17 +52,34 @@
     ],
     "sg:website":"http://national.citysearch.com/profile/external/5638012/rochester_mn/rochester_community_and_technical_college.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kP9bOMjAh5XztTutBECvU_44.014648_-92.419594@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608998,
-    "wof:geomhash":"58262dbe99442a324d7680e1fe5272ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bd0eb2b3453efd3e9ef9fe95edbf67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823232071
+        }
+    ],
     "wof:id":823232071,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492828110,
     "wof:name":"Rochester Community And Technical College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

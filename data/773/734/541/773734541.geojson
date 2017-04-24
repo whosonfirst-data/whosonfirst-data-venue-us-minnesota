@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.470777,44.910789,-95.470777,44.910789",
     "geom:latitude":44.910789,
     "geom:longitude":-95.470777,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510797,
+        85633793,
+        85953215,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e3pbTQmll0gYCfd4gOkPb_44.910789_-95.470777@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587984,
-    "wof:geomhash":"fc367b63feadcc08cdbc47021ffcccc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4346b2b50fa56c2caca144bd093a33e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510797,
+            "locality_id":85953215,
+            "region_id":85688727,
+            "venue_id":773734541
+        }
+    ],
     "wof:id":773734541,
-    "wof:lastmodified":1472630144,
+    "wof:lastmodified":1492806486,
     "wof:name":"Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

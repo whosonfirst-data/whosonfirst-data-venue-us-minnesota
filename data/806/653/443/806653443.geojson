@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.043152,45.088896,-93.043152,45.088896",
     "geom:latitude":45.088896,
     "geom:longitude":-93.043152,
@@ -35,17 +36,34 @@
         "instrument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514473,
+        85633793,
+        85953019,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JH1roYnddyOt4pdNLAza8_45.088896_-93.043152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599936,
-    "wof:geomhash":"17d02e36bc5c3652ef439d7ec101e756",
-    "wof:hierarchy":[],
+    "wof:geomhash":"402f0260de607a451266af7ae6298318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514473,
+            "locality_id":85953019,
+            "region_id":85688727,
+            "venue_id":806653443
+        }
+    ],
     "wof:id":806653443,
-    "wof:lastmodified":1472629647,
+    "wof:lastmodified":1492818277,
     "wof:name":"Omni-Tract Surgical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

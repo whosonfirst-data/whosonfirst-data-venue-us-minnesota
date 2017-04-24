@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.507678,44.075632,-93.507678,44.075632",
     "geom:latitude":44.075632,
     "geom:longitude":-93.507678,
@@ -36,17 +37,34 @@
         "fertilizer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hw5mQR1xzwGH51jBqYxmc_44.075632_-93.507678@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590764,
-    "wof:geomhash":"6d8c1e36091b45498013f6f768ef6114",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5288336bc0566ee76b69f27517547868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":789816691
+        }
+    ],
     "wof:id":789816691,
-    "wof:lastmodified":1472629411,
+    "wof:lastmodified":1492813694,
     "wof:name":"Condon Farm Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

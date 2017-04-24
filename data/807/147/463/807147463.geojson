@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.139897,43.990613,-95.139897,43.990613",
     "geom:latitude":43.990613,
     "geom:longitude":-95.139897,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511855,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Sv3mkntT2sPR6YvUJrGIL_43.990613_-95.139897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604251,
-    "wof:geomhash":"9fc635aece694c03dbcfb0e031e1b979",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb9ffa514c3b44d6fd61c92c54ebde6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511855,
+            "region_id":85688727,
+            "venue_id":807147463
+        }
+    ],
     "wof:id":807147463,
-    "wof:lastmodified":1472629277,
+    "wof:lastmodified":1492826174,
     "wof:name":"Rsw Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

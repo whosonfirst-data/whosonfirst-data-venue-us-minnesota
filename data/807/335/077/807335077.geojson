@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.798066,45.302616,-93.798066,45.302616",
     "geom:latitude":45.302616,
     "geom:longitude":-93.798066,
@@ -33,17 +34,34 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E83e4LoCV0DRYweBTj62h_45.302616_-93.798066@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606267,
-    "wof:geomhash":"652adc7330a9d030e067e54d2ac6aaad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9e23761da13d833bf432c2c4082cc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":807335077
+        }
+    ],
     "wof:id":807335077,
-    "wof:lastmodified":1472629728,
+    "wof:lastmodified":1492824147,
     "wof:name":"Army National Guard Recruiting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

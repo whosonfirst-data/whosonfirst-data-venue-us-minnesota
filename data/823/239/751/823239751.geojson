@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.898247,43.884392,-93.898247,43.884392",
     "geom:latitude":43.884392,
     "geom:longitude":-93.898247,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511553,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FJn5AHLTyFLe5K3qYb1I2_43.884392_-93.898247@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609145,
-    "wof:geomhash":"6c799ddfa566558592dd73ca30b4db4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbabcbb7e63154cc883baebac870a2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511553,
+            "region_id":85688727,
+            "venue_id":823239751
+        }
+    ],
     "wof:id":823239751,
-    "wof:lastmodified":1472629165,
+    "wof:lastmodified":1492828316,
     "wof:name":"The Miller Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

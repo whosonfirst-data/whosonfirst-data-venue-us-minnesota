@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.986096,44.776425,-94.986096,44.776425",
     "geom:latitude":44.776425,
     "geom:longitude":-94.986096,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fAWnq9uF7PgRRvFSJCCHE_44.776425_-94.986096@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600010,
-    "wof:geomhash":"dd600cd7690a3a925550af879b812d7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"257dc8769575035b2a105da81da11715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":806660889
+        }
+    ],
     "wof:id":806660889,
-    "wof:lastmodified":1472629669,
+    "wof:lastmodified":1492821914,
     "wof:name":"Olivia Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

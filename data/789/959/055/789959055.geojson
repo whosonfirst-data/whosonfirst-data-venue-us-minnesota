@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.089394,44.919739,-93.089394,44.919739",
     "geom:latitude":44.919739,
     "geom:longitude":-93.089394,
@@ -33,19 +34,38 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RiBNTYPKC3lfnnIheVIgV_44.919739_-93.089394@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591989,
-    "wof:geomhash":"89c6745360e0c47719847480a2197b4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b36400893c00b80c6861f949b4cea198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":789959055
+        }
+    ],
     "wof:id":789959055,
-    "wof:lastmodified":1472629634,
+    "wof:lastmodified":1492812351,
     "wof:name":"Greg Whebbe Auto Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

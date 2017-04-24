@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.809361,45.900867,-93.809361,45.900867",
     "geom:latitude":45.900867,
     "geom:longitude":-93.809361,
@@ -35,17 +36,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512717,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WPrXWn9N2f4MFnbwIblX6_45.900867_-93.809361@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600596,
-    "wof:geomhash":"9c08053fceaec4823ea6299c395f5308",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ced7f7d08bab53165b587551eeac453a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512717,
+            "region_id":85688727,
+            "venue_id":806731305
+        }
+    ],
     "wof:id":806731305,
-    "wof:lastmodified":1472629757,
+    "wof:lastmodified":1492814856,
     "wof:name":"Double A Elk Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

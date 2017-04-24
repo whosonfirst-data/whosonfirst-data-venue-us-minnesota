@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.36015,45.078555,-93.36015,45.078555",
     "geom:latitude":45.078555,
     "geom:longitude":-93.36015,
@@ -32,17 +33,34 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MnkYFH3hUSoRihDDZFG3O_45.078555_-93.360150@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596475,
-    "wof:geomhash":"f2bbf527e4c21091318b5a911af9540d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"724ec041c229b3ae7baf977dec7f3bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":790513073
+        }
+    ],
     "wof:id":790513073,
-    "wof:lastmodified":1472629788,
+    "wof:lastmodified":1492836023,
     "wof:name":"Clear Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

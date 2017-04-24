@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.468497,45.009349,-93.468497,45.009349",
     "geom:latitude":45.009349,
     "geom:longitude":-93.468497,
@@ -48,17 +49,34 @@
     ],
     "sg:website":"http://www.norfab.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uBa2TRZmDRPhmPwF3MMbU_45.009349_-93.468497@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608633,
-    "wof:geomhash":"48479e79fd1d020f66330b9deadf7137",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83cf10c3774f754d38cf3f0a6aac6116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823215457
+        }
+    ],
     "wof:id":823215457,
-    "wof:lastmodified":1472629104,
+    "wof:lastmodified":1492830660,
     "wof:name":"Norfab Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

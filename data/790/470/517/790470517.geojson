@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.535035,47.463581,-92.535035,47.463581",
     "geom:latitude":47.463581,
     "geom:longitude":-92.535035,
@@ -31,17 +32,26 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aZXCBjtdL2ESJRJ0VooBf_47.463581_-92.535035@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596101,
-    "wof:geomhash":"bfe96a6ed88140caf6cec5713eeabdc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c017ca4447701f446f987feca5ea8577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790470517
+        }
+    ],
     "wof:id":790470517,
-    "wof:lastmodified":1472629748,
+    "wof:lastmodified":1492837402,
     "wof:name":"Eveleth Fee Office",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

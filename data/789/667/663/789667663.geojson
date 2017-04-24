@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.808545,43.557348,-93.808545,43.557348",
     "geom:latitude":43.557348,
     "geom:longitude":-93.808545,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509597,
+        85633793,
+        85952597,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KaLWToeiKrc2ibTJXOobE_43.557348_-93.808545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589611,
-    "wof:geomhash":"8f0563378e7b7d6f1cee2d928e389066",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93d771c0508f4d7a64c6697ac9846a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509597,
+            "locality_id":85952597,
+            "region_id":85688727,
+            "venue_id":789667663
+        }
+    ],
     "wof:id":789667663,
-    "wof:lastmodified":1472629131,
+    "wof:lastmodified":1492813548,
     "wof:name":"Highway Dept Shed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

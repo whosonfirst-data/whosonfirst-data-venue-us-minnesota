@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.372081,43.981609,-92.372081,43.981609",
     "geom:latitude":43.981609,
     "geom:longitude":-92.372081,
@@ -32,17 +33,32 @@
         "furnishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512579,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S9gn61Iq4SMZV4FIjPn5I_43.981609_-92.372081@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608997,
-    "wof:geomhash":"bd61307f93aae619574fb27d3cda9276",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ca722cbefd88a8b946db2057da4cb39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512579,
+            "region_id":85688727,
+            "venue_id":823232005
+        }
+    ],
     "wof:id":823232005,
-    "wof:lastmodified":1472629121,
+    "wof:lastmodified":1492828097,
     "wof:name":"Eds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

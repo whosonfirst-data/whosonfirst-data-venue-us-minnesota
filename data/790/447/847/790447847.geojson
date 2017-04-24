@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.27372,44.980453,-93.27372,44.980453",
     "geom:latitude":44.980453,
     "geom:longitude":-93.27372,
@@ -33,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867017,
+        1108800095,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595899,
-    "wof:geomhash":"85db20386811f88e69154eb142981d03",
+    "wof:geomhash":"6f9db6b074dd1c45c092c035a2bcfe7a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +58,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867017,
-            "region_id":85688727,
-            "venue_id":790447847
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
+            "microhood_id":1108800095,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":790447847
         }
     ],
     "wof:id":790447847,
-    "wof:lastmodified":1472629723,
+    "wof:lastmodified":1492836243,
     "wof:name":"J R Casting",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

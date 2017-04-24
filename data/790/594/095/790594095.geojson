@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.77968,44.616551,-93.77968,44.616551",
     "geom:latitude":44.616551,
     "geom:longitude":-93.77968,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514973,
+        85633793,
+        85952539,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iNLTO8hmWA7KcHKaEDO8N_44.616551_-93.779680@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597159,
-    "wof:geomhash":"2c236b21bbc0b699ab05b3cd59f5a2af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"609c29fee831b5135ad0b97a7ac19148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514973,
+            "locality_id":85952539,
+            "region_id":85688727,
+            "venue_id":790594095
+        }
+    ],
     "wof:id":790594095,
-    "wof:lastmodified":1472629881,
+    "wof:lastmodified":1492836605,
     "wof:name":"Palmer Associate Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.72421,45.376259,-92.72421,45.376259",
     "geom:latitude":45.376259,
     "geom:longitude":-92.72421,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511113,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06CLvQK2emwpk4XcFX3B2j_45.376259_-92.724210@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596461,
-    "wof:geomhash":"6fc788b8ef1adf7e28a5b2c343395f7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88e0c510b868790be7c476cf1f8e6ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511113,
+            "region_id":85688727,
+            "venue_id":790511133
+        }
+    ],
     "wof:id":790511133,
-    "wof:lastmodified":1472629791,
+    "wof:lastmodified":1492834165,
     "wof:name":"East Central Parcel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

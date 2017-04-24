@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.012281,45.722737,-93.012281,45.722737",
     "geom:latitude":45.722737,
     "geom:longitude":-93.012281,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lPayOb7obOis1gWCicM5x_45.722737_-93.012281@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596175,
-    "wof:geomhash":"329b3ee479fb0a9a95ecbd6f8499bbfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"067599596c80891cadd6d7d006f93ea8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":790478071
+        }
+    ],
     "wof:id":790478071,
-    "wof:lastmodified":1472629755,
+    "wof:lastmodified":1492835748,
     "wof:name":"Angus Trucking LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

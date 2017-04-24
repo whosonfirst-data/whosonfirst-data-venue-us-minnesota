@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.409396,44.048674,-94.409396,44.048674",
     "geom:latitude":44.048674,
     "geom:longitude":-94.409396,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514943,
+        85633793,
+        85968901,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IonIRObJQgQatCufiUxG4_44.048674_-94.409396@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587064,
-    "wof:geomhash":"334f2efd753f9a89f6d35bc3e055a556",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ea83f9d8ed9df2a8a6ef2bf1693ea23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514943,
+            "locality_id":85968901,
+            "region_id":85688727,
+            "venue_id":773616387
+        }
+    ],
     "wof:id":773616387,
-    "wof:lastmodified":1472630108,
+    "wof:lastmodified":1492799216,
     "wof:name":"Amberfield Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

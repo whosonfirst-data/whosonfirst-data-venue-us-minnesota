@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.913217,45.586393,-95.913217,45.586393",
     "geom:latitude":45.586393,
     "geom:longitude":-95.913217,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yTeYIeDfstUUNqB1b4JlB_45.586393_-95.913217@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597505,
-    "wof:geomhash":"2704dc8d11505e02a0723d5c851d184d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72ce4293ebd532ef41bab624e47e9aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":806359719
+        }
+    ],
     "wof:id":806359719,
-    "wof:lastmodified":1472628962,
+    "wof:lastmodified":1492816675,
     "wof:name":"Johnson & Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

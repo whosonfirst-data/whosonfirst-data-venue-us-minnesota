@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.300161,43.598331,-91.300161,43.598331",
     "geom:latitude":43.598331,
     "geom:longitude":-91.300161,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1462589261,
-    "wof:geomhash":"2046c116ab57edda22cbca234bae0cd0",
+    "wof:geomhash":"63dd12562fe6567c13619c2bed838d37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":789625631
         }
     ],
     "wof:id":789625631,
-    "wof:lastmodified":1472629059,
+    "wof:lastmodified":1492811247,
     "wof:name":"Marvin Wunnecka",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

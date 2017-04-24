@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.718244,46.57461,-95.718244,46.57461",
     "geom:latitude":46.57461,
     "geom:longitude":-95.718244,
@@ -31,17 +32,32 @@
         "piece"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512745,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jzUAg56fMloyPNq8OLegb_46.574610_-95.718244@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583558,
-    "wof:geomhash":"12373e66bc923381263352f31cb21807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fd3fcc4539322996a99cd2366203a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512745,
+            "region_id":85688727,
+            "venue_id":773155099
+        }
+    ],
     "wof:id":773155099,
-    "wof:lastmodified":1472629717,
+    "wof:lastmodified":1492806777,
     "wof:name":"Sewing Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

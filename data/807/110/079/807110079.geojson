@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.215533,43.755912,-95.215533,43.755912",
     "geom:latitude":43.755912,
     "geom:longitude":-95.215533,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513593,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Fy6l0833JIJNKxARGi4t4_43.755912_-95.215533@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603835,
-    "wof:geomhash":"c20e4bcbf28995e860f5332cb97b2828",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17b08e3c521d37e75cb8689ea1bde80e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513593,
+            "region_id":85688727,
+            "venue_id":807110079
+        }
+    ],
     "wof:id":807110079,
-    "wof:lastmodified":1472629199,
+    "wof:lastmodified":1492825522,
     "wof:name":"Kolander Cordell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

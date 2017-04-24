@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.458304,43.922277,-92.458304,43.922277",
     "geom:latitude":43.922277,
     "geom:longitude":-92.458304,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512449,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aPTXiy9nMf5w9Am9OnGlL_43.922277_-92.458304@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604144,
-    "wof:geomhash":"89562c154a84a5f6607b933e684a0ff4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a56653b589ac0597b1a4c6e1fd4c0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512449,
+            "region_id":85688727,
+            "venue_id":807138347
+        }
+    ],
     "wof:id":807138347,
-    "wof:lastmodified":1472629271,
+    "wof:lastmodified":1492823875,
     "wof:name":"Charles Fritsch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

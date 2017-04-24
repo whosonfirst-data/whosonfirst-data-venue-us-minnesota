@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.124265,47.868243,-93.124265,47.868243",
     "geom:latitude":47.868243,
     "geom:longitude":-93.124265,
@@ -32,17 +33,32 @@
         "fishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509799,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iXQkeXGQA96U3GcCJmbuk_47.868243_-93.124265@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582924,
-    "wof:geomhash":"b43dbb34fd7c5d296df6b5924a089797",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23f445531e44ceb8547939dcd799a167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404509799,
+            "region_id":85688727,
+            "venue_id":773068465
+        }
+    ],
     "wof:id":773068465,
-    "wof:lastmodified":1472629466,
+    "wof:lastmodified":1492805550,
     "wof:name":"Brown's Mississippi Landing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

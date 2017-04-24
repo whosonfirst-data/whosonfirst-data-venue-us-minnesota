@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.221766,43.443988,-93.221766,43.443988",
     "geom:latitude":43.443988,
     "geom:longitude":-93.221766,
@@ -32,17 +33,32 @@
         "cellular"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kMad3c6SwGWtr6nTSLOyI_43.443988_-93.221766@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584986,
-    "wof:geomhash":"4c94eb0d95874b4821091c93c2c66ef5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13479309afe8960a1232a358c8337278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":773340755
+        }
+    ],
     "wof:id":773340755,
-    "wof:lastmodified":1472630019,
+    "wof:lastmodified":1492803885,
     "wof:name":"Crossroads Cellular",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

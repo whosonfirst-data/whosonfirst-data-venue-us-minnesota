@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.088896,46.302818,-96.088896,46.302818",
     "geom:latitude":46.302818,
     "geom:longitude":-96.088896,
@@ -31,17 +32,34 @@
         "beverage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vxVjASyP1uUG3o6UxakUI_46.302818_-96.088896@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591421,
-    "wof:geomhash":"5fbb88252204d49aceaf4e738cd198ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a676e91fc1ba07bc52f5c3d18f1327cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":789897075
+        }
+    ],
     "wof:id":789897075,
-    "wof:lastmodified":1472629595,
+    "wof:lastmodified":1492810923,
     "wof:name":"Pepsi-Cola General Bottlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

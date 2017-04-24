@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.29063,44.949693,-93.29063,44.949693",
     "geom:latitude":44.949693,
     "geom:longitude":-93.29063,
@@ -44,14 +45,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800013,
         85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607342,
-    "wof:geomhash":"030031af77318ad33a4fa88fe642cddb",
+    "wof:geomhash":"03d754162af8c1b203b0eda689033bf3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,25 +69,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
             "neighbourhood_id":85872583,
-            "region_id":85688727,
-            "venue_id":807402589
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
             "region_id":85688727,
             "venue_id":807402589
         }
     ],
     "wof:id":807402589,
-    "wof:lastmodified":1472629911,
+    "wof:lastmodified":1492825412,
     "wof:name":"Affordable Therapeutic Massage",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

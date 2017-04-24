@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.22086,43.456779,-93.22086,43.456779",
     "geom:latitude":43.456779,
     "geom:longitude":-93.22086,
@@ -31,17 +32,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fJnovrZgZaAiHsdqkdDIi_43.456779_-93.220860@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586981,
-    "wof:geomhash":"c4d3acc75581a505eef4e8575b89c935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"208850ca024bfc3e4c36df692bf1dddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":773605799
+        }
+    ],
     "wof:id":773605799,
-    "wof:lastmodified":1472630109,
+    "wof:lastmodified":1492803894,
     "wof:name":"Northwood Foods Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

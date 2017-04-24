@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.216089,45.323321,-94.216089,45.323321",
     "geom:latitude":45.323321,
     "geom:longitude":-94.216089,
@@ -28,17 +29,34 @@
     "sg:postcode":"55382",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514233,
+        85633793,
+        85969247,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uovmJ5YsPmF9jXJ05FIwG_45.323321_-94.216089@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590754,
-    "wof:geomhash":"28f927bb76afeb0e2419d8be950943d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b203d3454a05dad678c1e295fc07934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514233,
+            "locality_id":85969247,
+            "region_id":85688727,
+            "venue_id":789815201
+        }
+    ],
     "wof:id":789815201,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492811724,
     "wof:name":"Fairhaven Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.879615,47.483896,-94.879615,47.483896",
     "geom:latitude":47.483896,
     "geom:longitude":-94.879615,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zDCddeH6xC9ZbCII6g228_47.483896_-94.879615@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599072,
-    "wof:geomhash":"6658363114069301836762fb166b702b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae748bb61df1998456410ca85de25930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":806555143
+        }
+    ],
     "wof:id":806555143,
-    "wof:lastmodified":1472629433,
+    "wof:lastmodified":1492820632,
     "wof:name":"Conoco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

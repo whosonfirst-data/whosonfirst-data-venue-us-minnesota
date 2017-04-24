@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.358502,45.054641,-93.358502,45.054641",
     "geom:latitude":45.054641,
     "geom:longitude":-93.358502,
@@ -34,17 +35,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09PYxBAw7T5J1RoV2fAuBH_45.054641_-93.358502@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587101,
-    "wof:geomhash":"dfcd837e6b819725aea3d73eeab30fdf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb4c28289460f1eeda1eb477353c7032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":773620517
+        }
+    ],
     "wof:id":773620517,
-    "wof:lastmodified":1472630110,
+    "wof:lastmodified":1492805749,
     "wof:name":"Care Alliance Pharmacy LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

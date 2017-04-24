@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.769091,44.338903,-93.769091,44.338903",
     "geom:latitude":44.338903,
     "geom:longitude":-93.769091,
@@ -32,17 +33,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512207,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_581SUswFPycEmeAZhZAsRG_44.338903_-93.769091@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595079,
-    "wof:geomhash":"8c63367fc399b5be95b9b7e9a31d9db3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c825170a78363f332e1502ead8450cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512207,
+            "region_id":85688727,
+            "venue_id":790342393
+        }
+    ],
     "wof:id":790342393,
-    "wof:lastmodified":1472629527,
+    "wof:lastmodified":1492837950,
     "wof:name":"Melody Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

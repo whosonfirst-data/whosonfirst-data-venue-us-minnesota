@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.402391,44.149068,-95.402391,44.149068",
     "geom:latitude":44.149068,
     "geom:longitude":-95.402391,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509499,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s9z6h0L0uqQo69pFSiLtj_44.149068_-95.402391@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604569,
-    "wof:geomhash":"41493c39cf31818a3050386d0fa54aa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16ab93a41a0a3f216d7c5dfb8106898a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509499,
+            "region_id":85688727,
+            "venue_id":807178461
+        }
+    ],
     "wof:id":807178461,
-    "wof:lastmodified":1472629360,
+    "wof:lastmodified":1492823587,
     "wof:name":"Van Gelderse Jack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

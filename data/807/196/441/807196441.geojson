@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.482047,44.02158,-92.482047,44.02158",
     "geom:latitude":44.02158,
     "geom:longitude":-92.482047,
@@ -32,17 +33,34 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VlLSXJDHbgvAa9R7u6P5i_44.021704_-92.482763@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604763,
-    "wof:geomhash":"687975e184ff153c63edce06090a5c82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"adb69b2148d689537a8ea81733bcd8ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":807196441
+        }
+    ],
     "wof:id":807196441,
-    "wof:lastmodified":1472629404,
+    "wof:lastmodified":1492822482,
     "wof:name":"Bell Tower Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

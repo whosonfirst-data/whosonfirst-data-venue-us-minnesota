@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.192146,45.076229,-94.192146,45.076229",
     "geom:latitude":45.076229,
     "geom:longitude":-94.192146,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515193,
+        85633793,
+        85968917,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z9WEFgjbYQFLbRVvhPG6G_45.076229_-94.192146@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595978,
-    "wof:geomhash":"ee50e68f336453b90cfa720edabee12c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8af0a7c3ee6a0cdaa7cfdc7e50d324f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515193,
+            "locality_id":85968917,
+            "region_id":85688727,
+            "venue_id":790457627
+        }
+    ],
     "wof:id":790457627,
-    "wof:lastmodified":1472629724,
+    "wof:lastmodified":1492832590,
     "wof:name":"Evangelical Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

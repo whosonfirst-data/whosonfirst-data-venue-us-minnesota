@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.899369,44.009194,-94.899369,44.009194",
     "geom:latitude":44.009194,
     "geom:longitude":-94.899369,
@@ -33,17 +34,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511865,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NeRtkVrZkgyLrP1RsnvxV_44.009194_-94.899369@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593099,
-    "wof:geomhash":"ea2cc4376e69a4061e2b1d902a8a144b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9974846423d6f0605a91da458fd55591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511865,
+            "region_id":85688727,
+            "venue_id":790096443
+        }
+    ],
     "wof:id":790096443,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492837378,
     "wof:name":"Bob's Auto & Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.908018,43.599477,-93.908018,43.599477",
     "geom:latitude":43.599477,
     "geom:longitude":-93.908018,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509607,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JJsDhULVUwNkOsshhPtPF_43.599477_-93.908018@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590912,
-    "wof:geomhash":"3334629ebdb164206391844ed14de99f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26ba1418aa563c0b73ab811ce3070255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509607,
+            "region_id":85688727,
+            "venue_id":789835837
+        }
+    ],
     "wof:id":789835837,
-    "wof:lastmodified":1472629458,
+    "wof:lastmodified":1492809939,
     "wof:name":"Johnson Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

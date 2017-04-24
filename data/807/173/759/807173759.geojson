@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.178742,44.301694,-93.178742,44.301694",
     "geom:latitude":44.301694,
     "geom:longitude":-93.178742,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512625,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ihZS8jAoiuBdrjVozD7Qa_44.301694_-93.178742@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604524,
-    "wof:geomhash":"8f05714bbc06639d0f81898771d318f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd30a41a827f0acc1b28c354a7796d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512625,
+            "region_id":85688727,
+            "venue_id":807173759
+        }
+    ],
     "wof:id":807173759,
-    "wof:lastmodified":1472629347,
+    "wof:lastmodified":1492825966,
     "wof:name":"Chuck Hachfeld Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

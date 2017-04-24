@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.565803,45.840849,-94.565803,45.840849",
     "geom:latitude":45.840849,
     "geom:longitude":-94.565803,
@@ -28,17 +29,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512703,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SOQqQen6eWCu6cLaDPN9h_45.840849_-94.565803@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604071,
-    "wof:geomhash":"3f92fbc869821912d43d323c2cc48fae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a06e1d730d959be212188f7d137bcf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512703,
+            "region_id":85688727,
+            "venue_id":807131877
+        }
+    ],
     "wof:id":807131877,
-    "wof:lastmodified":1472629261,
+    "wof:lastmodified":1492824796,
     "wof:name":"Edmund Eggert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

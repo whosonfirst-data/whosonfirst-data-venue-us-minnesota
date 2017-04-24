@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.279112,43.960146,-92.279112,43.960146",
     "geom:latitude":43.960146,
     "geom:longitude":-92.279112,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512441,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qJhC790XZryer46hs5FwN_43.960146_-92.279112@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588830,
-    "wof:geomhash":"586c288c4314cc5877cf4b99553e52c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79356c94a1f94b442024547187091596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512441,
+            "region_id":85688727,
+            "venue_id":773841265
+        }
+    ],
     "wof:id":773841265,
-    "wof:lastmodified":1472630169,
+    "wof:lastmodified":1492803911,
     "wof:name":"Total Electric Of Rochester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

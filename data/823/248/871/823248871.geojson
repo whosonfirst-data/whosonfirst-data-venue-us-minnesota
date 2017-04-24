@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.736397,45.611496,-95.736397,45.611496",
     "geom:latitude":45.611496,
     "geom:longitude":-95.736397,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.cyrus.k12.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510213,
+        85633793,
+        85968631,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GYsDoS8uBeDGJTENTVTTG_45.611496_-95.736397@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609312,
-    "wof:geomhash":"fb021bc5047646bf7a54867b0f384ea7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"443e35d60310acc19d980e9195931624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404510213,
+            "locality_id":85968631,
+            "region_id":85688727,
+            "venue_id":823248871
+        }
+    ],
     "wof:id":823248871,
-    "wof:lastmodified":1472629175,
+    "wof:lastmodified":1492830231,
     "wof:name":"Cyrus Ind School District 611",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

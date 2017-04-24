@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.376648,44.995049,-93.376648,44.995049",
     "geom:latitude":44.995049,
     "geom:longitude":-93.376648,
@@ -37,17 +38,34 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511717,
+        85633793,
+        85969205,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79ho58fR6I2SLZPCwxv5ea_44.995049_-93.376648@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608162,
-    "wof:geomhash":"d3ababf8bfb1cc1cd7db3efd39cf0a56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16f7ab285a734bb046ccb19da6f128c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511717,
+            "locality_id":85969205,
+            "region_id":85688727,
+            "venue_id":823187573
+        }
+    ],
     "wof:id":823187573,
-    "wof:lastmodified":1472629034,
+    "wof:lastmodified":1492830304,
     "wof:name":"Preferred Property Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

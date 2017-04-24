@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25496,44.956649,-93.25496,44.956649",
     "geom:latitude":44.956649,
     "geom:longitude":-93.25496,
@@ -39,14 +40,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559175,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872701
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606987,
-    "wof:geomhash":"8a3f7f0c2c2696640b8651fe29b8d71a",
+    "wof:geomhash":"364febdabe1b67c33e0e9748a10a020d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,25 +63,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559175,
-            "region_id":85688727,
-            "venue_id":807384043
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872701,
+            "macrohood_id":1108799995,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":807384043
         }
     ],
     "wof:id":807384043,
-    "wof:lastmodified":1472629861,
+    "wof:lastmodified":1492826777,
     "wof:name":"Grass Roots Public Policy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

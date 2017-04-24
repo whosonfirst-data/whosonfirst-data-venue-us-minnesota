@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.870954,45.38068,-92.870954,45.38068",
     "geom:latitude":45.38068,
     "geom:longitude":-92.870954,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IA47gSh88YwY2dguQwL8i_45.380680_-92.870954@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595844,
-    "wof:geomhash":"cb39099ebb4a9b263e7a41b2455769b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc004e0b31b964445781408c389db661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":790440567
+        }
+    ],
     "wof:id":790440567,
-    "wof:lastmodified":1472629715,
+    "wof:lastmodified":1492835338,
     "wof:name":"Chisago City Community Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.959661,44.322946,-93.959661,44.322946",
     "geom:latitude":44.322946,
     "geom:longitude":-93.959661,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513479,
+        85633793,
+        85953469,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DEMbhuVTXm3OJWi5UpQli_44.322946_-93.959661@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601437,
-    "wof:geomhash":"39677e9ddd14d0191b4cf4138a61aa14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"838626bbb4fa53be5948db1e33bd2181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513479,
+            "locality_id":85953469,
+            "region_id":85688727,
+            "venue_id":806831581
+        }
+    ],
     "wof:id":806831581,
-    "wof:lastmodified":1472629872,
+    "wof:lastmodified":1492814497,
     "wof:name":"St Peter Fire Station Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

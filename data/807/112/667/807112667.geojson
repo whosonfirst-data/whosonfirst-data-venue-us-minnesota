@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.471611,43.856209,-92.471611,43.856209",
     "geom:latitude":43.856209,
     "geom:longitude":-92.471611,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512597,
+        85633793,
+        85953503,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kYNmjAhqXtsNecrOLUXLf_43.856156_-92.471545@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603867,
-    "wof:geomhash":"b5451ecae6927ebd874730ac15ae5877",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64dfe74e9129a701100ea5e7ca6261fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512597,
+            "locality_id":85953503,
+            "region_id":85688727,
+            "venue_id":807112667
+        }
+    ],
     "wof:id":807112667,
-    "wof:lastmodified":1472629216,
+    "wof:lastmodified":1492824722,
     "wof:name":"Maxwell Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

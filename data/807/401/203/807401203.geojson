@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286949,44.948351,-93.286949,44.948351",
     "geom:latitude":44.948351,
     "geom:longitude":-93.286949,
@@ -23,14 +24,15 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831755,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607305,
-    "wof:geomhash":"64a8bccd09cf4b192c8be0ef99ee4051",
+    "wof:geomhash":"48731d517ecc0232aad1b2c8f26cfb2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,25 +48,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85831755,
-            "region_id":85688727,
-            "venue_id":807401203
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":807401203
         }
     ],
     "wof:id":807401203,
-    "wof:lastmodified":1472629882,
+    "wof:lastmodified":1492823725,
     "wof:name":"Dirty Denim Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

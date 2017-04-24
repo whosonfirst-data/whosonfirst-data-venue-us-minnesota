@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.860626,46.922352,-94.860626,46.922352",
     "geom:latitude":46.922352,
     "geom:longitude":-94.860626,
@@ -37,17 +38,32 @@
         "eldercare-home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512963,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BwMGm20lDIem25xc2dkdy_46.922352_-94.860626@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609426,
-    "wof:geomhash":"12b886cc9bd8b76854550ee24fe12020",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d866dcb57f6430bd6374e1faec236a35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512963,
+            "region_id":85688727,
+            "venue_id":823254249
+        }
+    ],
     "wof:id":823254249,
-    "wof:lastmodified":1472629198,
+    "wof:lastmodified":1492830930,
     "wof:name":"Cabin Care Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

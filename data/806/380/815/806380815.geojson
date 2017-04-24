@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.575202,47.517812,-92.575202,47.517812",
     "geom:latitude":47.517812,
     "geom:longitude":-92.575202,
@@ -31,17 +32,36 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K6pVJdjNcDQE4c8eIMZTM_47.517812_-92.575202@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597678,
-    "wof:geomhash":"b6537dd6742f38d3f9b10c4507f5588d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9127c7ded13e60804f9f709dc49be94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":806380815
+        }
+    ],
     "wof:id":806380815,
-    "wof:lastmodified":1472629007,
+    "wof:lastmodified":1492816256,
     "wof:name":"Mountain Iron V A Clinic",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

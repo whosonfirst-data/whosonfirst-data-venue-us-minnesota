@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.169744,44.457427,-93.169744,44.457427",
     "geom:latitude":44.457427,
     "geom:longitude":-93.169744,
@@ -31,17 +32,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nv5DoFmIBIphM6yUPtRGN_44.457427_-93.169744@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587364,
-    "wof:geomhash":"a2dab29ab93556666fe2f9ea2334d43b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23b7689d6fc133fe46b688620c7e04fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":773655755
+        }
+    ],
     "wof:id":773655755,
-    "wof:lastmodified":1472630123,
+    "wof:lastmodified":1492809044,
     "wof:name":"Stericycle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

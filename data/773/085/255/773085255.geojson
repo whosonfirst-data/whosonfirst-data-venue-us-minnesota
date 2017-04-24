@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.353971,46.115825,-93.353971,46.115825",
     "geom:latitude":46.115825,
     "geom:longitude":-93.353971,
@@ -38,17 +39,32 @@
         "refrigerating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513629,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0igKFJYVuecgJXqyiDUvbS_46.115825_-93.353971@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583047,
-    "wof:geomhash":"5fb0b7d980947c0bad864f4e73fd41a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ccab2640c253c45d420c8f6c83a7651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513629,
+            "region_id":85688727,
+            "venue_id":773085255
+        }
+    ],
     "wof:id":773085255,
-    "wof:lastmodified":1472629549,
+    "wof:lastmodified":1492800723,
     "wof:name":"Cooper's Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

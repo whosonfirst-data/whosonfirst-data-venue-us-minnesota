@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.316837,45.058495,-93.316837,45.058495",
     "geom:latitude":45.058495,
     "geom:longitude":-93.316837,
@@ -48,17 +49,34 @@
     ],
     "sg:website":"http://www.target.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OjSNonxWQzkwWvpdZJbSK_45.058495_-93.316837@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608247,
-    "wof:geomhash":"3881aee7822567b2c37337257dcadf3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abd038422007d516887c2f052527686f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823193641
+        }
+    ],
     "wof:id":823193641,
-    "wof:lastmodified":1472629033,
+    "wof:lastmodified":1492829255,
     "wof:name":"Target",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.388543,45.649273,-95.388543,45.649273",
     "geom:latitude":45.649273,
     "geom:longitude":-95.388543,
@@ -31,17 +32,34 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514323,
+        85633793,
+        85968627,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rQeUlhz7xZw21KcCCX1N9_45.649273_-95.388543@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588994,
-    "wof:geomhash":"3989647bc48ee679d042aada6336a15b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4459d4c4867cc4800c80547eba99fee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514323,
+            "locality_id":85968627,
+            "region_id":85688727,
+            "venue_id":789591157
+        }
+    ],
     "wof:id":789591157,
-    "wof:lastmodified":1472628935,
+    "wof:lastmodified":1492812547,
     "wof:name":"US Consolidated Farm Svc Agcy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

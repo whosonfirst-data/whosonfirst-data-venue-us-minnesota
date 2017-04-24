@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.109391,43.745888,-93.109391,43.745888",
     "geom:latitude":43.745888,
     "geom:longitude":-93.109391,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509661,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dVQOXF54oRVZHFfQDTXAI_43.745888_-93.109391@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582550,
-    "wof:geomhash":"dfb576ce67613c3d8a70df02a285ae04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f83344ab13b7a02fc87ca9863f502b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509661,
+            "region_id":85688727,
+            "venue_id":773028059
+        }
+    ],
     "wof:id":773028059,
-    "wof:lastmodified":1472629138,
+    "wof:lastmodified":1492802075,
     "wof:name":"Alice Hofner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

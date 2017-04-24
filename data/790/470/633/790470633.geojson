@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.617787,46.358257,-95.617787,46.358257",
     "geom:latitude":46.358257,
     "geom:longitude":-95.617787,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512883,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EAMzxdV8TuOtupb7msjxO_46.358257_-95.617787@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596102,
-    "wof:geomhash":"dbfdfb12592e8686e651d16283e3fe81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02d9245c11c2fe58ae7d1c33141bdbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512883,
+            "region_id":85688727,
+            "venue_id":790470633
+        }
+    ],
     "wof:id":790470633,
-    "wof:lastmodified":1472629750,
+    "wof:lastmodified":1492837398,
     "wof:name":"Peterson & Peterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

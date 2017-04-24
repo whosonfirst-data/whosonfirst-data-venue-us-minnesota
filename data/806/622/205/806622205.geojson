@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.730163,45.144261,-93.730163,45.144261",
     "geom:latitude":45.144261,
     "geom:longitude":-93.730163,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515249,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bYTwJerZRshV8ejCOEFvx_45.144261_-93.730163@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599670,
-    "wof:geomhash":"2abe1475b88455755146eaa369852d03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84de26c61337fa47351074ab9fa26b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515249,
+            "region_id":85688727,
+            "venue_id":806622205
+        }
+    ],
     "wof:id":806622205,
-    "wof:lastmodified":1472629548,
+    "wof:lastmodified":1492818384,
     "wof:name":"American Concrete & Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

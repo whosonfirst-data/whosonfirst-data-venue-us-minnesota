@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.339165,44.819065,-93.339165,44.819065",
     "geom:latitude":44.819065,
     "geom:longitude":-93.339165,
@@ -33,17 +34,34 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UUm3LfrOloiPguI4qr9GK_44.819065_-93.339165@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608473,
-    "wof:geomhash":"6d3b8c902245b712f467cdc65845e7b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c38a31909c607cdea4fd92c66182ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823206691
+        }
+    ],
     "wof:id":823206691,
-    "wof:lastmodified":1472629064,
+    "wof:lastmodified":1492829089,
     "wof:name":"Bloomington Public Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

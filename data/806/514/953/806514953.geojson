@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540015,47.463205,-92.540015,47.463205",
     "geom:latitude":47.463205,
     "geom:longitude":-92.540015,
@@ -31,17 +32,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nGmWiupIIPJMBqpKCd5hd_47.463205_-92.540015@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598752,
-    "wof:geomhash":"09267fb36cd565fe474f7be386c4be30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fd1c82644ac97dbbc8e03ca5748f91c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806514953
+        }
+    ],
     "wof:id":806514953,
-    "wof:lastmodified":1472629368,
+    "wof:lastmodified":1492820033,
     "wof:name":"Bear Den Recreation",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

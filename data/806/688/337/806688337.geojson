@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.845609,46.818449,-95.845609,46.818449",
     "geom:latitude":46.818449,
     "geom:longitude":-95.845609,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z5P8dvqLqG2tZTaEq06ta_46.818449_-95.845609@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600240,
-    "wof:geomhash":"f775d562a75d2a0e1a8af8b82708e032",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1797f47f4e760c0cea9bd43468bfa089",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":806688337
+        }
+    ],
     "wof:id":806688337,
-    "wof:lastmodified":1472629691,
+    "wof:lastmodified":1492820879,
     "wof:name":"Positive Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

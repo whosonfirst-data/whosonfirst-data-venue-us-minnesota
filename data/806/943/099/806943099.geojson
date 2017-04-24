@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.848304,47.334328,-93.848304,47.334328",
     "geom:latitude":47.334328,
     "geom:longitude":-93.848304,
@@ -33,17 +34,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513439,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46FoKxzACXLOrLEA0e1Imm_47.334328_-93.848304@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602385,
-    "wof:geomhash":"ba6a67262bdba93e21731e3f81c23621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9590f09d22230949c6a0750926ffa6aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513439,
+            "region_id":85688727,
+            "venue_id":806943099
+        }
+    ],
     "wof:id":806943099,
-    "wof:lastmodified":1472629942,
+    "wof:lastmodified":1492818790,
     "wof:name":"Great Lakes Gas Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

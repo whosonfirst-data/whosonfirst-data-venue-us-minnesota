@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.122549,44.62457,-94.122549,44.62457",
     "geom:latitude":44.62457,
     "geom:longitude":-94.122549,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513891,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zS5KJchB3rWTUakle6JPz_44.624570_-94.122549@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584719,
-    "wof:geomhash":"6c538c099dc4a0db4ef0626df801a392",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8185f5fd59f998f0d29380907cbcdda4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404513891,
+            "region_id":85688727,
+            "venue_id":773304625
+        }
+    ],
     "wof:id":773304625,
-    "wof:lastmodified":1472630032,
+    "wof:lastmodified":1492804917,
     "wof:name":"Richard Henke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

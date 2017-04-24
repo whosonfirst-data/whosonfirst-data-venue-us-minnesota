@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.084251,43.920747,-96.084251,43.920747",
     "geom:latitude":43.920747,
     "geom:longitude":-96.084251,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513527,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51tktVKvFlpv7RNHtcD4H0_43.920747_-96.084251@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601656,
-    "wof:geomhash":"d210c83592103c6340de91761b94b758",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4997e5bf697d0150b23d53e490b29fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513527,
+            "region_id":85688727,
+            "venue_id":806856071
+        }
+    ],
     "wof:id":806856071,
-    "wof:lastmodified":1472629897,
+    "wof:lastmodified":1492819463,
     "wof:name":"Gerhart Van Dam",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

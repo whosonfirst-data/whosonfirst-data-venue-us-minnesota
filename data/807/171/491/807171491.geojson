@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.85527,43.702753,-95.85527,43.702753",
     "geom:latitude":43.702753,
     "geom:longitude":-95.85527,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512131,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dWCqwHbK9t9JnnMouahbP_43.702753_-95.855270@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604499,
-    "wof:geomhash":"c228af3b13140726847d6d7179268e7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0056dc8d895b2e600195320a0e964a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512131,
+            "region_id":85688727,
+            "venue_id":807171491
+        }
+    ],
     "wof:id":807171491,
-    "wof:lastmodified":1472629347,
+    "wof:lastmodified":1492824653,
     "wof:name":"Randy Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

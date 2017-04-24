@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.343063,44.829042,-93.343063,44.829042",
     "geom:latitude":44.829042,
     "geom:longitude":-93.343063,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dUdoAg9lwsD2bOqrH2a9F_44.829042_-93.343063@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593576,
-    "wof:geomhash":"2d788edc42cd9b3931078f29c508ff40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccc04d861bf2aafd7d034bda932d3f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":790157987
+        }
+    ],
     "wof:id":790157987,
-    "wof:lastmodified":1472629260,
+    "wof:lastmodified":1492835080,
     "wof:name":"NVP Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

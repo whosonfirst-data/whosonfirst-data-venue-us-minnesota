@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.714564,44.29728,-94.714564,44.29728",
     "geom:latitude":44.29728,
     "geom:longitude":-94.714564,
@@ -31,17 +32,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509331,
+        85633793,
+        85952697,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pnxVKZURdhRPDlf4UzwOk_44.297280_-94.714564@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592136,
-    "wof:geomhash":"2d161b07005ab528266753f0e617d106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f07851e137a84decc9ca7fca88fe709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509331,
+            "locality_id":85952697,
+            "region_id":85688727,
+            "venue_id":789975897
+        }
+    ],
     "wof:id":789975897,
-    "wof:lastmodified":1472629672,
+    "wof:lastmodified":1492812871,
     "wof:name":"Haala Truck & Trailer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

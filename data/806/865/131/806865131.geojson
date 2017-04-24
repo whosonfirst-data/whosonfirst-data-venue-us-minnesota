@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.813444,44.644186,-92.813444,44.644186",
     "geom:latitude":44.644186,
     "geom:longitude":-92.813444,
@@ -32,17 +33,32 @@
         "public"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511977,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BZ8zzG0B4xK8M2TyQXdBP_44.644186_-92.813444@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601735,
-    "wof:geomhash":"1db275d623480e74609996b42ba473fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce26e6aab6e3204c82eaf841cff23a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511977,
+            "region_id":85688727,
+            "venue_id":806865131
+        }
+    ],
     "wof:id":806865131,
-    "wof:lastmodified":1472629900,
+    "wof:lastmodified":1492817468,
     "wof:name":"Hidden Greens Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

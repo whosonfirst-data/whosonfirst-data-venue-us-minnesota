@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.268791,44.98399,-93.268791,44.98399",
     "geom:latitude":44.98399,
     "geom:longitude":-93.268791,
@@ -36,12 +37,12 @@
     "wof:belongsto":[
         85872657,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867017
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600177,
-    "wof:geomhash":"8ccc92cf28db77f7448251492aa36d0a",
+    "wof:geomhash":"9c56e5ffbf4bfa227d0567e96d120970",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,25 +58,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872657,
-            "region_id":85688727,
-            "venue_id":806680821
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867017,
             "region_id":85688727,
             "venue_id":806680821
         }
     ],
     "wof:id":806680821,
-    "wof:lastmodified":1472629690,
+    "wof:lastmodified":1492819320,
     "wof:name":"Minneapolis Consulting Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.397409,45.090056,-93.397409,45.090056",
     "geom:latitude":45.090056,
     "geom:longitude":-93.397409,
@@ -32,17 +33,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mHoe7podWhnvaZvgSzByD_45.090056_-93.397409@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608173,
-    "wof:geomhash":"f6044b549e38c09e7215b4431f4dc0f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b23e5301a1b30f7f29351555a6733b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823188477
+        }
+    ],
     "wof:id":823188477,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492828138,
     "wof:name":"Carlson Carlson Jpm Store Fixtures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

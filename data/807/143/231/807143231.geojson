@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.169671,48.589193,-96.169671,48.589193",
     "geom:latitude":48.589193,
     "geom:longitude":-96.169671,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512801,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Kt5YsnU2NCMZtNopiziKw_48.589193_-96.169671@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604196,
-    "wof:geomhash":"e3987e309dc3856503d823cf5b765b5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"605f0a3e13348fed45234c493fc97b1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512801,
+            "region_id":85688727,
+            "venue_id":807143231
+        }
+    ],
     "wof:id":807143231,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492824981,
     "wof:name":"Nelson Marlo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

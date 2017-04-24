@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.408504,47.244873,-96.408504,47.244873",
     "geom:latitude":47.244873,
     "geom:longitude":-96.408504,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512293,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a3qEeUPltdO36OA0bAdbJ_47.244873_-96.408504@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586541,
-    "wof:geomhash":"51d78ff151be4ff4ee4e291e227c33ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ee528aefc1e150af031ce0c79ce09cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512293,
+            "region_id":85688727,
+            "venue_id":773546351
+        }
+    ],
     "wof:id":773546351,
-    "wof:lastmodified":1472630089,
+    "wof:lastmodified":1492800754,
     "wof:name":"Burton Slininger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

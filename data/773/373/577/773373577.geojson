@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.518666,45.455929,-94.518666,45.455929",
     "geom:latitude":45.455929,
     "geom:longitude":-94.518666,
@@ -28,17 +29,34 @@
     "sg:postcode":"56368",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514483,
+        85633793,
+        85952483,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KSbispDCwt25JC5AoTB0Q_45.455929_-94.518666@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585207,
-    "wof:geomhash":"a0101a6c1f6ab5ca02e450aafc3e6695",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fea14192e66cba455eae937f7ecc42ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514483,
+            "locality_id":85952483,
+            "region_id":85688727,
+            "venue_id":773373577
+        }
+    ],
     "wof:id":773373577,
-    "wof:lastmodified":1472630032,
+    "wof:lastmodified":1492808705,
     "wof:name":"St Peter & Paul School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

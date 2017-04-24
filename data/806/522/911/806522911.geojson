@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.976043,44.239821,-94.976043,44.239821",
     "geom:latitude":44.239821,
     "geom:longitude":-94.976043,
@@ -31,17 +32,34 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511473,
+        85633793,
+        85952695,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iGYhcqEgFd32LtHfkq4bw_44.239821_-94.976043@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598808,
-    "wof:geomhash":"0c9850040958bf584fffbd64fc8de547",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98c673e07ea1c50473f3ceb80d292c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511473,
+            "locality_id":85952695,
+            "region_id":85688727,
+            "venue_id":806522911
+        }
+    ],
     "wof:id":806522911,
-    "wof:lastmodified":1472629370,
+    "wof:lastmodified":1492818424,
     "wof:name":"Springfield Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

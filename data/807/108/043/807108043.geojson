@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.058314,44.226043,-96.058314,44.226043",
     "geom:latitude":44.226043,
     "geom:longitude":-96.058314,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512669,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c24MAFFI59U6tZSWTb75R_44.226043_-96.058314@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603815,
-    "wof:geomhash":"3d6389a8577ebc38291df15ae3564350",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f08067acddb2d3a605c951573df41627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512669,
+            "region_id":85688727,
+            "venue_id":807108043
+        }
+    ],
     "wof:id":807108043,
-    "wof:lastmodified":1472629197,
+    "wof:lastmodified":1492823988,
     "wof:name":"John G Bakker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

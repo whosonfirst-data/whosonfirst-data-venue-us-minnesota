@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.298988,43.694214,-91.298988,43.694214",
     "geom:latitude":43.694214,
     "geom:longitude":-91.298988,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1462589164,
-    "wof:geomhash":"7c6cf171572b2ce3cf2c1a93a8fe4bce",
+    "wof:geomhash":"33e6791593002e96297e1984137d334b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":789613829
         }
     ],
     "wof:id":789613829,
-    "wof:lastmodified":1472629015,
+    "wof:lastmodified":1492810314,
     "wof:name":"Tri State Transmission Exch",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

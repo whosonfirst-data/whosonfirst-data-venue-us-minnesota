@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.441071,45.054535,-93.441071,45.054535",
     "geom:latitude":45.054535,
     "geom:longitude":-93.441071,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gQ4n4X7pm4R6ZNXkqKkh6_45.054535_-93.441071@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597028,
-    "wof:geomhash":"7729f79864756fe60ea53df399adce22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3255d09e6f066d15b8423d2e083c5fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":790578823
+        }
+    ],
     "wof:id":790578823,
-    "wof:lastmodified":1472629864,
+    "wof:lastmodified":1492835166,
     "wof:name":"Learning From Hearth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

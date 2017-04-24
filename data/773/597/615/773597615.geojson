@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.323492,45.886405,-95.323492,45.886405",
     "geom:latitude":45.886405,
     "geom:longitude":-95.323492,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513753,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67t9sTNfjJFRCvKB6Mjhky_45.886405_-95.323492@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586927,
-    "wof:geomhash":"73e69837c7f436d44b36280c6b47b10b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"300b2c2bfa5a99b1e5b8d5dab5364306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513753,
+            "region_id":85688727,
+            "venue_id":773597615
+        }
+    ],
     "wof:id":773597615,
-    "wof:lastmodified":1472630107,
+    "wof:lastmodified":1492799514,
     "wof:name":"Alexandria Dairy Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

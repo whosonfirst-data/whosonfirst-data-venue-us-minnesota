@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262015,45.481302,-93.262015,45.481302",
     "geom:latitude":45.481302,
     "geom:longitude":-93.262015,
@@ -38,17 +39,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513111,
+        85633793,
+        85953389,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FCfOkc9SXfJBrqYQUaegR_45.481302_-93.262015@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605275,
-    "wof:geomhash":"7b9b21bb5c1321abf7c7ce882bc2eef6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"885100441fa4189192036f122e26e883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513111,
+            "locality_id":85953389,
+            "region_id":85688727,
+            "venue_id":807244775
+        }
+    ],
     "wof:id":807244775,
-    "wof:lastmodified":1472629494,
+    "wof:lastmodified":1492827603,
     "wof:name":"Schleicher Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.404051,48.602651,-93.404051,48.602651",
     "geom:latitude":48.602651,
     "geom:longitude":-93.404051,
@@ -34,17 +35,34 @@
         "casual"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rhR0UqL3sZUS4UUKYeVt4_48.602651_-93.404051@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584486,
-    "wof:geomhash":"de375018e01a7e867ebb6ada70890e59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0682bfe4090e101c2dce9a84e8021808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":773276019
+        }
+    ],
     "wof:id":773276019,
-    "wof:lastmodified":1472629991,
+    "wof:lastmodified":1492803963,
     "wof:name":"Red Hatters Heaven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

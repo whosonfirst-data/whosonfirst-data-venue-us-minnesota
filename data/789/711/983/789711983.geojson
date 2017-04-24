@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.010058,43.554006,-92.010058,43.554006",
     "geom:latitude":43.554006,
     "geom:longitude":-92.010058,
@@ -31,17 +32,34 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XW9gcSO06vHIcnrzmvAtC_43.554006_-92.010058@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589947,
-    "wof:geomhash":"c795df08b87626ee7d6ddbdb566a825a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e78a0fc3d58f419bd0d730c851318d4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":789711983
+        }
+    ],
     "wof:id":789711983,
-    "wof:lastmodified":1472629254,
+    "wof:lastmodified":1492813272,
     "wof:name":"Phillips Publishing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

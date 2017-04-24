@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.55421,43.521038,-95.55421,43.521038",
     "geom:latitude":43.521038,
     "geom:longitude":-95.55421,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512129,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dcFUox9qye0EeOAxCuUab_43.521038_-95.554210@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604824,
-    "wof:geomhash":"662e812d9671b50df75b3ca3082c0761",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e400e8b350b4f7228d3c87e30730b02a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512129,
+            "region_id":85688727,
+            "venue_id":807202631
+        }
+    ],
     "wof:id":807202631,
-    "wof:lastmodified":1472629410,
+    "wof:lastmodified":1492824680,
     "wof:name":"Brad Strandberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

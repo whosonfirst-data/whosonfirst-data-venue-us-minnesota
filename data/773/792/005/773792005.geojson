@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.298548,47.443896,-92.298548,47.443896",
     "geom:latitude":47.443896,
     "geom:longitude":-92.298548,
@@ -35,17 +36,26 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zkkSUpOflGxXT4CEr9U1W_47.443896_-92.298548@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588403,
-    "wof:geomhash":"94981381860bbd1e1bab373cb6af9eb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7d3c3529992bcbb644cd4745ede0a8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773792005
+        }
+    ],
     "wof:id":773792005,
-    "wof:lastmodified":1472630157,
+    "wof:lastmodified":1492803129,
     "wof:name":"Far North Farms",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

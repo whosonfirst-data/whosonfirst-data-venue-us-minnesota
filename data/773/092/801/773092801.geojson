@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.512503,46.772881,-92.512503,46.772881",
     "geom:latitude":46.772881,
     "geom:longitude":-92.512503,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510663,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_559Z9JsLfcVkt00RWxKm5c_46.772881_-92.512503@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583099,
-    "wof:geomhash":"1eda27778633a5fdbd60a6e0a8b77eb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"066cc19e317398bab02885a95eba619f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510663,
+            "region_id":85688727,
+            "venue_id":773092801
+        }
+    ],
     "wof:id":773092801,
-    "wof:lastmodified":1472629582,
+    "wof:lastmodified":1492800814,
     "wof:name":"Nora Austin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

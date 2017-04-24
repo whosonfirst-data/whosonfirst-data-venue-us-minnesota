@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.059254,45.723909,-93.059254,45.723909",
     "geom:latitude":45.723909,
     "geom:longitude":-93.059254,
@@ -34,17 +35,32 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jUzT43P1IrxxKfZCwQoCR_45.723909_-93.059254@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588349,
-    "wof:geomhash":"0d7252744cafa2fd4e61116a313bc2b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd340070ef67a29534a66bfa11ff93dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":773784209
+        }
+    ],
     "wof:id":773784209,
-    "wof:lastmodified":1472630156,
+    "wof:lastmodified":1492806329,
     "wof:name":"Steltz Linecare Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

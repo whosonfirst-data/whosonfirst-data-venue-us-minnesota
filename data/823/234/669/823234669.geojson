@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.879055,43.997105,-91.879055,43.997105",
     "geom:latitude":43.997105,
     "geom:longitude":-91.879055,
@@ -42,17 +43,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510749,
+        85633793,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HXG0bVXRhWTiU3JdyVRK3_43.997105_-91.879055@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609045,
-    "wof:geomhash":"479ad420f6c597a25caa3b78d615740c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36f2cc5d824df4745331459a2c529594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404510749,
+            "region_id":85688727,
+            "venue_id":823234669
+        }
+    ],
     "wof:id":823234669,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492828377,
     "wof:name":"Sauers Valley View Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

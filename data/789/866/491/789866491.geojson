@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.235163,45.560345,-93.235163,45.560345",
     "geom:latitude":45.560345,
     "geom:longitude":-93.235163,
@@ -33,17 +34,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0psT74Q6oPbAaaJlaGKfGP_45.560345_-93.235163@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591157,
-    "wof:geomhash":"219c4826ae3880122cccc7e69071cac5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8694033d8770176cf95a15f81ef84a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":789866491
+        }
+    ],
     "wof:id":789866491,
-    "wof:lastmodified":1472629541,
+    "wof:lastmodified":1492810152,
     "wof:name":"Health Source Community Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.123455,47.167971,-94.123455,47.167971",
     "geom:latitude":47.167971,
     "geom:longitude":-94.123455,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509377,
+        85633793,
+        85968871,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y4lvttim5GR43IogWuibM_47.167971_-94.123455@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592028,
-    "wof:geomhash":"a3df672c7b41e3c4ac6408c0332fa080",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa910c0d22bf2a4113da80be2fdb0e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509377,
+            "locality_id":85968871,
+            "region_id":85688727,
+            "venue_id":789963809
+        }
+    ],
     "wof:id":789963809,
-    "wof:lastmodified":1472629654,
+    "wof:lastmodified":1492810675,
     "wof:name":"Daves Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

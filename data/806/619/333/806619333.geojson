@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.877895,44.999838,-93.877895,44.999838",
     "geom:latitude":44.999838,
     "geom:longitude":-93.877895,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u1tImzBNsAtNqNdTM9f6m_44.999838_-93.877895@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599647,
-    "wof:geomhash":"56095dae9464a64d10574c27c026049a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"865ccff074e94ed61c0441f2f84383ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":806619333
+        }
+    ],
     "wof:id":806619333,
-    "wof:lastmodified":1472629549,
+    "wof:lastmodified":1492815609,
     "wof:name":"Gene Lukes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

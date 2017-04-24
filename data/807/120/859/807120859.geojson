@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.244386,43.511391,-93.244386,43.511391",
     "geom:latitude":43.511391,
     "geom:longitude":-93.244386,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514527,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22sDNfcVhWQ5GahQBjLHKK_43.511391_-93.244386@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603949,
-    "wof:geomhash":"2f9790eac78e340e756ba56794b9374c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69f9da78bccc2a0f0bb3bc5de251f0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514527,
+            "region_id":85688727,
+            "venue_id":807120859
+        }
+    ],
     "wof:id":807120859,
-    "wof:lastmodified":1472629259,
+    "wof:lastmodified":1492822340,
     "wof:name":"Buchanan Brent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.524228,47.465527,-92.524228,47.465527",
     "geom:latitude":47.465527,
     "geom:longitude":-92.524228,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A9iGO3SBsWP6u3LFbnpXO_47.465527_-92.524228@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584691,
-    "wof:geomhash":"306580ee53f1ce923d784ca9257e270e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"badb505f0c56966aeeb9c07f86f412ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773300967
+        }
+    ],
     "wof:id":773300967,
-    "wof:lastmodified":1472630038,
+    "wof:lastmodified":1492805401,
     "wof:name":"Northern Minnesota Rental Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.001281,45.336364,-93.001281,45.336364",
     "geom:latitude":45.336364,
     "geom:longitude":-93.001281,
@@ -31,17 +32,34 @@
         "valve"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rWtIjiuv2bJIe7dTPqQmO_45.336364_-93.001281@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596378,
-    "wof:geomhash":"472f96e950080840650c032eb9b1bf4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29c30afea455ca7c3b4a5fc73693e47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":790501421
+        }
+    ],
     "wof:id":790501421,
-    "wof:lastmodified":1472629782,
+    "wof:lastmodified":1492836783,
     "wof:name":"Sandy Manufacturing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

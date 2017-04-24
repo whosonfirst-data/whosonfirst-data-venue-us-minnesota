@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.358245,45.048521,-93.358245,45.048521",
     "geom:latitude":45.048521,
     "geom:longitude":-93.358245,
@@ -35,17 +36,34 @@
         "cars-wholesale"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TPHrmic64Hgs2SU0V09WP_45.048521_-93.358245@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608206,
-    "wof:geomhash":"e71ff33a235291b9e74dcd1167d65c32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b383be0c132bb0127e6ea55f6cd128ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823191331
+        }
+    ],
     "wof:id":823191331,
-    "wof:lastmodified":1472629024,
+    "wof:lastmodified":1492830483,
     "wof:name":"Crystal Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

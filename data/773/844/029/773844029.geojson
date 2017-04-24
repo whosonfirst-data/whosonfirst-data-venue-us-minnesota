@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.47305,45.833897,-94.47305,45.833897",
     "geom:latitude":45.833897,
     "geom:longitude":-94.47305,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510029,
+        85633793,
+        85968861,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39XhN3aT7Rz4cJs7qlkb3j_45.833897_-94.473050@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588852,
-    "wof:geomhash":"3442165bb7506ad5fa2cb585c8bdfd4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"019caade5f5f4823526458073150a174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510029,
+            "locality_id":85968861,
+            "region_id":85688727,
+            "venue_id":773844029
+        }
+    ],
     "wof:id":773844029,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492800744,
     "wof:name":"Jim's Used Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

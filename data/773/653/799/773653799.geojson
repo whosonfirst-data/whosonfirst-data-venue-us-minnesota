@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.332153,44.914405,-93.332153,44.914405",
     "geom:latitude":44.914405,
     "geom:longitude":-93.332153,
@@ -28,17 +29,34 @@
     "sg:postcode":"55424",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tJoGDVmTfkVUpAZd6hwJF_44.914405_-93.332153@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587352,
-    "wof:geomhash":"8e00f941ebccfb915c77a12756562244",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43b192e2c33e44e0f25bc97ca8700fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773653799
+        }
+    ],
     "wof:id":773653799,
-    "wof:lastmodified":1472630123,
+    "wof:lastmodified":1492804564,
     "wof:name":"Robert L Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

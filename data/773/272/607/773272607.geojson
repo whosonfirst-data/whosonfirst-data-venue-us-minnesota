@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.448808,44.024865,-92.448808,44.024865",
     "geom:latitude":44.024865,
     "geom:longitude":-92.448808,
@@ -35,17 +36,34 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rgHgzffeXsT4tGT6WsRjg_44.024865_-92.448808@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584461,
-    "wof:geomhash":"b5efbdd877f2fdfd72c628e69a93cd3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dfdeb48d2f3a24f8a93c17b86485308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773272607
+        }
+    ],
     "wof:id":773272607,
-    "wof:lastmodified":1472630006,
+    "wof:lastmodified":1492799008,
     "wof:name":"Board Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

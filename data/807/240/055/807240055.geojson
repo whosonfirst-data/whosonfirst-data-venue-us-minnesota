@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.165206,44.670478,-93.165206,44.670478",
     "geom:latitude":44.670478,
     "geom:longitude":-93.165206,
@@ -44,17 +45,34 @@
     ],
     "sg:website":"http://www.rolypoly.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512105,
+        85633793,
+        85968489,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E5YulIf4caOjvDQS5TS0t_44.670478_-93.165206@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605211,
-    "wof:geomhash":"7b1aa9517391d1bed02ba10a84efcbe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"660752827dbfd4a820d4e78e3cb9e3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512105,
+            "locality_id":85968489,
+            "region_id":85688727,
+            "venue_id":807240055
+        }
+    ],
     "wof:id":807240055,
-    "wof:lastmodified":1472629491,
+    "wof:lastmodified":1492827073,
     "wof:name":"Roly Poly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

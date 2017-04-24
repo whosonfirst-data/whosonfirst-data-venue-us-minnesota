@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.37944,44.907256,-93.37944,44.907256",
     "geom:latitude":44.907256,
     "geom:longitude":-93.37944,
@@ -38,17 +39,34 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vs7sTHjZp5WQZwTUbMYm8_44.907256_-93.379440@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608453,
-    "wof:geomhash":"0b5b11e2d13bbc320f31137f6d3488d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26b16235dd72a93367efb2f6a2cb1635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823205557
+        }
+    ],
     "wof:id":823205557,
-    "wof:lastmodified":1472629060,
+    "wof:lastmodified":1492829942,
     "wof:name":"Winslow Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.94858,46.127491,-94.94858,46.127491",
     "geom:latitude":46.127491,
     "geom:longitude":-94.94858,
@@ -31,17 +32,34 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514703,
+        85633793,
+        85968395,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LwqZzUSXtbs78t3c08jJj_46.127491_-94.948580@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590324,
-    "wof:geomhash":"198f85027123a1f5b49fe73477e33a96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed958d035384dbb49cb0c92a0458dc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514703,
+            "locality_id":85968395,
+            "region_id":85688727,
+            "venue_id":789759331
+        }
+    ],
     "wof:id":789759331,
-    "wof:lastmodified":1472629331,
+    "wof:lastmodified":1492810609,
     "wof:name":"Central Ag Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

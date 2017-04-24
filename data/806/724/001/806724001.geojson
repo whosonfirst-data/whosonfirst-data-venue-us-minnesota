@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.478138,44.318387,-94.478138,44.318387",
     "geom:latitude":44.318387,
     "geom:longitude":-94.478138,
@@ -28,17 +29,34 @@
     "sg:postcode":"56073",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J0JG1lD44xOnsXPyRf61G_44.318387_-94.478138@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600537,
-    "wof:geomhash":"dec13d76b11b647a55cb3b82e75f9c86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d7a1d71c0d74e9024e9f78f2959fd2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":806724001
+        }
+    ],
     "wof:id":806724001,
-    "wof:lastmodified":1472629751,
+    "wof:lastmodified":1492814774,
     "wof:name":"Bruce Buntjer's Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

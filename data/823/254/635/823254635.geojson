@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.258041,46.661983,-95.258041,46.661983",
     "geom:latitude":46.661983,
     "geom:longitude":-95.258041,
@@ -40,17 +41,32 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513033,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MZ1LOip0nUTdh7LUt8w8g_46.661983_-95.258041@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609433,
-    "wof:geomhash":"aa8e6536663361a7f711e548fedb8b27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7907f33f2f12f8b6942c6f8ffad7423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513033,
+            "region_id":85688727,
+            "venue_id":823254635
+        }
+    ],
     "wof:id":823254635,
-    "wof:lastmodified":1472629219,
+    "wof:lastmodified":1492830946,
     "wof:name":"Paddock Township",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

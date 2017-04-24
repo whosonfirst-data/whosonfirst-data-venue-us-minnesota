@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.914522,45.362295,-92.914522,45.362295",
     "geom:latitude":45.362295,
     "geom:longitude":-92.914522,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rcPWzQP0xlMsbxXnqvLgY_45.362295_-92.914522@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599423,
-    "wof:geomhash":"0efb8faf8e95afc3e7f17f586dd0bc1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d83a9b13f486749ae36a610ec95a94df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":806593361
+        }
+    ],
     "wof:id":806593361,
-    "wof:lastmodified":1472629506,
+    "wof:lastmodified":1492817944,
     "wof:name":"RFO Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

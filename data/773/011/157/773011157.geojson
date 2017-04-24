@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.200989,44.992858,-95.200989,44.992858",
     "geom:latitude":44.992858,
     "geom:longitude":-95.200989,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513789,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PCQv02TOsPfdyNVFBUqzT_44.992858_-95.200989@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582328,
-    "wof:geomhash":"f196df79abf000f580fce76e233d21be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f162197c707b720f2224133bf57522e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513789,
+            "region_id":85688727,
+            "venue_id":773011157
+        }
+    ],
     "wof:id":773011157,
-    "wof:lastmodified":1472628969,
+    "wof:lastmodified":1492804154,
     "wof:name":"Larry Butler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

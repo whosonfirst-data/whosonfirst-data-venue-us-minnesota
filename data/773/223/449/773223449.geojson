@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.9645,44.964999,-92.9645,44.964999",
     "geom:latitude":44.964999,
     "geom:longitude":-92.9645,
@@ -29,19 +30,38 @@
     "sg:province":"MN",
     "sg:website":"www.western-bank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85838849,
+        102191575,
+        404514931,
+        85633793,
+        85953535,
+        102087659,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GpQt1tmZ25CXxPrzP9GUM_44.964999_-92.964500@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584099,
-    "wof:geomhash":"f278efb08063bd638462be61896ecc6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84e71172b014b2b673d7e5fceea1e7c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514931,
+            "locality_id":85953535,
+            "neighbourhood_id":85838849,
+            "region_id":85688727,
+            "venue_id":773223449
+        }
+    ],
     "wof:id":773223449,
-    "wof:lastmodified":1472629964,
+    "wof:lastmodified":1492807741,
     "wof:name":"Western Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85838849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

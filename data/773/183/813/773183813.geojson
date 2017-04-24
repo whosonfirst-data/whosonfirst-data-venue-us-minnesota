@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.24871,44.290639,-93.24871,44.290639",
     "geom:latitude":44.290639,
     "geom:longitude":-93.24871,
@@ -28,17 +29,34 @@
     "sg:postcode":"55021",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tppWnJ2qcde8QbbPe6bHJ_44.290639_-93.248710@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583788,
-    "wof:geomhash":"a190d3248154edff3063332ffadb92e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51f0fa56a0849a297e65e79042a12e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773183813
+        }
+    ],
     "wof:id":773183813,
-    "wof:lastmodified":1472629924,
+    "wof:lastmodified":1492807094,
     "wof:name":"Graystone Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

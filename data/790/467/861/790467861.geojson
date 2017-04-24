@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.047156,44.382773,-92.047156,44.382773",
     "geom:latitude":44.382773,
     "geom:longitude":-92.047156,
@@ -33,17 +34,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fe2JXEzi6AwpbkOjYTcED_44.382773_-92.047156@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596074,
-    "wof:geomhash":"bbbfa3a72d72843e5f3f96455a1a37e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bc06e06e56035d7b6b74c595f0eadd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":790467861
+        }
+    ],
     "wof:id":790467861,
-    "wof:lastmodified":1472629749,
+    "wof:lastmodified":1492831862,
     "wof:name":"Joe's Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

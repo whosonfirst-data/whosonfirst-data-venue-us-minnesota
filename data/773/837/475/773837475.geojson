@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.464029,43.505285,-91.464029,43.505285",
     "geom:latitude":43.505285,
     "geom:longitude":-91.464029,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1462588783,
-    "wof:geomhash":"7861c24fc8307db1d98f9bd7f75a7e2f",
+    "wof:geomhash":"716d00fad2edcfbe69e9401fd3474bdf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":773837475
         }
     ],
     "wof:id":773837475,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492803585,
     "wof:name":"Hammell Equipment-Eitzen Inc",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.0802,44.938954,-93.0802,44.938954",
     "geom:latitude":44.938954,
     "geom:longitude":-93.0802,
@@ -28,19 +29,38 @@
     "sg:postcode":"55107",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FrzXW48YOTagwY2SiPwMB_44.938954_-93.080200@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585764,
-    "wof:geomhash":"9495b11352594139fd285db356a5c042",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2f55dd4299b23805bbf6fba6dbf376e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773440905
+        }
+    ],
     "wof:id":773440905,
-    "wof:lastmodified":1472630059,
+    "wof:lastmodified":1492805118,
     "wof:name":"Usps St Paul",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

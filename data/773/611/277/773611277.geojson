@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.27452,45.70286,-94.27452,45.70286",
     "geom:latitude":45.70286,
     "geom:longitude":-94.27452,
@@ -31,17 +32,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514501,
+        85633793,
+        85952507,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GgvFtfXgWwt7MpUOInDWr_45.702860_-94.274520@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587022,
-    "wof:geomhash":"4468d5b55d85584dd38b01027e8f6584",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22f362eca505ea87c128cbf49d819383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514501,
+            "locality_id":85952507,
+            "region_id":85688727,
+            "venue_id":773611277
+        }
+    ],
     "wof:id":773611277,
-    "wof:lastmodified":1472630103,
+    "wof:lastmodified":1492799102,
     "wof:name":"Howies Corner Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

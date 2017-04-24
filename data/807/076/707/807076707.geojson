@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.296329,45.387221,-95.296329,45.387221",
     "geom:latitude":45.387221,
     "geom:longitude":-95.296329,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514671,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4M0vWTKXq5KCZIdC0PrxAP_45.387221_-95.296329@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603508,
-    "wof:geomhash":"9a90e06df0d025f464e2b375ea1512cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0d7244eff3ac75e3a515d521d2d835e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514671,
+            "region_id":85688727,
+            "venue_id":807076707
+        }
+    ],
     "wof:id":807076707,
-    "wof:lastmodified":1472629094,
+    "wof:lastmodified":1492825613,
     "wof:name":"Dale Magaard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

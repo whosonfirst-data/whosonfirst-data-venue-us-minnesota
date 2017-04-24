@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247694,45.052672,-93.247694,45.052672",
     "geom:latitude":45.052672,
     "geom:longitude":-93.247694,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811975,
+        85688727,
         102191575,
-        404511285,
+        404509195,
         85633793,
-        85953397,
+        85953387,
         102087861,
-        85688727
+        404511279,
+        85953403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,23 +48,31 @@
     },
     "wof:country":"US",
     "wof:created":1462585210,
-    "wof:geomhash":"4f5db6b678a6346ab5f3ba2a90686210",
+    "wof:geomhash":"7c60a0ffb06a8d7fa449154bacbd174e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087861,
-            "localadmin_id":404511285,
-            "locality_id":85953397,
-            "neighbourhood_id":85811975,
+            "localadmin_id":404509195,
+            "locality_id":85953387,
+            "region_id":85688727,
+            "venue_id":773374001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511279,
+            "locality_id":85953403,
             "region_id":85688727,
             "venue_id":773374001
         }
     ],
     "wof:id":773374001,
-    "wof:lastmodified":1472630025,
+    "wof:lastmodified":1492805234,
     "wof:name":"Millinium Express",
-    "wof:parent_id":85811975,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

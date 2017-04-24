@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.432022,45.065056,-95.432022,45.065056",
     "geom:latitude":45.065056,
     "geom:longitude":-95.432022,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509087,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6toBgm10l54WfL4fWYw9OH_45.065056_-95.432022@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604745,
-    "wof:geomhash":"b20474d9cc8d69582b01126ddfe88430",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e2fb60ccb3694cc5f5cd3eb4ce2dccd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509087,
+            "region_id":85688727,
+            "venue_id":807195365
+        }
+    ],
     "wof:id":807195365,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492826634,
     "wof:name":"Brad Poppen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

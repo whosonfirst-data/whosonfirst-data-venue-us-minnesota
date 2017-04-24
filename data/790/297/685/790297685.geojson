@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.83372,43.785569,-91.83372,43.785569",
     "geom:latitude":43.785569,
     "geom:longitude":-91.83372,
@@ -33,17 +34,34 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509641,
+        85633793,
+        85953167,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Tf64TSVTAdONqEsrWb3pN_43.785569_-91.833720@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594750,
-    "wof:geomhash":"58b3b6054123d11de15d1a9cd16d7440",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd1c83c28bcd871ed452c3f903a2728c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509641,
+            "locality_id":85953167,
+            "region_id":85688727,
+            "venue_id":790297685
+        }
+    ],
     "wof:id":790297685,
-    "wof:lastmodified":1472629492,
+    "wof:lastmodified":1492837311,
     "wof:name":"Crossing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

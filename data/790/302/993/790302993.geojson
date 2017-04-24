@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.277892,44.968301,-93.277892,44.968301",
     "geom:latitude":44.968301,
     "geom:longitude":-93.277892,
@@ -29,14 +30,15 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872585,
+        1108800007,
+        85872643,
         102191575,
+        1108799997,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420558763
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594789,
-    "wof:geomhash":"229f14dc970ac15fff6184d083fc52c4",
+    "wof:geomhash":"6c9f031603144d756c57ebc6f9057e5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +54,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872585,
-            "region_id":85688727,
-            "venue_id":790302993
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420558763,
+            "macrohood_id":1108799997,
+            "microhood_id":1108800007,
+            "neighbourhood_id":85872643,
             "region_id":85688727,
             "venue_id":790302993
         }
     ],
     "wof:id":790302993,
-    "wof:lastmodified":1472629510,
+    "wof:lastmodified":1492837813,
     "wof:name":"United Home Workers Associaton",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

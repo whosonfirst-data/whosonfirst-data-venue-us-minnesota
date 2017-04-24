@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.785201,44.412755,-94.785201,44.412755",
     "geom:latitude":44.412755,
     "geom:longitude":-94.785201,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511585,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10aA5zKLJ00XmDrcI65KQb_44.412755_-94.785201@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603777,
-    "wof:geomhash":"2631a2a38f7ff9ef67f664ea00186318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7456d70af362b791390d16e85a42f434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511585,
+            "region_id":85688727,
+            "venue_id":807104319
+        }
+    ],
     "wof:id":807104319,
-    "wof:lastmodified":1472629196,
+    "wof:lastmodified":1492822847,
     "wof:name":"Douglas Bandemer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

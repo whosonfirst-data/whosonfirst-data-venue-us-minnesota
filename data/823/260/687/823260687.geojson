@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.303097,48.904978,-95.303097,48.904978",
     "geom:latitude":48.904978,
     "geom:longitude":-95.303097,
@@ -32,17 +33,34 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513385,
+        85633793,
+        85953417,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h1ZlFMYHSBUq6eRE2kXiM_48.904978_-95.303097@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609564,
-    "wof:geomhash":"abc1e61a5d74a4b2a5cbc36c48a8c0e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76808974cd07435cc9dd7e123a5b7e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404513385,
+            "locality_id":85953417,
+            "region_id":85688727,
+            "venue_id":823260687
+        }
+    ],
     "wof:id":823260687,
-    "wof:lastmodified":1472629225,
+    "wof:lastmodified":1492828540,
     "wof:name":"Lakeview Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

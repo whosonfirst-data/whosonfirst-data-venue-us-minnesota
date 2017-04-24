@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223013,45.107525,-93.223013,45.107525",
     "geom:latitude":45.107525,
     "geom:longitude":-93.223013,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514455,
+        85633793,
+        85953145,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24tTsnMtiii2vGxkJrKF04_45.107525_-93.223013@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585008,
-    "wof:geomhash":"3065b46f390c51a03f833fc7a0f1eb3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5729d38900c157ae30713f5a4fb198f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514455,
+            "locality_id":85953145,
+            "region_id":85688727,
+            "venue_id":773344273
+        }
+    ],
     "wof:id":773344273,
-    "wof:lastmodified":1472630021,
+    "wof:lastmodified":1492806205,
     "wof:name":"Rw Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

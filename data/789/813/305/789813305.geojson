@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.270603,43.701666,-91.270603,43.701666",
     "geom:latitude":43.701666,
     "geom:longitude":-91.270603,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1462590740,
-    "wof:geomhash":"3ce60a72ed0fce34882049b9a1659a1e",
+    "wof:geomhash":"1e47d41856bd71ba87c226c2b61d3c6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":789813305
         }
     ],
     "wof:id":789813305,
-    "wof:lastmodified":1472629394,
+    "wof:lastmodified":1492812299,
     "wof:name":"Sharon Rohrer Works",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

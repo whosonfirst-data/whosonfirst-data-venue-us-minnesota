@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181457,48.116805,-96.181457,48.116805",
     "geom:latitude":48.116805,
     "geom:longitude":-96.181457,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nOc0T0tF260I3PlBK85FP_48.116805_-96.181457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600366,
-    "wof:geomhash":"17f2b8619c82f8695e9d8854fb7c12f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf78539766b41bf78037365d278ee760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806703631
+        }
+    ],
     "wof:id":806703631,
-    "wof:lastmodified":1472629725,
+    "wof:lastmodified":1492816415,
     "wof:name":"Dean Foods Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

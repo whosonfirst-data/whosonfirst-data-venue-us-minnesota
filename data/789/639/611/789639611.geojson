@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.865918,45.355143,-94.865918,45.355143",
     "geom:latitude":45.355143,
     "geom:longitude":-94.865918,
@@ -28,17 +29,32 @@
     "sg:postcode":"56273",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513953,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5G5LUVx8mS1FAd4nkaDo6s_45.355143_-94.865918@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589371,
-    "wof:geomhash":"ddc341bff5f5988d45668cf4c525f7f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7abcb89cd3bc3e00e7fdde4514f51817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513953,
+            "region_id":85688727,
+            "venue_id":789639611
+        }
+    ],
     "wof:id":789639611,
-    "wof:lastmodified":1472629089,
+    "wof:lastmodified":1492812879,
     "wof:name":"Jones Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

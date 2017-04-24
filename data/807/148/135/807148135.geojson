@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.520218,44.86331,-94.520218,44.86331",
     "geom:latitude":44.86331,
     "geom:longitude":-94.520218,
@@ -30,17 +31,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510575,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U0Qw0OI47q8jQNrJJ7Xcj_44.863310_-94.520218@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604257,
-    "wof:geomhash":"270b8c8b9134ebbfb77dd197a5c2ce3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a745ad15566761728852f2a119e60620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510575,
+            "region_id":85688727,
+            "venue_id":807148135
+        }
+    ],
     "wof:id":807148135,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492824548,
     "wof:name":"Bruce Karl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

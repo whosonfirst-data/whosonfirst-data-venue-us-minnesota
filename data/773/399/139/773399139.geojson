@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.057773,47.65189,-93.057773,47.65189",
     "geom:latitude":47.65189,
     "geom:longitude":-93.057773,
@@ -33,17 +34,36 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zFZq9rEAZszDLYN00ZLP5_47.651890_-93.057773@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585393,
-    "wof:geomhash":"72686e4db35892ca0feebfe354b51581",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24fe1cb7ed7851847e3f8d5032feabf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":773399139
+        }
+    ],
     "wof:id":773399139,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492804430,
     "wof:name":"Mc Nair's Bed & Breakfast",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

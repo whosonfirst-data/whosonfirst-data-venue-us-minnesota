@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.804198,43.614029,-95.804198,43.614029",
     "geom:latitude":43.614029,
     "geom:longitude":-95.804198,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513491,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tmCwtiRwWNg4ZUA38Mwy0_43.614029_-95.804198@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604576,
-    "wof:geomhash":"d93d6ed05ae50568b089833d11f4fdd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5eb059fe117e58864b4fe5f052663f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404513491,
+            "region_id":85688727,
+            "venue_id":807179105
+        }
+    ],
     "wof:id":807179105,
-    "wof:lastmodified":1472629342,
+    "wof:lastmodified":1492826856,
     "wof:name":"Ray Ailts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

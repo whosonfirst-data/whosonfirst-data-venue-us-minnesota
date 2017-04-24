@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.631472,46.523651,-95.631472,46.523651",
     "geom:latitude":46.523651,
     "geom:longitude":-95.631472,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513047,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d979N5ftI230iiHe3bMRE_46.523651_-95.631472@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598850,
-    "wof:geomhash":"d22545a0b5ed0a2521960be1d2e87233",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40323f00b2c134ccf7be7d3c05708820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513047,
+            "region_id":85688727,
+            "venue_id":806527511
+        }
+    ],
     "wof:id":806527511,
-    "wof:lastmodified":1472629394,
+    "wof:lastmodified":1492816942,
     "wof:name":"Mid-Central Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

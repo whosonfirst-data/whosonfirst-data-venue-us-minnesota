@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.012764,43.55124,-92.012764,43.55124",
     "geom:latitude":43.55124,
     "geom:longitude":-92.012764,
@@ -40,17 +41,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EJ07ZwpHV1zQocGwKzCyz_43.551240_-92.012764@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609033,
-    "wof:geomhash":"628d5d78c2c91a3862a8ab7b0e7f9ab4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52c50bac62138975e2dd48b2421f83d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":823234003
+        }
+    ],
     "wof:id":823234003,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492828391,
     "wof:name":"Clerk's Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

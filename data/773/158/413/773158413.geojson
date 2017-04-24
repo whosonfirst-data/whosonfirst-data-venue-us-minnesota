@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.731299,44.928194,-95.731299,44.928194",
     "geom:latitude":44.928194,
     "geom:longitude":-95.731299,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514581,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DHmGMbcsmNxz42WYPEaM7_44.928194_-95.731299@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583579,
-    "wof:geomhash":"6bde6380a30137665220c284ce297aea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45d7db0b00b640b4639a1828ea5d11df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404514581,
+            "region_id":85688727,
+            "venue_id":773158413
+        }
+    ],
     "wof:id":773158413,
-    "wof:lastmodified":1472629768,
+    "wof:lastmodified":1492805182,
     "wof:name":"Hansen Twyla",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

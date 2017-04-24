@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.952809,43.927749,-93.952809,43.927749",
     "geom:latitude":43.927749,
     "geom:longitude":-93.952809,
@@ -32,17 +33,34 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511551,
+        85633793,
+        85953343,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bvNVqMkN654wceLPYTzOT_43.927749_-93.952809@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609144,
-    "wof:geomhash":"01a92935ea973f961c245eb49a307157",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f653a7d2e96e6554823b621b8512312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511551,
+            "locality_id":85953343,
+            "region_id":85688727,
+            "venue_id":823239661
+        }
+    ],
     "wof:id":823239661,
-    "wof:lastmodified":1472629156,
+    "wof:lastmodified":1492828319,
     "wof:name":"Agro Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

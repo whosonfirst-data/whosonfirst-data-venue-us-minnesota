@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.32588,47.452364,-92.32588,47.452364",
     "geom:latitude":47.452364,
     "geom:longitude":-92.32588,
@@ -32,17 +33,26 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hUxwtTYdwz3DeAu8f5Ws7_47.452364_-92.325880@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589907,
-    "wof:geomhash":"f859678852ce8689b6fd2c1fb75f2a94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3de98c501064fe0a6ba2b3bdcd576348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":789706817
+        }
+    ],
     "wof:id":789706817,
-    "wof:lastmodified":1472629242,
+    "wof:lastmodified":1492813431,
     "wof:name":"Nancy Homola",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

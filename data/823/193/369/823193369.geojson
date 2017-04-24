@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.317288,45.05125,-93.317288,45.05125",
     "geom:latitude":45.05125,
     "geom:longitude":-93.317288,
@@ -32,17 +33,34 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04MOdzzPir0UcPDGr6gNkz_45.051250_-93.317288@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608243,
-    "wof:geomhash":"190944bb68c7e7e099b75af0e9bfd45a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3df0a3411a2a4f0cfa1d9e925f0c0331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823193369
+        }
+    ],
     "wof:id":823193369,
-    "wof:lastmodified":1472629020,
+    "wof:lastmodified":1492829263,
     "wof:name":"Nlm Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

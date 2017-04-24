@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.762753,48.846331,-95.762753,48.846331",
     "geom:latitude":48.846331,
     "geom:longitude":-95.762753,
@@ -31,17 +32,34 @@
         "screen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SeWjYpnl9fIm0V0DE6Rwo_48.846331_-95.762753@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589909,
-    "wof:geomhash":"5b46f6552c4b0027c35c052f14bd6d66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac23b3e84379044f334452b4a68a2a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":789707251
+        }
+    ],
     "wof:id":789707251,
-    "wof:lastmodified":1472629233,
+    "wof:lastmodified":1492811299,
     "wof:name":"Transfers Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

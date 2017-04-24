@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.230726,43.414798,-93.230726,43.414798",
     "geom:latitude":43.414798,
     "geom:longitude":-93.230726,
@@ -26,17 +27,30 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HtsESvUpjKI3qsAj9wsqq_43.414798_-93.230726@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604519,
-    "wof:geomhash":"cb425427c36533da87eb4ff28e87411f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a534a165fce1793a151fee18be6ddbcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "region_id":85688713,
+            "venue_id":807173303
+        }
+    ],
     "wof:id":807173303,
-    "wof:lastmodified":1472629340,
+    "wof:lastmodified":1492825962,
     "wof:name":"Roger Dahlby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

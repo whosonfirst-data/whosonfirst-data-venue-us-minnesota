@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.334408,44.710155,-94.334408,44.710155",
     "geom:latitude":44.710155,
     "geom:longitude":-94.334408,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512819,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ghWSwoB9TwI4NFwstpYAO_44.710155_-94.334408@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604341,
-    "wof:geomhash":"309dd2819116c289e1e6f182d6325c9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"002a3f0d291ce9ae5defa7069961e7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512819,
+            "region_id":85688727,
+            "venue_id":807157175
+        }
+    ],
     "wof:id":807157175,
-    "wof:lastmodified":1472629288,
+    "wof:lastmodified":1492825569,
     "wof:name":"Leo Albrecht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

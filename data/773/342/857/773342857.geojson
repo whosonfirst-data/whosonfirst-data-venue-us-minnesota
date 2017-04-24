@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.612094,45.686944,-94.612094,45.686944",
     "geom:latitude":45.686944,
     "geom:longitude":-94.612094,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514487,
+        85633793,
+        85952489,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jF2sljiZ8ke1NqkM2mdUY_45.686944_-94.612094@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584999,
-    "wof:geomhash":"5dee84dfd3e4a67bad05a02864d85db6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b60e4d119ec5458b4260431dc26090c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514487,
+            "locality_id":85952489,
+            "region_id":85688727,
+            "venue_id":773342857
+        }
+    ],
     "wof:id":773342857,
-    "wof:lastmodified":1472630018,
+    "wof:lastmodified":1492808848,
     "wof:name":"Jim Cremers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

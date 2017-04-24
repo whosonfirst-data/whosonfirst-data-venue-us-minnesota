@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.575064,43.67267,-93.575064,43.67267",
     "geom:latitude":43.67267,
     "geom:longitude":-93.575064,
@@ -33,17 +34,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509647,
+        85633793,
+        85969073,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1202N4CsBhADcaSIqwuvcq_43.672670_-93.575064@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609109,
-    "wof:geomhash":"2ed5907c818b6262c773e11194d417be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"251759f6a650c9e37c616af79847456c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509647,
+            "locality_id":85969073,
+            "region_id":85688727,
+            "venue_id":823238113
+        }
+    ],
     "wof:id":823238113,
-    "wof:lastmodified":1472629128,
+    "wof:lastmodified":1492830636,
     "wof:name":"City of Alden Fire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

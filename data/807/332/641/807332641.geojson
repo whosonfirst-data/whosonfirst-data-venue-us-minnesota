@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.353271,44.895488,-94.353271,44.895488",
     "geom:latitude":44.895488,
     "geom:longitude":-94.353271,
@@ -43,17 +44,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pah94sj4EJGSocl3fwu0a_44.895488_-94.353271@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606227,
-    "wof:geomhash":"13258618b5bb0d7d9c1392cb4a721a20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"079aff871ea5f9a3146751060ec57725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":807332641
+        }
+    ],
     "wof:id":807332641,
-    "wof:lastmodified":1472629738,
+    "wof:lastmodified":1492822877,
     "wof:name":"Golden Touch Therapeutic Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.72541,43.742914,-93.72541,43.742914",
     "geom:latitude":43.742914,
     "geom:longitude":-93.72541,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509619,
+        85633793,
+        85952579,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5caVV7Xs6C1esguUAkAiIz_43.742914_-93.725410@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598348,
-    "wof:geomhash":"21ef35fb25d6e5951c9b9c91b1ead398",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9412f7983d0ef39677ad598567f013e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509619,
+            "locality_id":85952579,
+            "region_id":85688727,
+            "venue_id":806464217
+        }
+    ],
     "wof:id":806464217,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492819686,
     "wof:name":"Broadway Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

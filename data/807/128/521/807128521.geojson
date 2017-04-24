@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.994373,44.370961,-95.994373,44.370961",
     "geom:latitude":44.370961,
     "geom:longitude":-95.994373,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515141,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LLkQWBgB4haIMvix1F1dx_44.370961_-95.994373@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604034,
-    "wof:geomhash":"f8daea8427afc8beeed616e5002c2edb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b33e7a1a3638f130e44dce8dd2f52f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404515141,
+            "region_id":85688727,
+            "venue_id":807128521
+        }
+    ],
     "wof:id":807128521,
-    "wof:lastmodified":1472629257,
+    "wof:lastmodified":1492825668,
     "wof:name":"David Rochel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

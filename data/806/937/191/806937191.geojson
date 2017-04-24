@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.229093,44.000834,-92.229093,44.000834",
     "geom:latitude":44.000834,
     "geom:longitude":-92.229093,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512441,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rgLWLrEiQcjVRMXbpFJ4u_44.000834_-92.229093@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602334,
-    "wof:geomhash":"e30627bdd526f4216a725973ce1f121f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cec3fb2bdad15379ad516a4c7d91268d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512441,
+            "region_id":85688727,
+            "venue_id":806937191
+        }
+    ],
     "wof:id":806937191,
-    "wof:lastmodified":1472629940,
+    "wof:lastmodified":1492816756,
     "wof:name":"Kruco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

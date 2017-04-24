@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.987755,43.621565,-94.987755,43.621565",
     "geom:latitude":43.621565,
     "geom:longitude":-94.987755,
@@ -31,17 +32,34 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f52KiJAhZvxixjPCUXlbN_43.621565_-94.987755@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592176,
-    "wof:geomhash":"0074e569e139b313befbc0ffa3c4e9dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ae340dab6f486789af7047998a42b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":789981331
+        }
+    ],
     "wof:id":789981331,
-    "wof:lastmodified":1472629675,
+    "wof:lastmodified":1492813363,
     "wof:name":"Owens Jewelry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

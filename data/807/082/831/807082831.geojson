@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.230323,45.282595,-93.230323,45.282595",
     "geom:latitude":45.282595,
     "geom:longitude":-93.230323,
@@ -31,17 +32,34 @@
         "local"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511287,
+        85633793,
+        85953395,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kOKMrJwXSp0gjKUXF8haG_45.282595_-93.230323@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603557,
-    "wof:geomhash":"56d2d5adba4803427503151a48531525",
-    "wof:hierarchy":[],
+    "wof:geomhash":"741fb4f08095a1bb60cd4b1e2554f52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511287,
+            "locality_id":85953395,
+            "region_id":85688727,
+            "venue_id":807082831
+        }
+    ],
     "wof:id":807082831,
-    "wof:lastmodified":1472629112,
+    "wof:lastmodified":1492822617,
     "wof:name":"Friends Transportation Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

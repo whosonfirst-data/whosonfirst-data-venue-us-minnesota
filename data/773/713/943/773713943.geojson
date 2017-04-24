@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.92271,43.943684,-94.92271,43.943684",
     "geom:latitude":43.943684,
     "geom:longitude":-94.92271,
@@ -32,17 +33,34 @@
         "aid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511869,
+        85633793,
+        85952779,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VyjdoJyz9teo0GC5P2nD3_43.943684_-94.922710@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587830,
-    "wof:geomhash":"0ab06683da8e0bfae5e4f19930ffdff1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b30915a57864055a97aa492a1301e75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511869,
+            "locality_id":85952779,
+            "region_id":85688727,
+            "venue_id":773713943
+        }
+    ],
     "wof:id":773713943,
-    "wof:lastmodified":1472630139,
+    "wof:lastmodified":1492799687,
     "wof:name":"Mennonite Aid Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.050728,44.378247,-95.050728,44.378247",
     "geom:latitude":44.378247,
     "geom:longitude":-95.050728,
@@ -32,17 +33,34 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510541,
+        85633793,
+        85968813,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xifE3PkqqoKTzahptsyVa_44.378247_-95.050728@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602465,
-    "wof:geomhash":"ae00152d30e77e2997c69c08c2815952",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be114a228c7460f7ad49b3b26493a243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510541,
+            "locality_id":85968813,
+            "region_id":85688727,
+            "venue_id":806952911
+        }
+    ],
     "wof:id":806952911,
-    "wof:lastmodified":1472629965,
+    "wof:lastmodified":1492817144,
     "wof:name":"Morgan Grain & Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

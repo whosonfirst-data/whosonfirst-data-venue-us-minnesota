@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.79039,45.83236,-95.79039,45.83236",
     "geom:latitude":45.83236,
     "geom:longitude":-95.79039,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509431,
+        85633793,
+        85968289,
+        102087739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QlVdAsYPdH9GvdQyGT2CF_45.832360_-95.790390@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587216,
-    "wof:geomhash":"ac8aca5d765af7441ca0b7a707b204a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"482256ceaab113e75dc1067f746d089a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087739,
+            "localadmin_id":404509431,
+            "locality_id":85968289,
+            "region_id":85688727,
+            "venue_id":773636093
+        }
+    ],
     "wof:id":773636093,
-    "wof:lastmodified":1472630114,
+    "wof:lastmodified":1492808073,
     "wof:name":"City Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

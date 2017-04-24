@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362023,45.9785,-94.362023,45.9785",
     "geom:latitude":45.9785,
     "geom:longitude":-94.362023,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KiMLUhJgJo1rcFEip7SdA_45.978500_-94.362023@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600928,
-    "wof:geomhash":"9f27b25dada8406d45f6be39a8e57cf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e2af54ec0bbb7ba5aa507822bd72cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":806769871
+        }
+    ],
     "wof:id":806769871,
-    "wof:lastmodified":1472629805,
+    "wof:lastmodified":1492815735,
     "wof:name":"J&M Computers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

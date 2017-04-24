@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.150662,45.614025,-95.150662,45.614025",
     "geom:latitude":45.614025,
     "geom:longitude":-95.150662,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510215,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Oey5ZsoeNKpICwllSradP_45.614025_-95.150662@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603882,
-    "wof:geomhash":"85537c75c6de947d92bfe3a31a3a9a66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"433adb0b1df75c5e6db5949f546d0b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404510215,
+            "region_id":85688727,
+            "venue_id":807114277
+        }
+    ],
     "wof:id":807114277,
-    "wof:lastmodified":1472629225,
+    "wof:lastmodified":1492827338,
     "wof:name":"Michael Roelike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

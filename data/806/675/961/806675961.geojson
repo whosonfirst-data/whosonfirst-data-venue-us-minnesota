@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.971236,45.298164,-92.971236,45.298164",
     "geom:latitude":45.298164,
     "geom:longitude":-92.971236,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38fcCqcELwAXC2hCudSTr1_45.298164_-92.971236@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600135,
-    "wof:geomhash":"cf028ca6b1a058fae584ddde56891d45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6cb80703874256b552feb655c4367bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":806675961
+        }
+    ],
     "wof:id":806675961,
-    "wof:lastmodified":1472629696,
+    "wof:lastmodified":1492815724,
     "wof:name":"Elias Import Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

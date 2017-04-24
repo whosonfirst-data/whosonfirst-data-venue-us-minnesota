@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.410315,44.304647,-94.410315,44.304647",
     "geom:latitude":44.304647,
     "geom:longitude":-94.410315,
@@ -33,17 +34,32 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513333,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RuIicKdyq1IXGocadmusK_44.304647_-94.410315@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595798,
-    "wof:geomhash":"d403acba10bcc2976d51ac35dcbafcb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"adf792b27ec936a735520ecffe40a9ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513333,
+            "region_id":85688727,
+            "venue_id":790433841
+        }
+    ],
     "wof:id":790433841,
-    "wof:lastmodified":1472629711,
+    "wof:lastmodified":1492831828,
     "wof:name":"Ground Zero",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.462418,43.991425,-92.462418,43.991425",
     "geom:latitude":43.991425,
     "geom:longitude":-92.462418,
@@ -31,17 +32,34 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZwAwCDEmqJH8EmRoSpu9P_43.991425_-92.462418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586372,
-    "wof:geomhash":"ddf77b01493bca0bf981c12eaafdbc03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1b604537156b02200986d8bb2b2e841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773524063
+        }
+    ],
     "wof:id":773524063,
-    "wof:lastmodified":1472630077,
+    "wof:lastmodified":1492803723,
     "wof:name":"Manor House Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

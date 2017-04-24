@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.200759,45.537782,-94.200759,45.537782",
     "geom:latitude":45.537782,
     "geom:longitude":-94.200759,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QldB6BU7YBb5BNs87wQGK_45.537782_-94.200759@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603386,
-    "wof:geomhash":"e7e3288c510d78b475b3599e10414553",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2624468a0a2370f0cdb37c89cf829ce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":807061967
+        }
+    ],
     "wof:id":807061967,
-    "wof:lastmodified":1472629072,
+    "wof:lastmodified":1492822137,
     "wof:name":"Stratford Square Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

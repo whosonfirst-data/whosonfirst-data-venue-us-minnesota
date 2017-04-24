@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.26151,43.897783,-93.26151,43.897783",
     "geom:latitude":43.897783,
     "geom:longitude":-93.26151,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510819,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h6NvHFyGZglAK9GzakZWA_43.897783_-93.261510@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604843,
-    "wof:geomhash":"f5f25ede6bf8ac39c90e016b45ea5c05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c584a218f82da31ce741d073f05688db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510819,
+            "region_id":85688727,
+            "venue_id":807204711
+        }
+    ],
     "wof:id":807204711,
-    "wof:lastmodified":1472629420,
+    "wof:lastmodified":1492823510,
     "wof:name":"Jerome Simon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

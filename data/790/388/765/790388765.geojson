@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.150691,45.02051,-93.150691,45.02051",
     "geom:latitude":45.02051,
     "geom:longitude":-93.150691,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n6It7W1j8oTtJBhAJHDc9_45.020510_-93.150691@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595454,
-    "wof:geomhash":"01183ab0d436937392822aa106fac749",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a2c42b091ac3451823959922c2af12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":790388765
+        }
+    ],
     "wof:id":790388765,
-    "wof:lastmodified":1472629627,
+    "wof:lastmodified":1492837578,
     "wof:name":"Lil Sprout",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

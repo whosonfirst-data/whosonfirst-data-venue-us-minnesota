@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.508523,44.007427,-92.508523,44.007427",
     "geom:latitude":44.007427,
     "geom:longitude":-92.508523,
@@ -32,17 +33,34 @@
         "historical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ThPpwpsMO92OPamy60Qbj_44.007427_-92.508523@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601361,
-    "wof:geomhash":"38924dcdc3ad6a1a4013e7541b2dbb4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"131b394c2c19963e1cf4ff558038e325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806822255
+        }
+    ],
     "wof:id":806822255,
-    "wof:lastmodified":1472629849,
+    "wof:lastmodified":1492814050,
     "wof:name":"Olmsted County Historic Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.40728,45.118111,-93.40728,45.118111",
     "geom:latitude":45.118111,
     "geom:longitude":-93.40728,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509459,
+        85633793,
+        85969141,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IrIjR3yFZ6NStygb3spjK_45.118111_-93.407280@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586702,
-    "wof:geomhash":"ade7331a8a4bf8f7bdd7f6b3585d5e98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09b784d155bff1aae284e4ff0f2bcefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509459,
+            "locality_id":85969141,
+            "region_id":85688727,
+            "venue_id":773567419
+        }
+    ],
     "wof:id":773567419,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492807710,
     "wof:name":"Auto Mint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

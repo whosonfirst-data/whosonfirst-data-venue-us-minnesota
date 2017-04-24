@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.125731,43.659273,-94.125731,43.659273",
     "geom:latitude":43.659273,
     "geom:longitude":-94.125731,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514249,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rSipFtt9tuBSmgTJANT3z_43.659273_-94.125731@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603730,
-    "wof:geomhash":"51e925a804c07d52207a6075b1bca23d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe3202153365c8682acc1469087553d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514249,
+            "region_id":85688727,
+            "venue_id":807100157
+        }
+    ],
     "wof:id":807100157,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492824083,
     "wof:name":"David Pfaffinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

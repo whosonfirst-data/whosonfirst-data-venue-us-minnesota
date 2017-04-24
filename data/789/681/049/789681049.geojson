@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.167187,44.80713,-93.167187,44.80713",
     "geom:latitude":44.80713,
     "geom:longitude":-93.167187,
@@ -29,13 +30,14 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85836963,
+        85855137,
         102191575,
         404512099,
         85633793,
         85968491,
         102087895,
-        85688727
+        85688727,
+        85836963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,8 +45,18 @@
     },
     "wof:country":"US",
     "wof:created":1462589710,
-    "wof:geomhash":"15431302973d9538ff3866ac91f94903",
+    "wof:geomhash":"eaa7d2ba949d6547f150bd4b59adb369",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512099,
+            "locality_id":85968491,
+            "neighbourhood_id":85855137,
+            "region_id":85688727,
+            "venue_id":789681049
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +69,9 @@
         }
     ],
     "wof:id":789681049,
-    "wof:lastmodified":1472629163,
+    "wof:lastmodified":1492813165,
     "wof:name":"PDQ Food Stores",
-    "wof:parent_id":85836963,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

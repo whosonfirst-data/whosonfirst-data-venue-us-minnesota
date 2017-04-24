@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.941501,45.080876,-93.941501,45.080876",
     "geom:latitude":45.080876,
     "geom:longitude":-93.941501,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515243,
+        85633793,
+        85968893,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ryWjlUYUQoruqGrw2d6tH_45.080876_-93.941501@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604738,
-    "wof:geomhash":"ffd0c7311963a5634f0d766e78ee6dbf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc03d0d1901da074dba80aa617cb786a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515243,
+            "locality_id":85968893,
+            "region_id":85688727,
+            "venue_id":807194497
+        }
+    ],
     "wof:id":807194497,
-    "wof:lastmodified":1472629388,
+    "wof:lastmodified":1492825850,
     "wof:name":"Gary Foede",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

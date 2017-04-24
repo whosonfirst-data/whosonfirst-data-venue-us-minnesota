@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.379574,44.761349,-96.379574,44.761349",
     "geom:latitude":44.761349,
     "geom:longitude":-96.379574,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515271,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pCJRWmb4YPGiksO2RTzIT_44.761349_-96.379574@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609246,
-    "wof:geomhash":"605eb97827cc96a2123ebc9d8a7fd935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f50d7e1eff7f1d43a41bc7d59c0861e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515271,
+            "region_id":85688727,
+            "venue_id":823245205
+        }
+    ],
     "wof:id":823245205,
-    "wof:lastmodified":1472629147,
+    "wof:lastmodified":1492829437,
     "wof:name":"Allan Winter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

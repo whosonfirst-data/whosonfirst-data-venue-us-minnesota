@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.776007,44.450436,-95.776007,44.450436",
     "geom:latitude":44.450436,
     "geom:longitude":-95.776007,
@@ -32,17 +33,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j64SDlpQHMYe5mIVcoFqK_44.450436_-95.776007@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582160,
-    "wof:geomhash":"415e7064ec77b3ecfd253a4ff7a6a98e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9842258dafea6871f5f62887912312b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":773001997
+        }
+    ],
     "wof:id":773001997,
-    "wof:lastmodified":1472628997,
+    "wof:lastmodified":1492803054,
     "wof:name":"Marshall Truck & Trailer Supl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

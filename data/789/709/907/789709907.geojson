@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.282238,43.504974,-91.282238,43.504974",
     "geom:latitude":43.504974,
     "geom:longitude":-91.282238,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +53,21 @@
     },
     "wof:country":"US",
     "wof:created":1462589933,
-    "wof:geomhash":"5795f55193a5e079747a99fbbd10b535",
+    "wof:geomhash":"191f3c6cf057e43d55d752edde99b1ec",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":789709907
         }
     ],
     "wof:id":789709907,
-    "wof:lastmodified":1472629240,
+    "wof:lastmodified":1492813770,
     "wof:name":"Leo Whalen",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

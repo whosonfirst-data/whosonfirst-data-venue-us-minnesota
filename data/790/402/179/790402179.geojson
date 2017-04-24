@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.137172,45.517668,-94.137172,45.517668",
     "geom:latitude":45.517668,
     "geom:longitude":-94.137172,
@@ -32,17 +33,32 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510469,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T9hylv0690UUW2Vba4Oo9_45.517668_-94.137172@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595550,
-    "wof:geomhash":"4824b2f5d9e6f0ac8e12c93dbc20db76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31eefeb87c8e587ece255642aa2c7b64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510469,
+            "region_id":85688727,
+            "venue_id":790402179
+        }
+    ],
     "wof:id":790402179,
-    "wof:lastmodified":1472629673,
+    "wof:lastmodified":1492834859,
     "wof:name":"Song Hyuns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

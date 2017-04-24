@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.489955,44.984244,-93.489955,44.984244",
     "geom:latitude":44.984244,
     "geom:longitude":-93.489955,
@@ -38,17 +39,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WK019yjpIvTAPv9PO9cQG_44.984244_-93.489955@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608635,
-    "wof:geomhash":"cc541d40f85f5861b018ad7c9f74181f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0dc4b2a3f9743ebec5cd308c982b1d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823215541
+        }
+    ],
     "wof:id":823215541,
-    "wof:lastmodified":1472629110,
+    "wof:lastmodified":1492830681,
     "wof:name":"Cowboy Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

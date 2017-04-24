@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.753989,45.276375,-93.753989,45.276375",
     "geom:latitude":45.276375,
     "geom:longitude":-93.753989,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gGhqnzircM6zR0fmiwCi2_45.276375_-93.753989@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586170,
-    "wof:geomhash":"67d46b46cd0f1a1979540ba3d4a2b5e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65b328920be9026325d3efc6766c0cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":773494457
+        }
+    ],
     "wof:id":773494457,
-    "wof:lastmodified":1472630072,
+    "wof:lastmodified":1492802353,
     "wof:name":"Precision Electrical Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.755559,43.80816,-91.755559,43.80816",
     "geom:latitude":43.80816,
     "geom:longitude":-91.755559,
@@ -31,17 +32,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14oSyMqvZ1fyA1O6gGrAIq_43.808160_-91.755559@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583031,
-    "wof:geomhash":"e62c7b7a32c37cc3d0dd5e6a37197358",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f3d8a1a817de7c4907f0ef61e827445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":773082857
+        }
+    ],
     "wof:id":773082857,
-    "wof:lastmodified":1472629533,
+    "wof:lastmodified":1492799674,
     "wof:name":"Tri-County Electric Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

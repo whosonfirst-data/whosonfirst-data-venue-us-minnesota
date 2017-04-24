@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.386526,44.957162,-93.386526,44.957162",
     "geom:latitude":44.957162,
     "geom:longitude":-93.386526,
@@ -33,17 +34,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p1pjJXVES5zaFNdCLd4cv_44.957162_-93.386526@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608119,
-    "wof:geomhash":"af335b6494d04da17b478f459f1d94c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"873b05f7e2597ed80cde564dcdcf380e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823183939
+        }
+    ],
     "wof:id":823183939,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492830684,
     "wof:name":"Railroad Replicas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

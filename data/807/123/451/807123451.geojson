@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.100632,44.254702,-93.100632,44.254702",
     "geom:latitude":44.254702,
     "geom:longitude":-93.100632,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510603,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BOmlUrsobOM0cRmeyW9Kg_44.254702_-93.100632@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603981,
-    "wof:geomhash":"9857f386c66fc337e48849fc70706ae7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8da44ddd4eef0c4bf20c03718cf1e5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404510603,
+            "region_id":85688727,
+            "venue_id":807123451
+        }
+    ],
     "wof:id":807123451,
-    "wof:lastmodified":1472629231,
+    "wof:lastmodified":1492823128,
     "wof:name":"Schwake Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

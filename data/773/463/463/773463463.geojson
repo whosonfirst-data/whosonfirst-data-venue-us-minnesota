@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.246701,44.173121,-93.246701,44.173121",
     "geom:latitude":44.173121,
     "geom:longitude":-93.246701,
@@ -32,17 +33,34 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514595,
+        85633793,
+        85968959,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18sf7nsMp5gtPOO7SpPXY4_44.173121_-93.246701@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585942,
-    "wof:geomhash":"d5d3c269ebf8bf62b39a2f1b2c3f0754",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a0d0f5700d85ce9e7d3c9578b9f3211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514595,
+            "locality_id":85968959,
+            "region_id":85688727,
+            "venue_id":773463463
+        }
+    ],
     "wof:id":773463463,
-    "wof:lastmodified":1472630058,
+    "wof:lastmodified":1492805001,
     "wof:name":"Our Homes South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.099886,44.520156,-93.099886,44.520156",
     "geom:latitude":44.520156,
     "geom:longitude":-93.099886,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509559,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DOcx5NXya1EEVCl5dDltE_44.520156_-93.099886@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604661,
-    "wof:geomhash":"eea76d18d80ac97ae218120e1063bd37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5e6e2f6644bdd05c73e80866598195d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509559,
+            "region_id":85688727,
+            "venue_id":807187047
+        }
+    ],
     "wof:id":807187047,
-    "wof:lastmodified":1472629375,
+    "wof:lastmodified":1492825875,
     "wof:name":"Lee Volkert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

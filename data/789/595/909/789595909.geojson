@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.54139,44.82982,-93.54139,44.82982",
     "geom:latitude":44.82982,
     "geom:longitude":-93.54139,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bC9RPDcwAVvdCPJLKGp8H_44.829820_-93.541390@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589028,
-    "wof:geomhash":"a81e70eb4109a83065613eebad2c49f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c70507ae03814fe8f4ee3630ab1d26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":789595909
+        }
+    ],
     "wof:id":789595909,
-    "wof:lastmodified":1472628972,
+    "wof:lastmodified":1492812319,
     "wof:name":"Bendzicks Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

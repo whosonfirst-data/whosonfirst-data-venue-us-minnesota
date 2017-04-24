@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.983179,45.396151,-92.983179,45.396151",
     "geom:latitude":45.396151,
     "geom:longitude":-92.983179,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511029,
+        85633793,
+        85952685,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dJtQvRLUCTtTjHhzYVVew_45.396151_-92.983179@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595746,
-    "wof:geomhash":"0fbe0bc4f1fae2af7f17972ebfcd7a80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"399d79885ecbdad174dff9687c417d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511029,
+            "locality_id":85952685,
+            "region_id":85688727,
+            "venue_id":790426823
+        }
+    ],
     "wof:id":790426823,
-    "wof:lastmodified":1472629704,
+    "wof:lastmodified":1492837788,
     "wof:name":"City of Stacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

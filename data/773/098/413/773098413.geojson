@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540184,47.465061,-92.540184,47.465061",
     "geom:latitude":47.465061,
     "geom:longitude":-92.540184,
@@ -38,17 +39,26 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f6XRPyBgAxE8kRChewuP4_47.465061_-92.540184@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583141,
-    "wof:geomhash":"a24cdaa5ee74d433bb53a137d793252c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf0c667f744024e21c05140f6bf7171b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773098413
+        }
+    ],
     "wof:id":773098413,
-    "wof:lastmodified":1472629596,
+    "wof:lastmodified":1492807801,
     "wof:name":"Bill's TV & Auto Sound",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

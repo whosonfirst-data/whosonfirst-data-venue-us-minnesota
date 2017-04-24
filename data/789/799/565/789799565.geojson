@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.979389,44.311575,-93.979389,44.311575",
     "geom:latitude":44.311575,
     "geom:longitude":-93.979389,
@@ -32,17 +33,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513479,
+        85633793,
+        85953469,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uRBpax7Z1aep96UU8yJVv_44.311575_-93.979389@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590637,
-    "wof:geomhash":"d28aeb0114598ba9a2adecb67c601e0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4ed24666214a276d0d4ecc05d02e02f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513479,
+            "locality_id":85953469,
+            "region_id":85688727,
+            "venue_id":789799565
+        }
+    ],
     "wof:id":789799565,
-    "wof:lastmodified":1472629386,
+    "wof:lastmodified":1492809610,
     "wof:name":"Saint Peters Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

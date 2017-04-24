@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.141452,45.552305,-94.141452,45.552305",
     "geom:latitude":45.552305,
     "geom:longitude":-94.141452,
@@ -31,17 +32,34 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45LPqEqPLXSWW2UY7iuJD7_45.552305_-94.141452@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586392,
-    "wof:geomhash":"d57bdb7857277750f43c1599ae807c5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9c39bc1b0f8e068fab47d940e55ada5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773527191
+        }
+    ],
     "wof:id":773527191,
-    "wof:lastmodified":1472630081,
+    "wof:lastmodified":1492802766,
     "wof:name":"Otto Gilss Tax Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

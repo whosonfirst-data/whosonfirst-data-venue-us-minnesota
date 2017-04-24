@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.578689,43.632212,-95.578689,43.632212",
     "geom:latitude":43.632212,
     "geom:longitude":-95.578689,
@@ -31,17 +32,34 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4i15SvXf1mfrQimHxhajMa_43.632212_-95.578689@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584483,
-    "wof:geomhash":"b2513d6e489375f626aa1975fd6d877b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"278b3f9148b5b7b06d51504e67153d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":773275543
+        }
+    ],
     "wof:id":773275543,
-    "wof:lastmodified":1472629997,
+    "wof:lastmodified":1492800320,
     "wof:name":"Transportation Minnesota Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.267282,44.301548,-93.267282,44.301548",
     "geom:latitude":44.301548,
     "geom:longitude":-93.267282,
@@ -33,17 +34,34 @@
     "sg:postcode":"55021",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32X9MTGKTdJj9fX36ZwCqq_44.301548_-93.267282@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584473,
-    "wof:geomhash":"e314c9186b9775803d695e74b02ba8d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd0afa601267fae63cd2625757e2e2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773274457
+        }
+    ],
     "wof:id":773274457,
-    "wof:lastmodified":1472629998,
+    "wof:lastmodified":1492799159,
     "wof:name":"Rice County Activity Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

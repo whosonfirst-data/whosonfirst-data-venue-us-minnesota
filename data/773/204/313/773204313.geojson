@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25693,44.859842,-93.25693,44.859842",
     "geom:latitude":44.859842,
     "geom:longitude":-93.25693,
@@ -44,17 +45,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hVQgxsDIlYtE1dcoTKXPC_44.859842_-93.256930@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583960,
-    "wof:geomhash":"5983e03abf1d12fd0f83719920327a99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3502e88fb8397c6dff87a6c0c405c185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773204313
+        }
+    ],
     "wof:id":773204313,
-    "wof:lastmodified":1472629940,
+    "wof:lastmodified":1492801355,
     "wof:name":"Painters Gear Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

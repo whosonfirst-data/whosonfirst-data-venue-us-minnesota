@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.444871,45.606239,-94.444871,45.606239",
     "geom:latitude":45.606239,
     "geom:longitude":-94.444871,
@@ -36,17 +37,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        85952451,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58BiW9LF0DQtzl7dQQDR8e_45.606239_-94.444871@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609306,
-    "wof:geomhash":"4cc0716be1abbc80867905f1bc11f7ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3547fe5759cbf422b93a999c26f9100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "locality_id":85952451,
+            "region_id":85688727,
+            "venue_id":823248511
+        }
+    ],
     "wof:id":823248511,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492830232,
     "wof:name":"Stonehouse Stained Glass Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

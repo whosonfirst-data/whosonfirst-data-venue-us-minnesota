@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.132937,44.118049,-94.132937,44.118049",
     "geom:latitude":44.118049,
     "geom:longitude":-94.132937,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511533,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11t8spi3RWDwe5JRJDCZmf_44.118049_-94.132937@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586541,
-    "wof:geomhash":"dd5bc61048fedbdb4b9e88fd9be0d5be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3884502f5725566f19884959fd1a34e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511533,
+            "region_id":85688727,
+            "venue_id":773546341
+        }
+    ],
     "wof:id":773546341,
-    "wof:lastmodified":1472630089,
+    "wof:lastmodified":1492800749,
     "wof:name":"Jones Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

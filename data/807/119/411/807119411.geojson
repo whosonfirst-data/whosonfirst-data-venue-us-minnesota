@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.27136,44.253789,-94.27136,44.253789",
     "geom:latitude":44.253789,
     "geom:longitude":-94.27136,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513333,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yrikur028AHxTcNxxtGgI_44.253789_-94.271360@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603932,
-    "wof:geomhash":"24ae08700d3e3470d4594c9b38215bf0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e22facd5dae7a4c49196c3aa64cfde5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513333,
+            "region_id":85688727,
+            "venue_id":807119411
+        }
+    ],
     "wof:id":807119411,
-    "wof:lastmodified":1472629230,
+    "wof:lastmodified":1492825358,
     "wof:name":"Stan Bode",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

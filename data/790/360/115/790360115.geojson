@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.07147,46.350516,-96.07147,46.350516",
     "geom:latitude":46.350516,
     "geom:longitude":-96.07147,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512879,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CHqegAKEgiNdBneQlq4c4_46.350516_-96.071470@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595225,
-    "wof:geomhash":"9e0c109aa42787fe3b3a5b41ccff13bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"829e126627c3a3f7998ed7bff3e8319f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512879,
+            "region_id":85688727,
+            "venue_id":790360115
+        }
+    ],
     "wof:id":790360115,
-    "wof:lastmodified":1472629554,
+    "wof:lastmodified":1492833855,
     "wof:name":"Howard Goese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.020973,45.210131,-96.020973,45.210131",
     "geom:latitude":45.210131,
     "geom:longitude":-96.020973,
@@ -31,17 +32,34 @@
         "franchised"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514645,
+        85633793,
+        85968651,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ON9E8ngbIDskKupsIUtsH_45.210131_-96.020973@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590707,
-    "wof:geomhash":"37a010cec66fffec1755709df35f352f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5257f5e75d5370a071864d043a710f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514645,
+            "locality_id":85968651,
+            "region_id":85688727,
+            "venue_id":789809165
+        }
+    ],
     "wof:id":789809165,
-    "wof:lastmodified":1472629383,
+    "wof:lastmodified":1492811911,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

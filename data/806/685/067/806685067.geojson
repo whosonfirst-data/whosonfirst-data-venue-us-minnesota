@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.745519,46.600061,-95.745519,46.600061",
     "geom:latitude":46.600061,
     "geom:longitude":-95.745519,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512745,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UgDyY17v4OPH3k2JM79g2_46.600061_-95.745519@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600215,
-    "wof:geomhash":"e402ca48b27ba0ba846f2341e5f86bc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df35cca2c77abbe097de3081380df2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512745,
+            "region_id":85688727,
+            "venue_id":806685067
+        }
+    ],
     "wof:id":806685067,
-    "wof:lastmodified":1472629680,
+    "wof:lastmodified":1492815107,
     "wof:name":"Nash & Nash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

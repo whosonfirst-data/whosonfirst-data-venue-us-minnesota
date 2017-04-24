@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.118918,45.66236,-93.118918,45.66236",
     "geom:latitude":45.66236,
     "geom:longitude":-93.118918,
@@ -38,17 +39,32 @@
         "hand"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VrIcxeRkEHtys1xoCbLyu_45.662360_-93.118918@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605387,
-    "wof:geomhash":"cf8f270231fe8509ea0ee258e84845e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ddde0d364515b591d0f68822e28fe47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":807255923
+        }
+    ],
     "wof:id":807255923,
-    "wof:lastmodified":1472629524,
+    "wof:lastmodified":1492828037,
     "wof:name":"Dons Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.712142,44.845921,-94.712142,44.845921",
     "geom:latitude":44.845921,
     "geom:longitude":-94.712142,
@@ -36,17 +37,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512457,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MM3y3Ex7yapoRCbMB0Dg5_44.845921_-94.712142@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606133,
-    "wof:geomhash":"95c4fc6da3710375649ba8f6565d978a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f0bbea7afdc9ba6577652e7ff997137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512457,
+            "region_id":85688727,
+            "venue_id":807325319
+        }
+    ],
     "wof:id":807325319,
-    "wof:lastmodified":1472629726,
+    "wof:lastmodified":1492825014,
     "wof:name":"Doug Breitkreutz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

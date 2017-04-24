@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.24678,44.172267,-93.24678,44.172267",
     "geom:latitude":44.172267,
     "geom:longitude":-93.24678,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://www.kofc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514595,
+        85633793,
+        85968959,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iMIHYFtLqAYsVygnRJtcC_44.172267_-93.246780@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605319,
-    "wof:geomhash":"3314a8d316fc5df958dbf6715f6f5410",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9d51cadeb3c22be289d7c137aa088cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514595,
+            "locality_id":85968959,
+            "region_id":85688727,
+            "venue_id":807249469
+        }
+    ],
     "wof:id":807249469,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492822283,
     "wof:name":"Medford/Drfeld Knghts Columbus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

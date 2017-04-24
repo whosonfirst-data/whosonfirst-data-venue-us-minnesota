@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.1875,44.919102,-93.1875,44.919102",
     "geom:latitude":44.919102,
     "geom:longitude":-93.1875,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IU2cvvMJbnPliA0CtASys_44.919102_-93.187500@1303262815"
     },
     "wof:country":"US",
     "wof:created":1462605545,
-    "wof:geomhash":"412ed6f1b5f85b96d4995fa9594f16f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f18cf4522c55f74324f341f8accaac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":807270013
+        }
+    ],
     "wof:id":807270013,
-    "wof:lastmodified":1472629546,
+    "wof:lastmodified":1492824903,
     "wof:name":"Kentucky Fried Chicken",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

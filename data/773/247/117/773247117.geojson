@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.162367,45.588603,-94.162367,45.588603",
     "geom:latitude":45.588603,
     "geom:longitude":-94.162367,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44xW65lLIk9UynVULqd5hs_45.588603_-94.162367@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584265,
-    "wof:geomhash":"925e15d118b2c040d2b38d1ff39e23a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0b46475210d35dfd28cb896b47abfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":773247117
+        }
+    ],
     "wof:id":773247117,
-    "wof:lastmodified":1472629988,
+    "wof:lastmodified":1492803120,
     "wof:name":"St Cloud Rental Resource",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

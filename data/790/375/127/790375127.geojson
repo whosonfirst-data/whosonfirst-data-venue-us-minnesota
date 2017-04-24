@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.308617,44.881741,-93.308617,44.881741",
     "geom:latitude":44.881741,
     "geom:longitude":-93.308617,
@@ -32,17 +33,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yjszEOpNiIgfpLPRawj2T_44.881741_-93.308617@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595348,
-    "wof:geomhash":"a159a31068044c663aaaa005bf44ced0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"659d352d34b853978a448749a544f593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":790375127
+        }
+    ],
     "wof:id":790375127,
-    "wof:lastmodified":1472629591,
+    "wof:lastmodified":1492832053,
     "wof:name":"Penn Amaco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

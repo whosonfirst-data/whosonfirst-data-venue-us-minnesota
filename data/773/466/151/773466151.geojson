@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.196984,45.545251,-94.196984,45.545251",
     "geom:latitude":45.545251,
     "geom:longitude":-94.196984,
@@ -28,17 +29,34 @@
     "sg:postcode":"56301",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PyMPVKF7sUS5uVl6RjNIV_45.545251_-94.196984@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585959,
-    "wof:geomhash":"60debffeb0399697c3da07d0e77423fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ba1e3d852df468b47e1c1697dcfdf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773466151
+        }
+    ],
     "wof:id":773466151,
-    "wof:lastmodified":1472630062,
+    "wof:lastmodified":1492804813,
     "wof:name":"Dr Tom Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

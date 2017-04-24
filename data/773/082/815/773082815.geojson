@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.075042,45.060648,-94.075042,45.060648",
     "geom:latitude":45.060648,
     "geom:longitude":-94.075042,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515229,
+        85633793,
+        85968913,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03hZT6yCidElOwcoHbkXgn_45.060648_-94.075042@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583030,
-    "wof:geomhash":"67f659a729a94b90a2e8fc26ccd6529c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"186eff41b98ca31fb9b88c52addf2934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515229,
+            "locality_id":85968913,
+            "region_id":85688727,
+            "venue_id":773082815
+        }
+    ],
     "wof:id":773082815,
-    "wof:lastmodified":1472629530,
+    "wof:lastmodified":1492799675,
     "wof:name":"American Administration & Prod",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

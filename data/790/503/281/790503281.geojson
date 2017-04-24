@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.913249,47.053733,-93.913249,47.053733",
     "geom:latitude":47.053733,
     "geom:longitude":-93.913249,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511749,
+        85633793,
+        85968717,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pP1XBNTRXrIp0q4OjsZLt_47.053733_-93.913249@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596398,
-    "wof:geomhash":"0199b962a7b9c71225359ee54b2f739a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c87d73a59c574dec9d7bd40ba7e8dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511749,
+            "locality_id":85968717,
+            "region_id":85688727,
+            "venue_id":790503281
+        }
+    ],
     "wof:id":790503281,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492832834,
     "wof:name":"St Paul's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

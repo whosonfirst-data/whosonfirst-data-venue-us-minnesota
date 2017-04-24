@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326075,44.84281,-93.326075,44.84281",
     "geom:latitude":44.84281,
     "geom:longitude":-93.326075,
@@ -35,17 +36,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QjRFnOIyaS9w49OKI5fzl_44.842810_-93.326075@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608287,
-    "wof:geomhash":"35ae5a0a874e7dbd25fa941e13ddd383",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab6316743a1f2727993e0e271bd0ae9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823196753
+        }
+    ],
     "wof:id":823196753,
-    "wof:lastmodified":1472629055,
+    "wof:lastmodified":1492828299,
     "wof:name":"Stain Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

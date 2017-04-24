@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.066214,45.947461,-95.066214,45.947461",
     "geom:latitude":45.947461,
     "geom:longitude":-95.066214,
@@ -26,17 +27,32 @@
         "heating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514721,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bLLAK8hjchmVAWzZxVTad_45.947461_-95.066214@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604816,
-    "wof:geomhash":"21dfd5b2583164efed9bfa9ece0ddb2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb736ce34e8fc626c42c9286a4b7b18a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514721,
+            "region_id":85688727,
+            "venue_id":807201797
+        }
+    ],
     "wof:id":807201797,
-    "wof:lastmodified":1472629421,
+    "wof:lastmodified":1492825842,
     "wof:name":"Allied Petroleum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.783018,44.766589,-93.783018,44.766589",
     "geom:latitude":44.766589,
     "geom:longitude":-93.783018,
@@ -33,17 +34,26 @@
     ],
     "sg:website":"www.customformulations.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RR5molHKgKRaUuv5LyuAl_44.766589_-93.783018@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595079,
-    "wof:geomhash":"bcb40470e474eefe7b5353cf956122f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca6b14ad9027967e5f85039343b567a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525001,
+            "venue_id":790342419
+        }
+    ],
     "wof:id":790342419,
-    "wof:lastmodified":1472629527,
+    "wof:lastmodified":1492837944,
     "wof:name":"Custom Formulations",
     "wof:parent_id":420525001,
     "wof:placetype":"venue",

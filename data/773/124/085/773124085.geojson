@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.353322,45.328646,-94.353322,45.328646",
     "geom:latitude":45.328646,
     "geom:longitude":-94.353322,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514373,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VX8qsE6NQBChxPDF0gxHm_45.328646_-94.353322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583323,
-    "wof:geomhash":"d2dc044d4bc21312b58df45106542381",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22ed22a8213652b38f97c1949a17ad5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514373,
+            "region_id":85688727,
+            "venue_id":773124085
+        }
+    ],
     "wof:id":773124085,
-    "wof:lastmodified":1472629641,
+    "wof:lastmodified":1492804193,
     "wof:name":"Donnay John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

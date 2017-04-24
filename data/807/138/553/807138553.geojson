@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.264821,43.892547,-96.264821,43.892547",
     "geom:latitude":43.892547,
     "geom:longitude":-96.264821,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513513,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B4JAWXLknLGcOpXjYwMnh_43.892547_-96.264821@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604146,
-    "wof:geomhash":"aa13bb3dfee1eba0898b1ba23e513291",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebb304b8feb6e112f9c55b1725d39df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513513,
+            "region_id":85688727,
+            "venue_id":807138553
+        }
+    ],
     "wof:id":807138553,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492823876,
     "wof:name":"David Molenkamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

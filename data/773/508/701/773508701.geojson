@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.236141,43.98179,-92.236141,43.98179",
     "geom:latitude":43.98179,
     "geom:longitude":-92.236141,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510305,
+        85633793,
+        85953509,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ne2yBcgMBbpC8BmAxqwUU_43.981790_-92.236141@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586263,
-    "wof:geomhash":"1d0dca9ace4c3187d981b9e3abe7cdb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c91c5115d7dd0ddd26d73586462fe47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510305,
+            "locality_id":85953509,
+            "region_id":85688727,
+            "venue_id":773508701
+        }
+    ],
     "wof:id":773508701,
-    "wof:lastmodified":1472630076,
+    "wof:lastmodified":1492803518,
     "wof:name":"Schumann Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

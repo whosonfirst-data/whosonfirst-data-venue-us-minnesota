@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.358897,45.978044,-94.358897,45.978044",
     "geom:latitude":45.978044,
     "geom:longitude":-94.358897,
@@ -33,17 +34,34 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SfcFCSuMXrDPKqkst06By_45.978044_-94.358897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594119,
-    "wof:geomhash":"7317d856743a8332e26c9829a6c61a9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"326a2c2e84799584e2f3fa171c367fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":790222489
+        }
+    ],
     "wof:id":790222489,
-    "wof:lastmodified":1472629335,
+    "wof:lastmodified":1492835946,
     "wof:name":"Brott Louis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

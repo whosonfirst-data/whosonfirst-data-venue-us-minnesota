@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.364623,45.899851,-95.364623,45.899851",
     "geom:latitude":45.899851,
     "geom:longitude":-95.364623,
@@ -33,17 +34,34 @@
         "district"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YAPTgFI3svQGBvcDuidBX_45.899851_-95.364623@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587990,
-    "wof:geomhash":"4f96a2da26f3ecc33ca8588820b78193",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23ad125106a95e90f486253a2d6abc3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773735485
+        }
+    ],
     "wof:id":773735485,
-    "wof:lastmodified":1472630144,
+    "wof:lastmodified":1492801244,
     "wof:name":"Douglas Soil Wtr Cnsrvtion Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

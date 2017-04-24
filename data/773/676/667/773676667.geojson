@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.966131,45.690528,-92.966131,45.690528",
     "geom:latitude":45.690528,
     "geom:longitude":-92.966131,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bpVaPkQ0zRkDrfJCU72HH_45.690528_-92.966131@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587512,
-    "wof:geomhash":"061a58fe0483f9aeb66055e54910ae15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39a3b20c59aa47647f971d58aade6f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":773676667
+        }
+    ],
     "wof:id":773676667,
-    "wof:lastmodified":1472630130,
+    "wof:lastmodified":1492807212,
     "wof:name":"James D Guptill DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.355818,44.731643,-93.355818,44.731643",
     "geom:latitude":44.731643,
     "geom:longitude":-93.355818,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"www.collsound.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ddpsiv3LxJ7D6LazGlcGb_44.731643_-93.355818@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606353,
-    "wof:geomhash":"f8a80c92fbabfed821e60c21f4c127fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88f3e32557053074c74921d65e86922d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":807340463
+        }
+    ],
     "wof:id":807340463,
-    "wof:lastmodified":1472629744,
+    "wof:lastmodified":1492825000,
     "wof:name":"Collective Sound",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

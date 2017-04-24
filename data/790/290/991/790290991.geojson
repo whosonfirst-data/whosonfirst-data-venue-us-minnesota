@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.754611,47.242847,-94.754611,47.242847",
     "geom:latitude":47.242847,
     "geom:longitude":-94.754611,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509767,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j9AFaLQyfK3RpyGZ2qZUL_47.242847_-94.754611@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594699,
-    "wof:geomhash":"6d43030e9fe0114aa10dbb970afc276c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16d9ed7dff3ac74baa897f23524f0eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404509767,
+            "region_id":85688727,
+            "venue_id":790290991
+        }
+    ],
     "wof:id":790290991,
-    "wof:lastmodified":1472629475,
+    "wof:lastmodified":1492833088,
     "wof:name":"Dev Research Engineering Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.32862,44.790229,-94.32862,44.790229",
     "geom:latitude":44.790229,
     "geom:longitude":-94.32862,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510117,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PoDiQKY0ZzurqsO0QvMrz_44.790229_-94.328620@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603889,
-    "wof:geomhash":"3ea3021d54a3fbb8b8507072ab292796",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48e761b6896484c16177c36a9360933c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510117,
+            "region_id":85688727,
+            "venue_id":807114921
+        }
+    ],
     "wof:id":807114921,
-    "wof:lastmodified":1472629232,
+    "wof:lastmodified":1492827342,
     "wof:name":"David Sanken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

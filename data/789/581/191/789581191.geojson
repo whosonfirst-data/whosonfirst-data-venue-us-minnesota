@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.75367,46.936198,-96.75367,46.936198",
     "geom:latitude":46.936198,
     "geom:longitude":-96.75367,
@@ -36,7 +37,13 @@
         85633793,
         85969409,
         102087681,
-        85877365
+        85877365,
+        85877339,
+        102191575,
+        404478877,
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588911,
-    "wof:geomhash":"d621f69f57aca52972b4d3c62c5dfaff",
+    "wof:geomhash":"75c2d6aa44729c084ff91fd6796171f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +60,22 @@
             "neighbourhood_id":85877365,
             "region_id":85688727,
             "venue_id":789581191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877339,
+            "region_id":85688525,
+            "venue_id":789581191
         }
     ],
     "wof:id":789581191,
-    "wof:lastmodified":1472628928,
+    "wof:lastmodified":1492810575,
     "wof:name":"Productive Alternatives Inc",
-    "wof:parent_id":85877365,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

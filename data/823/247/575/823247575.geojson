@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.496933,45.80534,-96.496933,45.80534",
     "geom:latitude":45.80534,
     "geom:longitude":-96.496933,
@@ -47,17 +48,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oxvUWXHGjnszkpqn2fMOu_45.805340_-96.496933@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609287,
-    "wof:geomhash":"06cf98093dd9d6dd17f043c954ff6dfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"910baf1fdf87967a6f60b4c4e42da382",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":823247575
+        }
+    ],
     "wof:id":823247575,
-    "wof:lastmodified":1472629169,
+    "wof:lastmodified":1492829621,
     "wof:name":"Thomsen Insurance & Investment Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

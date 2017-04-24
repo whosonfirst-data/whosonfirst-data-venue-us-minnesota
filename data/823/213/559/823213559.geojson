@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.386932,45.114319,-93.386932,45.114319",
     "geom:latitude":45.114319,
     "geom:longitude":-93.386932,
@@ -38,17 +39,34 @@
     ],
     "sg:website":"http://www.lutzcompany.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tXYmAJN5d3GSS9qOna4IJ_45.114319_-93.386932@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608594,
-    "wof:geomhash":"12579592b33d087aaccfef0b84b8961f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"690aa0ffe530e9bbea50ecba86356c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213559
+        }
+    ],
     "wof:id":823213559,
-    "wof:lastmodified":1472629105,
+    "wof:lastmodified":1492829232,
     "wof:name":"Lutz Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

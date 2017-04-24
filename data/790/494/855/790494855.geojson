@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.174736,45.532969,-94.174736,45.532969",
     "geom:latitude":45.532969,
     "geom:longitude":-94.174736,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QiQAz1QD6KtiK67kVE6JK_45.532969_-94.174736@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596329,
-    "wof:geomhash":"ffae9fc36d11b81b4587cde2284cee94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f63c8ad1df2bc82c3d9bf54d836ff765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":790494855
+        }
+    ],
     "wof:id":790494855,
-    "wof:lastmodified":1472629769,
+    "wof:lastmodified":1492833496,
     "wof:name":"University Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

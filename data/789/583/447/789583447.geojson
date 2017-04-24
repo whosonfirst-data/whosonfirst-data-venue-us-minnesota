@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.541142,47.469739,-92.541142,47.469739",
     "geom:latitude":47.469739,
     "geom:longitude":-92.541142,
@@ -31,17 +32,26 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24b7iVW6DwOYnWi0GLUNqS_47.469739_-92.541142@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588935,
-    "wof:geomhash":"d543aa91cbd81a9bc3d50c5e637c073d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"676d39a6bae1a8da21b1773b45f72a9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789583447
+        }
+    ],
     "wof:id":789583447,
-    "wof:lastmodified":1472628934,
+    "wof:lastmodified":1492809487,
     "wof:name":"Decent Appliance Services LLC",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.466423,47.487458,-92.466423,47.487458",
     "geom:latitude":47.487458,
     "geom:longitude":-92.466423,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F6pgf5Sp8NWv5LFbUrpD5_47.487458_-92.466423@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598404,
-    "wof:geomhash":"c446ab9346f9cd89733f3789e4a108c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c2d19c955b0c8aae9f5eea01e5df3fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":806472255
+        }
+    ],
     "wof:id":806472255,
-    "wof:lastmodified":1472629240,
+    "wof:lastmodified":1492816861,
     "wof:name":"Gilbert Clerk's Office",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

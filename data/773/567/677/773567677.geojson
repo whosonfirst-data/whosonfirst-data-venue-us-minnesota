@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.294665,45.518295,-94.294665,45.518295",
     "geom:latitude":45.518295,
     "geom:longitude":-94.294665,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514497,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uXm8LVk1qyyKX4lsOwaOW_45.518295_-94.294665@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586704,
-    "wof:geomhash":"a527b98a250da99249aba54f64a59f06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"042c5e5e237c50d5898fc31d7fa0486a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514497,
+            "region_id":85688727,
+            "venue_id":773567677
+        }
+    ],
     "wof:id":773567677,
-    "wof:lastmodified":1472630097,
+    "wof:lastmodified":1492807719,
     "wof:name":"S & M Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

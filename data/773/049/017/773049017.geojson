@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.876032,45.50858,-93.876032,45.50858",
     "geom:latitude":45.50858,
     "geom:longitude":-93.876032,
@@ -33,17 +34,32 @@
         "co"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510475,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KCLte2tV3dFgK2SPrbAka_45.508580_-93.876032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582750,
-    "wof:geomhash":"8cf3c444fbb0f5ec4c4f4b8b5cdbd0ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3cf3ada03f9f3bc1d57aaa00ca11f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510475,
+            "region_id":85688727,
+            "venue_id":773049017
+        }
+    ],
     "wof:id":773049017,
-    "wof:lastmodified":1472629388,
+    "wof:lastmodified":1492804049,
     "wof:name":"Tim Fisher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

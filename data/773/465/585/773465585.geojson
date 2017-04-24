@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.097795,43.63355,-94.097795,43.63355",
     "geom:latitude":43.63355,
     "geom:longitude":-94.097795,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oJpkWyuRCDuzwAHgt8z02_43.633550_-94.097795@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585956,
-    "wof:geomhash":"288a4c8feb899ee32ae46c11f2ef4ff1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f99d09e90d4cd4f553bf330d3e7213a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":773465585
+        }
+    ],
     "wof:id":773465585,
-    "wof:lastmodified":1472630059,
+    "wof:lastmodified":1492801079,
     "wof:name":"Dale Link Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

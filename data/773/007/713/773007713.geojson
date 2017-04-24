@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.543524,45.471254,-94.543524,45.471254",
     "geom:latitude":45.471254,
     "geom:longitude":-94.543524,
@@ -33,17 +34,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514381,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vXzg0WgQrx8wCr1Aiqd8z_45.471254_-94.543524@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582264,
-    "wof:geomhash":"dd1bb10e9328f302dea570c8e7cd52b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1bb8ad2b96219ddf6fab5156a04e735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514381,
+            "region_id":85688727,
+            "venue_id":773007713
+        }
+    ],
     "wof:id":773007713,
-    "wof:lastmodified":1472629048,
+    "wof:lastmodified":1492799900,
     "wof:name":"Dan's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

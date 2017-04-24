@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.181663,45.051258,-95.181663,45.051258",
     "geom:latitude":45.051258,
     "geom:longitude":-95.181663,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513789,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RtehcQBnx6C0Yn56YZQDE_45.051258_-95.181663@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604238,
-    "wof:geomhash":"0ddf1e3b5c2c7c03605264f9324886c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"259ca07c9899d84536fa80bd357525df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513789,
+            "region_id":85688727,
+            "venue_id":807146897
+        }
+    ],
     "wof:id":807146897,
-    "wof:lastmodified":1472629289,
+    "wof:lastmodified":1492822318,
     "wof:name":"Douglas Vick Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.155518,48.109866,-96.155518,48.109866",
     "geom:latitude":48.109866,
     "geom:longitude":-96.155518,
@@ -29,17 +30,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45sbZSzLLRumDR6nEuU8BV_48.109866_-96.155518@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604299,
-    "wof:geomhash":"2d7cbf01f0af8a77f9087a0521b4e77e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c47ddcf5b27289604bd8ea05a6c9048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":807152707
+        }
+    ],
     "wof:id":807152707,
-    "wof:lastmodified":1472629291,
+    "wof:lastmodified":1492827702,
     "wof:name":"Olson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

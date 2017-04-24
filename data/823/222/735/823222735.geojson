@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.743424,46.935285,-92.743424,46.935285",
     "geom:latitude":46.935285,
     "geom:longitude":-92.743424,
@@ -31,17 +32,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510657,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cs513fa55V42zSLyn54NE_46.935285_-92.743424@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608783,
-    "wof:geomhash":"c173142a6ee4f64071698b0069d4fd88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa8bd77b37a7965033a28bfbd474fe33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510657,
+            "region_id":85688727,
+            "venue_id":823222735
+        }
+    ],
     "wof:id":823222735,
-    "wof:lastmodified":1472629108,
+    "wof:lastmodified":1492830431,
     "wof:name":"Mike Zauhar Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

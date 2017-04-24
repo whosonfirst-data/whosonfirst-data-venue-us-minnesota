@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.396526,47.521809,-95.396526,47.521809",
     "geom:latitude":47.521809,
     "geom:longitude":-95.396526,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"http://www.autovalue.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511097,
+        85633793,
+        85953367,
+        102087753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qYxd4zRwHV4Swkj3j4Eyn_47.521809_-95.396526@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609522,
-    "wof:geomhash":"5720da323eabb243f31a95b75b121669",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab86bf7011b2b159537138cabac1c8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087753,
+            "localadmin_id":404511097,
+            "locality_id":85953367,
+            "region_id":85688727,
+            "venue_id":823258697
+        }
+    ],
     "wof:id":823258697,
-    "wof:lastmodified":1472629222,
+    "wof:lastmodified":1492829493,
     "wof:name":"Auto Value",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

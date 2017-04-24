@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.153211,44.771955,-94.153211,44.771955",
     "geom:latitude":44.771955,
     "geom:longitude":-94.153211,
@@ -34,17 +35,34 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s6leeRDJXyZdy6b0Facbx_44.771955_-94.153211@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595360,
-    "wof:geomhash":"b8477772b4d4c0445b4cdc271b84a0a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37e94e77f665e281fe52505b04a8418d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":790376965
+        }
+    ],
     "wof:id":790376965,
-    "wof:lastmodified":1472629622,
+    "wof:lastmodified":1492837133,
     "wof:name":"LMI Home Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.882392,44.528958,-94.882392,44.528958",
     "geom:latitude":44.528958,
     "geom:longitude":-94.882392,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512475,
+        85633793,
+        85969033,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mqle2q9Sxx2V5jwzv9aTb_44.528958_-94.882392@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599408,
-    "wof:geomhash":"570236716c84847016903979d20d66fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c03a3fdc9d27298d984686da242ba46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512475,
+            "locality_id":85969033,
+            "region_id":85688727,
+            "venue_id":806591411
+        }
+    ],
     "wof:id":806591411,
-    "wof:lastmodified":1472629507,
+    "wof:lastmodified":1492819807,
     "wof:name":"Franklin Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

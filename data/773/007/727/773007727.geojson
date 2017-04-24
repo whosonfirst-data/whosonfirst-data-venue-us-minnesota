@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278387,44.858919,-93.278387,44.858919",
     "geom:latitude":44.858919,
     "geom:longitude":-93.278387,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.grothmusic.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xmLBaKk7GDgH0IdgLVf59_44.858919_-93.278387@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582264,
-    "wof:geomhash":"9307a530b5013eefb820c066fcb353c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a91539ba710f5f7fd404e3d6e89ede7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773007727
+        }
+    ],
     "wof:id":773007727,
-    "wof:lastmodified":1472629056,
+    "wof:lastmodified":1492799923,
     "wof:name":"Groth Music/Karaoke Central",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

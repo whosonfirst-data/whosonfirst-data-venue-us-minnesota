@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.664993,46.359799,-93.664993,46.359799",
     "geom:latitude":46.359799,
     "geom:longitude":-93.664993,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511263,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75XuZwGuRV0JlIsGZoxb5e_46.359799_-93.664993@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599563,
-    "wof:geomhash":"c3fe506c048ae1cbcedaf9137f2341e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f02fca1cbbd56448aae04868ce28e237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511263,
+            "region_id":85688727,
+            "venue_id":806609723
+        }
+    ],
     "wof:id":806609723,
-    "wof:lastmodified":1472629569,
+    "wof:lastmodified":1492815999,
     "wof:name":"Hohenstein Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

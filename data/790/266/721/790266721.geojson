@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.15172,44.769065,-94.15172,44.769065",
     "geom:latitude":44.769065,
     "geom:longitude":-94.15172,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Rt4Ooa3vTk2YnZJIQdQIC_44.769065_-94.151720@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594472,
-    "wof:geomhash":"2243fa07a14f9bcbb3f0e50737de188a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c55a4aa7eee22bb1e6ed659f1d77e3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":790266721
+        }
+    ],
     "wof:id":790266721,
-    "wof:lastmodified":1472629418,
+    "wof:lastmodified":1492837827,
     "wof:name":"New Auburn Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

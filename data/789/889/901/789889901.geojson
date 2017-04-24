@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.846044,47.185623,-93.846044,47.185623",
     "geom:latitude":47.185623,
     "geom:longitude":-93.846044,
@@ -32,17 +33,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511761,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K1wVXXpsCJofoLJkBjmTF_47.185623_-93.846044@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591371,
-    "wof:geomhash":"890763ed1d5d10a53b9806d87c910925",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cafa10ddf7a68636245397bb929cad63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511761,
+            "region_id":85688727,
+            "venue_id":789889901
+        }
+    ],
     "wof:id":789889901,
-    "wof:lastmodified":1472629593,
+    "wof:lastmodified":1492813660,
     "wof:name":"Runyan Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

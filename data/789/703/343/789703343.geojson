@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.151012,44.782629,-94.151012,44.782629",
     "geom:latitude":44.782629,
     "geom:longitude":-94.151012,
@@ -35,17 +36,32 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512807,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HcHDAXpZhyoEKAlZczEz2_44.782629_-94.151012@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589881,
-    "wof:geomhash":"10cc53dfafa1f936473375e941659ed3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5eeba09dd56259229a53e7647e45482a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512807,
+            "region_id":85688727,
+            "venue_id":789703343
+        }
+    ],
     "wof:id":789703343,
-    "wof:lastmodified":1472629201,
+    "wof:lastmodified":1492810580,
     "wof:name":"Dale's Plumbing & Heating Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

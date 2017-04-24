@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.536076,46.060287,-94.536076,46.060287",
     "geom:latitude":46.060287,
     "geom:longitude":-94.536076,
@@ -33,17 +34,32 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512859,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZoD0vsouHvE2BInpre8WJ_46.060287_-94.536076@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609431,
-    "wof:geomhash":"76ead13d1959715823d0697e01795a3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b20f16a7b52f1ba9745dfa8e231b9d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512859,
+            "region_id":85688727,
+            "venue_id":823254555
+        }
+    ],
     "wof:id":823254555,
-    "wof:lastmodified":1472629218,
+    "wof:lastmodified":1492830965,
     "wof:name":"Newport Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

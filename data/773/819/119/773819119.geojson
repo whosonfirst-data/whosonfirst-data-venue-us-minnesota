@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.925518,44.768007,-93.925518,44.768007",
     "geom:latitude":44.768007,
     "geom:longitude":-93.925518,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511701,
+        85633793,
+        85953355,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZN7xG3UAKD1ryKLDMlijE_44.768007_-93.925518@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588627,
-    "wof:geomhash":"a82850eefb7a0b4624ed9670d9811d8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de1c7a1e49c0f8f42a0c1eb73a7c27e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511701,
+            "locality_id":85953355,
+            "region_id":85688727,
+            "venue_id":773819119
+        }
+    ],
     "wof:id":773819119,
-    "wof:lastmodified":1472630166,
+    "wof:lastmodified":1492799265,
     "wof:name":"Wilson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

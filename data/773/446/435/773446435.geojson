@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.676039,45.037555,-94.676039,45.037555",
     "geom:latitude":45.037555,
     "geom:longitude":-94.676039,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512383,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IUwghKhXHfswbt11zj94t_45.037555_-94.676039@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585812,
-    "wof:geomhash":"05065e407fdf3736f9d47ba0626b0f35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c3aa3f386b666d534e7d03f72672f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512383,
+            "region_id":85688727,
+            "venue_id":773446435
+        }
+    ],
     "wof:id":773446435,
-    "wof:lastmodified":1472630058,
+    "wof:lastmodified":1492807229,
     "wof:name":"Dennis Hopp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

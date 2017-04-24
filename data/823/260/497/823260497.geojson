@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.771617,48.197195,-96.771617,48.197195",
     "geom:latitude":48.197195,
     "geom:longitude":-96.771617,
@@ -38,17 +39,34 @@
     ],
     "sg:website":"http://www.thrivent.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513989,
+        85633793,
+        85953457,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LAQUZHf2kANNwpegLNetu_48.197195_-96.771617@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609561,
-    "wof:geomhash":"96c1568a190a336980976b23bb65eae6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49d70e675f5552a0490a5c4af32674ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513989,
+            "locality_id":85953457,
+            "region_id":85688727,
+            "venue_id":823260497
+        }
+    ],
     "wof:id":823260497,
-    "wof:lastmodified":1472629219,
+    "wof:lastmodified":1492828523,
     "wof:name":"Thrivent Financial For Lutherans Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

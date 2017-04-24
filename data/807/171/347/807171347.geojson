@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.204783,44.848606,-94.204783,44.848606",
     "geom:latitude":44.848606,
     "geom:longitude":-94.204783,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512823,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DLBdiYIxXMsvGRrZsxPtR_44.848606_-94.204783@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604497,
-    "wof:geomhash":"f8b5dc5386ecf0ec59c83cba1af54fff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6274938451a477948fff7ccd12b601cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512823,
+            "region_id":85688727,
+            "venue_id":807171347
+        }
+    ],
     "wof:id":807171347,
-    "wof:lastmodified":1472629336,
+    "wof:lastmodified":1492824649,
     "wof:name":"Gene Streachek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

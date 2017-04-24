@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.887797,45.374577,-92.887797,45.374577",
     "geom:latitude":45.374577,
     "geom:longitude":-92.887797,
@@ -34,17 +35,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q5l4FKdIsr1kkCek5dZJc_45.374577_-92.887797@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595120,
-    "wof:geomhash":"dcc997882fde5b7ba374d95df199d459",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e69171bb1011ff40208e011de138ce9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":790347837
+        }
+    ],
     "wof:id":790347837,
-    "wof:lastmodified":1472629548,
+    "wof:lastmodified":1492836442,
     "wof:name":"Chisago Heating & Air Cond",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

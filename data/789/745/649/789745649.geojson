@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540102,47.464183,-92.540102,47.464183",
     "geom:latitude":47.464183,
     "geom:longitude":-92.540102,
@@ -31,17 +32,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WducTSnqTeN9BsJON6QrG_47.464183_-92.540102@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590222,
-    "wof:geomhash":"3a07ffb317d14cb47418e0f88684662a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f47a4974c3f93bcf590296b275a8b545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789745649
+        }
+    ],
     "wof:id":789745649,
-    "wof:lastmodified":1472629290,
+    "wof:lastmodified":1492812858,
     "wof:name":"Eveleth Auto Parts",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

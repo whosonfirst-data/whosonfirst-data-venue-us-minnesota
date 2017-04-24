@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.540658,44.87698,-93.540658,44.87698",
     "geom:latitude":44.87698,
     "geom:longitude":-93.540658,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UfYrhDi6BWg4RUNzlcZyt_44.876980_-93.540658@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587713,
-    "wof:geomhash":"cf9761899964e525b747c42b7205e2c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"545d328e28ab387a23722fda2c68be77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":773698043
+        }
+    ],
     "wof:id":773698043,
-    "wof:lastmodified":1472630130,
+    "wof:lastmodified":1492799155,
     "wof:name":"Management Consulting Sltns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

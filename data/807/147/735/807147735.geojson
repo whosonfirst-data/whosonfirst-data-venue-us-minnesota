@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.705389,45.079374,-95.705389,45.079374",
     "geom:latitude":45.079374,
     "geom:longitude":-95.705389,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510795,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TeiMMI7e5wNiqHETNRTrp_45.079374_-95.705389@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604253,
-    "wof:geomhash":"03340d2815cd823b68e648a8dc967eb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f687e97c8e05eda9bd61374e5da265b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510795,
+            "region_id":85688727,
+            "venue_id":807147735
+        }
+    ],
     "wof:id":807147735,
-    "wof:lastmodified":1472629280,
+    "wof:lastmodified":1492826166,
     "wof:name":"Jon W Croom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.98793,43.606173,-93.98793,43.606173",
     "geom:latitude":43.606173,
     "geom:longitude":-93.98793,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509607,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lMpXCmFir2RVx4rMXkR8Q_43.606173_-93.987930@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603695,
-    "wof:geomhash":"8b64c70d69905edfae47284244f173f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34a451a7da9beb6923d790487fd4ac8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509607,
+            "region_id":85688727,
+            "venue_id":807097771
+        }
+    ],
     "wof:id":807097771,
-    "wof:lastmodified":1472629210,
+    "wof:lastmodified":1492827365,
     "wof:name":"David Murray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.054316,43.863369,-93.054316,43.863369",
     "geom:latitude":43.863369,
     "geom:longitude":-93.054316,
@@ -32,17 +33,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510809,
+        85633793,
+        85952847,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cQYvesJu5EKzzsamRgboh_43.863369_-93.054316@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584946,
-    "wof:geomhash":"ded7440114f9165f5cb3e4672ca68554",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3ab15c1f4674e396d6a88dd10b954db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510809,
+            "locality_id":85952847,
+            "region_id":85688727,
+            "venue_id":773334301
+        }
+    ],
     "wof:id":773334301,
-    "wof:lastmodified":1472630014,
+    "wof:lastmodified":1492806023,
     "wof:name":"Municipal Utilities Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

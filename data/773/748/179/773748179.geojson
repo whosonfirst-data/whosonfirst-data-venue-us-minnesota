@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.754451,43.921202,-92.754451,43.921202",
     "geom:latitude":43.921202,
     "geom:longitude":-92.754451,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513745,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34Nl8ocHJni6bhq1cPMqvd_43.921202_-92.754451@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588086,
-    "wof:geomhash":"4b839d074b3fa37a47979193aeaeb6cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5828c410dc97908c3cfe9dbeca18349e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513745,
+            "region_id":85688727,
+            "venue_id":773748179
+        }
+    ],
     "wof:id":773748179,
-    "wof:lastmodified":1472630146,
+    "wof:lastmodified":1492806680,
     "wof:name":"Log Cabin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

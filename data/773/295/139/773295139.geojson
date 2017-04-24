@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.990302,46.390214,-95.990302,46.390214",
     "geom:latitude":46.390214,
     "geom:longitude":-95.990302,
@@ -32,17 +33,32 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512881,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17AHxtx9W67xZMQkBeb26o_46.390214_-95.990302@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584638,
-    "wof:geomhash":"f3a6d188ccf3899c2464900a3cb3b904",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be4f3de5442dfe9981914568b493d51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512881,
+            "region_id":85688727,
+            "venue_id":773295139
+        }
+    ],
     "wof:id":773295139,
-    "wof:lastmodified":1472629999,
+    "wof:lastmodified":1492805827,
     "wof:name":"Three Crowns Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

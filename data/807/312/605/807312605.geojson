@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.549967,44.912874,-93.549967,44.912874",
     "geom:latitude":44.912874,
     "geom:longitude":-93.549967,
@@ -37,17 +38,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509447,
+        85633793,
+        85969201,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lE1U01UKMPP9ES8Fa4utj_44.912874_-93.549967@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462605986,
-    "wof:geomhash":"e486ca153fca10fe4ffa863c87e34245",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ff15ec9fd099ace775c34bc27ca2ca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509447,
+            "locality_id":85969201,
+            "region_id":85688727,
+            "venue_id":807312605
+        }
+    ],
     "wof:id":807312605,
-    "wof:lastmodified":1472629700,
+    "wof:lastmodified":1492826600,
     "wof:name":"Adjustors Choice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

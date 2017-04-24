@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.339043,44.137186,-92.339043,44.137186",
     "geom:latitude":44.137186,
     "geom:longitude":-92.339043,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512445,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JWnIFACOEj8bcPgSPPzAH_44.137186_-92.339043@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604532,
-    "wof:geomhash":"3cc7331001d931153d2068e201f2665d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47acdc6c1da82b960cf9b84f92a1440b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512445,
+            "region_id":85688727,
+            "venue_id":807174519
+        }
+    ],
     "wof:id":807174519,
-    "wof:lastmodified":1472629339,
+    "wof:lastmodified":1492827948,
     "wof:name":"Raymond Hampel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

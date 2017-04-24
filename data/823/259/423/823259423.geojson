@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.944873,47.058321,-93.944873,47.058321",
     "geom:latitude":47.058321,
     "geom:longitude":-93.944873,
@@ -38,17 +39,32 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509403,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eu1eYPKIR5AjhiLV5yRT1_47.058321_-93.944873@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609542,
-    "wof:geomhash":"6e6ae1b0ac99ee2daf88e5ae949e3825",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2693c57368b81ac012bc27f0bc7f691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509403,
+            "region_id":85688727,
+            "venue_id":823259423
+        }
+    ],
     "wof:id":823259423,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492829154,
     "wof:name":"The Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

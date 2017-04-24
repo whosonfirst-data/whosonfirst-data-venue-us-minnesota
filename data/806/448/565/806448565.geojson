@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.505926,45.479128,-93.505926,45.479128",
     "geom:latitude":45.479128,
     "geom:longitude":-93.505926,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513119,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Nt6OgLE9PV4CQX3GwwdR_45.479128_-93.505926@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598234,
-    "wof:geomhash":"2425b64ef1ff8d32630ab7cfe1329eea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c095bda7cf1b33dcbd8baddd233505fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513119,
+            "region_id":85688727,
+            "venue_id":806448565
+        }
+    ],
     "wof:id":806448565,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492816978,
     "wof:name":"Lakeside Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

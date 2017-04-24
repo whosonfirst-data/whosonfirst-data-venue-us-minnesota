@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.986422,43.620791,-94.986422,43.620791",
     "geom:latitude":43.620791,
     "geom:longitude":-94.986422,
@@ -31,17 +32,34 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lfn2Q6greCkxNpULhODhj_43.620791_-94.986422@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583958,
-    "wof:geomhash":"117c1b438738d9fc836b0b8376d93279",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59854a09e34bff473475d99a70bf827c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":773204063
+        }
+    ],
     "wof:id":773204063,
-    "wof:lastmodified":1472629939,
+    "wof:lastmodified":1492801360,
     "wof:name":"Jackson Building Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

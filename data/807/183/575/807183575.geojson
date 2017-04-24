@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.824747,43.762293,-95.824747,43.762293",
     "geom:latitude":43.762293,
     "geom:longitude":-95.824747,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510275,
+        85633793,
+        85968659,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64eepJjhMmUSg1PsE0rNPD_43.761862_-95.824667@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604620,
-    "wof:geomhash":"cc19e13e3bc7db7c9a69864e77daaca4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f11b0fd4a047eea616332f301336b21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510275,
+            "locality_id":85968659,
+            "region_id":85688727,
+            "venue_id":807183575
+        }
+    ],
     "wof:id":807183575,
-    "wof:lastmodified":1472629368,
+    "wof:lastmodified":1492826970,
     "wof:name":"Spartz Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

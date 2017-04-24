@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.984743,45.007649,-92.984743,45.007649",
     "geom:latitude":45.007649,
     "geom:longitude":-92.984743,
@@ -28,17 +29,46 @@
     "sg:postcode":"55109",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514461,
+        85633793,
+        85953179,
+        102087007,
+        404514913,
+        85953565,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vi48P5KhTAB23YYrAbrN8_45.007649_-92.984743@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590944,
-    "wof:geomhash":"352421a66a14ae7823ee9e342f9b76aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f02ec66f49b3cbb0b754983f03b5e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514461,
+            "locality_id":85953179,
+            "region_id":85688727,
+            "venue_id":789839715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514913,
+            "locality_id":85953565,
+            "region_id":85688727,
+            "venue_id":789839715
+        }
+    ],
     "wof:id":789839715,
-    "wof:lastmodified":1472629453,
+    "wof:lastmodified":1492810155,
     "wof:name":"Real Estate 3",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

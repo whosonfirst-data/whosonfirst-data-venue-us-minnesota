@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.056703,45.412679,-94.056703,45.412679",
     "geom:latitude":45.412679,
     "geom:longitude":-94.056703,
@@ -31,17 +32,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510757,
+        85633793,
+        85952447,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6InicpC1dTpGitWl0C1gla_45.412679_-94.056703@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585987,
-    "wof:geomhash":"9d03105c6e25bf5434a1def506d7ae72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc3dd21aceac53bd9523c7a74c51fd0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510757,
+            "locality_id":85952447,
+            "region_id":85688727,
+            "venue_id":773469745
+        }
+    ],
     "wof:id":773469745,
-    "wof:lastmodified":1472630063,
+    "wof:lastmodified":1492808923,
     "wof:name":"Flinstones Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

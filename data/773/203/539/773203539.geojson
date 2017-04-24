@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.653065,45.754617,-93.653065,45.754617",
     "geom:latitude":45.754617,
     "geom:longitude":-93.653065,
@@ -32,17 +33,34 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512557,
+        85633793,
+        85969101,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bggC6BS1ELpK95GMtLwhT_45.754617_-93.653065@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583954,
-    "wof:geomhash":"bcab0896ca4304465cd43844cb0f9a47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dee856bd45e0d2353b477da8fbabc2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512557,
+            "locality_id":85969101,
+            "region_id":85688727,
+            "venue_id":773203539
+        }
+    ],
     "wof:id":773203539,
-    "wof:lastmodified":1472629954,
+    "wof:lastmodified":1492801516,
     "wof:name":"Milaca Area Pantry Food Distri",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

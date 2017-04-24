@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.233616,43.988185,-92.233616,43.988185",
     "geom:latitude":43.988185,
     "geom:longitude":-92.233616,
@@ -33,17 +34,34 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510305,
+        85633793,
+        85953509,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zh0oAfJmEKpxFdpyKy8Td_43.988185_-92.233616@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609032,
-    "wof:geomhash":"616356edc5850ca3397f6e7ae02f83c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"818eeeaade0242e5b3091312a9a24de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510305,
+            "locality_id":85953509,
+            "region_id":85688727,
+            "venue_id":823233945
+        }
+    ],
     "wof:id":823233945,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492828680,
     "wof:name":"Franklin Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

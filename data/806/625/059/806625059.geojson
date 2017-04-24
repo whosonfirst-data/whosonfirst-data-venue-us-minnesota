@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.29988,45.669149,-94.29988,45.669149",
     "geom:latitude":45.669149,
     "geom:longitude":-94.29988,
@@ -39,17 +40,32 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510527,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28qlgKtpbcsXnt900r0zHQ_45.669149_-94.299880@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599693,
-    "wof:geomhash":"32d813955ef58faf3d247c5512184d50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce42563efeab644d51458c9109911140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510527,
+            "region_id":85688727,
+            "venue_id":806625059
+        }
+    ],
     "wof:id":806625059,
-    "wof:lastmodified":1472629546,
+    "wof:lastmodified":1492817564,
     "wof:name":"Zippy's Finch Nest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

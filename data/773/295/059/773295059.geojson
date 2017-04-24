@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.079028,44.934849,-93.079028,44.934849",
     "geom:latitude":44.934849,
     "geom:longitude":-93.079028,
@@ -37,19 +38,38 @@
     ],
     "sg:website":"www.phoenixresidence.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DFca7ZimoJbHlLPdCh1tv_44.934849_-93.079028@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584638,
-    "wof:geomhash":"60af54c3257122cc595290c3f31883d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"767756328415a2fe7e14b6ac39cfad78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773295059
+        }
+    ],
     "wof:id":773295059,
-    "wof:lastmodified":1472629997,
+    "wof:lastmodified":1492805827,
     "wof:name":"Phoenix Residence Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

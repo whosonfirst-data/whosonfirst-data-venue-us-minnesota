@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.884849,45.376759,-92.884849,45.376759",
     "geom:latitude":45.376759,
     "geom:longitude":-92.884849,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UtFupnrUlqWR9cjSofb7v_45.376759_-92.884849@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589905,
-    "wof:geomhash":"cc36f31501d8f3c813b2c3fc6d814d4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5760a1e284cfcdb57a50010320d9277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":789706555
+        }
+    ],
     "wof:id":789706555,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492813431,
     "wof:name":"Mark Jurkovich MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

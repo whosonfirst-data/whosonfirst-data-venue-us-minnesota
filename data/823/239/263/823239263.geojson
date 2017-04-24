@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.228874,43.607117,-93.228874,43.607117",
     "geom:latitude":43.607117,
     "geom:longitude":-93.228874,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514505,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59agXUaUtMti0aH1EA6pwH_43.607117_-93.228874@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609137,
-    "wof:geomhash":"26f582228546234a851d1a082d657291",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd89e3cc246c8ec9ad08ef483e2219a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514505,
+            "region_id":85688727,
+            "venue_id":823239263
+        }
+    ],
     "wof:id":823239263,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492828337,
     "wof:name":"Wayne Wacholz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

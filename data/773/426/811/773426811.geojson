@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.316482,43.997311,-96.316482,43.997311",
     "geom:latitude":43.997311,
     "geom:longitude":-96.316482,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wOETnsKXwAEYyjIyMif84_43.997311_-96.316482@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585634,
-    "wof:geomhash":"233a310fbb17311fd7c67272cf3ab364",
-    "wof:hierarchy":[],
+    "wof:geomhash":"029f5caf8e754433b6e1388d694b608a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":773426811
+        }
+    ],
     "wof:id":773426811,
-    "wof:lastmodified":1472630051,
+    "wof:lastmodified":1492808610,
     "wof:name":"Good Shepherd Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

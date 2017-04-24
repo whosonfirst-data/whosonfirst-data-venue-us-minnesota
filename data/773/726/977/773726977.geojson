@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.726505,44.39213,-93.726505,44.39213",
     "geom:latitude":44.39213,
     "geom:longitude":-93.726505,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512359,
+        85633793,
+        85953433,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RuAHrY4sQ52YWV3Zozn1d_44.392130_-93.726505@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587928,
-    "wof:geomhash":"57fce922c5e00484ad14b79039f69960",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15e4298e3aaa0b8131610cc4dad1fe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512359,
+            "locality_id":85953433,
+            "region_id":85688727,
+            "venue_id":773726977
+        }
+    ],
     "wof:id":773726977,
-    "wof:lastmodified":1472630146,
+    "wof:lastmodified":1492803224,
     "wof:name":"Mr Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

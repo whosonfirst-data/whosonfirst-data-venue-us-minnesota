@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.008035,44.161787,-94.008035,44.161787",
     "geom:latitude":44.161787,
     "geom:longitude":-94.008035,
@@ -28,17 +29,34 @@
     "sg:postcode":"56001",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pNxZId44Sqf0oZgDk3bEe_44.161787_-94.008035@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593548,
-    "wof:geomhash":"2d0e57c0d8788db634e5852bbf53882c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97f414d515e2b5b9147d6e78b5ec8dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":790154627
+        }
+    ],
     "wof:id":790154627,
-    "wof:lastmodified":1472629252,
+    "wof:lastmodified":1492833385,
     "wof:name":"Metlife",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.36889,44.874865,-94.36889,44.874865",
     "geom:latitude":44.874865,
     "geom:longitude":-94.36889,
@@ -32,19 +33,38 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85896879,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UDZ9hSCnoefK10fpezNcA_44.874865_-94.368890@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602055,
-    "wof:geomhash":"20b71f4af16dd08a95b5ff5abca0dd7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5060c0ba1689fb5f33ff5d029cc39f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "neighbourhood_id":85896879,
+            "region_id":85688727,
+            "venue_id":806905675
+        }
+    ],
     "wof:id":806905675,
-    "wof:lastmodified":1472629928,
+    "wof:lastmodified":1492817914,
     "wof:name":"Jobs Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85896879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

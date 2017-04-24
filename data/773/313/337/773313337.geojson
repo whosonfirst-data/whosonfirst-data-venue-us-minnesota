@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.101802,44.928243,-93.101802,44.928243",
     "geom:latitude":44.928243,
     "geom:longitude":-93.101802,
@@ -31,19 +32,40 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800635,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sT9LQU1ptTLXOT6eINmLm_44.928243_-93.101802@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584793,
-    "wof:geomhash":"1007aa801f8eca6a206694ebb679f5c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34f01508d9453eaf2746efa9ed9d573d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800635,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773313337
+        }
+    ],
     "wof:id":773313337,
-    "wof:lastmodified":1472630002,
+    "wof:lastmodified":1492805587,
     "wof:name":"A B C Auto Body Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.952272,45.737181,-94.952272,45.737181",
     "geom:latitude":45.737181,
     "geom:longitude":-94.952272,
@@ -31,17 +32,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512153,
+        85633793,
+        85952509,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hCt8moW3D4S7Iv4t2yhgz_45.737181_-94.952272@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602378,
-    "wof:geomhash":"65227c856ff1aa5bf5e9bd860a37a813",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82372f8c5272b992c07d2f11fd7b000d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512153,
+            "locality_id":85952509,
+            "region_id":85688727,
+            "venue_id":806942141
+        }
+    ],
     "wof:id":806942141,
-    "wof:lastmodified":1472629943,
+    "wof:lastmodified":1492814240,
     "wof:name":"Sportsman's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

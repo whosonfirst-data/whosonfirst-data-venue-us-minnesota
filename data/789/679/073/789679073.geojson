@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.978249,45.580629,-92.978249,45.580629",
     "geom:latitude":45.580629,
     "geom:longitude":-92.978249,
@@ -31,17 +32,34 @@
         "web"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511115,
+        85633793,
+        85952703,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZI6kmfZJigGQ4BKAXulcH_45.580629_-92.978249@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589692,
-    "wof:geomhash":"cbb5bc9b52d60adcc32a92eb834bd2bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a0d1aa2ecea13fc73756fb033f4db76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511115,
+            "locality_id":85952703,
+            "region_id":85688727,
+            "venue_id":789679073
+        }
+    ],
     "wof:id":789679073,
-    "wof:lastmodified":1472629145,
+    "wof:lastmodified":1492810685,
     "wof:name":"Trocat Web Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

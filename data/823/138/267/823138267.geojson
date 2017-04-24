@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.301137,44.999474,-93.301137,44.999474",
     "geom:latitude":44.999474,
     "geom:longitude":-93.301137,
@@ -48,14 +49,14 @@
     "sg:website":"http://www.oreillyauto.com?utm_source=yellowpages&utm_medium=iyp&utm_campaign=3250",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872599,
+        85872601,
         102191575,
+        1108799979,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872691
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607473,
-    "wof:geomhash":"9c2bb55069705bd7463749d77d5e6d21",
+    "wof:geomhash":"609fa664a0b4538406d8b59b556de79d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,25 +72,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872599,
-            "region_id":85688727,
-            "venue_id":823138267
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872691,
+            "macrohood_id":1108799979,
+            "neighbourhood_id":85872601,
             "region_id":85688727,
             "venue_id":823138267
         }
     ],
     "wof:id":823138267,
-    "wof:lastmodified":1472628937,
+    "wof:lastmodified":1492829238,
     "wof:name":"O'Reilly Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

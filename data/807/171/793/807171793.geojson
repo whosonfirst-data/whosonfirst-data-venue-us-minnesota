@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.512672,45.035863,-95.512672,45.035863",
     "geom:latitude":45.035863,
     "geom:longitude":-95.512672,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509081,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EOXsz4jw5ROLhbABagdEk_45.035863_-95.512672@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604505,
-    "wof:geomhash":"88967f9213bcc77354581fc1839c4d5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f61946cf194745428f903061942ca6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509081,
+            "region_id":85688727,
+            "venue_id":807171793
+        }
+    ],
     "wof:id":807171793,
-    "wof:lastmodified":1472629359,
+    "wof:lastmodified":1492824645,
     "wof:name":"D McNeil Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

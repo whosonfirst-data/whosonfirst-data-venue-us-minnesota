@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.817608,45.391247,-92.817608,45.391247",
     "geom:latitude":45.391247,
     "geom:longitude":-92.817608,
@@ -28,17 +29,34 @@
     "sg:postcode":"55012",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511107,
+        85633793,
+        85952707,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G9RAUIbVoDbf6YlTMt9TD_45.391247_-92.817608@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588069,
-    "wof:geomhash":"0c8b2713cadad9de9f12b5cbde2a40ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3a8b496637bd994a6eacaf379d4ae23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511107,
+            "locality_id":85952707,
+            "region_id":85688727,
+            "venue_id":773746019
+        }
+    ],
     "wof:id":773746019,
-    "wof:lastmodified":1472630145,
+    "wof:lastmodified":1492801928,
     "wof:name":"Main Street Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

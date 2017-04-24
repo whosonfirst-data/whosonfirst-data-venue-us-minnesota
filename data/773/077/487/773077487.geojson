@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.587434,46.752089,-95.587434,46.752089",
     "geom:latitude":46.752089,
     "geom:longitude":-95.587434,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509225,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZW4urMMOw9aaHPgnhQC2Z_46.752089_-95.587434@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582986,
-    "wof:geomhash":"3ff534dbd52148531e166e6702a7c790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"079046e8db6127c2ff51cbbbf0f27e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404509225,
+            "region_id":85688727,
+            "venue_id":773077487
+        }
+    ],
     "wof:id":773077487,
-    "wof:lastmodified":1472629509,
+    "wof:lastmodified":1492805489,
     "wof:name":"Harold Wilkinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

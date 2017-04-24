@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.637262,45.764745,-93.637262,45.764745",
     "geom:latitude":45.764745,
     "geom:longitude":-93.637262,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512541,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33J9l8HRHkBt0ymfyDLA3B_45.764745_-93.637262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583353,
-    "wof:geomhash":"b7bd8c763a059c51b58a61d884d6272d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aafa3eaf44866fadfd42cb5689efd493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512541,
+            "region_id":85688727,
+            "venue_id":773129035
+        }
+    ],
     "wof:id":773129035,
-    "wof:lastmodified":1472629637,
+    "wof:lastmodified":1492805894,
     "wof:name":"Vickies Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

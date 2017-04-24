@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.294755,44.722353,-94.294755,44.722353",
     "geom:latitude":44.722353,
     "geom:longitude":-94.294755,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510117,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aWcdFxAhFgQ2z9NNO70os_44.722353_-94.294755@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593742,
-    "wof:geomhash":"1cdb621288e7607fc18ed5875a1fb35f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f4aa4cca844d6ad9245fc58dbcd8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510117,
+            "region_id":85688727,
+            "venue_id":790175783
+        }
+    ],
     "wof:id":790175783,
-    "wof:lastmodified":1472629267,
+    "wof:lastmodified":1492834765,
     "wof:name":"Raymond Draeger Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

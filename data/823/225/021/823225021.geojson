@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.407654,47.492459,-92.407654,47.492459",
     "geom:latitude":47.492459,
     "geom:longitude":-92.407654,
@@ -31,17 +32,26 @@
         "ranch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XGX9ndWuGzk0KcSxVH8GM_47.492459_-92.407654@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608839,
-    "wof:geomhash":"8804bcd1afd4982c15761246bcc02841",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c591a2c9c6c02a13d991366c340f7e07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":823225021
+        }
+    ],
     "wof:id":823225021,
-    "wof:lastmodified":1472629077,
+    "wof:lastmodified":1492828070,
     "wof:name":"Welch Farms",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

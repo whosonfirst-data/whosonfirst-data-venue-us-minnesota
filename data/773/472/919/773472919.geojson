@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.545989,44.919582,-93.545989,44.919582",
     "geom:latitude":44.919582,
     "geom:longitude":-93.545989,
@@ -32,17 +33,34 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yQYhj0McXJxE0GcvlTYbg_44.919582_-93.545989@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586009,
-    "wof:geomhash":"c6fab0395886d147d808b5e2a2c2d2e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb52b619234802363ac6df44b55820df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":773472919
+        }
+    ],
     "wof:id":773472919,
-    "wof:lastmodified":1472630066,
+    "wof:lastmodified":1492802625,
     "wof:name":"Jones Design Build",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

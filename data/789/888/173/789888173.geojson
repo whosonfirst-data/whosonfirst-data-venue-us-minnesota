@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.05843,44.237005,-96.05843,44.237005",
     "geom:latitude":44.237005,
     "geom:longitude":-96.05843,
@@ -28,17 +29,34 @@
     "sg:postcode":"56170",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509727,
+        85633793,
+        85968553,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_613pHddlCYoEU5WwdTiBS4_44.237005_-96.058430@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591354,
-    "wof:geomhash":"6fc3f38d69c6eebc112c9d6692b00526",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed4ff46a27905785afa02f637ac70349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404509727,
+            "locality_id":85968553,
+            "region_id":85688727,
+            "venue_id":789888173
+        }
+    ],
     "wof:id":789888173,
-    "wof:lastmodified":1472629590,
+    "wof:lastmodified":1492809545,
     "wof:name":"B P Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

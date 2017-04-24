@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.328555,43.994305,-96.328555,43.994305",
     "geom:latitude":43.994305,
     "geom:longitude":-96.328555,
@@ -36,17 +37,34 @@
         "dispensing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o7O1XYwg11NuAaYljZDoq_43.994305_-96.328555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586013,
-    "wof:geomhash":"1fcbdfd4e3e51a49e8abaddbb04009af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dae884349052f2d6775068f1ce6c8d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":773473663
+        }
+    ],
     "wof:id":773473663,
-    "wof:lastmodified":1472630067,
+    "wof:lastmodified":1492801847,
     "wof:name":"Bioverse Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

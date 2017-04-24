@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.414274,45.159894,-93.414274,45.159894",
     "geom:latitude":45.159894,
     "geom:longitude":-93.414274,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mvYEVCWEs74UCzvT9QvBq_45.159894_-93.414274@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582378,
-    "wof:geomhash":"d3b66d439c01620df970a0b435d7b6d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a23e0bbad177c3bcf8d08dce323df450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":773013833
+        }
+    ],
     "wof:id":773013833,
-    "wof:lastmodified":1472628991,
+    "wof:lastmodified":1492803468,
     "wof:name":"Martin Information System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

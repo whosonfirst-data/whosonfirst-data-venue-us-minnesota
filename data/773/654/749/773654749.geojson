@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.282031,45.084618,-93.282031,45.084618",
     "geom:latitude":45.084618,
     "geom:longitude":-93.282031,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UZd0tsMBJJP5BrbmD90SL_45.084618_-93.282031@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587358,
-    "wof:geomhash":"19729868c92d8307848a4a9c7e1efdfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"457abeb60efaf8403cf98249e86ba349",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":773654749
+        }
+    ],
     "wof:id":773654749,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492807021,
     "wof:name":"Allan D Olson Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

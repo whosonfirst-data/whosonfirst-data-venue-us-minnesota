@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.474598,44.017241,-92.474598,44.017241",
     "geom:latitude":44.017241,
     "geom:longitude":-92.474598,
@@ -32,17 +33,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VcxED3E8YbeVTD7xy73FC_44.017241_-92.474598@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591277,
-    "wof:geomhash":"66d27fd38bb37c3747e293aaba71c53f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a70a3f152ae4e2e623027965ad6347e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789878675
+        }
+    ],
     "wof:id":789878675,
-    "wof:lastmodified":1472629568,
+    "wof:lastmodified":1492813785,
     "wof:name":"Walter A Rocca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.872498,45.393605,-93.872498,45.393605",
     "geom:latitude":45.393605,
     "geom:longitude":-93.872498,
@@ -48,17 +49,34 @@
         "patio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515051,
+        85633793,
+        85968831,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oYp5y6qqDuxNwUqtfYARH_45.393605_-93.872498@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605810,
-    "wof:geomhash":"ff4310d28f184362157c912631e78376",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2327ebb1d40cdd7096ae58bc55f8937b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515051,
+            "locality_id":85968831,
+            "region_id":85688727,
+            "venue_id":807295803
+        }
+    ],
     "wof:id":807295803,
-    "wof:lastmodified":1472629622,
+    "wof:lastmodified":1492826216,
     "wof:name":"Marx Remodeling & Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

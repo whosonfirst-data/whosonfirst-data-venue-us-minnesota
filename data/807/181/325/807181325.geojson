@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.556448,45.846933,-95.556448,45.846933",
     "geom:latitude":45.846933,
     "geom:longitude":-95.556448,
@@ -29,17 +30,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509591,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xVjejcg15y4yHAxuLdDB5_45.846933_-95.556448@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604599,
-    "wof:geomhash":"69f167da68f2a4bf5314bd3e7956de72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e7725dc290a5f40bac02c4b17359d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509591,
+            "region_id":85688727,
+            "venue_id":807181325
+        }
+    ],
     "wof:id":807181325,
-    "wof:lastmodified":1472629361,
+    "wof:lastmodified":1492826299,
     "wof:name":"Gene Corle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

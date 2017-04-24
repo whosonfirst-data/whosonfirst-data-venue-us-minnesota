@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.391398,45.650142,-95.391398,45.650142",
     "geom:latitude":45.650142,
     "geom:longitude":-95.391398,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514323,
+        85633793,
+        85968627,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cUi6G1miQB8qyCq1TAw6l_45.650142_-95.391398@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598018,
-    "wof:geomhash":"137101f89cab9537bc94c7d53ff2ffd6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbabb4c489389f4c0358da54668e35f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514323,
+            "locality_id":85968627,
+            "region_id":85688727,
+            "venue_id":806421493
+        }
+    ],
     "wof:id":806421493,
-    "wof:lastmodified":1472629104,
+    "wof:lastmodified":1492819078,
     "wof:name":"Tom's Food Pride",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

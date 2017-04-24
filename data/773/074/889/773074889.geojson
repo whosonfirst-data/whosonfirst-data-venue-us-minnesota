@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.412745,44.922302,-93.412745,44.922302",
     "geom:latitude":44.922302,
     "geom:longitude":-93.412745,
@@ -32,17 +33,34 @@
         "us"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KJZPIRO28svmHjP9Pdblr_44.922302_-93.412745@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582969,
-    "wof:geomhash":"5b6ae131a6d6d820e4c3c500579e9096",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c7430df4245edd1467ebdc46bc9860f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":773074889
+        }
+    ],
     "wof:id":773074889,
-    "wof:lastmodified":1472629521,
+    "wof:lastmodified":1492807363,
     "wof:name":"Hopkins Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

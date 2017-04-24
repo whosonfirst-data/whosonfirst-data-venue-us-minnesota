@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.961382,43.926283,-93.961382,43.926283",
     "geom:latitude":43.926283,
     "geom:longitude":-93.961382,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511551,
+        85633793,
+        85953343,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30zIcet1GaP8xJOXBO1Rhc_43.926283_-93.961382@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589073,
-    "wof:geomhash":"5aa24d02d0fb76fd6d5a0e7da50d72cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6c07147e2ac198d27637afb9e640709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511551,
+            "locality_id":85953343,
+            "region_id":85688727,
+            "venue_id":789600761
+        }
+    ],
     "wof:id":789600761,
-    "wof:lastmodified":1472628969,
+    "wof:lastmodified":1492811394,
     "wof:name":"United Church Of Mapleton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

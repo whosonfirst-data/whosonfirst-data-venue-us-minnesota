@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.632858,44.669525,-93.632858,44.669525",
     "geom:latitude":44.669525,
     "geom:longitude":-93.632858,
@@ -33,17 +34,34 @@
         "air"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510737,
+        85633793,
+        85952537,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Aq0XiWlqHwuT8bPESLwZw_44.669525_-93.632858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597638,
-    "wof:geomhash":"d5365a08ea0b5c1b35d4d1a2c0dc1809",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34fb85bac4a4d9a914c589e3a622070a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510737,
+            "locality_id":85952537,
+            "region_id":85688727,
+            "venue_id":806375195
+        }
+    ],
     "wof:id":806375195,
-    "wof:lastmodified":1472628986,
+    "wof:lastmodified":1492814727,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

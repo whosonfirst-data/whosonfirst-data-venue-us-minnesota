@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.096433,46.754318,-95.096433,46.754318",
     "geom:latitude":46.754318,
     "geom:longitude":-95.096433,
@@ -31,17 +32,34 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514831,
+        85633793,
+        85968357,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JvPu84IpRnbbfUQ04l4hI_46.754318_-95.096433@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587613,
-    "wof:geomhash":"d3aa2c454d08b10227b4f0a201c7636c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4177772012a983db6edde8e5241e3a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514831,
+            "locality_id":85968357,
+            "region_id":85688727,
+            "venue_id":773689751
+        }
+    ],
     "wof:id":773689751,
-    "wof:lastmodified":1472630132,
+    "wof:lastmodified":1492800958,
     "wof:name":"Cooperative Sampo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

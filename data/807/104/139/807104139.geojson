@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.774773,45.021135,-93.774773,45.021135",
     "geom:latitude":45.021135,
     "geom:longitude":-93.774773,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZPmrjRhLDnZwZQidAOZ8F_45.021064_-93.774881@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603775,
-    "wof:geomhash":"81e67a24509bd034f6080c7e94b28591",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c08879ee7d4763bccc45e87de3e8a937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":807104139
+        }
+    ],
     "wof:id":807104139,
-    "wof:lastmodified":1472629198,
+    "wof:lastmodified":1492822846,
     "wof:name":"George Fake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.655122,44.50058,-93.655122,44.50058",
     "geom:latitude":44.50058,
     "geom:longitude":-93.655122,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509697,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ggJdswtCl8m1dIY45jroB_44.500580_-93.655122@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583932,
-    "wof:geomhash":"073179bb4508169accbf067c759fbaf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5537c820de48b115e83e26664419603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404509697,
+            "region_id":85688727,
+            "venue_id":773200065
+        }
+    ],
     "wof:id":773200065,
-    "wof:lastmodified":1472629939,
+    "wof:lastmodified":1492801268,
     "wof:name":"Tom Illg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

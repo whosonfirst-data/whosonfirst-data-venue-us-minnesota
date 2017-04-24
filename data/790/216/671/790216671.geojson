@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.505685,44.833665,-93.505685,44.833665",
     "geom:latitude":44.833665,
     "geom:longitude":-93.505685,
@@ -28,17 +29,34 @@
     "sg:postcode":"55347",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11JHOydp5fw93iqL3kpuc3_44.833665_-93.505685@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594081,
-    "wof:geomhash":"d80bffef52bec9e366ca2d07f2821faa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cf96239d533a7e5ba0ea4369233ed34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":790216671
+        }
+    ],
     "wof:id":790216671,
-    "wof:lastmodified":1472629332,
+    "wof:lastmodified":1492832201,
     "wof:name":"S Roberts Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359825,45.379222,-93.359825,45.379222",
     "geom:latitude":45.379222,
     "geom:longitude":-93.359825,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515121,
+        85633793,
+        85953377,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C7J5lK31fQbIluVRd2CYy_45.379222_-93.359825@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584745,
-    "wof:geomhash":"8d209716a19440608575c1a2bf060f52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d304df7494eb79a8c43cfb37b06c14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404515121,
+            "locality_id":85953377,
+            "region_id":85688727,
+            "venue_id":773307707
+        }
+    ],
     "wof:id":773307707,
-    "wof:lastmodified":1472630019,
+    "wof:lastmodified":1492799493,
     "wof:name":"APLAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

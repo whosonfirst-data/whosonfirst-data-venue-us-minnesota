@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.198154,47.216306,-94.198154,47.216306",
     "geom:latitude":47.216306,
     "geom:longitude":-94.198154,
@@ -31,17 +32,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511645,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L8I4ZjXnVZF0BoXdg6s3n_47.216306_-94.198154@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589640,
-    "wof:geomhash":"a3d31cd219c8f91da0a0782add7a2737",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a2b97bcb7cfbb9df35e8722e5835372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511645,
+            "region_id":85688727,
+            "venue_id":789671841
+        }
+    ],
     "wof:id":789671841,
-    "wof:lastmodified":1472629154,
+    "wof:lastmodified":1492809122,
     "wof:name":"Porky's Sewer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.070354,45.073688,-93.070354,45.073688",
     "geom:latitude":45.073688,
     "geom:longitude":-93.070354,
@@ -37,17 +38,34 @@
         "built"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514469,
+        85633793,
+        85953197,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oAZZ5VnHX66IshRe5X65Y_45.073688_-93.070354@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599890,
-    "wof:geomhash":"41825b847eb033a2049be3c43aba28ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29117f94e12e074470aedffc158b73c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514469,
+            "locality_id":85953197,
+            "region_id":85688727,
+            "venue_id":806648243
+        }
+    ],
     "wof:id":806648243,
-    "wof:lastmodified":1472629593,
+    "wof:lastmodified":1492816482,
     "wof:name":"Jacobson Engineering Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.160261,45.52864,-94.160261,45.52864",
     "geom:latitude":45.52864,
     "geom:longitude":-94.160261,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eutYngA5sDUkPZNe2iogt_45.528640_-94.160261@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588177,
-    "wof:geomhash":"f3ceab43bffbbf89cb50cec80c3fc496",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98d450a29cb426303e036e884ce737eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773760945
+        }
+    ],
     "wof:id":773760945,
-    "wof:lastmodified":1472630156,
+    "wof:lastmodified":1492802255,
     "wof:name":"St Cloud Ind Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

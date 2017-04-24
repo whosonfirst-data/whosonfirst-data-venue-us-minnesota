@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.495574,44.059652,-92.495574,44.059652",
     "geom:latitude":44.059652,
     "geom:longitude":-92.495574,
@@ -28,17 +29,34 @@
     "sg:postcode":"55901",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ffudLZjJ4MYTy7emspLxI_44.059652_-92.495574@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589523,
-    "wof:geomhash":"ee03bb7031a79d23b62ef1e3827ea41c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75a0fe88d2f360ba740046dd489ccb05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789659221
+        }
+    ],
     "wof:id":789659221,
-    "wof:lastmodified":1472629115,
+    "wof:lastmodified":1492810076,
     "wof:name":"Red Wing Shoe Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

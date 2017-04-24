@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.645867,44.051955,-91.645867,44.051955",
     "geom:latitude":44.051955,
     "geom:longitude":-91.645867,
@@ -32,17 +33,34 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gI7o3wXgKQD0aKNpoCvna_44.051955_-91.645867@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591773,
-    "wof:geomhash":"ad5b34ac18b83f8efe363298fcae55f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9447b53c1ca843f1c0e489de68c78f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":789938013
+        }
+    ],
     "wof:id":789938013,
-    "wof:lastmodified":1472629634,
+    "wof:lastmodified":1492809271,
     "wof:name":"Serra Club Winona Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

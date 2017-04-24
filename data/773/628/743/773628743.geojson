@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.74477,46.659441,-96.74477,46.659441",
     "geom:latitude":46.659441,
     "geom:longitude":-96.74477,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688525,
+        85877329,
+        102191575,
+        404478877,
         85633793,
         85982177,
         102082073,
-        85877329
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462587160,
-    "wof:geomhash":"ad1bd664b7b1d6a1ab74c4e9f2e0d269",
+    "wof:geomhash":"51cda14259fd0df5914fa43d8c3707c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082073,
+            "localadmin_id":404478877,
             "locality_id":85982177,
             "neighbourhood_id":85877329,
             "region_id":85688525,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":773628743,
-    "wof:lastmodified":1472630114,
+    "wof:lastmodified":1492799840,
     "wof:name":"Clay County Shop",
     "wof:parent_id":85877329,
     "wof:placetype":"venue",

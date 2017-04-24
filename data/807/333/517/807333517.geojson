@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.602813,44.673635,-93.602813,44.673635",
     "geom:latitude":44.673635,
     "geom:longitude":-93.602813,
@@ -32,17 +33,32 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515043,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wuwQ0Vi11rFnbLe6yaKNN_44.673635_-93.602813@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606243,
-    "wof:geomhash":"7119c0885524ece7aa7eaa5f6744b964",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2c1d75e33aa7c051b6e871514c34dd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515043,
+            "region_id":85688727,
+            "venue_id":807333517
+        }
+    ],
     "wof:id":807333517,
-    "wof:lastmodified":1472629738,
+    "wof:lastmodified":1492826237,
     "wof:name":"Dane Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

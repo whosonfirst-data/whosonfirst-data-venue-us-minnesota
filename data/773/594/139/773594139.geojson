@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.288002,44.950603,-93.288002,44.950603",
     "geom:latitude":44.950603,
     "geom:longitude":-93.288002,
@@ -32,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867013,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872643
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586902,
-    "wof:geomhash":"3063760e2028ee06b5be43f7b1b02f18",
+    "wof:geomhash":"11abca22800890cef810094dca34e64c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +57,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867013,
-            "region_id":85688727,
-            "venue_id":773594139
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872643,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":773594139
         }
     ],
     "wof:id":773594139,
-    "wof:lastmodified":1472630100,
+    "wof:lastmodified":1492806843,
     "wof:name":"ECDI Property Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

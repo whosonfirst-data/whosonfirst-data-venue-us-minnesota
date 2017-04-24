@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.621661,44.826102,-93.621661,44.826102",
     "geom:latitude":44.826102,
     "geom:longitude":-93.621661,
@@ -31,17 +32,34 @@
         "representative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hUl07wwntgoDNgiKfjmgN_44.826102_-93.621661@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593489,
-    "wof:geomhash":"41337031eb15438e2152964dc534cb67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"110e3464c5292dd9410256dbc4673dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":790147613
+        }
+    ],
     "wof:id":790147613,
-    "wof:lastmodified":1472629214,
+    "wof:lastmodified":1492835812,
     "wof:name":"Medlink Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

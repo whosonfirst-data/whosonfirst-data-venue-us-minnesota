@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.294034,45.556576,-93.294034,45.556576",
     "geom:latitude":45.556576,
     "geom:longitude":-93.294034,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512981,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Pj0sL3LLYNVYXfKQtL0on_45.556576_-93.294034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591571,
-    "wof:geomhash":"02f5e4a8f3de02bc40a26e1443678bf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b91eb805d4066b6d675af0bb2d505659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512981,
+            "region_id":85688727,
+            "venue_id":789913823
+        }
+    ],
     "wof:id":789913823,
-    "wof:lastmodified":1472629616,
+    "wof:lastmodified":1492812717,
     "wof:name":"H L Harris Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

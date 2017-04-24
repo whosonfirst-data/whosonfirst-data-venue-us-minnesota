@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.656243,45.165241,-93.656243,45.165241",
     "geom:latitude":45.165241,
     "geom:longitude":-93.656243,
@@ -48,17 +49,34 @@
     ],
     "sg:website":"http://www.ddsrolloffs.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515227,
+        85633793,
+        85968939,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5i7Y9FEYifQoUFIU41UGZo_45.165241_-93.656243@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606132,
-    "wof:geomhash":"35bf57e9e1ae9901b8f992a2b3a26d1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b29e19e93f8ef16961d8fe8e63e19d83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515227,
+            "locality_id":85968939,
+            "region_id":85688727,
+            "venue_id":807325217
+        }
+    ],
     "wof:id":807325217,
-    "wof:lastmodified":1472629721,
+    "wof:lastmodified":1492825031,
     "wof:name":"Dds Roll Offs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

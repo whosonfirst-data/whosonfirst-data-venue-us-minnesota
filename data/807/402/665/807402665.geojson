@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.281303,44.950699,-93.281303,44.950699",
     "geom:latitude":44.950699,
     "geom:longitude":-93.281303,
@@ -35,12 +36,12 @@
     "wof:belongsto":[
         85872643,
         102191575,
+        1108799997,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607344,
-    "wof:geomhash":"9810a5d7faeb9cdf677fd34be4445101",
+    "wof:geomhash":"c600cb1b9dc54d995a7fcce1bedf666f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799997,
             "neighbourhood_id":85872643,
-            "region_id":85688727,
-            "venue_id":807402665
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
             "region_id":85688727,
             "venue_id":807402665
         }
     ],
     "wof:id":807402665,
-    "wof:lastmodified":1472629913,
+    "wof:lastmodified":1492825411,
     "wof:name":"Oas Auto Body & Paint Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

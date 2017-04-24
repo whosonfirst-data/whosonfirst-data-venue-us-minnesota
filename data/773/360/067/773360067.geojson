@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.349331,44.912614,-93.349331,44.912614",
     "geom:latitude":44.912614,
     "geom:longitude":-93.349331,
@@ -36,17 +37,34 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TjGXejiVXsL0ozAJ2bLri_44.912614_-93.349331@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585115,
-    "wof:geomhash":"07da2be82edb7bf5416e3f3a7602e8f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e99190f60f1396bc28272eb8e7662a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773360067
+        }
+    ],
     "wof:id":773360067,
-    "wof:lastmodified":1472630022,
+    "wof:lastmodified":1492802937,
     "wof:name":"Russ Fortner Lumber Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

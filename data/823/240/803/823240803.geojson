@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.71018,43.833354,-93.71018,43.833354",
     "geom:latitude":43.833354,
     "geom:longitude":-93.71018,
@@ -43,17 +44,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514075,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VGsaXTvTxo8LoahVjCMSM_43.833354_-93.710180@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609163,
-    "wof:geomhash":"46bcce795df4429e7bfd173728690035",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b36587c29150930ba36273b3f53d8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514075,
+            "region_id":85688727,
+            "venue_id":823240803
+        }
+    ],
     "wof:id":823240803,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492830846,
     "wof:name":"Dennis Weckwerth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

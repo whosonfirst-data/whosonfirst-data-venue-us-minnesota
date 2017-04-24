@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.599389,44.786479,-93.599389,44.786479",
     "geom:latitude":44.786479,
     "geom:longitude":-93.599389,
@@ -31,17 +32,34 @@
         "license"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cRILCh6H57A175tO9GNTC_44.786479_-93.599389@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600719,
-    "wof:geomhash":"da369d2c488c93ae3a79cdb606c625fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2674eab2826b9071098e08b3386bef51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":806744585
+        }
+    ],
     "wof:id":806744585,
-    "wof:lastmodified":1472629762,
+    "wof:lastmodified":1492818128,
     "wof:name":"Carver County License Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.845874,44.826192,-93.845874,44.826192",
     "geom:latitude":44.826192,
     "geom:longitude":-93.845874,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511607,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q7JREMDVfeqMgPK0hfQZu_44.826192_-93.845874@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604053,
-    "wof:geomhash":"68d867d35e851210ad12bb280525d7df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1adce1ad93d811d6dd403ac85493f41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511607,
+            "region_id":85688727,
+            "venue_id":807130561
+        }
+    ],
     "wof:id":807130561,
-    "wof:lastmodified":1472629260,
+    "wof:lastmodified":1492823031,
     "wof:name":"Herman Koenig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

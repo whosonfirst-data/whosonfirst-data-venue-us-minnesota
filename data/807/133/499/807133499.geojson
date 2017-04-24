@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.571503,47.18036,-96.571503,47.18036",
     "geom:latitude":47.18036,
     "geom:longitude":-96.571503,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512301,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vMfErZSCzU9oB0fnFA4sQ_47.180360_-96.571503@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604088,
-    "wof:geomhash":"943ef17f1c826e4e5e6d1d2a8246112e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ba7f065731c2704b26ca86680c0066e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512301,
+            "region_id":85688727,
+            "venue_id":807133499
+        }
+    ],
     "wof:id":807133499,
-    "wof:lastmodified":1472629249,
+    "wof:lastmodified":1492823537,
     "wof:name":"Roger Myers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

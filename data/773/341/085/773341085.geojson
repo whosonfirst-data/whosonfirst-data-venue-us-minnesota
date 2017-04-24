@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.411118,45.593852,-94.411118,45.593852",
     "geom:latitude":45.593852,
     "geom:longitude":-94.411118,
@@ -32,17 +33,32 @@
         "garden"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UstK9FRMq6cr8hvXe5fHV_45.593852_-94.411118@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584988,
-    "wof:geomhash":"76f47f9bbac548f46f74a425be38ae53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c767d21512e4b9792036ddf3d543b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "region_id":85688727,
+            "venue_id":773341085
+        }
+    ],
     "wof:id":773341085,
-    "wof:lastmodified":1472630015,
+    "wof:lastmodified":1492801580,
     "wof:name":"Master Lawn Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.804515,45.299813,-94.804515,45.299813",
     "geom:latitude":45.299813,
     "geom:longitude":-94.804515,
@@ -27,17 +28,32 @@
         "dairy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513799,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2v0ayhLH5GbnQpNb2tBVmv_45.299813_-94.804515@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604085,
-    "wof:geomhash":"618be99b7e232142899e451be8323c8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62043711c79b6d7baf0ef0925cbeedcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513799,
+            "region_id":85688727,
+            "venue_id":807133067
+        }
+    ],
     "wof:id":807133067,
-    "wof:lastmodified":1472629240,
+    "wof:lastmodified":1492823533,
     "wof:name":"Dan Olson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

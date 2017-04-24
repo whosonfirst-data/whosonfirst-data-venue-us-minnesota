@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.660301,47.2785,-91.660301,47.2785",
     "geom:latitude":47.2785,
     "geom:longitude":-91.660301,
@@ -41,17 +42,32 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514559,
+        85633793,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05gSVqjieeM2yFGME0tfBL_47.278500_-91.660301@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600155,
-    "wof:geomhash":"bc5629fffee8c3a550d54f0efd0e75bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de611bf1d9882da222c952a39deaf498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514559,
+            "region_id":85688727,
+            "venue_id":806678029
+        }
+    ],
     "wof:id":806678029,
-    "wof:lastmodified":1472629672,
+    "wof:lastmodified":1492817609,
     "wof:name":"Dlouhy Decoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

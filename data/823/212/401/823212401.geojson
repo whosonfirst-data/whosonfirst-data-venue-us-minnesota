@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.335785,45.127265,-93.335785,45.127265",
     "geom:latitude":45.127265,
     "geom:longitude":-93.335785,
@@ -38,17 +39,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I3FcQMbLpgBQVPg2glKs9_45.127265_-93.335785@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608574,
-    "wof:geomhash":"e4af25a5f3b600a784ad5ac5ec9872da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0de0919a57d7d6ea2a1c830d285ba823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823212401
+        }
+    ],
     "wof:id":823212401,
-    "wof:lastmodified":1472629089,
+    "wof:lastmodified":1492829972,
     "wof:name":"Lucky Dog Golf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

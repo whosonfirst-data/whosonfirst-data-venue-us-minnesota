@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.937132,45.730142,-92.937132,45.730142",
     "geom:latitude":45.730142,
     "geom:longitude":-92.937132,
@@ -34,17 +35,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511025,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EKuvCvq55rIwzO5KaUbZF_45.730142_-92.937132@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602721,
-    "wof:geomhash":"35eb4598c0253726ae9209543e8221bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc2fe670f942a6932c6327227dbd980d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511025,
+            "region_id":85688727,
+            "venue_id":806983105
+        }
+    ],
     "wof:id":806983105,
-    "wof:lastmodified":1472629977,
+    "wof:lastmodified":1492814245,
     "wof:name":"Dale Bergfalk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

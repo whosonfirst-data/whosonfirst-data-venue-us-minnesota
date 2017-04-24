@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.639152,45.030927,-93.639152,45.030927",
     "geom:latitude":45.030927,
     "geom:longitude":-93.639152,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511881,
+        85633793,
+        85969173,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SKa1lpvCiAXe9bUbCqZzc_45.030927_-93.639152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590800,
-    "wof:geomhash":"1136519cb6eb3e755bcfc410004e9475",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e557ad64ee5be555f57456f2f834e4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511881,
+            "locality_id":85969173,
+            "region_id":85688727,
+            "venue_id":789821571
+        }
+    ],
     "wof:id":789821571,
-    "wof:lastmodified":1472629402,
+    "wof:lastmodified":1492812536,
     "wof:name":"James Victorsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

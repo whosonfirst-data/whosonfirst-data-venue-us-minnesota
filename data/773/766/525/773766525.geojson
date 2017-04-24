@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.543261,44.167322,-95.543261,44.167322",
     "geom:latitude":44.167322,
     "geom:longitude":-95.543261,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513183,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NaCg1K5ZMtDzgZq5lGuju_44.167322_-95.543261@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588217,
-    "wof:geomhash":"d50721bc36c01b821018ad27ee62868c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c71e712a6df759ddd9e9d5d645768342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513183,
+            "region_id":85688727,
+            "venue_id":773766525
+        }
+    ],
     "wof:id":773766525,
-    "wof:lastmodified":1472630153,
+    "wof:lastmodified":1492805465,
     "wof:name":"Rick Ziemke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

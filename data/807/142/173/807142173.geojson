@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.526824,44.798508,-93.526824,44.798508",
     "geom:latitude":44.798508,
     "geom:longitude":-93.526824,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.shakopeevalleysports.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IlRT8yz1XjlnQBNA0ZF08_44.798580_-93.527444@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604182,
-    "wof:geomhash":"a9e1becabcfacd5f2ad2161e85f3cb36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcc898de3bff0d7abc1f6d553b25090a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":807142173
+        }
+    ],
     "wof:id":807142173,
-    "wof:lastmodified":1472629271,
+    "wof:lastmodified":1492823648,
     "wof:name":"Valley Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

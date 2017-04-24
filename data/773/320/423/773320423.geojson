@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.896611,46.135798,-94.896611,46.135798",
     "geom:latitude":46.135798,
     "geom:longitude":-94.896611,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514705,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kbk9AOpn76NauKtbKTplh_46.135798_-94.896611@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584846,
-    "wof:geomhash":"b875f2c96ddcf0b57686e99439217075",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccd4e52b0824fa2fe6df66a60124b205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514705,
+            "region_id":85688727,
+            "venue_id":773320423
+        }
+    ],
     "wof:id":773320423,
-    "wof:lastmodified":1472630004,
+    "wof:lastmodified":1492802829,
     "wof:name":"Gary Hayes Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

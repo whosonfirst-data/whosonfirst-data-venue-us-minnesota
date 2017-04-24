@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.001248,45.332174,-93.001248,45.332174",
     "geom:latitude":45.332174,
     "geom:longitude":-93.001248,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lWqrcGzSAlxjsrwns1QQl_45.332174_-93.001248@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591255,
-    "wof:geomhash":"a4b41492dec01d88204d4e0e945326a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"432470d362fc92abd1272c862b147bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":789877133
+        }
+    ],
     "wof:id":789877133,
-    "wof:lastmodified":1472629555,
+    "wof:lastmodified":1492811752,
     "wof:name":"Wyoming City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.596127,43.949548,-93.596127,43.949548",
     "geom:latitude":43.949548,
     "geom:longitude":-93.596127,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514877,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J6j4OgNKcUeLNyOmyNy7F_43.949548_-93.596127@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603854,
-    "wof:geomhash":"6b44fa7b8cb75aee539cfabde378ebb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf2c15f040514b8fcc0868278281427b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514877,
+            "region_id":85688727,
+            "venue_id":807111645
+        }
+    ],
     "wof:id":807111645,
-    "wof:lastmodified":1472629214,
+    "wof:lastmodified":1492827467,
     "wof:name":"Glenn Hoehn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

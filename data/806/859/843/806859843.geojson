@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.805733,44.79262,-95.805733,44.79262",
     "geom:latitude":44.79262,
     "geom:longitude":-95.805733,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510773,
+        85633793,
+        85952923,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x9GrqGCoWUnyQ2ZtA5xQm_44.792620_-95.805733@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601689,
-    "wof:geomhash":"457022c6d8e3ef6bf1eb88d45173d463",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d047ae4e965715bac70af1d93184d398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510773,
+            "locality_id":85952923,
+            "region_id":85688727,
+            "venue_id":806859843
+        }
+    ],
     "wof:id":806859843,
-    "wof:lastmodified":1472629902,
+    "wof:lastmodified":1492821697,
     "wof:name":"Valhalla Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

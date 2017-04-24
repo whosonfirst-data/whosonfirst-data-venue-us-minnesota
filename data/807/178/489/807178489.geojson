@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.748046,44.054618,-93.748046,44.054618",
     "geom:latitude":44.054618,
     "geom:longitude":-93.748046,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510935,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SAQKUHdEDKZl10Arqxqng_44.054618_-93.748046@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604570,
-    "wof:geomhash":"b022e89b5fcfaaedf9218a95a3021bbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c66224e8a83c649acb04eb1145b2ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404510935,
+            "region_id":85688727,
+            "venue_id":807178489
+        }
+    ],
     "wof:id":807178489,
-    "wof:lastmodified":1472629362,
+    "wof:lastmodified":1492823584,
     "wof:name":"Jerry Moeckley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

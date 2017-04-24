@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.38056,45.123462,-94.38056,45.123462",
     "geom:latitude":45.123462,
     "geom:longitude":-94.38056,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512387,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uqLZpXVw978IX90njuHMR_45.123462_-94.380560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604083,
-    "wof:geomhash":"d6c360775bea871b7387da43a1de2d34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdb47cec680caaea3d3594357c55f2f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512387,
+            "region_id":85688727,
+            "venue_id":807132921
+        }
+    ],
     "wof:id":807132921,
-    "wof:lastmodified":1472629264,
+    "wof:lastmodified":1492827315,
     "wof:name":"Anglin John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

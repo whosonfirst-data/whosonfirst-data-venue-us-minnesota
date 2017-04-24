@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.08061,44.920635,-93.08061,44.920635",
     "geom:latitude":44.920635,
     "geom:longitude":-93.08061,
@@ -33,19 +34,38 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FZ6Qclk5cV9vNUM443jOE_44.920635_-93.080610@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587481,
-    "wof:geomhash":"2f39ee8ddcf7675713fe29ab05ef60e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"909d41d9deb5eedc1a4f3fbca656eb46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773672141
+        }
+    ],
     "wof:id":773672141,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492806365,
     "wof:name":"MFK Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

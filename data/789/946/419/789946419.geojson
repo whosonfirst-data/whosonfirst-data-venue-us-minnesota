@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.241826,44.84335,-93.241826,44.84335",
     "geom:latitude":44.84335,
     "geom:longitude":-93.241826,
@@ -31,17 +32,34 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K5aPIPSFeNSImKWc1jKND_44.843350_-93.241826@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591859,
-    "wof:geomhash":"a0d37e21642fd7c07d79110ff2acaa64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"270479080d87be9171825b18c516a16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":789946419
+        }
+    ],
     "wof:id":789946419,
-    "wof:lastmodified":1472629642,
+    "wof:lastmodified":1492811761,
     "wof:name":"Stevenson Publications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.841621,46.817261,-95.841621,46.817261",
     "geom:latitude":46.817261,
     "geom:longitude":-95.841621,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tR60kxP0I46aPf5EgjGxb_46.817261_-95.841621@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596852,
-    "wof:geomhash":"7184c65fbefa780b75e118413cbada83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8e5a722e3a2edc6567f76779321a6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":790556887
+        }
+    ],
     "wof:id":790556887,
-    "wof:lastmodified":1472629842,
+    "wof:lastmodified":1492837838,
     "wof:name":"Burger Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.260994,44.863652,-93.260994,44.863652",
     "geom:latitude":44.863652,
     "geom:longitude":-93.260994,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00zPsiUgSEvmtakmnACvHo_44.863652_-93.260994@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602298,
-    "wof:geomhash":"d9729a2a466109bbd3158b877b4ded5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac01ee64185faa436531716634ac137a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":806933067
+        }
+    ],
     "wof:id":806933067,
-    "wof:lastmodified":1472629939,
+    "wof:lastmodified":1492816151,
     "wof:name":"Village Park Of Richfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.379476,44.883943,-93.379476,44.883943",
     "geom:latitude":44.883943,
     "geom:longitude":-93.379476,
@@ -32,17 +33,34 @@
         "closed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GkZnIC8uMuGdTIkcHRgu1_44.883943_-93.379476@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582957,
-    "wof:geomhash":"2c733d71445d4960bfee4f3630f37386",
-    "wof:hierarchy":[],
+    "wof:geomhash":"473cfa185e1518af31825454aa082350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773073223
+        }
+    ],
     "wof:id":773073223,
-    "wof:lastmodified":1472629491,
+    "wof:lastmodified":1492807698,
     "wof:name":"Edina Ventures Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

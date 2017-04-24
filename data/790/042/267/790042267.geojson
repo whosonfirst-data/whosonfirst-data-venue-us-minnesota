@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.985937,45.629518,-93.985937,45.629518",
     "geom:latitude":45.629518,
     "geom:longitude":-93.985937,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511303,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Mio10BWWepCOqUm1hQAR6_45.629518_-93.985937@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592660,
-    "wof:geomhash":"956b892a5a918feb33b67d7970ea7c63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f13791b1a21d394d47433900e60cd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511303,
+            "region_id":85688727,
+            "venue_id":790042267
+        }
+    ],
     "wof:id":790042267,
-    "wof:lastmodified":1472629019,
+    "wof:lastmodified":1492832573,
     "wof:name":"Shannon Thorsness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

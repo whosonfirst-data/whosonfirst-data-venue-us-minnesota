@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.367293,43.649373,-93.367293,43.649373",
     "geom:latitude":43.649373,
     "geom:longitude":-93.367293,
@@ -31,17 +32,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AjFmDD2TiUTW2NWAPMlxl_43.649373_-93.367293@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584034,
-    "wof:geomhash":"489c1ef81d04e9d54b4f4902b145964e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b156caff4765d64a245a4b429e916c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":773214517
+        }
+    ],
     "wof:id":773214517,
-    "wof:lastmodified":1472629959,
+    "wof:lastmodified":1492799999,
     "wof:name":"Albert Lea Homeopathic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

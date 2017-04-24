@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.943596,45.301372,-94.943596,45.301372",
     "geom:latitude":45.301372,
     "geom:longitude":-94.943596,
@@ -32,17 +33,34 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513943,
+        85633793,
+        85953219,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pHAXTKtMoeBjSQWTBaYQ5_45.301372_-94.943596@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595214,
-    "wof:geomhash":"345b47b1ceed31687b349accd5637ec6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c124796180993e2991c096108dc4aa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513943,
+            "locality_id":85953219,
+            "region_id":85688727,
+            "venue_id":790358573
+        }
+    ],
     "wof:id":790358573,
-    "wof:lastmodified":1472629551,
+    "wof:lastmodified":1492834775,
     "wof:name":"Communication Network Engrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

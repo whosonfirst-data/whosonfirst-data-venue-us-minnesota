@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.459331,45.585552,-95.459331,45.585552",
     "geom:latitude":45.585552,
     "geom:longitude":-95.459331,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514323,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LVxbLluTNcxPvCl5vB3gZ_45.585552_-95.459331@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599632,
-    "wof:geomhash":"626d335e44d844ea292c5b2e33b605e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd39567d6b90d638c64cdd60fd21591e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514323,
+            "region_id":85688727,
+            "venue_id":806617339
+        }
+    ],
     "wof:id":806617339,
-    "wof:lastmodified":1472629542,
+    "wof:lastmodified":1492818459,
     "wof:name":"Timothy Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

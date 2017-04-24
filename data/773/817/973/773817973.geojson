@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.543153,44.910385,-93.543153,44.910385",
     "geom:latitude":44.910385,
     "geom:longitude":-93.543153,
@@ -33,17 +34,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zQRvM2igqubUNhEL3UKzC_44.910385_-93.543153@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588616,
-    "wof:geomhash":"3d92153ec85e3a16378f8ec794292644",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbac06fbb3ff307b2b44e586ecd02490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":773817973
+        }
+    ],
     "wof:id":773817973,
-    "wof:lastmodified":1472630168,
+    "wof:lastmodified":1492807287,
     "wof:name":"America Direct Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

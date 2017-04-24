@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.408876,44.923537,-93.408876,44.923537",
     "geom:latitude":44.923537,
     "geom:longitude":-93.408876,
@@ -45,17 +46,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u1GecdyQlRNYLiePbkdos_44.923537_-93.408876@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606164,
-    "wof:geomhash":"4422cdf6325d20f087f875f7f9f6e3fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08377fca27e581bd577d0739ff5739e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":807327563
+        }
+    ],
     "wof:id":807327563,
-    "wof:lastmodified":1472629733,
+    "wof:lastmodified":1492825995,
     "wof:name":"Golfcraft Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

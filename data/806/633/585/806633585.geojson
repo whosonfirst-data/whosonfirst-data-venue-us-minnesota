@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.173239,43.765573,-94.173239,43.765573",
     "geom:latitude":43.765573,
     "geom:longitude":-94.173239,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509621,
+        85633793,
+        85952577,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZTzOf038WqpAnrMkCDVEP_43.765573_-94.173239@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599765,
-    "wof:geomhash":"859d112c3b3530932975867ca26bb4b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d03a288646c04945c891f756c7612173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509621,
+            "locality_id":85952577,
+            "region_id":85688727,
+            "venue_id":806633585
+        }
+    ],
     "wof:id":806633585,
-    "wof:lastmodified":1472629573,
+    "wof:lastmodified":1492817736,
     "wof:name":"Garden Court Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539951,47.464175,-92.539951,47.464175",
     "geom:latitude":47.464175,
     "geom:longitude":-92.539951,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gNipE8kI6eOkYEb89iKhU_47.464175_-92.539951@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583754,
-    "wof:geomhash":"bf3883d621e7204f70c40e5481ce0831",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a866668e444ca88ebc7a1020f9264e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773181201
+        }
+    ],
     "wof:id":773181201,
-    "wof:lastmodified":1472629857,
+    "wof:lastmodified":1492805942,
     "wof:name":"Eveleth Spur",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

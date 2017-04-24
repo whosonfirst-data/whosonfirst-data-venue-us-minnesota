@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.075943,45.139511,-95.075943,45.139511",
     "geom:latitude":45.139511,
     "geom:longitude":-95.075943,
@@ -52,17 +53,34 @@
     ],
     "sg:website":"http://www.metrostate.edu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uDwBjVyPV5inviekmClbF_45.139511_-95.075943@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609229,
-    "wof:geomhash":"7a670a52a5bb0002d90ff9db3d7b8718",
-    "wof:hierarchy":[],
+    "wof:geomhash":"247d4ed81bccafbd4aae33d16dbf0717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":823244551
+        }
+    ],
     "wof:id":823244551,
-    "wof:lastmodified":1472629165,
+    "wof:lastmodified":1492831023,
     "wof:name":"Ridgewater College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

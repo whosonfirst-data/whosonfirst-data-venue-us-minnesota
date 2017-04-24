@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.160594,48.632369,-96.160594,48.632369",
     "geom:latitude":48.632369,
     "geom:longitude":-96.160594,
@@ -38,17 +39,32 @@
         "furnace"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512919,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67hg9H00VvcbtvrA93bqMA_48.632369_-96.160594@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590665,
-    "wof:geomhash":"7af09bb0ba22199e8a246e657c92775a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fea61186414a706bc1d1515f5c3a606d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512919,
+            "region_id":85688727,
+            "venue_id":789803495
+        }
+    ],
     "wof:id":789803495,
-    "wof:lastmodified":1472629385,
+    "wof:lastmodified":1492813524,
     "wof:name":"Central Fireplace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

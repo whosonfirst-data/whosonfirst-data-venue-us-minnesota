@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.852547,44.736309,-92.852547,44.736309",
     "geom:latitude":44.736309,
     "geom:longitude":-92.852547,
@@ -40,17 +41,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t7wNJuS6FUma825E3y8yF_44.736309_-92.852547@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605239,
-    "wof:geomhash":"499036e8a9ef0d76e3fed1a138754db7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97e8efe5c8855c2331c0955c1bb377f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":807242379
+        }
+    ],
     "wof:id":807242379,
-    "wof:lastmodified":1472629494,
+    "wof:lastmodified":1492822929,
     "wof:name":"Endres Processing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

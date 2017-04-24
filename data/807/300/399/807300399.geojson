@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.386501,45.160402,-93.386501,45.160402",
     "geom:latitude":45.160402,
     "geom:longitude":-93.386501,
@@ -31,17 +32,34 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j8jsiDmPBdXrwlHM7w1jl_45.160402_-93.386501@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605858,
-    "wof:geomhash":"1a74ca55256704b402b5929b7905c124",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36c9d552cf08937d33c4f186813ea258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807300399
+        }
+    ],
     "wof:id":807300399,
-    "wof:lastmodified":1472629619,
+    "wof:lastmodified":1492825897,
     "wof:name":"Blipz Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

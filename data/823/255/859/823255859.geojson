@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.79757,46.665304,-95.79757,46.665304",
     "geom:latitude":46.665304,
     "geom:longitude":-95.79757,
@@ -39,17 +40,34 @@
         "churches-non-denominational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513063,
+        85633793,
+        85968687,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KuRJ9qIlXSNUvyBAuXK0a_46.665304_-95.797570@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609457,
-    "wof:geomhash":"75a0d29bf19623ab96ab235a6b7af229",
-    "wof:hierarchy":[],
+    "wof:geomhash":"634d8d54db4b2c82a365e30d00bef94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513063,
+            "locality_id":85968687,
+            "region_id":85688727,
+            "venue_id":823255859
+        }
+    ],
     "wof:id":823255859,
-    "wof:lastmodified":1472629225,
+    "wof:lastmodified":1492831223,
     "wof:name":"Harvest Fellowship Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

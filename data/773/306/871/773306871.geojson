@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.321677,48.872488,-95.321677,48.872488",
     "geom:latitude":48.872488,
     "geom:longitude":-95.321677,
@@ -31,17 +32,32 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512935,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QAHfocUZKTUiucA7QgtKc_48.872488_-95.321677@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584736,
-    "wof:geomhash":"536ba4816e6a44f9bde0372599c8efbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"556ab3c4de57cc59123a6865e582b3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512935,
+            "region_id":85688727,
+            "venue_id":773306871
+        }
+    ],
     "wof:id":773306871,
-    "wof:lastmodified":1472630034,
+    "wof:lastmodified":1492799732,
     "wof:name":"Home Video Awards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

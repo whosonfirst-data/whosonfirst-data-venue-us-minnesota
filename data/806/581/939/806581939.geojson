@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.08254,43.670387,-92.08254,43.670387",
     "geom:latitude":43.670387,
     "geom:longitude":-92.08254,
@@ -36,17 +37,34 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UVogqFaofvM9A11wzNv7P_43.670387_-92.082540@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599324,
-    "wof:geomhash":"ddf86f1c9b9bad58bdc476133bd4c0d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56125ee355aafbce74aeebd6e3f7849f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":806581939
+        }
+    ],
     "wof:id":806581939,
-    "wof:lastmodified":1472629515,
+    "wof:lastmodified":1492816401,
     "wof:name":"Fillmore County Courthouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

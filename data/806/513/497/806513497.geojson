@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.569958,47.127509,-93.569958,47.127509",
     "geom:latitude":47.127509,
     "geom:longitude":-93.569958,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462598741,
-    "wof:geomhash":"905c3f726073093e88b2cdecfaa05dc4",
+    "wof:geomhash":"e04cde6b5145315ff692137f61781a5a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":806513497,
-    "wof:lastmodified":1472629354,
+    "wof:lastmodified":1492819612,
     "wof:name":"Ford Property Management",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.737915,44.388355,-93.737915,44.388355",
     "geom:latitude":44.388355,
     "geom:longitude":-93.737915,
@@ -28,17 +29,34 @@
     "sg:postcode":"56057",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512359,
+        85633793,
+        85953433,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hSlXABPzqRMeUqdWekgO4_44.388355_-93.737915@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598865,
-    "wof:geomhash":"101dc566f54facbb2c54d068c5a35267",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa7ed402c72b3d45f64f4cac86cf7702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512359,
+            "locality_id":85953433,
+            "region_id":85688727,
+            "venue_id":806529459
+        }
+    ],
     "wof:id":806529459,
-    "wof:lastmodified":1472629386,
+    "wof:lastmodified":1492814705,
     "wof:name":"Wieland Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

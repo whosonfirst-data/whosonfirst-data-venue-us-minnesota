@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.198847,45.107904,-93.198847,45.107904",
     "geom:latitude":45.107904,
     "geom:longitude":-93.198847,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514455,
+        85633793,
+        85953145,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15OzqVdHJAIljMll6zRYU5_45.107904_-93.198847@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594746,
-    "wof:geomhash":"30e5262e4db0be9ce3c8565da7c39792",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a144a9545a7979c848b212a53a070b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514455,
+            "locality_id":85953145,
+            "region_id":85688727,
+            "venue_id":790297177
+        }
+    ],
     "wof:id":790297177,
-    "wof:lastmodified":1472629482,
+    "wof:lastmodified":1492837313,
     "wof:name":"Sands Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

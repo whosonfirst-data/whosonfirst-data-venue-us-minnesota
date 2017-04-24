@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.053559,44.71742,-96.053559,44.71742",
     "geom:latitude":44.71742,
     "geom:longitude":-96.053559,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514575,
+        85633793,
+        85952897,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DZSP3nowY8OS4vcr8e82k_44.717420_-96.053559@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592094,
-    "wof:geomhash":"31b67e773a7f6de8e31187e1e0c31b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fba97ac3f30c124d6b4f7afb866b5521",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404514575,
+            "locality_id":85952897,
+            "region_id":85688727,
+            "venue_id":789971591
+        }
+    ],
     "wof:id":789971591,
-    "wof:lastmodified":1472629674,
+    "wof:lastmodified":1492809195,
     "wof:name":"Watson Lutheran Church ELCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

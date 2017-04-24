@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.063908,45.123646,-95.063908,45.123646",
     "geom:latitude":45.123646,
     "geom:longitude":-95.063908,
@@ -32,17 +33,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fxwBMkTJOVpaCtcH2mrDo_45.123646_-95.063908@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593935,
-    "wof:geomhash":"0fa36f2a7c0ba9c938f488cbf1a42625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"181ecf001e7005463fab39d57e09e9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":790197845
+        }
+    ],
     "wof:id":790197845,
-    "wof:lastmodified":1472629297,
+    "wof:lastmodified":1492833708,
     "wof:name":"Alliance Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.196228,45.010239,-96.196228,45.010239",
     "geom:latitude":45.010239,
     "geom:longitude":-96.196228,
@@ -39,17 +40,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514429,
+        85633793,
+        85968985,
+        102087677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gUGAcZ1TrNWe0FZVNECEO_45.010239_-96.196228@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609258,
-    "wof:geomhash":"20f87a24840a6878d9bdd9b876972299",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2969701db9546c151b2c53dce39d7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087677,
+            "localadmin_id":404514429,
+            "locality_id":85968985,
+            "region_id":85688727,
+            "venue_id":823245883
+        }
+    ],
     "wof:id":823245883,
-    "wof:lastmodified":1472629174,
+    "wof:lastmodified":1492829431,
     "wof:name":"Sister Act Craft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

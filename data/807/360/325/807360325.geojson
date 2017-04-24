@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.272793,44.976131,-93.272793,44.976131",
     "geom:latitude":44.976131,
     "geom:longitude":-93.272793,
@@ -34,14 +35,15 @@
     "sg:website":"www.hubertwhite.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867007,
+        1108800095,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606656,
-    "wof:geomhash":"fad8bbed1e201e344e4f0adc06b2c055",
+    "wof:geomhash":"0e2211c0ced677deb624454be73d0038",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,25 +59,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867007,
-            "region_id":85688727,
-            "venue_id":807360325
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
+            "microhood_id":1108800095,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":807360325
         }
     ],
     "wof:id":807360325,
-    "wof:lastmodified":1472629829,
+    "wof:lastmodified":1492824384,
     "wof:name":"Hubert White",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

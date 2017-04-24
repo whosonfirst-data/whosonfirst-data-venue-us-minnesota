@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.292951,43.677347,-91.292951,43.677347",
     "geom:latitude":43.677347,
     "geom:longitude":-91.292951,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1462583587,
-    "wof:geomhash":"be27f23f0d08fd03a04d5a11df1f5f37",
+    "wof:geomhash":"2404011bec304ade9ab0d0b3ca87e369",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":773159609
         }
     ],
     "wof:id":773159609,
-    "wof:lastmodified":1472629775,
+    "wof:lastmodified":1492800228,
     "wof:name":"Hillside Stables Farm",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

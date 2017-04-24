@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.769531,44.439428,-92.769531,44.439428",
     "geom:latitude":44.439428,
     "geom:longitude":-92.769531,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85824013,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85824013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462587116,
-    "wof:geomhash":"5a4cd215a528d96fddf0464a7f624efb",
+    "wof:geomhash":"f762b8fe1d3f84257af0813925a99683",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85824013,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":773622789,
-    "wof:lastmodified":1472630109,
+    "wof:lastmodified":1492804627,
     "wof:name":"Farm Country Co-Op",
     "wof:parent_id":85824013,
     "wof:placetype":"venue",

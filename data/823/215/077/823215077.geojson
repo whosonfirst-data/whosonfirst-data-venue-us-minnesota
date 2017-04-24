@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.471533,45.013872,-93.471533,45.013872",
     "geom:latitude":45.013872,
     "geom:longitude":-93.471533,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"http://www.mnthermalscience.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DUj7XvSXBnG0t6bqNbdJ2_45.013872_-93.471533@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608627,
-    "wof:geomhash":"ded72f793b980f0cd23bda0a0e49c4c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ceeab09d1a78d05f769e9ad137f7f50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823215077
+        }
+    ],
     "wof:id":823215077,
-    "wof:lastmodified":1472629082,
+    "wof:lastmodified":1492830674,
     "wof:name":"Minnesota Thermal Science",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.132023,45.563525,-94.132023,45.563525",
     "geom:latitude":45.563525,
     "geom:longitude":-94.132023,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ED5jpKeXPTrgKqLygezy9_45.563525_-94.132023@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589691,
-    "wof:geomhash":"dde04ae3da05e3e85769e9932334089c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bcacc896ca87834a05be63dd463e5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789678951
+        }
+    ],
     "wof:id":789678951,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492811275,
     "wof:name":"Oak Street Townhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.009865,43.557208,-92.009865,43.557208",
     "geom:latitude":43.557208,
     "geom:longitude":-92.009865,
@@ -32,17 +33,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50KtrmdBB9BAAibj01WMxa_43.557208_-92.009865@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601805,
-    "wof:geomhash":"af023c5b5dfccf0497de811b32a9f894",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95cf7dad0abfef09859297317d1c386f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":806874023
+        }
+    ],
     "wof:id":806874023,
-    "wof:lastmodified":1472629904,
+    "wof:lastmodified":1492818623,
     "wof:name":"P & H Implement Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

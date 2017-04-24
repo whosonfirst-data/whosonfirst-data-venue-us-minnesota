@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.899959,46.578762,-95.899959,46.578762",
     "geom:latitude":46.578762,
     "geom:longitude":-95.899959,
@@ -31,17 +32,32 @@
         "feeding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512739,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QmTprWJ973dMbFe9oVdOI_46.578762_-95.899959@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609500,
-    "wof:geomhash":"f60fd5149c8554ae298c168100ac4916",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4657842652aaca2b716c91abbcd5380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512739,
+            "region_id":85688727,
+            "venue_id":823257843
+        }
+    ],
     "wof:id":823257843,
-    "wof:lastmodified":1472629231,
+    "wof:lastmodified":1492830331,
     "wof:name":"Roger Obrien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

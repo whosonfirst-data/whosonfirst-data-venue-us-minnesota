@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.533244,47.460619,-92.533244,47.460619",
     "geom:latitude":47.460619,
     "geom:longitude":-92.533244,
@@ -31,17 +32,26 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q9V98Kn45dcW1x02w4WZE_47.460619_-92.533244@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601207,
-    "wof:geomhash":"48644fd7ad6254de449c5942e64f58b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5753f932bf15d33863627dd1e40b6172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806802773
+        }
+    ],
     "wof:id":806802773,
-    "wof:lastmodified":1472629844,
+    "wof:lastmodified":1492820882,
     "wof:name":"Kokes Downtown Motel",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

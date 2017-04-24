@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.180442,48.564118,-97.180442,48.564118",
     "geom:latitude":48.564118,
     "geom:longitude":-97.180442,
@@ -31,17 +32,34 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479297,
+        85633793,
+        85981925,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ah2IWJIO8cnMdLc3UWSSI_48.564118_-97.180442@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596715,
-    "wof:geomhash":"71f0d7d4def8c6826218758feddc1028",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d39cbfb329ee35e5c63e4ab523bb401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404479297,
+            "locality_id":85981925,
+            "region_id":85688525,
+            "venue_id":790541247
+        }
+    ],
     "wof:id":790541247,
-    "wof:lastmodified":1472629811,
+    "wof:lastmodified":1492837345,
     "wof:name":"Beauchamp's Farm Equipment Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

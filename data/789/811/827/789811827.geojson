@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.938225,44.29749,-93.938225,44.29749",
     "geom:latitude":44.29749,
     "geom:longitude":-93.938225,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512351,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30utMTkXdN7yWDYwuuF6yI_44.297490_-93.938225@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590730,
-    "wof:geomhash":"40ad33afb1148d1bc295946f8aa3d888",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c75198fd527858e1efd4d3c27890183c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512351,
+            "region_id":85688727,
+            "venue_id":789811827
+        }
+    ],
     "wof:id":789811827,
-    "wof:lastmodified":1472629399,
+    "wof:lastmodified":1492811120,
     "wof:name":"Vetter Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.42243,44.048589,-94.42243,44.048589",
     "geom:latitude":44.048589,
     "geom:longitude":-94.42243,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514943,
+        85633793,
+        85968901,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ou07tz6tDHH9Z4uLsGOJb_44.048589_-94.422430@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603709,
-    "wof:geomhash":"fc60bd40ba4c09d3544bfa7834aadfe4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a0c563d56f6672ad85661b71c0575b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514943,
+            "locality_id":85968901,
+            "region_id":85688727,
+            "venue_id":807098965
+        }
+    ],
     "wof:id":807098965,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492827299,
     "wof:name":"Mike Masters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

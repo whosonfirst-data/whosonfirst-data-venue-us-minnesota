@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.382745,45.831396,-95.382745,45.831396",
     "geom:latitude":45.831396,
     "geom:longitude":-95.382745,
@@ -32,17 +33,32 @@
         "extinguisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513909,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10xEudCfDsVIWV76YWCkSd_45.831396_-95.382745@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585476,
-    "wof:geomhash":"3d1094730de040be27af01d9b0fbca04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99cfa2cec4142f05660655d509cd2e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513909,
+            "region_id":85688727,
+            "venue_id":773408345
+        }
+    ],
     "wof:id":773408345,
-    "wof:lastmodified":1472630047,
+    "wof:lastmodified":1492799445,
     "wof:name":"Fire Fighter Equip & Detect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

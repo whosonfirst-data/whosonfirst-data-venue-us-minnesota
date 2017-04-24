@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.582582,44.43989,-93.582582,44.43989",
     "geom:latitude":44.43989,
     "geom:longitude":-93.582582,
@@ -33,17 +34,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FIAEKhXsjEXFS7A1tz1AC_44.439890_-93.582582@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609146,
-    "wof:geomhash":"0537f90bc381d068689119b61d7b1053",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c16837992737d0202710932875f2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":823239829
+        }
+    ],
     "wof:id":823239829,
-    "wof:lastmodified":1472629169,
+    "wof:lastmodified":1492828329,
     "wof:name":"Peterson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

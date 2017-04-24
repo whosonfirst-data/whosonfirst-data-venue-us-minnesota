@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.217232,45.567657,-94.217232,45.567657",
     "geom:latitude":45.567657,
     "geom:longitude":-94.217232,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YmgABYl8EDV0GDwE6NaHM_45.567657_-94.217232@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590915,
-    "wof:geomhash":"9987cc3747c42edb3aeedc113a831f45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6ef2f73856965a5e542aaa87c909a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789836217
+        }
+    ],
     "wof:id":789836217,
-    "wof:lastmodified":1472629442,
+    "wof:lastmodified":1492813249,
     "wof:name":"Barbara Olson MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

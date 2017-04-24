@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.485107,47.306374,-92.485107,47.306374",
     "geom:latitude":47.306374,
     "geom:longitude":-92.485107,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3e6MpKJpP3Hs1PTQuM6te6_47.306374_-92.485107@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594948,
-    "wof:geomhash":"17c67b093bd6dd9867bd4eae3dd3c4c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de58522828f5108d30d386e5446b4485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790323995
+        }
+    ],
     "wof:id":790323995,
-    "wof:lastmodified":1472629521,
+    "wof:lastmodified":1492836825,
     "wof:name":"Central Lakes Fire Department",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

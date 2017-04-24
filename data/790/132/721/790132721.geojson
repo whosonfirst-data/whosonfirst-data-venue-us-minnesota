@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.879438,47.49075,-94.879438,47.49075",
     "geom:latitude":47.49075,
     "geom:longitude":-94.879438,
@@ -32,17 +33,34 @@
         "university"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QKqRb0hrI3VvvTJ9EiQuA_47.490750_-94.879438@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593378,
-    "wof:geomhash":"1b0b802a720f2bb192850302601b5525",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d54e2f6f2a974e29fb14344054bb7917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":790132721
+        }
+    ],
     "wof:id":790132721,
-    "wof:lastmodified":1472629193,
+    "wof:lastmodified":1492837208,
     "wof:name":"Bsu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

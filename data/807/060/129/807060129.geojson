@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.204459,44.904981,-94.204459,44.904981",
     "geom:latitude":44.904981,
     "geom:longitude":-94.204459,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510113,
+        85633793,
+        85952555,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66xdvmTTD3jaKT6PU89btA_44.904981_-94.204459@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603372,
-    "wof:geomhash":"00ead6b25e113ff2b31ad2314bc19adf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ba62f8bd240a6ce9aba0430f13b352a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510113,
+            "locality_id":85952555,
+            "region_id":85688727,
+            "venue_id":807060129
+        }
+    ],
     "wof:id":807060129,
-    "wof:lastmodified":1472629063,
+    "wof:lastmodified":1492825737,
     "wof:name":"Larry Lhotka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

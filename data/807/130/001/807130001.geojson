@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.273754,44.707402,-96.273754,44.707402",
     "geom:latitude":44.707402,
     "geom:longitude":-96.273754,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515265,
+        85633793,
+        85952941,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OnbaHl72S7wksyG1XZN7h_44.707402_-96.273754@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604048,
-    "wof:geomhash":"0f7dc640596e7457cdfe51fe1bfe9ab6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b801bb07966f28506b0697305087ac05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515265,
+            "locality_id":85952941,
+            "region_id":85688727,
+            "venue_id":807130001
+        }
+    ],
     "wof:id":807130001,
-    "wof:lastmodified":1472629235,
+    "wof:lastmodified":1492823021,
     "wof:name":"Jon Kleven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.489329,44.033076,-92.489329,44.033076",
     "geom:latitude":44.033076,
     "geom:longitude":-92.489329,
@@ -62,17 +63,34 @@
     ],
     "sg:website":"http://www.rentaldepot.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hbSQlX0XuHc5p3YMni4R6_44.033076_-92.489329@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608951,
-    "wof:geomhash":"4f015a69c66f8206944772a39f3872ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb80371006bc360e769eba1e33e3f778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823229993
+        }
+    ],
     "wof:id":823229993,
-    "wof:lastmodified":1472629152,
+    "wof:lastmodified":1492829285,
     "wof:name":"Rental Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

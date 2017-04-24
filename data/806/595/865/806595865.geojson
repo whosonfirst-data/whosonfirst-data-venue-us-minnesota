@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.479277,45.833695,-94.479277,45.833695",
     "geom:latitude":45.833695,
     "geom:longitude":-94.479277,
@@ -28,17 +29,34 @@
     "sg:postcode":"56314",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510029,
+        85633793,
+        85968861,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jByhPGmMBi72oIxZVQRdC_45.833695_-94.479277@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599450,
-    "wof:geomhash":"3201642b403337b82fab7f1a08931fa0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d04a0b4696b39dc61475851a8fa7079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510029,
+            "locality_id":85968861,
+            "region_id":85688727,
+            "venue_id":806595865
+        }
+    ],
     "wof:id":806595865,
-    "wof:lastmodified":1472629520,
+    "wof:lastmodified":1492819330,
     "wof:name":"Saint Edwards Parish Elmdale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

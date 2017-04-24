@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.696439,46.512388,-93.696439,46.512388",
     "geom:latitude":46.512388,
     "geom:longitude":-93.696439,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511195,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AMWSQDtqoZGHVUQISinwZ_46.512388_-93.696439@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603280,
-    "wof:geomhash":"cb9118e2e0e73697cb3fed289ed4d719",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87a8fb865789bc106d478754c3a33376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511195,
+            "region_id":85688727,
+            "venue_id":807048971
+        }
+    ],
     "wof:id":807048971,
-    "wof:lastmodified":1472629052,
+    "wof:lastmodified":1492826911,
     "wof:name":"Patricia M Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

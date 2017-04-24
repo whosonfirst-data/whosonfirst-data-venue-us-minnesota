@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.315067,45.334412,-94.315067,45.334412",
     "geom:latitude":45.334412,
     "geom:longitude":-94.315067,
@@ -31,17 +32,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514373,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M6sPEzEiZIAnBltZXiFCp_45.334412_-94.315067@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596721,
-    "wof:geomhash":"d92a7e7cf21a75f7f47c5378138f4687",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b247d13825ebfc026f28852c9240849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514373,
+            "region_id":85688727,
+            "venue_id":790542073
+        }
+    ],
     "wof:id":790542073,
-    "wof:lastmodified":1472629809,
+    "wof:lastmodified":1492836160,
     "wof:name":"Jeff Konz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

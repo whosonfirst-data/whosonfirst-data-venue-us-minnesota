@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.435133,43.632698,-95.435133,43.632698",
     "geom:latitude":43.632698,
     "geom:longitude":-95.435133,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509841,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KlHST8eX93vU0ArEQiWFK_43.632698_-95.435133@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603691,
-    "wof:geomhash":"f3d567eefaa079b8458aaee37513db1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed4b962eb1ea49c6985784a386448c6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509841,
+            "region_id":85688727,
+            "venue_id":807097405
+        }
+    ],
     "wof:id":807097405,
-    "wof:lastmodified":1472629184,
+    "wof:lastmodified":1492827363,
     "wof:name":"Leslie Gunther",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

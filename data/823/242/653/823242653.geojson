@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.265081,44.126063,-96.265081,44.126063",
     "geom:latitude":44.126063,
     "geom:longitude":-96.265081,
@@ -53,17 +54,32 @@
         "pumps-service"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513515,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29l5NAsGIO1pkezRiV3XPr_44.126063_-96.265081@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609196,
-    "wof:geomhash":"60f3889fe4842d356ee09a4672765f9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27855ed506d0b457997d3141f96ec031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513515,
+            "region_id":85688727,
+            "venue_id":823242653
+        }
+    ],
     "wof:id":823242653,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492828583,
     "wof:name":"Charles Steenstra Wtr Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

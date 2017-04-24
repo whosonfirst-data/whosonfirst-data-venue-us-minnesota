@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.369352,44.890849,-94.369352,44.890849",
     "geom:latitude":44.890849,
     "geom:longitude":-94.369352,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68CqSTtNYm0zNnOhuaVU68_44.890849_-94.369352@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586743,
-    "wof:geomhash":"1d8aa7dbf16a19927c45165331135361",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d58146de622791a4a1dd64ebb7c6171b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773572611
+        }
+    ],
     "wof:id":773572611,
-    "wof:lastmodified":1472630096,
+    "wof:lastmodified":1492804241,
     "wof:name":"Hutch Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

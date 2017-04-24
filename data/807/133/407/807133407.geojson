@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.39929,44.136929,-92.39929,44.136929",
     "geom:latitude":44.136929,
     "geom:longitude":-92.39929,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512445,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VIDYstCMV3G571Ks7POLo_44.136929_-92.399290@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604088,
-    "wof:geomhash":"7d9a17aae2b9787b4242af7cf925ee2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"627dee663ed4a481b290286e739ea98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512445,
+            "region_id":85688727,
+            "venue_id":807133407
+        }
+    ],
     "wof:id":807133407,
-    "wof:lastmodified":1472629253,
+    "wof:lastmodified":1492823534,
     "wof:name":"Jerry OHM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

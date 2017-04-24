@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.745455,44.542295,-94.745455,44.542295",
     "geom:latitude":44.542295,
     "geom:longitude":-94.745455,
@@ -36,17 +37,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512465,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XhW9TRgyNMgcYpAppVrHM_44.542295_-94.745455@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462605999,
-    "wof:geomhash":"d14f1bbdf2e82bf3b5991a8b902c4044",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a1984d3e7a19a0b38917e8ada745f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512465,
+            "region_id":85688727,
+            "venue_id":807313921
+        }
+    ],
     "wof:id":807313921,
-    "wof:lastmodified":1472629699,
+    "wof:lastmodified":1492826067,
     "wof:name":"Gilbert Borth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

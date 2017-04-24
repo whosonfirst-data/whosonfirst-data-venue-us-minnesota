@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.026654,46.243162,-96.026654,46.243162",
     "geom:latitude":46.243162,
     "geom:longitude":-96.026654,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RqizNOiBll1LzbFA3qW39_46.243162_-96.026654@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588332,
-    "wof:geomhash":"7e9bb7e42a0f3bb3feef608a856462df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd19e99825773485d3b815d037187ee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":773781979
+        }
+    ],
     "wof:id":773781979,
-    "wof:lastmodified":1472630158,
+    "wof:lastmodified":1492800697,
     "wof:name":"Seland Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

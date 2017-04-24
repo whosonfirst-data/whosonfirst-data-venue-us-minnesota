@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.555734,45.211276,-93.555734,45.211276",
     "geom:latitude":45.211276,
     "geom:longitude":-93.555734,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vPpASOd6DTgE9vufJOFO6_45.211276_-93.555734@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595611,
-    "wof:geomhash":"d064970155d02d7dac720bbfbe5f4d42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba74cdf27e51a44226a2d394313f1ace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":790409823
+        }
+    ],
     "wof:id":790409823,
-    "wof:lastmodified":1472629686,
+    "wof:lastmodified":1492836463,
     "wof:name":"North 101",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

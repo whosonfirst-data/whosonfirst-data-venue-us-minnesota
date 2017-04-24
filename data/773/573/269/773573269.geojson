@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.328935,45.131829,-93.328935,45.131829",
     "geom:latitude":45.131829,
     "geom:longitude":-93.328935,
@@ -32,17 +33,34 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tjV5mu3HgSAqA013PnUKY_45.131829_-93.328935@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586754,
-    "wof:geomhash":"ed0fb4e8e588761beff95813615c044d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d741c4b89be771a391b67da85e80678b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773573269
+        }
+    ],
     "wof:id":773573269,
-    "wof:lastmodified":1472630096,
+    "wof:lastmodified":1492806814,
     "wof:name":"Virogen Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

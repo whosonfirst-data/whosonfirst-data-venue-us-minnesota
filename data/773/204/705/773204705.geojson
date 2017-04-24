@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.332778,43.655632,-91.332778,43.655632",
     "geom:latitude":43.655632,
     "geom:longitude":-91.332778,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1462583963,
-    "wof:geomhash":"f97ef8940459d2a2e8dc0d7f7c498437",
+    "wof:geomhash":"f5d5fa212c88914bbf1f5d3bc0f1c9f0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":773204705
         }
     ],
     "wof:id":773204705,
-    "wof:lastmodified":1472629952,
+    "wof:lastmodified":1492801348,
     "wof:name":"Craig Inglett",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.364907,45.976835,-94.364907,45.976835",
     "geom:latitude":45.976835,
     "geom:longitude":-94.364907,
@@ -33,17 +34,34 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11MRFJ0OYf8uwY2xTJQTeM_45.976835_-94.364907@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588242,
-    "wof:geomhash":"f679e9d6b978c39627be5175a8b058be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6cd453668ba2dd773f53ddb539f4f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":773770061
+        }
+    ],
     "wof:id":773770061,
-    "wof:lastmodified":1472630151,
+    "wof:lastmodified":1492801146,
     "wof:name":"Little Falls Taekwondo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

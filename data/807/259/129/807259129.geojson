@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.99947,45.330434,-92.99947,45.330434",
     "geom:latitude":45.330434,
     "geom:longitude":-92.99947,
@@ -35,17 +36,34 @@
         "covers"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bD4bxUbxf6GKIDV6qxkq6_45.330434_-92.999470@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605423,
-    "wof:geomhash":"ef2ddb4ceeed49d4c437fe81f3e22798",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b834bf602aed1a40f0228667981bfbaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":807259129
+        }
+    ],
     "wof:id":807259129,
-    "wof:lastmodified":1472629500,
+    "wof:lastmodified":1492823821,
     "wof:name":"Wyoming Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

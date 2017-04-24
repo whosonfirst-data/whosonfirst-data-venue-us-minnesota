@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.069576,46.900876,-96.069576,46.900876",
     "geom:latitude":46.900876,
     "geom:longitude":-96.069576,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511139,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D42KHstGsEtDlRxkrEE1w_46.900876_-96.069576@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584518,
-    "wof:geomhash":"7553ed1fab84d5f2720dd59c13f545df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e7cef9ce785b3cc8cb3fc784edfbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511139,
+            "region_id":85688727,
+            "venue_id":773280455
+        }
+    ],
     "wof:id":773280455,
-    "wof:lastmodified":1472630004,
+    "wof:lastmodified":1492803488,
     "wof:name":"Mann & Mann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

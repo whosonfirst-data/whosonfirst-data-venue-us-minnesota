@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.35501,43.965309,-96.35501,43.965309",
     "geom:latitude":43.965309,
     "geom:longitude":-96.35501,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513533,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uuOaUWTvcWqQgNMLiXlKG_43.965309_-96.355010@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604261,
-    "wof:geomhash":"a911bdc0bc54430514f78aceb18033f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c0ff7266ad3a5e554ad0ee5898ba367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513533,
+            "region_id":85688727,
+            "venue_id":807148595
+        }
+    ],
     "wof:id":807148595,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492824558,
     "wof:name":"Cunningham Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

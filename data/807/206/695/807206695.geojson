@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295502,44.999298,-93.295502,44.999298",
     "geom:latitude":44.999298,
     "geom:longitude":-93.295502,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872691,
+        85872599,
         102191575,
+        1108799979,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872599
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604864,
-    "wof:geomhash":"bf719c32b2ae6915c5b8dcd9ff8cd950",
+    "wof:geomhash":"f8ea743f454f82d5a6ccae836ee4b689",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872691,
-            "region_id":85688727,
-            "venue_id":807206695
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799979,
             "neighbourhood_id":85872599,
             "region_id":85688727,
             "venue_id":807206695
         }
     ],
     "wof:id":807206695,
-    "wof:lastmodified":1472629423,
+    "wof:lastmodified":1492823706,
     "wof:name":"Broadway Car & Truck Wash",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

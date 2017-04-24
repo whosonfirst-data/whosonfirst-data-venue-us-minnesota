@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.377648,45.601434,-93.377648,45.601434",
     "geom:latitude":45.601434,
     "geom:longitude":-93.377648,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513121,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MaxzSwoZ0Jhk2jwIy4PA2_45.601434_-93.377648@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589065,
-    "wof:geomhash":"48612e4dea4271201291ec6ac40c20b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7d9b872f4f4c17cbfbcf9e1af439322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513121,
+            "region_id":85688727,
+            "venue_id":789599641
+        }
+    ],
     "wof:id":789599641,
-    "wof:lastmodified":1472628970,
+    "wof:lastmodified":1492809805,
     "wof:name":"Friez Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

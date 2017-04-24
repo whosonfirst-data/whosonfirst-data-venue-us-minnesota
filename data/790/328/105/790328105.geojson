@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.377762,45.882248,-95.377762,45.882248",
     "geom:latitude":45.882248,
     "geom:longitude":-95.377762,
@@ -32,17 +33,34 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J5o3nHCf6heiZhSgnWdAz_45.882248_-95.377762@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594978,
-    "wof:geomhash":"009a0d147be946b9f0e96787e5f50a15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bd5504ea78f14081779016dd41971b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":790328105
+        }
+    ],
     "wof:id":790328105,
-    "wof:lastmodified":1472629492,
+    "wof:lastmodified":1492835139,
     "wof:name":"City Secretary Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

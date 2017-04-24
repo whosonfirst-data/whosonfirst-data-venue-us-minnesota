@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.812508,43.562931,-93.812508,43.562931",
     "geom:latitude":43.562931,
     "geom:longitude":-93.812508,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509597,
+        85633793,
+        85952597,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ETU14SAViIsXUkCXVUJA4_43.562931_-93.812508@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596680,
-    "wof:geomhash":"001f77d6a45ae559a9ad1737dc06cdd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"caf5e04cb41eec868eee793bdf5ac6f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509597,
+            "locality_id":85952597,
+            "region_id":85688727,
+            "venue_id":790537251
+        }
+    ],
     "wof:id":790537251,
-    "wof:lastmodified":1472629808,
+    "wof:lastmodified":1492837550,
     "wof:name":"Veterinarian Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

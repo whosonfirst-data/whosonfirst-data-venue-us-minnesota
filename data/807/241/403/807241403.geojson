@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.06329,45.621169,-93.06329,45.621169",
     "geom:latitude":45.621169,
     "geom:longitude":-93.06329,
@@ -52,17 +53,32 @@
         "tile-cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509099,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uH7yVlLxPvrCqWOIsl0b4_45.621169_-93.063290@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605223,
-    "wof:geomhash":"2531ecd101df67048ac835fcdf8b2876",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d24fffbff035e702fc3c79977946f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509099,
+            "region_id":85688727,
+            "venue_id":807241403
+        }
+    ],
     "wof:id":807241403,
-    "wof:lastmodified":1472629496,
+    "wof:lastmodified":1492823465,
     "wof:name":"Premier Clean & Restore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

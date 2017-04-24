@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.911212,45.664348,-93.911212,45.664348",
     "geom:latitude":45.664348,
     "geom:longitude":-93.911212,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511451,
+        85633793,
+        85968349,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kKjqWdib5u4qOPKvg1Hf0_45.664348_-93.911212@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601533,
-    "wof:geomhash":"aab400a344bcc0e4734cc70d08fe4ee1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00cbc10b7b3a7bd763271027b032022a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511451,
+            "locality_id":85968349,
+            "region_id":85688727,
+            "venue_id":806842833
+        }
+    ],
     "wof:id":806842833,
-    "wof:lastmodified":1472629887,
+    "wof:lastmodified":1492815616,
     "wof:name":"Steven O'Brien DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

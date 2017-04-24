@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.016978,45.164826,-95.016978,45.164826",
     "geom:latitude":45.164826,
     "geom:longitude":-95.016978,
@@ -32,17 +33,32 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513785,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aBT8oJUB4cXUULvPnzyZ9_45.164826_-95.016978@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593579,
-    "wof:geomhash":"ce330401f939df352ab2bc1d89881819",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26b9d4d6a12bfc9479c0fcc1204e0814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513785,
+            "region_id":85688727,
+            "venue_id":790158263
+        }
+    ],
     "wof:id":790158263,
-    "wof:lastmodified":1472629244,
+    "wof:lastmodified":1492835394,
     "wof:name":"Auto Saves",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

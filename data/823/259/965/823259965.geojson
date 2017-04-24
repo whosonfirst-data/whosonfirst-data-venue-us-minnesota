@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.624271,48.421392,-95.624271,48.421392",
     "geom:latitude":48.421392,
     "geom:longitude":-95.624271,
@@ -42,17 +43,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513983,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yikFbykRrrZjHUUY74yh9_48.421392_-95.624271@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609552,
-    "wof:geomhash":"eec56345a97e641df166f44444a2fd49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8358e8ff8ae52e860a1559f7d89bf2ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513983,
+            "region_id":85688727,
+            "venue_id":823259965
+        }
+    ],
     "wof:id":823259965,
-    "wof:lastmodified":1472629228,
+    "wof:lastmodified":1492829184,
     "wof:name":"Mcmillin Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

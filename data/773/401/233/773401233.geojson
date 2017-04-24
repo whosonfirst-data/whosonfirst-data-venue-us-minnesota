@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.39001,45.102402,-93.39001,45.102402",
     "geom:latitude":45.102402,
     "geom:longitude":-93.39001,
@@ -31,17 +32,34 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68uYQDz8PK8hfrtfi9t03Q_45.102402_-93.390010@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585409,
-    "wof:geomhash":"d3a0e1d44495f1c9336d1c1601eaf2d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78c2252b3a82d72def6dd3fa1d24e383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773401233
+        }
+    ],
     "wof:id":773401233,
-    "wof:lastmodified":1472630042,
+    "wof:lastmodified":1492801694,
     "wof:name":"Brooklyn Park Memorials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

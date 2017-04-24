@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.665832,45.776886,-93.665832,45.776886",
     "geom:latitude":45.776886,
     "geom:longitude":-93.665832,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512559,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_553t4EONkHZYSgIna6qyE6_45.776886_-93.665832@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601346,
-    "wof:geomhash":"d5c08c9b4440b239173def95cbcfefd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8fc1f4534ef8feb09e439402d16c918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512559,
+            "region_id":85688727,
+            "venue_id":806820223
+        }
+    ],
     "wof:id":806820223,
-    "wof:lastmodified":1472629846,
+    "wof:lastmodified":1492821059,
     "wof:name":"Andrew J Clemens & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

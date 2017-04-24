@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.012887,45.300435,-93.012887,45.300435",
     "geom:latitude":45.300435,
     "geom:longitude":-93.012887,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o4yqbKi4ZVC1D1iNpzrFc_45.300435_-93.012887@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584104,
-    "wof:geomhash":"01075e1a28d745b9e76104ff634471ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"befc9d20b180924cb8db3438a232bdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773224283
+        }
+    ],
     "wof:id":773224283,
-    "wof:lastmodified":1472629962,
+    "wof:lastmodified":1492800586,
     "wof:name":"Robin Little Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

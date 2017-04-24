@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.673362,45.376411,-95.673362,45.376411",
     "geom:latitude":45.376411,
     "geom:longitude":-95.673362,
@@ -32,17 +33,34 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514653,
+        85633793,
+        85968647,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59KSQmQFPnZ4HJ83VjEPTF_45.376411_-95.673362@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583369,
-    "wof:geomhash":"99fa5783b48d3b8ff02157136d5f9b96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"833dc45ac3a7d4cf2d9e16656ed1003c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514653,
+            "locality_id":85968647,
+            "region_id":85688727,
+            "venue_id":773131515
+        }
+    ],
     "wof:id":773131515,
-    "wof:lastmodified":1472629663,
+    "wof:lastmodified":1492803620,
     "wof:name":"Morris Water Svc Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

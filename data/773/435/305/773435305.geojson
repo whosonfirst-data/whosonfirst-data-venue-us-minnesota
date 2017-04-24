@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.093905,46.286554,-96.093905,46.286554",
     "geom:latitude":46.286554,
     "geom:longitude":-96.093905,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OVPtHzySfrcXO212jKaOT_46.286554_-96.093905@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585712,
-    "wof:geomhash":"ffd070e2a0c75983512a9fb842ea623e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53f8a1ba5f4fe6872996e88cc05f0444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":773435305
+        }
+    ],
     "wof:id":773435305,
-    "wof:lastmodified":1472630054,
+    "wof:lastmodified":1492799030,
     "wof:name":"Westown Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

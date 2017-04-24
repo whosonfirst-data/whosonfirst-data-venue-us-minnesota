@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.371508,48.290311,-97.371508,48.290311",
     "geom:latitude":48.290311,
     "geom:longitude":-97.371508,
@@ -25,17 +26,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479699,
+        85633793,
+        85982491,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04zLXoNpF5Fqi2lUdd88XZ_48.290311_-97.371508@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603625,
-    "wof:geomhash":"edffd855526a912279e68306852942bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93e3332bb72e08d7f561827f28abbe27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404479699,
+            "locality_id":85982491,
+            "region_id":85688525,
+            "venue_id":807090857
+        }
+    ],
     "wof:id":807090857,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492824572,
     "wof:name":"Flanders Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

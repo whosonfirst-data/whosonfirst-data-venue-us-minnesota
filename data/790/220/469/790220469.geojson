@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.853435,46.383583,-95.853435,46.383583",
     "geom:latitude":46.383583,
     "geom:longitude":-95.853435,
@@ -31,17 +32,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512899,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UxsuWrAoGUS1clOKemkCj_46.383583_-95.853435@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594106,
-    "wof:geomhash":"d348e01a5efd75238dbdcc484f27a8f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a744a119f102059094cc285bf133bfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512899,
+            "region_id":85688727,
+            "venue_id":790220469
+        }
+    ],
     "wof:id":790220469,
-    "wof:lastmodified":1472629329,
+    "wof:lastmodified":1492832985,
     "wof:name":"Barry Septic Tank Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

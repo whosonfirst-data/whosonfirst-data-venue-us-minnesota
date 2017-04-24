@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.752034,44.023891,-92.752034,44.023891",
     "geom:latitude":44.023891,
     "geom:longitude":-92.752034,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513737,
+        85633793,
+        85952827,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DvljkVs2bcJvhjB5GNZ6T_44.023891_-92.752034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593273,
-    "wof:geomhash":"4aed266ee0b6bdaec703fe8f13db67be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33a10f106137bc52aa54d49ddfd29b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513737,
+            "locality_id":85952827,
+            "region_id":85688727,
+            "venue_id":790118009
+        }
+    ],
     "wof:id":790118009,
-    "wof:lastmodified":1472629135,
+    "wof:lastmodified":1492834579,
     "wof:name":"Kasson Village Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

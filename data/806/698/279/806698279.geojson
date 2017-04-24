@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.141373,44.722018,-93.141373,44.722018",
     "geom:latitude":44.722018,
     "geom:longitude":-93.141373,
@@ -32,17 +33,34 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511991,
+        85633793,
+        85968455,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3J9k4fBohsY6nGlen8rpgj_44.722018_-93.141373@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600321,
-    "wof:geomhash":"8d40cb3df042bcefec1ea6838be41c03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77f809826f05a17a66b417575e74c2b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511991,
+            "locality_id":85968455,
+            "region_id":85688727,
+            "venue_id":806698279
+        }
+    ],
     "wof:id":806698279,
-    "wof:lastmodified":1472629717,
+    "wof:lastmodified":1492813941,
     "wof:name":"Islands Under The Sun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

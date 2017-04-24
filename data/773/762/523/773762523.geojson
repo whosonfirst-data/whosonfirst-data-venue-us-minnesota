@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.768287,48.849134,-95.768287,48.849134",
     "geom:latitude":48.849134,
     "geom:longitude":-95.768287,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x5773f2XB7N3GJrFpcy8z_48.849134_-95.768287@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588189,
-    "wof:geomhash":"6b296235bb6ea7ad47c7081c63a14855",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4724954cdde73ed167270841957585f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":773762523
+        }
+    ],
     "wof:id":773762523,
-    "wof:lastmodified":1472630151,
+    "wof:lastmodified":1492801044,
     "wof:name":"Ballard Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

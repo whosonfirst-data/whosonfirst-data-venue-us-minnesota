@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.911261,45.067929,-93.911261,45.067929",
     "geom:latitude":45.067929,
     "geom:longitude":-93.911261,
@@ -43,17 +44,34 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515243,
+        85633793,
+        85968893,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IHkGZmZCaEE50v3H35qy0_45.067929_-93.911261@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606272,
-    "wof:geomhash":"164cb20b4b233918fed92bfcc1ee6c5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4aafcad8c6f0c5bd552ec7c9950a871c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515243,
+            "locality_id":85968893,
+            "region_id":85688727,
+            "venue_id":807335305
+        }
+    ],
     "wof:id":807335305,
-    "wof:lastmodified":1472629736,
+    "wof:lastmodified":1492824151,
     "wof:name":"Great Northern Bar & Gril",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

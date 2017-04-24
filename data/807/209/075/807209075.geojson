@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.492232,43.797417,-94.492232,43.797417",
     "geom:latitude":43.797417,
     "geom:longitude":-94.492232,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512261,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7R4vj3lOnejrUpgsvqxEc6_43.797417_-94.492232@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604892,
-    "wof:geomhash":"c4c65cec160c47bbdfb247968f2bee41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"836135d24ae5f82fdc509d878b7577be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404512261,
+            "region_id":85688727,
+            "venue_id":807209075
+        }
+    ],
     "wof:id":807209075,
-    "wof:lastmodified":1472629398,
+    "wof:lastmodified":1492824742,
     "wof:name":"Baarts Mearl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

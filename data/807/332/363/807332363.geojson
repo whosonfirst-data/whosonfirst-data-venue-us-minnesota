@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.369274,44.89386,-94.369274,44.89386",
     "geom:latitude":44.89386,
     "geom:longitude":-94.369274,
@@ -39,17 +40,34 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xa1vpzhTF8mOfJ1i2XduW_44.893860_-94.369274@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606224,
-    "wof:geomhash":"94f5977e92eb11f6a527633c66143462",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b329d075eff1063dad0819ef17780076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":807332363
+        }
+    ],
     "wof:id":807332363,
-    "wof:lastmodified":1472629733,
+    "wof:lastmodified":1492822870,
     "wof:name":"Sewing Basket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

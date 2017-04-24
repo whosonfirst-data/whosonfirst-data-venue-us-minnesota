@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.559906,47.521366,-92.559906,47.521366",
     "geom:latitude":47.521366,
     "geom:longitude":-92.559906,
@@ -31,17 +32,36 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19JUvgkLzUaejoJKt7kICK_47.521366_-92.559906@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582865,
-    "wof:geomhash":"5601a16784e24d66674ce401f57a489c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fde56be81d1bf88191a5d4bf232efdf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":773062513
+        }
+    ],
     "wof:id":773062513,
-    "wof:lastmodified":1472629470,
+    "wof:lastmodified":1492807224,
     "wof:name":"Taconite Tire Svc",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

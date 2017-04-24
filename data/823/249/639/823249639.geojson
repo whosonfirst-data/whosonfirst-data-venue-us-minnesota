@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.633824,45.853389,-95.633824,45.853389",
     "geom:latitude":45.853389,
     "geom:longitude":-95.633824,
@@ -36,17 +37,32 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509591,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oyBQg01gvWh5GTtRX4IfI_45.853389_-95.633824@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609326,
-    "wof:geomhash":"3fd83a521fd8bb4e03f02d18d8c50199",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29af604afce7f8908eddbaf1e68444ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509591,
+            "region_id":85688727,
+            "venue_id":823249639
+        }
+    ],
     "wof:id":823249639,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492828180,
     "wof:name":"Randen Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

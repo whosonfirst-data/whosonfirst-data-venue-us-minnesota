@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.008977,44.87988,-93.008977,44.87988",
     "geom:latitude":44.87988,
     "geom:longitude":-93.008977,
@@ -31,17 +32,34 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514911,
+        85633793,
+        85953567,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fVGl4lNURLd9D3j5Xw7lN_44.879880_-93.008977@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593606,
-    "wof:geomhash":"9e252cb934922b230f5bca4440cda7d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e93a67a82e5511585630e9d65f01011d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514911,
+            "locality_id":85953567,
+            "region_id":85688727,
+            "venue_id":790161065
+        }
+    ],
     "wof:id":790161065,
-    "wof:lastmodified":1472629237,
+    "wof:lastmodified":1492834321,
     "wof:name":"Abbott Service Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

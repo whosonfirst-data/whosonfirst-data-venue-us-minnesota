@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.328186,46.077939,-94.328186,46.077939",
     "geom:latitude":46.077939,
     "geom:longitude":-94.328186,
@@ -33,17 +34,32 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510047,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ASJ08eQp2qNgFpeVFfIPR_46.077939_-94.328186@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602981,
-    "wof:geomhash":"e660cdc12c385e016a82ae47aaf2b4ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c8ababd0983bc23588f28f3bf9d773a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510047,
+            "region_id":85688727,
+            "venue_id":807014329
+        }
+    ],
     "wof:id":807014329,
-    "wof:lastmodified":1472628948,
+    "wof:lastmodified":1492823435,
     "wof:name":"Country Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

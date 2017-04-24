@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.58223,43.934969,-95.58223,43.934969",
     "geom:latitude":43.934969,
     "geom:longitude":-95.58223,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513165,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1motbLQCNiQMzxvGEhhYJ7_43.934969_-95.582230@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603875,
-    "wof:geomhash":"7797727acd7727f7e709fd2564a5729e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc91ef6de7c15257e0aa5646c0c0ad0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513165,
+            "region_id":85688727,
+            "venue_id":807113509
+        }
+    ],
     "wof:id":807113509,
-    "wof:lastmodified":1472629208,
+    "wof:lastmodified":1492825485,
     "wof:name":"Isder Marshal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

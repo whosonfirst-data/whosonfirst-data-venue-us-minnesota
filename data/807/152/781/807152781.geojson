@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.545041,43.673071,-93.545041,43.673071",
     "geom:latitude":43.673071,
     "geom:longitude":-93.545041,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514399,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46b3EAzsZXt2Spub2hXJps_43.673071_-93.545041@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604299,
-    "wof:geomhash":"317d043232b01f7ccfe759b7521c625a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"180bea08dbbfd720fc6a985b319b7d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514399,
+            "region_id":85688727,
+            "venue_id":807152781
+        }
+    ],
     "wof:id":807152781,
-    "wof:lastmodified":1472629292,
+    "wof:lastmodified":1492827697,
     "wof:name":"David Thunstedt Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

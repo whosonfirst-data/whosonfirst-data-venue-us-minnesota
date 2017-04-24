@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.751554,44.592081,-94.751554,44.592081",
     "geom:latitude":44.592081,
     "geom:longitude":-94.751554,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510569,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kNU13Tr7uHvmOiLbQklhD_44.592081_-94.751554@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596068,
-    "wof:geomhash":"6b80e69cb1af354ce3b96ea782dc0c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4e832759ae9a21e22344c820033cf72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510569,
+            "region_id":85688727,
+            "venue_id":790467461
+        }
+    ],
     "wof:id":790467461,
-    "wof:lastmodified":1472629750,
+    "wof:lastmodified":1492831864,
     "wof:name":"Francis Schweiss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

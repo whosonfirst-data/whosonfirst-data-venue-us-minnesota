@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.408186,45.058563,-93.408186,45.058563",
     "geom:latitude":45.058563,
     "geom:longitude":-93.408186,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"http://www.medi-tech.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cCzd4jF5TyGcQAVz40f6i_45.058563_-93.408186@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608560,
-    "wof:geomhash":"11874371d1c797359280e08029b87638",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f619d5faff98f14f79fa2d61c613d60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823211491
+        }
+    ],
     "wof:id":823211491,
-    "wof:lastmodified":1472629106,
+    "wof:lastmodified":1492828222,
     "wof:name":"Boston Scientific Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

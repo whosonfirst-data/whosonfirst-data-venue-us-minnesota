@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.742269,47.453803,-94.742269,47.453803",
     "geom:latitude":47.453803,
     "geom:longitude":-94.742269,
@@ -38,17 +39,32 @@
         "electric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509241,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RMfu5Pz3RneNZmNxoQNkm_47.453803_-94.742269@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609520,
-    "wof:geomhash":"7d8061ba0ff6b19c58d092266ed30e83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55a65071c7053ec0022c51fcbb070f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404509241,
+            "region_id":85688727,
+            "venue_id":823258625
+        }
+    ],
     "wof:id":823258625,
-    "wof:lastmodified":1472629220,
+    "wof:lastmodified":1492829477,
     "wof:name":"Smythe Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

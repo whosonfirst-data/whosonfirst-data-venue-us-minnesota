@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.130833,46.645204,-96.130833,46.645204",
     "geom:latitude":46.645204,
     "geom:longitude":-96.130833,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513051,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ciEDm1Gdh3oRFc3tUYGNQ_46.645204_-96.130833@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595282,
-    "wof:geomhash":"e89c604ad60ab89c92d960f9c2910739",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51e170b4e9de17124c4a5c63cbd6b225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513051,
+            "region_id":85688727,
+            "venue_id":790367055
+        }
+    ],
     "wof:id":790367055,
-    "wof:lastmodified":1472629549,
+    "wof:lastmodified":1492835305,
     "wof:name":"Grove Lake Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

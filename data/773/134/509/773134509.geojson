@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.479038,44.572684,-93.479038,44.572684",
     "geom:latitude":44.572684,
     "geom:longitude":-93.479038,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510735,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z9Je8JSIjE86hz4WZyFJG_44.572684_-93.479038@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583394,
-    "wof:geomhash":"e16d2a33b4475fa55c68953a4e14f52e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2ebe208f994d5908f3efbc819de85cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510735,
+            "region_id":85688727,
+            "venue_id":773134509
+        }
+    ],
     "wof:id":773134509,
-    "wof:lastmodified":1472629685,
+    "wof:lastmodified":1492800886,
     "wof:name":"James D Dyslin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

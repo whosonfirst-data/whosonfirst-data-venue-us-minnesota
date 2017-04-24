@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.010412,44.951283,-93.010412,44.951283",
     "geom:latitude":44.951283,
     "geom:longitude":-93.010412,
@@ -35,19 +36,40 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800631,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rEtM3hTHtzbpqcOksq6cJ_44.951283_-93.010412@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462604955,
-    "wof:geomhash":"fdbd129e76fe56f3f76d2dd50ec9d675",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73ca6c7d50d7abed691328a35a02cc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800631,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":807215781
+        }
+    ],
     "wof:id":807215781,
-    "wof:lastmodified":1472629425,
+    "wof:lastmodified":1492826960,
     "wof:name":"Philly Dawgz Chicago Style",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

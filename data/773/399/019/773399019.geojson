@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.205193,46.278328,-96.205193,46.278328",
     "geom:latitude":46.278328,
     "geom:longitude":-96.205193,
@@ -31,17 +32,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512909,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55jInEW8zQr6zi2qv8Ne1J_46.278328_-96.205193@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585392,
-    "wof:geomhash":"a1876a1e0d4dff23b3e7852723fa3ea2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c31e33521007fe2779bc071f60b55ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512909,
+            "region_id":85688727,
+            "venue_id":773399019
+        }
+    ],
     "wof:id":773399019,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492804431,
     "wof:name":"Dan Roehl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

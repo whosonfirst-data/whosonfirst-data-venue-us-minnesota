@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.670698,44.036041,-91.670698,44.036041",
     "geom:latitude":44.036041,
     "geom:longitude":-91.670698,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bDiRP6VNGyczggtS1Bjxp_44.036041_-91.670698@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598553,
-    "wof:geomhash":"5a0cb29072c99010a17f55565e066ed8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c83aff2782a844551d0d5903d44f7222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":806491469
+        }
+    ],
     "wof:id":806491469,
-    "wof:lastmodified":1472629293,
+    "wof:lastmodified":1492821633,
     "wof:name":"Parker Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

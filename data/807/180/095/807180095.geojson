@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.425107,45.006921,-95.425107,45.006921",
     "geom:latitude":45.006921,
     "geom:longitude":-95.425107,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509417,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VN0b5ZdvDsZzhovMHbUqG_45.006921_-95.425107@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604586,
-    "wof:geomhash":"bbe7934e1aca553e241821e16ecf3d7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8e43370ba898c7b96d840dfe3362ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509417,
+            "region_id":85688727,
+            "venue_id":807180095
+        }
+    ],
     "wof:id":807180095,
-    "wof:lastmodified":1472629347,
+    "wof:lastmodified":1492822941,
     "wof:name":"Heen Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

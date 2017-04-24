@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.805258,45.408647,-92.805258,45.408647",
     "geom:latitude":45.408647,
     "geom:longitude":-92.805258,
@@ -32,17 +33,32 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P2T1POFPzdgvPgkIDkkez_45.408647_-92.805258@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591604,
-    "wof:geomhash":"35482f9ecd5fe16d0375df1d724e4424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f522e2355acd52aec9a296ef575ae6d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":789917599
+        }
+    ],
     "wof:id":789917599,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492809812,
     "wof:name":"Brinker Medical Transcription",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

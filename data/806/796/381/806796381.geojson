@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.652749,46.665336,-96.652749,46.665336",
     "geom:latitude":46.665336,
     "geom:longitude":-96.652749,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688525,
+        85877329,
+        102191575,
+        404478877,
         85633793,
         85982177,
         102082073,
-        85877329
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,11 +49,13 @@
     },
     "wof:country":"US",
     "wof:created":1462601154,
-    "wof:geomhash":"f732fdde13e9388c9194f135b91aab5b",
+    "wof:geomhash":"34aaddc066647231211b678105c38e93",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082073,
+            "localadmin_id":404478877,
             "locality_id":85982177,
             "neighbourhood_id":85877329,
             "region_id":85688525,
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":806796381,
-    "wof:lastmodified":1472629841,
+    "wof:lastmodified":1492821579,
     "wof:name":"John J Ready",
     "wof:parent_id":85877329,
     "wof:placetype":"venue",

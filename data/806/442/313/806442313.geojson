@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.39049,47.414903,-92.39049,47.414903",
     "geom:latitude":47.414903,
     "geom:longitude":-92.39049,
@@ -33,17 +34,26 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50CNwwnTGLX2qZ0IFXFnC7_47.414903_-92.390490@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598184,
-    "wof:geomhash":"7f1d2fdd77a8e31d1b7aaeac5277b7eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a2cbaa35dfd432c58d6e3f3cb1a45ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":806442313
+        }
+    ],
     "wof:id":806442313,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1492814292,
     "wof:name":"Waggin Tails Pet Grooming",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

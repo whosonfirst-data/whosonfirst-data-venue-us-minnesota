@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.135501,43.821561,-95.135501,43.821561",
     "geom:latitude":43.821561,
     "geom:longitude":-95.135501,
@@ -31,17 +32,32 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509839,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36XPkFoYkokvJOp6YZO51x_43.821561_-95.135501@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587590,
-    "wof:geomhash":"d160132af32f57679eef5db2e8f72d68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df78050e59d673587eff0a41b54cf8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509839,
+            "region_id":85688727,
+            "venue_id":773686489
+        }
+    ],
     "wof:id":773686489,
-    "wof:lastmodified":1472630129,
+    "wof:lastmodified":1492799528,
     "wof:name":"Franks Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

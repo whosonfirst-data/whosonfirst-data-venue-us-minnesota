@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.948497,48.773715,-96.948497,48.773715",
     "geom:latitude":48.773715,
     "geom:longitude":-96.948497,
@@ -31,17 +32,34 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513977,
+        85633793,
+        85953275,
+        102087613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nV1erHdBxO7w82VB49D15_48.773715_-96.948497@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584149,
-    "wof:geomhash":"daa0f785f8291ce9da791ec9e8d18d81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfd7f1d62950b4f1cb8b7a2742de18cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087613,
+            "localadmin_id":404513977,
+            "locality_id":85953275,
+            "region_id":85688727,
+            "venue_id":773230949
+        }
+    ],
     "wof:id":773230949,
-    "wof:lastmodified":1472629979,
+    "wof:lastmodified":1492802880,
     "wof:name":"Hughes Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

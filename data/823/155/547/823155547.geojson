@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.349319,44.948448,-93.349319,44.948448",
     "geom:latitude":44.948448,
     "geom:longitude":-93.349319,
@@ -31,17 +32,34 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HGCwL8SJBPVqlpnGLwv7J_44.948448_-93.349319@1303262828"
     },
     "wof:country":"US",
     "wof:created":1462607743,
-    "wof:geomhash":"f7bcba5918cd642071eb62702507d65b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cde8d94376fb45fd15d3ba8802663dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823155547
+        }
+    ],
     "wof:id":823155547,
-    "wof:lastmodified":1472628970,
+    "wof:lastmodified":1492830554,
     "wof:name":"Liberty Lending Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

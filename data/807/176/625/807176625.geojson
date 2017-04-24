@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.390334,44.515153,-95.390334,44.515153",
     "geom:latitude":44.515153,
     "geom:longitude":-95.390334,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512337,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O9StvW9PgB48xUkFa5g8q_44.515153_-95.390334@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604553,
-    "wof:geomhash":"33b55e4be69639e4d1da4ef8c834d3e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b54d09f888b9a22aae10a9d77913c7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512337,
+            "region_id":85688727,
+            "venue_id":807176625
+        }
+    ],
     "wof:id":807176625,
-    "wof:lastmodified":1472629350,
+    "wof:lastmodified":1492822730,
     "wof:name":"Jerome Boushek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

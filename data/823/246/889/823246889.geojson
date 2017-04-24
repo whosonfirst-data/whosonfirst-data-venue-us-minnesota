@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.999893,44.769379,-94.999893,44.769379",
     "geom:latitude":44.769379,
     "geom:longitude":-94.999893,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k9S3p9DgP9Uy1JTKSKgGD_44.769379_-94.999893@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609275,
-    "wof:geomhash":"7c7a5e7cf234b3d844da8f3aeff6f0f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afe598ba1ead1acb2fee9808ce37aabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":823246889
+        }
+    ],
     "wof:id":823246889,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492829617,
     "wof:name":"Barbara Ann Evermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

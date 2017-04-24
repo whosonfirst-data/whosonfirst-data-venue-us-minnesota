@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.112172,44.876518,-94.112172,44.876518",
     "geom:latitude":44.876518,
     "geom:longitude":-94.112172,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512683,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tcRQe92YB2tZI6djKTLaZ_44.876518_-94.112172@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582545,
-    "wof:geomhash":"cecb1ff99cd6c79750e439662f4a8ec9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6270b79f2c42de598255e7c278bdd194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512683,
+            "region_id":85688727,
+            "venue_id":773027395
+        }
+    ],
     "wof:id":773027395,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492807514,
     "wof:name":"Woody Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

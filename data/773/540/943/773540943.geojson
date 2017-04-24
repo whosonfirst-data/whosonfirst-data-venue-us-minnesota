@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.768513,48.195087,-96.768513,48.195087",
     "geom:latitude":48.195087,
     "geom:longitude":-96.768513,
@@ -32,17 +33,34 @@
         "district"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513989,
+        85633793,
+        85953457,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NFPTgijYAji47F0iWTwIO_48.195087_-96.768513@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586483,
-    "wof:geomhash":"963298d806782fef370a3c1d505300c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f980decfafb7b482ed10d67cfdd8780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513989,
+            "locality_id":85953457,
+            "region_id":85688727,
+            "venue_id":773540943
+        }
+    ],
     "wof:id":773540943,
-    "wof:lastmodified":1472630086,
+    "wof:lastmodified":1492801641,
     "wof:name":"Warren School District 2176",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

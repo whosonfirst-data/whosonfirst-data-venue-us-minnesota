@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.564293,44.018199,-92.564293,44.018199",
     "geom:latitude":44.018199,
     "geom:longitude":-92.564293,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512595,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zMbE4Ngv279pwU5pmba9J_44.018199_-92.564293@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595290,
-    "wof:geomhash":"e256edef2536dd84825223583002da05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cba6800efe92b6e47446895fb3e4d79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512595,
+            "region_id":85688727,
+            "venue_id":790368141
+        }
+    ],
     "wof:id":790368141,
-    "wof:lastmodified":1472629542,
+    "wof:lastmodified":1492835680,
     "wof:name":"Jones Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

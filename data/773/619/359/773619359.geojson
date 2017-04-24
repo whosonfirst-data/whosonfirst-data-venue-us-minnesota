@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.194313,43.596617,-95.194313,43.596617",
     "geom:latitude":43.596617,
     "geom:longitude":-95.194313,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513597,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JXPKCdnxEZTYfHXUSnrsG_43.596617_-95.194313@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587094,
-    "wof:geomhash":"07104c552ccfadda6c7ed8f0e91aa630",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bed67cb749099388d49f3d2d5f1319a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513597,
+            "region_id":85688727,
+            "venue_id":773619359
+        }
+    ],
     "wof:id":773619359,
-    "wof:lastmodified":1472630111,
+    "wof:lastmodified":1492801163,
     "wof:name":"Wm Rost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

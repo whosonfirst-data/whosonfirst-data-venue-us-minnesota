@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.047798,46.923394,-95.047798,46.923394",
     "geom:latitude":46.923394,
     "geom:longitude":-95.047798,
@@ -32,17 +33,34 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q2bizON2R5lMStfQkYHNA_46.923394_-95.047798@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589851,
-    "wof:geomhash":"cf6d3e2ab32f74492206dc94c123fd36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c132557b77a5ddb6c701e7b8e1afd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":789699043
+        }
+    ],
     "wof:id":789699043,
-    "wof:lastmodified":1472629193,
+    "wof:lastmodified":1492811781,
     "wof:name":"Dean & Bob Walsh Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

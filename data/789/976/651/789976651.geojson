@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.675004,44.619157,-95.675004,44.619157",
     "geom:latitude":44.619157,
     "geom:longitude":-95.675004,
@@ -32,17 +33,34 @@
         "automation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512531,
+        85633793,
+        85968555,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kImsSKTbv7t1kDV9pVne5_44.619157_-95.675004@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592141,
-    "wof:geomhash":"97ea0a201fb6026ca46104b17eaa7036",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35de3a23203dbcb834cfac4de7c76310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512531,
+            "locality_id":85968555,
+            "region_id":85688727,
+            "venue_id":789976651
+        }
+    ],
     "wof:id":789976651,
-    "wof:lastmodified":1472629681,
+    "wof:lastmodified":1492811493,
     "wof:name":"Enstad Automation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

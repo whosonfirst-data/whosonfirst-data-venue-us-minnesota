@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.095153,44.92456,-93.095153,44.92456",
     "geom:latitude":44.92456,
     "geom:longitude":-93.095153,
@@ -31,19 +32,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QYW3In0atFWxG95nFumdi_44.924560_-93.095153@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603247,
-    "wof:geomhash":"29d364c0b2bbf8ea2a73e3352e58d4bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e13f29a0ef453507905472843dcce87a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":807044551
+        }
+    ],
     "wof:id":807044551,
-    "wof:lastmodified":1472629030,
+    "wof:lastmodified":1492825644,
     "wof:name":"Juan Carlos Diaz",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

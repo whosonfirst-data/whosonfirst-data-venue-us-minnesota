@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.078473,45.17644,-95.078473,45.17644",
     "geom:latitude":45.17644,
     "geom:longitude":-95.078473,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513785,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QsiCTCt4anNLe7h2YG37L_45.176440_-95.078473@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590672,
-    "wof:geomhash":"d85810333c46b4c8cf6659fffb1feb95",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad5430918be69fbf255f949f3fc3e799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513785,
+            "region_id":85688727,
+            "venue_id":789804611
+        }
+    ],
     "wof:id":789804611,
-    "wof:lastmodified":1472629384,
+    "wof:lastmodified":1492813499,
     "wof:name":"Charles Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

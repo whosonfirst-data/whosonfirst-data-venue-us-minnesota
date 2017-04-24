@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.046848,45.121013,-93.046848,45.121013",
     "geom:latitude":45.121013,
     "geom:longitude":-93.046848,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514471,
+        85633793,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bIafZS7ktvfcIRp7Et3zp_45.121013_-93.046848@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600036,
-    "wof:geomhash":"3b807941946590daa301f6837a0e8e08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"113289ed2c4e978c7c2c346dce35e827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514471,
+            "region_id":85688727,
+            "venue_id":806664505
+        }
+    ],
     "wof:id":806664505,
-    "wof:lastmodified":1472629664,
+    "wof:lastmodified":1492821954,
     "wof:name":"Heller Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.00531,45.448339,-95.00531,45.448339",
     "geom:latitude":45.448339,
     "geom:longitude":-95.00531,
@@ -32,17 +33,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510493,
+        85633793,
+        85952453,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LErwEucLxHlyV41mvdNlG_45.448339_-95.005310@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593998,
-    "wof:geomhash":"f014a4307724a030ebd15755a552cc4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"491f2317d49962273843dc6b484e970f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510493,
+            "locality_id":85952453,
+            "region_id":85688727,
+            "venue_id":790205567
+        }
+    ],
     "wof:id":790205567,
-    "wof:lastmodified":1472629298,
+    "wof:lastmodified":1492834448,
     "wof:name":"Belgrade Physical Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.189009,43.965899,-94.189009,43.965899",
     "geom:latitude":43.965899,
     "geom:longitude":-94.189009,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511573,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mSiz0EYPAiIqfNH4Xeu0x_43.965899_-94.189009@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604380,
-    "wof:geomhash":"1af9a3d199aa3f3c14b82c87027bd9ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4403daaae8aa0c850ee4ef9e161eb09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511573,
+            "region_id":85688727,
+            "venue_id":807160067
+        }
+    ],
     "wof:id":807160067,
-    "wof:lastmodified":1472629290,
+    "wof:lastmodified":1492827824,
     "wof:name":"Richard Wheeler Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

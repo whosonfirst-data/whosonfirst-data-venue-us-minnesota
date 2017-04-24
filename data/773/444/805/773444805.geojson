@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.363549,45.525984,-94.363549,45.525984",
     "geom:latitude":45.525984,
     "geom:longitude":-94.363549,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514497,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4csjprSTNYQwWV7jFSKjB5_45.525984_-94.363549@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585800,
-    "wof:geomhash":"39b7132b6d9e7a368abbbdc167a89d2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"859b07d7ed07e044740b6bdd1ac27646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514497,
+            "region_id":85688727,
+            "venue_id":773444805
+        }
+    ],
     "wof:id":773444805,
-    "wof:lastmodified":1472630054,
+    "wof:lastmodified":1492801211,
     "wof:name":"William Stommes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

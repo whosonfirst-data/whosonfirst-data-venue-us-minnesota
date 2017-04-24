@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.630819,43.980952,-94.630819,43.980952",
     "geom:latitude":43.980952,
     "geom:longitude":-94.630819,
@@ -28,17 +29,34 @@
     "sg:postcode":"56081",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MRdTeYSh0pCUQ41KdAXXi_43.980952_-94.630819@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589803,
-    "wof:geomhash":"b21db9c4a2363cb35ce59f95045d8c61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c7118ed6d2404da9c9876f75ce16933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":789693123
+        }
+    ],
     "wof:id":789693123,
-    "wof:lastmodified":1472629181,
+    "wof:lastmodified":1492809844,
     "wof:name":"Mickey's Movies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

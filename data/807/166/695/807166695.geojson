@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.469094,45.671644,-95.469094,45.671644",
     "geom:latitude":45.671644,
     "geom:longitude":-95.469094,
@@ -25,17 +26,32 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514335,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ywkwEKHjYiZL1FazsMO8h_45.671644_-95.469094@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604444,
-    "wof:geomhash":"7890f1eb28992aef8ec71388a26c03f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92abe6db51ef7bb6a5a28f0338c94de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514335,
+            "region_id":85688727,
+            "venue_id":807166695
+        }
+    ],
     "wof:id":807166695,
-    "wof:lastmodified":1472629305,
+    "wof:lastmodified":1492822462,
     "wof:name":"Peter Gremmels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

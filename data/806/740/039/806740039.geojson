@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.302607,47.5788,-92.302607,47.5788",
     "geom:latitude":47.5788,
     "geom:longitude":-92.302607,
@@ -33,17 +34,26 @@
         "skiing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_776Hal01ZRu65kpduqhRtS_47.578800_-92.302607@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600681,
-    "wof:geomhash":"c288d2b087223673b5659233b563e03c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cf697f79f41d15c23452cf27f982a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806740039
+        }
+    ],
     "wof:id":806740039,
-    "wof:lastmodified":1472629753,
+    "wof:lastmodified":1492818258,
     "wof:name":"Giants Ridge Golf & Ski Resort",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

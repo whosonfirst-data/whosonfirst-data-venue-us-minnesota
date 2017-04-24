@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.715412,46.282062,-95.715412,46.282062",
     "geom:latitude":46.282062,
     "geom:longitude":-95.715412,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512607,
+        85633793,
+        85968843,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HFuMMJV0xM4OyPRMIzu2W_46.282062_-95.715412@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591733,
-    "wof:geomhash":"99d765cde64d60464430120ba0ad041a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9280d93c3bca048d4cb15eae6973a167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512607,
+            "locality_id":85968843,
+            "region_id":85688727,
+            "venue_id":789933049
+        }
+    ],
     "wof:id":789933049,
-    "wof:lastmodified":1472629635,
+    "wof:lastmodified":1492810456,
     "wof:name":"Central Minnesota Sales Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

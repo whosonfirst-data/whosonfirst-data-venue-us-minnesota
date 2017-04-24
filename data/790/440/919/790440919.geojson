@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.612921,47.328021,-92.612921,47.328021",
     "geom:latitude":47.328021,
     "geom:longitude":-92.612921,
@@ -35,17 +36,26 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ASOISoOWixXkezOLUS09h_47.328021_-92.612921@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595846,
-    "wof:geomhash":"8c6f35954171e554be7fe5d292ce7db7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75e3d4f6baad324efefc1b11d40ff366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790440919
+        }
+    ],
     "wof:id":790440919,
-    "wof:lastmodified":1472629718,
+    "wof:lastmodified":1492835331,
     "wof:name":"Ernie's Auto Shop",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

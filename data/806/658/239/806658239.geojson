@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.225875,43.444112,-93.225875,43.444112",
     "geom:latitude":43.444112,
     "geom:longitude":-93.225875,
@@ -33,17 +34,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UB6O1EYUoIZen7rxOkcTD_43.444112_-93.225875@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599980,
-    "wof:geomhash":"18f77a9985f05b62261bcfca2880de0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35f030d7cee1effe644959f6478c91e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":806658239
+        }
+    ],
     "wof:id":806658239,
-    "wof:lastmodified":1472629650,
+    "wof:lastmodified":1492816824,
     "wof:name":"Riverside Auto Parts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

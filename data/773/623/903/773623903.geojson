@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.559871,45.080306,-94.559871,45.080306",
     "geom:latitude":45.080306,
     "geom:longitude":-94.559871,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512411,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lCA4ozyGFzexT35bVea6W_45.080306_-94.559871@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587123,
-    "wof:geomhash":"ec8e0f8209a21dbaf0bf65a274f4e797",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a09e5630f416ae2e4f07daa62e58da7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512411,
+            "region_id":85688727,
+            "venue_id":773623903
+        }
+    ],
     "wof:id":773623903,
-    "wof:lastmodified":1472630113,
+    "wof:lastmodified":1492800526,
     "wof:name":"John A Lundin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

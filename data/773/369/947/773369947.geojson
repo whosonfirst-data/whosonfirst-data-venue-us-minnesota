@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.265046,44.959201,-93.265046,44.959201",
     "geom:latitude":44.959201,
     "geom:longitude":-93.265046,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559143,
+        420781055,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872701
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585181,
-    "wof:geomhash":"460fffff9bd484236883ab7b60df7dfd",
+    "wof:geomhash":"09490bb15d18de61cd44e3c994bd83b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559143,
-            "region_id":85688727,
-            "venue_id":773369947
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872701,
+            "macrohood_id":1108799995,
+            "neighbourhood_id":420781055,
             "region_id":85688727,
             "venue_id":773369947
         }
     ],
     "wof:id":773369947,
-    "wof:lastmodified":1472630031,
+    "wof:lastmodified":1492808000,
     "wof:name":"Ear Nose & Thrt Spclcr of Min",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

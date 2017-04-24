@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.561343,44.544535,-93.561343,44.544535",
     "geom:latitude":44.544535,
     "geom:longitude":-93.561343,
@@ -33,17 +34,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515037,
+        85633793,
+        85952425,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jrWfiNi3tkmBKL9jI7mXF_44.544535_-93.561343@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605091,
-    "wof:geomhash":"bf413ff188edebd0c4583826abe3dbcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6559a9b7058570b2afbb4eab1b79dd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515037,
+            "locality_id":85952425,
+            "region_id":85688727,
+            "venue_id":807227635
+        }
+    ],
     "wof:id":807227635,
-    "wof:lastmodified":1472629442,
+    "wof:lastmodified":1492822414,
     "wof:name":"Pizza Ranch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

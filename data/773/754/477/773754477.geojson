@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.716545,44.297189,-94.716545,44.297189",
     "geom:latitude":44.297189,
     "geom:longitude":-94.716545,
@@ -33,17 +34,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509331,
+        85633793,
+        85952697,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l9GiTyLthNAAj7OV0MFY5_44.297189_-94.716545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588128,
-    "wof:geomhash":"6c812420ec3902db92e875b5b4a1bd83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d742041e4a4ef2212274f973220eda3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509331,
+            "locality_id":85952697,
+            "region_id":85688727,
+            "venue_id":773754477
+        }
+    ],
     "wof:id":773754477,
-    "wof:lastmodified":1472630150,
+    "wof:lastmodified":1492800198,
     "wof:name":"Dietz Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

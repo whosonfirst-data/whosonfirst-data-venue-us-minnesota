@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.536605,44.919146,-93.536605,44.919146",
     "geom:latitude":44.919146,
     "geom:longitude":-93.536605,
@@ -28,17 +29,34 @@
     "sg:postcode":"55331",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511709,
+        85633793,
+        85969213,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44qES2DTDeHJfOaNiDBABU_44.919146_-93.536605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585420,
-    "wof:geomhash":"3111644c1dccf0bc04ea6b9156f24e61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6b7e674f5790700ad20e4becc5bf8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511709,
+            "locality_id":85969213,
+            "region_id":85688727,
+            "venue_id":773402573
+        }
+    ],
     "wof:id":773402573,
-    "wof:lastmodified":1472630042,
+    "wof:lastmodified":1492804426,
     "wof:name":"Gray Clips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

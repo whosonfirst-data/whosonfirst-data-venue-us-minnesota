@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.516486,44.079665,-92.516486,44.079665",
     "geom:latitude":44.079665,
     "geom:longitude":-92.516486,
@@ -38,17 +39,34 @@
     ],
     "sg:website":"http://www.cpcroch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7h1n5o9GCtAQVVXIbHHa6E_44.079665_-92.516486@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608949,
-    "wof:geomhash":"3cbc38e38a7528b37ca72d792eb72f05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29227159e63754fffc068d99def78ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823229897
+        }
+    ],
     "wof:id":823229897,
-    "wof:lastmodified":1472629147,
+    "wof:lastmodified":1492829290,
     "wof:name":"Community Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

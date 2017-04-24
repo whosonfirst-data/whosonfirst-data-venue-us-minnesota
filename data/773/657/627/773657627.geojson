@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360182,45.097971,-93.360182,45.097971",
     "geom:latitude":45.097971,
     "geom:longitude":-93.360182,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RVKEAVRESVEm0hBz7wWtj_45.097971_-93.360182@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587376,
-    "wof:geomhash":"12ad85e5c563f5963205b2b1361d8709",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be4e5a832660b41153ef58bca3d224f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773657627
+        }
+    ],
     "wof:id":773657627,
-    "wof:lastmodified":1472630119,
+    "wof:lastmodified":1492803386,
     "wof:name":"Cherokee Villas Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

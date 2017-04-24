@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.998859,43.907218,-94.998859,43.907218",
     "geom:latitude":43.907218,
     "geom:longitude":-94.998859,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511863,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j7wRFNQHWXkhg5VWzYPmE_43.907218_-94.998859@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589501,
-    "wof:geomhash":"08c054893ee2d122ebe2e4dbe2e51d57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47b3d1121fa309a58fe0755b76579a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511863,
+            "region_id":85688727,
+            "venue_id":789656109
+        }
+    ],
     "wof:id":789656109,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492810425,
     "wof:name":"Peter Rahn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

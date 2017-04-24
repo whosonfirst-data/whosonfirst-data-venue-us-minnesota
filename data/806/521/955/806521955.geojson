@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.151558,45.868027,-95.151558,45.868027",
     "geom:latitude":45.868027,
     "geom:longitude":-95.151558,
@@ -31,17 +32,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509593,
+        85633793,
+        85968425,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n1aRFcRRkK5UwirOSxMuF_45.868027_-95.151558@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598801,
-    "wof:geomhash":"d05f01129286eaf62cda9f14ce5c0492",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7ef97d860730d83de3ff7073e0f52db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509593,
+            "locality_id":85968425,
+            "region_id":85688727,
+            "venue_id":806521955
+        }
+    ],
     "wof:id":806521955,
-    "wof:lastmodified":1472629370,
+    "wof:lastmodified":1492816378,
     "wof:name":"Lakeview Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

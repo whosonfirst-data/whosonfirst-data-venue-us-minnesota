@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.847276,44.963281,-93.847276,44.963281",
     "geom:latitude":44.963281,
     "geom:longitude":-93.847276,
@@ -31,17 +32,34 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d7xddPyebisdgAP1uwwMI_44.963281_-93.847276@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587239,
-    "wof:geomhash":"e89d3d0aa09dd6a03566bdf6df4d6f4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e1582e5b4504d232f73abf24315d040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":773638923
+        }
+    ],
     "wof:id":773638923,
-    "wof:lastmodified":1472630116,
+    "wof:lastmodified":1492805207,
     "wof:name":"Carver County News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

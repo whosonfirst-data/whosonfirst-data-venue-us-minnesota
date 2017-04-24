@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.461463,45.003929,-93.461463,45.003929",
     "geom:latitude":45.003929,
     "geom:longitude":-93.461463,
@@ -32,17 +33,34 @@
         "services-household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wcSM47bIyrf7heJxOFuj8_45.003929_-93.461463@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608625,
-    "wof:geomhash":"bec5400f7611ab516ef80d49715d90a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f656618cb8b0efac06fd0df94fe7aca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823214975
+        }
+    ],
     "wof:id":823214975,
-    "wof:lastmodified":1472629117,
+    "wof:lastmodified":1492828515,
     "wof:name":"Park Avenue Of Wayzata Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

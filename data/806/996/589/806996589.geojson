@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.793957,43.620643,-95.793957,43.620643",
     "geom:latitude":43.620643,
     "geom:longitude":-95.793957,
@@ -31,17 +32,34 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510273,
+        85633793,
+        85968661,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54pUCrceRLbDik1vdXcH4B_43.620643_-95.793957@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602829,
-    "wof:geomhash":"6f64807b41bccfc8f09e648e6729f51b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a22f81c07bcfb982a38126798bffeaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510273,
+            "locality_id":85968661,
+            "region_id":85688727,
+            "venue_id":806996589
+        }
+    ],
     "wof:id":806996589,
-    "wof:lastmodified":1472629980,
+    "wof:lastmodified":1492814789,
     "wof:name":"Nobles County Cooperative Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

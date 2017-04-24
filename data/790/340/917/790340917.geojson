@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.813543,44.974367,-92.813543,44.974367",
     "geom:latitude":44.974367,
     "geom:longitude":-92.813543,
@@ -33,17 +34,32 @@
         "retail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510963,
+        85633793,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32yPSDCKb6Sh9aLJ6AMYxz_44.974367_-92.813543@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595067,
-    "wof:geomhash":"605ba9a370a9f1227e920b41f7625114",
-    "wof:hierarchy":[],
+    "wof:geomhash":"412f5e38d1deabb7d3a912eee0bbf74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404510963,
+            "region_id":85688727,
+            "venue_id":790340917
+        }
+    ],
     "wof:id":790340917,
-    "wof:lastmodified":1472629534,
+    "wof:lastmodified":1492834487,
     "wof:name":"Balloon World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

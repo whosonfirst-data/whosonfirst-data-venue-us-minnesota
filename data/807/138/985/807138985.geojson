@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.975723,44.452998,-94.975723,44.452998",
     "geom:latitude":44.452998,
     "geom:longitude":-94.975723,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512183,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bXtPJ0yE78QiaYbQeNhDK_44.452998_-94.975723@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604149,
-    "wof:geomhash":"5fac54c2880ee56890ba441380a1eb71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd112d28d47a906dda85ab8c4667b13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512183,
+            "region_id":85688727,
+            "venue_id":807138985
+        }
+    ],
     "wof:id":807138985,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492823866,
     "wof:name":"Green Casper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

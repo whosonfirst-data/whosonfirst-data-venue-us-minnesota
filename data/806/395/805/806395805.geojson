@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.964409,44.997002,-92.964409,44.997002",
     "geom:latitude":44.997002,
     "geom:longitude":-92.964409,
@@ -33,17 +34,34 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514913,
+        85633793,
+        85953565,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FKI7CNaG4cClBWAKOhX5o_44.997002_-92.964409@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597798,
-    "wof:geomhash":"97a95afa94817e2eed767846f875f8b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76003cba80aa5086b5a7f7a4f9986f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514913,
+            "locality_id":85953565,
+            "region_id":85688727,
+            "venue_id":806395805
+        }
+    ],
     "wof:id":806395805,
-    "wof:lastmodified":1472629056,
+    "wof:lastmodified":1492820533,
     "wof:name":"Midwest Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.280005,44.050595,-95.280005,44.050595",
     "geom:latitude":44.050595,
     "geom:longitude":-95.280005,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512005,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iJaMGJN1hI3sm1tU54fYw_44.050595_-95.280005@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604020,
-    "wof:geomhash":"0452ec8b851895de04fa94f8a812961d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3977e39cbd340584775dd56fa990c458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512005,
+            "region_id":85688727,
+            "venue_id":807126965
+        }
+    ],
     "wof:id":807126965,
-    "wof:lastmodified":1472629263,
+    "wof:lastmodified":1492826431,
     "wof:name":"Brian Berger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

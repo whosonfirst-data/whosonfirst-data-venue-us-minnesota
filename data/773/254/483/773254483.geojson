@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.658598,44.050549,-91.658598,44.050549",
     "geom:latitude":44.050549,
     "geom:longitude":-91.658598,
@@ -37,17 +38,34 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DdWnNeGSMYkkz9ea1StPS_44.050549_-91.658598@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584325,
-    "wof:geomhash":"062f04b82584e1eda05aaad79a89d576",
-    "wof:hierarchy":[],
+    "wof:geomhash":"140c1cff9f7228dd20613fefced00d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":773254483
+        }
+    ],
     "wof:id":773254483,
-    "wof:lastmodified":1472629997,
+    "wof:lastmodified":1492807935,
     "wof:name":"Pete's Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

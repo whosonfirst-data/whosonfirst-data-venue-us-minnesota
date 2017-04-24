@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.526749,47.462039,-92.526749,47.462039",
     "geom:latitude":47.462039,
     "geom:longitude":-92.526749,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IlzwmzQsptACpWtcKY0Zm_47.462039_-92.526749@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584680,
-    "wof:geomhash":"f051af24693727a1b25e0af9b69b1f83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd937cc1d067156b6374f3ec22d4f9cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773300013
+        }
+    ],
     "wof:id":773300013,
-    "wof:lastmodified":1472629999,
+    "wof:lastmodified":1492805401,
     "wof:name":"Eveleth Water Reservoir",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

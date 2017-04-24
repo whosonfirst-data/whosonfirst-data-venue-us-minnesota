@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.166231,45.60616,-94.166231,45.60616",
     "geom:latitude":45.60616,
     "geom:longitude":-94.166231,
@@ -32,17 +33,34 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jflo5hvtG95PtLADu2LAn_45.606160_-94.166231@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584169,
-    "wof:geomhash":"533e8430c538f1521850914ecf9d26e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab8726c93cfeafc603131fb7049601e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":773232999
+        }
+    ],
     "wof:id":773232999,
-    "wof:lastmodified":1472629987,
+    "wof:lastmodified":1492799066,
     "wof:name":"Custom Accents Promotions & Lo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

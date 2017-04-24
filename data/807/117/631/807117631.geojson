@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360489,44.941078,-93.360489,44.941078",
     "geom:latitude":44.941078,
     "geom:longitude":-93.360489,
@@ -32,17 +33,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1v42gy86fx7cfXFFcAr8zW_44.941139_-93.360549@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603914,
-    "wof:geomhash":"23eb009ead7351cf3196fdde5e333c82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f7ee8b8af692c801c76c4c8bdc998e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":807117631
+        }
+    ],
     "wof:id":807117631,
-    "wof:lastmodified":1472629238,
+    "wof:lastmodified":1492825777,
     "wof:name":"Posnick Dental Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

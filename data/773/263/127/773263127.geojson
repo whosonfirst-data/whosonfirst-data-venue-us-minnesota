@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.582906,44.651802,-93.582906,44.651802",
     "geom:latitude":44.651802,
     "geom:longitude":-93.582906,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515043,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3etkgBWU2Dq3ly9Sw5Tr7V_44.651802_-93.582906@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584385,
-    "wof:geomhash":"1384d1dd1a25a8619704f3c489596cef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"206df73e93084417aa2e0aae97b42e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515043,
+            "region_id":85688727,
+            "venue_id":773263127
+        }
+    ],
     "wof:id":773263127,
-    "wof:lastmodified":1472629989,
+    "wof:lastmodified":1492804390,
     "wof:name":"Vernon Wick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

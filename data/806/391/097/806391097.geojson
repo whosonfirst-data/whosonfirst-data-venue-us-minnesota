@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.368769,43.645756,-93.368769,43.645756",
     "geom:latitude":43.645756,
     "geom:longitude":-93.368769,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vefOLjnQcaTcOH0h9V0p6_43.645756_-93.368769@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597761,
-    "wof:geomhash":"f93a1d5f4cc2f34b202fd89084c53aa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afba37768f66d0e37f1b872a7b6ef11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806391097
+        }
+    ],
     "wof:id":806391097,
-    "wof:lastmodified":1472629022,
+    "wof:lastmodified":1492819794,
     "wof:name":"Broadway Assisted Living",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

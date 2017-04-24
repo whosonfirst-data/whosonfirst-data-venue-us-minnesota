@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.428935,43.996774,-92.428935,43.996774",
     "geom:latitude":43.996774,
     "geom:longitude":-92.428935,
@@ -33,17 +34,34 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cw2S7ukomjIhJAaT8xLjy_43.996774_-92.428935@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599210,
-    "wof:geomhash":"66b11a50edab7de4b3ab1dbe71f70212",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14cfd0d790d7bcce4a54f89f4182a713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806570047
+        }
+    ],
     "wof:id":806570047,
-    "wof:lastmodified":1472629453,
+    "wof:lastmodified":1492815426,
     "wof:name":"Rochester Maintenance Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

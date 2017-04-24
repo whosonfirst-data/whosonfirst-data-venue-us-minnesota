@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.654361,44.851952,-93.654361,44.851952",
     "geom:latitude":44.851952,
     "geom:longitude":-93.654361,
@@ -32,17 +33,34 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511603,
+        85633793,
+        85953353,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GjVrnBQl6gABsYyLK0SBW_44.851952_-93.654361@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602604,
-    "wof:geomhash":"54c5ffbbfa07e6e8ca5658d4f60aada3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"391ac7e6d51e61e7965203197f428482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511603,
+            "locality_id":85953353,
+            "region_id":85688727,
+            "venue_id":806969157
+        }
+    ],
     "wof:id":806969157,
-    "wof:lastmodified":1472629965,
+    "wof:lastmodified":1492815938,
     "wof:name":"Alaris Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

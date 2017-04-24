@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.375651,44.870905,-94.375651,44.870905",
     "geom:latitude":44.870905,
     "geom:longitude":-94.375651,
@@ -28,17 +29,34 @@
     "sg:postcode":"55350",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71hkZHK2DgFwaKmqP4ZJRT_44.870905_-94.375651@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589887,
-    "wof:geomhash":"1606323b02339e0c1edec1a68a12deaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23171b1718366b2ab5feaba093bc1f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":789704215
+        }
+    ],
     "wof:id":789704215,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492812400,
     "wof:name":"Target",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

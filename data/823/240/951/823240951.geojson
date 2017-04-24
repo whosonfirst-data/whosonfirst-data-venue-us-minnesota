@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.128677,43.863571,-95.128677,43.863571",
     "geom:latitude":43.863571,
     "geom:longitude":-95.128677,
@@ -59,17 +60,34 @@
     ],
     "sg:website":"http://www.servicemasterclean.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66HCdsd4jDMiwtivSBgQ0L_43.863571_-95.128677@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609166,
-    "wof:geomhash":"0362da5eb82f88a38360fb0550036eff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f13894708ba591ccc37962157353f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":823240951
+        }
+    ],
     "wof:id":823240951,
-    "wof:lastmodified":1472629169,
+    "wof:lastmodified":1492830836,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

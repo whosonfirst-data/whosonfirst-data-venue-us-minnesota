@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.767519,48.84717,-95.767519,48.84717",
     "geom:latitude":48.84717,
     "geom:longitude":-95.767519,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PNs9z6tD7WzlI6kRMW77u_48.847170_-95.767519@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598460,
-    "wof:geomhash":"2470b127ce31d1c83c02ec737de76f8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d421a2667bc31550b5ad6e7e40f0cd9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":806479035
+        }
+    ],
     "wof:id":806479035,
-    "wof:lastmodified":1472629261,
+    "wof:lastmodified":1492814576,
     "wof:name":"Dental Health Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.497053,44.075126,-92.497053,44.075126",
     "geom:latitude":44.075126,
     "geom:longitude":-92.497053,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h4WZH4FafFDGkWgURXHLA_44.075126_-92.497053@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593638,
-    "wof:geomhash":"c033cd3a8c8a68644646e1d9b3cbb376",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c607ea76e971073805509c2aebd77e2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790164359
+        }
+    ],
     "wof:id":790164359,
-    "wof:lastmodified":1472629248,
+    "wof:lastmodified":1492833144,
     "wof:name":"Steiger Lavonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

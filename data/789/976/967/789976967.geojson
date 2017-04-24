@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.988569,43.621517,-94.988569,43.621517",
     "geom:latitude":43.621517,
     "geom:longitude":-94.988569,
@@ -33,17 +34,34 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sMpwUJG50a2aG4vGPaYau_43.621517_-94.988569@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592144,
-    "wof:geomhash":"2eb243b7dc43162569cef310cc9d54c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fdbdf18d4df1a5600f68617d2c0afa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":789976967
+        }
+    ],
     "wof:id":789976967,
-    "wof:lastmodified":1472629680,
+    "wof:lastmodified":1492811495,
     "wof:name":"Dick's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

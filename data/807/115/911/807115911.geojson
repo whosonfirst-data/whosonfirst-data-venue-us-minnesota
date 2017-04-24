@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.079945,44.072364,-95.079945,44.072364",
     "geom:latitude":44.072364,
     "geom:longitude":-95.079945,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511857,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rrddKdPHrNnKm1P6bJaqZ_44.072364_-95.079945@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603898,
-    "wof:geomhash":"2704de02e51abe359f78b2845996b836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2774d1d702cdd9195e8270c421f49444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511857,
+            "region_id":85688727,
+            "venue_id":807115911
+        }
+    ],
     "wof:id":807115911,
-    "wof:lastmodified":1472629244,
+    "wof:lastmodified":1492823369,
     "wof:name":"Jim Bierman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.220025,44.556206,-94.220025,44.556206",
     "geom:latitude":44.556206,
     "geom:longitude":-94.220025,
@@ -31,17 +32,34 @@
         "sheriff"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510479,
+        85633793,
+        85953311,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53BNieHmTsSofRB7mwZknC_44.556206_-94.220025@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586582,
-    "wof:geomhash":"00663d4583c2b558115cd4a113cca176",
-    "wof:hierarchy":[],
+    "wof:geomhash":"380244b6ea7454e8e6ff491c4d47e33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510479,
+            "locality_id":85953311,
+            "region_id":85688727,
+            "venue_id":773552321
+        }
+    ],
     "wof:id":773552321,
-    "wof:lastmodified":1472630090,
+    "wof:lastmodified":1492805125,
     "wof:name":"Sheriff's Office-Sibley County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

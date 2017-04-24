@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.664068,47.36846,-96.664068,47.36846",
     "geom:latitude":47.36846,
     "geom:longitude":-96.664068,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512273,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fv9Io5REjIfpp0zFqvxiQ_47.368460_-96.664068@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588774,
-    "wof:geomhash":"f656c40e38dbd0a0b29933688ecc0f71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9862f24f92dadcb3fbdc80c76aacaafd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512273,
+            "region_id":85688727,
+            "venue_id":773836377
+        }
+    ],
     "wof:id":773836377,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492807472,
     "wof:name":"Olson Well Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

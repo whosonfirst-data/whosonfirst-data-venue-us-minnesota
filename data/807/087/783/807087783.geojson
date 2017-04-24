@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.181967,45.044573,-93.181967,45.044573",
     "geom:latitude":45.044573,
     "geom:longitude":-93.181967,
@@ -31,17 +32,34 @@
         "development"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514355,
+        85633793,
+        85953025,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5liOWHi27ykeK5fcDYzK7H_45.044573_-93.181967@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603594,
-    "wof:geomhash":"d5d615cecc20fbb7f630831c7a3cfa3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05d455f5a517f29b369666136fe06942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514355,
+            "locality_id":85953025,
+            "region_id":85688727,
+            "venue_id":807087783
+        }
+    ],
     "wof:id":807087783,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492822370,
     "wof:name":"T3 Scientific",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

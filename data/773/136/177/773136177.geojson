@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.228542,44.296575,-95.228542,44.296575",
     "geom:latitude":44.296575,
     "geom:longitude":-95.228542,
@@ -35,17 +36,32 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512341,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zCdDK6TGs9mH6wNh6qQyV_44.296575_-95.228542@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583410,
-    "wof:geomhash":"98f333b998bae9f427df324df45eab80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2f97039da228f679fb36ac136357ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512341,
+            "region_id":85688727,
+            "venue_id":773136177
+        }
+    ],
     "wof:id":773136177,
-    "wof:lastmodified":1472629685,
+    "wof:lastmodified":1492803303,
     "wof:name":"Mark Altermatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

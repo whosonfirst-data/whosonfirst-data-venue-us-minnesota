@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.251516,45.759714,-93.251516,45.759714",
     "geom:latitude":45.759714,
     "geom:longitude":-93.251516,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513627,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gk5ApXfz2Ca6KHJZzeGd0_45.759714_-93.251516@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605177,
-    "wof:geomhash":"72d7bd6b85768710614f2706129a3ed1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7326abee14e2907cadcd1babbc00a959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513627,
+            "region_id":85688727,
+            "venue_id":807236489
+        }
+    ],
     "wof:id":807236489,
-    "wof:lastmodified":1472629472,
+    "wof:lastmodified":1492824664,
     "wof:name":"Parson's Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

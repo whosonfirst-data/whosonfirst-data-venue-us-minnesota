@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.375481,44.875195,-94.375481,44.875195",
     "geom:latitude":44.875195,
     "geom:longitude":-94.375481,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IQaOL9oUXmYI0COtfwgO5_44.875195_-94.375481@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583500,
-    "wof:geomhash":"83c14de4df1573170f5b6c6e41b1f1d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07131d924ff31b29e08419e1981e5a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773149457
+        }
+    ],
     "wof:id":773149457,
-    "wof:lastmodified":1472629718,
+    "wof:lastmodified":1492808149,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

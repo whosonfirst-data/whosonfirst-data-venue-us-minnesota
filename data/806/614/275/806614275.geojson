@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362107,46.369017,-94.362107,46.369017",
     "geom:latitude":46.369017,
     "geom:longitude":-94.362107,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511757,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AJGL19stSOhIjd7GTxZ9X_46.369017_-94.362107@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599600,
-    "wof:geomhash":"b9048120d4467fecda0eef31960f0626",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a825df70dd799abc7c28da2ab82b1a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511757,
+            "region_id":85688727,
+            "venue_id":806614275
+        }
+    ],
     "wof:id":806614275,
-    "wof:lastmodified":1472629543,
+    "wof:lastmodified":1492815188,
     "wof:name":"Clark Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

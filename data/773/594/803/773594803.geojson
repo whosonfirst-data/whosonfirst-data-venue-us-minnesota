@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.134703,43.847838,-95.134703,43.847838",
     "geom:latitude":43.847838,
     "geom:longitude":-95.134703,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509839,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DAzuUzVXw1qGUp3yDaSXb_43.847838_-95.134703@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586906,
-    "wof:geomhash":"74d3f99863963beb4691974de3a94a76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"684f587ab7738270eaaf2da0708d3e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509839,
+            "region_id":85688727,
+            "venue_id":773594803
+        }
+    ],
     "wof:id":773594803,
-    "wof:lastmodified":1472630106,
+    "wof:lastmodified":1492806853,
     "wof:name":"Behrends Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

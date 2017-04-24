@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.829561,45.381889,-92.829561,45.381889",
     "geom:latitude":45.381889,
     "geom:longitude":-92.829561,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V4EUbD18oihpS5wQ8wbyM_45.381889_-92.829561@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582581,
-    "wof:geomhash":"c9b47d4449dd650a96410f798d5d918b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"875acecb25833f7193259cf044a82b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":773032043
+        }
+    ],
     "wof:id":773032043,
-    "wof:lastmodified":1472629127,
+    "wof:lastmodified":1492800807,
     "wof:name":"Donnies Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

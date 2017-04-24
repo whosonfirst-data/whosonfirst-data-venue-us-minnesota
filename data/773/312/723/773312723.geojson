@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.274407,44.28532,-93.274407,44.28532",
     "geom:latitude":44.28532,
     "geom:longitude":-93.274407,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nHgXOqT8O6gj7aB9zuHdx_44.285320_-93.274407@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584789,
-    "wof:geomhash":"fcc7f4e6b2d8eb1c5944c345e62bad1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09145472b03749599871123b9217a99f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773312723
+        }
+    ],
     "wof:id":773312723,
-    "wof:lastmodified":1472630000,
+    "wof:lastmodified":1492806411,
     "wof:name":"Paul Froman Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

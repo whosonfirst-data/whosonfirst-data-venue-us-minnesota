@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.24315,45.838328,-95.24315,45.838328",
     "geom:latitude":45.838328,
     "geom:longitude":-95.24315,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513929,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35RvM7ZjE7ZFju2Lx4eBod_45.838328_-95.243150@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604131,
-    "wof:geomhash":"76174c86507c59a75f022503dfcb73f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91fb20b9c74d6028766926df5a3a7813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513929,
+            "region_id":85688727,
+            "venue_id":807136973
+        }
+    ],
     "wof:id":807136973,
-    "wof:lastmodified":1472629267,
+    "wof:lastmodified":1492824629,
     "wof:name":"Guy Berg Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

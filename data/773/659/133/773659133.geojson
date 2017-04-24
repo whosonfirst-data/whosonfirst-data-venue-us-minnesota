@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.960626,45.68481,-92.960626,45.68481",
     "geom:latitude":45.68481,
     "geom:longitude":-92.960626,
@@ -32,17 +33,34 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jrbtw36lQqS8qotEAuLrI_45.684810_-92.960626@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587386,
-    "wof:geomhash":"271f7308111e28a71f56432a1d10c341",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51f6e49d5d6d5f00afbeeee68e9d3f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":773659133
+        }
+    ],
     "wof:id":773659133,
-    "wof:lastmodified":1472630119,
+    "wof:lastmodified":1492800902,
     "wof:name":"E Z Etch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

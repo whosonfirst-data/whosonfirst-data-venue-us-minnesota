@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.731597,44.387804,-93.731597,44.387804",
     "geom:latitude":44.387804,
     "geom:longitude":-93.731597,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512359,
+        85633793,
+        85953433,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nvvrD3teLpP0EWkguqDie_44.387804_-93.731597@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595897,
-    "wof:geomhash":"d2a32c373264a4040335d7360debd67b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97cafcd8a3a6c597d6e53a99c5625797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512359,
+            "locality_id":85953433,
+            "region_id":85688727,
+            "venue_id":790447601
+        }
+    ],
     "wof:id":790447601,
-    "wof:lastmodified":1472629712,
+    "wof:lastmodified":1492836245,
     "wof:name":"Le Sueur County Sheriff Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

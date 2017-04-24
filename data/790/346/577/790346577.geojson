@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.103973,44.543974,-95.103973,44.543974",
     "geom:latitude":44.543974,
     "geom:longitude":-95.103973,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512313,
+        85633793,
+        85968817,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_022G8GTvKSggCWkoWnm0np_44.543974_-95.103973@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595112,
-    "wof:geomhash":"1354f1701d09ee7cf3db38f223893094",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e468a89796f335b0b4f42dcecc3cb717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512313,
+            "locality_id":85968817,
+            "region_id":85688727,
+            "venue_id":790346577
+        }
+    ],
     "wof:id":790346577,
-    "wof:lastmodified":1472629543,
+    "wof:lastmodified":1492835903,
     "wof:name":"Parkside Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.979383,45.315242,-93.979383,45.315242",
     "geom:latitude":45.315242,
     "geom:longitude":-93.979383,
@@ -31,17 +32,34 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510765,
+        85633793,
+        85969455,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TBCUTfjVzF7ZItO6qKw5B_45.315242_-93.979383@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583541,
-    "wof:geomhash":"a6cfaed27ac1da4851830252c026d5e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7c0074d3e35ba4a9b7010e3e7d03ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510765,
+            "locality_id":85969455,
+            "region_id":85688727,
+            "venue_id":773152409
+        }
+    ],
     "wof:id":773152409,
-    "wof:lastmodified":1472629717,
+    "wof:lastmodified":1492808518,
     "wof:name":"Silver Creek Corner Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

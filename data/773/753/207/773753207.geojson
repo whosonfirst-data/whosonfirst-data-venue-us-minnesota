@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.231877,44.084394,-93.231877,44.084394",
     "geom:latitude":44.084394,
     "geom:longitude":-93.231877,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l3TVbIPfztHHugmKaaTVX_44.084394_-93.231877@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588119,
-    "wof:geomhash":"235c316f6144637bb4de3d86a5ba79c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab41712fbe428670f14b16acce20a38e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":773753207
+        }
+    ],
     "wof:id":773753207,
-    "wof:lastmodified":1472630148,
+    "wof:lastmodified":1492802572,
     "wof:name":"Parkview Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

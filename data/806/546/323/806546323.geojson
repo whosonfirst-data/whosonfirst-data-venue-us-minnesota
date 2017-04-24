@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.356251,44.745505,-93.356251,44.745505",
     "geom:latitude":44.745505,
     "geom:longitude":-93.356251,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59b3cB4cgY8TcSgrT1QbJn_44.745505_-93.356251@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599006,
-    "wof:geomhash":"68e180e5056656a2716419d08fed8ca2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48c5c00aaaf8ecca3bb14d6bc71dbeca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":806546323
+        }
+    ],
     "wof:id":806546323,
-    "wof:lastmodified":1472629433,
+    "wof:lastmodified":1492815288,
     "wof:name":"Amy Gillen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

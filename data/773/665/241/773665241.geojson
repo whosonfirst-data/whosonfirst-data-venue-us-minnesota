@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.020171,47.941781,-97.020171,47.941781",
     "geom:latitude":47.941781,
     "geom:longitude":-97.020171,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513699,
+        85633793,
+        85968415,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4z3mudsv3jTyrFWRvjD6ap_47.941781_-97.020171@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587435,
-    "wof:geomhash":"646469852fc3d495a33e660bf4b4c53c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e23f678bb97dba68740a6361e41e4b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513699,
+            "locality_id":85968415,
+            "region_id":85688727,
+            "venue_id":773665241
+        }
+    ],
     "wof:id":773665241,
-    "wof:lastmodified":1472630120,
+    "wof:lastmodified":1492805374,
     "wof:name":"Red Pepper East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.021924,46.95017,-92.021924,46.95017",
     "geom:latitude":46.95017,
     "geom:longitude":-92.021924,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513425,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NdD2me0wtqcqIIpADzGxt_46.950170_-92.021924@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589402,
-    "wof:geomhash":"79fbe8761799318b13bf0596baeb9007",
-    "wof:hierarchy":[],
+    "wof:geomhash":"868a796bb5a075e5496d34a0dc394eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513425,
+            "region_id":85688727,
+            "venue_id":789644053
+        }
+    ],
     "wof:id":789644053,
-    "wof:lastmodified":1472629074,
+    "wof:lastmodified":1492810058,
     "wof:name":"Detailed Digging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

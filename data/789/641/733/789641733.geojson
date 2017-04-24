@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.98987,44.41008,-93.98987,44.41008",
     "geom:latitude":44.41008,
     "geom:longitude":-93.98987,
@@ -33,17 +34,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513339,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fbSYNjzjKf91hYNsgsFWe_44.410080_-93.989870@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589387,
-    "wof:geomhash":"aa3d42b74b759ac8293228e9b6fc320e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88f132556571f99c28f56287f0f344c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513339,
+            "region_id":85688727,
+            "venue_id":789641733
+        }
+    ],
     "wof:id":789641733,
-    "wof:lastmodified":1472629085,
+    "wof:lastmodified":1492811628,
     "wof:name":"Tom Osborne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.463029,44.02574,-92.463029,44.02574",
     "geom:latitude":44.02574,
     "geom:longitude":-92.463029,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W87J25wsUhX6CCelxX1Ck_44.025740_-92.463029@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596357,
-    "wof:geomhash":"dbc1a885da437fde82d8deb5c0e2a2dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f9492878138b3033de83deb9c35817a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790498639
+        }
+    ],
     "wof:id":790498639,
-    "wof:lastmodified":1472629775,
+    "wof:lastmodified":1492833652,
     "wof:name":"Hobbit Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

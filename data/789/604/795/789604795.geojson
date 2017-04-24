@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.994599,43.645962,-94.994599,43.645962",
     "geom:latitude":43.645962,
     "geom:longitude":-94.994599,
@@ -36,17 +37,34 @@
         "retail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01lVZ0QZuYSKSyQLBnNs7b_43.645962_-94.994599@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589102,
-    "wof:geomhash":"8f5cf5c6a7fc2e63e94c2d24c442af85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c95eaadc77a79ae19de0bca824b9d15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":789604795
+        }
+    ],
     "wof:id":789604795,
-    "wof:lastmodified":1472628985,
+    "wof:lastmodified":1492810326,
     "wof:name":"Tri County Implements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.282578,47.872631,-94.282578,47.872631",
     "geom:latitude":47.872631,
     "geom:longitude":-94.282578,
@@ -41,17 +42,34 @@
         "medicine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509931,
+        85633793,
+        85968303,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52FBLftqxQrz6G2uj4yb9s_47.872631_-94.282578@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609538,
-    "wof:geomhash":"a53978af95ec140b4fc91ab78ad09aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0377b4cf2c43ffe79f24a700b9bd9a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404509931,
+            "locality_id":85968303,
+            "region_id":85688727,
+            "venue_id":823259279
+        }
+    ],
     "wof:id":823259279,
-    "wof:lastmodified":1472629202,
+    "wof:lastmodified":1492829171,
     "wof:name":"Northland Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

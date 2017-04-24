@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.463035,43.983216,-92.463035,43.983216",
     "geom:latitude":43.983216,
     "geom:longitude":-92.463035,
@@ -41,17 +42,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nkcI27bEp4TQYoYYJFm5X_43.983216_-92.463035@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598709,
-    "wof:geomhash":"d8b653db664d6df714f989dee99cdc38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4399dfcdf5743d764495448be0ce20d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806509427
+        }
+    ],
     "wof:id":806509427,
-    "wof:lastmodified":1472629321,
+    "wof:lastmodified":1492821409,
     "wof:name":"Judisch Photo and Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

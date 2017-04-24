@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.371887,46.543873,-94.371887,46.543873",
     "geom:latitude":46.543873,
     "geom:longitude":-94.371887,
@@ -41,17 +42,32 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509393,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JnDROM3oVhR6wVJc9kHcH_46.543873_-94.371887@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609429,
-    "wof:geomhash":"11a18c5b1ffefa88dc95d52416ae07b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"793a131f261cff5e5888640847cfdab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509393,
+            "region_id":85688727,
+            "venue_id":823254405
+        }
+    ],
     "wof:id":823254405,
-    "wof:lastmodified":1472629202,
+    "wof:lastmodified":1492830937,
     "wof:name":"Lakes Area Residential Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

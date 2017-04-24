@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.025726,44.952652,-93.025726,44.952652",
     "geom:latitude":44.952652,
     "geom:longitude":-93.025726,
@@ -31,19 +32,40 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800633,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Hll43GNw20hydUNPLYZu8_44.952652_-93.025726@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602778,
-    "wof:geomhash":"71bf6716dc09d03c427d806bedcacbb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6eadfff9a761fb592f7089f47b5c75ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800633,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":806990433
+        }
+    ],
     "wof:id":806990433,
-    "wof:lastmodified":1472629983,
+    "wof:lastmodified":1492814180,
     "wof:name":"Capital City Baptist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

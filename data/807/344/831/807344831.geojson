@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.515877,44.784825,-93.515877,44.784825",
     "geom:latitude":44.784825,
     "geom:longitude":-93.515877,
@@ -48,17 +49,34 @@
         "repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14hAH5Z2or2IJAx4cPMoIt_44.784825_-93.515877@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606430,
-    "wof:geomhash":"08610690757f10944265622971754e94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bd83e00bda797bc223e87d3e43fe7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":807344831
+        }
+    ],
     "wof:id":807344831,
-    "wof:lastmodified":1472629778,
+    "wof:lastmodified":1492826484,
     "wof:name":"Excel Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.241212,45.075672,-94.241212,45.075672",
     "geom:latitude":45.075672,
     "geom:longitude":-94.241212,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515195,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SXN82FHS5e7MVwZ1PsTeb_45.075672_-94.241212@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603739,
-    "wof:geomhash":"76d0cb7e627dbb597e9cb0d1a57ee4c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05061283557836402a3857f12f97fcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515195,
+            "region_id":85688727,
+            "venue_id":807100625
+        }
+    ],
     "wof:id":807100625,
-    "wof:lastmodified":1472629205,
+    "wof:lastmodified":1492824079,
     "wof:name":"Thomas Russell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

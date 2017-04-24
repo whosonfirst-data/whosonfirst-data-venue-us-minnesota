@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.35252,46.641728,-95.35252,46.641728",
     "geom:latitude":46.641728,
     "geom:longitude":-95.35252,
@@ -25,17 +26,32 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512723,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hKqMzV77UfDz0Bi8ftL4E_46.641728_-95.352520@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604345,
-    "wof:geomhash":"3794480756c1fd531d9c93ef9ef1e0db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99e130e3ff514cf399f752cfa7157b41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512723,
+            "region_id":85688727,
+            "venue_id":807157675
+        }
+    ],
     "wof:id":807157675,
-    "wof:lastmodified":1472629304,
+    "wof:lastmodified":1492825564,
     "wof:name":"Weller Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

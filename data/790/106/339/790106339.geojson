@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.254645,48.285251,-97.254645,48.285251",
     "geom:latitude":48.285251,
     "geom:longitude":-97.254645,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404482043,
+        85633793,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OGJHyGP8M52lXvVjru1uu_48.285251_-97.254645@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593194,
-    "wof:geomhash":"9a16e4d5e8a6e8477ca23dbd2fb27aee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71d9e81cd61d5de284e08d4e0c1f6319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404482043,
+            "region_id":85688525,
+            "venue_id":790106339
+        }
+    ],
     "wof:id":790106339,
-    "wof:lastmodified":1472629129,
+    "wof:lastmodified":1492837017,
     "wof:name":"Bethlehem Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

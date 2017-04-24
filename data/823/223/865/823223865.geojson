@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.6612,47.174645,-93.6612,47.174645",
     "geom:latitude":47.174645,
     "geom:longitude":-93.6612,
@@ -32,17 +33,32 @@
         "concrete-ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513291,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UJbO8GQ8TBarI3quU0kGU_47.174645_-93.661200@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608816,
-    "wof:geomhash":"63a9f56946f65f4a858e40ca010f8660",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7030409c0ef837048ce750682f15134b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513291,
+            "region_id":85688727,
+            "venue_id":823223865
+        }
+    ],
     "wof:id":823223865,
-    "wof:lastmodified":1472629116,
+    "wof:lastmodified":1492830901,
     "wof:name":"Cabin Ready Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

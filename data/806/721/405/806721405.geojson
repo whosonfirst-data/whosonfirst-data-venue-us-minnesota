@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.196799,48.094982,-96.196799,48.094982",
     "geom:latitude":48.094982,
     "geom:longitude":-96.196799,
@@ -31,17 +32,34 @@
         "sawmill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45RXZZ54rUBjv0t5WvYDv8_48.094982_-96.196799@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600516,
-    "wof:geomhash":"9803f0c9512271d4c43dd24b92ee0282",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdc909c78b71ae4c8475d832b5526107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806721405
+        }
+    ],
     "wof:id":806721405,
-    "wof:lastmodified":1472629752,
+    "wof:lastmodified":1492817700,
     "wof:name":"Custom Wood Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

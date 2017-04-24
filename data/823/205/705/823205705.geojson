@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.371687,44.905599,-93.371687,44.905599",
     "geom:latitude":44.905599,
     "geom:longitude":-93.371687,
@@ -31,17 +32,34 @@
         "testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E2TRf9LULBjhe03xXaJDl_44.905599_-93.371687@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608456,
-    "wof:geomhash":"88c13f1e9362789fa58faf75e6507cfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac39188bc1bd7902d85de630154c3392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823205705
+        }
+    ],
     "wof:id":823205705,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492829915,
     "wof:name":"Compensation Analytics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

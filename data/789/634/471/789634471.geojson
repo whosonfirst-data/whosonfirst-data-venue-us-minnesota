@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.289171,44.948439,-93.289171,44.948439",
     "geom:latitude":44.948439,
     "geom:longitude":-93.289171,
@@ -33,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800013,
         85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589333,
-    "wof:geomhash":"d79d9f5305f019ef20d49dfe9087d2b0",
+    "wof:geomhash":"8155cd116b071098d489280818a4fc20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +58,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
             "neighbourhood_id":85872583,
-            "region_id":85688727,
-            "venue_id":789634471
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
             "region_id":85688727,
             "venue_id":789634471
         }
     ],
     "wof:id":789634471,
-    "wof:lastmodified":1472629078,
+    "wof:lastmodified":1492812901,
     "wof:name":"Uptown Savvy",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

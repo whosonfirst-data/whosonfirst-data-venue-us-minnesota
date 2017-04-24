@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.718336,43.941818,-92.718336,43.941818",
     "geom:latitude":43.941818,
     "geom:longitude":-92.718336,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513725,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21gs1GoVDc2FYiXAUdAL4p_43.941818_-92.718336@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603941,
-    "wof:geomhash":"629b89eb1a0f2978790b42ea46bb3f0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e85060a1524e00b810ddc7bf449da0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513725,
+            "region_id":85688727,
+            "venue_id":807120313
+        }
+    ],
     "wof:id":807120313,
-    "wof:lastmodified":1472629237,
+    "wof:lastmodified":1492822335,
     "wof:name":"Donald Ness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

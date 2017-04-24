@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.196512,45.093654,-93.196512,45.093654",
     "geom:latitude":45.093654,
     "geom:longitude":-93.196512,
@@ -31,17 +32,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514455,
+        85633793,
+        85953145,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2twFlRTK68MOnG16rXrwbQ_45.093654_-93.196512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598289,
-    "wof:geomhash":"a32e2408f6c18c082c062cca58376017",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9950e50a9ad652a1cedb90c89490624c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514455,
+            "locality_id":85953145,
+            "region_id":85688727,
+            "venue_id":806456747
+        }
+    ],
     "wof:id":806456747,
-    "wof:lastmodified":1472629212,
+    "wof:lastmodified":1492816238,
     "wof:name":"Minnesota Candleman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

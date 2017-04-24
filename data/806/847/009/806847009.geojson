@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.406066,45.854354,-95.406066,45.854354",
     "geom:latitude":45.854354,
     "geom:longitude":-95.406066,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ri3TS45OcCOzRWRdNEH7O_45.854354_-95.406066@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601579,
-    "wof:geomhash":"d51221c7d4a41dd0a62730e4d2a1b987",
-    "wof:hierarchy":[],
+    "wof:geomhash":"366c2faa7db7b8a67884df8dca3080a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":806847009
+        }
+    ],
     "wof:id":806847009,
-    "wof:lastmodified":1472629877,
+    "wof:lastmodified":1492819604,
     "wof:name":"Advanced Automotive & Off Road",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

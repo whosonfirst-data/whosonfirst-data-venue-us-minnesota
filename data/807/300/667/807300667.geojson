@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.387901,45.175419,-93.387901,45.175419",
     "geom:latitude":45.175419,
     "geom:longitude":-93.387901,
@@ -40,17 +41,34 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e09nLhUCQdPkSUm8wCZRh_45.175419_-93.387901@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605861,
-    "wof:geomhash":"a6735983bc2da110da97edee7e9ff1cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a499f935e7059104fde1f3a537b2225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807300667
+        }
+    ],
     "wof:id":807300667,
-    "wof:lastmodified":1472629629,
+    "wof:lastmodified":1492825905,
     "wof:name":"Health Care Tech Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.646244,44.204217,-92.646244,44.204217",
     "geom:latitude":44.204217,
     "geom:longitude":-92.646244,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85896889,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85896889
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462586652,
-    "wof:geomhash":"6c6ca595d90131f9581b83df50c576ae",
+    "wof:geomhash":"b30366e7a7210b6f9d6d357080f2c604",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85896889,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":773560739,
-    "wof:lastmodified":1472630095,
+    "wof:lastmodified":1492799573,
     "wof:name":"United Methodist Church",
     "wof:parent_id":85896889,
     "wof:placetype":"venue",

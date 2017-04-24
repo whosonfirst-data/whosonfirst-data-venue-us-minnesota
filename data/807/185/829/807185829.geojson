@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.349269,43.774611,-93.349269,43.774611",
     "geom:latitude":43.774611,
     "geom:longitude":-93.349269,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509649,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bcEKQ8dFZZ2dOpN1LPhyk_43.774611_-93.349269@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604648,
-    "wof:geomhash":"8bc296f3288702f905b133e13432954e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee9a6d4acb6978d0d0d60051054f308b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509649,
+            "region_id":85688727,
+            "venue_id":807185829
+        }
+    ],
     "wof:id":807185829,
-    "wof:lastmodified":1472629391,
+    "wof:lastmodified":1492824534,
     "wof:name":"James Nasman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

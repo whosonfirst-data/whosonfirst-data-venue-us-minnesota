@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.415754,45.604545,-95.415754,45.604545",
     "geom:latitude":45.604545,
     "geom:longitude":-95.415754,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514323,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P1KG761JRm3eG62u1x0tL_45.604545_-95.415754@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600048,
-    "wof:geomhash":"7e3df643af56b5e2c2ad48ca43fff596",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc68992e33f5bf5217c231d3bfb275e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514323,
+            "region_id":85688727,
+            "venue_id":806666147
+        }
+    ],
     "wof:id":806666147,
-    "wof:lastmodified":1472629650,
+    "wof:lastmodified":1492821999,
     "wof:name":"Ben Lake Cemetery Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

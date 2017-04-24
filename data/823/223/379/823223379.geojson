@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.882397,47.489149,-92.882397,47.489149",
     "geom:latitude":47.489149,
     "geom:longitude":-92.882397,
@@ -43,17 +44,36 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iZ7G32FJVryNSzzTZX5rh_47.489149_-92.882397@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608801,
-    "wof:geomhash":"c0cb0485f02eeb4c40e10f911ef111dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e53003751a30d9e0a3dbb9662d0d5517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":823223379
+        }
+    ],
     "wof:id":823223379,
-    "wof:lastmodified":1472629102,
+    "wof:lastmodified":1492830916,
     "wof:name":"Sertich Plumbing & Heating Inc",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

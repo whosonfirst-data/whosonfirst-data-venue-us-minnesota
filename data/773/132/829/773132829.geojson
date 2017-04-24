@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.72514,46.905181,-96.72514,46.905181",
     "geom:latitude":46.905181,
     "geom:longitude":-96.72514,
@@ -39,7 +40,12 @@
         85633793,
         85968969,
         102087681,
-        85688727
+        85688727,
+        85877351,
+        404478877,
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583377,
-    "wof:geomhash":"5b02247c45b151f7facf7b3eaa576022",
+    "wof:geomhash":"164648be1e245624ef153d26210bb05e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +64,22 @@
             "neighbourhood_id":85877345,
             "region_id":85688727,
             "venue_id":773132829
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877351,
+            "region_id":85688525,
+            "venue_id":773132829
         }
     ],
     "wof:id":773132829,
-    "wof:lastmodified":1472629696,
+    "wof:lastmodified":1492807807,
     "wof:name":"John Jones Farms",
-    "wof:parent_id":85877345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

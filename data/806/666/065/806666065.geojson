@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326646,45.093178,-93.326646,45.093178",
     "geom:latitude":45.093178,
     "geom:longitude":-93.326646,
@@ -33,17 +34,34 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mnPvhSzDIq07lWSN6ufzp_45.093178_-93.326646@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600048,
-    "wof:geomhash":"fbfaa6bd86f8b51574366cb06196e577",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19c5ad32f2d9f5f5caca000bf1f05fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":806666065
+        }
+    ],
     "wof:id":806666065,
-    "wof:lastmodified":1472629637,
+    "wof:lastmodified":1492821995,
     "wof:name":"Baer Essentials Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

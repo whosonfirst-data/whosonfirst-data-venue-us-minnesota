@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.198177,44.917832,-93.198177,44.917832",
     "geom:latitude":44.917832,
     "geom:longitude":-93.198177,
@@ -31,19 +32,38 @@
         "intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uALQsHp5o5akMaJteMLZj_44.917832_-93.198177@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586671,
-    "wof:geomhash":"35741c4fd5ada31b7408893f7d47c0dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8c7f98a196b08f8a2a23a0b454a9a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773562639
+        }
+    ],
     "wof:id":773562639,
-    "wof:lastmodified":1472630092,
+    "wof:lastmodified":1492804842,
     "wof:name":"Rosewood Estates Highland Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

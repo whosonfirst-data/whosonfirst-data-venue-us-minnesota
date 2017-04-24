@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.408545,43.915989,-92.408545,43.915989",
     "geom:latitude":43.915989,
     "geom:longitude":-92.408545,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510309,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15pbFhhpHBjNSohxzk0eoQ_43.915989_-92.408545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584449,
-    "wof:geomhash":"0f3109d5c9a20a2b6c016e2d56bd7b86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"caa056ed542228e5d422878c12d9f597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510309,
+            "region_id":85688727,
+            "venue_id":773270841
+        }
+    ],
     "wof:id":773270841,
-    "wof:lastmodified":1472630017,
+    "wof:lastmodified":1492803787,
     "wof:name":"Herbert Theel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.168701,45.021999,-93.168701,45.021999",
     "geom:latitude":45.021999,
     "geom:longitude":-93.168701,
@@ -37,17 +38,34 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60RzrrrLxSwbHT7mmRCipI_45.021999_-93.168701@1303262815"
     },
     "wof:country":"US",
     "wof:created":1462605513,
-    "wof:geomhash":"2a678f4aa9850650be210adb63702bcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d3768c0abb1e058a47930b51fcd2b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":807267367
+        }
+    ],
     "wof:id":807267367,
-    "wof:lastmodified":1472629560,
+    "wof:lastmodified":1492825057,
     "wof:name":"A T & T Broadband A T & T Wireless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

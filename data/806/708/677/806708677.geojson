@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.542681,44.583619,-93.542681,44.583619",
     "geom:latitude":44.583619,
     "geom:longitude":-93.542681,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514985,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xEwFhR5ouqBjnNxj1kUDj_44.583619_-93.542681@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600408,
-    "wof:geomhash":"6765ef288f37dafbd42815763f9ee383",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1ba4eb4fdd8574dd10ce8595f904767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514985,
+            "region_id":85688727,
+            "venue_id":806708677
+        }
+    ],
     "wof:id":806708677,
-    "wof:lastmodified":1472629723,
+    "wof:lastmodified":1492814692,
     "wof:name":"Scheffler Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

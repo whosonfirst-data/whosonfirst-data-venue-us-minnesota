@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.865718,45.975446,-94.865718,45.975446",
     "geom:latitude":45.975446,
     "geom:longitude":-94.865718,
@@ -31,17 +32,34 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514725,
+        85633793,
+        85968365,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q4za2f6o05CM0YrTPKEKx_45.975446_-94.865718@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589145,
-    "wof:geomhash":"5d1a611160e5ce68db6173f93c7cdf68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04d5f8ca37b1be11a626595161694bb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514725,
+            "locality_id":85968365,
+            "region_id":85688727,
+            "venue_id":789611113
+        }
+    ],
     "wof:id":789611113,
-    "wof:lastmodified":1472629000,
+    "wof:lastmodified":1492809136,
     "wof:name":"Hy Clone Laboratories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.808614,48.189432,-93.808614,48.189432",
     "geom:latitude":48.189432,
     "geom:longitude":-93.808614,
@@ -28,17 +29,34 @@
     "sg:postcode":"56627",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514161,
+        85633793,
+        85968311,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H7k21hCen9TrPXFkKY4bf_48.189432_-93.808614@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590330,
-    "wof:geomhash":"191700d31b366326d75c3959c3a1e671",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58c9df4f9fa847d71fb973130729b954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514161,
+            "locality_id":85968311,
+            "region_id":85688727,
+            "venue_id":789760167
+        }
+    ],
     "wof:id":789760167,
-    "wof:lastmodified":1472629325,
+    "wof:lastmodified":1492810646,
     "wof:name":"Koochiching Land & Forest Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

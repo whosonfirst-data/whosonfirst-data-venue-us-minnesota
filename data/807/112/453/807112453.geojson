@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.491501,45.125702,-93.491501,45.125702",
     "geom:latitude":45.125702,
     "geom:longitude":-93.491501,
@@ -31,17 +32,34 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kqFNiFMgt0Vf5vg2XLJX7_45.125386_-93.491700@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603865,
-    "wof:geomhash":"ca33b3e71b8e47925850881763f1185f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d54ffbfd57189025e84e588ae37fc320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807112453
+        }
+    ],
     "wof:id":807112453,
-    "wof:lastmodified":1472629209,
+    "wof:lastmodified":1492824707,
     "wof:name":"Bank of Elk River",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

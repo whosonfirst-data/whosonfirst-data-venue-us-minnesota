@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.838897,46.991479,-94.838897,46.991479",
     "geom:latitude":46.991479,
     "geom:longitude":-94.838897,
@@ -31,17 +32,32 @@
         "stable"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512847,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gmOQkOvP5uJqHcPvcGZTQ_46.991479_-94.838897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596270,
-    "wof:geomhash":"62cf2210c70301bfd1b61d11dbde3448",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc9a9e1f3a30354483ff14863f686bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512847,
+            "region_id":85688727,
+            "venue_id":790487287
+        }
+    ],
     "wof:id":790487287,
-    "wof:lastmodified":1472629770,
+    "wof:lastmodified":1492834272,
     "wof:name":"Sandy Hill Stable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

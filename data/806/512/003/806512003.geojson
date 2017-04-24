@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.025294,44.949108,-93.025294,44.949108",
     "geom:latitude":44.949108,
     "geom:longitude":-93.025294,
@@ -28,19 +29,40 @@
     "sg:postcode":"55106",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NLXqd7TLcEyZfT6dziZeN_44.949108_-93.025294@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598731,
-    "wof:geomhash":"50867e71ec1f882ff996d8153477518f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6d4496b7d740e98ae2e69be32bfa7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":806512003
+        }
+    ],
     "wof:id":806512003,
-    "wof:lastmodified":1472629328,
+    "wof:lastmodified":1492815071,
     "wof:name":"MGM Liquor Warehouse",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

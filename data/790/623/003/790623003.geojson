@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.341079,45.07017,-93.341079,45.07017",
     "geom:latitude":45.07017,
     "geom:longitude":-93.341079,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lsJbNr5CSmGMGFr7MRGL5_45.070170_-93.341079@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597441,
-    "wof:geomhash":"f8bfe374dd0dc0331c3f60c6d3849bd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54a6f001f01ca3debd02dd21ceb09bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":790623003
+        }
+    ],
     "wof:id":790623003,
-    "wof:lastmodified":1472629910,
+    "wof:lastmodified":1492832331,
     "wof:name":"Global One Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

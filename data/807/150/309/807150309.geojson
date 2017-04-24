@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.205696,44.079236,-95.205696,44.079236",
     "geom:latitude":44.079236,
     "geom:longitude":-95.205696,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509497,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XuD42It4CKwhETn8ypGDs_44.079236_-95.205696@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604277,
-    "wof:geomhash":"cc09af09067953307e41eac0b02698b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71e732ddf290603e9be643b86b48d5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509497,
+            "region_id":85688727,
+            "venue_id":807150309
+        }
+    ],
     "wof:id":807150309,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1492826785,
     "wof:name":"Larry Eichstadt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

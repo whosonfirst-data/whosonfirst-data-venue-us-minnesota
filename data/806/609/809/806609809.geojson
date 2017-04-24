@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.789291,45.417922,-92.789291,45.417922",
     "geom:latitude":45.417922,
     "geom:longitude":-92.789291,
@@ -33,17 +34,32 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ztu5LwJPqbDrRdOJeKYmI_45.417922_-92.789291@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599564,
-    "wof:geomhash":"f8729b16ce5c35c5d9faa295bb83cd1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e4000e5106da732cfd1a8c963e2f30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":806609809
+        }
+    ],
     "wof:id":806609809,
-    "wof:lastmodified":1472629564,
+    "wof:lastmodified":1492815998,
     "wof:name":"Superior Concrete Product",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

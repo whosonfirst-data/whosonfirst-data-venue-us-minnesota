@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.546792,45.191462,-93.546792,45.191462",
     "geom:latitude":45.191462,
     "geom:longitude":-93.546792,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oNrWjJknv8Vf3HouWYj78_45.191462_-93.546792@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584525,
-    "wof:geomhash":"3d3bcc5f4362173145395f4254bdf9d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a7961dd70db9752b224b79c06d21a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":773281471
+        }
+    ],
     "wof:id":773281471,
-    "wof:lastmodified":1472630007,
+    "wof:lastmodified":1492805019,
     "wof:name":"Camping World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

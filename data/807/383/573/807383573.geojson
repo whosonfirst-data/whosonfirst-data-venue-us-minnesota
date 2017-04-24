@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.276558,44.963669,-93.276558,44.963669",
     "geom:latitude":44.963669,
     "geom:longitude":-93.276558,
@@ -36,14 +37,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559153,
+        85872585,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872585
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606978,
-    "wof:geomhash":"e38cd506f4776ca8b1e740af4fe2cd1d",
+    "wof:geomhash":"efa3609d5d35d3269bcad38c2f5d74ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,25 +60,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559153,
-            "region_id":85688727,
-            "venue_id":807383573
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872585,
             "region_id":85688727,
             "venue_id":807383573
         }
     ],
     "wof:id":807383573,
-    "wof:lastmodified":1472629877,
+    "wof:lastmodified":1492824774,
     "wof:name":"Norpol Residence Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

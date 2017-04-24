@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.48344,47.179987,-92.48344,47.179987",
     "geom:latitude":47.179987,
     "geom:longitude":-92.48344,
@@ -31,17 +32,26 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z0VxHFFeoJCBWJMWOPWFL_47.179987_-92.483440@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602601,
-    "wof:geomhash":"8deb906644c8f2331cdd225255700ae4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"990b02046b6d7baf5c35aacca6b4391c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806968715
+        }
+    ],
     "wof:id":806968715,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492822015,
     "wof:name":"El Toro Lounge Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

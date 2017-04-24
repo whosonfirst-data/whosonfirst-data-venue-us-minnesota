@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.589435,45.562935,-93.589435,45.562935",
     "geom:latitude":45.562935,
     "geom:longitude":-93.589435,
@@ -31,17 +32,34 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512571,
+        85633793,
+        85968823,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1I4yovLyCrHDOayozW7rHp_45.562935_-93.589435@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594462,
-    "wof:geomhash":"0d7c66812eabf0f6605f56029e26c38a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67dede00f6e800916a586a992a71fd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512571,
+            "locality_id":85968823,
+            "region_id":85688727,
+            "venue_id":790265171
+        }
+    ],
     "wof:id":790265171,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492835687,
     "wof:name":"Peterson Bus Princeton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

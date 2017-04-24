@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.486281,43.966555,-92.486281,43.966555",
     "geom:latitude":43.966555,
     "geom:longitude":-92.486281,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512593,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40XhMzm83VhRI9eFvkqLGc_43.966555_-92.486281@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586845,
-    "wof:geomhash":"38c0c7d512bc9e2eff7ccbeeed1fab30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e333b10756a18ff5331da7bfc07623b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512593,
+            "region_id":85688727,
+            "venue_id":773586181
+        }
+    ],
     "wof:id":773586181,
-    "wof:lastmodified":1472630099,
+    "wof:lastmodified":1492801056,
     "wof:name":"James Glenn Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

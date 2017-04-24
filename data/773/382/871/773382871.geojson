@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.192964,45.06528,-93.192964,45.06528",
     "geom:latitude":45.06528,
     "geom:longitude":-93.192964,
@@ -31,17 +32,34 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eUtVIhA96QgzPUSj9UvJL_45.065280_-93.192964@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585272,
-    "wof:geomhash":"286f29b08fd858e8b408d2d1550b5dc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aea09151b1dea7a456052a9b81652989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":773382871
+        }
+    ],
     "wof:id":773382871,
-    "wof:lastmodified":1472630036,
+    "wof:lastmodified":1492800019,
     "wof:name":"Family Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

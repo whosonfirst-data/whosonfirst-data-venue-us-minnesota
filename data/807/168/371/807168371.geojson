@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.051048,43.673783,-93.051048,43.673783",
     "geom:latitude":43.673783,
     "geom:longitude":-93.051048,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509663,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55Gr4qjCyETohP1jbOs4PN_43.673783_-93.051048@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604468,
-    "wof:geomhash":"e242ef9c6102c2bab6b37c9b61f37b0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca0412335d5efdc6c47bc4c0d7129710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509663,
+            "region_id":85688727,
+            "venue_id":807168371
+        }
+    ],
     "wof:id":807168371,
-    "wof:lastmodified":1472629321,
+    "wof:lastmodified":1492827029,
     "wof:name":"Theodore L Hinrichs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

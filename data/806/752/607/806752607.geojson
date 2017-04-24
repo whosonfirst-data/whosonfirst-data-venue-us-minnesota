@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.576283,44.438552,-93.576283,44.438552",
     "geom:latitude":44.438552,
     "geom:longitude":-93.576283,
@@ -32,17 +33,34 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DdkxR2PYyoU1DKede0WEw_44.438552_-93.576283@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600786,
-    "wof:geomhash":"49a5af1751941cbc57c3584b818b8721",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9daba51cb0ffbbaedf5766da59342d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":806752607
+        }
+    ],
     "wof:id":806752607,
-    "wof:lastmodified":1472629776,
+    "wof:lastmodified":1492820278,
     "wof:name":"Great Trips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.093085,46.41831,-95.093085,46.41831",
     "geom:latitude":46.41831,
     "geom:longitude":-95.093085,
@@ -36,17 +37,32 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514851,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_174p6GlPBpJsvJZzAD1unp_46.418310_-95.093085@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594906,
-    "wof:geomhash":"827e42e93bbb929cdb6d1cf5a6de0177",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f964fd7298eefd241ce2a8fc4b0819b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514851,
+            "region_id":85688727,
+            "venue_id":790318653
+        }
+    ],
     "wof:id":790318653,
-    "wof:lastmodified":1472629510,
+    "wof:lastmodified":1492837096,
     "wof:name":"Dan's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

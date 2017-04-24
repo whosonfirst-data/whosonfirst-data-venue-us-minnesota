@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.3684,44.90526,-94.3684,44.90526",
     "geom:latitude":44.90526,
     "geom:longitude":-94.3684,
@@ -33,17 +34,34 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28fjQgF8njEIdQ3dMSmOzI_44.905260_-94.368400@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597479,
-    "wof:geomhash":"0c7a672b74ba4359a340685b8616e5b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f086c6845afd56fa4e05614a0cc4d9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":806355991
+        }
+    ],
     "wof:id":806355991,
-    "wof:lastmodified":1472628956,
+    "wof:lastmodified":1492815839,
     "wof:name":"West Central Industries Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

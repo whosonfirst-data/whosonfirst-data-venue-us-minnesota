@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.399813,44.899578,-94.399813,44.899578",
     "geom:latitude":44.899578,
     "geom:longitude":-94.399813,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SLwoVC7FhEskBZ1xQtFAp_44.899578_-94.399813@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584226,
-    "wof:geomhash":"eae0062ffd08a56a7b829455e563ca94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"865cf2cfc19b22c0deb7d5bbee536562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773241557
+        }
+    ],
     "wof:id":773241557,
-    "wof:lastmodified":1472629980,
+    "wof:lastmodified":1492801297,
     "wof:name":"Nogas Tile Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

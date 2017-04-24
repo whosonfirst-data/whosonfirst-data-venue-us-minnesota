@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.368629,44.902143,-94.368629,44.902143",
     "geom:latitude":44.902143,
     "geom:longitude":-94.368629,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YsTru7l7uogSCan4tNCWp_44.902143_-94.368629@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596505,
-    "wof:geomhash":"ea91a2968d7b212d905d0c8c00e3aad2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7cca461dfe373b785e357109e9aec85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":790517027
+        }
+    ],
     "wof:id":790517027,
-    "wof:lastmodified":1472629788,
+    "wof:lastmodified":1492836104,
     "wof:name":"Seventh-Day Adventist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

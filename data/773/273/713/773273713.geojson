@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.483297,44.024254,-92.483297,44.024254",
     "geom:latitude":44.024254,
     "geom:longitude":-92.483297,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yGjwN1iprNIj2qqxCOEMq_44.024254_-92.483297@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584468,
-    "wof:geomhash":"2d465487e5e6ff2863076b00e8f9ab0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dfee219a700c374077058b0d25da4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773273713
+        }
+    ],
     "wof:id":773273713,
-    "wof:lastmodified":1472630006,
+    "wof:lastmodified":1492803089,
     "wof:name":"Hamilton Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

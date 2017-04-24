@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.984861,45.036389,-92.984861,45.036389",
     "geom:latitude":45.036389,
     "geom:longitude":-92.984861,
@@ -36,17 +37,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514473,
+        85633793,
+        85953019,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69X8dJ7AWQUCWz9W49fs7x_45.036389_-92.984861@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594489,
-    "wof:geomhash":"330630caea134b91fe6e6eed5b514a93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb24349dfd21043e1e50294bba816dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514473,
+            "locality_id":85953019,
+            "region_id":85688727,
+            "venue_id":790268731
+        }
+    ],
     "wof:id":790268731,
-    "wof:lastmodified":1472629446,
+    "wof:lastmodified":1492834787,
     "wof:name":"Jethro's Char-House & Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

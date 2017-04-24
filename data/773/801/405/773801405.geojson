@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.610063,44.041714,-91.610063,44.041714",
     "geom:latitude":44.041714,
     "geom:longitude":-91.610063,
@@ -32,17 +33,34 @@
         "humane"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kKehxaVJOwQx4RX05IBVI_44.041714_-91.610063@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588478,
-    "wof:geomhash":"4935c00b05f49798843ee6457c95e0c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c786d06ad62ba8c2f15056dd14780390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":773801405
+        }
+    ],
     "wof:id":773801405,
-    "wof:lastmodified":1472630164,
+    "wof:lastmodified":1492805213,
     "wof:name":"Winona Area Humane Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.285605,44.948342,-93.285605,44.948342",
     "geom:latitude":44.948342,
     "geom:longitude":-93.285605,
@@ -91,14 +92,15 @@
     "sg:website":"http://twincities.citysearch.com/profile/external/5583622/minneapolis_mn/sherwin_williams.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831755,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +108,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607266,
-    "wof:geomhash":"c0143e3db58a74f497fd496e3da681ec",
+    "wof:geomhash":"e3b2cacf1ac3d6e277fcd605b4cd4caa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,25 +116,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85831755,
-            "region_id":85688727,
-            "venue_id":807399235
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":807399235
         }
     ],
     "wof:id":807399235,
-    "wof:lastmodified":1472629882,
+    "wof:lastmodified":1492825423,
     "wof:name":"Sherwin-Williams",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

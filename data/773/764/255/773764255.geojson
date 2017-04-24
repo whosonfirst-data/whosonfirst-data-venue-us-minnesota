@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.858897,45.393195,-93.858897,45.393195",
     "geom:latitude":45.393195,
     "geom:longitude":-93.858897,
@@ -28,17 +29,34 @@
     "sg:postcode":"55308",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515051,
+        85633793,
+        85968831,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67OQcun6xoHi3ocJCWc85Z_45.393195_-93.858897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588201,
-    "wof:geomhash":"77353e0d43ccdb8f42d8aae46e55806a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6b68daa4753041c572f4ca821621872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515051,
+            "locality_id":85968831,
+            "region_id":85688727,
+            "venue_id":773764255
+        }
+    ],
     "wof:id":773764255,
-    "wof:lastmodified":1472630151,
+    "wof:lastmodified":1492799703,
     "wof:name":"Dean Otterson & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

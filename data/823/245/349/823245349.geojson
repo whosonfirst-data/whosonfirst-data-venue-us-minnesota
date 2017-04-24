@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.804866,44.790704,-95.804866,44.790704",
     "geom:latitude":44.790704,
     "geom:longitude":-95.804866,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510773,
+        85633793,
+        85952923,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hdErVgBDMwoWvdbQ2vmZX_44.790704_-95.804866@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609249,
-    "wof:geomhash":"bbacdc356c3908796fd93e8d08f2b961",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60a6e0edb76efb1827473719f1d98c4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510773,
+            "locality_id":85952923,
+            "region_id":85688727,
+            "venue_id":823245349
+        }
+    ],
     "wof:id":823245349,
-    "wof:lastmodified":1472629157,
+    "wof:lastmodified":1492829447,
     "wof:name":"USPS - United States Post Office - Clarkfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

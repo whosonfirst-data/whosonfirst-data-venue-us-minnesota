@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.209938,43.444333,-93.209938,43.444333",
     "geom:latitude":43.444333,
     "geom:longitude":-93.209938,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74AB3PIlfQ7s4DZHMmJipP_43.444333_-93.209938@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589286,
-    "wof:geomhash":"644d9e48095ceddec106c595e2fced7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f9ff4a3c625e35b8b74fa791c40aae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":789629203
+        }
+    ],
     "wof:id":789629203,
-    "wof:lastmodified":1472629067,
+    "wof:lastmodified":1492810556,
     "wof:name":"American Railroad Builders Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

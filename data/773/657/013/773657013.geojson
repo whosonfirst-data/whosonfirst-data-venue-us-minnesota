@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.58367,46.257439,-96.58367,46.257439",
     "geom:latitude":46.257439,
     "geom:longitude":-96.58367,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514997,
+        85633793,
+        85952501,
+        102087021
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yUZJT9l7PtMwMV6kZJbv6_46.257439_-96.583670@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587372,
-    "wof:geomhash":"c76e6e1fcf333800321b964c4eff9afe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9b21b75fe09a2189d508538e23031e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087021,
+            "localadmin_id":404514997,
+            "locality_id":85952501,
+            "region_id":85688727,
+            "venue_id":773657013
+        }
+    ],
     "wof:id":773657013,
-    "wof:lastmodified":1472630115,
+    "wof:lastmodified":1492803389,
     "wof:name":"POWR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

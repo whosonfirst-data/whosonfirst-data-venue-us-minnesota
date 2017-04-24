@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.305744,44.815871,-94.305744,44.815871",
     "geom:latitude":44.815871,
     "geom:longitude":-94.305744,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512809,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06T163maFNdw5y39I00tsS_44.815871_-94.305744@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603630,
-    "wof:geomhash":"ca1785ea61ee8aab31b59cf99b418a76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b59228959116b8df483ccecc6ad2991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512809,
+            "region_id":85688727,
+            "venue_id":807091435
+        }
+    ],
     "wof:id":807091435,
-    "wof:lastmodified":1472629153,
+    "wof:lastmodified":1492822372,
     "wof:name":"Steve & Kelly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

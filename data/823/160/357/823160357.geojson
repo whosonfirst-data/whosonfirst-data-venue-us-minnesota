@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.24501,44.899576,-93.24501,44.899576",
     "geom:latitude":44.899576,
     "geom:longitude":-93.24501,
@@ -30,14 +31,14 @@
     "sg:website":"http://www.discoversigns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872695,
+        85872551,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872551
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607803,
-    "wof:geomhash":"b5c606c438e2ccb4e150862a0da07b82",
+    "wof:geomhash":"96c77faeeba17a01e68d966527a2b802",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,25 +54,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872695,
-            "region_id":85688727,
-            "venue_id":823160357
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872551,
             "region_id":85688727,
             "venue_id":823160357
         }
     ],
     "wof:id":823160357,
-    "wof:lastmodified":1472628981,
+    "wof:lastmodified":1492831170,
     "wof:name":"Discover Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

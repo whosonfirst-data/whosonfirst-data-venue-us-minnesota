@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.674405,44.608816,-95.674405,44.608816",
     "geom:latitude":44.608816,
     "geom:longitude":-95.674405,
@@ -42,17 +43,34 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512531,
+        85633793,
+        85968555,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AYh6eJ7iv9F5cy2RtXs4z_44.608816_-95.674405@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609251,
-    "wof:geomhash":"0082c2fe6d87309870cd7d9571fe9c25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eba4835dee2ccc98d3733309aabd4ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512531,
+            "locality_id":85968555,
+            "region_id":85688727,
+            "venue_id":823245481
+        }
+    ],
     "wof:id":823245481,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492829433,
     "wof:name":"Cottonwood Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

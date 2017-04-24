@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.368264,44.905838,-94.368264,44.905838",
     "geom:latitude":44.905838,
     "geom:longitude":-94.368264,
@@ -32,17 +33,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tKOpioLEpmWTnQ1IFyIkt_44.905838_-94.368264@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597232,
-    "wof:geomhash":"765ee8ff1676cb1deee5765a01085737",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52a58c438b5aca7e47104c3b58bf4222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":790600781
+        }
+    ],
     "wof:id":790600781,
-    "wof:lastmodified":1472629907,
+    "wof:lastmodified":1492834452,
     "wof:name":"Pet Hutch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

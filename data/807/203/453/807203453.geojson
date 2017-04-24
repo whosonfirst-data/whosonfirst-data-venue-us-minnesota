@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.173154,45.517754,-93.173154,45.517754",
     "geom:latitude":45.517754,
     "geom:longitude":-93.173154,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513113,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ETGkDny1k1cgH1NTLtYlB_45.517754_-93.173154@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604830,
-    "wof:geomhash":"b9f29ca915abf23e7042d332d9a4c5cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9754e6e442eb5fcfd50b2e5f2cf7e980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513113,
+            "region_id":85688727,
+            "venue_id":807203453
+        }
+    ],
     "wof:id":807203453,
-    "wof:lastmodified":1472629417,
+    "wof:lastmodified":1492823596,
     "wof:name":"Walter Schlipp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

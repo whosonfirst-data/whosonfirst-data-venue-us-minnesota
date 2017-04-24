@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.012421,45.19604,-96.012421,45.19604",
     "geom:latitude":45.19604,
     "geom:longitude":-96.012421,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514645,
+        85633793,
+        85968651,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wg2sLs2LyPTIOfQc4cZMp_45.196040_-96.012421@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592193,
-    "wof:geomhash":"d49e64d684d547f029d56b5b3830b504",
-    "wof:hierarchy":[],
+    "wof:geomhash":"753fce3b9abd59e9bf3bf7978bdc24c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514645,
+            "locality_id":85968651,
+            "region_id":85688727,
+            "venue_id":789982837
+        }
+    ],
     "wof:id":789982837,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492813476,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

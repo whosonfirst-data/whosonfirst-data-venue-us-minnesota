@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.043588,45.026901,-95.043588,45.026901",
     "geom:latitude":45.026901,
     "geom:longitude":-95.043588,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509893,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CwOGWDO8K0ITxok25RO7c_45.026901_-95.043588@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609218,
-    "wof:geomhash":"eba6637ef528acdc32cd1d40863db0a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5630eae47dfc1db5836dc0db250fe8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509893,
+            "region_id":85688727,
+            "venue_id":823243919
+        }
+    ],
     "wof:id":823243919,
-    "wof:lastmodified":1472629168,
+    "wof:lastmodified":1492829312,
     "wof:name":"Hedlof Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

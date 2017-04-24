@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.673411,47.020835,-91.673411,47.020835",
     "geom:latitude":47.020835,
     "geom:longitude":-91.673411,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.lpcorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514563,
+        85633793,
+        85968577,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dJrl9DPoosIY4esg92ct6_47.020835_-91.673411@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600346,
-    "wof:geomhash":"3ccbcb86109eb006f4ac0f53c4584181",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48bbc8fcf704ea56540a39ecf4259ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514563,
+            "locality_id":85968577,
+            "region_id":85688727,
+            "venue_id":806701009
+        }
+    ],
     "wof:id":806701009,
-    "wof:lastmodified":1472629708,
+    "wof:lastmodified":1492821129,
     "wof:name":"Louisiana-Pacific Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

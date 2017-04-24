@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.718205,43.961381,-92.718205,43.961381",
     "geom:latitude":43.961381,
     "geom:longitude":-92.718205,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513725,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kbxK1Y4Vp5MMCr9o4XfxA_43.961381_-92.718205@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604533,
-    "wof:geomhash":"897d206857bd5afae0ce1a05c8866e3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16dff753fe9f0a251ad24c6ded221c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513725,
+            "region_id":85688727,
+            "venue_id":807174669
+        }
+    ],
     "wof:id":807174669,
-    "wof:lastmodified":1472629348,
+    "wof:lastmodified":1492827943,
     "wof:name":"Oak Creek Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

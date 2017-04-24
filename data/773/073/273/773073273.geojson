@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.195212,44.917971,-93.195212,44.917971",
     "geom:latitude":44.917971,
     "geom:longitude":-93.195212,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WaHXnsSRbezA4r13MbwSO_44.917971_-93.195212@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582958,
-    "wof:geomhash":"ce0226515b9162d52b56be3ecf4bf284",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2a1ff8d0b19751afcbf74db71089f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773073273
+        }
+    ],
     "wof:id":773073273,
-    "wof:lastmodified":1472629501,
+    "wof:lastmodified":1492807692,
     "wof:name":"Ford Local No 879 U A W",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

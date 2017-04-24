@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.531612,44.794138,-93.531612,44.794138",
     "geom:latitude":44.794138,
     "geom:longitude":-93.531612,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZVVAKmJXRiCnjIdPBsfxc_44.794138_-93.531612@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604912,
-    "wof:geomhash":"712aaad4c8bdbae0ccd1d91201d208da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e946f683da83eca48abb7461acc9272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":807211309
+        }
+    ],
     "wof:id":807211309,
-    "wof:lastmodified":1472629417,
+    "wof:lastmodified":1492822348,
     "wof:name":"Lakeside Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

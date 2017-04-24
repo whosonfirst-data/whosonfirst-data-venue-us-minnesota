@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.627923,47.764507,-96.627923,47.764507",
     "geom:latitude":47.764507,
     "geom:longitude":-96.627923,
@@ -32,17 +33,26 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g4qwkaKQhGKz7mYsp71JD_47.764507_-96.627923@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589320,
-    "wof:geomhash":"c30718544e278430ef117dfdbe1f74cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d252574d60ddb9c94f28abab77f8e586",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":789632653
+        }
+    ],
     "wof:id":789632653,
-    "wof:lastmodified":1472629077,
+    "wof:lastmodified":1492811924,
     "wof:name":"Caterpillar Equipment",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

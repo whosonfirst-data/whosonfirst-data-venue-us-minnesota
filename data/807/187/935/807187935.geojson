@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.851934,43.935793,-92.851934,43.935793",
     "geom:latitude":43.935793,
     "geom:longitude":-92.851934,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509565,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fbj9Yo1ea9Iu76KyFgarj_43.935793_-92.851934@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604670,
-    "wof:geomhash":"2542a02d9e498d5cd8641281d1c7d58b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"907dce6eb36aa8e2d2945f62f8d7c490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404509565,
+            "region_id":85688727,
+            "venue_id":807187935
+        }
+    ],
     "wof:id":807187935,
-    "wof:lastmodified":1472629405,
+    "wof:lastmodified":1492825879,
     "wof:name":"Hoebings Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

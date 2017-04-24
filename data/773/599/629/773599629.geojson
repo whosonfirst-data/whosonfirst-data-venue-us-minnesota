@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.890306,47.498339,-94.890306,47.498339",
     "geom:latitude":47.498339,
     "geom:longitude":-94.890306,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kKosX25g7fBBbB7ELbu1J_47.498339_-94.890306@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586940,
-    "wof:geomhash":"ab669a96a5860ab8f3c4581dcea78d64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"684fa6ea90163ebb28efa8a3beb218ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":773599629
+        }
+    ],
     "wof:id":773599629,
-    "wof:lastmodified":1472630109,
+    "wof:lastmodified":1492800494,
     "wof:name":"Balsam Sls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

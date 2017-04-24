@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.183006,48.130182,-96.183006,48.130182",
     "geom:latitude":48.130182,
     "geom:longitude":-96.183006,
@@ -32,17 +33,34 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BHaBF2AQISNKGXMN2h25x_48.130182_-96.183006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583818,
-    "wof:geomhash":"364f6bd8fb6776440d987cf2db733666",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ad29c2df9d12459e4710ed3ff292e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773186883
+        }
+    ],
     "wof:id":773186883,
-    "wof:lastmodified":1472629959,
+    "wof:lastmodified":1492806549,
     "wof:name":"Falls DAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

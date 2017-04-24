@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.880185,47.490949,-94.880185,47.490949",
     "geom:latitude":47.490949,
     "geom:longitude":-94.880185,
@@ -31,17 +32,34 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58NAqfRBperrZzznSwQDB5_47.490949_-94.880185@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594502,
-    "wof:geomhash":"90ee20d29ea113d3253e24edb11ca518",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f1beb62cc19216b849903c2e3afb930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":790270233
+        }
+    ],
     "wof:id":790270233,
-    "wof:lastmodified":1472629442,
+    "wof:lastmodified":1492834404,
     "wof:name":"Forestry Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

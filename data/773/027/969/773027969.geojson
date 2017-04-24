@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.169526,48.678654,-96.169526,48.678654",
     "geom:latitude":48.678654,
     "geom:longitude":-96.169526,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512919,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66U5KTkQd8H1ljP8LHLjes_48.678654_-96.169526@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582549,
-    "wof:geomhash":"8eee11113b2b65091df4c22ae1225529",
-    "wof:hierarchy":[],
+    "wof:geomhash":"819aa1fc486f89f80f1b0288fedce33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512919,
+            "region_id":85688727,
+            "venue_id":773027969
+        }
+    ],
     "wof:id":773027969,
-    "wof:lastmodified":1472629202,
+    "wof:lastmodified":1492807507,
     "wof:name":"Kurt Dvergsten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

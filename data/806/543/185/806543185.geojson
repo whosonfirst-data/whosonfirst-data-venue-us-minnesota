@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.455344,46.542843,-94.455344,46.542843",
     "geom:latitude":46.542843,
     "geom:longitude":-94.455344,
@@ -37,17 +38,32 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509389,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3etq3S80HApnRxnX1cfcvq_46.542843_-94.455344@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598984,
-    "wof:geomhash":"8aba0ad97749224437ea9da5e328b2f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6262df33a087a3d031a5f2b33d111901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509389,
+            "region_id":85688727,
+            "venue_id":806543185
+        }
+    ],
     "wof:id":806543185,
-    "wof:lastmodified":1472629391,
+    "wof:lastmodified":1492815816,
     "wof:name":"Northland Meadows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

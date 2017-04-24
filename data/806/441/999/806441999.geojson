@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.748107,45.823478,-94.748107,45.823478",
     "geom:latitude":45.823478,
     "geom:longitude":-94.748107,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510863,
+        85633793,
+        85968391,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cMEtc0zU55L2KM9PZJ6rI_45.823478_-94.748107@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598183,
-    "wof:geomhash":"350cd9675b7d6de91f22dfb49c7ee4dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cd11d40728e94559a1ae0d370a04526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404510863,
+            "locality_id":85968391,
+            "region_id":85688727,
+            "venue_id":806441999
+        }
+    ],
     "wof:id":806441999,
-    "wof:lastmodified":1472629163,
+    "wof:lastmodified":1492822113,
     "wof:name":"Grey Eagle Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

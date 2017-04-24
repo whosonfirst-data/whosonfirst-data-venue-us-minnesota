@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.834006,45.200798,-93.834006,45.200798",
     "geom:latitude":45.200798,
     "geom:longitude":-93.834006,
@@ -32,17 +33,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Hdv4HWfoXA8f5c3fH0dsw_45.200798_-93.834006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591222,
-    "wof:geomhash":"7406035b4471a515e0b6ece3d857a07a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edffff82f86529abc58c96644b5489f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":789874811
+        }
+    ],
     "wof:id":789874811,
-    "wof:lastmodified":1472629574,
+    "wof:lastmodified":1492811900,
     "wof:name":"Summerset Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

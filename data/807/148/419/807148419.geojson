@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.932766,43.716449,-95.932766,43.716449",
     "geom:latitude":43.716449,
     "geom:longitude":-95.932766,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512131,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ulnYRwhOtQXD8GZ6mtrVO_43.716449_-95.932766@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604259,
-    "wof:geomhash":"ce08dfa6edc94986b821ecfe56342615",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38af2eeba683b46e1f05b2fbc18617fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512131,
+            "region_id":85688727,
+            "venue_id":807148419
+        }
+    ],
     "wof:id":807148419,
-    "wof:lastmodified":1472629278,
+    "wof:lastmodified":1492824544,
     "wof:name":"Arends Sweer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

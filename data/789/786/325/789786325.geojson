@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.030223,44.872214,-94.030223,44.872214",
     "geom:latitude":44.872214,
     "geom:longitude":-94.030223,
@@ -32,17 +33,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512683,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TzmIvfCQr2N9C9xcuPdu2_44.872214_-94.030223@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590537,
-    "wof:geomhash":"cd91105e3c743f39842073b44857cc66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a7805cd6f02ea02cb35b23f4754f7af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512683,
+            "region_id":85688727,
+            "venue_id":789786325
+        }
+    ],
     "wof:id":789786325,
-    "wof:lastmodified":1472629356,
+    "wof:lastmodified":1492809726,
     "wof:name":"Engelke Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

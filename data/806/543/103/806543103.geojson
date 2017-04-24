@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.021961,44.88383,-94.021961,44.88383",
     "geom:latitude":44.88383,
     "geom:longitude":-94.021961,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512683,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vNXUg2vbZGSiGMS7xjE0l_44.883830_-94.021961@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598984,
-    "wof:geomhash":"5bd0cf7b10adfe0b44e45b7f898ee127",
-    "wof:hierarchy":[],
+    "wof:geomhash":"501fa2266aa395f2de4f89623a51a927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512683,
+            "region_id":85688727,
+            "venue_id":806543103
+        }
+    ],
     "wof:id":806543103,
-    "wof:lastmodified":1472629399,
+    "wof:lastmodified":1492815818,
     "wof:name":"R Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

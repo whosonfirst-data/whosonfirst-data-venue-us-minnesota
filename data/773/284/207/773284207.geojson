@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.485456,46.351497,-94.485456,46.351497",
     "geom:latitude":46.351497,
     "geom:longitude":-94.485456,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511757,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lPORN5cn6ULagmdzxmvou_46.351497_-94.485456@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584552,
-    "wof:geomhash":"b902fc741969396de883e41e29f9c6c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db1d8d67730b2d78d8f30dc6473ea954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511757,
+            "region_id":85688727,
+            "venue_id":773284207
+        }
+    ],
     "wof:id":773284207,
-    "wof:lastmodified":1472629996,
+    "wof:lastmodified":1492800009,
     "wof:name":"Dillenburg Residential Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

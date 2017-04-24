@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.323722,45.418082,-94.323722,45.418082",
     "geom:latitude":45.418082,
     "geom:longitude":-94.323722,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514373,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tXikCvVFyTKDtBW6rLBYm_45.418082_-94.323722@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604080,
-    "wof:geomhash":"50aa97e54ceb065a4ffff3162d23e496",
-    "wof:hierarchy":[],
+    "wof:geomhash":"741b69e47c12da97232b95ffd23083a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514373,
+            "region_id":85688727,
+            "venue_id":807132563
+        }
+    ],
     "wof:id":807132563,
-    "wof:lastmodified":1472629259,
+    "wof:lastmodified":1492827318,
     "wof:name":"Elmer Haus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

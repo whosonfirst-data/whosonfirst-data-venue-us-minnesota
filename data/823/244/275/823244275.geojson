@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.055222,45.120541,-95.055222,45.120541",
     "geom:latitude":45.120541,
     "geom:longitude":-95.055222,
@@ -42,17 +43,34 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qUZjRiWb2KIAAPUvyuwlN_45.120541_-95.055222@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609224,
-    "wof:geomhash":"f9070bac18e3e14ee22107184c002545",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bdbe4415aed77f65f27bfceaa13885c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":823244275
+        }
+    ],
     "wof:id":823244275,
-    "wof:lastmodified":1472629153,
+    "wof:lastmodified":1492830988,
     "wof:name":"The Paper Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

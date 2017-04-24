@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.037344,46.164767,-95.037344,46.164767",
     "geom:latitude":46.164767,
     "geom:longitude":-95.037344,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515205,
+        85633793,
+        85968393,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y7NXkw95imUjVtx9FLWfU_46.164767_-95.037344@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591122,
-    "wof:geomhash":"0f00f033b8d2c1fb564ff866145674b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0ba8a450f4b381418d482e432fd7c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404515205,
+            "locality_id":85968393,
+            "region_id":85688727,
+            "venue_id":789862025
+        }
+    ],
     "wof:id":789862025,
-    "wof:lastmodified":1472629530,
+    "wof:lastmodified":1492810663,
     "wof:name":"Eagle Bend Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

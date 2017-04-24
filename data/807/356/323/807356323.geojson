@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.270405,44.98296,-93.270405,44.98296",
     "geom:latitude":44.98296,
     "geom:longitude":-93.270405,
@@ -34,14 +35,15 @@
     "sg:website":"www.haute-dish.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867017,
+        1108800095,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606598,
-    "wof:geomhash":"286ea93677ef6380bb76fd2b5e21b41c",
+    "wof:geomhash":"df170888dc73fe8df23ceae4f1c4df22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,25 +59,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867017,
-            "region_id":85688727,
-            "venue_id":807356323
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
+            "microhood_id":1108800095,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":807356323
         }
     ],
     "wof:id":807356323,
-    "wof:lastmodified":1472629807,
+    "wof:lastmodified":1492822711,
     "wof:name":"HauteDish",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

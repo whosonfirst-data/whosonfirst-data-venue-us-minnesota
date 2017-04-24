@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.52149,44.035688,-92.52149,44.035688",
     "geom:latitude":44.035688,
     "geom:longitude":-92.52149,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rfN1DiQ3nyvqNeLp7gZkz_44.035688_-92.521490@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584472,
-    "wof:geomhash":"515709ffd45cf56fe5b688b57829bac0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34fb579f553ca542f53ce49ea7d924bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773274349
+        }
+    ],
     "wof:id":773274349,
-    "wof:lastmodified":1472629996,
+    "wof:lastmodified":1492799165,
     "wof:name":"Mapleview Community Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

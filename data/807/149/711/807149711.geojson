@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.578641,43.635119,-95.578641,43.635119",
     "geom:latitude":43.635119,
     "geom:longitude":-95.578641,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WqdDMylz3TPu2MOqtbhZ8_43.635119_-95.578641@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604271,
-    "wof:geomhash":"f1487f7891da79823bec26844a78862d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac186a105e05958815779ae747b6f093",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":807149711
+        }
+    ],
     "wof:id":807149711,
-    "wof:lastmodified":1472629280,
+    "wof:lastmodified":1492827539,
     "wof:name":"Obermoller Heinz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

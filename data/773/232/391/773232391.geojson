@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.679369,44.973389,-93.679369,44.973389",
     "geom:latitude":44.973389,
     "geom:longitude":-93.679369,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511889,
+        85633793,
+        85969155,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k64N6XOkPZTD8Wx2lNaRI_44.973389_-93.679369@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584162,
-    "wof:geomhash":"5e5cdd2cc186fac91bc41a2a37f0edb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a46957c1aa26c42d5b489873df488822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":773232391
+        }
+    ],
     "wof:id":773232391,
-    "wof:lastmodified":1472629969,
+    "wof:lastmodified":1492799067,
     "wof:name":"MST Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

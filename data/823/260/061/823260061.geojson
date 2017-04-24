@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.521481,48.578023,-96.521481,48.578023",
     "geom:latitude":48.578023,
     "geom:longitude":-96.521481,
@@ -53,17 +54,34 @@
     ],
     "sg:website":"http://www.truevalue.com/karlstad",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514127,
+        85633793,
+        85953247,
+        102087613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TkIvihg8rK5UHwP8hNkxE_48.578023_-96.521481@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609553,
-    "wof:geomhash":"cc95fcbe852f4ee0b4a10680256b926c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70ccf741b0b8d395d3aeef51fbacda26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087613,
+            "localadmin_id":404514127,
+            "locality_id":85953247,
+            "region_id":85688727,
+            "venue_id":823260061
+        }
+    ],
     "wof:id":823260061,
-    "wof:lastmodified":1472629187,
+    "wof:lastmodified":1492828522,
     "wof:name":"Karlstad True Value Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

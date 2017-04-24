@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.655799,45.624544,-93.655799,45.624544",
     "geom:latitude":45.624544,
     "geom:longitude":-93.655799,
@@ -31,17 +32,32 @@
         "government"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512547,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39dx3HBcKYdzS1AyKb2zxf_45.625002_-93.655853@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604139,
-    "wof:geomhash":"68e7d4cf3653896d3b9ba62fc3d0a2ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0fa276ac48ac488b92c586849f98d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512547,
+            "region_id":85688727,
+            "venue_id":807137807
+        }
+    ],
     "wof:id":807137807,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492824162,
     "wof:name":"Greenbush Government Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

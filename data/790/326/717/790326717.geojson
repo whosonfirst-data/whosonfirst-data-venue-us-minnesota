@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.00677,44.156816,-94.00677,44.156816",
     "geom:latitude":44.156816,
     "geom:longitude":-94.00677,
@@ -32,17 +33,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X06a60YVR6Wtvd3pZaFpW_44.156816_-94.006770@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594968,
-    "wof:geomhash":"269b47af6c3b8f710451e2c1522105ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63bacaecc94ac49738c341945042fa95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":790326717
+        }
+    ],
     "wof:id":790326717,
-    "wof:lastmodified":1472629515,
+    "wof:lastmodified":1492838031,
     "wof:name":"Military Science & Leadership",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

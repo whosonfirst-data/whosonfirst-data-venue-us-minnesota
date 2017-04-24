@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.917921,44.784019,-93.917921,44.784019",
     "geom:latitude":44.784019,
     "geom:longitude":-93.917921,
@@ -31,17 +32,34 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511701,
+        85633793,
+        85953355,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28N37nD585QJu0bhJcUw2d_44.784019_-93.917921@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585184,
-    "wof:geomhash":"3133e123af4c0198c06db0520fe7a379",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e103692dde79051534a85075c8f6a7ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511701,
+            "locality_id":85953355,
+            "region_id":85688727,
+            "venue_id":773370503
+        }
+    ],
     "wof:id":773370503,
-    "wof:lastmodified":1472630025,
+    "wof:lastmodified":1492800217,
     "wof:name":"Kraemer Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

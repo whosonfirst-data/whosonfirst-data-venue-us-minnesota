@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.819273,44.442541,-93.819273,44.442541",
     "geom:latitude":44.442541,
     "geom:longitude":-93.819273,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509709,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ge97KIERrtCdQTzdEL5kp_44.442541_-93.819273@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604340,
-    "wof:geomhash":"5c455d42ca66d1cf3d362e742d0ede2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa33c2e220d44bf2e587d96f83549374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404509709,
+            "region_id":85688727,
+            "venue_id":807157133
+        }
+    ],
     "wof:id":807157133,
-    "wof:lastmodified":1472629288,
+    "wof:lastmodified":1492825565,
     "wof:name":"Ann & Dale Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

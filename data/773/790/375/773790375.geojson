@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.097598,44.925027,-93.097598,44.925027",
     "geom:latitude":44.925027,
     "geom:longitude":-93.097598,
@@ -34,19 +35,40 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800635,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VULV00DqO1KbmgbTMc5Ed_44.925027_-93.097598@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588392,
-    "wof:geomhash":"bdbbedfbbc335c66859b263c7ca48c6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"189747aa95031756576dd23329d55b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800635,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773790375
+        }
+    ],
     "wof:id":773790375,
-    "wof:lastmodified":1472630160,
+    "wof:lastmodified":1492808892,
     "wof:name":"Amtech Equipment Maintenance",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.999686,45.029435,-92.999686,45.029435",
     "geom:latitude":45.029435,
     "geom:longitude":-92.999686,
@@ -28,17 +29,34 @@
     "sg:postcode":"55109",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514453,
+        85633793,
+        85953111,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J9SssE8czQRgWJTVhBxqR_45.029435_-92.999686@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602489,
-    "wof:geomhash":"0784b76cd69090ddcefb05a01d68de37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b524cb7dbe3e7ea138507ecee76ce3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514453,
+            "locality_id":85953111,
+            "region_id":85688727,
+            "venue_id":806955303
+        }
+    ],
     "wof:id":806955303,
-    "wof:lastmodified":1472629949,
+    "wof:lastmodified":1492817162,
     "wof:name":"Cardinal Engineering Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

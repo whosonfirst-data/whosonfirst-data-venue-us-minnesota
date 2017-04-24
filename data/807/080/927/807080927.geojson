@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.879738,47.488891,-92.879738,47.488891",
     "geom:latitude":47.488891,
     "geom:longitude":-92.879738,
@@ -31,17 +32,36 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ByMgHwhLvVOeAhd4nRrlV_47.488891_-92.879738@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603540,
-    "wof:geomhash":"a26b9555ad29845ce042b621e81ed4b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b194e1772f5c6ac9cd6827955877907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":807080927
+        }
+    ],
     "wof:id":807080927,
-    "wof:lastmodified":1472629103,
+    "wof:lastmodified":1492825319,
     "wof:name":"Mid Range Veterinary Clinic",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

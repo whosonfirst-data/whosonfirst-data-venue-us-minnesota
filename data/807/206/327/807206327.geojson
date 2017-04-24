@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.718047,44.078922,-93.718047,44.078922",
     "geom:latitude":44.078922,
     "geom:longitude":-93.718047,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510935,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kczVk8fhRaRA233veTw91_44.078922_-93.718047@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604861,
-    "wof:geomhash":"a18ce2e169ea411f6e409c9895fe229b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e50591dc1215ae581cdf2c4228bed014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404510935,
+            "region_id":85688727,
+            "venue_id":807206327
+        }
+    ],
     "wof:id":807206327,
-    "wof:lastmodified":1472629415,
+    "wof:lastmodified":1492823703,
     "wof:name":"Gottschalk Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

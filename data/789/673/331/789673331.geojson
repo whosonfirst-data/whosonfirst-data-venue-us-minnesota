@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.751694,43.808105,-91.751694,43.808105",
     "geom:latitude":43.808105,
     "geom:longitude":-91.751694,
@@ -31,17 +32,34 @@
         "consulting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iv7ogOjTGGdX9yGoDJ8aO_43.808105_-91.751694@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589650,
-    "wof:geomhash":"3725047d1ad61c0ada9f4452b954bb2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af50cf98221790022cc5dd2ca87800f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":789673331
+        }
+    ],
     "wof:id":789673331,
-    "wof:lastmodified":1472629138,
+    "wof:lastmodified":1492811578,
     "wof:name":"Child Centered Counseling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.719665,43.741741,-93.719665,43.741741",
     "geom:latitude":43.741741,
     "geom:longitude":-93.719665,
@@ -39,17 +40,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509619,
+        85633793,
+        85952579,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55gZPva4Uuegb1g69tocpn_43.741741_-93.719665@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583991,
-    "wof:geomhash":"6fda40f3edead4c17e0f2ba49081c065",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1b5105afc44c5323162bb5c48be0473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509619,
+            "locality_id":85952579,
+            "region_id":85688727,
+            "venue_id":773209207
+        }
+    ],
     "wof:id":773209207,
-    "wof:lastmodified":1472629948,
+    "wof:lastmodified":1492803449,
     "wof:name":"Gordon Martin Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

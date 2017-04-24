@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.608171,45.303053,-93.608171,45.303053",
     "geom:latitude":45.303053,
     "geom:longitude":-93.608171,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"http://www.cymbet.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515103,
+        85633793,
+        85968825,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eyYjCmEdGEl87KrVs2TRI_45.303053_-93.608171@1308186497"
     },
     "wof:country":"US",
     "wof:created":1462609567,
-    "wof:geomhash":"9cc6db965bc88aaf35c2ffce8e965e3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18b2dddaf8b59f9d0fffe9b203be7154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515103,
+            "locality_id":85968825,
+            "region_id":85688727,
+            "venue_id":823260823
+        }
+    ],
     "wof:id":823260823,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492828543,
     "wof:name":"Cymbet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

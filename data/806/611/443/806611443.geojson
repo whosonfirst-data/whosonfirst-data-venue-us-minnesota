@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.340042,45.018117,-93.340042,45.018117",
     "geom:latitude":45.018117,
     "geom:longitude":-93.340042,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iKWd0dV695b8k2W7dsFwy_45.018117_-93.340042@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599576,
-    "wof:geomhash":"cda53affc57760ceb012d9027d7396fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"deaaace8e29cf26518fb2c5c3eec490c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":806611443
+        }
+    ],
     "wof:id":806611443,
-    "wof:lastmodified":1472629555,
+    "wof:lastmodified":1492813902,
     "wof:name":"Higgins Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

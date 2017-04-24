@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.704418,45.256864,-93.704418,45.256864",
     "geom:latitude":45.256864,
     "geom:longitude":-93.704418,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XbKYgED5SMJQvW9K6IIdn_45.256864_-93.704418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593822,
-    "wof:geomhash":"1f4048786b74ba39b0563b3e9504217e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42f39f625c76394bda295a231157986b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":790185711
+        }
+    ],
     "wof:id":790185711,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492834016,
     "wof:name":"Robert Rothstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

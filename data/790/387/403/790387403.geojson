@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.890764,47.48805,-94.890764,47.48805",
     "geom:latitude":47.48805,
     "geom:longitude":-94.890764,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Op2fi5RLNqDGLXlO0UBHO_47.488050_-94.890764@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595439,
-    "wof:geomhash":"fcff0c8c33c1e81eeca2d4cd703e0b7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db8a87bf6d217262cd603008d80677f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":790387403
+        }
+    ],
     "wof:id":790387403,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492833268,
     "wof:name":"Delton Manor Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

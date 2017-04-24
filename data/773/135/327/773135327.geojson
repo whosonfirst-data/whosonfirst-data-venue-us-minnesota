@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.312401,45.189454,-95.312401,45.189454",
     "geom:latitude":45.189454,
     "geom:longitude":-95.312401,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514669,
+        85633793,
+        85968623,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S1PwUOJk7zF7GHDGaO2O7_45.189454_-95.312401@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583399,
-    "wof:geomhash":"c71486d4aedfd938ec3ab06eb8ee2ed9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7ff8264b3961f9b95f07caac03eb7c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514669,
+            "locality_id":85968623,
+            "region_id":85688727,
+            "venue_id":773135327
+        }
+    ],
     "wof:id":773135327,
-    "wof:lastmodified":1472629686,
+    "wof:lastmodified":1492801767,
     "wof:name":"Amoco Food Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

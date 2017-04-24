@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.351463,44.904309,-93.351463,44.904309",
     "geom:latitude":44.904309,
     "geom:longitude":-93.351463,
@@ -33,17 +34,34 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sIDFrFtbmsTRM1bWFH7OE_44.904309_-93.351463@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594888,
-    "wof:geomhash":"c55998369ed3e9514a34ceae76b2da38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1555cf07528366b1f74ddd65ac761b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":790315901
+        }
+    ],
     "wof:id":790315901,
-    "wof:lastmodified":1472629507,
+    "wof:lastmodified":1492833672,
     "wof:name":"Financial Network Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

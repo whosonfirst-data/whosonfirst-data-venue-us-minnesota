@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.4609,44.01929,-92.4609,44.01929",
     "geom:latitude":44.01929,
     "geom:longitude":-92.4609,
@@ -33,17 +34,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rwmb1REvnpSz61YeMbDef_44.019290_-92.460900@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584760,
-    "wof:geomhash":"9d99744e12817e2f2a7042a33ef1dc1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3588c998cb68155ec4e29e1b6f6a7f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773309701
+        }
+    ],
     "wof:id":773309701,
-    "wof:lastmodified":1472630011,
+    "wof:lastmodified":1492802976,
     "wof:name":"Olmsted County Jail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

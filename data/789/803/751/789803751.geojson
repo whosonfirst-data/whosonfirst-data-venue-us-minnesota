@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.507027,47.299177,-96.507027,47.299177",
     "geom:latitude":47.299177,
     "geom:longitude":-96.507027,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510277,
+        85633793,
+        85968341,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tDoZTVtOCKRDD9wHfU8yZ_47.299177_-96.507027@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590666,
-    "wof:geomhash":"e82695ab8746c43ca8ae40c8e53beca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c68b38012b2a87b1d035ebf7240485d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404510277,
+            "locality_id":85968341,
+            "region_id":85688727,
+            "venue_id":789803751
+        }
+    ],
     "wof:id":789803751,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492813522,
     "wof:name":"Ada Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223005,45.082736,-93.223005,45.082736",
     "geom:latitude":45.082736,
     "geom:longitude":-93.223005,
@@ -34,17 +35,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4106ZC9hfUTXHGo1EC8sBv_45.082736_-93.223005@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599289,
-    "wof:geomhash":"1899480d2ca82b12801ab27cdc11e350",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5adf27c9e2525e5260d7e60300ba4b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":806577545
+        }
+    ],
     "wof:id":806577545,
-    "wof:lastmodified":1472629491,
+    "wof:lastmodified":1492816338,
     "wof:name":"Mobile Home Water Hydrant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

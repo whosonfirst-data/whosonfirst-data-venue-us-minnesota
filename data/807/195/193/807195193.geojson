@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.294329,44.644856,-94.294329,44.644856",
     "geom:latitude":44.644856,
     "geom:longitude":-94.294329,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512819,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tGjbU8u3Fhn414WRRNcTv_44.644856_-94.294329@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604744,
-    "wof:geomhash":"cc364b9d3d374635c6e88e4becf46eec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37e5f4adb54c5ccb1fc39cf7233beb35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512819,
+            "region_id":85688727,
+            "venue_id":807195193
+        }
+    ],
     "wof:id":807195193,
-    "wof:lastmodified":1472629383,
+    "wof:lastmodified":1492826629,
     "wof:name":"Schatz Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

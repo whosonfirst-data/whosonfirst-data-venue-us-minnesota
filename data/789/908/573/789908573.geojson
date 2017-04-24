@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.050208,46.940284,-95.050208,46.940284",
     "geom:latitude":46.940284,
     "geom:longitude":-95.050208,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JGklKq9AmOuOt0jGxW53g_46.940284_-95.050208@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591522,
-    "wof:geomhash":"742922814f2a008e350816029aa24654",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd6e0ad67f894db6ab86c002f96407b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":789908573
+        }
+    ],
     "wof:id":789908573,
-    "wof:lastmodified":1472629609,
+    "wof:lastmodified":1492809604,
     "wof:name":"Shaver Lymburner Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

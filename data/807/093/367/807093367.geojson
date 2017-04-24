@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.532627,44.616061,-93.532627,44.616061",
     "geom:latitude":44.616061,
     "geom:longitude":-93.532627,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514985,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ciq3uZXmA1vy2YotV8oea_44.616061_-93.532627@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603648,
-    "wof:geomhash":"8a995d90258141b7522cea293d2d44b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"167b7a3d3d5112156f615e58cd0238a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514985,
+            "region_id":85688727,
+            "venue_id":807093367
+        }
+    ],
     "wof:id":807093367,
-    "wof:lastmodified":1472629175,
+    "wof:lastmodified":1492827272,
     "wof:name":"Martin Stump Removal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.72598,45.08131,-93.72598,45.08131",
     "geom:latitude":45.08131,
     "geom:longitude":-93.72598,
@@ -39,17 +40,34 @@
         "basement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511719,
+        85633793,
+        85969203,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20XiJTkUsANLF6AY1Rh6d3_45.081310_-93.725980@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606332,
-    "wof:geomhash":"647a234ffbd181759b123efc1ade4b11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df10c1101885c10621d1d11b83301c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511719,
+            "locality_id":85969203,
+            "region_id":85688727,
+            "venue_id":807338893
+        }
+    ],
     "wof:id":807338893,
-    "wof:lastmodified":1472629748,
+    "wof:lastmodified":1492824027,
     "wof:name":"Pro-Wall, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

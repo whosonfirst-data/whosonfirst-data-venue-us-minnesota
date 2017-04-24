@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.923622,45.587666,-95.923622,45.587666",
     "geom:latitude":45.587666,
     "geom:longitude":-95.923622,
@@ -33,17 +34,34 @@
         "site"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ly032DqjBpFFNHugR1iS8_45.587666_-95.923622@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593066,
-    "wof:geomhash":"799269ffc6b7e62753708a60112b3bc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6b63cabcd6a7da5ab0723e836c21a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":790091495
+        }
+    ],
     "wof:id":790091495,
-    "wof:lastmodified":1472629118,
+    "wof:lastmodified":1492831484,
     "wof:name":"Woodland Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

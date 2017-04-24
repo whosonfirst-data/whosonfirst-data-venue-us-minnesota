@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.057153,45.756615,-95.057153,45.756615",
     "geom:latitude":45.756615,
     "geom:longitude":-95.057153,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510491,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CJJuS0ZgueKZKcjD9EaWV_45.756615_-95.057153@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597356,
-    "wof:geomhash":"03d446ab02bb6bf3dc5805e1d460367f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33a375ecde1c90e94f28408e737355a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510491,
+            "region_id":85688727,
+            "venue_id":790614849
+        }
+    ],
     "wof:id":790614849,
-    "wof:lastmodified":1472629919,
+    "wof:lastmodified":1492832386,
     "wof:name":"Phillip Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

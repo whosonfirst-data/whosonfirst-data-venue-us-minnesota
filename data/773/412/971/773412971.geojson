@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.11696,46.289401,-96.11696,46.289401",
     "geom:latitude":46.289401,
     "geom:longitude":-96.11696,
@@ -36,17 +37,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zTUCL1yJgCwcC9pvYC3FF_46.289401_-96.116960@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585512,
-    "wof:geomhash":"b8a0fd8c3c6009d88d6758373366e6bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5423fb3304bc2ec107ddbcbf00a1644f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":773412971
+        }
+    ],
     "wof:id":773412971,
-    "wof:lastmodified":1472630051,
+    "wof:lastmodified":1492804611,
     "wof:name":"River Bluff Apartments 1 & 2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

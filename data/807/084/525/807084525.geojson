@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.269905,44.293625,-93.269905,44.293625",
     "geom:latitude":44.293625,
     "geom:longitude":-93.269905,
@@ -28,19 +29,38 @@
     "sg:postcode":"55021",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85896877,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kmQJYcBNCBeAeeNWtOmwT_44.293625_-93.269905@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603570,
-    "wof:geomhash":"dcdf485d4ba741552d1198a6cab12182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d9ab98ce46c439c22c481455a24293f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "neighbourhood_id":85896877,
+            "region_id":85688727,
+            "venue_id":807084525
+        }
+    ],
     "wof:id":807084525,
-    "wof:lastmodified":1472629094,
+    "wof:lastmodified":1492822889,
     "wof:name":"Somali Community Resettlement",
-    "wof:parent_id":-1,
+    "wof:parent_id":85896877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

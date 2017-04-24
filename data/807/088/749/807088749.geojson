@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.838117,45.196702,-93.838117,45.196702",
     "geom:latitude":45.196702,
     "geom:longitude":-93.838117,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o1mGzazNtFeQ5j520BHAL_45.196702_-93.838117@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603606,
-    "wof:geomhash":"c4fe13f4bd2f8c0b0e711a216f2b85ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f78bca9aba891a1a63b96de1413732e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":807088749
+        }
+    ],
     "wof:id":807088749,
-    "wof:lastmodified":1472629121,
+    "wof:lastmodified":1492824928,
     "wof:name":"Select Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

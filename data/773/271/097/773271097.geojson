@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.379321,45.043757,-93.379321,45.043757",
     "geom:latitude":45.043757,
     "geom:longitude":-93.379321,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k1U5FrUQc3EkZhjhDAXSW_45.043757_-93.379321@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584450,
-    "wof:geomhash":"67bd2512e457ad89b400fd5e9e5524e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3d0e3356a75f7db2666304c1f93047e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":773271097
+        }
+    ],
     "wof:id":773271097,
-    "wof:lastmodified":1472629991,
+    "wof:lastmodified":1492803441,
     "wof:name":"Express Extreme Detail",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

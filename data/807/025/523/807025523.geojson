@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.909208,45.583305,-95.909208,45.583305",
     "geom:latitude":45.583305,
     "geom:longitude":-95.909208,
@@ -31,17 +32,34 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_300M4HYHN8mlxG9XTjMYuB_45.583305_-95.909208@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603081,
-    "wof:geomhash":"3b1945916a9aa6f12cbaf01bface8be4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a689f9d816582333f2b76cdf91e7e707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":807025523
+        }
+    ],
     "wof:id":807025523,
-    "wof:lastmodified":1472628993,
+    "wof:lastmodified":1492825497,
     "wof:name":"Minnesota Cep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

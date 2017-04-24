@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.430777,43.488066,-93.430777,43.488066",
     "geom:latitude":43.488066,
     "geom:longitude":-93.430777,
@@ -26,17 +27,30 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AXnzrCksIlxiRsxzRfLo1_43.488066_-93.430777@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604313,
-    "wof:geomhash":"f064d4d7f46392222627ce2339799d00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5008fb6ba5d99af37d59fcef141c9ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "region_id":85688713,
+            "venue_id":807154177
+        }
+    ],
     "wof:id":807154177,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492823950,
     "wof:name":"David Oshiem",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

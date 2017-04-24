@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.966662,44.344104,-93.966662,44.344104",
     "geom:latitude":44.344104,
     "geom:longitude":-93.966662,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513479,
+        85633793,
+        85953469,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V2cVG2VsLWdvENHg03z8D_44.344104_-93.966662@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601568,
-    "wof:geomhash":"21717cc4cd03eca7acf85257d79f150a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa6419cbf2f62453d2b27aad861414c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513479,
+            "locality_id":85953469,
+            "region_id":85688727,
+            "venue_id":806845529
+        }
+    ],
     "wof:id":806845529,
-    "wof:lastmodified":1472629887,
+    "wof:lastmodified":1492813924,
     "wof:name":"Military Affairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

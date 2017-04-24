@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.755196,45.501505,-92.755196,45.501505",
     "geom:latitude":45.501505,
     "geom:longitude":-92.755196,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511105,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64DLGDQKTWisAMWIEQrRxJ_45.501505_-92.755196@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603422,
-    "wof:geomhash":"7a2eff5fa2e9c21490638113635cf474",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6578a4cecc9da62ab0dcb868bd1ff40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511105,
+            "region_id":85688727,
+            "venue_id":807066861
+        }
+    ],
     "wof:id":807066861,
-    "wof:lastmodified":1472629083,
+    "wof:lastmodified":1492827196,
     "wof:name":"Christiansen Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

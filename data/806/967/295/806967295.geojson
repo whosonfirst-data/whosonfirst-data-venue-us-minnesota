@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.32961,44.810622,-93.32961,44.810622",
     "geom:latitude":44.810622,
     "geom:longitude":-93.32961,
@@ -32,17 +33,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aySv8hZe3Zd6K2Drss0ex_44.810622_-93.329610@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602585,
-    "wof:geomhash":"0ad0726a733754174c60d620878d0368",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac59b491d396bebdd7ed7ddc56e696ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806967295
+        }
+    ],
     "wof:id":806967295,
-    "wof:lastmodified":1472629964,
+    "wof:lastmodified":1492817636,
     "wof:name":"US Army & Army Reserve Rcrtng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

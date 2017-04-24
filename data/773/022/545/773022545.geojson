@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.936006,43.940555,-94.936006,43.940555",
     "geom:latitude":43.940555,
     "geom:longitude":-94.936006,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"www.elizabethhouse.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511869,
+        85633793,
+        85952779,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QtriQy4atT9u8tVzcpvEI_43.940555_-94.936006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582489,
-    "wof:geomhash":"75da179aeabc2461efebc127dda63cc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d03b98a257cda8ff04bd56f62dd135c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511869,
+            "locality_id":85952779,
+            "region_id":85688727,
+            "venue_id":773022545
+        }
+    ],
     "wof:id":773022545,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492806036,
     "wof:name":"Elizabeth House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

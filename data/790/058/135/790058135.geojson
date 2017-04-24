@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.535428,48.673539,-97.535428,48.673539",
     "geom:latitude":48.673539,
     "geom:longitude":-97.535428,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404481475,
+        85633793,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PNmN45qIV2IB7GAcFjBcv_48.673539_-97.535428@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592803,
-    "wof:geomhash":"f402a4e4f2a16b3b8d0220f7b7c07d9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f20fb5433183bf03780244fdafbdfc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481475,
+            "region_id":85688525,
+            "venue_id":790058135
+        }
+    ],
     "wof:id":790058135,
-    "wof:lastmodified":1472629026,
+    "wof:lastmodified":1492836322,
     "wof:name":"St Paul's Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

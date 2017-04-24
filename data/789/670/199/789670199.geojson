@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.499732,45.100536,-93.499732,45.100536",
     "geom:latitude":45.100536,
     "geom:longitude":-93.499732,
@@ -33,17 +34,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W30AzQafJjra6Bk7NfK1b_45.100536_-93.499732@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589629,
-    "wof:geomhash":"3ecb45e5a66d0b8040de169a6df16151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f999a9570da43b425de16c0bde329db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789670199
+        }
+    ],
     "wof:id":789670199,
-    "wof:lastmodified":1472629139,
+    "wof:lastmodified":1492813498,
     "wof:name":"Digital Mix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

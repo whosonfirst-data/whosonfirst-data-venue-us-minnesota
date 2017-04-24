@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.12311,44.934351,-93.12311,44.934351",
     "geom:latitude":44.934351,
     "geom:longitude":-93.12311,
@@ -31,19 +32,40 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hDZsWs49JBN1vig8rDv1J_44.934351_-93.123110@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598789,
-    "wof:geomhash":"232a589ff419e93b25eae2f331e485ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27ecd60471cadd843bde99f0bfc56a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":806520107
+        }
+    ],
     "wof:id":806520107,
-    "wof:lastmodified":1472629349,
+    "wof:lastmodified":1492821812,
     "wof:name":"Crocus Hill Hair Down Under",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

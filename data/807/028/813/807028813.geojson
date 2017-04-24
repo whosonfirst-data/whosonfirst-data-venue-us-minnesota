@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.535421,48.594239,-97.535421,48.594239",
     "geom:latitude":48.594239,
     "geom:longitude":-97.535421,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404481475,
+        85633793,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b0wUSwwWbyiH5um1T9LQg_48.594239_-97.535421@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603114,
-    "wof:geomhash":"7d1bf346221e1ca84ab0e660febd8a64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4e6010c3d2f4d2e8688c76cecf3a8fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481475,
+            "region_id":85688525,
+            "venue_id":807028813
+        }
+    ],
     "wof:id":807028813,
-    "wof:lastmodified":1472628998,
+    "wof:lastmodified":1492823928,
     "wof:name":"Albert Markel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.537569,44.811519,-95.537569,44.811519",
     "geom:latitude":44.811519,
     "geom:longitude":-95.537569,
@@ -37,17 +38,34 @@
         "intervention"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515275,
+        85633793,
+        85952945,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UruwfG5pGkwoUo7PQvQbC_44.811519_-95.537569@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593568,
-    "wof:geomhash":"bc76d7a908249c1f11d1290cf561043d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c69e588e1e00098b538078c53fa5783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515275,
+            "locality_id":85952945,
+            "region_id":85688727,
+            "venue_id":790156573
+        }
+    ],
     "wof:id":790156573,
-    "wof:lastmodified":1472629245,
+    "wof:lastmodified":1492834401,
     "wof:name":"Pathways of West Central Minn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

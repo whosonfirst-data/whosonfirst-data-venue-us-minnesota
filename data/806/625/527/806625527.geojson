@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.644599,44.217631,-94.644599,44.217631",
     "geom:latitude":44.217631,
     "geom:longitude":-94.644599,
@@ -32,17 +33,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511475,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48DdaIL8ZhbwlKFzD2TnOj_44.217631_-94.644599@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599697,
-    "wof:geomhash":"206d08e9e07e79bd685fbe7d1c26a842",
-    "wof:hierarchy":[],
+    "wof:geomhash":"738b704c07e82427f4a4e04ea27fc610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511475,
+            "region_id":85688727,
+            "venue_id":806625527
+        }
+    ],
     "wof:id":806625527,
-    "wof:lastmodified":1472629552,
+    "wof:lastmodified":1492817569,
     "wof:name":"Stark Baseball Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

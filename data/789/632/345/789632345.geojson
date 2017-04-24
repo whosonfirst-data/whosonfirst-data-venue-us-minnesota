@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.794523,44.354988,-94.794523,44.354988",
     "geom:latitude":44.354988,
     "geom:longitude":-94.794523,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511467,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QjNJaqRTcEMIy3bLAm3DE_44.354988_-94.794523@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589313,
-    "wof:geomhash":"e79763dbfb3c9a082178e4e8b269f7d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bde1c658c3c65371d66356bebd3fbfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511467,
+            "region_id":85688727,
+            "venue_id":789632345
+        }
+    ],
     "wof:id":789632345,
-    "wof:lastmodified":1472629073,
+    "wof:lastmodified":1492811927,
     "wof:name":"Gary Schroeder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

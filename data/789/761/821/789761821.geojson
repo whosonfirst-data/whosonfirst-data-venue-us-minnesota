@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.386769,45.874064,-95.386769,45.874064",
     "geom:latitude":45.874064,
     "geom:longitude":-95.386769,
@@ -28,17 +29,34 @@
     "sg:postcode":"56308",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z0tPWyYVQ461DDgsW3aWg_45.874064_-95.386769@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590345,
-    "wof:geomhash":"a61e13f36ea5fa17871eb836fcab003d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1269d88f4817ccf9b6313a6d4d196071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":789761821
+        }
+    ],
     "wof:id":789761821,
-    "wof:lastmodified":1472629339,
+    "wof:lastmodified":1492813562,
     "wof:name":"Viking Microscope Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

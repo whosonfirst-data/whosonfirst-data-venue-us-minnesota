@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.511704,45.131025,-94.511704,45.131025",
     "geom:latitude":45.131025,
     "geom:longitude":-94.511704,
@@ -33,17 +34,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_001j0C1wVUATpLh6aV9kyh_45.131025_-94.511704@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583050,
-    "wof:geomhash":"b99a47c996580c29e46a223d05357388",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22e90b12ba65015f334ac29c58fc02be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":773085635
+        }
+    ],
     "wof:id":773085635,
-    "wof:lastmodified":1472629574,
+    "wof:lastmodified":1492800715,
     "wof:name":"Edgewood Town Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

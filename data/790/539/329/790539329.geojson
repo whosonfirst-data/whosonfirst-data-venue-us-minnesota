@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.320438,45.348779,-93.320438,45.348779",
     "geom:latitude":45.348779,
     "geom:longitude":-93.320438,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZCjTlIGkSxsKgAA5pb8rk_45.348779_-93.320438@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596695,
-    "wof:geomhash":"47ae76819ad7258359d8d004123783b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a87b67f5e981c1a13b8a31465d248e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":790539329
+        }
+    ],
     "wof:id":790539329,
-    "wof:lastmodified":1472629816,
+    "wof:lastmodified":1492835450,
     "wof:name":"S W Jones Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.081864,43.669592,-92.081864,43.669592",
     "geom:latitude":43.669592,
     "geom:longitude":-92.081864,
@@ -28,17 +29,34 @@
     "sg:postcode":"55965",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oSg8y02q4KYjxpUDPHj9I_43.669592_-92.081864@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590364,
-    "wof:geomhash":"ef53089e1bf6246feff3796518971576",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0911e785940d06fe2913ad7e78dd0572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":789764523
+        }
+    ],
     "wof:id":789764523,
-    "wof:lastmodified":1472629330,
+    "wof:lastmodified":1492809432,
     "wof:name":"Preston Eye Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

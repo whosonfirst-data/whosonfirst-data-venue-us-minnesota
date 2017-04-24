@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.061063,44.151964,-94.061063,44.151964",
     "geom:latitude":44.151964,
     "geom:longitude":-94.061063,
@@ -31,17 +32,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511569,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D552GpvojiB7Ef3813vSE_44.151964_-94.061063@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584365,
-    "wof:geomhash":"5d551f5f23a1e75bbe618a8459b5150a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e921af45a4e7e03646690768fed1847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511569,
+            "region_id":85688727,
+            "venue_id":773260327
+        }
+    ],
     "wof:id":773260327,
-    "wof:lastmodified":1472629993,
+    "wof:lastmodified":1492800132,
     "wof:name":"Barnes & Noble Booksellers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

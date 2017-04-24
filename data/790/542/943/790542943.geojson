@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.618928,44.239404,-94.618928,44.239404",
     "geom:latitude":44.239404,
     "geom:longitude":-94.618928,
@@ -32,17 +33,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511469,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ChTlXTWybbEc7yhCh0gAJ_44.239404_-94.618928@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596728,
-    "wof:geomhash":"681a02252217e1778895dffb3112be96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43156da7385af3a0872dcf73a4bbe831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511469,
+            "region_id":85688727,
+            "venue_id":790542943
+        }
+    ],
     "wof:id":790542943,
-    "wof:lastmodified":1472629821,
+    "wof:lastmodified":1492836158,
     "wof:name":"Jeff Kral Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.061432,46.26666,-95.061432,46.26666",
     "geom:latitude":46.26666,
     "geom:longitude":-95.061432,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510855,
+        85633793,
+        85968413,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f5DP3FFoCNpq3RL6XeQgk_46.266660_-95.061432@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609410,
-    "wof:geomhash":"6abe7563c48ccc2d4a2e6387447cc7cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b325491d50eb7b980a4393bf52840ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404510855,
+            "locality_id":85968413,
+            "region_id":85688727,
+            "venue_id":823253381
+        }
+    ],
     "wof:id":823253381,
-    "wof:lastmodified":1472629207,
+    "wof:lastmodified":1492829728,
     "wof:name":"Church Of Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

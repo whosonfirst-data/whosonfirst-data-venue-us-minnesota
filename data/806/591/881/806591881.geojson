@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.649799,45.753783,-93.649799,45.753783",
     "geom:latitude":45.753783,
     "geom:longitude":-93.649799,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512557,
+        85633793,
+        85969101,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g5rBhZqCJx7UVJTXmLTVv_45.753783_-93.649799@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599412,
-    "wof:geomhash":"055fed1db89e76e2a58ffcd51cc2509a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2eb037f6b8a6d1d16cb05de87c37c6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512557,
+            "locality_id":85969101,
+            "region_id":85688727,
+            "venue_id":806591881
+        }
+    ],
     "wof:id":806591881,
-    "wof:lastmodified":1472629516,
+    "wof:lastmodified":1492819804,
     "wof:name":"Pioneer Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

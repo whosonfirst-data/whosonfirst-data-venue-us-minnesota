@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.366692,45.883543,-95.366692,45.883543",
     "geom:latitude":45.883543,
     "geom:longitude":-95.366692,
@@ -44,17 +45,34 @@
     ],
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cNhXpjzvFAkJORI2HtXRl_45.883543_-95.366692@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609300,
-    "wof:geomhash":"7666e1d80d9c245af5a854864350f01d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99010880f85f43be8fca9b9c1279923c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":823248227
+        }
+    ],
     "wof:id":823248227,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492830218,
     "wof:name":"H&R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

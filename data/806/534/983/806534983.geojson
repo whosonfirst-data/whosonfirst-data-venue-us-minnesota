@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.829284,44.957355,-93.829284,44.957355",
     "geom:latitude":44.957355,
     "geom:longitude":-93.829284,
@@ -31,17 +32,34 @@
         "candle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UD32yXD8BE2zz2hhnyiwl_44.957355_-93.829284@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598914,
-    "wof:geomhash":"bfc196b2bb0a4d3ba5a29e7a3f477ef2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc319ffaf9bb9c33b554827975002633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":806534983
+        }
+    ],
     "wof:id":806534983,
-    "wof:lastmodified":1472629419,
+    "wof:lastmodified":1492820833,
     "wof:name":"Candle Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

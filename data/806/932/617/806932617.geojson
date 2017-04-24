@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.100762,44.929865,-93.100762,44.929865",
     "geom:latitude":44.929865,
     "geom:longitude":-93.100762,
@@ -28,19 +29,40 @@
     "sg:postcode":"55107",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800635,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nroKfhQ0btzIVmHLm2gWW_44.929865_-93.100762@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602295,
-    "wof:geomhash":"70d41c7712eec68e2056f604f2b0c4b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7ae8d561d35ffa47ed4966fd6906694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800635,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":806932617
+        }
+    ],
     "wof:id":806932617,
-    "wof:lastmodified":1472629944,
+    "wof:lastmodified":1492818229,
     "wof:name":"Onword Communications",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.161576,43.604827,-93.161576,43.604827",
     "geom:latitude":43.604827,
     "geom:longitude":-93.161576,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509663,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CrUlqbH50Kjtqtuc4fumj_43.604827_-93.161576@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603992,
-    "wof:geomhash":"d6413477f01de9e37483feb6e888e97c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba892e6e59768a085cad79fa31f61a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509663,
+            "region_id":85688727,
+            "venue_id":807124097
+        }
+    ],
     "wof:id":807124097,
-    "wof:lastmodified":1472629233,
+    "wof:lastmodified":1492825191,
     "wof:name":"Jim Benesh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

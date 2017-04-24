@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.348392,47.750994,-90.348392,47.750994",
     "geom:latitude":47.750994,
     "geom:longitude":-90.348392,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.homestead-cooperative.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511965,
+        85633793,
+        85953369,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OddGyOoY8Hi2zDiph74PO_47.750994_-90.348392@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599917,
-    "wof:geomhash":"5a4a5c40af6233f174a368e24342cef0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e30d223bb8f06471c9bb2e01db8f5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404511965,
+            "locality_id":85953369,
+            "region_id":85688727,
+            "venue_id":806651251
+        }
+    ],
     "wof:id":806651251,
-    "wof:lastmodified":1472629631,
+    "wof:lastmodified":1492815399,
     "wof:name":"Homestead Cooperative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

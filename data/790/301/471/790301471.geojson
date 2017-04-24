@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.796568,44.461664,-95.796568,44.461664",
     "geom:latitude":44.461664,
     "geom:longitude":-95.796568,
@@ -32,17 +33,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43MuOzAew8cviZzmokZvV7_44.461664_-95.796568@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594779,
-    "wof:geomhash":"d102cebca8697cae66016d4c2d0fb7c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6a232fa18b1c625d3b9951b935496ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":790301471
+        }
+    ],
     "wof:id":790301471,
-    "wof:lastmodified":1472629486,
+    "wof:lastmodified":1492837468,
     "wof:name":"Animal Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

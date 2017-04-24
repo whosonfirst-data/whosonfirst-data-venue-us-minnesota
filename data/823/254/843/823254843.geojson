@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.134576,46.444214,-95.134576,46.444214",
     "geom:latitude":46.444214,
     "geom:longitude":-95.134576,
@@ -47,17 +48,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514849,
+        85633793,
+        85968683,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YyJEg4QmF44L58LRgM0K0_46.444214_-95.134576@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609437,
-    "wof:geomhash":"de0dbe71a7319888092fa1cb9bc2aec6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6ef104eb18610492f7bab07bbb82ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514849,
+            "locality_id":85968683,
+            "region_id":85688727,
+            "venue_id":823254843
+        }
+    ],
     "wof:id":823254843,
-    "wof:lastmodified":1472629223,
+    "wof:lastmodified":1492830932,
     "wof:name":"Wadena Tv Center, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

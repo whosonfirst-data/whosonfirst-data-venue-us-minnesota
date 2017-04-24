@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.590268,47.139847,-95.590268,47.139847",
     "geom:latitude":47.139847,
     "geom:longitude":-95.590268,
@@ -32,17 +33,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509207,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y6LGQ6g3VgsYOfvu40wM9_47.139847_-95.590268@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609501,
-    "wof:geomhash":"ea317899ef360a6e1ccdd212997dcc38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"224e054258daff36476efdb0b094a29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404509207,
+            "region_id":85688727,
+            "venue_id":823257857
+        }
+    ],
     "wof:id":823257857,
-    "wof:lastmodified":1472629232,
+    "wof:lastmodified":1492830349,
     "wof:name":"In Grain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

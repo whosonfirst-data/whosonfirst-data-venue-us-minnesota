@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.31794,45.56472,-94.31794,45.56472",
     "geom:latitude":45.56472,
     "geom:longitude":-94.31794,
@@ -32,17 +33,34 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514493,
+        85633793,
+        85952495,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2faLb7N0yc76U1zlbhTdol_45.564720_-94.317940@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601034,
-    "wof:geomhash":"24d8201c7f359e3b8d398bd945b323fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6b8b3f353473c2d1e5f60330241dfa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514493,
+            "locality_id":85952495,
+            "region_id":85688727,
+            "venue_id":806781919
+        }
+    ],
     "wof:id":806781919,
-    "wof:lastmodified":1472629820,
+    "wof:lastmodified":1492815228,
     "wof:name":"Phillips 66 Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

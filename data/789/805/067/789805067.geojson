@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360218,43.651238,-93.360218,43.651238",
     "geom:latitude":43.651238,
     "geom:longitude":-93.360218,
@@ -28,17 +29,34 @@
     "sg:postcode":"56007",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08EsrN8j08u4QfHZnyLvTz_43.651238_-93.360218@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590677,
-    "wof:geomhash":"3207219246f3424e9e19d9906a7ef348",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9806cbe08d9da759f0add5f2bab01614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":789805067
+        }
+    ],
     "wof:id":789805067,
-    "wof:lastmodified":1472629380,
+    "wof:lastmodified":1492810214,
     "wof:name":"Wendy's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.955861,44.299464,-94.955861,44.299464",
     "geom:latitude":44.299464,
     "geom:longitude":-94.955861,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510537,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LccjQ4GiF9vwFfNpzuK1v_44.299464_-94.955861@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604699,
-    "wof:geomhash":"f4984271a0ffb67099404ba71bae01a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"739fbd150f32567ebfb9ca9032d3f52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510537,
+            "region_id":85688727,
+            "venue_id":807191029
+        }
+    ],
     "wof:id":807191029,
-    "wof:lastmodified":1472629377,
+    "wof:lastmodified":1492826449,
     "wof:name":"Ken Hemmingsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

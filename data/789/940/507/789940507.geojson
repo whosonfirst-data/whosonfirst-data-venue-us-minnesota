@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.488161,44.857305,-93.488161,44.857305",
     "geom:latitude":44.857305,
     "geom:longitude":-93.488161,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.gferster.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59hwms7QZ0uWmdEjoO9VyQ_44.857305_-93.488161@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591790,
-    "wof:geomhash":"42552a426eecbaa8cea78056a6cd0145",
-    "wof:hierarchy":[],
+    "wof:geomhash":"199b972162ba469492d81bd94be7e12e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":789940507
+        }
+    ],
     "wof:id":789940507,
-    "wof:lastmodified":1472629643,
+    "wof:lastmodified":1492813239,
     "wof:name":"Economic Intelligence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

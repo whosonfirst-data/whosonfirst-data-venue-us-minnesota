@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.763526,48.840878,-95.763526,48.840878",
     "geom:latitude":48.840878,
     "geom:longitude":-95.763526,
@@ -31,17 +32,34 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZQgItlZAaIRDSCgw5IrLk_48.840878_-95.763526@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609557,
-    "wof:geomhash":"d85ca49adb541f03145fd77b2b81f087",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77d0128f14918be604cbeecaeab74cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":823260305
+        }
+    ],
     "wof:id":823260305,
-    "wof:lastmodified":1472629210,
+    "wof:lastmodified":1492828553,
     "wof:name":"Pladson Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

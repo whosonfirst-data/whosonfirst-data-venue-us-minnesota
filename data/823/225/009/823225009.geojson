@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.412684,47.494595,-92.412684,47.494595",
     "geom:latitude":47.494595,
     "geom:longitude":-92.412684,
@@ -50,17 +51,26 @@
     ],
     "sg:website":"http://www.lennox.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62YwBttfsV6yfVdbbfhpu1_47.494595_-92.412684@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608839,
-    "wof:geomhash":"bb582a532dda4234b5d91d9ebab37dec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"108b3301337b779538933ab5bd61094e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":823225009
+        }
+    ],
     "wof:id":823225009,
-    "wof:lastmodified":1472629084,
+    "wof:lastmodified":1492828063,
     "wof:name":"Addy Heating & Refrigeration I",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

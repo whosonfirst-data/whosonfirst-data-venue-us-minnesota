@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.3929,43.68325,-92.3929,43.68325",
     "geom:latitude":43.68325,
     "geom:longitude":-92.3929,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514285,
+        85633793,
+        85953093,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W5oFGl4Zpb9dPSxOUXHP2_43.683250_-92.392900@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599061,
-    "wof:geomhash":"91cceb93061935f519eaa451445c5257",
-    "wof:hierarchy":[],
+    "wof:geomhash":"117a9e21b37fc72e562834a77f194c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514285,
+            "locality_id":85953093,
+            "region_id":85688727,
+            "venue_id":806553661
+        }
+    ],
     "wof:id":806553661,
-    "wof:lastmodified":1472629451,
+    "wof:lastmodified":1492821180,
     "wof:name":"St Ignatius Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

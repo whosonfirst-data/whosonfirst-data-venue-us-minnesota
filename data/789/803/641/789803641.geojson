@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.653802,45.75475,-93.653802,45.75475",
     "geom:latitude":45.75475,
     "geom:longitude":-93.653802,
@@ -32,17 +33,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512557,
+        85633793,
+        85969101,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65JWkWesXFl2eyHm2JcXev_45.754750_-93.653802@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590665,
-    "wof:geomhash":"061d9f78a7c29fb342c7be4d42dacd3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90f7cc20bb5144ce25440a93ed42dc74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512557,
+            "locality_id":85969101,
+            "region_id":85688727,
+            "venue_id":789803641
+        }
+    ],
     "wof:id":789803641,
-    "wof:lastmodified":1472629391,
+    "wof:lastmodified":1492813526,
     "wof:name":"Chapman Auto Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

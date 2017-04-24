@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.285195,44.797734,-94.285195,44.797734",
     "geom:latitude":44.797734,
     "geom:longitude":-94.285195,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510117,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PiML3L1zweZ5iZ50MDb9S_44.797734_-94.285195@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603713,
-    "wof:geomhash":"85e8563bf978c8a1a133beede1421204",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbcd47ec143682e9f3556ffa1c950119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510117,
+            "region_id":85688727,
+            "venue_id":807099289
+        }
+    ],
     "wof:id":807099289,
-    "wof:lastmodified":1472629185,
+    "wof:lastmodified":1492827975,
     "wof:name":"Henry Aul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

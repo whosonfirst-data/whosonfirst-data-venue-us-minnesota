@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.669829,44.60875,-95.669829,44.60875",
     "geom:latitude":44.60875,
     "geom:longitude":-95.669829,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512531,
+        85633793,
+        85968555,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J5Xodh8AgjXaxZNRd4p9f_44.608750_-95.669829@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593683,
-    "wof:geomhash":"2fcedc1a2832c909f22549edcf4bf3ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2e0163cb2574638cb57c6dd5d368994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512531,
+            "locality_id":85968555,
+            "region_id":85688727,
+            "venue_id":790169303
+        }
+    ],
     "wof:id":790169303,
-    "wof:lastmodified":1472629245,
+    "wof:lastmodified":1492832137,
     "wof:name":"English Lutheran Parsonage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

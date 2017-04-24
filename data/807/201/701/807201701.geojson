@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.938894,44.11242,-93.938894,44.11242",
     "geom:latitude":44.11242,
     "geom:longitude":-93.938894,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511549,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bbJvfslT0ajVodGCaGFt5_44.112420_-93.938894@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604815,
-    "wof:geomhash":"8efcbb327c2d7f1a62d9e98f880bf4e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e479a1339700af22513a69a6f5a0c53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511549,
+            "region_id":85688727,
+            "venue_id":807201701
+        }
+    ],
     "wof:id":807201701,
-    "wof:lastmodified":1472629419,
+    "wof:lastmodified":1492825848,
     "wof:name":"Marzinske Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

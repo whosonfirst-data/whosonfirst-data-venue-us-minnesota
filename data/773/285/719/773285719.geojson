@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.691984,43.862353,-93.691984,43.862353",
     "geom:latitude":43.862353,
     "geom:longitude":-93.691984,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510941,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3abRDINxl3p1ymhls2HKUX_43.862353_-93.691984@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584567,
-    "wof:geomhash":"0cc0aab5012907d35ee2ed4697a25ec9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7423fc8cbc9d6982cbd536efe82a71cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404510941,
+            "region_id":85688727,
+            "venue_id":773285719
+        }
+    ],
     "wof:id":773285719,
-    "wof:lastmodified":1472630016,
+    "wof:lastmodified":1492799244,
     "wof:name":"Mark Groskrevtz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

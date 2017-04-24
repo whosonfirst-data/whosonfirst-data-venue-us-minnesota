@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223784,45.088829,-93.223784,45.088829",
     "geom:latitude":45.088829,
     "geom:longitude":-93.223784,
@@ -31,17 +32,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Czgiv1irVrrT7wzofLRoi_45.088829_-93.223784@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590385,
-    "wof:geomhash":"7ce39e9cb70be9f685cdcaf1cb0f2d3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0914a6b679c2b2091945553d9703835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":789767675
+        }
+    ],
     "wof:id":789767675,
-    "wof:lastmodified":1472629340,
+    "wof:lastmodified":1492810817,
     "wof:name":"Deer Ridge Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

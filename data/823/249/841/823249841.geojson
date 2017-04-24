@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.610741,45.820992,-93.610741,45.820992",
     "geom:latitude":45.820992,
     "geom:longitude":-93.610741,
@@ -32,17 +33,32 @@
         "services-household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512541,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LExbazF6J6s7b92qroTvO_45.820992_-93.610741@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609329,
-    "wof:geomhash":"d7da042cc049a9cd17583ef802849a91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b64f23e068aecf6a97d1c3cdd08618a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512541,
+            "region_id":85688727,
+            "venue_id":823249841
+        }
+    ],
     "wof:id":823249841,
-    "wof:lastmodified":1472629172,
+    "wof:lastmodified":1492828166,
     "wof:name":"B & G Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

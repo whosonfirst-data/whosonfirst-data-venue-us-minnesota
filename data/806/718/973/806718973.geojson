@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.621154,47.371968,-92.621154,47.371968",
     "geom:latitude":47.371968,
     "geom:longitude":-92.621154,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2y5GfO0I9kwNjQT4dAkMHK_47.371968_-92.621154@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600491,
-    "wof:geomhash":"cb7d609791651436c07f356ff7ddbed4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aefcb411c35feaffc067b8ce7927d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806718973
+        }
+    ],
     "wof:id":806718973,
-    "wof:lastmodified":1472629755,
+    "wof:lastmodified":1492821174,
     "wof:name":"Rogers Towing Service",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.520833,44.803858,-95.520833,44.803858",
     "geom:latitude":44.803858,
     "geom:longitude":-95.520833,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511783,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jP9Qb4oqgDiL9EESv3VOn_44.803858_-95.520833@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595243,
-    "wof:geomhash":"a20384396db8a993773074dfe932d438",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24ca913b954f7bf1d826896c62577e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404511783,
+            "region_id":85688727,
+            "venue_id":790361993
+        }
+    ],
     "wof:id":790361993,
-    "wof:lastmodified":1472629576,
+    "wof:lastmodified":1492835353,
     "wof:name":"Baker Brothers Constr Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

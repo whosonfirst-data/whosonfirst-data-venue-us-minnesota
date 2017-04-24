@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.507404,45.10303,-93.507404,45.10303",
     "geom:latitude":45.10303,
     "geom:longitude":-93.507404,
@@ -28,17 +29,34 @@
     "sg:postcode":"55311",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EOsW3OrKGrGzqFQxtjWTY_45.103030_-93.507404@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583534,
-    "wof:geomhash":"1cde70441b41e999bf9749ef28d2b73d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"305222588651e6996e10e888efd2eca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773151595
+        }
+    ],
     "wof:id":773151595,
-    "wof:lastmodified":1472629730,
+    "wof:lastmodified":1492801089,
     "wof:name":"Bird Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

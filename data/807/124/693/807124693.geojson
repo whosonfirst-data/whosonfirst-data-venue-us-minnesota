@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.191236,44.364851,-93.191236,44.364851",
     "geom:latitude":44.364851,
     "geom:longitude":-93.191236,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512625,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DW8rIvg7D7JHa8nalcLAM_44.364851_-93.191236@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603997,
-    "wof:geomhash":"12bbb069b99e976fd871a53ae596aabd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2fe29cd8b81f3a8b83688c4e8918a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512625,
+            "region_id":85688727,
+            "venue_id":807124693
+        }
+    ],
     "wof:id":807124693,
-    "wof:lastmodified":1472629255,
+    "wof:lastmodified":1492825178,
     "wof:name":"Charles Matthies Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.318868,44.859772,-93.318868,44.859772",
     "geom:latitude":44.859772,
     "geom:longitude":-93.318868,
@@ -40,17 +41,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zebLovIKvlY1URYOUfaUV_44.859772_-93.318868@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608272,
-    "wof:geomhash":"ab8df12539899e4f6ed63f9a148d5b54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3e59097aade4dbc88f720483f2f739e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823195677
+        }
+    ],
     "wof:id":823195677,
-    "wof:lastmodified":1472629044,
+    "wof:lastmodified":1492830519,
     "wof:name":"Mari",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.981565,45.505815,-92.981565,45.505815",
     "geom:latitude":45.505815,
     "geom:longitude":-92.981565,
@@ -28,17 +29,34 @@
     "sg:postcode":"55056",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rhcIKsqTJTb2uV21YSwT6_45.505815_-92.981565@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598814,
-    "wof:geomhash":"769c0fb98030cd6c49e9037ccc9be09e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdbd5a36d2abc178c003099be53d8157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":806523785
+        }
+    ],
     "wof:id":806523785,
-    "wof:lastmodified":1472629366,
+    "wof:lastmodified":1492819725,
     "wof:name":"Training Wheels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.612661,47.462723,-92.612661,47.462723",
     "geom:latitude":47.462723,
     "geom:longitude":-92.612661,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
         85633793,
+        420525053,
+        85688727,
         85968453,
         102087653,
         85829803
@@ -44,8 +46,13 @@
     },
     "wof:country":"US",
     "wof:created":1462588997,
-    "wof:geomhash":"cdecb07cba71f69556369d3eec1b171e",
+    "wof:geomhash":"6401ef523479eef669c29c6b3e12061c",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525053,
+            "venue_id":789591521
+        },
         {
             "country_id":85633793,
             "county_id":102087653,
@@ -56,9 +63,9 @@
         }
     ],
     "wof:id":789591521,
-    "wof:lastmodified":1472628955,
+    "wof:lastmodified":1492812543,
     "wof:name":"Otava Drywall",
-    "wof:parent_id":85829803,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

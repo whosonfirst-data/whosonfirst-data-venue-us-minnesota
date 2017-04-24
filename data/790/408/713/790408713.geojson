@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.114012,43.862573,-95.114012,43.862573",
     "geom:latitude":43.862573,
     "geom:longitude":-95.114012,
@@ -38,17 +39,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qr00jOcXhfOKGnzlotLuA_43.862573_-95.114012@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595604,
-    "wof:geomhash":"9a22e40c603188de5521da0b0c07a925",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69befab6c6980eddb86b409863061aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":790408713
+        }
+    ],
     "wof:id":790408713,
-    "wof:lastmodified":1472629686,
+    "wof:lastmodified":1492831571,
     "wof:name":"Jerry's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

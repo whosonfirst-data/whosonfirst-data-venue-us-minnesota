@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.073961,46.280331,-96.073961,46.280331",
     "geom:latitude":46.280331,
     "geom:longitude":-96.073961,
@@ -36,17 +37,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U0QpT824n2eBWBrHrgNCN_46.280331_-96.073961@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594132,
-    "wof:geomhash":"2f7a5defab5f4ee7df425556a7ca55a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9395251f2016e19c622686161beb96ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":790224563
+        }
+    ],
     "wof:id":790224563,
-    "wof:lastmodified":1472629335,
+    "wof:lastmodified":1492832348,
     "wof:name":"Otter Tail Podiatry Assoc PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

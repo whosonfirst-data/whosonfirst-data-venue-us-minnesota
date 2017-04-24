@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.169194,43.688183,-94.169194,43.688183",
     "geom:latitude":43.688183,
     "geom:longitude":-94.169194,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514103,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ccwtW0AeljZYEynoYQwRR_43.688183_-94.169194@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603647,
-    "wof:geomhash":"afa440ed4249bb9f41f8efd0ebdc6bce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"158676820d3dfc4ca9a929d5c228754e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514103,
+            "region_id":85688727,
+            "venue_id":807093305
+        }
+    ],
     "wof:id":807093305,
-    "wof:lastmodified":1472629174,
+    "wof:lastmodified":1492827276,
     "wof:name":"Morris D Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

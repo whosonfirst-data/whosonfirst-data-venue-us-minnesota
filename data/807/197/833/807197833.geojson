@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.976699,48.455721,-96.976699,48.455721",
     "geom:latitude":48.455721,
     "geom:longitude":-96.976699,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510161,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ycJBOGc6sotbzVuUdV78r_48.455721_-96.976699@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604777,
-    "wof:geomhash":"7d20e7cda8147469122c32bbd31d728c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17ad501c9a63de29e86bba105737a94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510161,
+            "region_id":85688727,
+            "venue_id":807197833
+        }
+    ],
     "wof:id":807197833,
-    "wof:lastmodified":1472629409,
+    "wof:lastmodified":1492824254,
     "wof:name":"Todd Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

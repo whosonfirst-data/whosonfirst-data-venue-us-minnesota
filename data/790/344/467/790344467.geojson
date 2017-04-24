@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.523395,45.168768,-93.523395,45.168768",
     "geom:latitude":45.168768,
     "geom:longitude":-93.523395,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41h5uy8tJ2jfvbfLEAJCJ8_45.168768_-93.523395@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595096,
-    "wof:geomhash":"63a938f1190cd86acece20ea4e908fc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9100a72cc0576ff5162e3fd6af42942e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":790344467
+        }
+    ],
     "wof:id":790344467,
-    "wof:lastmodified":1472629553,
+    "wof:lastmodified":1492836139,
     "wof:name":"M X Medical Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.500744,45.61729,-95.500744,45.61729",
     "geom:latitude":45.61729,
     "geom:longitude":-95.500744,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514335,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XF1YwRaNibM4y2JunOLYS_45.617290_-95.500744@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609363,
-    "wof:geomhash":"6873ed4426652ebe2b285b962a2b2006",
-    "wof:hierarchy":[],
+    "wof:geomhash":"617b383ec64c0b8e471ad94916628f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514335,
+            "region_id":85688727,
+            "venue_id":823251551
+        }
+    ],
     "wof:id":823251551,
-    "wof:lastmodified":1472629209,
+    "wof:lastmodified":1492828261,
     "wof:name":"Minnewaska Project",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

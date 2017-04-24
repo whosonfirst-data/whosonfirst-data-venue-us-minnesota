@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.389241,43.646596,-93.389241,43.646596",
     "geom:latitude":43.646596,
     "geom:longitude":-93.389241,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rxHA7wAAXACj3tXYTSwye_43.646596_-93.389241@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584150,
-    "wof:geomhash":"1b27efb6c4f403f918d1c4edfe6f5e76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a068d67e82a61dd630d28517580f6b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":773231039
+        }
+    ],
     "wof:id":773231039,
-    "wof:lastmodified":1472629958,
+    "wof:lastmodified":1492807261,
     "wof:name":"Childens House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

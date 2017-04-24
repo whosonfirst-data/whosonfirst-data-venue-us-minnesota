@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.273093,44.874023,-93.273093,44.874023",
     "geom:latitude":44.874023,
     "geom:longitude":-93.273093,
@@ -32,17 +33,34 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HYbb2tJnu0coeMKprtObF_44.874023_-93.273093@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608042,
-    "wof:geomhash":"5bce9d4e6253d9fae6d833e084b5814b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abbf0050e97965668be233f30b4b5100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823178379
+        }
+    ],
     "wof:id":823178379,
-    "wof:lastmodified":1472629008,
+    "wof:lastmodified":1492829008,
     "wof:name":"Glen Ruds Small Engine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

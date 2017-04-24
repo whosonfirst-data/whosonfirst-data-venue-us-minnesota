@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.488825,44.051882,-92.488825,44.051882",
     "geom:latitude":44.051882,
     "geom:longitude":-92.488825,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MboTXYQUhkfYI5xUqkaRr_44.051882_-92.488825@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591885,
-    "wof:geomhash":"4982e9c4111749c436e9d4421c147bed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7504c33bc764c9b49858bd1c7934a244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789947875
+        }
+    ],
     "wof:id":789947875,
-    "wof:lastmodified":1472629651,
+    "wof:lastmodified":1492812237,
     "wof:name":"Church In Rochester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

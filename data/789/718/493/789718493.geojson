@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.770443,43.522484,-91.770443,43.522484",
     "geom:latitude":43.522484,
     "geom:longitude":-91.770443,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509637,
+        85633793,
+        85953171,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32KopgtHEWv9Tp3hAt5mtB_43.522484_-91.770443@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589998,
-    "wof:geomhash":"ddf33ee77b25949fb0e422abc48b1f0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f83b62fb122b02bc266ee25eeae30e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509637,
+            "locality_id":85953171,
+            "region_id":85688727,
+            "venue_id":789718493
+        }
+    ],
     "wof:id":789718493,
-    "wof:lastmodified":1472629252,
+    "wof:lastmodified":1492813367,
     "wof:name":"Pit Stop Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

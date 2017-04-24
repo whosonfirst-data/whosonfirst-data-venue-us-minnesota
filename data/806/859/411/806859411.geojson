@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.705785,45.172103,-93.705785,45.172103",
     "geom:latitude":45.172103,
     "geom:longitude":-93.705785,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RnPLOYmp36cBiJ1RoR1Sn_45.172103_-93.705785@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601686,
-    "wof:geomhash":"8d5bffd170d77747f8e67badf4737482",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dfae6c62caeed76416832d8a909dd0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":806859411
+        }
+    ],
     "wof:id":806859411,
-    "wof:lastmodified":1472629900,
+    "wof:lastmodified":1492821707,
     "wof:name":"Diamond Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

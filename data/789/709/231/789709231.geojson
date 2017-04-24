@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.254654,48.296734,-97.254654,48.296734",
     "geom:latitude":48.296734,
     "geom:longitude":-97.254654,
@@ -31,17 +32,32 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404482043,
+        85633793,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DN5ec2WwOP51w5ddlfVqC_48.296734_-97.254654@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589928,
-    "wof:geomhash":"1e60059ff07a73ad0a86771a7dfec567",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4736f6bd634995e55c2318e8c6f26364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404482043,
+            "region_id":85688525,
+            "venue_id":789709231
+        }
+    ],
     "wof:id":789709231,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492813769,
     "wof:name":"Polski Dom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

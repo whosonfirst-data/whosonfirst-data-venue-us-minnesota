@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.431091,45.088508,-94.431091,45.088508",
     "geom:latitude":45.088508,
     "geom:longitude":-94.431091,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512387,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LKCdCpP9H0iez8UMmYWV1_45.088508_-94.431091@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585866,
-    "wof:geomhash":"f6ec23cd39700f699e2ea7e6b76f0b27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03859de4d3439d93b9d2c7139dffb51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512387,
+            "region_id":85688727,
+            "venue_id":773453611
+        }
+    ],
     "wof:id":773453611,
-    "wof:lastmodified":1472630061,
+    "wof:lastmodified":1492799816,
     "wof:name":"Nelson-Pease Distributing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

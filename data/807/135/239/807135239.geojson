@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.606628,47.773995,-96.606628,47.773995",
     "geom:latitude":47.773995,
     "geom:longitude":-96.606628,
@@ -35,17 +36,26 @@
     ],
     "sg:website":"http://www.crookston.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z2LWW4S88YFJtw48MuWDz_47.774427_-96.606222@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604110,
-    "wof:geomhash":"713b389639dc9c26db27609d6795e653",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87fb7a6815271f52aca369dddcfb1e85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":807135239
+        }
+    ],
     "wof:id":807135239,
-    "wof:lastmodified":1472629243,
+    "wof:lastmodified":1492823764,
     "wof:name":"Water Dept",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

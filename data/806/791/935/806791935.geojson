@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.964589,45.296666,-94.964589,45.296666",
     "geom:latitude":45.296666,
     "geom:longitude":-94.964589,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513943,
+        85633793,
+        85953219,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ISr5OrRbj0r2Sma3s9NUW_45.296666_-94.964589@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601119,
-    "wof:geomhash":"f0e81ca046526e192f98147c2841e058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d390e9db88c5fc56feadf34902470a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513943,
+            "locality_id":85953219,
+            "region_id":85688727,
+            "venue_id":806791935
+        }
+    ],
     "wof:id":806791935,
-    "wof:lastmodified":1472629842,
+    "wof:lastmodified":1492818412,
     "wof:name":"Pheasants Forever",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

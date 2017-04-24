@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.855894,47.455619,-93.855894,47.455619",
     "geom:latitude":47.455619,
     "geom:longitude":-93.855894,
@@ -32,17 +33,32 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509819,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DnJ903vNz6gvEbdyXWkHH_47.455619_-93.855894@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588786,
-    "wof:geomhash":"3f184a2e7b86307c24afeba3c6b36ee3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"717777f79add889727bb96200a828f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404509819,
+            "region_id":85688727,
+            "venue_id":773837923
+        }
+    ],
     "wof:id":773837923,
-    "wof:lastmodified":1472630172,
+    "wof:lastmodified":1492803588,
     "wof:name":"East Winnie Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

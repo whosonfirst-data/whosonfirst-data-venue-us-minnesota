@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.496739,43.898741,-93.496739,43.898741",
     "geom:latitude":43.898741,
     "geom:longitude":-93.496739,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510939,
+        85633793,
+        85953075,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60WymlIXFB4p1YKLF9IXp3_43.898741_-93.496739@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598245,
-    "wof:geomhash":"8689360f53bf1711d8a5833d530b7b64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ea9dbd3a80649f07eadf2d4c2afa11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404510939,
+            "locality_id":85953075,
+            "region_id":85688727,
+            "venue_id":806450091
+        }
+    ],
     "wof:id":806450091,
-    "wof:lastmodified":1472629148,
+    "wof:lastmodified":1492817337,
     "wof:name":"Good Samaritan Ministries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

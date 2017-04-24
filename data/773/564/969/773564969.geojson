@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.646851,45.527056,-93.646851,45.527056",
     "geom:latitude":45.527056,
     "geom:longitude":-93.646851,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510741,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bag073tRoZ4T0TVnGk4Ki_45.527056_-93.646851@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586687,
-    "wof:geomhash":"3039fb0cbab8d4482bc0d6313d5d59d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f75f95965597717e1417011db0857057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510741,
+            "region_id":85688727,
+            "venue_id":773564969
+        }
+    ],
     "wof:id":773564969,
-    "wof:lastmodified":1472630094,
+    "wof:lastmodified":1492805149,
     "wof:name":"All Surface Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

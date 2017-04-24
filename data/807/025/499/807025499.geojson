@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.251724,45.080824,-94.251724,45.080824",
     "geom:latitude":45.080824,
     "geom:longitude":-94.251724,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515195,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q09S7kSnrLU4K05uNJjqO_45.080824_-94.251724@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603081,
-    "wof:geomhash":"2070253a50a3b4156cfb7dec51e4e64c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed7983267239cab4bc06bed8fca53f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515195,
+            "region_id":85688727,
+            "venue_id":807025499
+        }
+    ],
     "wof:id":807025499,
-    "wof:lastmodified":1472628986,
+    "wof:lastmodified":1492825496,
     "wof:name":"Saint Johns Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

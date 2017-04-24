@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.115732,46.600656,-96.115732,46.600656",
     "geom:latitude":46.600656,
     "geom:longitude":-96.115732,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513039,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SST9RO9WbyhhMrqUvFa6E_46.600656_-96.115732@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596640,
-    "wof:geomhash":"9ccbb41ba42345c34e36181f0ee46c6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19331e008699d2c1226f79a889396bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513039,
+            "region_id":85688727,
+            "venue_id":790532293
+        }
+    ],
     "wof:id":790532293,
-    "wof:lastmodified":1472629808,
+    "wof:lastmodified":1492835280,
     "wof:name":"Carlton Onsum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

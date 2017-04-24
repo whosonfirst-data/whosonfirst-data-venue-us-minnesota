@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.867914,45.505276,-92.867914,45.505276",
     "geom:latitude":45.505276,
     "geom:longitude":-92.867914,
@@ -33,17 +34,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511031,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79OKCK77j4eRqUlVz3dRSK_45.505276_-92.867914@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599011,
-    "wof:geomhash":"ac40607851b64e896469c423adbcf59c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47c0bc46cedd6f598f1442c37178106c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511031,
+            "region_id":85688727,
+            "venue_id":806546955
+        }
+    ],
     "wof:id":806546955,
-    "wof:lastmodified":1472629448,
+    "wof:lastmodified":1492815283,
     "wof:name":"Micon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

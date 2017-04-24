@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.787904,45.045347,-93.787904,45.045347",
     "geom:latitude":45.045347,
     "geom:longitude":-93.787904,
@@ -31,17 +32,34 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515201,
+        85633793,
+        85968915,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nWmOuvSCjrjsfwclfqhG4_45.045347_-93.787904@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589439,
-    "wof:geomhash":"7842f74d058580d0874e7a8ca313e89d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cbf3f7ac082fe0398f0494dfc051da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515201,
+            "locality_id":85968915,
+            "region_id":85688727,
+            "venue_id":789648421
+        }
+    ],
     "wof:id":789648421,
-    "wof:lastmodified":1472629083,
+    "wof:lastmodified":1492810631,
     "wof:name":"Digital Desktop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

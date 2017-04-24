@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.571996,45.206709,-93.571996,45.206709",
     "geom:latitude":45.206709,
     "geom:longitude":-93.571996,
@@ -31,17 +32,34 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ny5fnoSPg1lLynldq2S4F_45.206709_-93.571996@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588208,
-    "wof:geomhash":"dd7fe6c47ab82bf2dd48b2ebe43dc733",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9226d6d8afad476e86c6773c04bea4dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":773765257
+        }
+    ],
     "wof:id":773765257,
-    "wof:lastmodified":1472630151,
+    "wof:lastmodified":1492801910,
     "wof:name":"Wolf Inspections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

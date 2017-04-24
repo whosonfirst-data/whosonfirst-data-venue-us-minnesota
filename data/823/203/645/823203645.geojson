@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.323837,44.864683,-93.323837,44.864683",
     "geom:latitude":44.864683,
     "geom:longitude":-93.323837,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"http://www.cargillsalt.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hse1HZPqdMTCU666Ami03_44.864683_-93.323837@1303262832"
     },
     "wof:country":"US",
     "wof:created":1462608419,
-    "wof:geomhash":"9ce230013b95fdef430f6c1e0ba2353b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47cacec3cfc090e892fbff66807b1c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823203645
+        }
+    ],
     "wof:id":823203645,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492829023,
     "wof:name":"Cargill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

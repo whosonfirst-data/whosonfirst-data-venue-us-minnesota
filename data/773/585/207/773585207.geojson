@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.599421,47.782473,-96.599421,47.782473",
     "geom:latitude":47.782473,
     "geom:longitude":-96.599421,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513695,
+        85633793,
+        85968417,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nFIQguALF9L1jDL88WQ6Q_47.782473_-96.599421@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586838,
-    "wof:geomhash":"e8b1f8f65188c70118c4909be829d636",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e04e9bbcf68dac7a72d77b8b767c80ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513695,
+            "locality_id":85968417,
+            "region_id":85688727,
+            "venue_id":773585207
+        }
+    ],
     "wof:id":773585207,
-    "wof:lastmodified":1472630098,
+    "wof:lastmodified":1492808437,
     "wof:name":"Eagles Wing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

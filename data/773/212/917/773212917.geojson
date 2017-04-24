@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.86941,45.134961,-93.86941,45.134961",
     "geom:latitude":45.134961,
     "geom:longitude":-93.86941,
@@ -40,17 +41,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515249,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76qGlGl29zR2s7B38hinta_45.134961_-93.869410@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584017,
-    "wof:geomhash":"2c7becff3d0861ebf992f6d513800ec9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb84104d1a6762d91b8091c7a55da47d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515249,
+            "region_id":85688727,
+            "venue_id":773212917
+        }
+    ],
     "wof:id":773212917,
-    "wof:lastmodified":1472629967,
+    "wof:lastmodified":1492804023,
     "wof:name":"Highway Maintenance Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

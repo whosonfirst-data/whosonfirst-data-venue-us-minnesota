@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.75341,45.350496,-92.75341,45.350496",
     "geom:latitude":45.350496,
     "geom:longitude":-92.75341,
@@ -32,17 +33,32 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511113,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xJNxexuiEnelT65L15Usa_45.350496_-92.753410@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600300,
-    "wof:geomhash":"eae9771836ca909a062de46ec20516de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68e6dd963a9a0ac803b23b80e778c82c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511113,
+            "region_id":85688727,
+            "venue_id":806695411
+        }
+    ],
     "wof:id":806695411,
-    "wof:lastmodified":1472629708,
+    "wof:lastmodified":1492821148,
     "wof:name":"Shafer Metal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

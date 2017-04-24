@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.839061,45.357742,-92.839061,45.357742",
     "geom:latitude":45.357742,
     "geom:longitude":-92.839061,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wU4U8xq14dJ1FeG6OhNi1_45.357742_-92.839061@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598152,
-    "wof:geomhash":"d8f87dee36a0a47d9eb02e99f3195a11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"189734a5fae33d6405e9df8a63b49cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":806438483
+        }
+    ],
     "wof:id":806438483,
-    "wof:lastmodified":1472629144,
+    "wof:lastmodified":1492817626,
     "wof:name":"Minnesota Golf Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

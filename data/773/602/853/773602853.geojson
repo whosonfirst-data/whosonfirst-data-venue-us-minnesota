@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.317931,45.09608,-93.317931,45.09608",
     "geom:latitude":45.09608,
     "geom:longitude":-93.317931,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Bc3ebog5mBp9kmcZmbBSf_45.096080_-93.317931@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586961,
-    "wof:geomhash":"60908acfa38885471ae313917eaa507d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07d98e673fe3495603d72b6894a19245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773602853
+        }
+    ],
     "wof:id":773602853,
-    "wof:lastmodified":1472630107,
+    "wof:lastmodified":1492808909,
     "wof:name":"Asset Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

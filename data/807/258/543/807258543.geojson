@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.301936,44.526192,-93.301936,44.526192",
     "geom:latitude":44.526192,
     "geom:longitude":-93.301936,
@@ -46,17 +47,32 @@
         "road"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510605,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wgP28JrJp1blpVQFanKNL_44.526192_-93.301936@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605417,
-    "wof:geomhash":"ffa2631402b3bc844cd0a019ef1cc6d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3d76e664734a973b338c13423581b4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404510605,
+            "region_id":85688727,
+            "venue_id":807258543
+        }
+    ],
     "wof:id":807258543,
-    "wof:lastmodified":1472629522,
+    "wof:lastmodified":1492824328,
     "wof:name":"Rud Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

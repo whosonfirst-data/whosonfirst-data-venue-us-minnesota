@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.606239,47.774626,-96.606239,47.774626",
     "geom:latitude":47.774626,
     "geom:longitude":-96.606239,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513695,
+        85633793,
+        85968417,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YbgREM37g2lyuzTYKXDun_47.774626_-96.606239@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599422,
-    "wof:geomhash":"c5ba6ce8c795a7d48db8f116411a9b7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c463a7de9f136aa4f3dd9f90b2aeeff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513695,
+            "locality_id":85968417,
+            "region_id":85688727,
+            "venue_id":806593277
+        }
+    ],
     "wof:id":806593277,
-    "wof:lastmodified":1472629496,
+    "wof:lastmodified":1492817942,
     "wof:name":"Dental Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

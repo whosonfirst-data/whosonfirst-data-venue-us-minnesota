@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.558593,44.902785,-93.558593,44.902785",
     "geom:latitude":44.902785,
     "geom:longitude":-93.558593,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509445,
+        85633793,
+        85969207,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mPFgEYC7zTLtXf8J703Yc_44.902785_-93.558593@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601565,
-    "wof:geomhash":"5a8392a194400f0d21917c1223be2175",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b967646fbfa88b7e212252c721f8378c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509445,
+            "locality_id":85969207,
+            "region_id":85688727,
+            "venue_id":806845105
+        }
+    ],
     "wof:id":806845105,
-    "wof:lastmodified":1472629877,
+    "wof:lastmodified":1492813923,
     "wof:name":"R C Larson Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

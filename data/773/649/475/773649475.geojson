@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.410838,44.41058,-95.410838,44.41058",
     "geom:latitude":44.41058,
     "geom:longitude":-95.410838,
@@ -28,17 +29,34 @@
     "sg:postcode":"56255",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510549,
+        85633793,
+        85968807,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lxy25IFoE3YjVHYKx43hs_44.410580_-95.410838@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587324,
-    "wof:geomhash":"5a06bf4d631d7e070347194a022a0753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7d6a66164577f81290fb125787da387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510549,
+            "locality_id":85968807,
+            "region_id":85688727,
+            "venue_id":773649475
+        }
+    ],
     "wof:id":773649475,
-    "wof:lastmodified":1472630117,
+    "wof:lastmodified":1492800349,
     "wof:name":"State Bank Of Lucan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

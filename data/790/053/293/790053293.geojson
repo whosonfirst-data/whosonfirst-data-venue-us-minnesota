@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.153531,44.924318,-93.153531,44.924318",
     "geom:latitude":44.924318,
     "geom:longitude":-93.153531,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41tpDkMUcE7Q2O1s2yEL9o_44.924318_-93.153531@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592751,
-    "wof:geomhash":"78d02f516e842762aae554dad4e9f107",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1eb599da67cf569f9a147d3ba395efd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":790053293
+        }
+    ],
     "wof:id":790053293,
-    "wof:lastmodified":1472629036,
+    "wof:lastmodified":1492837513,
     "wof:name":"Loucas N Arvanitas",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.872375,45.390502,-93.872375,45.390502",
     "geom:latitude":45.390502,
     "geom:longitude":-93.872375,
@@ -28,17 +29,34 @@
     "sg:postcode":"55308",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515051,
+        85633793,
+        85968831,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QKDTZf1zilWjxFBi6C8c0_45.390502_-93.872375@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591498,
-    "wof:geomhash":"a0a6372a1c688fe56afd7353ef506f4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b169f19f9280ef7cad85a163e15caa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515051,
+            "locality_id":85968831,
+            "region_id":85688727,
+            "venue_id":789906595
+        }
+    ],
     "wof:id":789906595,
-    "wof:lastmodified":1472629609,
+    "wof:lastmodified":1492810009,
     "wof:name":"Beck's Pub",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

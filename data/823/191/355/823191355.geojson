@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.328339,45.045921,-93.328339,45.045921",
     "geom:latitude":45.045921,
     "geom:longitude":-93.328339,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9527996%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DNSSCmTH9bYaYW66JMDb1_45.045921_-93.328339@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608207,
-    "wof:geomhash":"cdd98c6b9bd0c83680fec3f4a53996a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"480243de8b8fd222b93faaa963df8e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823191355
+        }
+    ],
     "wof:id":823191355,
-    "wof:lastmodified":1472629033,
+    "wof:lastmodified":1492830467,
     "wof:name":"Deans Tank Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

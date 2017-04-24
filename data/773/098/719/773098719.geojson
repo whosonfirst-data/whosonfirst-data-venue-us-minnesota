@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.621057,47.530605,-92.621057,47.530605",
     "geom:latitude":47.530605,
     "geom:longitude":-92.621057,
@@ -31,17 +32,36 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15sMMZjpev4ZgPlYjJesFj_47.530605_-92.621057@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583143,
-    "wof:geomhash":"a33bd756517e293b4cb0753b2ef87b4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a113899f6a21cd58b8736482935af985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":773098719
+        }
+    ],
     "wof:id":773098719,
-    "wof:lastmodified":1472629610,
+    "wof:lastmodified":1492807802,
     "wof:name":"USWA-Uss Career Dev Prgrm",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.850761,45.508289,-93.850761,45.508289",
     "geom:latitude":45.508289,
     "geom:longitude":-93.850761,
@@ -31,17 +32,32 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510475,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Bu5z3KZ47lkGoW7tEsEY1_45.508289_-93.850761@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585896,
-    "wof:geomhash":"3e058560b7346835a4d4adb1b7dedd89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbf8b71b819abe3cd67f350d39fbbef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510475,
+            "region_id":85688727,
+            "venue_id":773457691
+        }
+    ],
     "wof:id":773457691,
-    "wof:lastmodified":1472630057,
+    "wof:lastmodified":1492801031,
     "wof:name":"Compliance Consulting Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

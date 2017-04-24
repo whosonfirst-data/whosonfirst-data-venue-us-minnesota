@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.862762,45.598733,-93.862762,45.598733",
     "geom:latitude":45.598733,
     "geom:longitude":-93.862762,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511457,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03172EXJj7WTryYq50hz35_45.598733_-93.862762@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603620,
-    "wof:geomhash":"626384f524f31e51d6c870db5576da1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1da0d24fb31f5b6ad41716a761ce8ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511457,
+            "region_id":85688727,
+            "venue_id":807090361
+        }
+    ],
     "wof:id":807090361,
-    "wof:lastmodified":1472629154,
+    "wof:lastmodified":1492824574,
     "wof:name":"Winkelman Delmar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

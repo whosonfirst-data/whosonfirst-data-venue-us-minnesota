@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539835,47.461431,-92.539835,47.461431",
     "geom:latitude":47.461431,
     "geom:longitude":-92.539835,
@@ -38,17 +39,26 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mtKMDOhGL9kHdlzxpsyoH_47.461431_-92.539835@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608836,
-    "wof:geomhash":"a3050a7f358951da9719a8f10214a01a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3dd7c22b1a567a2c29dcab5df2f695b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224855
+        }
+    ],
     "wof:id":823224855,
-    "wof:lastmodified":1472629113,
+    "wof:lastmodified":1492828780,
     "wof:name":"Margie's Roosevelt Bar",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

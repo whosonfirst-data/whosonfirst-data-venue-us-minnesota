@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.321244,44.873269,-93.321244,44.873269",
     "geom:latitude":44.873269,
     "geom:longitude":-93.321244,
@@ -35,17 +36,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wF9bxHhb0iUc6i8d3Zh0D_44.873269_-93.321244@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591798,
-    "wof:geomhash":"64876a3f45e39215d2e70457e25620b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"94862d102f3d412b73bb94b42c77d1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":789941501
+        }
+    ],
     "wof:id":789941501,
-    "wof:lastmodified":1472629640,
+    "wof:lastmodified":1492812520,
     "wof:name":"E C H O Programs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

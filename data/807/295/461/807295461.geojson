@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.875184,45.392018,-93.875184,45.392018",
     "geom:latitude":45.392018,
     "geom:longitude":-93.875184,
@@ -36,17 +37,34 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515051,
+        85633793,
+        85968831,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_070vnbJDARpjwzsDrKwO7Y_45.392018_-93.875184@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605808,
-    "wof:geomhash":"5dd320caaf80b9021a54809d40ef46a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53311b673519aa4138072d0ce18e1695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515051,
+            "locality_id":85968831,
+            "region_id":85688727,
+            "venue_id":807295461
+        }
+    ],
     "wof:id":807295461,
-    "wof:lastmodified":1472629613,
+    "wof:lastmodified":1492826213,
     "wof:name":"Coffee Cup Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

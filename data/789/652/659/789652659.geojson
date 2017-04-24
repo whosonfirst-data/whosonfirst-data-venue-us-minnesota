@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.835203,45.281901,-92.835203,45.281901",
     "geom:latitude":45.281901,
     "geom:longitude":-92.835203,
@@ -28,17 +29,34 @@
     "sg:postcode":"55073",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514921,
+        85633793,
+        85953533,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O0AAnORwjjlauPXZUwDUV_45.281901_-92.835203@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589476,
-    "wof:geomhash":"69315606ed10d465dc2109454e4df1f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"179a5ed115b198fc5fbefae66cbea258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514921,
+            "locality_id":85953533,
+            "region_id":85688727,
+            "venue_id":789652659
+        }
+    ],
     "wof:id":789652659,
-    "wof:lastmodified":1472629093,
+    "wof:lastmodified":1492811170,
     "wof:name":"John Wood Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.534925,47.46217,-92.534925,47.46217",
     "geom:latitude":47.46217,
     "geom:longitude":-92.534925,
@@ -28,17 +29,26 @@
     "sg:postcode":"55734",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tLeXkg40cdk5M562mPWvC_47.462170_-92.534925@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591712,
-    "wof:geomhash":"2854ca6c8eea0bb56e65e97b930831ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec21c96fd53a68bbf161b9417f1aa64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789930113
+        }
+    ],
     "wof:id":789930113,
-    "wof:lastmodified":1472629634,
+    "wof:lastmodified":1492811096,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

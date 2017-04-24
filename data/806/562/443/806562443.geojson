@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.581613,45.570154,-93.581613,45.570154",
     "geom:latitude":45.570154,
     "geom:longitude":-93.581613,
@@ -32,17 +33,34 @@
         "agent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512571,
+        85633793,
+        85968823,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rnRd1LSXfGDJ2MK9RWHKM_45.570154_-93.581613@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599146,
-    "wof:geomhash":"18c4adcc1570f7444791999a2ac2be4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58ca48d08a157f1b59f9d2358cabdcc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512571,
+            "locality_id":85968823,
+            "region_id":85688727,
+            "venue_id":806562443
+        }
+    ],
     "wof:id":806562443,
-    "wof:lastmodified":1472629456,
+    "wof:lastmodified":1492818496,
     "wof:name":"Neighborhood Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

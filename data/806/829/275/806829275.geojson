@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.285089,44.259159,-96.285089,44.259159",
     "geom:latitude":44.259159,
     "geom:longitude":-96.285089,
@@ -31,17 +32,34 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512509,
+        85633793,
+        85968381,
+        102087807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14VWJikmZ44KhLtMJVbXB2_44.259159_-96.285089@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601419,
-    "wof:geomhash":"bd51efd6e9990edfc67a107fba2e5a59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee8c3335bfa43c0b2b93b5e577ebad8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087807,
+            "localadmin_id":404512509,
+            "locality_id":85968381,
+            "region_id":85688727,
+            "venue_id":806829275
+        }
+    ],
     "wof:id":806829275,
-    "wof:lastmodified":1472629863,
+    "wof:lastmodified":1492816734,
     "wof:name":"St John's Evangelical Lutheran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

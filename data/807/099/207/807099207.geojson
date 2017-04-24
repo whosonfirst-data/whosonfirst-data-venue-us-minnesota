@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.593014,43.800433,-93.593014,43.800433",
     "geom:latitude":43.800433,
     "geom:longitude":-93.593014,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514409,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Pf12x08jnfLL1IqgO4NGS_43.800433_-93.593014@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603712,
-    "wof:geomhash":"27b046376f74e1d78042252345e1eb3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"894e09c4dd0c63a499ee0f6fc69a9ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514409,
+            "region_id":85688727,
+            "venue_id":807099207
+        }
+    ],
     "wof:id":807099207,
-    "wof:lastmodified":1472629188,
+    "wof:lastmodified":1492827966,
     "wof:name":"Circle H Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

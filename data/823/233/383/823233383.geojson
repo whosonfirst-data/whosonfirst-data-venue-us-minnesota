@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.63271,44.030251,-92.63271,44.030251",
     "geom:latitude":44.030251,
     "geom:longitude":-92.63271,
@@ -49,17 +50,34 @@
     ],
     "sg:website":"http://www.olmstedmedicalcenter.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512431,
+        85633793,
+        85953523,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OncDK5Hjup9PD0gYCHCcM_44.030251_-92.632710@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609022,
-    "wof:geomhash":"b6e22a55a6ddec2c6d96265ee67559b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aa72a9951a43592238c842fd995ba42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512431,
+            "locality_id":85953523,
+            "region_id":85688727,
+            "venue_id":823233383
+        }
+    ],
     "wof:id":823233383,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492828669,
     "wof:name":"Olmsted Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.500707,45.461675,-93.500707,45.461675",
     "geom:latitude":45.461675,
     "geom:longitude":-93.500707,
@@ -37,17 +38,32 @@
         "machinery-rebuild"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513125,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sAJSvRdlHta4YauKvH1AH_45.461675_-93.500707@1303262821"
     },
     "wof:country":"US",
     "wof:created":1462606493,
-    "wof:geomhash":"bc75711b489f13c8a1c8be46348999d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae95377b9eb846164c9fad1d9925b17a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513125,
+            "region_id":85688727,
+            "venue_id":807349367
+        }
+    ],
     "wof:id":807349367,
-    "wof:lastmodified":1472629796,
+    "wof:lastmodified":1492826406,
     "wof:name":"Micro Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

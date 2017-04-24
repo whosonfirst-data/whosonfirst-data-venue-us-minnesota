@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.986852,43.659187,-93.986852,43.659187",
     "geom:latitude":43.659187,
     "geom:longitude":-93.986852,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509607,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iFUD0nlwY5VgMRvI568rO_43.659187_-93.986852@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604524,
-    "wof:geomhash":"9295479288a6b6022bd261d238738d5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0bd10e117f5f797c72133c54c46536f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509607,
+            "region_id":85688727,
+            "venue_id":807173725
+        }
+    ],
     "wof:id":807173725,
-    "wof:lastmodified":1472629352,
+    "wof:lastmodified":1492825969,
     "wof:name":"Neil Tagatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

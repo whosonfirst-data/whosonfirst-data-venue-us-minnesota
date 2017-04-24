@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.814157,44.804306,-93.814157,44.804306",
     "geom:latitude":44.804306,
     "geom:longitude":-93.814157,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511607,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qmsrvaNs9RwHdkF63hI8S_44.804306_-93.814157@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586946,
-    "wof:geomhash":"236fa00579710f43fa41b50f172d7c36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c2dd18db4d50571724b8108eb77f8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511607,
+            "region_id":85688727,
+            "venue_id":773600531
+        }
+    ],
     "wof:id":773600531,
-    "wof:lastmodified":1472630102,
+    "wof:lastmodified":1492803851,
     "wof:name":"Snow Wind Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.371654,45.978166,-94.371654,45.978166",
     "geom:latitude":45.978166,
     "geom:longitude":-94.371654,
@@ -31,17 +32,34 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13kpuYJfVwhkvev9DkgWza_45.978166_-94.371654@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587844,
-    "wof:geomhash":"0f69f33b93a4edbe51c28cb079158b03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f7ee2a2721088c9fab91408d1b10f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":773716063
+        }
+    ],
     "wof:id":773716063,
-    "wof:lastmodified":1472630136,
+    "wof:lastmodified":1492802487,
     "wof:name":"Morrison County United Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

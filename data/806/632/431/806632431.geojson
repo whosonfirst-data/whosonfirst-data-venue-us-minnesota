@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.123267,43.875599,-95.123267,43.875599",
     "geom:latitude":43.875599,
     "geom:longitude":-95.123267,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jtv19QPyFsd8118U69oko_43.875599_-95.123267@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599757,
-    "wof:geomhash":"53ce58bf2ced1db9499bbd4bfe71175a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46303323c6f30aa9f4e274483d90d665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":806632431
+        }
+    ],
     "wof:id":806632431,
-    "wof:lastmodified":1472629559,
+    "wof:lastmodified":1492818660,
     "wof:name":"John Salzwedel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

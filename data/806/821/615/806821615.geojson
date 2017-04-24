@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.556456,46.42661,-95.556456,46.42661",
     "geom:latitude":46.42661,
     "geom:longitude":-95.556456,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510353,
+        85633793,
+        85968757,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iBIZZ5e1fn7gY2dUt3HEz_46.426610_-95.556456@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601356,
-    "wof:geomhash":"93066fa474151e22f908027326f4d12a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23ce9ef5de51fda5278d5511a25e37f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510353,
+            "locality_id":85968757,
+            "region_id":85688727,
+            "venue_id":806821615
+        }
+    ],
     "wof:id":806821615,
-    "wof:lastmodified":1472629851,
+    "wof:lastmodified":1492819748,
     "wof:name":"Wiebe's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

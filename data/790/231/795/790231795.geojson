@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.776353,44.651751,-92.776353,44.651751",
     "geom:latitude":44.651751,
     "geom:longitude":-92.776353,
@@ -32,17 +33,32 @@
         "analysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511989,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gUhCjcLs6aAue6Dw3k3Vx_44.651751_-92.776353@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594185,
-    "wof:geomhash":"77af4de261bc9beeda4bba4a8415fa76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c5f17c2f9a5386481380b430789e7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511989,
+            "region_id":85688727,
+            "venue_id":790231795
+        }
+    ],
     "wof:id":790231795,
-    "wof:lastmodified":1472629349,
+    "wof:lastmodified":1492836893,
     "wof:name":"HMR Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

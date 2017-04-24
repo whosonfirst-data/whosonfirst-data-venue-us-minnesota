@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.223347,45.21853,-94.223347,45.21853",
     "geom:latitude":45.21853,
     "geom:longitude":-94.223347,
@@ -45,17 +46,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510761,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MjAH8I7EVRbRXCi6sBgS1_45.218530_-94.223347@1303262815"
     },
     "wof:country":"US",
     "wof:created":1462605637,
-    "wof:geomhash":"7fde2fb70bf6873d9ee67be30ceb4444",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71899d28fee3ea263f3777265aed005e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510761,
+            "region_id":85688727,
+            "venue_id":807279187
+        }
+    ],
     "wof:id":807279187,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492825556,
     "wof:name":"Norgren Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

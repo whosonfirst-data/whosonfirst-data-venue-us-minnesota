@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.852673,43.891442,-92.852673,43.891442",
     "geom:latitude":43.891442,
     "geom:longitude":-92.852673,
@@ -37,17 +38,34 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513733,
+        85633793,
+        85952833,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fXLIc9XaDYfEfghvoMMvH_43.891442_-92.852673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594385,
-    "wof:geomhash":"5ae34be083f24979084def3882633410",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7dd57c4615f9bec9874a1a65e3c66450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513733,
+            "locality_id":85952833,
+            "region_id":85688727,
+            "venue_id":790255435
+        }
+    ],
     "wof:id":790255435,
-    "wof:lastmodified":1472629360,
+    "wof:lastmodified":1492838039,
     "wof:name":"Jacobsen Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

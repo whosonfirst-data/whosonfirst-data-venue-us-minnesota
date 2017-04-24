@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.315369,44.459816,-93.315369,44.459816",
     "geom:latitude":44.459816,
     "geom:longitude":-93.315369,
@@ -32,17 +33,32 @@
         "errand"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510605,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56S29UIdUaqybSg3ReSArc_44.459816_-93.315369@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600392,
-    "wof:geomhash":"0b154bc83c09ae730d8a0568f37a112a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65c21fd0a89198bad059cb6d24aa1c95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404510605,
+            "region_id":85688727,
+            "venue_id":806706491
+        }
+    ],
     "wof:id":806706491,
-    "wof:lastmodified":1472629724,
+    "wof:lastmodified":1492821279,
     "wof:name":"While I Was Out",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

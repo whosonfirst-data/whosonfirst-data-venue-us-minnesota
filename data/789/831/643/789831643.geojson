@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.524567,44.750947,-93.524567,44.750947",
     "geom:latitude":44.750947,
     "geom:longitude":-93.524567,
@@ -31,17 +32,32 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514987,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AtUbBvHCnrtLU3b5sccgS_44.750947_-93.524567@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590882,
-    "wof:geomhash":"6f28d24778d8261c1554dc10cbed7343",
-    "wof:hierarchy":[],
+    "wof:geomhash":"514956a788f2fd21bc0c49d91343a620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514987,
+            "region_id":85688727,
+            "venue_id":789831643
+        }
+    ],
     "wof:id":789831643,
-    "wof:lastmodified":1472629430,
+    "wof:lastmodified":1492809508,
     "wof:name":"AIA Minnesota Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

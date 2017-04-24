@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.090944,44.151843,-94.090944,44.151843",
     "geom:latitude":44.151843,
     "geom:longitude":-94.090944,
@@ -31,17 +32,32 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511569,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XI1t760TTGsTH06pR0hor_44.151843_-94.090944@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586627,
-    "wof:geomhash":"b6c1d98af8917f91b41520760059fbce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9651d61ed47f05dc293164eee8340529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511569,
+            "region_id":85688727,
+            "venue_id":773557069
+        }
+    ],
     "wof:id":773557069,
-    "wof:lastmodified":1472630089,
+    "wof:lastmodified":1492806399,
     "wof:name":"Minneopa Cemetery Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.114002,46.325725,-96.114002,46.325725",
     "geom:latitude":46.325725,
     "geom:longitude":-96.114002,
@@ -29,17 +30,32 @@
     "sg:province":"MN",
     "sg:website":"www.milcareco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512879,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ImcdMFTeQHI9EyfIzjiTR_46.325725_-96.114002@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592148,
-    "wof:geomhash":"af80ef4844d2e16d920c3ddd3e4cbf12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28bdd46fa7abcebdddf7d504d06de389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512879,
+            "region_id":85688727,
+            "venue_id":789977591
+        }
+    ],
     "wof:id":789977591,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492812899,
     "wof:name":"Milcare Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

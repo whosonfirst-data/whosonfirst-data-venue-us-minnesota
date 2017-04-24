@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.244805,44.117715,-96.244805,44.117715",
     "geom:latitude":44.117715,
     "geom:longitude":-96.244805,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513515,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VzwL08YnqUKyOHWfa2CdI_44.117715_-96.244805@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609196,
-    "wof:geomhash":"6b1064ac0fde89520b1b524963516434",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7b9d003e9d5143b1b0ea9bed00dbd7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513515,
+            "region_id":85688727,
+            "venue_id":823242661
+        }
+    ],
     "wof:id":823242661,
-    "wof:lastmodified":1472629157,
+    "wof:lastmodified":1492828562,
     "wof:name":"Prairie Construction Of Holland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

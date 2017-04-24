@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.448152,44.234547,-93.448152,44.234547",
     "geom:latitude":44.234547,
     "geom:longitude":-93.448152,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512635,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qJsqovDeNK1Nnm8wNgTrv_44.234547_-93.448152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583818,
-    "wof:geomhash":"8e4c914ccac900d6829ce1141572195d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30ed1eb4853772b34053c442f05a29e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512635,
+            "region_id":85688727,
+            "venue_id":773186901
+        }
+    ],
     "wof:id":773186901,
-    "wof:lastmodified":1472629966,
+    "wof:lastmodified":1492806551,
     "wof:name":"Douglas A Nicolai",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

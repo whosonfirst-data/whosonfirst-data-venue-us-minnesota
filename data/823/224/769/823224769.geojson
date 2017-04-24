@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540001,47.463379,-92.540001,47.463379",
     "geom:latitude":47.463379,
     "geom:longitude":-92.540001,
@@ -44,17 +45,26 @@
     ],
     "sg:website":"http://www.mnbeveleth.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XOU1YldL4OXgju9iTyj9s_47.463379_-92.540001@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608834,
-    "wof:geomhash":"dc912fd16fcbda8056b53cfdeb3d94eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32c6be31923e43f5d605261dfebfdb4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224769
+        }
+    ],
     "wof:id":823224769,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492828767,
     "wof:name":"Miners National Bank",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

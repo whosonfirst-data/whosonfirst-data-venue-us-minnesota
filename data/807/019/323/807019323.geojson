@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.841209,45.382737,-92.841209,45.382737",
     "geom:latitude":45.382737,
     "geom:longitude":-92.841209,
@@ -33,17 +34,34 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fIopPxUeie3GtCfds8MSu_45.382737_-92.841209@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603032,
-    "wof:geomhash":"f40cbf98391723a283a738d28481304c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d1f66c2a1d7792b68a7138c4b7bdf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":807019323
+        }
+    ],
     "wof:id":807019323,
-    "wof:lastmodified":1472628950,
+    "wof:lastmodified":1492823218,
     "wof:name":"Clean Up Guy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

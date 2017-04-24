@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.675326,44.198702,-93.675326,44.198702",
     "geom:latitude":44.198702,
     "geom:longitude":-93.675326,
@@ -31,17 +32,34 @@
         "restaurant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512213,
+        85633793,
+        85953085,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tXKYMuHA0acBYEO2xjnE3_44.198760_-93.675428@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603745,
-    "wof:geomhash":"2826119f8ccfd68c33b6055732be7a6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a74e3e8474ba0d921d56b23272f9243f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512213,
+            "locality_id":85953085,
+            "region_id":85688727,
+            "venue_id":807101061
+        }
+    ],
     "wof:id":807101061,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492822773,
     "wof:name":"Thirsty Beaver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

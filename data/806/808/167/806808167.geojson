@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.309402,46.643989,-92.309402,46.643989",
     "geom:latitude":46.643989,
     "geom:longitude":-92.309402,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509345,
+        85633793,
+        102087809
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39iMafztBaRvBEfl8RDKkC_46.643989_-92.309402@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601250,
-    "wof:geomhash":"656f7409b208234ce9af0921b847994c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b47ae2cc569fa2023a8f7b6f54aedc22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087809,
+            "localadmin_id":404509345,
+            "region_id":85688727,
+            "venue_id":806808167
+        }
+    ],
     "wof:id":806808167,
-    "wof:lastmodified":1472629831,
+    "wof:lastmodified":1492814373,
     "wof:name":"Dennis Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

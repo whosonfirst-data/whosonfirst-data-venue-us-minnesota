@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.828599,43.513912,-93.828599,43.513912",
     "geom:latitude":43.513912,
     "geom:longitude":-93.828599,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514101,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7X0llUVeYQasW4oZUYYLx4_43.513912_-93.828599@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604905,
-    "wof:geomhash":"bd6de28592a3f12d167a851020ef0369",
-    "wof:hierarchy":[],
+    "wof:geomhash":"169d1dc6ced53326a91f1741533a52d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514101,
+            "region_id":85688727,
+            "venue_id":807210559
+        }
+    ],
     "wof:id":807210559,
-    "wof:lastmodified":1472629417,
+    "wof:lastmodified":1492823562,
     "wof:name":"Jerry Goette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

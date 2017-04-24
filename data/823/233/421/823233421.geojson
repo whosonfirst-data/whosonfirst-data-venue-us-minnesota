@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.658761,44.029037,-92.658761,44.029037",
     "geom:latitude":44.029037,
     "geom:longitude":-92.658761,
@@ -40,17 +41,32 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512431,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xmy8E9CFdq9rWP2QxqgO7_44.029037_-92.658761@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609023,
-    "wof:geomhash":"69b3e8c0269d0ee5bc93e2b2ad6b300d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f52500bc0278733347a02061eef5548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512431,
+            "region_id":85688727,
+            "venue_id":823233421
+        }
+    ],
     "wof:id":823233421,
-    "wof:lastmodified":1472629127,
+    "wof:lastmodified":1492828675,
     "wof:name":"Byron Pet Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

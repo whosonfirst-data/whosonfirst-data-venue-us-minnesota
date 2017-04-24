@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.792544,44.857949,-93.792544,44.857949",
     "geom:latitude":44.857949,
     "geom:longitude":-93.792544,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511605,
+        85633793,
+        85953183,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NZlLLHL6U16tx9TwK9jVH_44.857949_-93.792544@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603300,
-    "wof:geomhash":"5c2ea386e2c6c624bcecb93a022c571c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9e4fbb953a45c119cba817758bdfc96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511605,
+            "locality_id":85953183,
+            "region_id":85688727,
+            "venue_id":807051667
+        }
+    ],
     "wof:id":807051667,
-    "wof:lastmodified":1472629040,
+    "wof:lastmodified":1492827749,
     "wof:name":"Beck Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

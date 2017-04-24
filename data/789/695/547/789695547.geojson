@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.531378,47.469992,-92.531378,47.469992",
     "geom:latitude":47.469992,
     "geom:longitude":-92.531378,
@@ -32,17 +33,26 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P1wNMPTk6D72xts1Q4xLA_47.469992_-92.531378@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589822,
-    "wof:geomhash":"4ed1d0f6eed56995946cd757ec2d4dbe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d16125220310d130204d0fc6ffaa898",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789695547
+        }
+    ],
     "wof:id":789695547,
-    "wof:lastmodified":1472629197,
+    "wof:lastmodified":1492813348,
     "wof:name":"Eveleth Housing Authority",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

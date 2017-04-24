@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.555972,45.939657,-94.555972,45.939657",
     "geom:latitude":45.939657,
     "geom:longitude":-94.555972,
@@ -28,17 +29,34 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512705,
+        85633793,
+        85968791,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x96sxHi9YrGu083JpoDpW_45.939657_-94.555972@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604771,
-    "wof:geomhash":"71d4aea9669b59d4183a34a1d5efba9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec3da11c23605364c3cb3eb28b47a369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512705,
+            "locality_id":85968791,
+            "region_id":85688727,
+            "venue_id":807197205
+        }
+    ],
     "wof:id":807197205,
-    "wof:lastmodified":1472629390,
+    "wof:lastmodified":1492824260,
     "wof:name":"Ted Klemish",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

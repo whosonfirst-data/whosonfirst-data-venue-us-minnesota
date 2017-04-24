@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.152929,44.526409,-93.152929,44.526409",
     "geom:latitude":44.526409,
     "geom:longitude":-93.152929,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512001,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MmuEybN7iXeXaQvRnVT1I_44.526409_-93.152929@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597137,
-    "wof:geomhash":"d85e57899cb52a5763101bf7fe0ecece",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff793387e0867868fa0cf1e6716993ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512001,
+            "region_id":85688727,
+            "venue_id":790591253
+        }
+    ],
     "wof:id":790591253,
-    "wof:lastmodified":1472629887,
+    "wof:lastmodified":1492836180,
     "wof:name":"Boudreau Transfer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

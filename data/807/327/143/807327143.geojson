@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.412758,44.923751,-93.412758,44.923751",
     "geom:latitude":44.923751,
     "geom:longitude":-93.412758,
@@ -32,17 +33,34 @@
         "practice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SCJBXyp8SjitDv6PBZjmi_44.923751_-93.412758@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606157,
-    "wof:geomhash":"57306d3dcc1d4b1dff83b7478504b4ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b333e85242f534f49404dc1db3cc26c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":807327143
+        }
+    ],
     "wof:id":807327143,
-    "wof:lastmodified":1472629721,
+    "wof:lastmodified":1492825987,
     "wof:name":"Ford Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

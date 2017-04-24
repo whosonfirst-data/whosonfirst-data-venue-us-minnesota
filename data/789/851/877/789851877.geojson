@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.212475,43.667325,-96.212475,43.667325",
     "geom:latitude":43.667325,
     "geom:longitude":-96.212475,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"www.mvh.state.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512779,
+        85633793,
+        85968777,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MNWdB6pwTTrHuAapugYt9_43.667325_-96.212475@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591041,
-    "wof:geomhash":"8b901d2e042ba00d28dd8c924d3eb886",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0e1c94d224241b2476e58808a9fdad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512779,
+            "locality_id":85968777,
+            "region_id":85688727,
+            "venue_id":789851877
+        }
+    ],
     "wof:id":789851877,
-    "wof:lastmodified":1472629494,
+    "wof:lastmodified":1492813597,
     "wof:name":"Minnesota Veterans Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

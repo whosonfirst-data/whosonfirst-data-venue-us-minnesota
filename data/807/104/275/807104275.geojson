@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.355461,43.688601,-95.355461,43.688601",
     "geom:latitude":43.688601,
     "geom:longitude":-95.355461,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509837,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zVoIKusWaRw8vKREtSwjK_43.688651_-95.355376@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603776,
-    "wof:geomhash":"156ee56c64aebd2f0f20968d9b59804b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba11299ffba316e47ca2dda69fa16ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509837,
+            "region_id":85688727,
+            "venue_id":807104275
+        }
+    ],
     "wof:id":807104275,
-    "wof:lastmodified":1472629195,
+    "wof:lastmodified":1492822847,
     "wof:name":"Bradley Baumgard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

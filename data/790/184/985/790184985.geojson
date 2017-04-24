@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.910951,44.533048,-93.910951,44.533048",
     "geom:latitude":44.533048,
     "geom:longitude":-93.910951,
@@ -31,17 +32,34 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514041,
+        85633793,
+        85953289,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56H0bW1hep45juRkqiWH6j_44.533048_-93.910951@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593816,
-    "wof:geomhash":"5e4bf68fb9a8de41634ac8e2ac12b8f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e90232f1a9a7b87c2bdae32343debb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514041,
+            "locality_id":85953289,
+            "region_id":85688727,
+            "venue_id":790184985
+        }
+    ],
     "wof:id":790184985,
-    "wof:lastmodified":1472629267,
+    "wof:lastmodified":1492835130,
     "wof:name":"J D Pesch Appraiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

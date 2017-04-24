@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.337275,45.302826,-93.337275,45.302826",
     "geom:latitude":45.302826,
     "geom:longitude":-93.337275,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pMeh9Y0V4r54LNLUacx0H_45.302826_-93.337275@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584238,
-    "wof:geomhash":"2a60c690f8ad3b3a1d6576ea6acb0deb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2800d4f754b4da49717b1d9c2d7634c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":773243251
+        }
+    ],
     "wof:id":773243251,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492802439,
     "wof:name":"M & W Sewer and Wtr Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

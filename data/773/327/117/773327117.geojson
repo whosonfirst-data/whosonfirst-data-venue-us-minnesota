@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.356028,44.745354,-93.356028,44.745354",
     "geom:latitude":44.745354,
     "geom:longitude":-93.356028,
@@ -31,17 +32,34 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77xBLVVT71Jdgq8en4Onoe_44.745354_-93.356028@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584888,
-    "wof:geomhash":"7375ca77792bd8f56ee1c469f83109aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c49646d5e2136056ad991c14427ac8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":773327117
+        }
+    ],
     "wof:id":773327117,
-    "wof:lastmodified":1472630007,
+    "wof:lastmodified":1492805520,
     "wof:name":"Help Handyman Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

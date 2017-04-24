@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.354317,46.067513,-95.354317,46.067513",
     "geom:latitude":46.067513,
     "geom:longitude":-95.354317,
@@ -36,17 +37,32 @@
         "adjuster"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513925,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3c4zob1Moqlb9KOkGWoXv4_46.067513_-95.354317@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609334,
-    "wof:geomhash":"113cf63fe45bd95614168e096ed9b145",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc3425dbafe2d62d43f9f3a7c3ec6e85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513925,
+            "region_id":85688727,
+            "venue_id":823250051
+        }
+    ],
     "wof:id":823250051,
-    "wof:lastmodified":1472629143,
+    "wof:lastmodified":1492829910,
     "wof:name":"Eric Gesell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.384299,44.915142,-93.384299,44.915142",
     "geom:latitude":44.915142,
     "geom:longitude":-93.384299,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lbc4oJSSc1F3foTOs6iaR_44.915142_-93.384299@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599472,
-    "wof:geomhash":"26c2db8bd27407088d58efa0b47bdf4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21349f62b3516d3ca2862676509fe2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":806598033
+        }
+    ],
     "wof:id":806598033,
-    "wof:lastmodified":1472629526,
+    "wof:lastmodified":1492818076,
     "wof:name":"Swede Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

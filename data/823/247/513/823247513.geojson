@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.492651,45.80613,-96.492651,45.80613",
     "geom:latitude":45.80613,
     "geom:longitude":-96.492651,
@@ -32,17 +33,34 @@
         "registration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b15tYXdJVdSANm5POiHWt_45.806130_-96.492651@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609286,
-    "wof:geomhash":"016773f086e1442bbebb328b42be9d58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a65c79290e1b43be76c32c99a86f2ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":823247513
+        }
+    ],
     "wof:id":823247513,
-    "wof:lastmodified":1472629168,
+    "wof:lastmodified":1492829652,
     "wof:name":"Motor Vehicle Registration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

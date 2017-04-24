@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.084278,46.289619,-96.084278,46.289619",
     "geom:latitude":46.289619,
     "geom:longitude":-96.084278,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pKkytVObzvA3TcTTArapM_46.289619_-96.084278@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598842,
-    "wof:geomhash":"0a845d9f440a80b9130863a54f2e75b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4950e09c4dfe08bc44fd0ed110c5f7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":806526777
+        }
+    ],
     "wof:id":806526777,
-    "wof:lastmodified":1472629406,
+    "wof:lastmodified":1492820232,
     "wof:name":"Miller's Business Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.857619,46.936933,-94.857619,46.936933",
     "geom:latitude":46.936933,
     "geom:longitude":-94.857619,
@@ -36,17 +37,32 @@
         "resort"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512963,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TgZyTNVR3RIKDSM1l4jcL_46.936933_-94.857619@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593456,
-    "wof:geomhash":"f43f31565ec078aa1131fa0c7f9f847e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6febf0255ee7e71605fe49c3bb3b0703",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512963,
+            "region_id":85688727,
+            "venue_id":790143537
+        }
+    ],
     "wof:id":790143537,
-    "wof:lastmodified":1472629194,
+    "wof:lastmodified":1492834484,
     "wof:name":"Miller Roger Resort Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

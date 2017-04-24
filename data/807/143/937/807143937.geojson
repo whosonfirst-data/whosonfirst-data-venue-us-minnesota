@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.743743,44.427236,-94.743743,44.427236",
     "geom:latitude":44.427236,
     "geom:longitude":-94.743743,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511589,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3me8X8AyUU9HJlXLPlWBPZ_44.427236_-94.743743@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604202,
-    "wof:geomhash":"483eb267d9beb5ddb8b2175c52f46bff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f61cac158153a55837cf9dc1ef473ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511589,
+            "region_id":85688727,
+            "venue_id":807143937
+        }
+    ],
     "wof:id":807143937,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492824971,
     "wof:name":"Kevin Braulick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

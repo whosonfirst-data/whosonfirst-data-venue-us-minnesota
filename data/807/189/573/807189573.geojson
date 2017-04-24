@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.998073,44.243025,-95.998073,44.243025",
     "geom:latitude":44.243025,
     "geom:longitude":-95.998073,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512669,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IbNSsiSSLMVcvidqwOc3T_44.243025_-95.998073@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604685,
-    "wof:geomhash":"3b003a1a8d06191e3198dadcee8ad8a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e5dca2c21d4c4ffa45096ffa0665868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512669,
+            "region_id":85688727,
+            "venue_id":807189573
+        }
+    ],
     "wof:id":807189573,
-    "wof:lastmodified":1472629392,
+    "wof:lastmodified":1492825694,
     "wof:name":"Randall Thooft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

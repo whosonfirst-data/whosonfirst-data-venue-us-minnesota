@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.779038,45.03363,-93.779038,45.03363",
     "geom:latitude":45.03363,
     "geom:longitude":-93.779038,
@@ -41,17 +42,34 @@
         "local"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515201,
+        85633793,
+        85968915,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1doJ38laLyD3qMQLLQhlgh_45.033630_-93.779038@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586165,
-    "wof:geomhash":"b1ce64c6c1f8dbbb794e761d39e2df55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3fd89154ffd2d207148226cdb0a4017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515201,
+            "locality_id":85968915,
+            "region_id":85688727,
+            "venue_id":773493713
+        }
+    ],
     "wof:id":773493713,
-    "wof:lastmodified":1472630072,
+    "wof:lastmodified":1492799467,
     "wof:name":"Anderson Trucking & Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

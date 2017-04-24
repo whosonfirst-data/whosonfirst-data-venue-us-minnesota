@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.531161,47.470007,-92.531161,47.470007",
     "geom:latitude":47.470007,
     "geom:longitude":-92.531161,
@@ -31,17 +32,26 @@
         "television"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YW58PXwhJ2ow6KWtL78ch_47.470007_-92.531161@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592386,
-    "wof:geomhash":"87afdee2a8bed2115b06fa903a09e49f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd9ebb8a15ee864b45adfcb5945fc192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790006943
+        }
+    ],
     "wof:id":790006943,
-    "wof:lastmodified":1472628950,
+    "wof:lastmodified":1492833595,
     "wof:name":"Northland Cablevision",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

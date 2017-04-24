@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.78265,46.379316,-92.78265,46.379316",
     "geom:latitude":46.379316,
     "geom:longitude":-92.78265,
@@ -32,17 +33,32 @@
         "association"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513503,
+        85633793,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_080y57A1V0h891J6Xn4PkF_46.379316_-92.782650@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597279,
-    "wof:geomhash":"687d6349d88fb8d818ca23bd4e0fb8c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d78e2852035ac485c16019e0d96d0bff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513503,
+            "region_id":85688727,
+            "venue_id":790607035
+        }
+    ],
     "wof:id":790607035,
-    "wof:lastmodified":1472629903,
+    "wof:lastmodified":1492837775,
     "wof:name":"YMCA Camp Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

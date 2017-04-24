@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.540776,43.600645,-93.540776,43.600645",
     "geom:latitude":43.600645,
     "geom:longitude":-93.540776,
@@ -32,17 +33,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514395,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PBg6N3g2fn7BjKOTCSzPv_43.600645_-93.540776@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595870,
-    "wof:geomhash":"41d8440da4fbaee83c649689130f1340",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56eb07529cf50aee25581028d6b919ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514395,
+            "region_id":85688727,
+            "venue_id":790443391
+        }
+    ],
     "wof:id":790443391,
-    "wof:lastmodified":1472629710,
+    "wof:lastmodified":1492834067,
     "wof:name":"Douglas Wichmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.789824,44.847198,-93.789824,44.847198",
     "geom:latitude":44.847198,
     "geom:longitude":-93.789824,
@@ -38,17 +39,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511605,
+        85633793,
+        85953183,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HPdyWKCvM1g85zKWGzCqY_44.847198_-93.789824@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606450,
-    "wof:geomhash":"a03cffb54628a6b4f0074b624635b058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3d7425971df4d0769248d3405a92b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511605,
+            "locality_id":85953183,
+            "region_id":85688727,
+            "venue_id":807346329
+        }
+    ],
     "wof:id":807346329,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492826287,
     "wof:name":"Modern Muscle Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

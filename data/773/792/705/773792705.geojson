@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.661139,45.405501,-92.661139,45.405501",
     "geom:latitude":45.405501,
     "geom:longitude":-92.661139,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511033,
+        85633793,
+        85952681,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mdmBrMIcC0X4SIlE8mxjy_45.405501_-92.661139@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588408,
-    "wof:geomhash":"b2788cbe7a81b9181a98e031d33d79ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"279a56a5ac224b7b4c0aa9c160f7736b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511033,
+            "locality_id":85952681,
+            "region_id":85688727,
+            "venue_id":773792705
+        }
+    ],
     "wof:id":773792705,
-    "wof:lastmodified":1472630161,
+    "wof:lastmodified":1492803126,
     "wof:name":"First Evangelical Lutheran Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

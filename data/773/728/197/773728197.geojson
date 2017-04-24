@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.980432,46.96776,-93.980432,46.96776",
     "geom:latitude":46.96776,
     "geom:longitude":-93.980432,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509409,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dJ2v41PjRiAb0uHWnBZUz_46.967760_-93.980432@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587936,
-    "wof:geomhash":"1904ffb3cd16e6c330d7128401e0fa33",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fe7636dee09e4ae151434b5abb91928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509409,
+            "region_id":85688727,
+            "venue_id":773728197
+        }
+    ],
     "wof:id":773728197,
-    "wof:lastmodified":1472630141,
+    "wof:lastmodified":1492803252,
     "wof:name":"Wagner Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

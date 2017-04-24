@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.607459,43.626547,-95.607459,43.626547",
     "geom:latitude":43.626547,
     "geom:longitude":-95.607459,
@@ -32,17 +33,34 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rNAA6uK7ea4VTheNsXE8C_43.626547_-95.607459@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592091,
-    "wof:geomhash":"d06d2b2fbe7b2d27c68a677b508266f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8ff00c67519f14bbeedd150b2e0d8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":789971293
+        }
+    ],
     "wof:id":789971293,
-    "wof:lastmodified":1472629672,
+    "wof:lastmodified":1492809193,
     "wof:name":"Nobles County Environmental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

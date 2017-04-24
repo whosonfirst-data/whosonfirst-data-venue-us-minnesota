@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.88142,47.480597,-94.88142,47.480597",
     "geom:latitude":47.480597,
     "geom:longitude":-94.88142,
@@ -39,17 +40,34 @@
         "contractors-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_769mDZMNFvAExbIzj8aPvS_47.480597_-94.881420@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609512,
-    "wof:geomhash":"5ebe8898844a1a699294f94017b14412",
-    "wof:hierarchy":[],
+    "wof:geomhash":"483d701816e706215ec38999b17c9105",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":823258173
+        }
+    ],
     "wof:id":823258173,
-    "wof:lastmodified":1472629189,
+    "wof:lastmodified":1492829486,
     "wof:name":"Kemmer Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

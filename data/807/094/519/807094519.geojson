@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.609889,44.399324,-95.609889,44.399324",
     "geom:latitude":44.399324,
     "geom:longitude":-95.609889,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512529,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ENan4hcYgzukteGc3I31F_44.399324_-95.609889@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603659,
-    "wof:geomhash":"b9b0ff9fb51327b020bb2381cd0e6ab6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c279cc46b5634a79ce62ed0e7287c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512529,
+            "region_id":85688727,
+            "venue_id":807094519
+        }
+    ],
     "wof:id":807094519,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492822768,
     "wof:name":"Roisen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

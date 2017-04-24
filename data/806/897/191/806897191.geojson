@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.08544,43.904047,-93.08544,43.904047",
     "geom:latitude":43.904047,
     "geom:longitude":-93.08544,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510811,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5llkP3tJiqob8j22xuB9z1_43.904047_-93.085440@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601989,
-    "wof:geomhash":"377b2303d207e6867dcf6d2b8c813191",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d9008da62e5227e8510983d27069a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510811,
+            "region_id":85688727,
+            "venue_id":806897191
+        }
+    ],
     "wof:id":806897191,
-    "wof:lastmodified":1472629925,
+    "wof:lastmodified":1492817021,
     "wof:name":"Milton Kaplan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

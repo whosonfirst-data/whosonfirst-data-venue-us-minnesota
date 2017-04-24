@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.692507,47.157254,-93.692507,47.157254",
     "geom:latitude":47.157254,
     "geom:longitude":-93.692507,
@@ -33,17 +34,32 @@
         "con"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513291,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_645S4YiNNShGFvBTBui0Pt_47.157254_-93.692507@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585216,
-    "wof:geomhash":"1ba21f044468dc1f484b8cef4de6c171",
-    "wof:hierarchy":[],
+    "wof:geomhash":"209a3f47427d3866ad9cca63af6a4308",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513291,
+            "region_id":85688727,
+            "venue_id":773374809
+        }
+    ],
     "wof:id":773374809,
-    "wof:lastmodified":1472630031,
+    "wof:lastmodified":1492805236,
     "wof:name":"Cedar Creek Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

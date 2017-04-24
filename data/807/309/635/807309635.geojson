@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.051256,45.418329,-94.051256,45.418329",
     "geom:latitude":45.418329,
     "geom:longitude":-94.051256,
@@ -32,17 +33,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510757,
+        85633793,
+        85952447,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Eez2J372KcwxWlHF08V6y_45.418329_-94.051256@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605954,
-    "wof:geomhash":"a570b683f0142e36dbd1f0ed7eb04f30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5715900bdf8900ee152da76a53523cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510757,
+            "locality_id":85952447,
+            "region_id":85688727,
+            "venue_id":807309635
+        }
+    ],
     "wof:id":807309635,
-    "wof:lastmodified":1472629690,
+    "wof:lastmodified":1492824394,
     "wof:name":"Andrews Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

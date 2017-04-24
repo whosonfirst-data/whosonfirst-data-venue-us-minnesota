@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.537263,45.216684,-93.537263,45.216684",
     "geom:latitude":45.216684,
     "geom:longitude":-93.537263,
@@ -31,17 +32,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AlAA6wJPuLLTunyN6UhI5_45.216684_-93.537263@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583750,
-    "wof:geomhash":"b5c80a2d3d06e053e55167390c4eb1f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"196f6f09e31f46ce84cc71cfd761ecaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":773180827
+        }
+    ],
     "wof:id":773180827,
-    "wof:lastmodified":1472629864,
+    "wof:lastmodified":1492800166,
     "wof:name":"A Action Garage Door",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.459609,43.655666,-94.459609,43.655666",
     "geom:latitude":43.655666,
     "geom:longitude":-94.459609,
@@ -31,17 +32,34 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514005,
+        85633793,
+        85953127,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M01k2N42uiB5DdamMAtXR_43.655666_-94.459609@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602112,
-    "wof:geomhash":"c216ca02553bd803c89c5c8c0421d0fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34c8b07463a7720d30056bde77f5b019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514005,
+            "locality_id":85953127,
+            "region_id":85688727,
+            "venue_id":806912023
+        }
+    ],
     "wof:id":806912023,
-    "wof:lastmodified":1472629928,
+    "wof:lastmodified":1492814562,
     "wof:name":"Gold Cross Ambulance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

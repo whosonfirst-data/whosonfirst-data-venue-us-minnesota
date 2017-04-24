@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.353591,45.021758,-93.353591,45.021758",
     "geom:latitude":45.021758,
     "geom:longitude":-93.353591,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51ZwH6nVixchuQB2IHyIvG_45.021758_-93.353591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584620,
-    "wof:geomhash":"a0df615284988d8f53939851646a47c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"812965b2c55bdf7010f790cc8881a23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":773292713
+        }
+    ],
     "wof:id":773292713,
-    "wof:lastmodified":1472630034,
+    "wof:lastmodified":1492802046,
     "wof:name":"Sharons Day Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.365182,45.060943,-93.365182,45.060943",
     "geom:latitude":45.060943,
     "geom:longitude":-93.365182,
@@ -42,17 +43,34 @@
     ],
     "sg:website":"http://www.pontechcorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LppaOMMfv0FBECzuOPS9z_45.060943_-93.365182@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608173,
-    "wof:geomhash":"9e3900e1216d8e52af743075f39355d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13b4f8017c56178a458b68c875d5604a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823188503
+        }
+    ],
     "wof:id":823188503,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492828126,
     "wof:name":"Pontech Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

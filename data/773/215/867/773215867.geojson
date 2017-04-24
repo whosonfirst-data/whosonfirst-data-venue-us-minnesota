@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.046626,44.965036,-94.046626,44.965036",
     "geom:latitude":44.965036,
     "geom:longitude":-94.046626,
@@ -37,17 +38,34 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QYJLXWI85WTF9WQbxpfnQ_44.965036_-94.046626@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584045,
-    "wof:geomhash":"9fb2d3ffb1c8238008eeac2623dedb6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f451e3bf181b4666da0abd55eba62a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":773215867
+        }
+    ],
     "wof:id":773215867,
-    "wof:lastmodified":1472629976,
+    "wof:lastmodified":1492807077,
     "wof:name":"Winsted Fitness Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

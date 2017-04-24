@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.26265,44.948372,-93.26265,44.948372",
     "geom:latitude":44.948372,
     "geom:longitude":-93.26265,
@@ -33,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872703,
+        1108800089,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420559175
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607243,
-    "wof:geomhash":"43c573ed65daf93f4f0186848300a5db",
+    "wof:geomhash":"26411282679c8ad44a33f4853991e1c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +58,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872703,
-            "region_id":85688727,
-            "venue_id":807398225
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420559175,
+            "macrohood_id":1108799995,
+            "microhood_id":1108800089,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":807398225
         }
     ],
     "wof:id":807398225,
-    "wof:lastmodified":1472629885,
+    "wof:lastmodified":1492826615,
     "wof:name":"Butlers Check Cashing Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

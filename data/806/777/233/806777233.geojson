@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.815842,46.092548,-95.815842,46.092548",
     "geom:latitude":46.092548,
     "geom:longitude":-95.815842,
@@ -36,17 +37,34 @@
         "dairy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509425,
+        85633793,
+        85968299,
+        102087739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78ClwOJEJhN4I55y3TknmX_46.092548_-95.815842@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600993,
-    "wof:geomhash":"dc0f3a0b1eeb8f201bc17bf98fa6505b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"314bf7bd285546ff7ad4eed8f4648ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087739,
+            "localadmin_id":404509425,
+            "locality_id":85968299,
+            "region_id":85688727,
+            "venue_id":806777233
+        }
+    ],
     "wof:id":806777233,
-    "wof:lastmodified":1472629806,
+    "wof:lastmodified":1492818158,
     "wof:name":"Farmers Produce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

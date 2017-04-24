@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.987751,43.623039,-94.987751,43.623039",
     "geom:latitude":43.623039,
     "geom:longitude":-94.987751,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52ocgdNA9Y0OZ6TnHlymWz_43.623039_-94.987751@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587129,
-    "wof:geomhash":"e84b2e4c57b03597ab597c2a26aab7b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"102ef0f571356ca7780810803affc66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":773624933
+        }
+    ],
     "wof:id":773624933,
-    "wof:lastmodified":1472630112,
+    "wof:lastmodified":1492801798,
     "wof:name":"Costello Carlson & Butzon LLP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

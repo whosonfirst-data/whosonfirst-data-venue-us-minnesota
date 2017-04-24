@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.086678,45.116953,-93.086678,45.116953",
     "geom:latitude":45.116953,
     "geom:longitude":-93.086678,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514457,
+        85633793,
+        85953175,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18SWnbcMzpdSCD8Enon8Cb_45.116953_-93.086678@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590716,
-    "wof:geomhash":"c2c462297869b170c094c0ad7ffe0b50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86601cd88402be66e4d886b94612a1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514457,
+            "locality_id":85953175,
+            "region_id":85688727,
+            "venue_id":789810415
+        }
+    ],
     "wof:id":789810415,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492813640,
     "wof:name":"Republic Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

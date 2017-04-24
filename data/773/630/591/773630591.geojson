@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.509486,47.297119,-96.509486,47.297119",
     "geom:latitude":47.297119,
     "geom:longitude":-96.509486,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510277,
+        85633793,
+        85968341,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sSJOjZazWHo338xTJJX1C_47.297119_-96.509486@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587176,
-    "wof:geomhash":"cb9752612554920cd01df4f4804f77bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"863b4117527b1bbbb3db3222763f54c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404510277,
+            "locality_id":85968341,
+            "region_id":85688727,
+            "venue_id":773630591
+        }
+    ],
     "wof:id":773630591,
-    "wof:lastmodified":1472630113,
+    "wof:lastmodified":1492805481,
     "wof:name":"Beltrami United Methodist Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.447896,43.680383,-94.447896,43.680383",
     "geom:latitude":43.680383,
     "geom:longitude":-94.447896,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"http://www.fairmont.hamptoninn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514005,
+        85633793,
+        85953127,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NBpT5QffJE0id4sT3cF0R_43.680383_-94.447896@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609124,
-    "wof:geomhash":"07a04e382a51615a7183f947bc832e15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"332217a9650e24dc006dec98a3194f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514005,
+            "locality_id":85953127,
+            "region_id":85688727,
+            "venue_id":823238609
+        }
+    ],
     "wof:id":823238609,
-    "wof:lastmodified":1472629152,
+    "wof:lastmodified":1492830624,
     "wof:name":"Hampton Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

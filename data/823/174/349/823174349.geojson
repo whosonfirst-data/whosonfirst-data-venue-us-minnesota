@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.358836,45.036472,-93.358836,45.036472",
     "geom:latitude":45.036472,
     "geom:longitude":-93.358836,
@@ -37,17 +38,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20giXoampMSwm3ej1o5DLN_45.036472_-93.358836@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462607990,
-    "wof:geomhash":"1aca5f1745b00fd9e9a0a232ff79274c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d396edd56429df5f07fcc5ab7da38e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823174349
+        }
+    ],
     "wof:id":823174349,
-    "wof:lastmodified":1472629008,
+    "wof:lastmodified":1492831183,
     "wof:name":"Minnesota Realestate Brok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

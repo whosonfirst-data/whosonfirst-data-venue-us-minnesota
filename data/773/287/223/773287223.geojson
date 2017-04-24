@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278143,44.28932,-93.278143,44.28932",
     "geom:latitude":44.28932,
     "geom:longitude":-93.278143,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yd1okHfz0m6kD0G1aJegz_44.289320_-93.278143@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584578,
-    "wof:geomhash":"59ac19269f5f45e9e4552a9b4b108231",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75b4c6a4b8369befd8d578f531a802da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773287223
+        }
+    ],
     "wof:id":773287223,
-    "wof:lastmodified":1472630000,
+    "wof:lastmodified":1492808394,
     "wof:name":"Orthopaedic & Fracture Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

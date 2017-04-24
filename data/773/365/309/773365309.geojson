@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.563795,44.993864,-93.563795,44.993864",
     "geom:latitude":44.993864,
     "geom:longitude":-93.563795,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511895,
+        85633793,
+        85969145,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RxUJMTI3JRzSv4aFnfiZh_44.993864_-93.563795@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585148,
-    "wof:geomhash":"17b7855d6c3ba9c53f55fb31f3f7ab6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ffad263b2c0d89a10c0a2eb1b0da790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511895,
+            "locality_id":85969145,
+            "region_id":85688727,
+            "venue_id":773365309
+        }
+    ],
     "wof:id":773365309,
-    "wof:lastmodified":1472630026,
+    "wof:lastmodified":1492804066,
     "wof:name":"Clark & Clark Mfg Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

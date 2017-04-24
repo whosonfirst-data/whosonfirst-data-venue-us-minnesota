@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.254754,44.916083,-93.254754,44.916083",
     "geom:latitude":44.916083,
     "geom:longitude":-93.254754,
@@ -43,14 +44,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559169,
+        85872541,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872541
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607801,
-    "wof:geomhash":"012564e0faa74a63a9bdb925d0465a2b",
+    "wof:geomhash":"bd6b2b5b9acd6b4ff22a79f9f9e0c3da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,25 +67,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559169,
-            "region_id":85688727,
-            "venue_id":823160193
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872541,
             "region_id":85688727,
             "venue_id":823160193
         }
     ],
     "wof:id":823160193,
-    "wof:lastmodified":1472628979,
+    "wof:lastmodified":1492831162,
     "wof:name":"New Creation Baptist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872541,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

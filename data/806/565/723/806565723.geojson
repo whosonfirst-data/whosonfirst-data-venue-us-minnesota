@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.758551,44.130336,-94.758551,44.130336",
     "geom:latitude":44.130336,
     "geom:longitude":-94.758551,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509327,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BtyL4na2Zaz38yC86vWOt_44.130336_-94.758551@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599172,
-    "wof:geomhash":"aa8625588e1dbae1257c372fa7e95d29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"05e8ef43d449698b1f0a724c22893f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509327,
+            "region_id":85688727,
+            "venue_id":806565723
+        }
+    ],
     "wof:id":806565723,
-    "wof:lastmodified":1472629477,
+    "wof:lastmodified":1492816065,
     "wof:name":"Richard Zwaschka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

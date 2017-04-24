@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.253654,45.817344,-93.253654,45.817344",
     "geom:latitude":45.817344,
     "geom:longitude":-93.253654,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513627,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_499jpeREokvqvmIj3mXfgT_45.817344_-93.253654@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598340,
-    "wof:geomhash":"7f5602b03f802cea0bd4850b56d94bc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e893d97cb369eea0a9a7982f5715e8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513627,
+            "region_id":85688727,
+            "venue_id":806463133
+        }
+    ],
     "wof:id":806463133,
-    "wof:lastmodified":1472629187,
+    "wof:lastmodified":1492818556,
     "wof:name":"Zimmer Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.884666,46.564624,-95.884666,46.564624",
     "geom:latitude":46.564624,
     "geom:longitude":-95.884666,
@@ -40,17 +41,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512739,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WLuuqbMv4GIFze68JTeZT_46.564624_-95.884666@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595815,
-    "wof:geomhash":"82244d75e68151652abcab9703afdccd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa1a97eb60f658c911e217e26febf0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512739,
+            "region_id":85688727,
+            "venue_id":790436459
+        }
+    ],
     "wof:id":790436459,
-    "wof:lastmodified":1472629706,
+    "wof:lastmodified":1492837046,
     "wof:name":"Northwest Pipe & Tank Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

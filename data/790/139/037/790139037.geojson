@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.349997,45.643403,-94.349997,45.643403",
     "geom:latitude":45.643403,
     "geom:longitude":-94.349997,
@@ -31,17 +32,32 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510527,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mw0C8I1L33rmfXtveiJfu_45.643403_-94.349997@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593424,
-    "wof:geomhash":"364f6227eed4b7debb8314d94cb16455",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be3874b58bbb8b826861688225d7d1d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510527,
+            "region_id":85688727,
+            "venue_id":790139037
+        }
+    ],
     "wof:id":790139037,
-    "wof:lastmodified":1472629180,
+    "wof:lastmodified":1492831809,
     "wof:name":"Funkys Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

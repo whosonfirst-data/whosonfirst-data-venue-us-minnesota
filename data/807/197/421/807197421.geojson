@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.340715,43.921558,-96.340715,43.921558",
     "geom:latitude":43.921558,
     "geom:longitude":-96.340715,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513511,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XLzdunprp587VKjVqrNBe_43.921558_-96.340715@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604773,
-    "wof:geomhash":"58c3fd9da02866596cc3e4fd737a58d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66b616a0af3f66872bdb7faf4cb33f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513511,
+            "region_id":85688727,
+            "venue_id":807197421
+        }
+    ],
     "wof:id":807197421,
-    "wof:lastmodified":1472629403,
+    "wof:lastmodified":1492824264,
     "wof:name":"David Fick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.216066,44.063559,-93.216066,44.063559",
     "geom:latitude":44.063559,
     "geom:longitude":-93.216066,
@@ -33,17 +34,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SSrSXRhjWbW5AR9Dksh78_44.063559_-93.216066@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591586,
-    "wof:geomhash":"67514f9b18b88dd08a98921031195db2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe8bf28e94002ef9fa271a75be725fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":789915455
+        }
+    ],
     "wof:id":789915455,
-    "wof:lastmodified":1472629612,
+    "wof:lastmodified":1492812913,
     "wof:name":"Powerblock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.566737,44.885059,-93.566737,44.885059",
     "geom:latitude":44.885059,
     "geom:longitude":-93.566737,
@@ -28,17 +29,34 @@
     "sg:postcode":"55331",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ABzNCsdLv3zrIAm4qLMQf_44.885059_-93.566737@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599419,
-    "wof:geomhash":"d8005b56c9d5cc72c4996f21bc209468",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c128bf40b447dcef1263d57c4734ff20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":806592953
+        }
+    ],
     "wof:id":806592953,
-    "wof:lastmodified":1472629517,
+    "wof:lastmodified":1492818518,
     "wof:name":"Waste Watchers Sewer & Drain C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

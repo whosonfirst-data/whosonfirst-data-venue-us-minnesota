@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.805314,46.655744,-95.805314,46.655744",
     "geom:latitude":46.655744,
     "geom:longitude":-95.805314,
@@ -44,17 +45,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513063,
+        85633793,
+        85968687,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dgGXZw5HuEeoPf1TpaeyJ_46.655744_-95.805314@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609496,
-    "wof:geomhash":"fe0063d09aed7701f0a5783841e47020",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17b18bd2b622f4d9ea1f6e312053ff91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513063,
+            "locality_id":85968687,
+            "region_id":85688727,
+            "venue_id":823257821
+        }
+    ],
     "wof:id":823257821,
-    "wof:lastmodified":1472629230,
+    "wof:lastmodified":1492830358,
     "wof:name":"Vergas Ford Equipment Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

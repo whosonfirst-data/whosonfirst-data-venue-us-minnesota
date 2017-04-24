@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360216,43.641616,-93.360216,43.641616",
     "geom:latitude":43.641616,
     "geom:longitude":-93.360216,
@@ -31,17 +32,34 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mOyQSWY8yLYIlvEZb99CV_43.641616_-93.360216@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599758,
-    "wof:geomhash":"0610b661b2370ba8b49b03d65dd435d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e05ebf245a0c0c50b0b54a3e0218501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806632617
+        }
+    ],
     "wof:id":806632617,
-    "wof:lastmodified":1472629556,
+    "wof:lastmodified":1492818665,
     "wof:name":"Academy Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

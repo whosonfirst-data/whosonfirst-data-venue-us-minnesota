@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.25486,45.57976,-94.25486,45.57976",
     "geom:latitude":45.57976,
     "geom:longitude":-94.25486,
@@ -32,17 +33,34 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1u5nBbwQ8rgxHZviPetSny_45.579760_-94.254860@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583426,
-    "wof:geomhash":"c48ffa3112772793347935bb2d698604",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80408ce4ce024d9002b56c1690444480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773138393
+        }
+    ],
     "wof:id":773138393,
-    "wof:lastmodified":1472629692,
+    "wof:lastmodified":1492802008,
     "wof:name":"Saint Cloud Futures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

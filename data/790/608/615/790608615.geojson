@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.083921,46.296607,-96.083921,46.296607",
     "geom:latitude":46.296607,
     "geom:longitude":-96.083921,
@@ -28,17 +29,34 @@
     "sg:postcode":"56537",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1knEImLiWP3tr2anMhriMe_46.296607_-96.083921@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597290,
-    "wof:geomhash":"4da14a2b6097efe87275c741a8a48d2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eee17ea2d559af29db09762e0864d61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":790608615
+        }
+    ],
     "wof:id":790608615,
-    "wof:lastmodified":1472629920,
+    "wof:lastmodified":1492835981,
     "wof:name":"Otter Tail Cnty Motor Vehicle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

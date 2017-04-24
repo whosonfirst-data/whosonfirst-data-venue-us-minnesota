@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.52692,47.463986,-92.52692,47.463986",
     "geom:latitude":47.463986,
     "geom:longitude":-92.52692,
@@ -31,17 +32,26 @@
         "network"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42StQO5GHOLJVgPfBhjj0A_47.463986_-92.526920@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595588,
-    "wof:geomhash":"418ceb64dbb0046ad2c610c51ce72ad7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98b4d4f23da95facc07ceb8de6f9aa82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790407325
+        }
+    ],
     "wof:id":790407325,
-    "wof:lastmodified":1472629681,
+    "wof:lastmodified":1492834670,
     "wof:name":"Blackwood Computer Services",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

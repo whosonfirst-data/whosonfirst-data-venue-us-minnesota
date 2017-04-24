@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.119629,44.540047,-95.119629,44.540047",
     "geom:latitude":44.540047,
     "geom:longitude":-95.119629,
@@ -28,17 +29,34 @@
     "sg:postcode":"56283",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512313,
+        85633793,
+        85968817,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hBd36mTxkmJ5f61YzyA7w_44.540047_-95.119629@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585802,
-    "wof:geomhash":"784e67a8844a5a4292a838c92620a766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b26c26bccf1716de38ae52cb687559e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512313,
+            "locality_id":85968817,
+            "region_id":85688727,
+            "venue_id":773445049
+        }
+    ],
     "wof:id":773445049,
-    "wof:lastmodified":1472630053,
+    "wof:lastmodified":1492802752,
     "wof:name":"Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

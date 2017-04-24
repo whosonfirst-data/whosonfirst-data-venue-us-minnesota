@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.975922,47.527288,-94.975922,47.527288",
     "geom:latitude":47.527288,
     "geom:longitude":-94.975922,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511383,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OuhOSI7LoMUL7P7Vtbiik_47.527288_-94.975922@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601037,
-    "wof:geomhash":"053f596600715121ef7ed97a2586b02e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72aaa82764149e400c238af1d03d3394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511383,
+            "region_id":85688727,
+            "venue_id":806782165
+        }
+    ],
     "wof:id":806782165,
-    "wof:lastmodified":1472629816,
+    "wof:lastmodified":1492816722,
     "wof:name":"Larry Knutson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

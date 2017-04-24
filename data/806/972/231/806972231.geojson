@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.60246,43.86549,-95.60246,43.86549",
     "geom:latitude":43.86549,
     "geom:longitude":-95.60246,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513179,
+        85633793,
+        85952767,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_518MbC0bC47df9oSuakkne_43.865490_-95.602460@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602628,
-    "wof:geomhash":"0983fc163c7a7097d51e74973ec5527f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"613002feabe258b146bcc53b13394e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513179,
+            "locality_id":85952767,
+            "region_id":85688727,
+            "venue_id":806972231
+        }
+    ],
     "wof:id":806972231,
-    "wof:lastmodified":1472629966,
+    "wof:lastmodified":1492817932,
     "wof:name":"Mapleview Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

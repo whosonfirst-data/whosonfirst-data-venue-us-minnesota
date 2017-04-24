@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.492179,44.02531,-92.492179,44.02531",
     "geom:latitude":44.02531,
     "geom:longitude":-92.492179,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i9In3f3qSEEePhpytfXfO_44.025310_-92.492179@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590156,
-    "wof:geomhash":"a3b963e23012023986893b0f146545b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89af25b1046a33676dad6ffc8502341d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789737533
+        }
+    ],
     "wof:id":789737533,
-    "wof:lastmodified":1472629240,
+    "wof:lastmodified":1492812066,
     "wof:name":"Cedar Center Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.211525,43.775226,-93.211525,43.775226",
     "geom:latitude":43.775226,
     "geom:longitude":-93.211525,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514413,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VQYsr2iPFC58eW9d57GsD_43.775226_-93.211525@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609138,
-    "wof:geomhash":"ba4a834e336668c09489a6c759b885d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30b7307de5b1375e81fd62d00e07a680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514413,
+            "region_id":85688727,
+            "venue_id":823239349
+        }
+    ],
     "wof:id":823239349,
-    "wof:lastmodified":1472629143,
+    "wof:lastmodified":1492828347,
     "wof:name":"Michael Phillips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

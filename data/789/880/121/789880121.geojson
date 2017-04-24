@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.687052,45.379678,-92.687052,45.379678",
     "geom:latitude":45.379678,
     "geom:longitude":-92.687052,
@@ -31,17 +32,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511113,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wDQTvtoEU4gjRQOMeDM6I_45.379678_-92.687052@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591291,
-    "wof:geomhash":"d065c44efca45b77608da0c2eeaeae53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be73b294d9ed0a748f4631274deec99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511113,
+            "region_id":85688727,
+            "venue_id":789880121
+        }
+    ],
     "wof:id":789880121,
-    "wof:lastmodified":1472629548,
+    "wof:lastmodified":1492809219,
     "wof:name":"Hanson Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.371647,45.007253,-93.371647,45.007253",
     "geom:latitude":45.007253,
     "geom:longitude":-93.371647,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511717,
+        85633793,
+        85969205,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FxfWAnNn1FKaSvmUHZfBi_45.007253_-93.371647@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592832,
-    "wof:geomhash":"5ca5393bf056f7529e15e97d277181ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0ebe2c257f8c3f491ab281eaaa5b9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511717,
+            "locality_id":85969205,
+            "region_id":85688727,
+            "venue_id":790061603
+        }
+    ],
     "wof:id":790061603,
-    "wof:lastmodified":1472629050,
+    "wof:lastmodified":1492831234,
     "wof:name":"Co Rect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

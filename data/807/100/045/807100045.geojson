@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.899473,43.851445,-94.899473,43.851445",
     "geom:latitude":43.851445,
     "geom:longitude":-94.899473,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509507,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RkkpaUyiBvlA1OGS4uBvN_43.851445_-94.899473@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603728,
-    "wof:geomhash":"2e5270fa9c263c7eccef224db62c07a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5626e8437dc128ee6b19827ae09f32be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509507,
+            "region_id":85688727,
+            "venue_id":807100045
+        }
+    ],
     "wof:id":807100045,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492824075,
     "wof:name":"Greg Gohr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

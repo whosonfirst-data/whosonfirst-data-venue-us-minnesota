@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.397115,43.84983,-96.397115,43.84983",
     "geom:latitude":43.84983,
     "geom:longitude":-96.397115,
@@ -40,17 +41,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513525,
+        85633793,
+        85953037,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lflberI6sBy2sdUXAtRFX_43.849830_-96.397115@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609186,
-    "wof:geomhash":"6c59a242ae0abf4a719b3be787478e60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da2734592d8b4ebbb044ab06c9441959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513525,
+            "locality_id":85953037,
+            "region_id":85688727,
+            "venue_id":823242063
+        }
+    ],
     "wof:id":823242063,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492828600,
     "wof:name":"City Of Jasper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

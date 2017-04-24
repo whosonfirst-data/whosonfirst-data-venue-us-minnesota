@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.977816,44.150351,-93.977816,44.150351",
     "geom:latitude":44.150351,
     "geom:longitude":-93.977816,
@@ -32,17 +33,34 @@
         "perfume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_259MNlLCb6ry3nSaGoFjVw_44.150351_-93.977816@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600601,
-    "wof:geomhash":"6202d30303a5514fb2fac569095f0197",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0202fe590d0b218581899f38781dca6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":806731931
+        }
+    ],
     "wof:id":806731931,
-    "wof:lastmodified":1472629769,
+    "wof:lastmodified":1492814849,
     "wof:name":"Avon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

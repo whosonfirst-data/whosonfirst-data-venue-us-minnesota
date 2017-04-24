@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223937,45.568221,-93.223937,45.568221",
     "geom:latitude":45.568221,
     "geom:longitude":-93.223937,
@@ -32,17 +33,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xE4DBA2dwNfkWyilo7Nbc_45.568221_-93.223937@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584866,
-    "wof:geomhash":"8a384798a12c67f707a85058c3a60c92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0330f384499cc24b0ed03cb1290cdd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":773323613
+        }
+    ],
     "wof:id":773323613,
-    "wof:lastmodified":1472630010,
+    "wof:lastmodified":1492807150,
     "wof:name":"Senior Est Spec Tarkenton Fin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

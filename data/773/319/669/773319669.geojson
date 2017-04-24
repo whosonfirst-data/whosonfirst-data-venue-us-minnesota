@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.004151,43.879303,-96.004151,43.879303",
     "geom:latitude":43.879303,
     "geom:longitude":-96.004151,
@@ -28,17 +29,32 @@
     "sg:postcode":"56122",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513195,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hcdEeP2SGDSTkqBm6VKxL_43.879303_-96.004151@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584840,
-    "wof:geomhash":"fe70d1e2f26284e028fa556cb10ca1cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8d91862ea118b66586cdd2c80d7e1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513195,
+            "region_id":85688727,
+            "venue_id":773319669
+        }
+    ],
     "wof:id":773319669,
-    "wof:lastmodified":1472630005,
+    "wof:lastmodified":1492800460,
     "wof:name":"Van Dam Allen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

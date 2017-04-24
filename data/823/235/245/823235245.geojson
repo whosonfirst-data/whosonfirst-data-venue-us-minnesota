@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.48214,43.867321,-92.48214,43.867321",
     "geom:latitude":43.867321,
     "geom:longitude":-92.48214,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512597,
+        85633793,
+        85953503,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zMzpRR17MEUJBQCs5znxU_43.867321_-92.482140@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609055,
-    "wof:geomhash":"070558683d2bca5c626aa61ca528bdb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00ca085ace58eb5ac8855d799ef250da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512597,
+            "locality_id":85953503,
+            "region_id":85688727,
+            "venue_id":823235245
+        }
+    ],
     "wof:id":823235245,
-    "wof:lastmodified":1472629128,
+    "wof:lastmodified":1492831053,
     "wof:name":"Golfview Village Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

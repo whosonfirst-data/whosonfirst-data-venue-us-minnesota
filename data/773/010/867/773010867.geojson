@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.593555,43.699832,-95.593555,43.699832",
     "geom:latitude":43.699832,
     "geom:longitude":-95.593555,
@@ -33,17 +34,32 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510257,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MpFkcih0jKuBNIM9KDeLG_43.699832_-95.593555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582321,
-    "wof:geomhash":"8c99b00e514034ef4fd2c62336c6a2ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a93783e6935827dede02fac43baae584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510257,
+            "region_id":85688727,
+            "venue_id":773010867
+        }
+    ],
     "wof:id":773010867,
-    "wof:lastmodified":1472629016,
+    "wof:lastmodified":1492800927,
     "wof:name":"Pro Transportation Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

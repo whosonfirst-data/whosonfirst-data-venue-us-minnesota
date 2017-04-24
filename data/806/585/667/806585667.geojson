@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.175747,44.899234,-93.175747,44.899234",
     "geom:latitude":44.899234,
     "geom:longitude":-93.175747,
@@ -33,19 +34,38 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KecSjVEIIs3HBsf5WBb3q_44.899234_-93.175747@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599363,
-    "wof:geomhash":"beec0a25ff6e2dac52a2246c3aa47c2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23024ee38fb7be0f4149854e7f4a58c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806585667
+        }
+    ],
     "wof:id":806585667,
-    "wof:lastmodified":1472629506,
+    "wof:lastmodified":1492821720,
     "wof:name":"Fort Road Automotive Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

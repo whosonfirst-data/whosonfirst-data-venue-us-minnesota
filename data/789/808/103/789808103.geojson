@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223294,45.087492,-93.223294,45.087492",
     "geom:latitude":45.087492,
     "geom:longitude":-93.223294,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qxzGFPC7DBcnz8bqIcoTk_45.087492_-93.223294@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590700,
-    "wof:geomhash":"f211702875cfdf26a6e6cf07ab9c8032",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf8af217f7e4619091905b158db3bd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":789808103
+        }
+    ],
     "wof:id":789808103,
-    "wof:lastmodified":1472629379,
+    "wof:lastmodified":1492809443,
     "wof:name":"Calguire Group Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

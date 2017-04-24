@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.090458,45.581842,-94.090458,45.581842",
     "geom:latitude":45.581842,
     "geom:longitude":-94.090458,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511465,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BDbAG2QgNCwLpioauTKva_45.581842_-94.090458@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587439,
-    "wof:geomhash":"b1fff32274b06136bf88d5b8807def4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcef0c97e1531a9a27df1e429058700c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511465,
+            "region_id":85688727,
+            "venue_id":773665921
+        }
+    ],
     "wof:id":773665921,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492805379,
     "wof:name":"Granite City Heating Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

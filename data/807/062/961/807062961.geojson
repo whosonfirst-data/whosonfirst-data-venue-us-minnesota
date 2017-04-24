@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.616625,47.364479,-94.616625,47.364479",
     "geom:latitude":47.364479,
     "geom:longitude":-94.616625,
@@ -31,17 +32,32 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511735,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kWvsSVnXcMBCVnLktx5bi_47.364479_-94.616625@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603393,
-    "wof:geomhash":"d890e00ccdac9c45f6cbad7560e6ba68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a567b78adf53b6213c8b199bff96f5cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511735,
+            "region_id":85688727,
+            "venue_id":807062961
+        }
+    ],
     "wof:id":807062961,
-    "wof:lastmodified":1472629076,
+    "wof:lastmodified":1492827047,
     "wof:name":"Pike Bay Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

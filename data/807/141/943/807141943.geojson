@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.819056,44.684228,-93.819056,44.684228",
     "geom:latitude":44.684228,
     "geom:longitude":-93.819056,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509361,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3I8E0ieH7H1Smpmifr9Mwb_44.684228_-93.819056@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604179,
-    "wof:geomhash":"0929abbc20add785a7ea8eeaaddb6760",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47ce760a4a6dc8a62f4417f3bd6cbd64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404509361,
+            "region_id":85688727,
+            "venue_id":807141943
+        }
+    ],
     "wof:id":807141943,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492826193,
     "wof:name":"Walter Koepp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

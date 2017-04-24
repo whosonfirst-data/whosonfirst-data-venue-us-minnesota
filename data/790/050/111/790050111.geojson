@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.399863,44.836787,-93.399863,44.836787",
     "geom:latitude":44.836787,
     "geom:longitude":-93.399863,
@@ -33,17 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SDoo5mZMbn1FzjwW4j7Fi_44.836787_-93.399863@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592722,
-    "wof:geomhash":"5cda837f2ac450dd92921bbef9ca6351",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99030af834abfcbcd89c321ef0c3d75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":790050111
+        }
+    ],
     "wof:id":790050111,
-    "wof:lastmodified":1472629022,
+    "wof:lastmodified":1492838070,
     "wof:name":"Fitness Matrix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.281027,45.471366,-93.281027,45.471366",
     "geom:latitude":45.471366,
     "geom:longitude":-93.281027,
@@ -31,17 +32,32 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513125,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cIe2YRidkkcbHWMi0YlNV_45.471366_-93.281027@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605275,
-    "wof:geomhash":"eaa7400807d3a75bba86a0c451aab469",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f00ebb4189a79c0c72621ea8239ae9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513125,
+            "region_id":85688727,
+            "venue_id":807244861
+        }
+    ],
     "wof:id":807244861,
-    "wof:lastmodified":1472629499,
+    "wof:lastmodified":1492827606,
     "wof:name":"Enterprise Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

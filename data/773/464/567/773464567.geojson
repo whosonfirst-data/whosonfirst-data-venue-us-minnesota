@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.468842,45.610335,-94.468842,45.610335",
     "geom:latitude":45.610335,
     "geom:longitude":-94.468842,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Lv9tKkPlUcI6ZeCZoUGko_45.610335_-94.468842@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585949,
-    "wof:geomhash":"4e1f488d67d8d426dd6422a431066f8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"062b5a25a94543bcef9b0627238ad73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "region_id":85688727,
+            "venue_id":773464567
+        }
+    ],
     "wof:id":773464567,
-    "wof:lastmodified":1472630061,
+    "wof:lastmodified":1492806138,
     "wof:name":"Scott Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

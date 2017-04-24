@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.585996,47.340498,-92.585996,47.340498",
     "geom:latitude":47.340498,
     "geom:longitude":-92.585996,
@@ -31,17 +32,26 @@
         "photographers-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QJSgkcrSscrdB8bweqkPZ_47.340498_-92.585996@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608839,
-    "wof:geomhash":"35bec5a152ad33354a520bae09cd63f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2026e4ba3eae620096d3780bb4b7e5d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224995
+        }
+    ],
     "wof:id":823224995,
-    "wof:lastmodified":1472629116,
+    "wof:lastmodified":1492828765,
     "wof:name":"Great Dane Photos",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

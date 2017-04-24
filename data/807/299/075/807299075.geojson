@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.761928,45.158529,-93.761928,45.158529",
     "geom:latitude":45.158529,
     "geom:longitude":-93.761928,
@@ -36,17 +37,34 @@
         "trust"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dIHsgdWkfMRI2sXCzffTQ_45.158529_-93.761928@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605840,
-    "wof:geomhash":"776edae390da804209ff5b8bf6610f50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd29de3ca61656e85452d07f3cf314b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":807299075
+        }
+    ],
     "wof:id":807299075,
-    "wof:lastmodified":1472629603,
+    "wof:lastmodified":1492823627,
     "wof:name":"Weber Law Firm P C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

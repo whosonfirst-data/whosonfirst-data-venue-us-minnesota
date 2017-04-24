@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.723667,44.939011,-95.723667,44.939011",
     "geom:latitude":44.939011,
     "geom:longitude":-95.723667,
@@ -31,17 +32,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6V2w4OMc2Ip4DyOQLxpRCa_44.938385_-95.724372@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604760,
-    "wof:geomhash":"84679049330343c851e324e1bce2f524",
-    "wof:hierarchy":[],
+    "wof:geomhash":"779ac8d9fec0aa1e76e1c1d5cf01e0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":807196169
+        }
+    ],
     "wof:id":807196169,
-    "wof:lastmodified":1472629388,
+    "wof:lastmodified":1492822468,
     "wof:name":"Dave's Sales & Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

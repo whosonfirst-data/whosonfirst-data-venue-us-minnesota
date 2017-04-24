@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.035617,46.919735,-95.035617,46.919735",
     "geom:latitude":46.919735,
     "geom:longitude":-95.035617,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512835,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NGGNAwXo41Ora5LnU5Wbp_46.919735_-95.035617@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600297,
-    "wof:geomhash":"48fb79e35e83d6d158e470744443485a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"965689efad47d8b7375071c1917e3f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512835,
+            "region_id":85688727,
+            "venue_id":806695069
+        }
+    ],
     "wof:id":806695069,
-    "wof:lastmodified":1472629705,
+    "wof:lastmodified":1492821143,
     "wof:name":"Bw Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

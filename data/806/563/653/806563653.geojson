@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.552955,48.40181,-93.552955,48.40181",
     "geom:latitude":48.40181,
     "geom:longitude":-93.552955,
@@ -38,17 +39,34 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509929,
+        85633793,
+        85968307,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cQXhT1yYymSESedU13zAi_48.401810_-93.552955@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599155,
-    "wof:geomhash":"47e123ca67b7c5719c607fe3205ed51c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb2b26011d35193c084213e1f8a86be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404509929,
+            "locality_id":85968307,
+            "region_id":85688727,
+            "venue_id":806563653
+        }
+    ],
     "wof:id":806563653,
-    "wof:lastmodified":1472629463,
+    "wof:lastmodified":1492820146,
     "wof:name":"Littlefork Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

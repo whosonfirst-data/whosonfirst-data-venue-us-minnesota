@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.798295,44.434539,-95.798295,44.434539",
     "geom:latitude":44.434539,
     "geom:longitude":-95.798295,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EXBzgVcPFii4md93k4ETS_44.434539_-95.798295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603523,
-    "wof:geomhash":"b10d28f406aad88eefeeb2d6fe11db42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f7d8af01f7495a0992660b48301bfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":807078857
+        }
+    ],
     "wof:id":807078857,
-    "wof:lastmodified":1472629102,
+    "wof:lastmodified":1492825955,
     "wof:name":"Patricia Debaere",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

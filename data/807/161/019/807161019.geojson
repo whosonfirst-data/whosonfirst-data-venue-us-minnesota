@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.576401,46.267946,-96.576401,46.267946",
     "geom:latitude":46.267946,
     "geom:longitude":-96.576401,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514997,
+        85633793,
+        85952501,
+        102087021
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OCwkBhHmybRbHo5DGQMln_46.267946_-96.576401@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604389,
-    "wof:geomhash":"1ec76891314a480ce673bb03fd29fe6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b27f75afa25871e2f180b4740eca66cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087021,
+            "localadmin_id":404514997,
+            "locality_id":85952501,
+            "region_id":85688727,
+            "venue_id":807161019
+        }
+    ],
     "wof:id":807161019,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492824808,
     "wof:name":"Russell Marple",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

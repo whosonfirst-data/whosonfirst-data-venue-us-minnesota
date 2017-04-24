@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540009,47.463165,-92.540009,47.463165",
     "geom:latitude":47.463165,
     "geom:longitude":-92.540009,
@@ -33,17 +34,26 @@
         "novelty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T748YwxpARA3oVBd5sIB4_47.463165_-92.540009@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590787,
-    "wof:geomhash":"b1a0619e5ce988f852da927411e9b2f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a269c00ec8413282be4a1c80f8255869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789819851
+        }
+    ],
     "wof:id":789819851,
-    "wof:lastmodified":1472629412,
+    "wof:lastmodified":1492809213,
     "wof:name":"Thru The Grapevine",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

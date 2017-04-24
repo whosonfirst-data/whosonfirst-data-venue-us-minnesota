@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.781466,46.731025,-96.781466,46.731025",
     "geom:latitude":46.731025,
     "geom:longitude":-96.781466,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688525,
+        85877329,
+        102191575,
+        404478877,
         85633793,
         85982177,
         102082073,
-        85877329
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,11 +49,13 @@
     },
     "wof:country":"US",
     "wof:created":1462596060,
-    "wof:geomhash":"d8d881aa5832b8b3389727bf8e31026d",
+    "wof:geomhash":"074be0ada4cb43104d84bac584e6c7a1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082073,
+            "localadmin_id":404478877,
             "locality_id":85982177,
             "neighbourhood_id":85877329,
             "region_id":85688525,
@@ -58,7 +63,7 @@
         }
     ],
     "wof:id":790466431,
-    "wof:lastmodified":1472629748,
+    "wof:lastmodified":1492835095,
     "wof:name":"Cars & Stripes",
     "wof:parent_id":85877329,
     "wof:placetype":"venue",

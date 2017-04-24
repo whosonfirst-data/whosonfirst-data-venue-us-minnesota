@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.062866,44.99322,-94.062866,44.99322",
     "geom:latitude":44.99322,
     "geom:longitude":-94.062866,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515259,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oz3kn386xfF0dJYaKXMSu_44.993220_-94.062866@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602601,
-    "wof:geomhash":"5f0e50779dd2f5e8940c8721380d3f2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d821d7d6723c8d94a9db0c7f0d76fb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515259,
+            "region_id":85688727,
+            "venue_id":806968759
+        }
+    ],
     "wof:id":806968759,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492822016,
     "wof:name":"Horstmann Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

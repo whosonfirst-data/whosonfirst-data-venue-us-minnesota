@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.90922,44.436038,-93.90922,44.436038",
     "geom:latitude":44.436038,
     "geom:longitude":-93.90922,
@@ -31,17 +32,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512361,
+        85633793,
+        85953331,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08QF3qnUF9HaOAxfc3UG4V_44.436038_-93.909220@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582350,
-    "wof:geomhash":"e4ef2a5d464371d2e91afed042f8d122",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35807ad0f090ee717ea53942d5e0a8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512361,
+            "locality_id":85953331,
+            "region_id":85688727,
+            "venue_id":773012055
+        }
+    ],
     "wof:id":773012055,
-    "wof:lastmodified":1472628949,
+    "wof:lastmodified":1492803083,
     "wof:name":"Joe Hix Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

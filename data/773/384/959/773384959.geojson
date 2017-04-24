@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.382008,45.902999,-95.382008,45.902999",
     "geom:latitude":45.902999,
     "geom:longitude":-95.382008,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0grrRVyIZGWYsoreTNYG08_45.902999_-95.382008@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585289,
-    "wof:geomhash":"30df8a9a9092b24c131cdaa5dab33875",
-    "wof:hierarchy":[],
+    "wof:geomhash":"474d55174bfb55c4de42ce68c0935519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773384959
+        }
+    ],
     "wof:id":773384959,
-    "wof:lastmodified":1472630036,
+    "wof:lastmodified":1492806610,
     "wof:name":"Bch Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

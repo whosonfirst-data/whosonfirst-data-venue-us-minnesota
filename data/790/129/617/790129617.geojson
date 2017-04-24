@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.825946,46.806288,-95.825946,46.806288",
     "geom:latitude":46.806288,
     "geom:longitude":-95.825946,
@@ -32,17 +33,34 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fTsXzemsclJuppAhEOXcX_46.806288_-95.825946@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593358,
-    "wof:geomhash":"8ec4bb3db9b4962eeae344377013b990",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90f9ddec41869c4a0dc258e3697a2f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":790129617
+        }
+    ],
     "wof:id":790129617,
-    "wof:lastmodified":1472629196,
+    "wof:lastmodified":1492835896,
     "wof:name":"Seashore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

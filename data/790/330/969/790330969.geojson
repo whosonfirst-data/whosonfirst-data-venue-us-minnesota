@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286671,44.948288,-93.286671,44.948288",
     "geom:latitude":44.948288,
     "geom:longitude":-93.286671,
@@ -29,14 +30,15 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85831755,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594999,
-    "wof:geomhash":"f48a78862d4c0f65aabf07808218441c",
+    "wof:geomhash":"b554be51b5f65f91f57581b82faccb38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +54,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85831755,
-            "region_id":85688727,
-            "venue_id":790330969
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":790330969
         }
     ],
     "wof:id":790330969,
-    "wof:lastmodified":1472629518,
+    "wof:lastmodified":1492837085,
     "wof:name":"Darla's Beauty Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

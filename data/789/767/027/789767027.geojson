@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.57192,44.2188,-93.57192,44.2188",
     "geom:latitude":44.2188,
     "geom:longitude":-93.57192,
@@ -28,17 +29,34 @@
     "sg:postcode":"56096",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512377,
+        85633793,
+        85953427,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ycJk6XCWNEZKgrQ5WDAXt_44.218800_-93.571920@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590380,
-    "wof:geomhash":"2223cdbd9800c5c057ed563e897050b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f53b4b8749f2c6d33ebfcaaed3aa3ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512377,
+            "locality_id":85953427,
+            "region_id":85688727,
+            "venue_id":789767027
+        }
+    ],
     "wof:id":789767027,
-    "wof:lastmodified":1472629323,
+    "wof:lastmodified":1492810824,
     "wof:name":"Hardware Hank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

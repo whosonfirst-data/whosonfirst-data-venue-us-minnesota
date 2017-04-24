@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.948474,46.822824,-93.948474,46.822824",
     "geom:latitude":46.822824,
     "geom:longitude":-93.948474,
@@ -33,17 +34,32 @@
         "softening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509381,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jQ8DJdqX1c2tmd2dQoTu8_46.822824_-93.948474@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600550,
-    "wof:geomhash":"7afd0be055e4392452b3fc061f47314f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f8b249ab1da027d4284b6c3de58c674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509381,
+            "region_id":85688727,
+            "venue_id":806725693
+        }
+    ],
     "wof:id":806725693,
-    "wof:lastmodified":1472629756,
+    "wof:lastmodified":1492817879,
     "wof:name":"Water Doctors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

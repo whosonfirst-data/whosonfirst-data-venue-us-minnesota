@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.569573,45.208542,-93.569573,45.208542",
     "geom:latitude":45.208542,
     "geom:longitude":-93.569573,
@@ -32,17 +33,34 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K5lFPHVLBnJbKVghuzBGX_45.208551_-93.569507@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603690,
-    "wof:geomhash":"7848b41abe7c437728ddf07ac279bea6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebac5ef0ec4e1cf6156c1ca9e472310b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":807097277
+        }
+    ],
     "wof:id":807097277,
-    "wof:lastmodified":1472629185,
+    "wof:lastmodified":1492827372,
     "wof:name":"Click Logic Web Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.188496,43.858602,-92.188496,43.858602",
     "geom:latitude":43.858602,
     "geom:longitude":-92.188496,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509629,
+        85633793,
+        85953187,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nKUY2mvao4ygQvGaAsKDE_43.858602_-92.188496@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583548,
-    "wof:geomhash":"3fb35d19ed23c0e5a40862d3d5418e8a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"793d4b7cf66550a08da8e6000feee3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509629,
+            "locality_id":85953187,
+            "region_id":85688727,
+            "venue_id":773153423
+        }
+    ],
     "wof:id":773153423,
-    "wof:lastmodified":1472629732,
+    "wof:lastmodified":1492799979,
     "wof:name":"Humdingers Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

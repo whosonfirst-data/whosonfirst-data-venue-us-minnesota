@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.969838,44.957183,-92.969838,44.957183",
     "geom:latitude":44.957183,
     "geom:longitude":-92.969838,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514913,
+        85633793,
+        85953565,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XVMM2gC3V70gUrmgRMGLY_44.957183_-92.969838@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583086,
-    "wof:geomhash":"eb076622b97738832a5bd0c90beba753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa0c76353cd97755fd4bac8eac56ba13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514913,
+            "locality_id":85953565,
+            "region_id":85688727,
+            "venue_id":773090891
+        }
+    ],
     "wof:id":773090891,
-    "wof:lastmodified":1472629548,
+    "wof:lastmodified":1492803210,
     "wof:name":"Travel By Saffel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

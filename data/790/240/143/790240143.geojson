@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.871261,45.972073,-94.871261,45.972073",
     "geom:latitude":45.972073,
     "geom:longitude":-94.871261,
@@ -31,17 +32,34 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514725,
+        85633793,
+        85968365,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uAJlNoevZ1NNJRw9htETz_45.972073_-94.871261@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594249,
-    "wof:geomhash":"0bd64327522479396485d28a0305fe55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92b93e721bf905af4e2de7251ef9f989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514725,
+            "locality_id":85968365,
+            "region_id":85688727,
+            "venue_id":790240143
+        }
+    ],
     "wof:id":790240143,
-    "wof:lastmodified":1472629335,
+    "wof:lastmodified":1492836902,
     "wof:name":"Information Technology Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.016887,43.518198,-96.016887,43.518198",
     "geom:latitude":43.518198,
     "geom:longitude":-96.016887,
@@ -31,17 +32,34 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510259,
+        85633793,
+        85968669,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OIJpiGab2beTYLbp2ylRg_43.518198_-96.016887@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586140,
-    "wof:geomhash":"7055dfae7607ae12dc42a8c4d9ba58bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbfc032bb7626b57b997eeb52a4ed7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510259,
+            "locality_id":85968669,
+            "region_id":85688727,
+            "venue_id":773490295
+        }
+    ],
     "wof:id":773490295,
-    "wof:lastmodified":1472630071,
+    "wof:lastmodified":1492804643,
     "wof:name":"Bauman Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.736599,45.745979,-94.736599,45.745979",
     "geom:latitude":45.745979,
     "geom:longitude":-94.736599,
@@ -33,17 +34,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514379,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QDTpM0gnLLXJTbMgMHX2C_45.745979_-94.736599@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586958,
-    "wof:geomhash":"0ce82c36b2bfc08810f2be835cfbb85b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6c00f40db0d07c9a1592824d1e13da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514379,
+            "region_id":85688727,
+            "venue_id":773602521
+        }
+    ],
     "wof:id":773602521,
-    "wof:lastmodified":1472630105,
+    "wof:lastmodified":1492808905,
     "wof:name":"Central Minnesota Stamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

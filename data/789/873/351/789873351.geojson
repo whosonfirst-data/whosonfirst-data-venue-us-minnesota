@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.181074,45.70545,-94.181074,45.70545",
     "geom:latitude":45.70545,
     "geom:longitude":-94.181074,
@@ -28,17 +29,32 @@
     "sg:postcode":"56367",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509279,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PcLI1kvyGX9iAQCzgY1go_45.705450_-94.181074@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591212,
-    "wof:geomhash":"775116d3d49c41597737040f4fb671fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59afbd0cb7c124769b0680d17215638e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404509279,
+            "region_id":85688727,
+            "venue_id":789873351
+        }
+    ],
     "wof:id":789873351,
-    "wof:lastmodified":1472629559,
+    "wof:lastmodified":1492810901,
     "wof:name":"Healthpro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

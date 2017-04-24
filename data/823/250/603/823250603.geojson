@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.114745,45.943315,-94.114745,45.943315",
     "geom:latitude":45.943315,
     "geom:longitude":-94.114745,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512861,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DZ6XSVxLEmF6L1mbJ31eH_45.943315_-94.114745@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609347,
-    "wof:geomhash":"e59ce76de7d3837804759a5eb3682c89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a43a0a33bb679cf877b64f38ca1e55e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512861,
+            "region_id":85688727,
+            "venue_id":823250603
+        }
+    ],
     "wof:id":823250603,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492829906,
     "wof:name":"Becker Diesel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

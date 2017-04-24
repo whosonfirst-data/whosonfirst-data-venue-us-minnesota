@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.441585,45.096456,-93.441585,45.096456",
     "geom:latitude":45.096456,
     "geom:longitude":-93.441585,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.chipotle.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28IZlgW1jUBPFdvICGHHxp_45.096456_-93.441585@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595448,
-    "wof:geomhash":"cc64be8e53b6e5c3efe3b3bee3183eaf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ed80f6e610af085d81213653de7d9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":790388035
+        }
+    ],
     "wof:id":790388035,
-    "wof:lastmodified":1472629590,
+    "wof:lastmodified":1492837581,
     "wof:name":"Chipotle Mexican Grill Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

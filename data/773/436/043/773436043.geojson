@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.187636,45.042005,-93.187636,45.042005",
     "geom:latitude":45.042005,
     "geom:longitude":-93.187636,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514355,
+        85633793,
+        85953025,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZYtBSCyEiwofytzP67S7I_45.042005_-93.187636@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585726,
-    "wof:geomhash":"4d6df98fe0704f64f4dda5ff537ee07f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"157492e6b622f3a21effe16881122f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514355,
+            "locality_id":85953025,
+            "region_id":85688727,
+            "venue_id":773436043
+        }
+    ],
     "wof:id":773436043,
-    "wof:lastmodified":1472630052,
+    "wof:lastmodified":1492807531,
     "wof:name":"Metro Transit",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

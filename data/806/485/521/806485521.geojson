@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.621079,43.983478,-94.621079,43.983478",
     "geom:latitude":43.983478,
     "geom:longitude":-94.621079,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wEUhckAw2TR6F8AaQN9py_43.983478_-94.621079@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598510,
-    "wof:geomhash":"439a13ad894a3ea7c34cf7ccdb3b83ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9dfa09cd302b42fad2c7230264535ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":806485521
+        }
+    ],
     "wof:id":806485521,
-    "wof:lastmodified":1472629291,
+    "wof:lastmodified":1492814633,
     "wof:name":"Susan Sandmeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

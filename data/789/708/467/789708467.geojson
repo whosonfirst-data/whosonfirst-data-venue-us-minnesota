@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.083425,43.675528,-92.083425,43.675528",
     "geom:latitude":43.675528,
     "geom:longitude":-92.083425,
@@ -28,17 +29,34 @@
     "sg:postcode":"55965",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01jxLPOyQL1HoTTBPn9hI2_43.675528_-92.083425@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589919,
-    "wof:geomhash":"11063d6a7af2f290222ed1c0d9c97264",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1c95a08ce21cc4b0fcd9b599d236c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":789708467
+        }
+    ],
     "wof:id":789708467,
-    "wof:lastmodified":1472629234,
+    "wof:lastmodified":1492809621,
     "wof:name":"Preston Motor Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

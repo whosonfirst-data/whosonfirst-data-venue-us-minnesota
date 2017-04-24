@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.885382,47.487148,-94.885382,47.487148",
     "geom:latitude":47.487148,
     "geom:longitude":-94.885382,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fTawoWU4hAb5pXItxamWw_47.487148_-94.885382@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601666,
-    "wof:geomhash":"6b3fff53340743e6e3712b2d4ca31291",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd176d15ca93a394cdd7470c36d7d859",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":806857311
+        }
+    ],
     "wof:id":806857311,
-    "wof:lastmodified":1472629899,
+    "wof:lastmodified":1492818000,
     "wof:name":"St Bartholomew's Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

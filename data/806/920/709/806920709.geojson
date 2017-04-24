@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.389081,43.686732,-92.389081,43.686732",
     "geom:latitude":43.686732,
     "geom:longitude":-92.389081,
@@ -32,17 +33,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514285,
+        85633793,
+        85953093,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H4fkIxfihLJRoonzU4FRW_43.686732_-92.389081@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602194,
-    "wof:geomhash":"61d3db9abcbdc022eb9fd516ebcdfbcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88005d3cdad45b02f088159337bacef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514285,
+            "locality_id":85953093,
+            "region_id":85688727,
+            "venue_id":806920709
+        }
+    ],
     "wof:id":806920709,
-    "wof:lastmodified":1472629939,
+    "wof:lastmodified":1492817401,
     "wof:name":"Spring Valley Public Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

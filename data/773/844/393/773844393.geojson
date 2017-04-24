@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.723418,44.264269,-93.723418,44.264269",
     "geom:latitude":44.264269,
     "geom:longitude":-93.723418,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512215,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YTp9XNIXQnOi527qdVp1P_44.264269_-93.723418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588855,
-    "wof:geomhash":"9d61108c5812de21900693be196145e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d46fdcce2565495ca13e650df388438e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512215,
+            "region_id":85688727,
+            "venue_id":773844393
+        }
+    ],
     "wof:id":773844393,
-    "wof:lastmodified":1472630171,
+    "wof:lastmodified":1492800741,
     "wof:name":"Erdman Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

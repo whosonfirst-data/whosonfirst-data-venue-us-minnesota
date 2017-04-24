@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.001099,44.875309,-93.001099,44.875309",
     "geom:latitude":44.875309,
     "geom:longitude":-93.001099,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.boydsmotel.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514911,
+        85633793,
+        85953567,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3glHZeof9jFLh0hlTduNdU_44.875309_-93.001099@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605329,
-    "wof:geomhash":"6883d585c1defd8ad44dec0de05df7cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aa51390267aed4c7eec7dfaa6e308d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514911,
+            "locality_id":85953567,
+            "region_id":85688727,
+            "venue_id":807250521
+        }
+    ],
     "wof:id":807250521,
-    "wof:lastmodified":1472629520,
+    "wof:lastmodified":1492824914,
     "wof:name":"Boyd's Motels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

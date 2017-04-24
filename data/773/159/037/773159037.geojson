@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.651243,44.036786,-91.651243,44.036786",
     "geom:latitude":44.036786,
     "geom:longitude":-91.651243,
@@ -31,17 +32,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VwD4XNOqU2JmsAB1Gmkfp_44.036786_-91.651243@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583583,
-    "wof:geomhash":"ddbc8a2878b5997862afd429a2bb87da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e37c3d08cf21beb53f7b2d9e8059a476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":773159037
+        }
+    ],
     "wof:id":773159037,
-    "wof:lastmodified":1472629752,
+    "wof:lastmodified":1492800236,
     "wof:name":"Holzinger Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

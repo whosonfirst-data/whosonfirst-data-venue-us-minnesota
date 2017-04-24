@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.89313,46.156101,-93.89313,46.156101",
     "geom:latitude":46.156101,
     "geom:longitude":-93.89313,
@@ -31,17 +32,32 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510045,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XNyepLreomFM1RdkhIbbG_46.156101_-93.893130@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582842,
-    "wof:geomhash":"fc4e41f69b7c341f8431b974dde597d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c040e9f65ea5e03cc2272599ac3d8e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510045,
+            "region_id":85688727,
+            "venue_id":773059799
+        }
+    ],
     "wof:id":773059799,
-    "wof:lastmodified":1472629476,
+    "wof:lastmodified":1492799640,
     "wof:name":"Mille Lacs Family Clinics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326498,45.035644,-93.326498,45.035644",
     "geom:latitude":45.035644,
     "geom:longitude":-93.326498,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511901,
+        85633793,
+        85969129,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lQyZBu8qpWExxzW5yVwwe_45.035644_-93.326498@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590362,
-    "wof:geomhash":"0b8fd9f73b713238753088802b2c9865",
-    "wof:hierarchy":[],
+    "wof:geomhash":"332e406c45c310a5ba64941b627a1050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511901,
+            "locality_id":85969129,
+            "region_id":85688727,
+            "venue_id":789764277
+        }
+    ],
     "wof:id":789764277,
-    "wof:lastmodified":1472629327,
+    "wof:lastmodified":1492809429,
     "wof:name":"Elm Cottage Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

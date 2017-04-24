@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.396424,48.591053,-93.396424,48.591053",
     "geom:latitude":48.591053,
     "geom:longitude":-93.396424,
@@ -31,17 +32,34 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WnSuQfpxz2ustX7SeKk4O_48.591053_-93.396424@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603098,
-    "wof:geomhash":"8878b127231f5f879f7284010d3cd438",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b949c09bc98056f2f3733e5b663d995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":807026867
+        }
+    ],
     "wof:id":807026867,
-    "wof:lastmodified":1472628995,
+    "wof:lastmodified":1492822488,
     "wof:name":"Avis Rent A Car",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

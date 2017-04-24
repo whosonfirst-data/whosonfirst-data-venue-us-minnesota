@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.866249,45.983056,-94.866249,45.983056",
     "geom:latitude":45.983056,
     "geom:longitude":-94.866249,
@@ -31,17 +32,32 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514777,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tQBlolFx2r5el5ZzpEL8z_45.983056_-94.866249@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603173,
-    "wof:geomhash":"a118f63a32dafa54b9ce01fbf1933f94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b793d5200def6cae0efa1d90897318b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514777,
+            "region_id":85688727,
+            "venue_id":807036239
+        }
+    ],
     "wof:id":807036239,
-    "wof:lastmodified":1472628996,
+    "wof:lastmodified":1492827111,
     "wof:name":"Isensee Bus Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

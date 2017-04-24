@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.639653,45.517687,-94.639653,45.517687",
     "geom:latitude":45.517687,
     "geom:longitude":-94.639653,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514235,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gFCuDxtOYfCaNE8uqjf6I_45.517687_-94.639653@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589745,
-    "wof:geomhash":"3c6d2590b8124b660835b5f6101080db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3f563ef474e0553fa47b7f1d06026a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514235,
+            "region_id":85688727,
+            "venue_id":789685307
+        }
+    ],
     "wof:id":789685307,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492809855,
     "wof:name":"Westbeck Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

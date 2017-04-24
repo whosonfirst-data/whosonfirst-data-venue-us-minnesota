@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.27702,44.858948,-93.27702,44.858948",
     "geom:latitude":44.858948,
     "geom:longitude":-93.27702,
@@ -38,17 +39,34 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VxAHLpyU09vbVKhJyczpx_44.858948_-93.277020@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462607910,
-    "wof:geomhash":"4c3fb4eaadcecb67827c1dc99b219c1c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b76910f88be9b6496e2c27e4ce6fa9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823168411
+        }
+    ],
     "wof:id":823168411,
-    "wof:lastmodified":1472629003,
+    "wof:lastmodified":1492830754,
     "wof:name":"Unity South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

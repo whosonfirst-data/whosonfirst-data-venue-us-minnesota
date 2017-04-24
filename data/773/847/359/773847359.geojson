@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.317648,45.891312,-95.317648,45.891312",
     "geom:latitude":45.891312,
     "geom:longitude":-95.317648,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513753,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YRTkCASoAzVojIfRIODgi_45.891312_-95.317648@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588876,
-    "wof:geomhash":"87dd312a065912c9d749e63d8e3668df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73235e31108bc42c526a68066a448b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513753,
+            "region_id":85688727,
+            "venue_id":773847359
+        }
+    ],
     "wof:id":773847359,
-    "wof:lastmodified":1472630171,
+    "wof:lastmodified":1492806003,
     "wof:name":"Umet Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

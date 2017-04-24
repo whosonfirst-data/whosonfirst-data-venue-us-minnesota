@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.009896,47.676866,-93.009896,47.676866",
     "geom:latitude":47.676866,
     "geom:longitude":-93.009896,
@@ -31,17 +32,36 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iPq5PFFU4UyS409EL31WE_47.676866_-93.009896@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601828,
-    "wof:geomhash":"e0ae3dcda79aabd7d0fac922912cdb41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34075db75b2e3e389e67a224d2c68871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":806877069
+        }
+    ],
     "wof:id":806877069,
-    "wof:lastmodified":1472629907,
+    "wof:lastmodified":1492818307,
     "wof:name":"Natural Resources-Work Station",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

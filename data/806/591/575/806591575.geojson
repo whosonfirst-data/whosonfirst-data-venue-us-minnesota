@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.984858,45.969354,-93.984858,45.969354",
     "geom:latitude":45.969354,
     "geom:longitude":-93.984858,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512715,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qXG7uV58OYK1387gfe7Uk_45.969354_-93.984858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599410,
-    "wof:geomhash":"3360647f572718c2d86b5ba7283366f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6cc8fcb69cadbf74f2045de9863706c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512715,
+            "region_id":85688727,
+            "venue_id":806591575
+        }
+    ],
     "wof:id":806591575,
-    "wof:lastmodified":1472629504,
+    "wof:lastmodified":1492819796,
     "wof:name":"Ted Kasper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

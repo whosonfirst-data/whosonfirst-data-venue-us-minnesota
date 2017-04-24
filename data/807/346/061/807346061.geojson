@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.659935,44.85928,-93.659935,44.85928",
     "geom:latitude":44.85928,
     "geom:longitude":-93.659935,
@@ -38,17 +39,34 @@
     ],
     "sg:website":"www.kleinbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511603,
+        85633793,
+        85953353,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tX5VozFTUXHA42dxTn1Bb_44.859280_-93.659935@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606447,
-    "wof:geomhash":"27c023166b255acf0de1d9d3478048ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd0b77ac8c3e544ff78930ae9b0fe3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511603,
+            "locality_id":85953353,
+            "region_id":85688727,
+            "venue_id":807346061
+        }
+    ],
     "wof:id":807346061,
-    "wof:lastmodified":1472629766,
+    "wof:lastmodified":1492826262,
     "wof:name":"KleinBank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

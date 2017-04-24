@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.088569,47.368863,-96.088569,47.368863",
     "geom:latitude":47.368863,
     "geom:longitude":-96.088569,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512427,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N9RAKUXF6R1pZR3KVvC2D_47.368863_-96.088569@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604875,
-    "wof:geomhash":"a244676d520aeb1a35e60e3f66de81a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a84371641a07001f53b0cb71b2808faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512427,
+            "region_id":85688727,
+            "venue_id":807207771
+        }
+    ],
     "wof:id":807207771,
-    "wof:lastmodified":1472629416,
+    "wof:lastmodified":1492825752,
     "wof:name":"Peter Moen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

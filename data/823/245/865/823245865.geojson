@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.196394,45.015301,-96.196394,45.015301",
     "geom:latitude":45.015301,
     "geom:longitude":-96.196394,
@@ -37,17 +38,34 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514429,
+        85633793,
+        85968985,
+        102087677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SP70PxdwqjQmKydW2tRYr_45.015301_-96.196394@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609257,
-    "wof:geomhash":"05aef7fa490b0b424d20ba25bdb9e951",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82a91d5ce6c9948bfb4657f740bf300c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087677,
+            "localadmin_id":404514429,
+            "locality_id":85968985,
+            "region_id":85688727,
+            "venue_id":823245865
+        }
+    ],
     "wof:id":823245865,
-    "wof:lastmodified":1472629174,
+    "wof:lastmodified":1492829436,
     "wof:name":"Charles Bormann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

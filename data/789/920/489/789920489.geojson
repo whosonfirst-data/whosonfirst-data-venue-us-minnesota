@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.051394,45.170737,-93.051394,45.170737",
     "geom:latitude":45.170737,
     "geom:longitude":-93.051394,
@@ -31,17 +32,34 @@
         "reporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509191,
+        85633793,
+        85953407,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jCsnCYuYy8WvazYzyEign_45.170737_-93.051394@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591631,
-    "wof:geomhash":"b22a6be3c0bc987afdabe0056f77318b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8a0c104eb04818958cb955e90d3ab5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404509191,
+            "locality_id":85953407,
+            "region_id":85688727,
+            "venue_id":789920489
+        }
+    ],
     "wof:id":789920489,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492811151,
     "wof:name":"Minneapolis Writing Servi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.044109,43.993696,-96.044109,43.993696",
     "geom:latitude":43.993696,
     "geom:longitude":-96.044109,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513169,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EiGdF19XbzFVXmUcthyVG_43.993696_-96.044109@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602311,
-    "wof:geomhash":"90d71f9ecf10fe3cb3551a78160e6c51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acc684635f32df2b66d901697b055433",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513169,
+            "region_id":85688727,
+            "venue_id":806934745
+        }
+    ],
     "wof:id":806934745,
-    "wof:lastmodified":1472629948,
+    "wof:lastmodified":1492818022,
     "wof:name":"Calico Beef",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.705607,45.898389,-94.705607,45.898389",
     "geom:latitude":45.898389,
     "geom:longitude":-94.705607,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514701,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h0l9Agl5rhrdjUjc8kM88_45.898389_-94.705607@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590985,
-    "wof:geomhash":"8d0ce6a4767b06296c409f3157525707",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a68614da4592d2ec44e4ae88079b6b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514701,
+            "region_id":85688727,
+            "venue_id":789844037
+        }
+    ],
     "wof:id":789844037,
-    "wof:lastmodified":1472629444,
+    "wof:lastmodified":1492809990,
     "wof:name":"Thomas Nienaber Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

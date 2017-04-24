@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.548637,44.560867,-92.548637,44.560867",
     "geom:latitude":44.560867,
     "geom:longitude":-92.548637,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85896889,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85896889
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,11 +51,13 @@
     },
     "wof:country":"US",
     "wof:created":1462583462,
-    "wof:geomhash":"a029c3fb00b2f24817fb41b86cb2212f",
+    "wof:geomhash":"5763aca9078222774e703fc6c357ec91",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85896889,
             "region_id":85688727,
@@ -60,7 +65,7 @@
         }
     ],
     "wof:id":773144023,
-    "wof:lastmodified":1472629707,
+    "wof:lastmodified":1492807296,
     "wof:name":"Red Wing Health Center",
     "wof:parent_id":85896889,
     "wof:placetype":"venue",

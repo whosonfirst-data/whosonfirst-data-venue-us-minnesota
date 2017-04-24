@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.208986,46.747121,-92.208986,46.747121",
     "geom:latitude":46.747121,
     "geom:longitude":-92.208986,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804953,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85804953
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462594824,
-    "wof:geomhash":"2db7b39dcbc02594772e7f176215000b",
+    "wof:geomhash":"d3728c361a6a5c05f83c2beb262cbe36",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85804953,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":790307281,
-    "wof:lastmodified":1472629489,
+    "wof:lastmodified":1492831621,
     "wof:name":"Wine Creations LLC",
     "wof:parent_id":85804953,
     "wof:placetype":"venue",

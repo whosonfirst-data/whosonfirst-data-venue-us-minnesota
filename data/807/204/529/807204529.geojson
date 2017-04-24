@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.535132,43.673825,-94.535132,43.673825",
     "geom:latitude":43.673825,
     "geom:longitude":-94.535132,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510179,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gQODhJlDEKANqwQiKz0S7_43.673825_-94.535132@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604841,
-    "wof:geomhash":"7e71d728887d80f525245b709ba04365",
-    "wof:hierarchy":[],
+    "wof:geomhash":"092c47c1fd7e89b6c5f7a6d280abffd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404510179,
+            "region_id":85688727,
+            "venue_id":807204529
+        }
+    ],
     "wof:id":807204529,
-    "wof:lastmodified":1472629417,
+    "wof:lastmodified":1492823497,
     "wof:name":"David Meschke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

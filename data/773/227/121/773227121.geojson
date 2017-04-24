@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.548342,45.322453,-94.548342,45.322453",
     "geom:latitude":45.322453,
     "geom:longitude":-94.548342,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509997,
+        85633793,
+        85952443,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JoCtZYDXo6tpBPg68IE2K_45.322453_-94.548342@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584122,
-    "wof:geomhash":"cc545eb4edf62effbcb02eb209300f93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"216b64a9fe29d88fcbe73b3cf2c130e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404509997,
+            "locality_id":85952443,
+            "region_id":85688727,
+            "venue_id":773227121
+        }
+    ],
     "wof:id":773227121,
-    "wof:lastmodified":1472629961,
+    "wof:lastmodified":1492799370,
     "wof:name":"Meyer Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

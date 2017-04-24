@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.420217,44.579846,-93.420217,44.579846",
     "geom:latitude":44.579846,
     "geom:longitude":-93.420217,
@@ -33,19 +34,38 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85896887,
+        102191575,
+        404515039,
+        85633793,
+        85952535,
+        102087041,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YLgE9ufudqKhIBCS154gT_44.579846_-93.420217@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587845,
-    "wof:geomhash":"942141a0c31095cde211a54840cf8dc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5fa0703ae41bab093eb56a5573889c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515039,
+            "locality_id":85952535,
+            "neighbourhood_id":85896887,
+            "region_id":85688727,
+            "venue_id":773716183
+        }
+    ],
     "wof:id":773716183,
-    "wof:lastmodified":1472630137,
+    "wof:lastmodified":1492802484,
     "wof:name":"Giles Floor Covering Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85896887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

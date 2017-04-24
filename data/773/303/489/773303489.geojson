@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.391536,47.035219,-95.391536,47.035219",
     "geom:latitude":47.035219,
     "geom:longitude":-95.391536,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511343,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k2l7DuV87Ci074YbzdFWg_47.035219_-95.391536@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584710,
-    "wof:geomhash":"d0b4cb7f292b2589caad8985b6a24318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ffd9b9f89ef8e0b494d29827e381d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511343,
+            "region_id":85688727,
+            "venue_id":773303489
+        }
+    ],
     "wof:id":773303489,
-    "wof:lastmodified":1472630018,
+    "wof:lastmodified":1492799252,
     "wof:name":"Solid Oak Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

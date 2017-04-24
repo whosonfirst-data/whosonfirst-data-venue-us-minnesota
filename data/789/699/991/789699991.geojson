@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.875021,44.73383,-92.875021,44.73383",
     "geom:latitude":44.73383,
     "geom:longitude":-92.875021,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uwQu0qijLk7FxSO0ZKfdQ_44.733830_-92.875021@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589857,
-    "wof:geomhash":"f9171f9fa7297a6083b41d0d1a8e128a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa9452c1ce820799a43917e998c966e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":789699991
+        }
+    ],
     "wof:id":789699991,
-    "wof:lastmodified":1472629211,
+    "wof:lastmodified":1492811773,
     "wof:name":"Summit Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.340357,44.946837,-93.340357,44.946837",
     "geom:latitude":44.946837,
     "geom:longitude":-93.340357,
@@ -32,17 +33,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11rGKtGEY8e4b0mZb8o2zw_44.946837_-93.340357@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601781,
-    "wof:geomhash":"dadac33e53ad9e3ffb2d6bf8e7d606fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2181dcf425c826f3f53e4bd28cf0e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":806871327
+        }
+    ],
     "wof:id":806871327,
-    "wof:lastmodified":1472629903,
+    "wof:lastmodified":1492817074,
     "wof:name":"Boisclair Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

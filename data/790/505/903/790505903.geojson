@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.221417,44.062492,-93.221417,44.062492",
     "geom:latitude":44.062492,
     "geom:longitude":-93.221417,
@@ -28,17 +29,34 @@
     "sg:postcode":"55060",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RE3hHqW2AWi3a23pfazJd_44.062492_-93.221417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596418,
-    "wof:geomhash":"8aff475c6860ac12ae690523443f5e66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"369b67af1fd9506b76c800ef8b9ed249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":790505903
+        }
+    ],
     "wof:id":790505903,
-    "wof:lastmodified":1472629785,
+    "wof:lastmodified":1492832791,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

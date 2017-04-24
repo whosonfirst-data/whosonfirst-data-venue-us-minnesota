@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.559769,44.80993,-95.559769,44.80993",
     "geom:latitude":44.80993,
     "geom:longitude":-95.559769,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515275,
+        85633793,
+        85952945,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52SBMsA0duknlwWnjn6Cld_44.809930_-95.559769@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602772,
-    "wof:geomhash":"e775b89fa6f95e44157f540cf8a86e16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"731646fc050a5ff86ff83347810d38fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515275,
+            "locality_id":85952945,
+            "region_id":85688727,
+            "venue_id":806989717
+        }
+    ],
     "wof:id":806989717,
-    "wof:lastmodified":1472629986,
+    "wof:lastmodified":1492814959,
     "wof:name":"James Eye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

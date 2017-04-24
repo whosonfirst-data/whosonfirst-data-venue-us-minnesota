@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.033739,44.184215,-94.033739,44.184215",
     "geom:latitude":44.184215,
     "geom:longitude":-94.033739,
@@ -32,17 +33,34 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_677Wfs3zW2D6fIGPzsPkcE_44.184215_-94.033739@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584400,
-    "wof:geomhash":"c87b6fa5fc4acdef9c5cfc2e244088cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acc6d328fbee3b440c36e8ae225c7221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":773265467
+        }
+    ],
     "wof:id":773265467,
-    "wof:lastmodified":1472629997,
+    "wof:lastmodified":1492805602,
     "wof:name":"Howard Drive Car Wash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

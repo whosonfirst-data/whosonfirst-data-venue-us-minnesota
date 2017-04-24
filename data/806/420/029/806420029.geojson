@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.37585,44.724716,-94.37585,44.724716",
     "geom:latitude":44.724716,
     "geom:longitude":-94.37585,
@@ -33,17 +34,41 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512687,
+        85633793,
+        102086993,
+        404510117
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WKdT1Qd6I0nCYk32IPdfB_44.724716_-94.375850@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598008,
-    "wof:geomhash":"ede70f772aa351a2f980132dc8323f40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d9839da5a8de82d115ff37e3e5b5562a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512687,
+            "region_id":85688727,
+            "venue_id":806420029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510117,
+            "region_id":85688727,
+            "venue_id":806420029
+        }
+    ],
     "wof:id":806420029,
-    "wof:lastmodified":1472629075,
+    "wof:lastmodified":1492815559,
     "wof:name":"Duehn Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

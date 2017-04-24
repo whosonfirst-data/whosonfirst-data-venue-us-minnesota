@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.195001,45.034832,-93.195001,45.034832",
     "geom:latitude":45.034832,
     "geom:longitude":-93.195001,
@@ -28,17 +29,34 @@
     "sg:postcode":"55113",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ML6C8MQKi4wBlwwh0E04r_45.034832_-93.195001@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584471,
-    "wof:geomhash":"ccc1e447902e76275e94e301d7fd5566",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f740bc6f6c40f2392720dabf88fa5bf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":773274203
+        }
+    ],
     "wof:id":773274203,
-    "wof:lastmodified":1472629993,
+    "wof:lastmodified":1492799159,
     "wof:name":"International Paper Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

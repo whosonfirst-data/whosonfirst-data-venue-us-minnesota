@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.102733,43.638529,-94.102733,43.638529",
     "geom:latitude":43.638529,
     "geom:longitude":-94.102733,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vwg8lu99vKwWw8ft9l7Yo_43.638529_-94.102733@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586708,
-    "wof:geomhash":"6d900af608a640141be55b3b97edbba6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"561accf57a267c9a784fdf34b1ec2d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":773568355
+        }
+    ],
     "wof:id":773568355,
-    "wof:lastmodified":1472630094,
+    "wof:lastmodified":1492806582,
     "wof:name":"Faribault County Fitness Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

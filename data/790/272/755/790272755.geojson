@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.088125,44.926991,-93.088125,44.926991",
     "geom:latitude":44.926991,
     "geom:longitude":-93.088125,
@@ -39,19 +40,38 @@
     ],
     "sg:website":"www.lakesinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BqruUsnjDbzCmM8oYz9pM_44.926991_-93.088125@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594523,
-    "wof:geomhash":"f18076bb7283edcbeca253c6cdc9959a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaf797cc4a6536b61c72334ef92a7c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":790272755
+        }
+    ],
     "wof:id":790272755,
-    "wof:lastmodified":1472629466,
+    "wof:lastmodified":1492831243,
     "wof:name":"Lake's Unlimited",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

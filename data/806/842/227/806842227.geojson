@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.501645,44.866183,-93.501645,44.866183",
     "geom:latitude":44.866183,
     "geom:longitude":-93.501645,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40pAr2d5IpdWOCJgEmaoK7_44.866183_-93.501645@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601529,
-    "wof:geomhash":"2fa5dcb98e8d29f7ad3f816950711e8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37d3218227f47a4654b5513c23e364df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":806842227
+        }
+    ],
     "wof:id":806842227,
-    "wof:lastmodified":1472629873,
+    "wof:lastmodified":1492815613,
     "wof:name":"Steve Krenik Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

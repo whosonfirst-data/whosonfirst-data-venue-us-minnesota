@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.747346,45.60302,-93.747346,45.60302",
     "geom:latitude":45.60302,
     "geom:longitude":-93.747346,
@@ -44,17 +45,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512547,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73m0OO6hNb21KefSdtfHqO_45.603020_-93.747346@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606320,
-    "wof:geomhash":"a032d59c0b391ced0dbc1a6f535c9a58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a77e68c7ce32b5355fe79b373fd7047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512547,
+            "region_id":85688727,
+            "venue_id":807337937
+        }
+    ],
     "wof:id":807337937,
-    "wof:lastmodified":1472629745,
+    "wof:lastmodified":1492826567,
     "wof:name":"Csi Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

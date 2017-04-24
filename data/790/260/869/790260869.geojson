@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.320807,48.899931,-95.320807,48.899931",
     "geom:latitude":48.899931,
     "geom:longitude":-95.320807,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513385,
+        85633793,
+        85953417,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27foGFQ5rWsXuB1eU6gxGG_48.899931_-95.320807@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594426,
-    "wof:geomhash":"7a6f2829c29ae764444865e33a915236",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95da25047cb410ad5ef274d5125aa1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404513385,
+            "locality_id":85953417,
+            "region_id":85688727,
+            "venue_id":790260869
+        }
+    ],
     "wof:id":790260869,
-    "wof:lastmodified":1472629418,
+    "wof:lastmodified":1492832056,
     "wof:name":"Warroad Veterinary Hosp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.931584,44.310993,-93.931584,44.310993",
     "geom:latitude":44.310993,
     "geom:longitude":-93.931584,
@@ -32,17 +33,32 @@
         "good"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512351,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cGEZw5RxCMp2LeVp3lgP3_44.310993_-93.931584@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582821,
-    "wof:geomhash":"56b6e24dab12744207fa55c3a4253132",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5ea6df216ffd77a3e2fc90708f935a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512351,
+            "region_id":85688727,
+            "venue_id":773057037
+        }
+    ],
     "wof:id":773057037,
-    "wof:lastmodified":1472629448,
+    "wof:lastmodified":1492808577,
     "wof:name":"Nor-V-Gen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

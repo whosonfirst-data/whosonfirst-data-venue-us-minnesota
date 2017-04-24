@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.842748,45.038056,-94.842748,45.038056",
     "geom:latitude":45.038056,
     "geom:longitude":-94.842748,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509879,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CR9NgfvO0NgR4tb1A5ndF_45.038056_-94.842748@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604153,
-    "wof:geomhash":"c6d020584945743ba96a0eb0f636398c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"951ce7b31b2124e0f8b08560ac6d17a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509879,
+            "region_id":85688727,
+            "venue_id":807139461
+        }
+    ],
     "wof:id":807139461,
-    "wof:lastmodified":1472629275,
+    "wof:lastmodified":1492822696,
     "wof:name":"Dean Summerlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

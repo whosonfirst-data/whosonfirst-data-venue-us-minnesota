@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.256501,44.431319,-93.256501,44.431319",
     "geom:latitude":44.431319,
     "geom:longitude":-93.256501,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512621,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bLrqenyleDjjCocopdRBz_44.431319_-93.256501@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604650,
-    "wof:geomhash":"b8f5554ae876ac083baba567f01bb632",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cf67b9baa02fc9c0a2f4ff85cd55db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512621,
+            "region_id":85688727,
+            "venue_id":807186029
+        }
+    ],
     "wof:id":807186029,
-    "wof:lastmodified":1472629375,
+    "wof:lastmodified":1492826718,
     "wof:name":"Greg Reuvers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

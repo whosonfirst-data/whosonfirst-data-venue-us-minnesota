@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.092317,43.637726,-94.092317,43.637726",
     "geom:latitude":43.637726,
     "geom:longitude":-94.092317,
@@ -31,17 +32,34 @@
         "ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lInEUEni3zLDEjx4M1vnZ_43.637726_-94.092317@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597598,
-    "wof:geomhash":"1c0455027ea3c0c4cb04301dfbaf3ff0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"00a71359b31f07b3049483682d1e031b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":806369979
+        }
+    ],
     "wof:id":806369979,
-    "wof:lastmodified":1472628977,
+    "wof:lastmodified":1492821314,
     "wof:name":"Wells Concrete Ready Mix",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.96813,43.877865,-95.96813,43.877865",
     "geom:latitude":43.877865,
     "geom:longitude":-95.96813,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513195,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HPxRQcKXW1bFmGPk6lXU0_43.877865_-95.968130@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604846,
-    "wof:geomhash":"b81643e069e647db4f453df3efba3236",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edae232f2f35956f6ae1fca92e608edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513195,
+            "region_id":85688727,
+            "venue_id":807205011
+        }
+    ],
     "wof:id":807205011,
-    "wof:lastmodified":1472629392,
+    "wof:lastmodified":1492824958,
     "wof:name":"Gordon Mouw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.428908,47.313967,-92.428908,47.313967",
     "geom:latitude":47.313967,
     "geom:longitude":-92.428908,
@@ -33,17 +34,26 @@
         "conveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qsRaNfxRKzcgec5RscJvK_47.313967_-92.428908@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603173,
-    "wof:geomhash":"cba9d6adf0be9e897368d1ebc465adf0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e7edbe5cfba0e9c04937d08abdf6ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":807036187
+        }
+    ],
     "wof:id":807036187,
-    "wof:lastmodified":1472628994,
+    "wof:lastmodified":1492827118,
     "wof:name":"Northern Belt & Conveyor Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

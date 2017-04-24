@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.314978,44.870926,-93.314978,44.870926",
     "geom:latitude":44.870926,
     "geom:longitude":-93.314978,
@@ -31,17 +32,34 @@
         "daycare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07MGNgcWG94JYXAsThFsIS_44.870926_-93.314978@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600054,
-    "wof:geomhash":"0717bcd77a8777183d4b6fe1729e8bb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f6f9a6418f6ff31587e346f7c1760e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":806666703
+        }
+    ],
     "wof:id":806666703,
-    "wof:lastmodified":1472629655,
+    "wof:lastmodified":1492821995,
     "wof:name":"Jones Catherine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

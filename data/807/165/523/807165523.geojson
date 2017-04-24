@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.771264,44.618695,-93.771264,44.618695",
     "geom:latitude":44.618695,
     "geom:longitude":-93.771264,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514973,
+        85633793,
+        85952539,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4X1KnzLGeGAZO48aSshu3N_44.618695_-93.771264@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604432,
-    "wof:geomhash":"0af5823d9f23a5185110e55d9c1313d0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb584ced24dd56fcd8a510483dbbbd73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514973,
+            "locality_id":85952539,
+            "region_id":85688727,
+            "venue_id":807165523
+        }
+    ],
     "wof:id":807165523,
-    "wof:lastmodified":1472629309,
+    "wof:lastmodified":1492824228,
     "wof:name":"William Kessler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

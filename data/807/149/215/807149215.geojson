@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.201884,43.963366,-95.201884,43.963366",
     "geom:latitude":43.963366,
     "geom:longitude":-95.201884,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511855,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vttUAUdV38N88p1QUGPjY_43.963366_-95.201884@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604267,
-    "wof:geomhash":"3e2d34e31949e74019cd41c2588dc5db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0d6df2de8b24e64902e227ec698c3c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511855,
+            "region_id":85688727,
+            "venue_id":807149215
+        }
+    ],
     "wof:id":807149215,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492827539,
     "wof:name":"Tim Sell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

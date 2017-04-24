@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.534455,47.032498,-94.534455,47.032498",
     "geom:latitude":47.032498,
     "geom:longitude":-94.534455,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511753,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UFsHzmEJGuZrkM6ifCSIm_47.032498_-94.534455@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593866,
-    "wof:geomhash":"5c3a41698e563ff01c521bef88e4fa82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4070b96873a3774e3d45efd66b4876d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511753,
+            "region_id":85688727,
+            "venue_id":790191849
+        }
+    ],
     "wof:id":790191849,
-    "wof:lastmodified":1472629286,
+    "wof:lastmodified":1492836127,
     "wof:name":"Freeman Well Drilling Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

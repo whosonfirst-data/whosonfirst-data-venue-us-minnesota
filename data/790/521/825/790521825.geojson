@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.478029,48.331192,-96.478029,48.331192",
     "geom:latitude":48.331192,
     "geom:longitude":-96.478029,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510151,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VWyHWg1ebSWXTdcLudifD_48.331192_-96.478029@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596556,
-    "wof:geomhash":"22ad9e694e5a81d325933317d9f5479d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6516c7e05ebc591a13568aca7ad13c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510151,
+            "region_id":85688727,
+            "venue_id":790521825
+        }
+    ],
     "wof:id":790521825,
-    "wof:lastmodified":1472629808,
+    "wof:lastmodified":1492833357,
     "wof:name":"Mark Knutson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

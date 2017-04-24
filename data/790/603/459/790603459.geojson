@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.213735,45.54976,-94.213735,45.54976",
     "geom:latitude":45.54976,
     "geom:longitude":-94.213735,
@@ -32,17 +33,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MI8J1OkCs27puaq43Rq71_45.549760_-94.213735@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597252,
-    "wof:geomhash":"443dcea12f7bf7ebd534c75702ccbad4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a6f91ec9b2b9fcec94c9b02d9114d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":790603459
+        }
+    ],
     "wof:id":790603459,
-    "wof:lastmodified":1472629904,
+    "wof:lastmodified":1492836955,
     "wof:name":"Marshall Salon Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

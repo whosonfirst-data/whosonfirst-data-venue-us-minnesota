@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.008728,44.955924,-93.008728,44.955924",
     "geom:latitude":44.955924,
     "geom:longitude":-93.008728,
@@ -28,19 +29,40 @@
     "sg:postcode":"55119",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800631,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Iox5oXnRA87dIWcW6nhe3_44.955924_-93.008728@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590189,
-    "wof:geomhash":"29573ec892fb9fabdb670bf60a4362e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"900fb902b706b1b41d2a5fd4e2ddfe6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800631,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":789741671
+        }
+    ],
     "wof:id":789741671,
-    "wof:lastmodified":1472629270,
+    "wof:lastmodified":1492813005,
     "wof:name":"Guider Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

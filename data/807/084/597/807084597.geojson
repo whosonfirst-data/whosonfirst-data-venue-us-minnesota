@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.376414,46.518164,-95.376414,46.518164",
     "geom:latitude":46.518164,
     "geom:longitude":-95.376414,
@@ -32,17 +33,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515169,
+        85633793,
+        85968759,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QDcrhQ2uP7hcDdJ2kS5cN_46.518164_-95.376414@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603570,
-    "wof:geomhash":"90ef7bda702a0deedf13dd602826df6a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c036b9b8ff6f7f095657a0a214a323fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404515169,
+            "locality_id":85968759,
+            "region_id":85688727,
+            "venue_id":807084597
+        }
+    ],
     "wof:id":807084597,
-    "wof:lastmodified":1472629102,
+    "wof:lastmodified":1492822887,
     "wof:name":"New York Mills Utilities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

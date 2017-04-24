@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.502,44.995195,-93.502,44.995195",
     "geom:latitude":44.995195,
     "geom:longitude":-93.502,
@@ -31,17 +32,34 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tvpOeFrMRU6KBktVOdE6E_44.995195_-93.502000@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596456,
-    "wof:geomhash":"37334e39780babb72af3b0389abb1c55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83b46872423b3fe57d42b0366802c51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":790510487
+        }
+    ],
     "wof:id":790510487,
-    "wof:lastmodified":1472629792,
+    "wof:lastmodified":1492836335,
     "wof:name":"Town & Country Cleaners LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

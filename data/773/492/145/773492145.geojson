@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.06644,43.975149,-92.06644,43.975149",
     "geom:latitude":43.975149,
     "geom:longitude":-92.06644,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515087,
+        85633793,
+        85968973,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q3MK6oqPIPEJS36ChV99G_43.975149_-92.066440@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586151,
-    "wof:geomhash":"5ad839e413bca562a4a172a4c3250b60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d5bcf38dcfcd78eee8b3c0b310c56d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515087,
+            "locality_id":85968973,
+            "region_id":85688727,
+            "venue_id":773492145
+        }
+    ],
     "wof:id":773492145,
-    "wof:lastmodified":1472630071,
+    "wof:lastmodified":1492808181,
     "wof:name":"St Charles City Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

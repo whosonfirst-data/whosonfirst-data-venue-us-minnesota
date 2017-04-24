@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.778151,45.325184,-92.778151,45.325184",
     "geom:latitude":45.325184,
     "geom:longitude":-92.778151,
@@ -37,17 +38,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511113,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BNWb9yJO5XIKtni4Oipqv_45.325184_-92.778151@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582772,
-    "wof:geomhash":"22e818fb71500bd471e3381e405bd772",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c788b8517f84e12505df434d87792787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511113,
+            "region_id":85688727,
+            "venue_id":773051803
+        }
+    ],
     "wof:id":773051803,
-    "wof:lastmodified":1472629426,
+    "wof:lastmodified":1492808591,
     "wof:name":"Saint Croix Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

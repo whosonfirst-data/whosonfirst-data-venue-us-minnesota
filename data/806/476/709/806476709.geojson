@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.237225,44.7638,-93.237225,44.7638",
     "geom:latitude":44.7638,
     "geom:longitude":-93.237225,
@@ -29,13 +30,16 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85896875,
+        85809947,
         102191575,
-        404515209,
+        404512099,
         85633793,
-        85968479,
+        85968491,
         102087895,
-        85688727
+        85688727,
+        85896875,
+        404512093,
+        85968497
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,23 +47,33 @@
     },
     "wof:country":"US",
     "wof:created":1462598435,
-    "wof:geomhash":"4a2d12270c1e630df1bb9926393f4d58",
+    "wof:geomhash":"19a8bf0a9f60272895bfe8f0e2018f9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087895,
-            "localadmin_id":404515209,
-            "locality_id":85968479,
+            "localadmin_id":404512099,
+            "locality_id":85968491,
+            "neighbourhood_id":85809947,
+            "region_id":85688727,
+            "venue_id":806476709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512093,
+            "locality_id":85968497,
             "neighbourhood_id":85896875,
             "region_id":85688727,
             "venue_id":806476709
         }
     ],
     "wof:id":806476709,
-    "wof:lastmodified":1472629263,
+    "wof:lastmodified":1492821832,
     "wof:name":"Loveland Express",
-    "wof:parent_id":85896875,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

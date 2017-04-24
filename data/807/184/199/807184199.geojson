@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.043758,43.979168,-93.043758,43.979168",
     "geom:latitude":43.979168,
     "geom:longitude":-93.043758,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513743,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_671YPnMndG0iAhbMDROdxU_43.979168_-93.043758@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604627,
-    "wof:geomhash":"18b1d415470b20a03bac4c208afd4c62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91ec16980cdb6af1357bfac1c73947c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513743,
+            "region_id":85688727,
+            "venue_id":807184199
+        }
+    ],
     "wof:id":807184199,
-    "wof:lastmodified":1472629352,
+    "wof:lastmodified":1492825606,
     "wof:name":"Ralph Stoen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

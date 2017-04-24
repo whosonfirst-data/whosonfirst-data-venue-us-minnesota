@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.058881,43.902851,-95.058881,43.902851",
     "geom:latitude":43.902851,
     "geom:longitude":-95.058881,
@@ -32,17 +33,32 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511863,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MjRkMT0acHUpav2Qa3wNt_43.902851_-95.058881@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586646,
-    "wof:geomhash":"e7120b01e9c151ac29970ad59c4ede93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"419a5ebe81d6a60b46ce1e850511b145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511863,
+            "region_id":85688727,
+            "venue_id":773559793
+        }
+    ],
     "wof:id":773559793,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492808504,
     "wof:name":"Southwest Minn Agrifuels Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.990566,45.470488,-92.990566,45.470488",
     "geom:latitude":45.470488,
     "geom:longitude":-92.990566,
@@ -32,17 +33,34 @@
         "server"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A4x08yQ9oFumiTlFm8fHl_45.470488_-92.990566@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594604,
-    "wof:geomhash":"766bddcaac75bccb9ea7fe0898948920",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdb325a9528a47967d54d5363a73fb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":790279459
+        }
+    ],
     "wof:id":790279459,
-    "wof:lastmodified":1472629452,
+    "wof:lastmodified":1492835071,
     "wof:name":"Minnesota Legal Process",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

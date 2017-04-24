@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.777723,46.508966,-93.777723,46.508966",
     "geom:latitude":46.508966,
     "geom:longitude":-93.777723,
@@ -32,17 +33,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511195,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7janCJtRYvR91X4HvJc2t6_46.508966_-93.777723@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597966,
-    "wof:geomhash":"c38ae3af257259de2969cf61db9860ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d187645dafacc80146d992a6ff441f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511195,
+            "region_id":85688727,
+            "venue_id":806413901
+        }
+    ],
     "wof:id":806413901,
-    "wof:lastmodified":1472629105,
+    "wof:lastmodified":1492820259,
     "wof:name":"Simplicity Counts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

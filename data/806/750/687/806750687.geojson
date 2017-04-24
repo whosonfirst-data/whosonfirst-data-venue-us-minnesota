@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.650219,45.318656,-94.650219,45.318656",
     "geom:latitude":45.318656,
     "geom:longitude":-94.650219,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512415,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kPaFOaDRzMHm5Lzf5e5Cr_45.318656_-94.650219@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600767,
-    "wof:geomhash":"0f4b93c2c167d6792c93f5fa83600679",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b10bc951042bea948eb2c1846a96a4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512415,
+            "region_id":85688727,
+            "venue_id":806750687
+        }
+    ],
     "wof:id":806750687,
-    "wof:lastmodified":1472629781,
+    "wof:lastmodified":1492815001,
     "wof:name":"Victor & Dan Topp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

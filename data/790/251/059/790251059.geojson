@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.255062,47.078707,-96.255062,47.078707",
     "geom:latitude":47.078707,
     "geom:longitude":-96.255062,
@@ -31,19 +32,38 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85877339,
+        102191575,
+        404478877,
+        85633793,
+        85982177,
+        102082073,
+        85688525
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mu0srWli2CCB2VRTUgaVe_47.078707_-96.255062@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594346,
-    "wof:geomhash":"4498713102a20f039d4dc6fca1a56604",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de6c1b6d709aa7a2049acbcc5aa130f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877339,
+            "region_id":85688525,
+            "venue_id":790251059
+        }
+    ],
     "wof:id":790251059,
-    "wof:lastmodified":1472629342,
+    "wof:lastmodified":1492831490,
     "wof:name":"Bethlehem Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85877339,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

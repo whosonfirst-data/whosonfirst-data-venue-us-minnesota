@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.464038,43.505218,-91.464038,43.505218",
     "geom:latitude":43.505218,
     "geom:longitude":-91.464038,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +48,21 @@
     },
     "wof:country":"US",
     "wof:created":1462603755,
-    "wof:geomhash":"1603068cbd2113e7fab60a7b0a04c44e",
+    "wof:geomhash":"d2d57b6780ab0b452867b57d8352c943",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":807102157
         }
     ],
     "wof:id":807102157,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492826732,
     "wof:name":"Zion Lutheran Church",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

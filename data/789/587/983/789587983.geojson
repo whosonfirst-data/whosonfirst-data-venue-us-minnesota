@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.272283,46.47714,-93.272283,46.47714",
     "geom:latitude":46.47714,
     "geom:longitude":-93.272283,
@@ -31,17 +32,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511247,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GSg1UdqfcY1iCZtknDPve_46.477140_-93.272283@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588971,
-    "wof:geomhash":"c0e5807757325089a3ec67a1a8cdb4d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4122573eff4792cbd38323831b9df9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511247,
+            "region_id":85688727,
+            "venue_id":789587983
+        }
+    ],
     "wof:id":789587983,
-    "wof:lastmodified":1472628953,
+    "wof:lastmodified":1492813217,
     "wof:name":"Hortons Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

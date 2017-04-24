@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.215595,44.791021,-96.215595,44.791021",
     "geom:latitude":44.791021,
     "geom:longitude":-96.215595,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510781,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54e20o5icW3YFq0G8IfjYl_44.791021_-96.215595@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599721,
-    "wof:geomhash":"049c5506ff692153863a4d49704e37ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"faddc95c64b0cccb5302680102f29f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510781,
+            "region_id":85688727,
+            "venue_id":806628139
+        }
+    ],
     "wof:id":806628139,
-    "wof:lastmodified":1472629544,
+    "wof:lastmodified":1492814482,
     "wof:name":"Larry Loken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

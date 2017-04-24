@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.741547,44.456471,-93.741547,44.456471",
     "geom:latitude":44.456471,
     "geom:longitude":-93.741547,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512363,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WEQyasi9BVumSWlRWykIl_44.456471_-93.741547@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597070,
-    "wof:geomhash":"f81d35b4a97f3782a78bb3d0d5de6108",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40c88598b8a4828b83d08722225b9416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512363,
+            "region_id":85688727,
+            "venue_id":790583573
+        }
+    ],
     "wof:id":790583573,
-    "wof:lastmodified":1472629886,
+    "wof:lastmodified":1492831819,
     "wof:name":"Larry Braun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

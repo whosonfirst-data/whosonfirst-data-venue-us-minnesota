@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.121744,44.934937,-93.121744,44.934937",
     "geom:latitude":44.934937,
     "geom:longitude":-93.121744,
@@ -32,19 +33,40 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27f4swyRfLSt5tRahcY7lS_44.934937_-93.121744@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585440,
-    "wof:geomhash":"682a721d8b3d065d777c3376d3916f8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d83995c11141ab0d5c7661d3cee1464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":773405413
+        }
+    ],
     "wof:id":773405413,
-    "wof:lastmodified":1472630043,
+    "wof:lastmodified":1492800733,
     "wof:name":"Skarda Plumbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

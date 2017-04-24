@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.168807,45.555463,-94.168807,45.555463",
     "geom:latitude":45.555463,
     "geom:longitude":-94.168807,
@@ -31,17 +32,34 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OUqxvZA8DjKnnd37oT6tS_45.555463_-94.168807@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586350,
-    "wof:geomhash":"300cfbd15d2d64925d14092ab2a87853",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21aa506351647f731e94e19f427aa7f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773521039
+        }
+    ],
     "wof:id":773521039,
-    "wof:lastmodified":1472630080,
+    "wof:lastmodified":1492802100,
     "wof:name":"Minuteman Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

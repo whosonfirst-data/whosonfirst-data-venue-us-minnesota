@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.364977,46.60876,-93.364977,46.60876",
     "geom:latitude":46.60876,
     "geom:longitude":-93.364977,
@@ -36,17 +37,32 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511217,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lw0gLGoG80mOwI9mY1r3v_46.608760_-93.364977@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608852,
-    "wof:geomhash":"481fd5978388c188e6f24f183d5d3195",
-    "wof:hierarchy":[],
+    "wof:geomhash":"726cb5d5696cbb15315e66e896fc5aa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511217,
+            "region_id":85688727,
+            "venue_id":823225709
+        }
+    ],
     "wof:id":823225709,
-    "wof:lastmodified":1472629117,
+    "wof:lastmodified":1492828085,
     "wof:name":"Glen's Sign Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

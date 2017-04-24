@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.346603,47.533031,-92.346603,47.533031",
     "geom:latitude":47.533031,
     "geom:longitude":-92.346603,
@@ -37,17 +38,26 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_121yYkJFbzs48ZaqEdMaCc_47.533031_-92.346603@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608789,
-    "wof:geomhash":"3cc3639964c684ea106564a98a6f19a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"258a8d3832b81ab402315705d0e2d9bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":823223027
+        }
+    ],
     "wof:id":823223027,
-    "wof:lastmodified":1472629076,
+    "wof:lastmodified":1492830917,
     "wof:name":"Senior Citizens Center Biwabik",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.824139,45.279314,-93.824139,45.279314",
     "geom:latitude":45.279314,
     "geom:longitude":-93.824139,
@@ -37,17 +38,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Sx4kqZx6phkk7PIh6Voje_45.279314_-93.824139@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583364,
-    "wof:geomhash":"4e24ae18080c8962774fad82bd63fc61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b81bfa020cb93f40addb506689685c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":773130835
+        }
+    ],
     "wof:id":773130835,
-    "wof:lastmodified":1472629669,
+    "wof:lastmodified":1492800287,
     "wof:name":"Dick's Water & Sewer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

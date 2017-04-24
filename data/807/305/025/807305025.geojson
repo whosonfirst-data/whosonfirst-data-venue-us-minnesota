@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.555496,44.862598,-93.555496,44.862598",
     "geom:latitude":44.862598,
     "geom:longitude":-93.555496,
@@ -45,17 +46,34 @@
     ],
     "sg:website":"www.arboretum.umn.edu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MobOHRoWyvkLvw4SAXmr8_44.862598_-93.555496@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605904,
-    "wof:geomhash":"eb10a9f4eda3328b011acf5640a5f876",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80c41cb7fbeaff408bced39165288824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":807305025
+        }
+    ],
     "wof:id":807305025,
-    "wof:lastmodified":1472629650,
+    "wof:lastmodified":1492826943,
     "wof:name":"University of Minnesota Landscape Arboretum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

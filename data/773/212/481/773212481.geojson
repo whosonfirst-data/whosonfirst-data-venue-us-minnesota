@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.526584,47.437149,-92.526584,47.437149",
     "geom:latitude":47.437149,
     "geom:longitude":-92.526584,
@@ -32,17 +33,26 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UsgCTxTrNLiuAd5gBTXxI_47.437149_-92.526584@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584014,
-    "wof:geomhash":"fb48ba45103a786f80064a974c5e4925",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09ee696bbfc6ce3947a4240dba290d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773212481
+        }
+    ],
     "wof:id":773212481,
-    "wof:lastmodified":1472629955,
+    "wof:lastmodified":1492804026,
     "wof:name":"Range Iron & Metal",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

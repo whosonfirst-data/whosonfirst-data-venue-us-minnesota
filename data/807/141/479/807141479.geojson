@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.850337,45.354834,-95.850337,45.354834",
     "geom:latitude":45.354834,
     "geom:longitude":-95.850337,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514685,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hd5oZYVWX17mrVBm8bzud_45.354834_-95.850337@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604173,
-    "wof:geomhash":"d02c681a9f2457a2b484443ef38e159b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13603511cd1e0a167f5f2307a87d6c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514685,
+            "region_id":85688727,
+            "venue_id":807141479
+        }
+    ],
     "wof:id":807141479,
-    "wof:lastmodified":1472629274,
+    "wof:lastmodified":1492826183,
     "wof:name":"Thomas Wente",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

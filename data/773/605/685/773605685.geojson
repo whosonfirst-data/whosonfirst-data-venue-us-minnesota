@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223641,45.114194,-93.223641,45.114194",
     "geom:latitude":45.114194,
     "geom:longitude":-93.223641,
@@ -32,17 +33,34 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514455,
+        85633793,
+        85953145,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19nYAYCfgjP4x0GqJynC4X_45.114194_-93.223641@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586980,
-    "wof:geomhash":"99816d2e74bb66c60312a4acb4de2ffb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4500bf4b981f702cc503b2cd6a041a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514455,
+            "locality_id":85953145,
+            "region_id":85688727,
+            "venue_id":773605685
+        }
+    ],
     "wof:id":773605685,
-    "wof:lastmodified":1472630110,
+    "wof:lastmodified":1492803894,
     "wof:name":"Thifty Car Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

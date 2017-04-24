@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.366065,45.991443,-94.366065,45.991443",
     "geom:latitude":45.991443,
     "geom:longitude":-94.366065,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hKllMx7Qt9f3HfIYyMN96_45.991443_-94.366065@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593611,
-    "wof:geomhash":"2c2cb3087cd1e274f9170cf2d46ff15f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71111bf87343ba0ab2a1754b2cce5365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":790161531
+        }
+    ],
     "wof:id":790161531,
-    "wof:lastmodified":1472629255,
+    "wof:lastmodified":1492834323,
     "wof:name":"Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

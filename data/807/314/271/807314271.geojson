@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.526581,44.532905,-94.526581,44.532905",
     "geom:latitude":44.532905,
     "geom:longitude":-94.526581,
@@ -31,17 +32,34 @@
         "tavern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514035,
+        85633793,
+        85953309,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jbbsTAmGCtWaXNRRsKrLI_44.532905_-94.526581@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606003,
-    "wof:geomhash":"30f2efdcaa8b85ea3cfb150983821628",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b4db2ce3cee3f0fa232fdc1a6f39235",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514035,
+            "locality_id":85953309,
+            "region_id":85688727,
+            "venue_id":807314271
+        }
+    ],
     "wof:id":807314271,
-    "wof:lastmodified":1472629688,
+    "wof:lastmodified":1492822434,
     "wof:name":"D's Pit Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

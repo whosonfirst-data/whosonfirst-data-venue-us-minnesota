@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.599669,43.615621,-95.599669,43.615621",
     "geom:latitude":43.615621,
     "geom:longitude":-95.599669,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eSuQsSPfyxT3pEailHCVu_43.615621_-95.599669@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585649,
-    "wof:geomhash":"a13fb25b9ae46ec80973cdd70c14851c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8aad53ebb5c74dcad58c169377b356c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":773428301
+        }
+    ],
     "wof:id":773428301,
-    "wof:lastmodified":1472630052,
+    "wof:lastmodified":1492800213,
     "wof:name":"Lakeshore Dental DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.645527,44.920133,-93.645527,44.920133",
     "geom:latitude":44.920133,
     "geom:longitude":-93.645527,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511891,
+        85633793,
+        85969151,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KfsSw7iPHCQgjYMrg59Ch_44.920133_-93.645527@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595737,
-    "wof:geomhash":"776ccae7f2d0610b590ead15935e5109",
-    "wof:hierarchy":[],
+    "wof:geomhash":"855672695da25a72719222a48ce4c296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511891,
+            "locality_id":85969151,
+            "region_id":85688727,
+            "venue_id":790425697
+        }
+    ],
     "wof:id":790425697,
-    "wof:lastmodified":1472629703,
+    "wof:lastmodified":1492834891,
     "wof:name":"Walker Seamless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.348074,43.696435,-94.348074,43.696435",
     "geom:latitude":43.696435,
     "geom:longitude":-94.348074,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514015,
+        85633793,
+        85953061,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GmVzWa9la1KtThEa5C3fC_43.696435_-94.348074@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598594,
-    "wof:geomhash":"a613f6e13d2ea305a788cf815d6edd85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"052ab27f8270fe139be5ac862bab86b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514015,
+            "locality_id":85953061,
+            "region_id":85688727,
+            "venue_id":806495971
+        }
+    ],
     "wof:id":806495971,
-    "wof:lastmodified":1472629315,
+    "wof:lastmodified":1492817039,
     "wof:name":"Congregational Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

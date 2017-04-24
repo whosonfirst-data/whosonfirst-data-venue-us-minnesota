@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.339527,47.472939,-92.339527,47.472939",
     "geom:latitude":47.472939,
     "geom:longitude":-92.339527,
@@ -31,17 +32,26 @@
         "alteration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CnCHiBj7eLjfv8qfwSiCl_47.472939_-92.339527@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589533,
-    "wof:geomhash":"b6fc8f35dcfe5363d6a94c4d4085974d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0c991045447b90a56c76fde120bdf2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":789660431
+        }
+    ],
     "wof:id":789660431,
-    "wof:lastmodified":1472629118,
+    "wof:lastmodified":1492813680,
     "wof:name":"Clothes Doctor II",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

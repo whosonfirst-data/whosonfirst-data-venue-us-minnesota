@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.247994,43.620861,-94.247994,43.620861",
     "geom:latitude":43.620861,
     "geom:longitude":-94.247994,
@@ -35,17 +36,32 @@
         "wind"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509981,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b3lBJyzPL9X3qSooAoDm9_43.620861_-94.247994@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588281,
-    "wof:geomhash":"a5cba6f55d2e590ea78ae4bcf67cebf6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34be764ab4d7805c927e1c5f930b2050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404509981,
+            "region_id":85688727,
+            "venue_id":773775401
+        }
+    ],
     "wof:id":773775401,
-    "wof:lastmodified":1472630157,
+    "wof:lastmodified":1492802546,
     "wof:name":"Windfinity LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

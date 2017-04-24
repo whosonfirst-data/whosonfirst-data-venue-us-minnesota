@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.518208,44.879884,-93.518208,44.879884",
     "geom:latitude":44.879884,
     "geom:longitude":-93.518208,
@@ -32,17 +33,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1umyxnLDw1JDQtix4Fbo0E_44.879884_-93.518208@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586125,
-    "wof:geomhash":"9cd6bd339d655931e08c7287a2d3bd80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cefa6fda1f57ab99936f6e3214760ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":773487913
+        }
+    ],
     "wof:id":773487913,
-    "wof:lastmodified":1472630077,
+    "wof:lastmodified":1492803549,
     "wof:name":"TSS Web Development",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

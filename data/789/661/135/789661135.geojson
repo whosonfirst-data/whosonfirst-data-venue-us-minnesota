@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.345061,45.918966,-94.345061,45.918966",
     "geom:latitude":45.918966,
     "geom:longitude":-94.345061,
@@ -31,17 +32,32 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512851,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02WY6glT7waUmTANq0u5UY_45.918966_-94.345061@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589542,
-    "wof:geomhash":"621076781fd51b63fa9ecd935d129bba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3c0c064b7d804fb1941687341cc8a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512851,
+            "region_id":85688727,
+            "venue_id":789661135
+        }
+    ],
     "wof:id":789661135,
-    "wof:lastmodified":1472629114,
+    "wof:lastmodified":1492809516,
     "wof:name":"Little Falls Granite Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

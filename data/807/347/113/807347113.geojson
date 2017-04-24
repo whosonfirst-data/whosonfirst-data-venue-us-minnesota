@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.853978,44.960027,-93.853978,44.960027",
     "geom:latitude":44.960027,
     "geom:longitude":-93.853978,
@@ -31,17 +32,34 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZZlJBj8Hw0TxfqmXQTpFn_44.960027_-93.853978@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606461,
-    "wof:geomhash":"d1821cd213cce4e9330dcd8c2d2c165f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b972169e016e29f85f8481a29c8d32b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":807347113
+        }
+    ],
     "wof:id":807347113,
-    "wof:lastmodified":1472629760,
+    "wof:lastmodified":1492826754,
     "wof:name":"Midwest Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

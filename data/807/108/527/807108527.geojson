@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.201765,45.809858,-95.201765,45.809858",
     "geom:latitude":45.809858,
     "geom:longitude":-95.201765,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513929,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CYuA85agKpWKAsVzHpy3k_45.809858_-95.201765@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603820,
-    "wof:geomhash":"ac4a1574278acfac0373e4e64e75a1ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc685f6de822202f4ccada92b4ab6e34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513929,
+            "region_id":85688727,
+            "venue_id":807108527
+        }
+    ],
     "wof:id":807108527,
-    "wof:lastmodified":1472629214,
+    "wof:lastmodified":1492823978,
     "wof:name":"Richard Dunn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

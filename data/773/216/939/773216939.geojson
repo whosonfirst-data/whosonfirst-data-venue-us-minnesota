@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.519774,47.492314,-92.519774,47.492314",
     "geom:latitude":47.492314,
     "geom:longitude":-92.519774,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qZgPsc7yQTdP9wK5NrIoo_47.492314_-92.519774@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584053,
-    "wof:geomhash":"fa3a4fa400ad920976730b78b8778cae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"360b18b8ac87f74af68392a47da5739c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773216939
+        }
+    ],
     "wof:id":773216939,
-    "wof:lastmodified":1472629976,
+    "wof:lastmodified":1492800377,
     "wof:name":"First Apstolic Lutheran Church",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

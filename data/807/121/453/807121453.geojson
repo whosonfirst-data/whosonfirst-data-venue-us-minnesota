@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.886673,44.311364,-93.886673,44.311364",
     "geom:latitude":44.311364,
     "geom:longitude":-93.886673,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512207,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_256Z0UtjqmPpBC1C6nyAvT_44.311364_-93.886673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603956,
-    "wof:geomhash":"7fbf6f0bf186dfa5e61a4ed3de7eed74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d91d2ffb5c0aea767334441270d2bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512207,
+            "region_id":85688727,
+            "venue_id":807121453
+        }
+    ],
     "wof:id":807121453,
-    "wof:lastmodified":1472629242,
+    "wof:lastmodified":1492825501,
     "wof:name":"Willard Derner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.329789,44.878111,-93.329789,44.878111",
     "geom:latitude":44.878111,
     "geom:longitude":-93.329789,
@@ -51,17 +52,34 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gRIShGNP957hEhfo5pDEr_44.878111_-93.329789@1303262832"
     },
     "wof:country":"US",
     "wof:created":1462608406,
-    "wof:geomhash":"fff6477e43fa75fa84a1f74ea5b50c7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02abaa33250ef4770f3e9416524e6900",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823202885
+        }
+    ],
     "wof:id":823202885,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492829815,
     "wof:name":"C. F. Haglin & Sons, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

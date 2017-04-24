@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.369801,45.094553,-95.369801,45.094553",
     "geom:latitude":45.094553,
     "geom:longitude":-95.369801,
@@ -31,17 +32,32 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509093,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dm1T8Y9N7Z0bsEr1RXIpW_45.094553_-95.369801@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596037,
-    "wof:geomhash":"473133027e9f37513757075bfe25ae13",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d37921c1e7e7a9875a71fbf41679224e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509093,
+            "region_id":85688727,
+            "venue_id":790463497
+        }
+    ],
     "wof:id":790463497,
-    "wof:lastmodified":1472629738,
+    "wof:lastmodified":1492835242,
     "wof:name":"Youngberg Electronics Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.38931,43.781755,-93.38931,43.781755",
     "geom:latitude":43.781755,
     "geom:longitude":-93.38931,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509649,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Rby5wcjzn1LCz74lr8Fd7_43.781755_-93.389310@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604565,
-    "wof:geomhash":"3c0e04add7c1a126c281c397e6e3b76a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90b29b9bebff9ac6aa73ac4e3cd842e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509649,
+            "region_id":85688727,
+            "venue_id":807178069
+        }
+    ],
     "wof:id":807178069,
-    "wof:lastmodified":1472629344,
+    "wof:lastmodified":1492823583,
     "wof:name":"Dan Trolen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

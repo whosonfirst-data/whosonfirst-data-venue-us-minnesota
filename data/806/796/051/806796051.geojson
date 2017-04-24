@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539555,47.460506,-92.539555,47.460506",
     "geom:latitude":47.460506,
     "geom:longitude":-92.539555,
@@ -32,17 +33,26 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bjvfbrDNISn3nnmW0C13N_47.460506_-92.539555@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601150,
-    "wof:geomhash":"7a76d091e320630f5295736c225510ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58aab0e5571d825e694b559f1077f289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806796051
+        }
+    ],
     "wof:id":806796051,
-    "wof:lastmodified":1472629829,
+    "wof:lastmodified":1492821579,
     "wof:name":"Poor Gary's Pizza & Subs",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.373094,45.890482,-95.373094,45.890482",
     "geom:latitude":45.890482,
     "geom:longitude":-95.373094,
@@ -31,17 +32,34 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e8IRiaO0g1uyWXhTLYcQH_45.890482_-95.373094@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583786,
-    "wof:geomhash":"2675ac172b3fd05104f3a2a5ffa19b41",
-    "wof:hierarchy":[],
+    "wof:geomhash":"530591ac2b065078d6e6f43c7680cb53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773183687
+        }
+    ],
     "wof:id":773183687,
-    "wof:lastmodified":1472629917,
+    "wof:lastmodified":1492807090,
     "wof:name":"Anderson Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

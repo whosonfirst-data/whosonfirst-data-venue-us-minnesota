@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.625279,44.823743,-93.625279,44.823743",
     "geom:latitude":44.823743,
     "geom:longitude":-93.625279,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cOpW8EvbAEtS0ivBeiI91_44.823743_-93.625279@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597601,
-    "wof:geomhash":"894f9f5d34674568d9ac65c5d152f7e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e554bfadf9c4aac06d6e2bf31aa7df3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":806370409
+        }
+    ],
     "wof:id":806370409,
-    "wof:lastmodified":1472628983,
+    "wof:lastmodified":1492814828,
     "wof:name":"Little Ones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

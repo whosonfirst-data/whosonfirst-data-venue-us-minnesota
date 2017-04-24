@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.90158,44.146169,-92.90158,44.146169",
     "geom:latitude":44.146169,
     "geom:longitude":-92.90158,
@@ -32,17 +33,34 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509573,
+        85633793,
+        85952819,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xVNCaD3L738J3JdKvaQ3u_44.146169_-92.901580@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598013,
-    "wof:geomhash":"fc8bf403f1e8e991e86fda14e2e60b36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"570e9f96e5e1f7297e32683b4d8e724d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404509573,
+            "locality_id":85952819,
+            "region_id":85688727,
+            "venue_id":806420829
+        }
+    ],
     "wof:id":806420829,
-    "wof:lastmodified":1472629112,
+    "wof:lastmodified":1492815554,
     "wof:name":"West Concord Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

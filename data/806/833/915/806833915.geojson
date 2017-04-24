@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.521988,47.474067,-92.521988,47.474067",
     "geom:latitude":47.474067,
     "geom:longitude":-92.521988,
@@ -29,17 +30,26 @@
     "sg:province":"MN",
     "sg:website":"www.super8.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dSpQj5If0izdsoBoeOAD1_47.474067_-92.521988@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601456,
-    "wof:geomhash":"358d43673f15e68aa44b304f5dfcd31d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76e487f76ccfa55b677d4601fc710c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806833915
+        }
+    ],
     "wof:id":806833915,
-    "wof:lastmodified":1472629879,
+    "wof:lastmodified":1492815183,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

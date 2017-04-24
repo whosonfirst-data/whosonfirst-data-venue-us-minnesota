@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.649161,47.153422,-92.649161,47.153422",
     "geom:latitude":47.153422,
     "geom:longitude":-92.649161,
@@ -32,17 +33,26 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68zRG79AtcwL3snsLffOPM_47.153422_-92.649161@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593462,
-    "wof:geomhash":"3eda642c7f083d4528ca5681be836f92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2c22dd4fb5fe286ef5fe64fc0e58a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790144427
+        }
+    ],
     "wof:id":790144427,
-    "wof:lastmodified":1472629197,
+    "wof:lastmodified":1492836922,
     "wof:name":"Steve Simek",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286325,44.324053,-93.286325,44.324053",
     "geom:latitude":44.324053,
     "geom:longitude":-93.286325,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T4CXAPR0PSOl4CCtjsMk4_44.324053_-93.286325@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600482,
-    "wof:geomhash":"049fb75626047bc62f13637ce8ceed2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d727f22167b938e6cad8180aa129fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":806717723
+        }
+    ],
     "wof:id":806717723,
-    "wof:lastmodified":1472629752,
+    "wof:lastmodified":1492815155,
     "wof:name":"McD Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

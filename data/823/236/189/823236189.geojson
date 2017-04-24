@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.640583,44.053467,-91.640583,44.053467",
     "geom:latitude":44.053467,
     "geom:longitude":-91.640583,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"http://www.umn.edu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zuj61Tnm9TTFMOXGtBoja_44.053467_-91.640583@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609071,
-    "wof:geomhash":"a47342e0d5bda17c82c1b9d35691470c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17367bc06d57fffde8fe9e65d8db9686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":823236189
+        }
+    ],
     "wof:id":823236189,
-    "wof:lastmodified":1472629126,
+    "wof:lastmodified":1492829795,
     "wof:name":"Regents Of The University Of Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

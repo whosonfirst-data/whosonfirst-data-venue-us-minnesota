@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.472329,43.986617,-92.472329,43.986617",
     "geom:latitude":43.986617,
     "geom:longitude":-92.472329,
@@ -35,17 +36,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pJLAiiDDwfFafwyLek0Jf_43.986617_-92.472329@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588407,
-    "wof:geomhash":"f22408e2ca111d0da3cfa94570c93674",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2a6c247fc813643795494a9ffd6833b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773792565
+        }
+    ],
     "wof:id":773792565,
-    "wof:lastmodified":1472630160,
+    "wof:lastmodified":1492803129,
     "wof:name":"Pet Place The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

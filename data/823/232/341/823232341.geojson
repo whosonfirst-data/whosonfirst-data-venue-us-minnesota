@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.411086,44.165831,-92.411086,44.165831",
     "geom:latitude":44.165831,
     "geom:longitude":-92.411086,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512445,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y8WnvK749rEvymMKJ5pZV_44.165831_-92.411086@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609003,
-    "wof:geomhash":"1deded605166adce313c45713e48cd6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76a676bc92e188288093aaca15030fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512445,
+            "region_id":85688727,
+            "venue_id":823232341
+        }
+    ],
     "wof:id":823232341,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492828095,
     "wof:name":"Lehmann Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

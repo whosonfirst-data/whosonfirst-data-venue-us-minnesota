@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.737941,45.614612,-95.737941,45.614612",
     "geom:latitude":45.614612,
     "geom:longitude":-95.737941,
@@ -36,17 +37,34 @@
         "tools-pneumatic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510213,
+        85633793,
+        85968631,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mrKs85ywBGPiT1giRkuKx_45.614612_-95.737941@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609312,
-    "wof:geomhash":"e969d0e1314a42f36a12f6bfd9ace8da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d3fd1045aea1ad49c4b20170988f9ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404510213,
+            "locality_id":85968631,
+            "region_id":85688727,
+            "venue_id":823248861
+        }
+    ],
     "wof:id":823248861,
-    "wof:lastmodified":1472629175,
+    "wof:lastmodified":1492830241,
     "wof:name":"Air Tool Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

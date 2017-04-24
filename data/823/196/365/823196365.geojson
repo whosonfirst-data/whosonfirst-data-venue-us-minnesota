@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.301704,44.857964,-93.301704,44.857964",
     "geom:latitude":44.857964,
     "geom:longitude":-93.301704,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://twincities.citysearch.com/profile/external/616673470/bloomington_mn/smart_center_bloomington.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HQ0x5qrVcIfoJZGf8FqrV_44.857964_-93.301704@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608281,
-    "wof:geomhash":"ff0e516a8dd189e8ad140cfa3059b0af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"febb86ca0bae418ec75ff2ab7fb24b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823196365
+        }
+    ],
     "wof:id":823196365,
-    "wof:lastmodified":1472629039,
+    "wof:lastmodified":1492828303,
     "wof:name":"Smart center Bloomington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.218932,45.618914,-94.218932,45.618914",
     "geom:latitude":45.618914,
     "geom:longitude":-94.218932,
@@ -33,17 +34,34 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514503,
+        85633793,
+        85952441,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41EaonCMNlxE5pSlH3jwrb_45.618914_-94.218932@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609360,
-    "wof:geomhash":"a30e34746230ee02964ddb5d338a9fe0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4affd0d6ba3cc1de135fe11e77eb2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514503,
+            "locality_id":85952441,
+            "region_id":85688727,
+            "venue_id":823251343
+        }
+    ],
     "wof:id":823251343,
-    "wof:lastmodified":1472629197,
+    "wof:lastmodified":1492828232,
     "wof:name":"Interior Motives Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

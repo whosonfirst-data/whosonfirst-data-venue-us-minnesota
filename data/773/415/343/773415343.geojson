@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.483152,47.179651,-92.483152,47.179651",
     "geom:latitude":47.179651,
     "geom:longitude":-92.483152,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vjmw33KIWOoemPepTRSAv_47.179651_-92.483152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585537,
-    "wof:geomhash":"ebc78bcb335c25ba74ce5666daaefef2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0186e28b7da019d6f7abc938844e347b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773415343
+        }
+    ],
     "wof:id":773415343,
-    "wof:lastmodified":1472630046,
+    "wof:lastmodified":1492805409,
     "wof:name":"V & S Consulting",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

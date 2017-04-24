@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.052006,44.079153,-95.052006,44.079153",
     "geom:latitude":44.079153,
     "geom:longitude":-95.052006,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511857,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IpKr5LrLrLUUmYLVBB7pr_44.079153_-95.052006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604183,
-    "wof:geomhash":"9fbdcfa30ee6290bfadfba5bcb18bfde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61fd9ae6811ab007df654c9cf756fbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511857,
+            "region_id":85688727,
+            "venue_id":807142247
+        }
+    ],
     "wof:id":807142247,
-    "wof:lastmodified":1472629271,
+    "wof:lastmodified":1492823645,
     "wof:name":"Rasmussen Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

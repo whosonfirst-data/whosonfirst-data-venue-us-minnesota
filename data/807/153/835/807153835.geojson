@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.670569,44.260359,-92.670569,44.260359",
     "geom:latitude":44.260359,
     "geom:longitude":-92.670569,
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85824013,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85824013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,11 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1462604309,
-    "wof:geomhash":"c52817469e5c8d7ebe36226c109349cf",
+    "wof:geomhash":"c25594601976f998587f28ca07198f39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85824013,
             "region_id":85688727,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":807153835,
-    "wof:lastmodified":1472629296,
+    "wof:lastmodified":1492822794,
     "wof:name":"Fred Mark",
     "wof:parent_id":85824013,
     "wof:placetype":"venue",

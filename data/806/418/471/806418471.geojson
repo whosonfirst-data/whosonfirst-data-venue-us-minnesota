@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.153178,44.777542,-94.153178,44.777542",
     "geom:latitude":44.777542,
     "geom:longitude":-94.153178,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FyJQN3yjYDMG4IO4L9uXw_44.777542_-94.153178@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597997,
-    "wof:geomhash":"12c0573423dccfe753ba17e802860590",
-    "wof:hierarchy":[],
+    "wof:geomhash":"034a45fe3ac1c650d5f096affdb1c1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":806418471
+        }
+    ],
     "wof:id":806418471,
-    "wof:lastmodified":1472629097,
+    "wof:lastmodified":1492821508,
     "wof:name":"Orthopedic Surgical Cnsltnts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

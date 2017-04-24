@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.988669,43.618923,-94.988669,43.618923",
     "geom:latitude":43.618923,
     "geom:longitude":-94.988669,
@@ -33,17 +34,34 @@
         "s"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7koXA1VOTpj4iMl0wJ585u_43.618923_-94.988669@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590349,
-    "wof:geomhash":"2a25aecc81b4a7bf7b490bbe7ff153c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c70a60b955268c40f08b271627b2418b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":789762329
+        }
+    ],
     "wof:id":789762329,
-    "wof:lastmodified":1472629325,
+    "wof:lastmodified":1492810129,
     "wof:name":"Senior Citizen Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

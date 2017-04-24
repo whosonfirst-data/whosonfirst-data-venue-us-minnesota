@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.435343,44.049645,-92.435343,44.049645",
     "geom:latitude":44.049645,
     "geom:longitude":-92.435343,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qbTASjcE5YlqoSQ3OSeCy_44.049645_-92.435343@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598512,
-    "wof:geomhash":"818b3d1b910e19241fb84f871d75b564",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e2b6c186c71b4f1d8a7ce6546ea5a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806485699
+        }
+    ],
     "wof:id":806485699,
-    "wof:lastmodified":1472629299,
+    "wof:lastmodified":1492814637,
     "wof:name":"Dental Development Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

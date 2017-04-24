@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.431026,45.453666,-94.431026,45.453666",
     "geom:latitude":45.453666,
     "geom:longitude":-94.431026,
@@ -31,17 +32,34 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514221,
+        85633793,
+        85952459,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FcUns4CRV34BGbt1WzcaD_45.453666_-94.431026@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589454,
-    "wof:geomhash":"47cea2cce947cf52e0d02630adc9bee9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9862e5f43bf0a4f92c303d068b0de0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514221,
+            "locality_id":85952459,
+            "region_id":85688727,
+            "venue_id":789649931
+        }
+    ],
     "wof:id":789649931,
-    "wof:lastmodified":1472629101,
+    "wof:lastmodified":1492809760,
     "wof:name":"Spoden's Septic Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

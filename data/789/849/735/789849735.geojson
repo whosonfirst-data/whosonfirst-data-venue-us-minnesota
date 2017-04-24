@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.755314,45.332708,-93.755314,45.332708",
     "geom:latitude":45.332708,
     "geom:longitude":-93.755314,
@@ -28,17 +29,34 @@
     "sg:postcode":"55309",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515185,
+        85633793,
+        85968829,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31pQd1xyhRT1drHA2yQN8i_45.332708_-93.755314@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591025,
-    "wof:geomhash":"aae1a6239f9552952d2a16daac9a7a85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4412d1ca15cae7cc98682bdf8bb75c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515185,
+            "locality_id":85968829,
+            "region_id":85688727,
+            "venue_id":789849735
+        }
+    ],
     "wof:id":789849735,
-    "wof:lastmodified":1472629496,
+    "wof:lastmodified":1492813511,
     "wof:name":"Lakeside Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.064004,45.139977,-95.064004,45.139977",
     "geom:latitude":45.139977,
     "geom:longitude":-95.064004,
@@ -32,17 +33,34 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DAFq8G42jmYwl0lCxoRdR_45.139977_-95.064004@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589509,
-    "wof:geomhash":"e814c730f24e314afb083c13d532f72f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9652670debe61ded652b58f21103e8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":789657087
+        }
+    ],
     "wof:id":789657087,
-    "wof:lastmodified":1472629110,
+    "wof:lastmodified":1492811178,
     "wof:name":"Regency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

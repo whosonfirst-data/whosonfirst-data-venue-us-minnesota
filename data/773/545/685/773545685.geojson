@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.976796,45.325624,-92.976796,45.325624",
     "geom:latitude":45.325624,
     "geom:longitude":-92.976796,
@@ -31,17 +32,34 @@
         "daycare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42mPnegCQ61lhRlrH4GUVg_45.325624_-92.976796@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586532,
-    "wof:geomhash":"6306f74125cb869d5bcc5083152e7a07",
-    "wof:hierarchy":[],
+    "wof:geomhash":"216063af5ac18d539a5a5c76d54273d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773545685
+        }
+    ],
     "wof:id":773545685,
-    "wof:lastmodified":1472630092,
+    "wof:lastmodified":1492805090,
     "wof:name":"Susan Stark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

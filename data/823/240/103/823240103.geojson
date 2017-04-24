@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.595065,44.080272,-93.595065,44.080272",
     "geom:latitude":44.080272,
     "geom:longitude":-93.595065,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514871,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s5pNsBL0eYKoepheANOe1_44.080272_-93.595065@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609151,
-    "wof:geomhash":"b236a19525cfc13e5c6ba0752879ecb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae9914b2f8d850bb67a2a27644129571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514871,
+            "region_id":85688727,
+            "venue_id":823240103
+        }
+    ],
     "wof:id":823240103,
-    "wof:lastmodified":1472629127,
+    "wof:lastmodified":1492830831,
     "wof:name":"James Hagerty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

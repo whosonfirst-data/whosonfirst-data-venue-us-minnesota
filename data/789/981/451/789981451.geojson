@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.585963,46.459933,-95.585963,46.459933",
     "geom:latitude":46.459933,
     "geom:longitude":-95.585963,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513047,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gcSZYy5u1BdJHmybuJmKf_46.459933_-95.585963@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592178,
-    "wof:geomhash":"3560e75ffe324e9f32a0bc47646c6857",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fab6ced48b9b5ef25bf8cef4f2893e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513047,
+            "region_id":85688727,
+            "venue_id":789981451
+        }
+    ],
     "wof:id":789981451,
-    "wof:lastmodified":1472629675,
+    "wof:lastmodified":1492813357,
     "wof:name":"Thomas & Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

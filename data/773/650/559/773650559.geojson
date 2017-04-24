@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.711948,44.948963,-95.711948,44.948963",
     "geom:latitude":44.948963,
     "geom:longitude":-95.711948,
@@ -31,17 +32,34 @@
         "probation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5voqHOBuxMHuBTkbBSktpS_44.948963_-95.711948@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587332,
-    "wof:geomhash":"0b419bf384d8f229669c8aa30421edef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8383ec398a41202d44f98cb4139bf5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":773650559
+        }
+    ],
     "wof:id":773650559,
-    "wof:lastmodified":1472630121,
+    "wof:lastmodified":1492807663,
     "wof:name":"Probation Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

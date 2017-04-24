@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.678525,43.803411,-91.678525,43.803411",
     "geom:latitude":43.803411,
     "geom:longitude":-91.678525,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509475,
+        85633793,
+        102087605
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nUEBJX8CtXxlq5s6XFMf8_43.803411_-91.678525@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601698,
-    "wof:geomhash":"b320a82d74defbf277334d95f7832ae8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53c5a59e50040783c33f3754fa87fabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087605,
+            "localadmin_id":404509475,
+            "region_id":85688727,
+            "venue_id":806861087
+        }
+    ],
     "wof:id":806861087,
-    "wof:lastmodified":1472629897,
+    "wof:lastmodified":1492818605,
     "wof:name":"Donald Hoegh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

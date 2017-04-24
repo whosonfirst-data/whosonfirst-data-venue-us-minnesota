@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.36132,45.02639,-93.36132,45.02639",
     "geom:latitude":45.02639,
     "geom:longitude":-93.36132,
@@ -86,17 +87,34 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DVVv48QIk1BH31cy5GTYc_45.026390_-93.361320@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608151,
-    "wof:geomhash":"2e2cc438d89450511b052edf4f9c6924",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d7d2dcaa39c589de8b5db2027dc3478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823186607
+        }
+    ],
     "wof:id":823186607,
-    "wof:lastmodified":1472629045,
+    "wof:lastmodified":1492830541,
     "wof:name":"Custom Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

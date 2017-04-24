@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.210481,44.097135,-93.210481,44.097135",
     "geom:latitude":44.097135,
     "geom:longitude":-93.210481,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kLedLH4rHPSeQQgVRYARN_44.097135_-93.210481@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586933,
-    "wof:geomhash":"cf998e370d27a94f68caa8391205e6c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"982cbe3e0ed6c67c56ff31034c18a0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":773598407
+        }
+    ],
     "wof:id":773598407,
-    "wof:lastmodified":1472630105,
+    "wof:lastmodified":1492804375,
     "wof:name":"Wee Ones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

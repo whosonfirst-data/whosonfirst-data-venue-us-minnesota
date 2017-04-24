@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.516362,44.798122,-93.516362,44.798122",
     "geom:latitude":44.798122,
     "geom:longitude":-93.516362,
@@ -31,17 +32,34 @@
         "balloon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ObGBMq58UNCKX03N4Zfri_44.798122_-93.516362@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597424,
-    "wof:geomhash":"ad175f60e2a7af3b989f4b3c34391c01",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c1f54ccec5aaa70eaa055d41fba3996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":790621229
+        }
+    ],
     "wof:id":790621229,
-    "wof:lastmodified":1472629912,
+    "wof:lastmodified":1492836347,
     "wof:name":"Minnesota Valley Balloons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

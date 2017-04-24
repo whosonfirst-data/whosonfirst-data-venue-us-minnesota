@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.836065,46.825649,-95.836065,46.825649",
     "geom:latitude":46.825649,
     "geom:longitude":-95.836065,
@@ -33,17 +34,34 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rymj6U7Sb3BpgBb6iBrIo_46.825649_-95.836065@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594544,
-    "wof:geomhash":"dabb1540fba0fbfc38be69ba387f5e80",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c42e88e01b713568cca18482dd13853f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":790274643
+        }
+    ],
     "wof:id":790274643,
-    "wof:lastmodified":1472629461,
+    "wof:lastmodified":1492831330,
     "wof:name":"Columbia Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

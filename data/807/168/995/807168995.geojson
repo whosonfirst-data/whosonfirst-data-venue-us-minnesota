@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.223591,45.841264,-95.223591,45.841264",
     "geom:latitude":45.841264,
     "geom:longitude":-95.223591,
@@ -28,17 +29,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513929,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57zR55clbjnSArrpEctp37_45.841264_-95.223591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604475,
-    "wof:geomhash":"e10017e0dd3eab379ee70cf8eacc3700",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98f24c0fd227a50344d43a57301ed260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513929,
+            "region_id":85688727,
+            "venue_id":807168995
+        }
+    ],
     "wof:id":807168995,
-    "wof:lastmodified":1472629327,
+    "wof:lastmodified":1492827028,
     "wof:name":"JMJ Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

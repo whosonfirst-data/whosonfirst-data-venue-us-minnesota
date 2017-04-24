@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.55189,45.67331,-94.55189,45.67331",
     "geom:latitude":45.67331,
     "geom:longitude":-94.55189,
@@ -31,17 +32,41 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514247,
+        85633793,
+        102087719,
+        404514067
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_080V23Np6ZJZF9AkOg3ZUy_45.673310_-94.551890@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599799,
-    "wof:geomhash":"d9e0a066adb10dde36383e74346295e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"149bb80db7bd5b8c7fe9071fdba6b3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514247,
+            "region_id":85688727,
+            "venue_id":806637945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514067,
+            "region_id":85688727,
+            "venue_id":806637945
+        }
+    ],
     "wof:id":806637945,
-    "wof:lastmodified":1472629587,
+    "wof:lastmodified":1492819675,
     "wof:name":"Clerks Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

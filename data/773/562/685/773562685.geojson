@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.031031,45.126955,-95.031031,45.126955",
     "geom:latitude":45.126955,
     "geom:longitude":-95.031031,
@@ -28,17 +29,34 @@
     "sg:postcode":"56201",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01xT1NM0nk2cnHr3DGm1NG_45.126955_-95.031031@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586672,
-    "wof:geomhash":"3dbf0aa178059293bd424bb2b0a83f1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63b29262893a998ebb8d8206bbeb2e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":773562685
+        }
+    ],
     "wof:id":773562685,
-    "wof:lastmodified":1472630092,
+    "wof:lastmodified":1492804837,
     "wof:name":"United States Government",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

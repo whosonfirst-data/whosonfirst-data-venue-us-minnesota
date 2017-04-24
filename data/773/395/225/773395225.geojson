@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.983466,45.38944,-92.983466,45.38944",
     "geom:latitude":45.38944,
     "geom:longitude":-92.983466,
@@ -32,17 +33,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511029,
+        85633793,
+        85952685,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4n0YPbx6zZekZp7Sr4R57T_45.389440_-92.983466@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585365,
-    "wof:geomhash":"aabad29099546cfa8f3406be9acc4213",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0fd8da0e130c021917b9aa9864b4fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511029,
+            "locality_id":85952685,
+            "region_id":85688727,
+            "venue_id":773395225
+        }
+    ],
     "wof:id":773395225,
-    "wof:lastmodified":1472630039,
+    "wof:lastmodified":1492807033,
     "wof:name":"Kultala Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

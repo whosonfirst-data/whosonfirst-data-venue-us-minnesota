@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.154835,48.108735,-96.154835,48.108735",
     "geom:latitude":48.108735,
     "geom:longitude":-96.154835,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4srxgjpavKx8bLpVZiaXPV_48.108735_-96.154835@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594030,
-    "wof:geomhash":"a6b262d2e6d7ec6c277170df1ae5c603",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3989c781f40e3dd9167dd0cdb531c43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":790210425
+        }
+    ],
     "wof:id":790210425,
-    "wof:lastmodified":1472629295,
+    "wof:lastmodified":1492832844,
     "wof:name":"Southwood Park Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

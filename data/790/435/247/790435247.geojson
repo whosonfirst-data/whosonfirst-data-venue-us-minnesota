@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.957444,45.066618,-92.957444,45.066618",
     "geom:latitude":45.066618,
     "geom:longitude":-92.957444,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85815391,
+        102191575,
+        404510951,
         85633793,
         85968253,
         102087659,
-        85815391
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462595807,
-    "wof:geomhash":"4eb2ac8314043e0875a696bd8cca2450",
+    "wof:geomhash":"28f468896b7795d11a047a881c51fefd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087659,
+            "localadmin_id":404510951,
             "locality_id":85968253,
             "neighbourhood_id":85815391,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":790435247,
-    "wof:lastmodified":1472629706,
+    "wof:lastmodified":1492831253,
     "wof:name":"Daisies",
     "wof:parent_id":85815391,
     "wof:placetype":"venue",

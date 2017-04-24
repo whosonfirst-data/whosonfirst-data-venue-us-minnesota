@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.92704,45.450776,-94.92704,45.450776",
     "geom:latitude":45.450776,
     "geom:longitude":-94.92704,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514227,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZcWmREj1jJRTWUaNHuLXZ_45.450776_-94.927040@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604781,
-    "wof:geomhash":"ea805ef1eb7057daf9ae788c056422bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57d7aa4f10ad428bce78a7eb42b7cb27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514227,
+            "region_id":85688727,
+            "venue_id":807198281
+        }
+    ],
     "wof:id":807198281,
-    "wof:lastmodified":1472629385,
+    "wof:lastmodified":1492826997,
     "wof:name":"Adam Kaiser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.86374,47.452287,-94.86374,47.452287",
     "geom:latitude":47.452287,
     "geom:longitude":-94.86374,
@@ -28,17 +29,34 @@
     "sg:postcode":"56601",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GLG5JwofGpt8LqYDIktNs_47.452287_-94.863740@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602416,
-    "wof:geomhash":"9838a3cb1b988cba353a46dff0990760",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba3fa020cb58276d6c588cf608986475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":806947347
+        }
+    ],
     "wof:id":806947347,
-    "wof:lastmodified":1472629947,
+    "wof:lastmodified":1492819203,
     "wof:name":"Gym Bin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

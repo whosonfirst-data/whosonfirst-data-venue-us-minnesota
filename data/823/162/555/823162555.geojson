@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247368,45.008932,-93.247368,45.008932",
     "geom:latitude":45.008932,
     "geom:longitude":-93.247368,
@@ -45,14 +46,14 @@
     "sg:website":"http://www.hrblock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872687,
+        420781085,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872675
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607836,
-    "wof:geomhash":"afb15acae24a5667fb11037ad0030658",
+    "wof:geomhash":"08f0c8466ff4947208b161eb3ef7bffd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,25 +69,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872687,
-            "region_id":85688727,
-            "venue_id":823162555
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872675,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781085,
             "region_id":85688727,
             "venue_id":823162555
         }
     ],
     "wof:id":823162555,
-    "wof:lastmodified":1472628990,
+    "wof:lastmodified":1492831036,
     "wof:name":"H&R Block",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

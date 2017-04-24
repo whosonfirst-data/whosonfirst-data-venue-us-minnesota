@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.983491,44.984526,-94.983491,44.984526",
     "geom:latitude":44.984526,
     "geom:longitude":-94.983491,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509873,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rWDZWQcDf0DS0hKAIroVj_44.984526_-94.983491@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588169,
-    "wof:geomhash":"d15721f6546f6e6880e98054888d68f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeb6dd4b78af164fa3102a74e930968f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509873,
+            "region_id":85688727,
+            "venue_id":773759759
+        }
+    ],
     "wof:id":773759759,
-    "wof:lastmodified":1472630154,
+    "wof:lastmodified":1492802200,
     "wof:name":"Dahl Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.258844,47.242387,-96.258844,47.242387",
     "geom:latitude":47.242387,
     "geom:longitude":-96.258844,
@@ -34,17 +35,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512429,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EnIiKkeE1vK3uZUeAvhQP_47.242387_-96.258844@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591775,
-    "wof:geomhash":"b5d355ff3b916dcc5f1ad51514ca9c57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1814190d7b750261c3974b05891b775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512429,
+            "region_id":85688727,
+            "venue_id":789938369
+        }
+    ],
     "wof:id":789938369,
-    "wof:lastmodified":1472629640,
+    "wof:lastmodified":1492809278,
     "wof:name":"Mitchell Hoekstra",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

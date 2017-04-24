@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.528198,44.909302,-93.528198,44.909302",
     "geom:latitude":44.909302,
     "geom:longitude":-93.528198,
@@ -31,17 +32,34 @@
         "self"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AxATVEVvz22h2ooSQNtL1_44.909302_-93.528198@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462605991,
-    "wof:geomhash":"32f3b47a4d73166244c5f2fae5c87910",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0db9cf0b57bdb49a48ee20b956c8da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":807313029
+        }
+    ],
     "wof:id":807313029,
-    "wof:lastmodified":1472629673,
+    "wof:lastmodified":1492826070,
     "wof:name":"Shurgard Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

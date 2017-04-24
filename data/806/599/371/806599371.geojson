@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.041954,44.884912,-94.041954,44.884912",
     "geom:latitude":44.884912,
     "geom:longitude":-94.041954,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509749,
+        85633793,
+        85952559,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BeDSet0h1cn73E26Upfwb_44.884912_-94.041954@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599482,
-    "wof:geomhash":"dbcda86e94c4a1723882169dd9b30304",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7237ddbb5e6240e4466824fb3461fdac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509749,
+            "locality_id":85952559,
+            "region_id":85688727,
+            "venue_id":806599371
+        }
+    ],
     "wof:id":806599371,
-    "wof:lastmodified":1472629530,
+    "wof:lastmodified":1492815025,
     "wof:name":"Sarah Heuer DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

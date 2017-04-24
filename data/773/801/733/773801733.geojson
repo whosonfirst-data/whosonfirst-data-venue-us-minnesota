@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.777034,48.197886,-96.777034,48.197886",
     "geom:latitude":48.197886,
     "geom:longitude":-96.777034,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513989,
+        85633793,
+        85953457,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hIWOWWSegFUxSr5upKS0z_48.197886_-96.777034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588480,
-    "wof:geomhash":"310a2a75179b567650ebb848de15aa50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeba811673c2718a8af0f0dc052b5643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513989,
+            "locality_id":85953457,
+            "region_id":85688727,
+            "venue_id":773801733
+        }
+    ],
     "wof:id":773801733,
-    "wof:lastmodified":1472630164,
+    "wof:lastmodified":1492805216,
     "wof:name":"Larson Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

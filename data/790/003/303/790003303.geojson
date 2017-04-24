@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.739322,44.386917,-93.739322,44.386917",
     "geom:latitude":44.386917,
     "geom:longitude":-93.739322,
@@ -28,17 +29,34 @@
     "sg:postcode":"56057",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512359,
+        85633793,
+        85953433,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ls2epnnU16vfHfPnMsGct_44.386917_-93.739322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592352,
-    "wof:geomhash":"ec3d99fabfc6c6ea50e108d65154224e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b387b5c22fa2bb44dcd77d02c771740e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512359,
+            "locality_id":85953433,
+            "region_id":85688727,
+            "venue_id":790003303
+        }
+    ],
     "wof:id":790003303,
-    "wof:lastmodified":1472628938,
+    "wof:lastmodified":1492837214,
     "wof:name":"Independent Order Odd Fellows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

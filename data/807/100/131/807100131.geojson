@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.173398,44.442909,-93.173398,44.442909",
     "geom:latitude":44.442909,
     "geom:longitude":-93.173398,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RrSK1fVlLWhKmLWY4RecS_44.442909_-93.173398@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603729,
-    "wof:geomhash":"732a3593ef0749d024278c678bc30d06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce8ebb05a4a81d78cdcfe13fa0003dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":807100131
+        }
+    ],
     "wof:id":807100131,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492824080,
     "wof:name":"Roy Elveton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

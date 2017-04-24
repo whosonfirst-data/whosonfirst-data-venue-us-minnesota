@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.329068,44.912318,-93.329068,44.912318",
     "geom:latitude":44.912318,
     "geom:longitude":-93.329068,
@@ -37,17 +38,34 @@
         "gourmet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5S0rPtgihO0I1fkFh7Wzvm_44.912318_-93.329068@1303262826"
     },
     "wof:country":"US",
     "wof:created":1462607414,
-    "wof:geomhash":"a56143df3ede326c494141d316a21813",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b933bd10dba0c32b7b3478dae9b2ba12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823134801
+        }
+    ],
     "wof:id":823134801,
-    "wof:lastmodified":1472628944,
+    "wof:lastmodified":1492828820,
     "wof:name":"Premier Cheese Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

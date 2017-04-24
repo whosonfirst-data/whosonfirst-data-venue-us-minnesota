@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.816547,45.392018,-92.816547,45.392018",
     "geom:latitude":45.392018,
     "geom:longitude":-92.816547,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511107,
+        85633793,
+        85952707,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HcoJqIhvl5DJex3kq21de_45.392018_-92.816547@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597809,
-    "wof:geomhash":"90f687d526130514a72ea531845fa355",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9400dabd529f4c6a5b195f30e0e0cbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511107,
+            "locality_id":85952707,
+            "region_id":85688727,
+            "venue_id":806396995
+        }
+    ],
     "wof:id":806396995,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492819365,
     "wof:name":"Center City Village Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

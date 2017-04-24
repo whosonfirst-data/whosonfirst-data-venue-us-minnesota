@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.918143,43.54361,-95.918143,43.54361",
     "geom:latitude":43.54361,
     "geom:longitude":-95.918143,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510269,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1v6nS2GYsYmAwJGR2AtNMC_43.543610_-95.918143@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603915,
-    "wof:geomhash":"120dd6de7aa243e073f1b984cdfd8fcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02ceab8fe28c6ba107e16888e30358c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510269,
+            "region_id":85688727,
+            "venue_id":807117673
+        }
+    ],
     "wof:id":807117673,
-    "wof:lastmodified":1472629239,
+    "wof:lastmodified":1492825785,
     "wof:name":"Kramer Kriene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.888114,45.37822,-92.888114,45.37822",
     "geom:latitude":45.37822,
     "geom:longitude":-92.888114,
@@ -33,17 +34,34 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39aFnOpSiSvQBKAGsVmwTK_45.378220_-92.888114@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603477,
-    "wof:geomhash":"d7aa193eebd5a6403049f7d4ac9ad7bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f65782db45a70ca8f9124cf720f852a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":807072609
+        }
+    ],
     "wof:id":807072609,
-    "wof:lastmodified":1472629077,
+    "wof:lastmodified":1492824201,
     "wof:name":"Chisago City Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

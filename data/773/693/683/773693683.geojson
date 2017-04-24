@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.748961,47.574898,-95.748961,47.574898",
     "geom:latitude":47.574898,
     "geom:longitude":-95.748961,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.fosston.k12.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vr7z47SC1VGIWKdjrzunT_47.574898_-95.748961@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587655,
-    "wof:geomhash":"66927e71959c9f7948efd49c6788b244",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7e7f4a209cb66916811cc4423200b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":773693683
+        }
+    ],
     "wof:id":773693683,
-    "wof:lastmodified":1472630133,
+    "wof:lastmodified":1492800541,
     "wof:name":"Fosston High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

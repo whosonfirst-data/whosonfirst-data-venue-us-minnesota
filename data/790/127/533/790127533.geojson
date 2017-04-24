@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.994159,45.346068,-92.994159,45.346068",
     "geom:latitude":45.346068,
     "geom:longitude":-92.994159,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R4JLes7jVTInbWwdGnxRV_45.346068_-92.994159@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593344,
-    "wof:geomhash":"61195a3e061cce24376727989df75ec1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac4d67691827862a9671515321c1e229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":790127533
+        }
+    ],
     "wof:id":790127533,
-    "wof:lastmodified":1472629194,
+    "wof:lastmodified":1492836358,
     "wof:name":"Johnson Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

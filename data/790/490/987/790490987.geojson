@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.52523,45.046822,-93.52523,45.046822",
     "geom:latitude":45.046822,
     "geom:longitude":-93.52523,
@@ -32,17 +33,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511881,
+        85633793,
+        85969173,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qq6oB5bjwBBj9OdZZB05d_45.046822_-93.525230@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596297,
-    "wof:geomhash":"7ce226b8b48f7fdbae979abc2ff7c668",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0768d680d52f8556c2fb51857c66b5d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511881,
+            "locality_id":85969173,
+            "region_id":85688727,
+            "venue_id":790490987
+        }
+    ],
     "wof:id":790490987,
-    "wof:lastmodified":1472629777,
+    "wof:lastmodified":1492834969,
     "wof:name":"SLB Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

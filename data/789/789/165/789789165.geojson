@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.211356,45.065519,-93.211356,45.065519",
     "geom:latitude":45.065519,
     "geom:longitude":-93.211356,
@@ -38,17 +39,34 @@
         "material"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20LRKO5sXj9KfwRCD3lQel_45.065519_-93.211356@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590559,
-    "wof:geomhash":"54efc4f4652a6d3b39f3467cd00fbc7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c73b0095735af5eaccd8329c87d22e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":789789165
+        }
+    ],
     "wof:id":789789165,
-    "wof:lastmodified":1472629374,
+    "wof:lastmodified":1492809972,
     "wof:name":"Buzzing Acres Bee Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

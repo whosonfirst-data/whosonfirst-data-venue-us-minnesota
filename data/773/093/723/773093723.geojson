@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.330644,45.146726,-93.330644,45.146726",
     "geom:latitude":45.146726,
     "geom:longitude":-93.330644,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b4VnxqyFwqPku4rhA6jLF_45.146726_-93.330644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583106,
-    "wof:geomhash":"23e7c124a797c4afc5c9d0563245af11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04620f207c6200c2862f9d3a7c4f925f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773093723
+        }
+    ],
     "wof:id":773093723,
-    "wof:lastmodified":1472629573,
+    "wof:lastmodified":1492807761,
     "wof:name":"Linde Hydraulics Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

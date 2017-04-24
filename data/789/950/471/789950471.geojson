@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.341656,45.577013,-94.341656,45.577013",
     "geom:latitude":45.577013,
     "geom:longitude":-94.341656,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514497,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nhHo6zL2xCoHW6uUv37YO_45.577013_-94.341656@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591918,
-    "wof:geomhash":"f6fe3daa35d9079f997ea5f75123302d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bfa5b33622c1d59276bb81da944b4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514497,
+            "region_id":85688727,
+            "venue_id":789950471
+        }
+    ],
     "wof:id":789950471,
-    "wof:lastmodified":1472629651,
+    "wof:lastmodified":1492812748,
     "wof:name":"Kings Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

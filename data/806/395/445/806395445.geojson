@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.352344,46.004878,-94.352344,46.004878",
     "geom:latitude":46.004878,
     "geom:longitude":-94.352344,
@@ -31,17 +32,34 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sTIDK0lrD02LJ8ouoYguz_46.004878_-94.352344@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597795,
-    "wof:geomhash":"d4dc8445de1f34eca61eab08c4605696",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc0e417d1732b73a30faa2e51663af69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":806395445
+        }
+    ],
     "wof:id":806395445,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492820535,
     "wof:name":"Bob Lemieur & Sons Charter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

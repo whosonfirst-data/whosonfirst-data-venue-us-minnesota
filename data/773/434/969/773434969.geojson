@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.858448,46.622218,-95.858448,46.622218",
     "geom:latitude":46.622218,
     "geom:longitude":-95.858448,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512739,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1847HtiUGb7b4qliTI4DEU_46.622218_-95.858448@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585709,
-    "wof:geomhash":"675e6fbd85c159cebe3a3dd757cc543c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4643df6680319e2ef2a8bb9c8ed20cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512739,
+            "region_id":85688727,
+            "venue_id":773434969
+        }
+    ],
     "wof:id":773434969,
-    "wof:lastmodified":1472630055,
+    "wof:lastmodified":1492805722,
     "wof:name":"Anderson & Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

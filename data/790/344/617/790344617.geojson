@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.570489,46.5929,-95.570489,46.5929",
     "geom:latitude":46.5929,
     "geom:longitude":-95.570489,
@@ -32,17 +33,34 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513041,
+        85633793,
+        85968709,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IrmDY1yAV8hBeWI8C52Oi_46.592900_-95.570489@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595098,
-    "wof:geomhash":"030162ed07929f7adbc0a465395f79fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"365dc3603f485c5b389c283569ce9227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513041,
+            "locality_id":85968709,
+            "region_id":85688727,
+            "venue_id":790344617
+        }
+    ],
     "wof:id":790344617,
-    "wof:lastmodified":1472629550,
+    "wof:lastmodified":1492836145,
     "wof:name":"Rousu Building Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

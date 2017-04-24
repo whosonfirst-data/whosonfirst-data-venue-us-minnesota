@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.362173,45.131203,-93.362173,45.131203",
     "geom:latitude":45.131203,
     "geom:longitude":-93.362173,
@@ -28,17 +29,34 @@
     "sg:postcode":"55445",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ref6ApG4juOWnOUqJiwUD_45.131203_-93.362173@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608594,
-    "wof:geomhash":"8c13ed0dc59cbaf73d044a4706313b4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa75000f7e65794de99522e0488744dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213571
+        }
+    ],
     "wof:id":823213571,
-    "wof:lastmodified":1472629106,
+    "wof:lastmodified":1492829225,
     "wof:name":"La Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

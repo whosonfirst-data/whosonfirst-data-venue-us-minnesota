@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.857744,44.081713,-93.857744,44.081713",
     "geom:latitude":44.081713,
     "geom:longitude":-93.857744,
@@ -28,17 +29,34 @@
     "sg:postcode":"56080",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509315,
+        85633793,
+        85953335,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eJhNvrg1Pj8ng2fYV62Ci_44.081713_-93.857744@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603128,
-    "wof:geomhash":"c555d91a264afc5f0759d53967c54d36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5b79b597d539883d2a69c71e43e1abc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404509315,
+            "locality_id":85953335,
+            "region_id":85688727,
+            "venue_id":807030591
+        }
+    ],
     "wof:id":807030591,
-    "wof:lastmodified":1472628993,
+    "wof:lastmodified":1492826018,
     "wof:name":"St Clair Elem & Secondary Schl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.053741,44.7752,-94.053741,44.7752",
     "geom:latitude":44.7752,
     "geom:longitude":-94.053741,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512811,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wan4r0ryz550JTbZGB1l3_44.775200_-94.053741@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604903,
-    "wof:geomhash":"b7b5460bac7786a50c3f883cce778a6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2db696ccdae1523863851894468f3caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512811,
+            "region_id":85688727,
+            "venue_id":807210335
+        }
+    ],
     "wof:id":807210335,
-    "wof:lastmodified":1472629412,
+    "wof:lastmodified":1492823550,
     "wof:name":"William Parpart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

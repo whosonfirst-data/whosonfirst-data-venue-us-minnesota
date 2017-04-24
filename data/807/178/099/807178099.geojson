@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.094603,43.819202,-93.094603,43.819202",
     "geom:latitude":43.819202,
     "geom:longitude":-93.094603,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514519,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RdmiakzNP3loDM39zyJbq_43.819202_-93.094603@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604566,
-    "wof:geomhash":"7c89719def8a5d671f6e6c31001f7ef1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc4d9a77828e2690cec39271fa8e79f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514519,
+            "region_id":85688727,
+            "venue_id":807178099
+        }
+    ],
     "wof:id":807178099,
-    "wof:lastmodified":1472629347,
+    "wof:lastmodified":1492823594,
     "wof:name":"Wayne Benson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

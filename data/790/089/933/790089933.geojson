@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.470152,48.296223,-97.470152,48.296223",
     "geom:latitude":48.296223,
     "geom:longitude":-97.470152,
@@ -31,17 +32,32 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479709,
+        85633793,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cAT5vrVG3YZrX8J1F2lFl_48.296223_-97.470152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593048,
-    "wof:geomhash":"26264e737a2fcc005f53f68fbfe42c3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5c1862b772d1a44fdd679ac51cd21ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404479709,
+            "region_id":85688525,
+            "venue_id":790089933
+        }
+    ],
     "wof:id":790089933,
-    "wof:lastmodified":1472629121,
+    "wof:lastmodified":1492834000,
     "wof:name":"R & L Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

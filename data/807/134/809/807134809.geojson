@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.437131,44.183667,-96.437131,44.183667",
     "geom:latitude":44.183667,
     "geom:longitude":-96.437131,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510431,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XzrkWzyJON7ECDvA6j82D_44.183667_-96.437131@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604106,
-    "wof:geomhash":"15ec9824c43fc86aaea36c5a955aab0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91013333d61b591d3c51266b408fc337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510431,
+            "region_id":85688727,
+            "venue_id":807134809
+        }
+    ],
     "wof:id":807134809,
-    "wof:lastmodified":1472629265,
+    "wof:lastmodified":1492823287,
     "wof:name":"Dean Sanderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

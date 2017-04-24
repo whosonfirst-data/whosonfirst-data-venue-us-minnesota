@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.772986,48.840713,-95.772986,48.840713",
     "geom:latitude":48.840713,
     "geom:longitude":-95.772986,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KUs5Fs3vEGTncPy2VHooy_48.840713_-95.772986@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590062,
-    "wof:geomhash":"336c87337c463679837136703fa210b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"992c04b0cbdabe80be7f677d077985ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":789724583
+        }
+    ],
     "wof:id":789724583,
-    "wof:lastmodified":1472629251,
+    "wof:lastmodified":1492809663,
     "wof:name":"Roseau Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

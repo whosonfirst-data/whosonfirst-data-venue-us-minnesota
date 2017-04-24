@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.788108,44.934212,-93.788108,44.934212",
     "geom:latitude":44.934212,
     "geom:longitude":-93.788108,
@@ -33,17 +34,32 @@
         "drug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511611,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_394lYo6oe7uCQxp5Xhm8H1_44.934212_-93.788108@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606460,
-    "wof:geomhash":"e3e03eaf61afb05651f1b36efeafca5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a953083cde36832446e5c311586f180b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511611,
+            "region_id":85688727,
+            "venue_id":807347049
+        }
+    ],
     "wof:id":807347049,
-    "wof:lastmodified":1472629762,
+    "wof:lastmodified":1492826752,
     "wof:name":"Jerry Elliott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

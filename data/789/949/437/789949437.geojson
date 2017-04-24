@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.548459,45.67422,-94.548459,45.67422",
     "geom:latitude":45.67422,
     "geom:longitude":-94.548459,
@@ -40,17 +41,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514247,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MrIktoIr5DwzTbTuYNvmJ_45.674220_-94.548459@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591909,
-    "wof:geomhash":"cfb4ba0faeca2dea7d551a6181ebda24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcbdb877b41a5dc3cd7720a8ac7bd425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514247,
+            "region_id":85688727,
+            "venue_id":789949437
+        }
+    ],
     "wof:id":789949437,
-    "wof:lastmodified":1472629644,
+    "wof:lastmodified":1492810620,
     "wof:name":"Personal Delivery Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.166225,44.184408,-93.166225,44.184408",
     "geom:latitude":44.184408,
     "geom:longitude":-93.166225,
@@ -31,17 +32,32 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514599,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aLnfnRmgckDK9cgnoqJPx_44.184408_-93.166225@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593534,
-    "wof:geomhash":"b4ddfa1e7a69a61da8bdff7c545247e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"908232437109bb9831ba1ffc55b3328a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514599,
+            "region_id":85688727,
+            "venue_id":790153383
+        }
+    ],
     "wof:id":790153383,
-    "wof:lastmodified":1472629238,
+    "wof:lastmodified":1492831936,
     "wof:name":"Tech Valley Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

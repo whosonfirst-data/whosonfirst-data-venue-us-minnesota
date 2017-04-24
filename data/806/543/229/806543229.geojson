@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.236435,45.377644,-93.236435,45.377644",
     "geom:latitude":45.377644,
     "geom:longitude":-93.236435,
@@ -36,17 +37,34 @@
         "antique"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511283,
+        85633793,
+        85953399,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_265KpoxBcLH8KXuJylMyXw_45.377644_-93.236435@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598985,
-    "wof:geomhash":"5ae6e378ebabfeff36033b043530fbfa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78950b7c9a7550d233a3f82826eb9c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511283,
+            "locality_id":85953399,
+            "region_id":85688727,
+            "venue_id":806543229
+        }
+    ],
     "wof:id":806543229,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492815814,
     "wof:name":"Poor Richards Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

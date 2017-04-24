@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.257477,44.950867,-93.257477,44.950867",
     "geom:latitude":44.950867,
     "geom:longitude":-93.257477,
@@ -33,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559175,
+        1108800089,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872701
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589222,
-    "wof:geomhash":"c447755e5e0d3e074652c9da56b314df",
+    "wof:geomhash":"fe2ba5681200ae48e835e8bf76661824",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +58,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559175,
-            "region_id":85688727,
-            "venue_id":789620591
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872701,
+            "macrohood_id":1108799995,
+            "microhood_id":1108800089,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":789620591
         }
     ],
     "wof:id":789620591,
-    "wof:lastmodified":1472629036,
+    "wof:lastmodified":1492812329,
     "wof:name":"G & S Roofing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.456956,45.113432,-93.456956,45.113432",
     "geom:latitude":45.113432,
     "geom:longitude":-93.456956,
@@ -32,17 +33,34 @@
         "noncommercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pA0nRTWaPbwLlmGY811tG_45.113432_-93.456956@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594065,
-    "wof:geomhash":"4546aca203748ab3bb13cb12df51af9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c457979ce61035090b7887abc0089477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":790214567
+        }
+    ],
     "wof:id":790214567,
-    "wof:lastmodified":1472629314,
+    "wof:lastmodified":1492831956,
     "wof:name":"Parker-Prose HCA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

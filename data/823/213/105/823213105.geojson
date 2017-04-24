@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.287377,45.103101,-93.287377,45.103101",
     "geom:latitude":45.103101,
     "geom:longitude":-93.287377,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://www.marathonmanagement.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12PGhSQUZxlB7gWilwrD3X_45.103101_-93.287377@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608587,
-    "wof:geomhash":"37fd47172b396bac584dad6e8add8263",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7208f9adb16095f7da319e964eed1abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213105
+        }
+    ],
     "wof:id":823213105,
-    "wof:lastmodified":1472629077,
+    "wof:lastmodified":1492829192,
     "wof:name":"Riverview Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

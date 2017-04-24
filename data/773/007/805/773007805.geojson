@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.315489,45.092518,-93.315489,45.092518",
     "geom:latitude":45.092518,
     "geom:longitude":-93.315489,
@@ -31,17 +32,34 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nziLby7CTaCe9R9q5kPey_45.092518_-93.315489@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582265,
-    "wof:geomhash":"d9a5fd6d4fb636a997aeea85079779c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82b9c557a70aa265b75a586f72b6bc90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773007805
+        }
+    ],
     "wof:id":773007805,
-    "wof:lastmodified":1472629064,
+    "wof:lastmodified":1492799905,
     "wof:name":"Rise Home Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.115137,44.935595,-93.115137,44.935595",
     "geom:latitude":44.935595,
     "geom:longitude":-93.115137,
@@ -32,19 +33,40 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5crQnljyjEuvKoY6SN8WYp_44.935595_-93.115137@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601314,
-    "wof:geomhash":"c69b367e3c59c4ef8e6b5cbefc43887b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3866e9d0ccd4bc95c7df80f7c3e9f61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":806816513
+        }
+    ],
     "wof:id":806816513,
-    "wof:lastmodified":1472629852,
+    "wof:lastmodified":1492821935,
     "wof:name":"St Mark Evang Lutheran Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

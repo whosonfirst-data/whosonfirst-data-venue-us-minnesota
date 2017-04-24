@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.834773,43.985895,-91.834773,43.985895",
     "geom:latitude":43.985895,
     "geom:longitude":-91.834773,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515105,
+        85633793,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZpTryrv8FAVFTdtCyDggG_43.985895_-91.834773@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609045,
-    "wof:geomhash":"9260848543e83fe7e2904501a761fea2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ef695ad08f6db29f1d5777f94ccaf98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515105,
+            "region_id":85688727,
+            "venue_id":823234641
+        }
+    ],
     "wof:id":823234641,
-    "wof:lastmodified":1472629161,
+    "wof:lastmodified":1492828379,
     "wof:name":"Donald Glende",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

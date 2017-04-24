@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.453532,45.991641,-94.453532,45.991641",
     "geom:latitude":45.991641,
     "geom:longitude":-94.453532,
@@ -33,17 +34,32 @@
         "tract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512863,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m9eIY0UxMae9OINzzSkxF_45.991641_-94.453532@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592548,
-    "wof:geomhash":"cd66ecc341f89defda258c8ef55bfcf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b729c5a283fdd16ff28a1b8348b803e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512863,
+            "region_id":85688727,
+            "venue_id":790027249
+        }
+    ],
     "wof:id":790027249,
-    "wof:lastmodified":1472628979,
+    "wof:lastmodified":1492837023,
     "wof:name":"Ploof Tree Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

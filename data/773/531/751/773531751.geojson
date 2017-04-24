@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.649804,45.159421,-93.649804,45.159421",
     "geom:latitude":45.159421,
     "geom:longitude":-93.649804,
@@ -31,17 +32,34 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515227,
+        85633793,
+        85968939,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IAxAH6WPDYvyMqz5IKNLD_45.159421_-93.649804@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586427,
-    "wof:geomhash":"ca19c6fda3b8bf38dc2b675c371dd474",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6101fe34f7be0159da800e76029699fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515227,
+            "locality_id":85968939,
+            "region_id":85688727,
+            "venue_id":773531751
+        }
+    ],
     "wof:id":773531751,
-    "wof:lastmodified":1472630085,
+    "wof:lastmodified":1492802957,
     "wof:name":"Robert H Clike",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

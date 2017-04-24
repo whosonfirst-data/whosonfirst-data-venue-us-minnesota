@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.001228,44.911042,-93.001228,44.911042",
     "geom:latitude":44.911042,
     "geom:longitude":-93.001228,
@@ -31,17 +32,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514453,
+        85633793,
+        85953111,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DGBmsDzsfYMeECV8RfWyE_44.911042_-93.001228@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600167,
-    "wof:geomhash":"8b7f04ef954447769b00f70000995a27",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3fc570be195bf26d0745c1d5c323a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514453,
+            "locality_id":85953111,
+            "region_id":85688727,
+            "venue_id":806679605
+        }
+    ],
     "wof:id":806679605,
-    "wof:lastmodified":1472629694,
+    "wof:lastmodified":1492816550,
     "wof:name":"Sutton Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

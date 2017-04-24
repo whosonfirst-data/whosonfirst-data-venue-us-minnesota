@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.054508,45.086565,-93.054508,45.086565",
     "geom:latitude":45.086565,
     "geom:longitude":-93.054508,
@@ -33,17 +34,32 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514471,
+        85633793,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H7ZI29DS5govheNhcwT4C_45.086565_-93.054508@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599498,
-    "wof:geomhash":"eeec94b9ff17fb95d1b043626539847e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e51e5f1211fd77950a003f654e05c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514471,
+            "region_id":85688727,
+            "venue_id":806600911
+        }
+    ],
     "wof:id":806600911,
-    "wof:lastmodified":1472629530,
+    "wof:lastmodified":1492817758,
     "wof:name":"North Oaks Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

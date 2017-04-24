@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.698878,45.37219,-92.698878,45.37219",
     "geom:latitude":45.37219,
     "geom:longitude":-92.698878,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511113,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P1bIRc0zg9H6FShU9NoZQ_45.372190_-92.698878@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605382,
-    "wof:geomhash":"27daf735a0f043ed6953a389c8d357cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b330db38a09c88f24062517669a7839f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511113,
+            "region_id":85688727,
+            "venue_id":807255329
+        }
+    ],
     "wof:id":807255329,
-    "wof:lastmodified":1472629515,
+    "wof:lastmodified":1492828037,
     "wof:name":"Adventure Builders, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

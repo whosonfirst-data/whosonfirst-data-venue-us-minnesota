@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.761055,44.658224,-92.761055,44.658224",
     "geom:latitude":44.658224,
     "geom:longitude":-92.761055,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511989,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sgIitbCsG0FBH3oZwpXpm_44.658224_-92.761055@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604408,
-    "wof:geomhash":"8f5d4431f44d281456c390ba4aaeee79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd2a7d5b6ae8d34806fad0d0841f6c7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511989,
+            "region_id":85688727,
+            "venue_id":807162981
+        }
+    ],
     "wof:id":807162981,
-    "wof:lastmodified":1472629319,
+    "wof:lastmodified":1492827648,
     "wof:name":"Henry Roth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

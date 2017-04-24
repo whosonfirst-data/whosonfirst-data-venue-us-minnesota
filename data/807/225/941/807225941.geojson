@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.487556,44.022819,-92.487556,44.022819",
     "geom:latitude":44.022819,
     "geom:longitude":-92.487556,
@@ -33,17 +34,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wpDCXG35y94S51xwjSel6_44.022819_-92.487556@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605075,
-    "wof:geomhash":"fc3899fee8408e1b48ba7364bfccf348",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b26cf65878833426ca5209939db571e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":807225941
+        }
+    ],
     "wof:id":807225941,
-    "wof:lastmodified":1472629469,
+    "wof:lastmodified":1492822163,
     "wof:name":"Pizza Man Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

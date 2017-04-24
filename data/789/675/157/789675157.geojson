@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.979696,44.336028,-92.979696,44.336028",
     "geom:latitude":44.336028,
     "geom:longitude":-92.979696,
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85824013,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85824013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,11 +54,13 @@
     },
     "wof:country":"US",
     "wof:created":1462589663,
-    "wof:geomhash":"08b2c6b6e4a761ec8a6c6a5f229d3b6b",
+    "wof:geomhash":"37d299930c97f8f3bd47bd982a861422",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85824013,
             "region_id":85688727,
@@ -63,7 +68,7 @@
         }
     ],
     "wof:id":789675157,
-    "wof:lastmodified":1472629138,
+    "wof:lastmodified":1492810263,
     "wof:name":"Rolling Hills Outdoor Pwr Repr",
     "wof:parent_id":85824013,
     "wof:placetype":"venue",

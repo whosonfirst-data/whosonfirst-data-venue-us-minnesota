@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.138481,44.451018,-93.138481,44.451018",
     "geom:latitude":44.451018,
     "geom:longitude":-93.138481,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0utP3At5v9LeaLdN2SaM9i_44.451018_-93.138481@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590641,
-    "wof:geomhash":"99162d6b60965ce97018fa23a57a46e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"924e04c21d4a6400ea233f16481450f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":789800123
+        }
+    ],
     "wof:id":789800123,
-    "wof:lastmodified":1472629377,
+    "wof:lastmodified":1492810439,
     "wof:name":"Horizon Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

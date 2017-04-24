@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.119017,43.866622,-95.119017,43.866622",
     "geom:latitude":43.866622,
     "geom:longitude":-95.119017,
@@ -34,17 +35,34 @@
         "impaired"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0K1d1urjfAaU4zvLWfZLxN_43.866622_-95.119017@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597755,
-    "wof:geomhash":"026164ac555681f858dccf3d49d1041a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"405b0d187b74e72d13d80c9379b046bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":806390465
+        }
+    ],
     "wof:id":806390465,
-    "wof:lastmodified":1472629034,
+    "wof:lastmodified":1492817816,
     "wof:name":"Southwest Hearing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

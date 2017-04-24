@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.935378,45.021937,-93.935378,45.021937",
     "geom:latitude":45.021937,
     "geom:longitude":-93.935378,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515263,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_253HE0LUpK7W9aPW9Aaz5x_45.021937_-93.935378@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584606,
-    "wof:geomhash":"4837b45d350510ca1fedb2d92613e6a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73ac21593151067dd6920fd516e2f1f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515263,
+            "region_id":85688727,
+            "venue_id":773290907
+        }
+    ],
     "wof:id":773290907,
-    "wof:lastmodified":1472630021,
+    "wof:lastmodified":1492801750,
     "wof:name":"Doug Ruzicka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

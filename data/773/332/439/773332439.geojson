@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.422155,44.898312,-93.422155,44.898312",
     "geom:latitude":44.898312,
     "geom:longitude":-93.422155,
@@ -37,17 +38,34 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511887,
+        85633793,
+        85969165,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kj3kPGGL36CRBB9uxXLHi_44.898312_-93.422155@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584930,
-    "wof:geomhash":"a1b68f814d821e717f2a1ce4597b3732",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8911dadc57143b242a72a787696f9f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511887,
+            "locality_id":85969165,
+            "region_id":85688727,
+            "venue_id":773332439
+        }
+    ],
     "wof:id":773332439,
-    "wof:lastmodified":1472630012,
+    "wof:lastmodified":1492800089,
     "wof:name":"Music Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

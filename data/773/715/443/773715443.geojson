@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.990208,44.77655,-94.990208,44.77655",
     "geom:latitude":44.77655,
     "geom:longitude":-94.990208,
@@ -32,17 +33,34 @@
         "commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I3pLs6gYw0rPLslJVgJao_44.776550_-94.990208@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587839,
-    "wof:geomhash":"d253d51c1b1110cc0235558854fbb5b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2be766096a6808d7c666efb472b6e90a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":773715443
+        }
+    ],
     "wof:id":773715443,
-    "wof:lastmodified":1472630136,
+    "wof:lastmodified":1492800574,
     "wof:name":"Print Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

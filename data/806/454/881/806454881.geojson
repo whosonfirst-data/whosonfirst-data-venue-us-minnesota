@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.414676,48.601365,-93.414676,48.601365",
     "geom:latitude":48.601365,
     "geom:longitude":-93.414676,
@@ -28,17 +29,34 @@
     "sg:postcode":"56649",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MyFh4TrCsHrbObSuzmAr0_48.601365_-93.414676@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598277,
-    "wof:geomhash":"d0fde4d97e964b28500cda6d7832d27c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"518d022144c76ff6247a0e5a960fd4af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":806454881
+        }
+    ],
     "wof:id":806454881,
-    "wof:lastmodified":1472629217,
+    "wof:lastmodified":1492819529,
     "wof:name":"Custom Business Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

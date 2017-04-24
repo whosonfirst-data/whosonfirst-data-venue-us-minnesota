@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.342961,46.508127,-95.342961,46.508127",
     "geom:latitude":46.508127,
     "geom:longitude":-95.342961,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512903,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31Obl3JSa725alVCS3RjWZ_46.508127_-95.342961@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582520,
-    "wof:geomhash":"2d1188a2cad7d9ddb8328b69adccf1f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8304f94bb24b77665e6c701cd94eee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512903,
+            "region_id":85688727,
+            "venue_id":773025333
+        }
+    ],
     "wof:id":773025333,
-    "wof:lastmodified":1472629166,
+    "wof:lastmodified":1492804687,
     "wof:name":"Electric Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

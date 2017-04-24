@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.142612,43.709247,-94.142612,43.709247",
     "geom:latitude":43.709247,
     "geom:longitude":-94.142612,
@@ -31,17 +32,32 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514103,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MuuaXCZFtydjekmzqpAqF_43.709247_-94.142612@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603337,
-    "wof:geomhash":"aa18bd8232db293f000d419ffc542ae2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7034ca1a876f4418b4e4a21f6097748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514103,
+            "region_id":85688727,
+            "venue_id":807056403
+        }
+    ],
     "wof:id":807056403,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492827163,
     "wof:name":"Riverside Town & Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

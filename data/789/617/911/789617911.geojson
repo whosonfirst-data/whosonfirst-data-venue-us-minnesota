@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.215461,44.072391,-93.215461,44.072391",
     "geom:latitude":44.072391,
     "geom:longitude":-93.215461,
@@ -31,17 +32,34 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UK4rMKjkR7Eln1OrER0jt_44.072391_-93.215461@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589202,
-    "wof:geomhash":"727f8ef958e965c5073a9252df3bc268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"835d94008d7666f958713ba5c8f5131a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":789617911
+        }
+    ],
     "wof:id":789617911,
-    "wof:lastmodified":1472629054,
+    "wof:lastmodified":1492811845,
     "wof:name":"Web Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

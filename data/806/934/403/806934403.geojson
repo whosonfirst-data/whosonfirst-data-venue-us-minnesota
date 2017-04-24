@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326461,43.932667,-93.326461,43.932667",
     "geom:latitude":43.932667,
     "geom:longitude":-93.326461,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510807,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xab3ELNGNn5ERi99ylMII_43.932667_-93.326461@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602308,
-    "wof:geomhash":"9a4e8abe1bdfde5e8e78bd89a6dc52a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4492bae53db9c6338db11619714a4329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510807,
+            "region_id":85688727,
+            "venue_id":806934403
+        }
+    ],
     "wof:id":806934403,
-    "wof:lastmodified":1472629942,
+    "wof:lastmodified":1492818016,
     "wof:name":"Arthur Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

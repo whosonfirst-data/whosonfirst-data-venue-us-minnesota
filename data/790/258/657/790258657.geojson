@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.542733,47.409172,-92.542733,47.409172",
     "geom:latitude":47.409172,
     "geom:longitude":-92.542733,
@@ -33,17 +34,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Kedfp2Ahcxt04sesGog3o_47.409172_-92.542733@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594411,
-    "wof:geomhash":"f7ee9b6b1266e0a4413774d2692dcd02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b279e0b9cf69e9301556a9920d977ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790258657
+        }
+    ],
     "wof:id":790258657,
-    "wof:lastmodified":1472629399,
+    "wof:lastmodified":1492833813,
     "wof:name":"Semi Electronics Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

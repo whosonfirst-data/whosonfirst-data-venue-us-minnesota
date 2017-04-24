@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.148592,45.796429,-93.148592,45.796429",
     "geom:latitude":45.796429,
     "geom:longitude":-93.148592,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515147,
+        85633793,
+        85953283,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nWv6K92ZA72IOhEwNyies_45.796429_-93.148592@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586104,
-    "wof:geomhash":"0117faac13f021191e465ba0b8ca86ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc6142562b48db647bb2bb9693821037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404515147,
+            "locality_id":85953283,
+            "region_id":85688727,
+            "venue_id":773485203
+        }
+    ],
     "wof:id":773485203,
-    "wof:lastmodified":1472630069,
+    "wof:lastmodified":1492800030,
     "wof:name":"Grasston Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

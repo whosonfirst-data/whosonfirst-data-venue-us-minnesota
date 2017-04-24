@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.578464,47.139123,-92.578464,47.139123",
     "geom:latitude":47.139123,
     "geom:longitude":-92.578464,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DRZhijJepwh6kWBvQNS8m_47.139123_-92.578464@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598126,
-    "wof:geomhash":"0e6a741c444a03f3320f2dd085f9b760",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f1b898af4fbc87d7f43a55a08e7bbc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806435353
+        }
+    ],
     "wof:id":806435353,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492813859,
     "wof:name":"D Custom Cabinets",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

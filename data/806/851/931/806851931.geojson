@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.340695,47.430244,-92.340695,47.430244",
     "geom:latitude":47.430244,
     "geom:longitude":-92.340695,
@@ -31,17 +32,26 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B4HTzhK77Jj6j58QsyZlF_47.430244_-92.340695@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601625,
-    "wof:geomhash":"7fa170c5dd1762886ebb3237b6b48d31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1eaab20ec8724fee00db17e57070c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806851931
+        }
+    ],
     "wof:id":806851931,
-    "wof:lastmodified":1472629899,
+    "wof:lastmodified":1492821676,
     "wof:name":"Ray Stecker",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

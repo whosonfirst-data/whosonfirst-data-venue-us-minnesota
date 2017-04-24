@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.737806,44.384319,-93.737806,44.384319",
     "geom:latitude":44.384319,
     "geom:longitude":-93.737806,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512359,
+        85633793,
+        85953433,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hyXn6aliIVSNwRvDYyjhc_44.384319_-93.737806@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592666,
-    "wof:geomhash":"4f9557f28e0461e29719b396c73982eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bc4f6a9fe352714ed0401c842866b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512359,
+            "locality_id":85953433,
+            "region_id":85688727,
+            "venue_id":790043209
+        }
+    ],
     "wof:id":790043209,
-    "wof:lastmodified":1472629019,
+    "wof:lastmodified":1492838003,
     "wof:name":"Bill's Trucking Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

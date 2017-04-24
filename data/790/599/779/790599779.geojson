@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.403755,48.602797,-93.403755,48.602797",
     "geom:latitude":48.602797,
     "geom:longitude":-93.403755,
@@ -28,17 +29,34 @@
     "sg:postcode":"56649",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B099HSpbgzU9Urwz3Kq3q_48.602797_-93.403755@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597224,
-    "wof:geomhash":"1a8022404fcf4bf6a1b55c0ce2852d82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2aee34de74f235fdf07e4144fefdd11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":790599779
+        }
+    ],
     "wof:id":790599779,
-    "wof:lastmodified":1472629914,
+    "wof:lastmodified":1492832304,
     "wof:name":"City Drug Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

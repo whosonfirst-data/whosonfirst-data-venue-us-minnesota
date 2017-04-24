@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539873,47.463373,-92.539873,47.463373",
     "geom:latitude":47.463373,
     "geom:longitude":-92.539873,
@@ -29,17 +30,26 @@
     "sg:province":"MN",
     "sg:website":"www.wellsfargo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NFyxx809m8p0xGKgnqm32_47.463373_-92.539873@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598903,
-    "wof:geomhash":"199d9e4c94d80752eb2f3c3405e30557",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee5a88dd74b608bea793cbf7187b0102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806534013
+        }
+    ],
     "wof:id":806534013,
-    "wof:lastmodified":1472629383,
+    "wof:lastmodified":1492820837,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

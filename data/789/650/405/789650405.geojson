@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.213298,44.089423,-93.213298,44.089423",
     "geom:latitude":44.089423,
     "geom:longitude":-93.213298,
@@ -31,17 +32,34 @@
         "telecommunication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ObFSmme39dFNZhllA5Kc3_44.089423_-93.213298@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589458,
-    "wof:geomhash":"6cacde31754e05cb8ecdb1dbdb187d0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fac697945d26bd79f429664e891ce176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":789650405
+        }
+    ],
     "wof:id":789650405,
-    "wof:lastmodified":1472629082,
+    "wof:lastmodified":1492813320,
     "wof:name":"Complete Communications LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

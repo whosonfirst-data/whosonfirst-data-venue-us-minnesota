@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.417876,47.730103,-94.417876,47.730103",
     "geom:latitude":47.730103,
     "geom:longitude":-94.417876,
@@ -31,17 +32,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513437,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0s4t7DhQMkKs1rB2fjOQKe_47.730103_-94.417876@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596611,
-    "wof:geomhash":"6561fa23ec79a83d3035d353105c1072",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fd178a080e7ac88b257c5086b28609a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513437,
+            "region_id":85688727,
+            "venue_id":790528305
+        }
+    ],
     "wof:id":790528305,
-    "wof:lastmodified":1472629801,
+    "wof:lastmodified":1492832956,
     "wof:name":"Michalicek Logging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

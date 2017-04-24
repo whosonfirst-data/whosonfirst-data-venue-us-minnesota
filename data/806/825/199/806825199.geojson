@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.549151,44.819805,-94.549151,44.819805",
     "geom:latitude":44.819805,
     "geom:longitude":-94.549151,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510575,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s43VHM9VmiMsjBg6tQqYn_44.819805_-94.549151@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601385,
-    "wof:geomhash":"5bce8bc2039974fd9d9fd49fd37aed28",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c600864e6bf9ac53bbae1aaf7e1974db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510575,
+            "region_id":85688727,
+            "venue_id":806825199
+        }
+    ],
     "wof:id":806825199,
-    "wof:lastmodified":1472629845,
+    "wof:lastmodified":1492819016,
     "wof:name":"Chippewa Holsteins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

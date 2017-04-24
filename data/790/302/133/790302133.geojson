@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.534644,45.143422,-94.534644,45.143422",
     "geom:latitude":45.143422,
     "geom:longitude":-94.534644,
@@ -32,17 +33,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512411,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67fJkZQ4ftPqvkKcgtQbSh_45.143422_-94.534644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594783,
-    "wof:geomhash":"5cb9e2f937f5f004b57afc61cebe908b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e8f56fa0b1660bec3aef99d51cf8567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512411,
+            "region_id":85688727,
+            "venue_id":790302133
+        }
+    ],
     "wof:id":790302133,
-    "wof:lastmodified":1472629481,
+    "wof:lastmodified":1492837814,
     "wof:name":"Premier Motor Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

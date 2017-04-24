@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.736606,47.288628,-92.736606,47.288628",
     "geom:latitude":47.288628,
     "geom:longitude":-92.736606,
@@ -32,17 +33,26 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0geoVylEkXKCvnxUeN37fJ_47.288628_-92.736606@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592261,
-    "wof:geomhash":"f2a415cc19b8a9e8d1b1a5385b5f2a2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e66251ae96324512d0af0f69a09dd7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789991513
+        }
+    ],
     "wof:id":789991513,
-    "wof:lastmodified":1472629685,
+    "wof:lastmodified":1492809649,
     "wof:name":"Hardrives Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

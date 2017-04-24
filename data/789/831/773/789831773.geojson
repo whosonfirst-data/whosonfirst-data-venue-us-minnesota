@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.93627,45.471253,-93.93627,45.471253",
     "geom:latitude":45.471253,
     "geom:longitude":-93.93627,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515101,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dX0uWPDcryk55CCREwTM9_45.471253_-93.936270@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590884,
-    "wof:geomhash":"2dc5c3a212bb9cbd794e20a3ca294fb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a7c5ada28396cfa123d946e9e5c69eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515101,
+            "region_id":85688727,
+            "venue_id":789831773
+        }
+    ],
     "wof:id":789831773,
-    "wof:lastmodified":1472629430,
+    "wof:lastmodified":1492809502,
     "wof:name":"North South Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

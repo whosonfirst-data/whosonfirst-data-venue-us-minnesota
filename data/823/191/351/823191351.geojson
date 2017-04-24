@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.353142,45.08725,-93.353142,45.08725",
     "geom:latitude":45.08725,
     "geom:longitude":-93.353142,
@@ -39,17 +40,34 @@
         "homes-institutional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OqOesMHmmmSskD4HPY8mL_45.087250_-93.353142@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608207,
-    "wof:geomhash":"3333b8a2962d3dbebc1a0a10dc705799",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f85a236e345399d51870508d47979d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823191351
+        }
+    ],
     "wof:id":823191351,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492830481,
     "wof:name":"Alternative For People With Autism",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

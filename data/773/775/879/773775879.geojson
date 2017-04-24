@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.43659,43.734809,-93.43659,43.734809",
     "geom:latitude":43.734809,
     "geom:longitude":-93.43659,
@@ -34,17 +35,32 @@
         "drying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514511,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AJge5f8quRIEse6IrhGLw_43.734809_-93.436590@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588284,
-    "wof:geomhash":"f276de13700e8a5f34684985c8666520",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7833df39785f84d05fe9e9e5957c8d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514511,
+            "region_id":85688727,
+            "venue_id":773775879
+        }
+    ],
     "wof:id":773775879,
-    "wof:lastmodified":1472630159,
+    "wof:lastmodified":1492802544,
     "wof:name":"QED Regional Dryer Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

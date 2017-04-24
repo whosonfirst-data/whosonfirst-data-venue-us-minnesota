@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.653712,44.007589,-93.653712,44.007589",
     "geom:latitude":44.007589,
     "geom:longitude":-93.653712,
@@ -32,17 +33,32 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514859,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NW6rJvh9FCQxFNHh5ythh_44.007589_-93.653712@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584468,
-    "wof:geomhash":"623af67f37433bba323d6b51bf7fa4c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7b57963bc848a600d8414ded9f802f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514859,
+            "region_id":85688727,
+            "venue_id":773273725
+        }
+    ],
     "wof:id":773273725,
-    "wof:lastmodified":1472630007,
+    "wof:lastmodified":1492803094,
     "wof:name":"Berry Pallets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

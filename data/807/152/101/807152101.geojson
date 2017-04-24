@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.62373,43.607866,-95.62373,43.607866",
     "geom:latitude":43.607866,
     "geom:longitude":-95.62373,
@@ -29,17 +30,34 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43kUHFxn66gzkENnndnsOV_43.607866_-95.623730@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604293,
-    "wof:geomhash":"e13e7e3d72de89cce25ea5a7be98b763",
-    "wof:hierarchy":[],
+    "wof:geomhash":"632d237baf2e3d88e584be328f218292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":807152101
+        }
+    ],
     "wof:id":807152101,
-    "wof:lastmodified":1472629274,
+    "wof:lastmodified":1492827696,
     "wof:name":"Don Appel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

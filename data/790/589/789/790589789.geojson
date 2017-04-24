@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.034395,44.614303,-95.034395,44.614303",
     "geom:latitude":44.614303,
     "geom:longitude":-95.034395,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512347,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zMD0CXD1ux6WojH7652js_44.614303_-95.034395@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597123,
-    "wof:geomhash":"aaa8b75ec8f0aa5ef5cb62c2c329a55b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75d34797ba7ffbf519604524196f62fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512347,
+            "region_id":85688727,
+            "venue_id":790589789
+        }
+    ],
     "wof:id":790589789,
-    "wof:lastmodified":1472629893,
+    "wof:lastmodified":1492835954,
     "wof:name":"Donald Kodet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

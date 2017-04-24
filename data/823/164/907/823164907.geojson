@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.304838,44.904956,-93.304838,44.904956",
     "geom:latitude":44.904956,
     "geom:longitude":-93.304838,
@@ -35,16 +36,17 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867003,
+        85872575,
         102191575,
-        404511713,
+        1108799985,
+        404511883,
         85633793,
-        85969209,
+        85969169,
         102087709,
         85688727,
-        85872575,
-        404511883,
-        85969169
+        85867003,
+        404511713,
+        85969209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +54,19 @@
     },
     "wof:country":"US",
     "wof:created":1462607868,
-    "wof:geomhash":"f1b86ddb47f492499302da216a5ba5d8",
+    "wof:geomhash":"dc2030ef4b6b9ff8bdb5aafa98908123",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511883,
+            "locality_id":85969169,
+            "macrohood_id":1108799985,
+            "neighbourhood_id":85872575,
+            "region_id":85688727,
+            "venue_id":823164907
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -63,22 +76,12 @@
             "neighbourhood_id":85867003,
             "region_id":85688727,
             "venue_id":823164907
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872575,
-            "region_id":85688727,
-            "venue_id":823164907
         }
     ],
     "wof:id":823164907,
-    "wof:lastmodified":1472629009,
+    "wof:lastmodified":1492829141,
     "wof:name":"Body & Soul Incorporated",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

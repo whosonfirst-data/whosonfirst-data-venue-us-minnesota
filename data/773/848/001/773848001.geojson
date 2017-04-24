@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.466497,47.09296,-96.466497,47.09296",
     "geom:latitude":47.09296,
     "geom:longitude":-96.466497,
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877339,
+        102191575,
+        404478877,
         85633793,
-        85969409,
-        102087681,
-        85877339
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +56,21 @@
     },
     "wof:country":"US",
     "wof:created":1462588880,
-    "wof:geomhash":"2c579b22ff03a41a0fecd17b79dbf06e",
+    "wof:geomhash":"008b35034168545871ea9d202606d23d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087681,
-            "locality_id":85969409,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
             "neighbourhood_id":85877339,
-            "region_id":85688727,
+            "region_id":85688525,
             "venue_id":773848001
         }
     ],
     "wof:id":773848001,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492808262,
     "wof:name":"Dunham and Gravel",
     "wof:parent_id":85877339,
     "wof:placetype":"venue",

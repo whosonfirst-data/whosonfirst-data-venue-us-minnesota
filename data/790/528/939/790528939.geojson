@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.65476,44.40644,-95.65476,44.40644",
     "geom:latitude":44.40644,
     "geom:longitude":-95.65476,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512529,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RvxObDirjgt7gwrMNtsKt_44.406440_-95.654760@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596616,
-    "wof:geomhash":"acf466a02d6d83bac12057372f2826d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a16a7b68c219f56f8482ce862fec879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512529,
+            "region_id":85688727,
+            "venue_id":790528939
+        }
+    ],
     "wof:id":790528939,
-    "wof:lastmodified":1472629813,
+    "wof:lastmodified":1492832944,
     "wof:name":"Larry Paradis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

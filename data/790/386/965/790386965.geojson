@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359567,45.096247,-93.359567,45.096247",
     "geom:latitude":45.096247,
     "geom:longitude":-93.359567,
@@ -36,17 +37,34 @@
         "nurse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UpLPgtErJoI4Q4SlPlUXU_45.096247_-93.359567@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595436,
-    "wof:geomhash":"1c4595668a373aef9d9ba7e789e2e0a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98a14693bc672b587b8c71db8d21b080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":790386965
+        }
+    ],
     "wof:id":790386965,
-    "wof:lastmodified":1472629624,
+    "wof:lastmodified":1492837663,
     "wof:name":"Life Skills Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

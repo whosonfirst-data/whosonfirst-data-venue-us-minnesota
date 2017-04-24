@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.582819,47.101777,-94.582819,47.101777",
     "geom:latitude":47.101777,
     "geom:longitude":-94.582819,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511771,
+        85633793,
+        85968857,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SfHHPQEW44ptVmVxtXxXD_47.101777_-94.582819@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600631,
-    "wof:geomhash":"8da6542a2960f685ae85406dbe386400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"120e590339f7799c4cc6fa62932d9ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511771,
+            "locality_id":85968857,
+            "region_id":85688727,
+            "venue_id":806735877
+        }
+    ],
     "wof:id":806735877,
-    "wof:lastmodified":1472629772,
+    "wof:lastmodified":1492815674,
     "wof:name":"Living Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

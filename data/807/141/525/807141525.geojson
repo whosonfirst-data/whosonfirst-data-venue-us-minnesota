@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.213608,44.557915,-94.213608,44.557915",
     "geom:latitude":44.557915,
     "geom:longitude":-94.213608,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510479,
+        85633793,
+        85953311,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hezVyCqXCdtD2RkjspHJK_44.557915_-94.213608@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604173,
-    "wof:geomhash":"6eb5a3d1cfd16771cff2b379613fe69d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e33fa7d87dd5e1ad0b07304d6e3a1f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510479,
+            "locality_id":85953311,
+            "region_id":85688727,
+            "venue_id":807141525
+        }
+    ],
     "wof:id":807141525,
-    "wof:lastmodified":1472629274,
+    "wof:lastmodified":1492826187,
     "wof:name":"Eugene Grewe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

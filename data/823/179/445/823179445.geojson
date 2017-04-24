@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.339131,44.891626,-93.339131,44.891626",
     "geom:latitude":44.891626,
     "geom:longitude":-93.339131,
@@ -42,17 +43,34 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lfXz7Rlme5sBs1S1z35fE_44.891626_-93.339131@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608056,
-    "wof:geomhash":"acc185c6ec1ae1bad84828621821b464",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f3485d544713b4e47b5fa164819e175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823179445
+        }
+    ],
     "wof:id":823179445,
-    "wof:lastmodified":1472629010,
+    "wof:lastmodified":1492830594,
     "wof:name":"Artistic Floral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

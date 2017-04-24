@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.727014,44.231551,-93.727014,44.231551",
     "geom:latitude":44.231551,
     "geom:longitude":-93.727014,
@@ -35,17 +36,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512215,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MaSaSVcgmNNIXMWSTcACS_44.231551_-93.727014@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591046,
-    "wof:geomhash":"8b68dadbb7fe01779a65bb6695a2e859",
-    "wof:hierarchy":[],
+    "wof:geomhash":"246ee5ea6dae18cf9bb5d5ff9bc4d798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512215,
+            "region_id":85688727,
+            "venue_id":789852385
+        }
+    ],
     "wof:id":789852385,
-    "wof:lastmodified":1472629479,
+    "wof:lastmodified":1492813383,
     "wof:name":"Dale Berndt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

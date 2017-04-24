@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.34279,45.974622,-94.34279,45.974622",
     "geom:latitude":45.974622,
     "geom:longitude":-94.34279,
@@ -31,17 +32,34 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QiVN0qJLAPlaEQIWaRyNr_45.974622_-94.342790@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596113,
-    "wof:geomhash":"db0481436a9a08a137ef77fc135b9a57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d19f79d68662a8c9780c59805ffcdc04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":790472147
+        }
+    ],
     "wof:id":790472147,
-    "wof:lastmodified":1472629755,
+    "wof:lastmodified":1492833639,
     "wof:name":"Pine Grove Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

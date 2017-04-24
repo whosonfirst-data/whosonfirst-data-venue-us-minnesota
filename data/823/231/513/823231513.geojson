@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.468203,43.975355,-92.468203,43.975355",
     "geom:latitude":43.975355,
     "geom:longitude":-92.468203,
@@ -38,17 +39,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UO0RYqgaI0nABPFmigXYh_43.975355_-92.468203@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608979,
-    "wof:geomhash":"2f1063e79d44678ff875bf31bc32550f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"243e765b3c0e85952bd094b3ceaf0b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823231513
+        }
+    ],
     "wof:id":823231513,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492830792,
     "wof:name":"Wallace Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.220857,43.866126,-92.220857,43.866126",
     "geom:latitude":43.866126,
     "geom:longitude":-92.220857,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510307,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E1fdrjIO3SSx52Zo3PN5Z_43.866126_-92.220857@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583368,
-    "wof:geomhash":"79a6f1ef08e759d9be9e42e38ad4b25c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4e6fc0db59495274531ade576027255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510307,
+            "region_id":85688727,
+            "venue_id":773131389
+        }
+    ],
     "wof:id":773131389,
-    "wof:lastmodified":1472629650,
+    "wof:lastmodified":1492803622,
     "wof:name":"Lund Fence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

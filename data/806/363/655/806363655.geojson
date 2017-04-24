@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.846928,46.812961,-95.846928,46.812961",
     "geom:latitude":46.812961,
     "geom:longitude":-95.846928,
@@ -31,17 +32,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JHga8mb3uJbmMCuu231xx_46.812961_-95.846928@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597531,
-    "wof:geomhash":"dff24306cb3966fe0724e871f1705b5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10d4f25941e07eac8cdb315260404f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":806363655
+        }
+    ],
     "wof:id":806363655,
-    "wof:lastmodified":1472628966,
+    "wof:lastmodified":1492816691,
     "wof:name":"Building Maintenance Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

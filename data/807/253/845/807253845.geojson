@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.223511,44.070698,-93.223511,44.070698",
     "geom:latitude":44.070698,
     "geom:longitude":-93.223511,
@@ -37,17 +38,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p1NM5LgGnPmu3Ekm3JJ7M_44.070698_-93.223511@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605367,
-    "wof:geomhash":"4784934c9446eb1172b7bf0b78f7fc1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdee727ba0c3177e5473353c0699423c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":807253845
+        }
+    ],
     "wof:id":807253845,
-    "wof:lastmodified":1472629526,
+    "wof:lastmodified":1492824583,
     "wof:name":"Anderson Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

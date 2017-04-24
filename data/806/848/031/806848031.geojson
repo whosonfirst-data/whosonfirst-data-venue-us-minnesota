@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.125925,44.20869,-95.125925,44.20869",
     "geom:latitude":44.20869,
     "geom:longitude":-95.125925,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512319,
+        85633793,
+        85968755,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mgD0uFoz8nbKMQEqBlkZn_44.208690_-95.125925@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601587,
-    "wof:geomhash":"bf707db4ee3f5cb71683789c73ab54b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11ba6957571f282917bcb2349bc2bc72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512319,
+            "locality_id":85968755,
+            "region_id":85688727,
+            "venue_id":806848031
+        }
+    ],
     "wof:id":806848031,
-    "wof:lastmodified":1472629878,
+    "wof:lastmodified":1492821531,
     "wof:name":"St Thomas Parish House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

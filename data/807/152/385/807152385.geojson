@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.018567,44.335318,-96.018567,44.335318",
     "geom:latitude":44.335318,
     "geom:longitude":-96.018567,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515141,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44lnOKFCIKTYWufQBKChT2_44.335318_-96.018567@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604296,
-    "wof:geomhash":"b66f58de2a36de21176db60068e70876",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c9e422ff5f89248e70dc3545b794e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404515141,
+            "region_id":85688727,
+            "venue_id":807152385
+        }
+    ],
     "wof:id":807152385,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492827703,
     "wof:name":"Hal Paulson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.914821,45.064982,-93.914821,45.064982",
     "geom:latitude":45.064982,
     "geom:longitude":-93.914821,
@@ -33,17 +34,34 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515243,
+        85633793,
+        85968893,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c7sLyJjAm4g35tKyCkX9l_45.064982_-93.914821@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595184,
-    "wof:geomhash":"c610211f8beff1e5a801646096806b43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4acf98a386bab052b633277dffe0c58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515243,
+            "locality_id":85968893,
+            "region_id":85688727,
+            "venue_id":790355693
+        }
+    ],
     "wof:id":790355693,
-    "wof:lastmodified":1472629573,
+    "wof:lastmodified":1492832852,
     "wof:name":"Scott's Glass & Mirror",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

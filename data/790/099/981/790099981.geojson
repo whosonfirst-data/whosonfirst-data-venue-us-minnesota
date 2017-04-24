@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.238605,44.067357,-93.238605,44.067357",
     "geom:latitude":44.067357,
     "geom:longitude":-93.238605,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QOseQANvqkIVtfNwxkml1_44.067357_-93.238605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593122,
-    "wof:geomhash":"cb6ee8e62b768c4d03fe9720250dcd4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4d474c43d295426863630c9d42fd8d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":790099981
+        }
+    ],
     "wof:id":790099981,
-    "wof:lastmodified":1472629149,
+    "wof:lastmodified":1492837972,
     "wof:name":"A Plus Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.193185,45.53801,-94.193185,45.53801",
     "geom:latitude":45.53801,
     "geom:longitude":-94.193185,
@@ -37,17 +38,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lER1v5f7eC8XPoKWttTeh_45.538010_-94.193185@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594151,
-    "wof:geomhash":"cce87213628e66f044df7d008eaff813",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d63a22a97287549fb2431fc252a6cefe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":790227331
+        }
+    ],
     "wof:id":790227331,
-    "wof:lastmodified":1472629329,
+    "wof:lastmodified":1492831524,
     "wof:name":"Fastserv Medical of Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

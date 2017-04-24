@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.344566,44.944419,-93.344566,44.944419",
     "geom:latitude":44.944419,
     "geom:longitude":-93.344566,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VLRHUxr3BW5Cx7MeR17Ck_44.944419_-93.344566@1303262828"
     },
     "wof:country":"US",
     "wof:created":1462607783,
-    "wof:geomhash":"205f73b846d75b1df7d54f0e9e03cbda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2feffc2a04dae71db600c707d586513b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823158737
+        }
+    ],
     "wof:id":823158737,
-    "wof:lastmodified":1472628973,
+    "wof:lastmodified":1492830208,
     "wof:name":"A Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

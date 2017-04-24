@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.252981,44.889288,-93.252981,44.889288",
     "geom:latitude":44.889288,
     "geom:longitude":-93.252981,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M95FVozq6AAe09ROKJMXZ_44.889288_-93.252981@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602502,
-    "wof:geomhash":"ce9b435b62a5adb77f96a5826eefe5ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7a8b4e16c2d3c11b535b5a4c67a6a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":806956937
+        }
+    ],
     "wof:id":806956937,
-    "wof:lastmodified":1472629959,
+    "wof:lastmodified":1492816655,
     "wof:name":"Nieman's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

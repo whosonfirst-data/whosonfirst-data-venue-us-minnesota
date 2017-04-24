@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.317878,45.096037,-93.317878,45.096037",
     "geom:latitude":45.096037,
     "geom:longitude":-93.317878,
@@ -28,17 +29,34 @@
     "sg:postcode":"55444",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fzNogeKdX3OFAlqSjKfGE_45.096037_-93.317878@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601698,
-    "wof:geomhash":"9a32778c2889bf0863985e8569d27d99",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b273eaacffc83ec417bfd1781ecef407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":806861035
+        }
+    ],
     "wof:id":806861035,
-    "wof:lastmodified":1472629897,
+    "wof:lastmodified":1492818611,
     "wof:name":"Jerry's Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

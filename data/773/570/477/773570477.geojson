@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.01598,47.239527,-95.01598,47.239527",
     "geom:latitude":47.239527,
     "geom:longitude":-95.01598,
@@ -31,17 +32,32 @@
         "disability"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509771,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dvUYqHfWWfoAvMns5iHrc_47.239527_-95.015980@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586723,
-    "wof:geomhash":"873c81deccc088e70a474e3fc7cfab17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fc4784c9a44584e4c39dd61b2aaf202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404509771,
+            "region_id":85688727,
+            "venue_id":773570477
+        }
+    ],
     "wof:id":773570477,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492800896,
     "wof:name":"Lighthouse Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.329542,44.811214,-93.329542,44.811214",
     "geom:latitude":44.811214,
     "geom:longitude":-93.329542,
@@ -31,17 +32,34 @@
         "chinese"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fhjupgC5LG7UzXQbF86xu_44.811214_-93.329542@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608281,
-    "wof:geomhash":"1f90a0736dc8f909fd8a228720fa0a97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"729c1f82136b885eb638f4952b797a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823196361
+        }
+    ],
     "wof:id":823196361,
-    "wof:lastmodified":1472629039,
+    "wof:lastmodified":1492828306,
     "wof:name":"Grand Szechuan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

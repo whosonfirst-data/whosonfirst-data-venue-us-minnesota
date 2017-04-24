@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.959202,44.445875,-93.959202,44.445875",
     "geom:latitude":44.445875,
     "geom:longitude":-93.959202,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513339,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D0Vq0HxySIttWHHfMaTL9_44.445875_-93.959202@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603993,
-    "wof:geomhash":"4b603ba69e1aa7192380c5687ef01aed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"988b8df7c28eac91ff9d7aa5c68b6663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513339,
+            "region_id":85688727,
+            "venue_id":807124251
+        }
+    ],
     "wof:id":807124251,
-    "wof:lastmodified":1472629236,
+    "wof:lastmodified":1492825176,
     "wof:name":"Cecil Ernsting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

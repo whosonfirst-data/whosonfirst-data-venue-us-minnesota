@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.251481,44.463093,-96.251481,44.463093",
     "geom:latitude":44.463093,
     "geom:longitude":-96.251481,
@@ -28,17 +29,34 @@
     "sg:postcode":"56142",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509717,
+        85633793,
+        85968383,
+        102087807
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F7LwaHPdAugKrcsRQI8OU_44.463093_-96.251481@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586700,
-    "wof:geomhash":"c2c2bc7f5ce30a157096d05ce6782506",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4560559d26a040df2da31ad84c9012f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087807,
+            "localadmin_id":404509717,
+            "locality_id":85968383,
+            "region_id":85688727,
+            "venue_id":773567009
+        }
+    ],
     "wof:id":773567009,
-    "wof:lastmodified":1472630090,
+    "wof:lastmodified":1492807712,
     "wof:name":"Lincoln County Vital Statistic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

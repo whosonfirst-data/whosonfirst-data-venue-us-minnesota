@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.529279,44.967089,-93.529279,44.967089",
     "geom:latitude":44.967089,
     "geom:longitude":-93.529279,
@@ -32,17 +33,34 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511915,
+        85633793,
+        85969113,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I8WKj9NG7nTLORuWRDF3q_44.967089_-93.529279@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583384,
-    "wof:geomhash":"70223562d7ca3f00fc57431090b28449",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6aa3b6e781897294129084c2948f48b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511915,
+            "locality_id":85969113,
+            "region_id":85688727,
+            "venue_id":773133801
+        }
+    ],
     "wof:id":773133801,
-    "wof:lastmodified":1472629700,
+    "wof:lastmodified":1492801446,
     "wof:name":"Centennial Capital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

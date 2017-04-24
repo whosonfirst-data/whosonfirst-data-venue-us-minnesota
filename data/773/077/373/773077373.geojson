@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.479268,48.259063,-92.479268,48.259063",
     "geom:latitude":48.259063,
     "geom:longitude":-92.479268,
@@ -31,17 +32,32 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513583,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LQXCGdb3pNV97vZAYdV4u_48.259063_-92.479268@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582985,
-    "wof:geomhash":"99405c514fb255e0ba125ee6b7d97680",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee73fdc77a4c4e8db337065290bcf2bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513583,
+            "region_id":85688727,
+            "venue_id":773077373
+        }
+    ],
     "wof:id":773077373,
-    "wof:lastmodified":1472629502,
+    "wof:lastmodified":1492805495,
     "wof:name":"Nu Tek Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

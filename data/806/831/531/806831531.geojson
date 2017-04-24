@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.593485,47.516836,-92.593485,47.516836",
     "geom:latitude":47.516836,
     "geom:longitude":-92.593485,
@@ -32,17 +33,36 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HNmsLzL71rxWRmnRpDnKP_47.516836_-92.593485@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601436,
-    "wof:geomhash":"6698c5c7249e9c16f6a97666983b60e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6ca0a57ecfb2d4857cb0fdbafb1a792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":806831531
+        }
+    ],
     "wof:id":806831531,
-    "wof:lastmodified":1472629873,
+    "wof:lastmodified":1492814498,
     "wof:name":"Northeast Service Cooperative",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

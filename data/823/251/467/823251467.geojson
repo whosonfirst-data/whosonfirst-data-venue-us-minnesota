@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.534192,45.618122,-95.534192,45.618122",
     "geom:latitude":45.618122,
     "geom:longitude":-95.534192,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514343,
+        85633793,
+        85968609,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58XZRiUMRURmD17BGU8j00_45.618122_-95.534192@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609362,
-    "wof:geomhash":"cbb54dc8b91d0a9e041a5fdbd1d95f49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"851703b8910e6db4d6f0bad2bf0e5946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514343,
+            "locality_id":85968609,
+            "region_id":85688727,
+            "venue_id":823251467
+        }
+    ],
     "wof:id":823251467,
-    "wof:lastmodified":1472629204,
+    "wof:lastmodified":1492828227,
     "wof:name":"N O Bud Aslakson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

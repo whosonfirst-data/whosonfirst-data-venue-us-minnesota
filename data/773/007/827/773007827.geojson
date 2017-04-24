@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.665003,47.128967,-91.665003,47.128967",
     "geom:latitude":47.128967,
     "geom:longitude":-91.665003,
@@ -33,17 +34,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514559,
+        85633793,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CeeunyjEwFZXULFEbfYlf_47.128967_-91.665003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582266,
-    "wof:geomhash":"51aadb527e5f8b6f1636b583db73359a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6e1fac0cb4726661e800f7f7d328ac9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514559,
+            "region_id":85688727,
+            "venue_id":773007827
+        }
+    ],
     "wof:id":773007827,
-    "wof:lastmodified":1472629067,
+    "wof:lastmodified":1492799928,
     "wof:name":"Network Funding of St Paul",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.777681,45.299625,-93.777681,45.299625",
     "geom:latitude":45.299625,
     "geom:longitude":-93.777681,
@@ -31,17 +32,34 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gaJKpZDgEaMUEt6ewSjOO_45.299625_-93.777681@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586336,
-    "wof:geomhash":"06770218ddde2b35c013f4e2964d311a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40efa2d16aee12326250b472fc83b60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":773518811
+        }
+    ],
     "wof:id":773518811,
-    "wof:lastmodified":1472630080,
+    "wof:lastmodified":1492805258,
     "wof:name":"Chrome & Steel Truck Wash Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

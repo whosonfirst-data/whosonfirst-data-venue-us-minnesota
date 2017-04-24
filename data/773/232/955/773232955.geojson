@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.320816,45.059361,-93.320816,45.059361",
     "geom:latitude":45.059361,
     "geom:longitude":-93.320816,
@@ -28,17 +29,34 @@
     "sg:postcode":"55429",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wm8S79QNKNGkBiUQSXbOd_45.059361_-93.320816@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584168,
-    "wof:geomhash":"883c5d98b37300faadc3a131f96ccd97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa29b780aa8ab7901f82bbf8802df89b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":773232955
+        }
+    ],
     "wof:id":773232955,
-    "wof:lastmodified":1472629987,
+    "wof:lastmodified":1492799063,
     "wof:name":"Burger King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

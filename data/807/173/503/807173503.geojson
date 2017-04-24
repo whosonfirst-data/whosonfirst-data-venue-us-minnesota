@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.584093,45.597139,-93.584093,45.597139",
     "geom:latitude":45.597139,
     "geom:longitude":-93.584093,
@@ -31,17 +32,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512573,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hX5JW4v7qF5Ck7Gi97WKX_45.597139_-93.584093@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604519,
-    "wof:geomhash":"5e80ee82adf9168f8a273ee722880f51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc0a89a910d2f40ae5922714b0ae9f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512573,
+            "region_id":85688727,
+            "venue_id":807173503
+        }
+    ],
     "wof:id":807173503,
-    "wof:lastmodified":1472629342,
+    "wof:lastmodified":1492825965,
     "wof:name":"Richard Gustafson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

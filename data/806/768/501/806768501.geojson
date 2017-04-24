@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.526615,45.129712,-94.526615,45.129712",
     "geom:latitude":45.129712,
     "geom:longitude":-94.526615,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sELBPDmxZoGnNQohgp03j_45.129712_-94.526615@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600915,
-    "wof:geomhash":"03c9e10ce877523da75bd2bee006c734",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d20079c41224e323d179d93798fb1df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":806768501
+        }
+    ],
     "wof:id":806768501,
-    "wof:lastmodified":1472629794,
+    "wof:lastmodified":1492819895,
     "wof:name":"Christian Church Of Litchfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

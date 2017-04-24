@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.977496,44.147324,-93.977496,44.147324",
     "geom:latitude":44.147324,
     "geom:longitude":-93.977496,
@@ -32,17 +33,34 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MqvMqHZ8fv7mE9jc1gcoP_44.147324_-93.977496@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609091,
-    "wof:geomhash":"acb6c1c07cf5a3efe2496ea8f2a72a49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fc06e894e744a104d5314e6fb527c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":823237307
+        }
+    ],
     "wof:id":823237307,
-    "wof:lastmodified":1472629144,
+    "wof:lastmodified":1492831118,
     "wof:name":"Little Bob/Ruth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

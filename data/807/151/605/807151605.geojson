@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.203831,45.282647,-94.203831,45.282647",
     "geom:latitude":45.282647,
     "geom:longitude":-94.203831,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515255,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41JWuheSxnvpqnXLCaACkI_45.282647_-94.203831@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604288,
-    "wof:geomhash":"c116941bb5991c050623bf4a4aeb5abb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc46c1becae1e6bdbe860a61b600a3f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515255,
+            "region_id":85688727,
+            "venue_id":807151605
+        }
+    ],
     "wof:id":807151605,
-    "wof:lastmodified":1472629287,
+    "wof:lastmodified":1492823389,
     "wof:name":"Bill Muehring",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

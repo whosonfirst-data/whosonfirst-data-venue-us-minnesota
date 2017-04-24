@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.512204,44.780719,-93.512204,44.780719",
     "geom:latitude":44.780719,
     "geom:longitude":-93.512204,
@@ -31,17 +32,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cJEymPimPylQ5aspTlxV0_44.780719_-93.512204@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601007,
-    "wof:geomhash":"23544b0de006eac354f2546a1bb444c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec18620b94c61ec7ab319f392fb35d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":806779009
+        }
+    ],
     "wof:id":806779009,
-    "wof:lastmodified":1472629789,
+    "wof:lastmodified":1492819278,
     "wof:name":"Synera Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

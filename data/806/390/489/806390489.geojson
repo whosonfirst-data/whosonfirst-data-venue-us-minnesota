@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.139141,46.442722,-95.139141,46.442722",
     "geom:latitude":46.442722,
     "geom:longitude":-95.139141,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514849,
+        85633793,
+        85968683,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72g6xnTXKfYhPdVH6xd0oz_46.442722_-95.139141@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597755,
-    "wof:geomhash":"5a526e5fd996c23862cf88e1057cda5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b33934227a4877d967fb87acb9f7bec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514849,
+            "locality_id":85968683,
+            "region_id":85688727,
+            "venue_id":806390489
+        }
+    ],
     "wof:id":806390489,
-    "wof:lastmodified":1472629036,
+    "wof:lastmodified":1492817820,
     "wof:name":"S & T Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

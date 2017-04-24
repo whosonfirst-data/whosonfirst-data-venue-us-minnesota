@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.155924,45.94375,-94.155924,45.94375",
     "geom:latitude":45.94375,
     "geom:longitude":-94.155924,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512577,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3c7iCAw4Ob6NnqKjHb3y6B_45.943750_-94.155924@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598956,
-    "wof:geomhash":"fba442c1a3640856a1c8137e60cfa104",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d63ba6b993ecb5584d903ef930d123a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512577,
+            "region_id":85688727,
+            "venue_id":806540041
+        }
+    ],
     "wof:id":806540041,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492815984,
     "wof:name":"Computer Solutions Provider",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

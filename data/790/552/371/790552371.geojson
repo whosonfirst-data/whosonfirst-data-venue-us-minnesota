@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.226229,44.051733,-93.226229,44.051733",
     "geom:latitude":44.051733,
     "geom:longitude":-93.226229,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514607,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17DL49vrl3rYvt8CuXygkF_44.051733_-93.226229@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596814,
-    "wof:geomhash":"d393ad822d2d50b83aaf8350a4e72c76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"845a2582cf036a4550058186b2faaf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514607,
+            "region_id":85688727,
+            "venue_id":790552371
+        }
+    ],
     "wof:id":790552371,
-    "wof:lastmodified":1472629837,
+    "wof:lastmodified":1492835343,
     "wof:name":"Miller Studios Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

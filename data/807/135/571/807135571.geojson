@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.693819,43.547668,-95.693819,43.547668",
     "geom:latitude":43.547668,
     "geom:longitude":-95.693819,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512143,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZVKqJ9AYtP15AvUKr758Y_43.547668_-95.693819@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604118,
-    "wof:geomhash":"2780e2c25df567df34de34961ae65cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e396dad5ef85d1ea37d9f69ec1f51afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512143,
+            "region_id":85688727,
+            "venue_id":807135571
+        }
+    ],
     "wof:id":807135571,
-    "wof:lastmodified":1472629263,
+    "wof:lastmodified":1492823778,
     "wof:name":"Arthur Wildeman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

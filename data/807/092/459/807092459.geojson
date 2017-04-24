@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.02456,44.35158,-94.02456,44.35158",
     "geom:latitude":44.35158,
     "geom:longitude":-94.02456,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513481,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aHGLHWJgQbSa2sou5070X_44.351580_-94.024560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603639,
-    "wof:geomhash":"7eab8dae4d4d40dc3e36d17d704be667",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97060cef6816955d8c22c37259dea57b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513481,
+            "region_id":85688727,
+            "venue_id":807092459
+        }
+    ],
     "wof:id":807092459,
-    "wof:lastmodified":1472629151,
+    "wof:lastmodified":1492823266,
     "wof:name":"Allen Mogenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

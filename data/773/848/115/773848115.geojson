@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.861359,45.974213,-94.861359,45.974213",
     "geom:latitude":45.974213,
     "geom:longitude":-94.861359,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514725,
+        85633793,
+        85968365,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CypXIUj8H0VE5H8E3a5iV_45.974213_-94.861359@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588880,
-    "wof:geomhash":"01642800cda07f33f28a095c1261900b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33583fcd6743d2766d1d189f617ead82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514725,
+            "locality_id":85968365,
+            "region_id":85688727,
+            "venue_id":773848115
+        }
+    ],
     "wof:id":773848115,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492808260,
     "wof:name":"Michael's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

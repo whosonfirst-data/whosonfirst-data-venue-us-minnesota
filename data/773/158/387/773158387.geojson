@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.914441,45.087966,-94.914441,45.087966",
     "geom:latitude":45.087966,
     "geom:longitude":-94.914441,
@@ -31,17 +32,32 @@
         "plumbing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513801,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nQsVX9eHRQxPKvFRUqy3Y_45.087966_-94.914441@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583579,
-    "wof:geomhash":"1d4d86273313a020e69414f2cd51f5c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3da00419aebbc4a63691137996e13563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513801,
+            "region_id":85688727,
+            "venue_id":773158387
+        }
+    ],
     "wof:id":773158387,
-    "wof:lastmodified":1472629765,
+    "wof:lastmodified":1492805176,
     "wof:name":"Golden Neo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.475642,45.833668,-94.475642,45.833668",
     "geom:latitude":45.833668,
     "geom:longitude":-94.475642,
@@ -31,17 +32,34 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510029,
+        85633793,
+        85968861,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H0D2YNB0MtRsyuXn7MP9O_45.833668_-94.475642@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602376,
-    "wof:geomhash":"b84b56559c5cc015b49269b19052941d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f4c4eeb00f77ffa694ddf7ac684d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510029,
+            "locality_id":85968861,
+            "region_id":85688727,
+            "venue_id":806941969
+        }
+    ],
     "wof:id":806941969,
-    "wof:lastmodified":1472629956,
+    "wof:lastmodified":1492819691,
     "wof:name":"Elmdale Creamery & Locker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

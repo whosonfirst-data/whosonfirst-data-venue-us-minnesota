@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.282565,45.089153,-93.282565,45.089153",
     "geom:latitude":45.089153,
     "geom:longitude":-93.282565,
@@ -32,17 +33,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RvgBAWhrb8qIIWC1hvqx2_45.089153_-93.282565@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602436,
-    "wof:geomhash":"1fbadf4c0cbe30cd5c5ea151297ef78a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f12e5f5fc28b83a41813c979424a0f49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":806949905
+        }
+    ],
     "wof:id":806949905,
-    "wof:lastmodified":1472629953,
+    "wof:lastmodified":1492816471,
     "wof:name":"Middleton Engineering Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

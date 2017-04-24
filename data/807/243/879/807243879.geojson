@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.053576,45.154561,-93.053576,45.154561",
     "geom:latitude":45.154561,
     "geom:longitude":-93.053576,
@@ -31,17 +32,34 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509191,
+        85633793,
+        85953407,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mj6PZOu1LQRPMZDTJdNQO_45.154561_-93.053576@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605261,
-    "wof:geomhash":"67473fb0f5dbadf696c3870cef938926",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f828187f13d4d11241199117e076e5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404509191,
+            "locality_id":85953407,
+            "region_id":85688727,
+            "venue_id":807243879
+        }
+    ],
     "wof:id":807243879,
-    "wof:lastmodified":1472629520,
+    "wof:lastmodified":1492824116,
     "wof:name":"Rasmussen Acquisition Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

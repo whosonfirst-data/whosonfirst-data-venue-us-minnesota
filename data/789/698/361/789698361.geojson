@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263783,44.921753,-93.263783,44.921753",
     "geom:latitude":44.921753,
     "geom:longitude":-93.263783,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872541,
+        85872539,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872539
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589846,
-    "wof:geomhash":"876ecce326376341f6d1e4a101767735",
+    "wof:geomhash":"f19d67ee9b6ae34ba4f85744aeec24f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872541,
-            "region_id":85688727,
-            "venue_id":789698361
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872539,
             "region_id":85688727,
             "venue_id":789698361
         }
     ],
     "wof:id":789698361,
-    "wof:lastmodified":1472629201,
+    "wof:lastmodified":1492809159,
     "wof:name":"Loving Heart Childcare",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

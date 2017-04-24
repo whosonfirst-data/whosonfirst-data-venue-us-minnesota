@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.930885,43.530774,-91.930885,43.530774",
     "geom:latitude":43.530774,
     "geom:longitude":-91.930885,
@@ -32,17 +33,34 @@
         "line"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509627,
+        85633793,
+        85953137,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34g2hXU8hBcoClWjqReCaJ_43.530774_-91.930885@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588285,
-    "wof:geomhash":"2dadf33fd2244e732245e305f5ce933e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"791348c7a06b658cc24fc60d914f0295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509627,
+            "locality_id":85953137,
+            "region_id":85688727,
+            "venue_id":773776011
+        }
+    ],
     "wof:id":773776011,
-    "wof:lastmodified":1472630152,
+    "wof:lastmodified":1492805432,
     "wof:name":"Canton Bus Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

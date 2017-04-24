@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.169907,44.166014,-92.169907,44.166014",
     "geom:latitude":44.166014,
     "geom:longitude":-92.169907,
@@ -33,17 +34,34 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510915,
+        85633793,
+        85968637,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QIJel6C8MQU5OI3dVcIPP_44.166014_-92.169907@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593942,
-    "wof:geomhash":"6ccdccabbc117206b0280597c0952633",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9223698dd04ca2cd7a490edd2f38d4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404510915,
+            "locality_id":85968637,
+            "region_id":85688727,
+            "venue_id":790198013
+        }
+    ],
     "wof:id":790198013,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492836804,
     "wof:name":"ABC Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

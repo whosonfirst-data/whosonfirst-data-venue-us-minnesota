@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.541104,47.46341,-92.541104,47.46341",
     "geom:latitude":47.46341,
     "geom:longitude":-92.541104,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bXdZBL0eUfoqV0OkPs4nM_47.463410_-92.541104@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587968,
-    "wof:geomhash":"b8b0e24ed4caaf769d990d88ded5e15f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cb4c1f4ddf6519776733b8b54bda6d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773732423
+        }
+    ],
     "wof:id":773732423,
-    "wof:lastmodified":1472630143,
+    "wof:lastmodified":1492807495,
     "wof:name":"M & M Electric",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

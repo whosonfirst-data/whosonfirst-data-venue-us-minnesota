@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.004975,45.901354,-94.004975,45.901354",
     "geom:latitude":45.901354,
     "geom:longitude":-94.004975,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510037,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U6Bk73uS6sPrYv1wlEq1g_45.901354_-94.004975@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604579,
-    "wof:geomhash":"2af7b5ca227aebef5461aaa5ee92678e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66e398197e3ed77d4ad0e76ada1be5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510037,
+            "region_id":85688727,
+            "venue_id":807179333
+        }
+    ],
     "wof:id":807179333,
-    "wof:lastmodified":1472629345,
+    "wof:lastmodified":1492826868,
     "wof:name":"Charles Winscher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

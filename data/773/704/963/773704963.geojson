@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.004745,44.927875,-93.004745,44.927875",
     "geom:latitude":44.927875,
     "geom:longitude":-93.004745,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514453,
+        85633793,
+        85953111,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MsWq99N3FXeg1CGjWmemw_44.927875_-93.004745@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587759,
-    "wof:geomhash":"ef414713453920de4a100ef00c9bf0e9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6d62293c592f1484bf7425bdd9894bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514453,
+            "locality_id":85953111,
+            "region_id":85688727,
+            "venue_id":773704963
+        }
+    ],
     "wof:id":773704963,
-    "wof:lastmodified":1472630139,
+    "wof:lastmodified":1492805882,
     "wof:name":"Maplewood Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

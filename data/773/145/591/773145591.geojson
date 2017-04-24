@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.625076,47.008816,-92.625076,47.008816",
     "geom:latitude":47.008816,
     "geom:longitude":-92.625076,
@@ -31,17 +32,26 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cuYxebxOiVeDISW35PgmB_47.008816_-92.625076@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583472,
-    "wof:geomhash":"697954f34789c0f46fb3c5d8d30e6e76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d68f7d3402701e8f2cd72c353363eb66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773145591
+        }
+    ],
     "wof:id":773145591,
-    "wof:lastmodified":1472629726,
+    "wof:lastmodified":1492808638,
     "wof:name":"Alborn Township",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

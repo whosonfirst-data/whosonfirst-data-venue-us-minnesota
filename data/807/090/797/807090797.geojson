@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.55265,44.09396,-92.55265,44.09396",
     "geom:latitude":44.09396,
     "geom:longitude":-92.55265,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512433,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04qI3b7qZQ9GsL24O3iyqq_44.093960_-92.552650@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603625,
-    "wof:geomhash":"b86a0559c395f4cab7c52d80397b5ce9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2142c11287b2c9fb355fc18723eb5792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512433,
+            "region_id":85688727,
+            "venue_id":807090797
+        }
+    ],
     "wof:id":807090797,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492824573,
     "wof:name":"Joe Kocer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

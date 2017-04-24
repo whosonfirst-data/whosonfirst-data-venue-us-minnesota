@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.311144,44.356246,-94.311144,44.356246",
     "geom:latitude":44.356246,
     "geom:longitude":-94.311144,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513329,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EVHtONiSsjXqSILX6YEqY_44.356246_-94.311144@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604668,
-    "wof:geomhash":"6d427f24625a30aa60cba52c867d61dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"adda4dfc8cb933471c123a95f0c7113b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513329,
+            "region_id":85688727,
+            "venue_id":807187723
+        }
+    ],
     "wof:id":807187723,
-    "wof:lastmodified":1472629389,
+    "wof:lastmodified":1492825878,
     "wof:name":"Harold Olson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

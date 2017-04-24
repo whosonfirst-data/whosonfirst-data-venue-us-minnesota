@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.592107,47.77602,-96.592107,47.77602",
     "geom:latitude":47.77602,
     "geom:longitude":-96.592107,
@@ -32,17 +33,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513695,
+        85633793,
+        85968417,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34ij3z74OHQtkHDTGjhmkJ_47.776020_-96.592107@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609547,
-    "wof:geomhash":"d6b3c1dced87391ceda0c7eb324dae36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57fe3a7d1cb4b1faf149e014de7d33f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513695,
+            "locality_id":85968417,
+            "region_id":85688727,
+            "venue_id":823259705
+        }
+    ],
     "wof:id":823259705,
-    "wof:lastmodified":1472629224,
+    "wof:lastmodified":1492829146,
     "wof:name":"Joseph Stroot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

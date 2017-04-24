@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.18009,48.116628,-96.18009,48.116628",
     "geom:latitude":48.116628,
     "geom:longitude":-96.18009,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aNGOus2ZHsGI9bga16Goe_48.116628_-96.180090@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598722,
-    "wof:geomhash":"491d7175e6ff059659ed41fa7eaf9104",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17d227d196d495342ca44ddb1fb01d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806510703
+        }
+    ],
     "wof:id":806510703,
-    "wof:lastmodified":1472629334,
+    "wof:lastmodified":1492819993,
     "wof:name":"Options Interstate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

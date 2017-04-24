@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.568483,45.20735,-93.568483,45.20735",
     "geom:latitude":45.20735,
     "geom:longitude":-93.568483,
@@ -32,17 +33,34 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cEhjstDr1zi6fDJsW0M8h_45.207350_-93.568483@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597972,
-    "wof:geomhash":"b858b1feb26cfb9a38c5fc04ef245065",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1dea83507b1f1175a793d9e06e996168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":806414807
+        }
+    ],
     "wof:id":806414807,
-    "wof:lastmodified":1472629108,
+    "wof:lastmodified":1492815856,
     "wof:name":"Tc Concepts LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

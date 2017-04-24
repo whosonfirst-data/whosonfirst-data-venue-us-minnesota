@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.095335,44.936527,-93.095335,44.936527",
     "geom:latitude":44.936527,
     "geom:longitude":-93.095335,
@@ -31,19 +32,38 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iXaTurCfJRFKmqQi1mvJP_44.936527_-93.095335@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599912,
-    "wof:geomhash":"a1962e4374ead8f5367f79392936272e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60b855bc52a74c275d0f8cc133df2b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":806650773
+        }
+    ],
     "wof:id":806650773,
-    "wof:lastmodified":1472629641,
+    "wof:lastmodified":1492821061,
     "wof:name":"Arlene M Asencio",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

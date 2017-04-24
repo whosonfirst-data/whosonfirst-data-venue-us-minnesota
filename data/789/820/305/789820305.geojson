@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.352372,43.619042,-93.352372,43.619042",
     "geom:latitude":43.619042,
     "geom:longitude":-93.352372,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BU6m55uc9tCGspPxuhutV_43.619042_-93.352372@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590790,
-    "wof:geomhash":"7e7a29b76454954f1d0feee0adff73d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"380e1b0229e016cc9f088c243dbe8239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":789820305
+        }
+    ],
     "wof:id":789820305,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492813316,
     "wof:name":"Albert Lea Public Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

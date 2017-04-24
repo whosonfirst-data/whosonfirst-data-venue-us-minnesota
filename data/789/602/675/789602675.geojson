@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.445008,44.057432,-92.445008,44.057432",
     "geom:latitude":44.057432,
     "geom:longitude":-92.445008,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dc0QmKLVbmNCjPBMKhJac_44.057432_-92.445008@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589086,
-    "wof:geomhash":"502a4c383389e71781132699892bee64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e6181f30815c7b1bb61a28329928754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789602675
+        }
+    ],
     "wof:id":789602675,
-    "wof:lastmodified":1472628978,
+    "wof:lastmodified":1492813752,
     "wof:name":"First Church Of The Nazarene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.229304,44.630368,-94.229304,44.630368",
     "geom:latitude":44.630368,
     "geom:longitude":-94.229304,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514053,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ols921RpkGaX088YoGGHh_44.630368_-94.229304@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597490,
-    "wof:geomhash":"661df9235007a90c5df29885fbd003ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d3be07ea4bce53ff534f362410bb50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514053,
+            "region_id":85688727,
+            "venue_id":806357589
+        }
+    ],
     "wof:id":806357589,
-    "wof:lastmodified":1472628951,
+    "wof:lastmodified":1492821948,
     "wof:name":"Earl Krone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

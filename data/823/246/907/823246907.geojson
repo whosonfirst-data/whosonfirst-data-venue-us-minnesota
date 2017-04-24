@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.991121,44.77652,-94.991121,44.77652",
     "geom:latitude":44.77652,
     "geom:longitude":-94.991121,
@@ -39,17 +40,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11fnEh1jm9jSM5pFqcdvWE_44.776520_-94.991121@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609276,
-    "wof:geomhash":"580c8e1b93b665db06abf7725e6ca28c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60bd71c5b9ae0544a87ffd7aff535cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":823246907
+        }
+    ],
     "wof:id":823246907,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492829614,
     "wof:name":"Olivia Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

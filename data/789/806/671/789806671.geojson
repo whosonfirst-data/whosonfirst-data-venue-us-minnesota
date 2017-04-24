@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.193609,44.056032,-95.193609,44.056032",
     "geom:latitude":44.056032,
     "geom:longitude":-95.193609,
@@ -32,17 +33,34 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511861,
+        85633793,
+        85952811,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vef0h9zYV4HiuUQutZu3E_44.056032_-95.193609@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590690,
-    "wof:geomhash":"b73e2e3d76f8d8766aaee556ae833eb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b05086dac97baaf5ba5002d7cd268b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511861,
+            "locality_id":85952811,
+            "region_id":85688727,
+            "venue_id":789806671
+        }
+    ],
     "wof:id":789806671,
-    "wof:lastmodified":1472629406,
+    "wof:lastmodified":1492810023,
     "wof:name":"Red Rock Rural Water Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

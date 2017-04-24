@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.179978,45.079725,-93.179978,45.079725",
     "geom:latitude":45.079725,
     "geom:longitude":-93.179978,
@@ -31,17 +32,34 @@
         "daycare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514355,
+        85633793,
+        85953025,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aBHIDuBlygXCdd9h03tZJ_45.079725_-93.179978@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598244,
-    "wof:geomhash":"5f3989c44a58b5dced68be3a192fc79a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83ed82eaefff58c474b269e0e4ce25d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514355,
+            "locality_id":85953025,
+            "region_id":85688727,
+            "venue_id":806450019
+        }
+    ],
     "wof:id":806450019,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492817339,
     "wof:name":"Joan Ault",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

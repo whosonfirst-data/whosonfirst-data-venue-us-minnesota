@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.494286,44.149731,-94.494286,44.149731",
     "geom:latitude":44.149731,
     "geom:longitude":-94.494286,
@@ -38,17 +39,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511587,
+        85633793,
+        85952711,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qoXv3CbnPz4V2m3eHUFxN_44.149731_-94.494286@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609135,
-    "wof:geomhash":"ee907ac49f8422c64538b870d97dcfd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a05c7edbb51e1b6a8a719f1895f1a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511587,
+            "locality_id":85952711,
+            "region_id":85688727,
+            "venue_id":823239191
+        }
+    ],
     "wof:id":823239191,
-    "wof:lastmodified":1472629133,
+    "wof:lastmodified":1492828347,
     "wof:name":"Larry Stoesz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

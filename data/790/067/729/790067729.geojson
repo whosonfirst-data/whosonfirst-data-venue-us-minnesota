@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.543769,44.979,-93.543769,44.979",
     "geom:latitude":44.979,
     "geom:longitude":-93.543769,
@@ -33,17 +34,45 @@
         "drive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511895,
+        85633793,
+        85969145,
+        102087709,
+        404511915,
+        85969113
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Nnfd5HtygQ2bHMsnfbdAX_44.979000_-93.543769@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592875,
-    "wof:geomhash":"2e9e06bbd79a69e560579a599f7b128d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56aa6e4a99a8b40630bcaff87de1d62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511895,
+            "locality_id":85969145,
+            "region_id":85688727,
+            "venue_id":790067729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511915,
+            "locality_id":85969113,
+            "region_id":85688727,
+            "venue_id":790067729
+        }
+    ],
     "wof:id":790067729,
-    "wof:lastmodified":1472629053,
+    "wof:lastmodified":1492834298,
     "wof:name":"Rodime PLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

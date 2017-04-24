@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.177086,45.020034,-94.177086,45.020034",
     "geom:latitude":45.020034,
     "geom:longitude":-94.177086,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515257,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NqVbYViF4zlQdJRSMxTmY_45.020034_-94.177086@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592932,
-    "wof:geomhash":"e788fc57c5523590c1efe762d0c40b32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cdf1b77734bc81af03f86d8ef5198cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515257,
+            "region_id":85688727,
+            "venue_id":790075121
+        }
+    ],
     "wof:id":790075121,
-    "wof:lastmodified":1472629069,
+    "wof:lastmodified":1492835040,
     "wof:name":"Stockholm Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

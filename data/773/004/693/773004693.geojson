@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.802884,45.294383,-93.802884,45.294383",
     "geom:latitude":45.294383,
     "geom:longitude":-93.802884,
@@ -33,17 +34,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cEuEQmiwo6aUxbBDReNy5_45.294383_-93.802884@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582210,
-    "wof:geomhash":"0a478cf9567599c514cdb60202a26d6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fddf0dceb9704336d81609608aa29fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":773004693
+        }
+    ],
     "wof:id":773004693,
-    "wof:lastmodified":1472629016,
+    "wof:lastmodified":1492807432,
     "wof:name":"Monticello Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

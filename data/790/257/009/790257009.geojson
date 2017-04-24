@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.55163,46.222583,-94.55163,46.222583",
     "geom:latitude":46.222583,
     "geom:longitude":-94.55163,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512871,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tIYENaZz9X4AOgo5nxcIR_46.222583_-94.551630@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594397,
-    "wof:geomhash":"c648718f21487806736667500caf0e68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56bcec3e862d68dd307594800f98d10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512871,
+            "region_id":85688727,
+            "venue_id":790257009
+        }
+    ],
     "wof:id":790257009,
-    "wof:lastmodified":1472629384,
+    "wof:lastmodified":1492835618,
     "wof:name":"Silver Moon Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

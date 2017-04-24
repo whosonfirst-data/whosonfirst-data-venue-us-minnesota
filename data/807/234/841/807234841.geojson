@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.018907,45.200346,-96.018907,45.200346",
     "geom:latitude":45.200346,
     "geom:longitude":-96.018907,
@@ -33,17 +34,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514645,
+        85633793,
+        85968651,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g0NxrVunwy1UCQjGx1N0e_45.199957_-96.018902@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462605163,
-    "wof:geomhash":"a06b457409dbde15c737fe45f4c42b85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97c768ceda6872f4e2c77b35384520e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514645,
+            "locality_id":85968651,
+            "region_id":85688727,
+            "venue_id":807234841
+        }
+    ],
     "wof:id":807234841,
-    "wof:lastmodified":1472629476,
+    "wof:lastmodified":1492822554,
     "wof:name":"Jimmy's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

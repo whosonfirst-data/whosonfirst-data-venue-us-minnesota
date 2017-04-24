@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.240933,44.037595,-96.240933,44.037595",
     "geom:latitude":44.037595,
     "geom:longitude":-96.240933,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510435,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NcmiXgFbrP4AO7055SWxt_44.037595_-96.240933@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600684,
-    "wof:geomhash":"d7f7b494ef9d833f87aaf720c000b1af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5731ee60b88b30bc4f42025b8dcd54d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510435,
+            "region_id":85688727,
+            "venue_id":806740519
+        }
+    ],
     "wof:id":806740519,
-    "wof:lastmodified":1472629759,
+    "wof:lastmodified":1492818255,
     "wof:name":"David Wynia Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

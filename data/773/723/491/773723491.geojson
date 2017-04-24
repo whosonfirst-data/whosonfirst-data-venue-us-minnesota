@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.570271,43.763143,-91.570271,43.763143",
     "geom:latitude":43.763143,
     "geom:longitude":-91.570271,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85844731,
+        102191575,
+        404511937,
         85633793,
         85953131,
         102087605,
-        85844731
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462587895,
-    "wof:geomhash":"4eb7ce0186253b53e540fe1c54dfbe56",
+    "wof:geomhash":"8c19acddf00d5bdefe60437852a14fbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087605,
+            "localadmin_id":404511937,
             "locality_id":85953131,
             "neighbourhood_id":85844731,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":773723491,
-    "wof:lastmodified":1472630141,
+    "wof:lastmodified":1492805299,
     "wof:name":"Alliance Computer Equipment",
     "wof:parent_id":85844731,
     "wof:placetype":"venue",

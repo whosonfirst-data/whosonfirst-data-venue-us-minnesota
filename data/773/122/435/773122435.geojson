@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.949421,47.584245,-94.949421,47.584245",
     "geom:latitude":47.584245,
     "geom:longitude":-94.949421,
@@ -31,17 +32,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511383,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Gi3FpjhfwFHJvA8R5RaPZ_47.584245_-94.949421@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583311,
-    "wof:geomhash":"529cc0a3189cb2ede247f4697fa4c581",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34bcbcd008b7c41d881cee8118e999d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511383,
+            "region_id":85688727,
+            "venue_id":773122435
+        }
+    ],
     "wof:id":773122435,
-    "wof:lastmodified":1472629657,
+    "wof:lastmodified":1492804203,
     "wof:name":"Tim Kelm Logging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

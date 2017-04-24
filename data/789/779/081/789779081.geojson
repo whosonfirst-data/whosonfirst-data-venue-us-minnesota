@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.923533,47.052644,-93.923533,47.052644",
     "geom:latitude":47.052644,
     "geom:longitude":-93.923533,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511749,
+        85633793,
+        85968717,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i2w2Q9NdGeIOCz81bhBUO_47.052644_-93.923533@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590473,
-    "wof:geomhash":"b0f3051efba89d4b8bad352bcab0b23d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c687cea1322b581ba54eefc0fc7d8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511749,
+            "locality_id":85968717,
+            "region_id":85688727,
+            "venue_id":789779081
+        }
+    ],
     "wof:id":789779081,
-    "wof:lastmodified":1472629343,
+    "wof:lastmodified":1492812283,
     "wof:name":"Gothmann Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

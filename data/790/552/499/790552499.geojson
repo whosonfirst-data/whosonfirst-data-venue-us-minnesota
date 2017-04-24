@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.245567,45.02039,-93.245567,45.02039",
     "geom:latitude":45.02039,
     "geom:longitude":-93.245567,
@@ -42,14 +43,14 @@
     "sg:website":"www.nmoa.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872687,
+        420781087,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420558757
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596815,
-    "wof:geomhash":"831cf1142d46a509983c49cd7b6ba726",
+    "wof:geomhash":"dfb072b0846adc6f2534da8f48a02094",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,25 +66,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872687,
-            "region_id":85688727,
-            "venue_id":790552499
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420558757,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781087,
             "region_id":85688727,
             "venue_id":790552499
         }
     ],
     "wof:id":790552499,
-    "wof:lastmodified":1472629839,
+    "wof:lastmodified":1492835348,
     "wof:name":"National Mail Order Assn LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

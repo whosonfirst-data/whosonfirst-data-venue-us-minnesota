@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.333878,44.948451,-93.333878,44.948451",
     "geom:latitude":44.948451,
     "geom:longitude":-93.333878,
@@ -31,17 +32,34 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CkESvHGBBOi0To2vM3yj9_44.948451_-93.333878@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586271,
-    "wof:geomhash":"b362d3711f3f55d280077d963a2bfa56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb3071fbfee1a303a1d3c0f2e927054e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":773509867
+        }
+    ],
     "wof:id":773509867,
-    "wof:lastmodified":1472630080,
+    "wof:lastmodified":1492808117,
     "wof:name":"Citizens Independent Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

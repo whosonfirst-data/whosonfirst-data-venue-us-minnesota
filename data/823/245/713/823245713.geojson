@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.930708,45.122064,-94.930708,45.122064",
     "geom:latitude":45.122064,
     "geom:longitude":-94.930708,
@@ -40,17 +41,32 @@
         "part"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513801,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rIuRXGDN8vgTAJOeoX4Fc_45.122064_-94.930708@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609255,
-    "wof:geomhash":"edcf318e975bf2ee2626704675ee9244",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb3b845ebcc66027546dac9b183c9e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513801,
+            "region_id":85688727,
+            "venue_id":823245713
+        }
+    ],
     "wof:id":823245713,
-    "wof:lastmodified":1472629172,
+    "wof:lastmodified":1492829419,
     "wof:name":"Huck's Motor Machine Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

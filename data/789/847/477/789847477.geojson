@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.524316,44.497126,-93.524316,44.497126",
     "geom:latitude":44.497126,
     "geom:longitude":-93.524316,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512765,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JmN1sRny2TPcdSp7ibDYx_44.497126_-93.524316@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591009,
-    "wof:geomhash":"7980f0bcda5870cf75a2a52456a99cc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78625faf585894dd0b957a8addd42be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512765,
+            "region_id":85688727,
+            "venue_id":789847477
+        }
+    ],
     "wof:id":789847477,
-    "wof:lastmodified":1472629481,
+    "wof:lastmodified":1492812464,
     "wof:name":"Braith Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

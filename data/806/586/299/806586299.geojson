@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.232725,48.691246,-96.232725,48.691246",
     "geom:latitude":48.691246,
     "geom:longitude":-96.232725,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512919,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YyiscxS1cknCw64iF513z_48.691246_-96.232725@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599369,
-    "wof:geomhash":"c747fedeb941577bc5607633102d35ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a88bbba2aad1df4401a617ab3d386963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512919,
+            "region_id":85688727,
+            "venue_id":806586299
+        }
+    ],
     "wof:id":806586299,
-    "wof:lastmodified":1472629497,
+    "wof:lastmodified":1492815526,
     "wof:name":"Moran Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

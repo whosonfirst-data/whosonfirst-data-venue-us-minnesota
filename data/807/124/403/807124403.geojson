@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.809003,48.334036,-96.809003,48.334036",
     "geom:latitude":48.334036,
     "geom:longitude":-96.809003,
@@ -26,17 +27,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515159,
+        85633793,
+        85953453,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DgWdv2lv3kgpQJu1V9AXx_48.334036_-96.809003@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603995,
-    "wof:geomhash":"5236630fa6f18d1ee28b94f660b16037",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4384aa414296be0468bc1ed27ebd25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404515159,
+            "locality_id":85953453,
+            "region_id":85688727,
+            "venue_id":807124403
+        }
+    ],
     "wof:id":807124403,
-    "wof:lastmodified":1472629243,
+    "wof:lastmodified":1492825183,
     "wof:name":"Edmund Safranski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

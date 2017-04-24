@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.099507,43.625942,-94.099507,43.625942",
     "geom:latitude":43.625942,
     "geom:longitude":-94.099507,
@@ -31,17 +32,34 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RXI4s6KhQMoWn36pNYMXz_43.625942_-94.099507@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588898,
-    "wof:geomhash":"703f9856b966cc5515f8e4b856581e98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d58987a39a85625486c74bd4f715b49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":789579277
+        }
+    ],
     "wof:id":789579277,
-    "wof:lastmodified":1472628926,
+    "wof:lastmodified":1492811400,
     "wof:name":"Kabe Investigations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

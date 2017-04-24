@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.107594,48.192721,-96.107594,48.192721",
     "geom:latitude":48.192721,
     "geom:longitude":-96.107594,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513663,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21fehloBqVdni7odDGZv31_48.192721_-96.107594@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595511,
-    "wof:geomhash":"245280efb12331010b9d2a426f98c404",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dedd9712a00be562f59be8858402eb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513663,
+            "region_id":85688727,
+            "venue_id":790396593
+        }
+    ],
     "wof:id":790396593,
-    "wof:lastmodified":1472629660,
+    "wof:lastmodified":1492835768,
     "wof:name":"Larry Panek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

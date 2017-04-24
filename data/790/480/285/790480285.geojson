@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.974551,44.168077,-93.974551,44.168077",
     "geom:latitude":44.168077,
     "geom:longitude":-93.974551,
@@ -28,17 +29,34 @@
     "sg:postcode":"56001",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uAr9kRCaFvR9zHxy1oaop_44.168077_-93.974551@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596192,
-    "wof:geomhash":"e134bf867e325b1ff6bd3697edddbcd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"889eb84276bf712996497cc4b2c0e830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":790480285
+        }
+    ],
     "wof:id":790480285,
-    "wof:lastmodified":1472629761,
+    "wof:lastmodified":1492837538,
     "wof:name":"Maternity Ward Robe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

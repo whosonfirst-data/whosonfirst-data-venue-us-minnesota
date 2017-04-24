@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181874,48.114448,-96.181874,48.114448",
     "geom:latitude":48.114448,
     "geom:longitude":-96.181874,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WE52uJkyEW0dpTqTUIvMy_48.114448_-96.181874@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598926,
-    "wof:geomhash":"d0fc4759201b48ab754fd8817eeb74ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e100b15e52802bd026bbe8f59fa29030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806536375
+        }
+    ],
     "wof:id":806536375,
-    "wof:lastmodified":1472629403,
+    "wof:lastmodified":1492821495,
     "wof:name":"Silverton Lutheran Ch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

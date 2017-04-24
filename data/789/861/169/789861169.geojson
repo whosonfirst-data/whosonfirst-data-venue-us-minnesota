@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.172117,46.761262,-96.172117,46.761262",
     "geom:latitude":46.761262,
     "geom:longitude":-96.172117,
@@ -31,17 +32,32 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509205,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Pt7ZZyGad8SUw6u8KAnM0_46.761262_-96.172117@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591117,
-    "wof:geomhash":"dab5e5b06b54fac130bf38e36d8ff79b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69b0397a09d4ea136e972dbde02bbb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404509205,
+            "region_id":85688727,
+            "venue_id":789861169
+        }
+    ],
     "wof:id":789861169,
-    "wof:lastmodified":1472629531,
+    "wof:lastmodified":1492811885,
     "wof:name":"Cormorant Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

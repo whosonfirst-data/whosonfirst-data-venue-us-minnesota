@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.078707,43.959646,-94.078707,43.959646",
     "geom:latitude":43.959646,
     "geom:longitude":-94.078707,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511541,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ouQQLxQlo1H1U1gBhx8oc_43.959646_-94.078707@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604718,
-    "wof:geomhash":"36f9de834472a9ffd894f355d769de4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ed215a1cfec151c86ce220c91ecd6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511541,
+            "region_id":85688727,
+            "venue_id":807192841
+        }
+    ],
     "wof:id":807192841,
-    "wof:lastmodified":1472629412,
+    "wof:lastmodified":1492823325,
     "wof:name":"Dean Peters & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

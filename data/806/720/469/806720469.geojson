@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.388046,45.650152,-95.388046,45.650152",
     "geom:latitude":45.650152,
     "geom:longitude":-95.388046,
@@ -32,17 +33,34 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514323,
+        85633793,
+        85968627,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WI1xnUQauwATNnfDZ16O2_45.650152_-95.388046@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600505,
-    "wof:geomhash":"af4d87ac1866af2d4e634fb30c172146",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f51e13895400e888af9b8c423b225687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514323,
+            "locality_id":85968627,
+            "region_id":85688727,
+            "venue_id":806720469
+        }
+    ],
     "wof:id":806720469,
-    "wof:lastmodified":1472629753,
+    "wof:lastmodified":1492817962,
     "wof:name":"Pope County Environmental Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

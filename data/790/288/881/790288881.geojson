@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.076434,45.456788,-94.076434,45.456788",
     "geom:latitude":45.456788,
     "geom:longitude":-94.076434,
@@ -32,17 +33,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515101,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u8Q5iQ5P1iIK04cmOBJMQ_45.456788_-94.076434@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594674,
-    "wof:geomhash":"a080f4e214b07a34025a6cc8688a2333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0acf83cc22655a6e862757a338429ee8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515101,
+            "region_id":85688727,
+            "venue_id":790288881
+        }
+    ],
     "wof:id":790288881,
-    "wof:lastmodified":1472629475,
+    "wof:lastmodified":1492833771,
     "wof:name":"Lake Side Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

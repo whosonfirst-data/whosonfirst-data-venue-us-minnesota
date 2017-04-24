@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.797726,44.500117,-93.797726,44.500117",
     "geom:latitude":44.500117,
     "geom:longitude":-93.797726,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512373,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jeEbqVuofGUx9PGtnmXu3_44.500117_-93.797726@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598546,
-    "wof:geomhash":"84b1489afaa9ece9aa7e370e4dffb9c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3774367153dcf045f8e36f7e8f2718d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512373,
+            "region_id":85688727,
+            "venue_id":806490525
+        }
+    ],
     "wof:id":806490525,
-    "wof:lastmodified":1472629305,
+    "wof:lastmodified":1492818395,
     "wof:name":"Dan Boisen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

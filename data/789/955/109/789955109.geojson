@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.970545,44.156054,-93.970545,44.156054",
     "geom:latitude":44.156054,
     "geom:longitude":-93.970545,
@@ -31,17 +32,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Avk0LJLDQnL17HaxjIaaG_44.156054_-93.970545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591959,
-    "wof:geomhash":"e08d285ed46cae4d5e22fe6f13100e61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e0a1c500170043722298d42edff9c0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":789955109
+        }
+    ],
     "wof:id":789955109,
-    "wof:lastmodified":1472629642,
+    "wof:lastmodified":1492811003,
     "wof:name":"Que Computers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

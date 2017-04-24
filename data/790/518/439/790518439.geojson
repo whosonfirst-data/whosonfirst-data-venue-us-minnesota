@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.795295,47.335909,-93.795295,47.335909",
     "geom:latitude":47.335909,
     "geom:longitude":-93.795295,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462596531,
-    "wof:geomhash":"ddbc83eea5fec0e00fcbbf10cc2036f3",
+    "wof:geomhash":"8d2aa45a9d068e7076ef78ec7307b650",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":790518439,
-    "wof:lastmodified":1472629794,
+    "wof:lastmodified":1492835425,
     "wof:name":"Forestry Office",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

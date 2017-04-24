@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.830862,46.808659,-95.830862,46.808659",
     "geom:latitude":46.808659,
     "geom:longitude":-95.830862,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nEAopt4mOpTZkjItfm3WQ_46.808659_-95.830862@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596973,
-    "wof:geomhash":"c429516ca51aaaafb5fdecd6f06c171c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73bceda1e8dc3e26c5f11cd9be9fa1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":790571579
+        }
+    ],
     "wof:id":790571579,
-    "wof:lastmodified":1472629863,
+    "wof:lastmodified":1492836580,
     "wof:name":"Pelican River Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.928937,43.940257,-94.928937,43.940257",
     "geom:latitude":43.940257,
     "geom:longitude":-94.928937,
@@ -28,17 +29,34 @@
     "sg:postcode":"56159",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511869,
+        85633793,
+        85952779,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CUqyt0dJF6575W63Tua5b_43.940257_-94.928937@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594902,
-    "wof:geomhash":"d764dc081b9b4f788ab98fc1729b349e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d99755962a909a71d5cb9ce395e2925f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511869,
+            "locality_id":85952779,
+            "region_id":85688727,
+            "venue_id":790317893
+        }
+    ],
     "wof:id":790317893,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492835968,
     "wof:name":"Mountain Lake Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.793525,45.286586,-93.793525,45.286586",
     "geom:latitude":45.286586,
     "geom:longitude":-93.793525,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7J1IBa8YtdOfto8riB9GQa_45.286586_-93.793525@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592007,
-    "wof:geomhash":"e564c92aaa760477fe5aaa324c25ca53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37e271973b30ddd3ec0bdf119def5ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":789961007
+        }
+    ],
     "wof:id":789961007,
-    "wof:lastmodified":1472629641,
+    "wof:lastmodified":1492810521,
     "wof:name":"Jim Kendall Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

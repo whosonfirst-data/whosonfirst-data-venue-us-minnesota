@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.379891,45.89666,-95.379891,45.89666",
     "geom:latitude":45.89666,
     "geom:longitude":-95.379891,
@@ -31,17 +32,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NGEACGDXmInGaeENc5oWh_45.896660_-95.379891@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587000,
-    "wof:geomhash":"1911d9507707b1c6ff39fd4dbe075381",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcb62f46823e93d45b9d5d628a75de22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773608781
+        }
+    ],
     "wof:id":773608781,
-    "wof:lastmodified":1472630109,
+    "wof:lastmodified":1492805977,
     "wof:name":"American Business Forms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

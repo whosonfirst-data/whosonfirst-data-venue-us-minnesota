@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.9898,44.55668,-95.9898,44.55668",
     "geom:latitude":44.55668,
     "geom:longitude":-95.9898,
@@ -32,17 +33,34 @@
         "bowling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512663,
+        85633793,
+        85968533,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HYmlLHXDe3XiaiQYZry0b_44.556680_-95.989800@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586266,
-    "wof:geomhash":"8da05dd409edef273f90336dc1725e4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10879b4a8326cf8a438938251b6aadce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512663,
+            "locality_id":85968533,
+            "region_id":85688727,
+            "venue_id":773509139
+        }
+    ],
     "wof:id":773509139,
-    "wof:lastmodified":1472630078,
+    "wof:lastmodified":1492808110,
     "wof:name":"Legion Lanes Bowling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

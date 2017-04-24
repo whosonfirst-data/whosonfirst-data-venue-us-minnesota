@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.400781,44.724733,-94.400781,44.724733",
     "geom:latitude":44.724733,
     "geom:longitude":-94.400781,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512687,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P7cwOI2IB2RE2wuR6bysi_44.724733_-94.400781@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584472,
-    "wof:geomhash":"0c5dfb2110d4beb1caa9fed28be036a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38239d768bbf9fc1dfc8c07f1b72d8ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512687,
+            "region_id":85688727,
+            "venue_id":773274329
+        }
+    ],
     "wof:id":773274329,
-    "wof:lastmodified":1472629996,
+    "wof:lastmodified":1492799166,
     "wof:name":"Norman Doering & Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

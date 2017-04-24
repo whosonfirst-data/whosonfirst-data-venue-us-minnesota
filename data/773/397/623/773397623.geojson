@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.182312,48.114595,-96.182312,48.114595",
     "geom:latitude":48.114595,
     "geom:longitude":-96.182312,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0j5JKTCOQfD32EiCkNeNd4_48.114595_-96.182312@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585382,
-    "wof:geomhash":"019229de857b9e2564da0459169260a8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea4179940a73de8a4ae185f8225953b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773397623
+        }
+    ],
     "wof:id":773397623,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492805755,
     "wof:name":"Model Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

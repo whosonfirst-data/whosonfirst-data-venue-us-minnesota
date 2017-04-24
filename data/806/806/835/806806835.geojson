@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538649,47.464378,-92.538649,47.464378",
     "geom:latitude":47.464378,
     "geom:longitude":-92.538649,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MhBCd3wkP6aPCq42IbYJL_47.464378_-92.538649@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601240,
-    "wof:geomhash":"e88c3cdc474b787946402f36a0b85028",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a76654a231ac6573d6bde5202e69487",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806806835
+        }
+    ],
     "wof:id":806806835,
-    "wof:lastmodified":1472629854,
+    "wof:lastmodified":1492815346,
     "wof:name":"Eveleth Fire Hall",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

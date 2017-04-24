@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.884251,47.489294,-92.884251,47.489294",
     "geom:latitude":47.489294,
     "geom:longitude":-92.884251,
@@ -36,17 +37,36 @@
         "equipment-testing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EcbfTPmQXweVDnYWMbJun_47.489294_-92.884251@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608799,
-    "wof:geomhash":"11205679c9c5ef4760162a974acd1183",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e35c9e9bf06b92ec297f70abd039035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":823223339
+        }
+    ],
     "wof:id":823223339,
-    "wof:lastmodified":1472629099,
+    "wof:lastmodified":1492830905,
     "wof:name":"Allete",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

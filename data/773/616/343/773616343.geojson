@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.6141,45.689117,-94.6141,45.689117",
     "geom:latitude":45.689117,
     "geom:longitude":-94.6141,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514487,
+        85633793,
+        85952489,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hjABYK2J2jjB14DjRMgg8_45.689117_-94.614100@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587063,
-    "wof:geomhash":"eb11cf70239490c084b0fc29aa5d9cad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cbb0603848c37de2356f54293695ad73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514487,
+            "locality_id":85952489,
+            "region_id":85688727,
+            "venue_id":773616343
+        }
+    ],
     "wof:id":773616343,
-    "wof:lastmodified":1472630108,
+    "wof:lastmodified":1492799215,
     "wof:name":"RPM Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

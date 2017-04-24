@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.824218,45.78586,-93.824218,45.78586",
     "geom:latitude":45.78586,
     "geom:longitude":-93.824218,
@@ -31,17 +32,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511459,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10hv9cIKgDhbrnlzWO8iE9_45.785860_-93.824218@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585421,
-    "wof:geomhash":"b64e0d7a46c65d6f40e6ad04ba32c42a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3407f5e2675638754cd6a056645702fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511459,
+            "region_id":85688727,
+            "venue_id":773402717
+        }
+    ],
     "wof:id":773402717,
-    "wof:lastmodified":1472630044,
+    "wof:lastmodified":1492804423,
     "wof:name":"Symanietz Septic Svc & Toilets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

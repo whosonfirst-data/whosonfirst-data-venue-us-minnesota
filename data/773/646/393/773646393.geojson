@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.667294,44.052038,-91.667294,44.052038",
     "geom:latitude":44.052038,
     "geom:longitude":-91.667294,
@@ -32,17 +33,34 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16PxCChQo1TwDq26F327zY_44.052038_-91.667294@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587304,
-    "wof:geomhash":"a8941b85f7460b8698dc9b2e503a06ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eed90387180a887d089b7e811656f441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":773646393
+        }
+    ],
     "wof:id":773646393,
-    "wof:lastmodified":1472630116,
+    "wof:lastmodified":1492806074,
     "wof:name":"SMU Tennis Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

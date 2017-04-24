@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.064825,43.970452,-92.064825,43.970452",
     "geom:latitude":43.970452,
     "geom:longitude":-92.064825,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515087,
+        85633793,
+        85968973,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LaS3GbgADz5lSeqzlOMT0_43.970452_-92.064825@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597988,
-    "wof:geomhash":"84087123aa4bb91cc17199cf5490eb0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c75acac822d1ae5503b60f3258f3b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515087,
+            "locality_id":85968973,
+            "region_id":85688727,
+            "venue_id":806417113
+        }
+    ],
     "wof:id":806417113,
-    "wof:lastmodified":1472629081,
+    "wof:lastmodified":1492815135,
     "wof:name":"St Charles Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

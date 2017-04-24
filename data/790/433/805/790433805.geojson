@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.013984,47.929956,-97.013984,47.929956",
     "geom:latitude":47.929956,
     "geom:longitude":-97.013984,
@@ -32,17 +33,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513699,
+        85633793,
+        85968415,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P7LVewSqvyIik2pBIuLiD_47.929956_-97.013984@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595798,
-    "wof:geomhash":"2baa115b3cc01fe124ca13debeb283e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f40b97b744a6d6e26220193e11faae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513699,
+            "locality_id":85968415,
+            "region_id":85688727,
+            "venue_id":790433805
+        }
+    ],
     "wof:id":790433805,
-    "wof:lastmodified":1472629717,
+    "wof:lastmodified":1492831825,
     "wof:name":"Eagle Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.754533,43.809223,-91.754533,43.809223",
     "geom:latitude":43.809223,
     "geom:longitude":-91.754533,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73FP4P8hofnWdWPY83Swl5_43.809223_-91.754533@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587722,
-    "wof:geomhash":"2b31773e77df06bc69f00995d765396c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1aab8b79a77f6d4728314cfcbfb0b1e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":773699407
+        }
+    ],
     "wof:id":773699407,
-    "wof:lastmodified":1472630133,
+    "wof:lastmodified":1492804604,
     "wof:name":"Rushford Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

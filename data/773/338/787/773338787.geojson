@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.865561,45.180036,-93.865561,45.180036",
     "geom:latitude":45.180036,
     "geom:longitude":-93.865561,
@@ -31,17 +32,34 @@
         "primary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R2VyFrM17NugpMEApbR8Z_45.180036_-93.865561@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584973,
-    "wof:geomhash":"07661c1f0710a3835d56e987003e671d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8377f93b4c11eb79c4d30c8bd9e69fdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":773338787
+        }
+    ],
     "wof:id":773338787,
-    "wof:lastmodified":1472630017,
+    "wof:lastmodified":1492802307,
     "wof:name":"Buffalo Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

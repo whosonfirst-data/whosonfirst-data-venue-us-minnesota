@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.426772,44.284293,-93.426772,44.284293",
     "geom:latitude":44.284293,
     "geom:longitude":-93.426772,
@@ -40,17 +41,32 @@
     ],
     "sg:website":"http://www.acmebailbonds.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512645,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LDSL4JUL401qnqTJ8gHKp_44.284293_-93.426772@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605325,
-    "wof:geomhash":"7e2a0f74a3ae9c91559ee26839fb4daf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ac6a220f353c396292e01aea13a667b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512645,
+            "region_id":85688727,
+            "venue_id":807250129
+        }
+    ],
     "wof:id":807250129,
-    "wof:lastmodified":1472629493,
+    "wof:lastmodified":1492824922,
     "wof:name":"Acme Bail Bonds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

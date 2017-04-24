@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.550705,44.805625,-94.550705,44.805625",
     "geom:latitude":44.805625,
     "geom:longitude":-94.550705,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510575,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CU6bMyUMfaYK57oW6lNEw_44.805625_-94.550705@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601516,
-    "wof:geomhash":"0f6e0b81cd2e03309119852b17887d32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93754d9734370e17f69666ea2b60b869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510575,
+            "region_id":85688727,
+            "venue_id":806840983
+        }
+    ],
     "wof:id":806840983,
-    "wof:lastmodified":1472629885,
+    "wof:lastmodified":1492819261,
     "wof:name":"Howard Ryberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

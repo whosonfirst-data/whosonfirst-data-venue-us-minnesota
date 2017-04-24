@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.528552,47.489704,-92.528552,47.489704",
     "geom:latitude":47.489704,
     "geom:longitude":-92.528552,
@@ -32,17 +33,26 @@
         "treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G1IW9y3b85I8bELObbVsu_47.489704_-92.528552@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595242,
-    "wof:geomhash":"63478d4f3be18744f1f1e9eb01e42921",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4c6864e6c567d20a194e8f2579eeb754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790361887
+        }
+    ],
     "wof:id":790361887,
-    "wof:lastmodified":1472629576,
+    "wof:lastmodified":1492835361,
     "wof:name":"Quality Water Conditioning",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

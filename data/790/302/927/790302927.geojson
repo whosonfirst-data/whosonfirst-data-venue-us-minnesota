@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.102378,43.638534,-94.102378,43.638534",
     "geom:latitude":43.638534,
     "geom:longitude":-94.102378,
@@ -32,17 +33,34 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q1NEamEkt0zgBO37YoQWj_43.638534_-94.102378@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594789,
-    "wof:geomhash":"ac52d4916fe94aa25a6ea8e9dd7400ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8457a5efa5a9ca1234c0f484c13190ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":790302927
+        }
+    ],
     "wof:id":790302927,
-    "wof:lastmodified":1472629507,
+    "wof:lastmodified":1492837812,
     "wof:name":"All Continents Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

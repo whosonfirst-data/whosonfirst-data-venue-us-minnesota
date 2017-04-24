@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.125127,44.926762,-93.125127,44.926762",
     "geom:latitude":44.926762,
     "geom:longitude":-93.125127,
@@ -31,19 +32,40 @@
         "sanitary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vf5HmDgvxSjeN9P1JuwzE_44.926762_-93.125127@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603123,
-    "wof:geomhash":"dc0ee119ef72d0fd116205cd96743a5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ddb4a15a6db70ecb5e5449133e2a556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":807029907
+        }
+    ],
     "wof:id":807029907,
-    "wof:lastmodified":1472629001,
+    "wof:lastmodified":1492826805,
     "wof:name":"Bills Super Sweeper Co Loomis",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

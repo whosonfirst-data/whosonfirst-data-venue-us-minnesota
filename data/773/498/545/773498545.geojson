@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.392821,46.523995,-95.392821,46.523995",
     "geom:latitude":46.523995,
     "geom:longitude":-95.392821,
@@ -32,17 +33,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512903,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gd2bqeZcjZ0sTxeKsG6mi_46.523995_-95.392821@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586196,
-    "wof:geomhash":"8e5137218f206e8dc64add6d810e8e7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61d8117fc29a3d8dc924de755fce7d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512903,
+            "region_id":85688727,
+            "venue_id":773498545
+        }
+    ],
     "wof:id":773498545,
-    "wof:lastmodified":1472630072,
+    "wof:lastmodified":1492802642,
     "wof:name":"Eldon Cichy Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

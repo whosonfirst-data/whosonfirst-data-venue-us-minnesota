@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.000347,45.336384,-93.000347,45.336384",
     "geom:latitude":45.336384,
     "geom:longitude":-93.000347,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69uVi5CTigb9KOR2yVMBhd_45.336384_-93.000347@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592154,
-    "wof:geomhash":"9689419489f98736c00e7e1168fc224b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae4130ade22a7a285aeba5db64dce97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":789978419
+        }
+    ],
     "wof:id":789978419,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492810983,
     "wof:name":"Pizza Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

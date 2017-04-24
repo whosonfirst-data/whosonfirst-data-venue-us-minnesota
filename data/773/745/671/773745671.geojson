@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.136431,46.499583,-95.136431,46.499583",
     "geom:latitude":46.499583,
     "geom:longitude":-95.136431,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514827,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DZlAz7W3fFaxMogMnAUUN_46.499583_-95.136431@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588067,
-    "wof:geomhash":"cf52b49d2be419b1527a0f526a0574e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"366bef5f15cbb5bc5b26701e48b2429d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514827,
+            "region_id":85688727,
+            "venue_id":773745671
+        }
+    ],
     "wof:id":773745671,
-    "wof:lastmodified":1472630148,
+    "wof:lastmodified":1492806866,
     "wof:name":"Craig Ideker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

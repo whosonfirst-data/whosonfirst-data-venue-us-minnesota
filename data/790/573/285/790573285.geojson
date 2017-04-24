@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.334553,47.505496,-92.334553,47.505496",
     "geom:latitude":47.505496,
     "geom:longitude":-92.334553,
@@ -31,17 +32,26 @@
         "explosive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cnd7I4V4nhJjEAsgBFOLu_47.505496_-92.334553@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596986,
-    "wof:geomhash":"3235543276f4fbfdcb85411f66aec045",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c89af18e0f02750311fcefac92bc3cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":790573285
+        }
+    ],
     "wof:id":790573285,
-    "wof:lastmodified":1472629862,
+    "wof:lastmodified":1492836587,
     "wof:name":"Minnesota Explosives Co",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.991834,44.780636,-94.991834,44.780636",
     "geom:latitude":44.780636,
     "geom:longitude":-94.991834,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nGBePoMpjWCL5f3JDietf_44.780636_-94.991834@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596927,
-    "wof:geomhash":"453d8b808ddc2d43c30edd778420677b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"579ca89d1d428273e1e3d6210cc917a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":790566297
+        }
+    ],
     "wof:id":790566297,
-    "wof:lastmodified":1472629846,
+    "wof:lastmodified":1492835846,
     "wof:name":"Olivia Health Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

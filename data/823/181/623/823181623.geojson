@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.243174,44.853713,-93.243174,44.853713",
     "geom:latitude":44.853713,
     "geom:longitude":-93.243174,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://www.lanebryant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KVdO2nyuHwM3SALD174hK_44.853713_-93.243174@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608081,
-    "wof:geomhash":"eff57d89988fef92d1f6784662362607",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e08029deec2d79c0b3e1aaddee63ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823181623
+        }
+    ],
     "wof:id":823181623,
-    "wof:lastmodified":1472629018,
+    "wof:lastmodified":1492830409,
     "wof:name":"Lane Bryant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

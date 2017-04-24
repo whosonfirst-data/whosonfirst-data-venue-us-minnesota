@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.671797,45.977,-95.671797,45.977",
     "geom:latitude":45.977,
     "geom:longitude":-95.671797,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513903,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05PgLppJw4YFDpYAZ3Zwk9_45.977000_-95.671797@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587465,
-    "wof:geomhash":"1830b1d044106718900b57ff983305b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdee9a97ccf21631337420a2bb3357b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513903,
+            "region_id":85688727,
+            "venue_id":773669893
+        }
+    ],
     "wof:id":773669893,
-    "wof:lastmodified":1472630128,
+    "wof:lastmodified":1492803930,
     "wof:name":"H & H Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

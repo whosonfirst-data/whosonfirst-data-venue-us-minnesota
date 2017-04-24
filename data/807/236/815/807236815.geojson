@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.233255,45.549313,-93.233255,45.549313",
     "geom:latitude":45.549313,
     "geom:longitude":-93.233255,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://www.allina.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nGk5kDc20C8YXI7SvanVS_45.549313_-93.233255@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605180,
-    "wof:geomhash":"289c74fb0b17b998754919f1b7457fa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4287feb72053abe25db0a592c0db1301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":807236815
+        }
+    ],
     "wof:id":807236815,
-    "wof:lastmodified":1472629479,
+    "wof:lastmodified":1492824665,
     "wof:name":"Allina Home Oxygen Medical Eqp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

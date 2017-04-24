@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.848566,44.964154,-93.848566,44.964154",
     "geom:latitude":44.964154,
     "geom:longitude":-93.848566,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gSotx0kNjWJQ2cX2S2CMG_44.964154_-93.848566@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588619,
-    "wof:geomhash":"b8ab4be1ecbbeca9c7f5a634fad162d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c240e41e295aa2a590b6c0fe271cdbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":773818289
+        }
+    ],
     "wof:id":773818289,
-    "wof:lastmodified":1472630167,
+    "wof:lastmodified":1492808978,
     "wof:name":"Immaculate Conception Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

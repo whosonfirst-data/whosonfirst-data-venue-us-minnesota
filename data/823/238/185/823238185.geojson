@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.160871,43.887901,-94.160871,43.887901",
     "geom:latitude":43.887901,
     "geom:longitude":-94.160871,
@@ -37,17 +38,34 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511513,
+        85633793,
+        85953363,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pbM93pW1LCBH2eF0EZSIo_43.887901_-94.160871@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609117,
-    "wof:geomhash":"0ecf80c359ba9bb3322ea6cbffffde53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"023fb5b5372f92bbbf0f6da77d38834d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511513,
+            "locality_id":85953363,
+            "region_id":85688727,
+            "venue_id":823238185
+        }
+    ],
     "wof:id":823238185,
-    "wof:lastmodified":1472629133,
+    "wof:lastmodified":1492830629,
     "wof:name":"A Walk Back In Time Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

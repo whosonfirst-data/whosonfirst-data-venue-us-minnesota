@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.724609,44.946233,-95.724609,44.946233",
     "geom:latitude":44.946233,
     "geom:longitude":-95.724609,
@@ -32,17 +33,34 @@
         "shipping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ssOR1GrDksn5uXzagZncz_44.946233_-95.724609@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597405,
-    "wof:geomhash":"b5e1d5193691d04d0e05fb35ada5378f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"731871806a86a2f1de2d48c1ee6785c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":790619105
+        }
+    ],
     "wof:id":790619105,
-    "wof:lastmodified":1472629912,
+    "wof:lastmodified":1492832673,
     "wof:name":"Mind Your Business",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

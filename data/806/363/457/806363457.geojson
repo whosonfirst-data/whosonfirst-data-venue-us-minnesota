@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.859747,44.410802,-93.859747,44.410802",
     "geom:latitude":44.410802,
     "geom:longitude":-93.859747,
@@ -31,17 +32,32 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509709,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68ABToXg4Kw2WBX28YRHHj_44.410802_-93.859747@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597530,
-    "wof:geomhash":"f9fdbbc05a5bf14346726897b12a2701",
-    "wof:hierarchy":[],
+    "wof:geomhash":"549a58695f0bffdae631669c5679ffe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404509709,
+            "region_id":85688727,
+            "venue_id":806363457
+        }
+    ],
     "wof:id":806363457,
-    "wof:lastmodified":1472628957,
+    "wof:lastmodified":1492816680,
     "wof:name":"Marimel Greenhouse & Mfg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

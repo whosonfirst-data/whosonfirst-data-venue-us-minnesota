@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.275898,45.323253,-93.275898,45.323253",
     "geom:latitude":45.323253,
     "geom:longitude":-93.275898,
@@ -30,17 +31,34 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32uWTqwOO6YgGzSa2k6nzS_45.323253_-93.275898@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604125,
-    "wof:geomhash":"a4eb100830f18201941544a1ab47573e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75eb113b134d5fefd95799d8458b5f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":807136321
+        }
+    ],
     "wof:id":807136321,
-    "wof:lastmodified":1472629254,
+    "wof:lastmodified":1492824619,
     "wof:name":"Tim Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

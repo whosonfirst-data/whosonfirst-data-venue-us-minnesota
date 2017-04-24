@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.626252,44.935629,-93.626252,44.935629",
     "geom:latitude":44.935629,
     "geom:longitude":-93.626252,
@@ -31,17 +32,34 @@
         "grocery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509465,
+        85633793,
+        85969117,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AMzK911nHFdotSXOcC6vz_44.935629_-93.626252@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591112,
-    "wof:geomhash":"42d5b11b88f03cea15a1790c59368889",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d91e50a035ae1995e2cef52382105f88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509465,
+            "locality_id":85969117,
+            "region_id":85688727,
+            "venue_id":789860469
+        }
+    ],
     "wof:id":789860469,
-    "wof:lastmodified":1472629535,
+    "wof:lastmodified":1492812221,
     "wof:name":"Dehmers Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.179254,46.597977,-96.179254,46.597977",
     "geom:latitude":46.597977,
     "geom:longitude":-96.179254,
@@ -32,17 +33,32 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510351,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17Dj3CZYbWkFuMGxOHUoRT_46.597977_-96.179254@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602360,
-    "wof:geomhash":"a121ca2933291d6b4bc7a944c7d269ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9d0da13e863805d386e5c241ccb360e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510351,
+            "region_id":85688727,
+            "venue_id":806939965
+        }
+    ],
     "wof:id":806939965,
-    "wof:lastmodified":1472629947,
+    "wof:lastmodified":1492813856,
     "wof:name":"Wells Road Grading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

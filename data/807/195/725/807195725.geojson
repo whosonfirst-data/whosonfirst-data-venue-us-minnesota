@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.846293,45.698893,-93.846293,45.698893",
     "geom:latitude":45.698893,
     "geom:longitude":-93.846293,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511463,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UcpPmSoqmxCJXns9VXWhd_45.698893_-93.846293@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604749,
-    "wof:geomhash":"88f7b19e0e315a1f72aa84d415b5529d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bee30fd89b621b465ce2f2d0875def50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511463,
+            "region_id":85688727,
+            "venue_id":807195725
+        }
+    ],
     "wof:id":807195725,
-    "wof:lastmodified":1472629414,
+    "wof:lastmodified":1492826634,
     "wof:name":"James Kirchberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

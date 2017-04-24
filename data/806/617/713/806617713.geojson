@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.964129,45.68411,-92.964129,45.68411",
     "geom:latitude":45.68411,
     "geom:longitude":-92.964129,
@@ -32,17 +33,34 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BhTGViSZwv3VsxeX9kka2_45.684110_-92.964129@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599634,
-    "wof:geomhash":"04a09584d8f1f5cb3cd40ae23880c19f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d1331bd60e7338aab6e7c40a9645a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":806617713
+        }
+    ],
     "wof:id":806617713,
-    "wof:lastmodified":1472629562,
+    "wof:lastmodified":1492818453,
     "wof:name":"Daily Grind Coffee House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

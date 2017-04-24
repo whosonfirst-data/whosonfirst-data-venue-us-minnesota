@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.220258,45.016306,-93.220258,45.016306",
     "geom:latitude":45.016306,
     "geom:longitude":-93.220258,
@@ -33,17 +34,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509463,
+        85633793,
+        85953217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LTx7K2qk889ehLXaUuZ21_45.016306_-93.220258@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589090,
-    "wof:geomhash":"4a8daba15624e1e8a3da7cf6560c07a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8dee3d3fec4d4ddd1ccfe53c05b6fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509463,
+            "locality_id":85953217,
+            "region_id":85688727,
+            "venue_id":789603151
+        }
+    ],
     "wof:id":789603151,
-    "wof:lastmodified":1472628976,
+    "wof:lastmodified":1492813186,
     "wof:name":"Corner Books",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

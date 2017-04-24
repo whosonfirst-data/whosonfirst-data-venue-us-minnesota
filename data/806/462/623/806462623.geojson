@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.433501,44.828262,-93.433501,44.828262",
     "geom:latitude":44.828262,
     "geom:longitude":-93.433501,
@@ -28,17 +29,34 @@
     "sg:postcode":"55347",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0URv3WHe6qOAHHYzkNGgGX_44.828262_-93.433501@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598337,
-    "wof:geomhash":"5b808c3202ebb31e7ad10a8265403d3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b51292dbc58712caec47103a94464a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":806462623
+        }
+    ],
     "wof:id":806462623,
-    "wof:lastmodified":1472629208,
+    "wof:lastmodified":1492816441,
     "wof:name":"La Cowboy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

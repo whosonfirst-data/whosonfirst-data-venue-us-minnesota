@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.951169,48.670192,-94.951169,48.670192",
     "geom:latitude":48.670192,
     "geom:longitude":-94.951169,
@@ -31,17 +32,32 @@
         "prefab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509967,
+        85633793,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CKjuKKYxH3hKog8dOzusu_48.670192_-94.951169@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582144,
-    "wof:geomhash":"8301b868d45baa5911d3b3ced0d3f232",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bb62b88bba15f44d73e71eaef26b9e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404509967,
+            "region_id":85688727,
+            "venue_id":773001331
+        }
+    ],
     "wof:id":773001331,
-    "wof:lastmodified":1472628926,
+    "wof:lastmodified":1492803056,
     "wof:name":"Custom Logs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

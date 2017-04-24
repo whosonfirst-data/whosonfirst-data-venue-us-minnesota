@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.354333,46.422129,-94.354333,46.422129",
     "geom:latitude":46.422129,
     "geom:longitude":-94.354333,
@@ -31,17 +32,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509385,
+        85633793,
+        85968851,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qh2x4WFrussmZlkICd5zr_46.422129_-94.354333@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602889,
-    "wof:geomhash":"824dd4b66eb9f641606e6fd54dec71c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"160d58ba086cc98e3ad9285e2ca2a3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509385,
+            "locality_id":85968851,
+            "region_id":85688727,
+            "venue_id":807003799
+        }
+    ],
     "wof:id":807003799,
-    "wof:lastmodified":1472628931,
+    "wof:lastmodified":1492827323,
     "wof:name":"Gull Lake Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

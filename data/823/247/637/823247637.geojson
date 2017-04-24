@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.576695,45.626066,-94.576695,45.626066",
     "geom:latitude":45.626066,
     "geom:longitude":-94.576695,
@@ -43,17 +44,34 @@
     ],
     "sg:website":"http://www.awrestaurants.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514065,
+        85633793,
+        85952449,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wJUbhbGtd6vBFx7ofrwKk_45.626066_-94.576695@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609288,
-    "wof:geomhash":"b72ec80fe64e7ffdbbb09736f25d0b04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af31ad3e4860bc7145d1a8b47bcf4f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514065,
+            "locality_id":85952449,
+            "region_id":85688727,
+            "venue_id":823247637
+        }
+    ],
     "wof:id":823247637,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492829652,
     "wof:name":"A & W Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

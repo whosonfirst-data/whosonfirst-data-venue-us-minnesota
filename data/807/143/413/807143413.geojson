@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.271306,48.226439,-96.271306,48.226439",
     "geom:latitude":48.226439,
     "geom:longitude":-96.271306,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510159,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3l5La0QOGUgZm597wU5qP6_48.226439_-96.271306@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604198,
-    "wof:geomhash":"1910faf23cdf6a955b9e11669da0c311",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2838326eadec992b08a9a09ab4b17f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510159,
+            "region_id":85688727,
+            "venue_id":807143413
+        }
+    ],
     "wof:id":807143413,
-    "wof:lastmodified":1472629275,
+    "wof:lastmodified":1492824979,
     "wof:name":"Ronald Weiss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

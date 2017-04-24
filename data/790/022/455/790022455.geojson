@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.96116,45.684668,-92.96116,45.684668",
     "geom:latitude":45.684668,
     "geom:longitude":-92.96116,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CNoBdQRmKhMjjvfOqpCbS_45.684668_-92.961160@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592509,
-    "wof:geomhash":"81c29a11bad33924de6ff6a9bce3ade1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61e9bdd3b421f5aa2e0dfc02e0cadd33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":790022455
+        }
+    ],
     "wof:id":790022455,
-    "wof:lastmodified":1472628965,
+    "wof:lastmodified":1492836003,
     "wof:name":"Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

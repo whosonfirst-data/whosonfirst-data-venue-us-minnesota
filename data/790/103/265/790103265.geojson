@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.732669,44.065799,-92.732669,44.065799",
     "geom:latitude":44.065799,
     "geom:longitude":-92.732669,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513741,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59xtYaGS2BYApsTRud9qzu_44.065799_-92.732669@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593166,
-    "wof:geomhash":"3a5b4d58c06aaa66f209ad66684a934c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d04c5f723030d6b32c0769ea67cd1ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513741,
+            "region_id":85688727,
+            "venue_id":790103265
+        }
+    ],
     "wof:id":790103265,
-    "wof:lastmodified":1472629135,
+    "wof:lastmodified":1492834839,
     "wof:name":"Dan Hansen Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

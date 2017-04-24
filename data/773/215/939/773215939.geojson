@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.458875,44.018004,-92.458875,44.018004",
     "geom:latitude":44.018004,
     "geom:longitude":-92.458875,
@@ -33,17 +34,34 @@
         "certified"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ebgldv0l5pnlIQ8JgWgXr_44.018004_-92.458875@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584045,
-    "wof:geomhash":"c5cf99ddb768bfa4c548a776bfd3738a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37fa322ff3e01f25111317e973aa4d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773215939
+        }
+    ],
     "wof:id":773215939,
-    "wof:lastmodified":1472629978,
+    "wof:lastmodified":1492807070,
     "wof:name":"Schumann Granahan Hesse Wilson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

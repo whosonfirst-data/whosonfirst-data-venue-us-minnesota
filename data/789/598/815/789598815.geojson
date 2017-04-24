@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.16853,44.917858,-93.16853,44.917858",
     "geom:latitude":44.917858,
     "geom:longitude":-93.16853,
@@ -36,19 +37,38 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z4uBj6FpPIvIFArXq1gQ1_44.917858_-93.168530@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589055,
-    "wof:geomhash":"eebc183c1f91bfce2ce1dd3fa6fdc896",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90df32f958ddf2dd5e1e49c3ce30ac9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":789598815
+        }
+    ],
     "wof:id":789598815,
-    "wof:lastmodified":1472628972,
+    "wof:lastmodified":1492811598,
     "wof:name":"Super America",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

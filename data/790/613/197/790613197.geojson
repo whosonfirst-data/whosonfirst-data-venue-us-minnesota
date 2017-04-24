@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.723877,44.944239,-95.723877,44.944239",
     "geom:latitude":44.944239,
     "geom:longitude":-95.723877,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.montelibrary.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0utAV2gpSU6r3UTw2mDTIv_44.944239_-95.723877@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597335,
-    "wof:geomhash":"0a7568196d04958284b82a5eca857966",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7c186ea98061b64ed72013dc2c99d9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":790613197
+        }
+    ],
     "wof:id":790613197,
-    "wof:lastmodified":1472629910,
+    "wof:lastmodified":1492832902,
     "wof:name":"Montevideo Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

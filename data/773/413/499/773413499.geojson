@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.427682,45.134707,-93.427682,45.134707",
     "geom:latitude":45.134707,
     "geom:longitude":-93.427682,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XBweZMUneCG0USQJstXED_45.134707_-93.427682@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585518,
-    "wof:geomhash":"df006023cd4d22aa38f3aab46f5d83b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7893fc74526736c96a1ce610ba236687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773413499
+        }
+    ],
     "wof:id":773413499,
-    "wof:lastmodified":1472630047,
+    "wof:lastmodified":1492806761,
     "wof:name":"Charlotte Banwell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

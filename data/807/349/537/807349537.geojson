@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.512719,45.493654,-93.512719,45.493654",
     "geom:latitude":45.493654,
     "geom:longitude":-93.512719,
@@ -36,17 +37,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515049,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hJXNgaZPiHAH6nUinVJv9_45.493654_-93.512719@1303262821"
     },
     "wof:country":"US",
     "wof:created":1462606496,
-    "wof:geomhash":"c8df52fa5683f88f69ed02b71ea8c33f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edfe5e5e242707c4c4de9a93fdde94b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515049,
+            "region_id":85688727,
+            "venue_id":807349537
+        }
+    ],
     "wof:id":807349537,
-    "wof:lastmodified":1472629801,
+    "wof:lastmodified":1492826415,
     "wof:name":"J Companies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

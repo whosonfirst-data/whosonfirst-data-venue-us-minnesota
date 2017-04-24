@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.59408,43.620988,-95.59408,43.620988",
     "geom:latitude":43.620988,
     "geom:longitude":-95.59408,
@@ -36,17 +37,34 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hIFP0D1WkhgUhr4bp4YZv_43.620988_-95.594080@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601682,
-    "wof:geomhash":"8827fd99768925e78db7be3adc770769",
-    "wof:hierarchy":[],
+    "wof:geomhash":"29686f41ffd5cfdf8d7f8010231e6172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":806859013
+        }
+    ],
     "wof:id":806859013,
-    "wof:lastmodified":1472629899,
+    "wof:lastmodified":1492821701,
     "wof:name":"Nobles County Heartland Expres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

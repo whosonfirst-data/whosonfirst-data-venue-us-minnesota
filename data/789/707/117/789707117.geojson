@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.476353,43.925691,-92.476353,43.925691",
     "geom:latitude":43.925691,
     "geom:longitude":-92.476353,
@@ -31,17 +32,34 @@
         "siding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bvz0zMZpDaBJ6Nz7dDsiw_43.925691_-92.476353@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589908,
-    "wof:geomhash":"d5780f0ea91232a5e6a81a8045a66273",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b915df8e62a248c7d9f48e68adf847f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789707117
+        }
+    ],
     "wof:id":789707117,
-    "wof:lastmodified":1472629228,
+    "wof:lastmodified":1492811306,
     "wof:name":"Norandex Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

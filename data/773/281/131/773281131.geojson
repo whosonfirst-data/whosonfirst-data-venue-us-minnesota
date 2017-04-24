@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.268126,44.285415,-93.268126,44.285415",
     "geom:latitude":44.285415,
     "geom:longitude":-93.268126,
@@ -31,17 +32,34 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fAHXwdJyQnt6UzOmp3r9v_44.285415_-93.268126@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584522,
-    "wof:geomhash":"cee3e5ae6c775d3c32ca9e02907a3c67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13cfabda08955a16040a1a0340c379c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773281131
+        }
+    ],
     "wof:id":773281131,
-    "wof:lastmodified":1472629994,
+    "wof:lastmodified":1492805025,
     "wof:name":"Mutual of Omaha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

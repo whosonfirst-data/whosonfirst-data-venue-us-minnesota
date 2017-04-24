@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.36501,47.506893,-92.36501,47.506893",
     "geom:latitude":47.506893,
     "geom:longitude":-92.36501,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H4JKavWRHNHCvR2CTFEMd_47.506893_-92.365010@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599180,
-    "wof:geomhash":"9ea4c982bda12257d49b444196c3c833",
-    "wof:hierarchy":[],
+    "wof:geomhash":"900b1bb452a054fba3d13896e564089f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806566647
+        }
+    ],
     "wof:id":806566647,
-    "wof:lastmodified":1472629473,
+    "wof:lastmodified":1492819447,
     "wof:name":"Range Sweeper",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

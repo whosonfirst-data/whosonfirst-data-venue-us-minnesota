@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.099707,44.177184,-94.099707,44.177184",
     "geom:latitude":44.177184,
     "geom:longitude":-94.099707,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513327,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OAWUhYA2k6EyM1AxKtH89_44.177184_-94.099707@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604714,
-    "wof:geomhash":"7d973ee60838b4d1ee40258eb311f753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d099325e317f0f945f04641d81af3292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513327,
+            "region_id":85688727,
+            "venue_id":807192485
+        }
+    ],
     "wof:id":807192485,
-    "wof:lastmodified":1472629394,
+    "wof:lastmodified":1492823318,
     "wof:name":"Smith Whilma",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

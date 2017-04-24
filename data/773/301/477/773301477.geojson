@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.468421,44.854926,-93.468421,44.854926",
     "geom:latitude":44.854926,
     "geom:longitude":-93.468421,
@@ -31,17 +32,34 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mFpBZhqFRkbIKIVbATbFJ_44.854926_-93.468421@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584695,
-    "wof:geomhash":"8e11c1ecf7972bfda3a1c2634499fcae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da6d351f1cc8fe15feead585cd8c4183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":773301477
+        }
+    ],
     "wof:id":773301477,
-    "wof:lastmodified":1472630020,
+    "wof:lastmodified":1492808205,
     "wof:name":"Centex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.649886,45.008914,-93.649886,45.008914",
     "geom:latitude":45.008914,
     "geom:longitude":-93.649886,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511879,
+        85633793,
+        85969183,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7joBEGWNDmoxjrfqy7KnbY_45.008914_-93.649886@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598062,
-    "wof:geomhash":"608c23753a0d2c2a9fa9f6dff1903e9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13b9d42ff7f26c9b5b79a56a24145163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511879,
+            "locality_id":85969183,
+            "region_id":85688727,
+            "venue_id":806427921
+        }
+    ],
     "wof:id":806427921,
-    "wof:lastmodified":1472629151,
+    "wof:lastmodified":1492816879,
     "wof:name":"Sunset Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

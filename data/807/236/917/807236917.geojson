@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.224657,45.563576,-93.224657,45.563576",
     "geom:latitude":45.563576,
     "geom:longitude":-93.224657,
@@ -48,17 +49,34 @@
     ],
     "sg:website":"http://www.lincare.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kcJujw0Nv9uY1X6KeaQgg_45.563576_-93.224657@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605181,
-    "wof:geomhash":"03e4e360ef19570ba77fd02e052b61ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e11670fb732358bb2739d0a2b7027c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":807236917
+        }
+    ],
     "wof:id":807236917,
-    "wof:lastmodified":1472629478,
+    "wof:lastmodified":1492824657,
     "wof:name":"Lincare, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

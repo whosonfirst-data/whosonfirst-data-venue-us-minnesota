@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.300229,45.5517,-94.300229,45.5517",
     "geom:latitude":45.5517,
     "geom:longitude":-94.300229,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514497,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7k4uRP4300AXtJyasN2g7J_45.551700_-94.300229@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594771,
-    "wof:geomhash":"7e9c76daa82c102b401d9b39fcb4c182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8060abcff29bee4411ac02466cfebf86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514497,
+            "region_id":85688727,
+            "venue_id":790300381
+        }
+    ],
     "wof:id":790300381,
-    "wof:lastmodified":1472629482,
+    "wof:lastmodified":1492835521,
     "wof:name":"Krey Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

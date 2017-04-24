@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.45107,44.298515,-94.45107,44.298515",
     "geom:latitude":44.298515,
     "geom:longitude":-94.45107,
@@ -31,17 +32,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gD9hLREHKlUtGueOz8aD3_44.298515_-94.451070@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600120,
-    "wof:geomhash":"6b476ea8973284fb1a835e538e80fa64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c19e713fc68045b28a4685c1e2b1cb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":806674511
+        }
+    ],
     "wof:id":806674511,
-    "wof:lastmodified":1472629660,
+    "wof:lastmodified":1492815475,
     "wof:name":"Robert Stueber Constuction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

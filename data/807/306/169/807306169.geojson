@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.553961,44.855958,-93.553961,44.855958",
     "geom:latitude":44.855958,
     "geom:longitude":-93.553961,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L4KtXR9FJD24QS79MkM2F_44.855958_-93.553961@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605919,
-    "wof:geomhash":"2cf813d985bc2ca47cb33a308d551d93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b5c95c7c6d14a62dfe6155f5e2701cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":807306169
+        }
+    ],
     "wof:id":807306169,
-    "wof:lastmodified":1472629653,
+    "wof:lastmodified":1492822658,
     "wof:name":"Eden Trace Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

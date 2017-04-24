@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.260753,43.966999,-95.260753,43.966999",
     "geom:latitude":43.966999,
     "geom:longitude":-95.260753,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511847,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fsmLOyb90CGKUOdKlsp0p_43.966999_-95.260753@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604836,
-    "wof:geomhash":"7cb014ad100dda07c8749955ae0bad67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4be3f319b2dc04ccde821b4a973d1c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511847,
+            "region_id":85688727,
+            "venue_id":807204029
+        }
+    ],
     "wof:id":807204029,
-    "wof:lastmodified":1472629391,
+    "wof:lastmodified":1492823509,
     "wof:name":"Marlin Piotter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

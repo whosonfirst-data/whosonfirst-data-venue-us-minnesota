@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.214191,48.013605,-96.214191,48.013605",
     "geom:latitude":48.013605,
     "geom:longitude":-96.214191,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510387,
+        85633793,
+        85953151,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23JniWDt1kTC1iC18TPaSN_48.013605_-96.214191@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594000,
-    "wof:geomhash":"cd98bf2cd241e5afb4662afd599f995e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b944fa8a8de1d66d2296c5ecabb13fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404510387,
+            "locality_id":85953151,
+            "region_id":85688727,
+            "venue_id":790205737
+        }
+    ],
     "wof:id":790205737,
-    "wof:lastmodified":1472629313,
+    "wof:lastmodified":1492834445,
     "wof:name":"Lancaster Covenant Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

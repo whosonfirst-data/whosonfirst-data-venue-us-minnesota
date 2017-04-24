@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.585998,45.268083,-94.585998,45.268083",
     "geom:latitude":45.268083,
     "geom:longitude":-94.585998,
@@ -30,17 +31,32 @@
         "dairy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510003,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GqMJ14P0SzBkXHizFcHWF_45.268083_-94.585998@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603675,
-    "wof:geomhash":"831b4c237f7beb730162f6e7262619c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2ce4b4d728c578ad24036ee209056de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404510003,
+            "region_id":85688727,
+            "venue_id":807095985
+        }
+    ],
     "wof:id":807095985,
-    "wof:lastmodified":1472629203,
+    "wof:lastmodified":1492824457,
     "wof:name":"Dan Schumacher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

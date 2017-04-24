@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.204153,45.626463,-94.204153,45.626463",
     "geom:latitude":45.626463,
     "geom:longitude":-94.204153,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514503,
+        85633793,
+        85952441,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XXC53XJVRNwPW0mzgtAam_45.626463_-94.204153@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596483,
-    "wof:geomhash":"9e88b5a92525470f98b30ff3c726a454",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a8d5f3f34fbf47c19cbe35aa6508bee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514503,
+            "locality_id":85952441,
+            "region_id":85688727,
+            "venue_id":790514033
+        }
+    ],
     "wof:id":790514033,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492836387,
     "wof:name":"Riverside Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

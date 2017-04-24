@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.268125,44.830513,-94.268125,44.830513",
     "geom:latitude":44.830513,
     "geom:longitude":-94.268125,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512809,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B42oK4dbLcw0zcewfmdmj_44.830513_-94.268125@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603979,
-    "wof:geomhash":"985a2965efe58f959a5b474123e7f4bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4b3c80935bf0f5da7ac89805a87f0b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512809,
+            "region_id":85688727,
+            "venue_id":807123225
+        }
+    ],
     "wof:id":807123225,
-    "wof:lastmodified":1472629232,
+    "wof:lastmodified":1492823125,
     "wof:name":"Edward Chmielewski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

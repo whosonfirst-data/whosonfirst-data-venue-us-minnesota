@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.087791,44.40115,-95.087791,44.40115",
     "geom:latitude":44.40115,
     "geom:longitude":-95.087791,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512329,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IkyOnkMpsR0T4UCvaNQDf_44.401240_-95.087849@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603683,
-    "wof:geomhash":"c75f6781b57896f1ca8abdeed2188c03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3656f92bb2ce265b64e0916ccfc51e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512329,
+            "region_id":85688727,
+            "venue_id":807096847
+        }
+    ],
     "wof:id":807096847,
-    "wof:lastmodified":1472629196,
+    "wof:lastmodified":1492827491,
     "wof:name":"Elmer Dalms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.77233,44.644978,-92.77233,44.644978",
     "geom:latitude":44.644978,
     "geom:longitude":-92.77233,
@@ -32,17 +33,32 @@
         "coach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511989,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79z1KvSd4nSZQNyvBa0dZ2_44.644978_-92.772330@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605249,
-    "wof:geomhash":"c177cd53017f12f683b36b8dbfcda84b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6895ca6b1aec155ea1d02f0952f29d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511989,
+            "region_id":85688727,
+            "venue_id":807243029
+        }
+    ],
     "wof:id":807243029,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492824126,
     "wof:name":"Carl Bower Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

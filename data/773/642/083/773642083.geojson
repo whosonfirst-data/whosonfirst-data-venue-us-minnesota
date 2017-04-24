@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.398594,47.522735,-95.398594,47.522735",
     "geom:latitude":47.522735,
     "geom:longitude":-95.398594,
@@ -28,17 +29,34 @@
     "sg:postcode":"56621",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511097,
+        85633793,
+        85953367,
+        102087753
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11j7J1i7G8qTgy1Mdkqyf1_47.522735_-95.398594@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587270,
-    "wof:geomhash":"a85edea8e0c87bae9333386543f490bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5cec411ccc183fa291bea401738738e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087753,
+            "localadmin_id":404511097,
+            "locality_id":85953367,
+            "region_id":85688727,
+            "venue_id":773642083
+        }
+    ],
     "wof:id":773642083,
-    "wof:lastmodified":1472630115,
+    "wof:lastmodified":1492807576,
     "wof:name":"Bagley Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

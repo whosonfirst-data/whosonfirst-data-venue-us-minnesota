@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.177125,45.045622,-93.177125,45.045622",
     "geom:latitude":45.045622,
     "geom:longitude":-93.177125,
@@ -30,17 +31,34 @@
         "lake"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514355,
+        85633793,
+        85953025,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Df5C4qJpLtHkaGtR90ZhV_45.045622_-93.177125@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605474,
-    "wof:geomhash":"ee8e31ec77a97265e8c90ad1014bcc1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99f68da6df5ab4bf38aeea226067640c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514355,
+            "locality_id":85953025,
+            "region_id":85688727,
+            "venue_id":807264285
+        }
+    ],
     "wof:id":807264285,
-    "wof:lastmodified":1472629555,
+    "wof:lastmodified":1492826682,
     "wof:name":"Lake Johanna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

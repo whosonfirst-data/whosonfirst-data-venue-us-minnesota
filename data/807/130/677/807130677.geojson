@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.510646,44.268672,-94.510646,44.268672",
     "geom:latitude":44.268672,
     "geom:longitude":-94.510646,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511469,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QE6EHfOFhj7p5F4PZDzuu_44.268672_-94.510646@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604055,
-    "wof:geomhash":"ff7473575e19000c6974e643545e1d6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6872cf5419969ab87af96b9423a757a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511469,
+            "region_id":85688727,
+            "venue_id":807130677
+        }
+    ],
     "wof:id":807130677,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492823031,
     "wof:name":"Brian Hillesheim",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

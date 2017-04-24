@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.644452,45.209063,-93.644452,45.209063",
     "geom:latitude":45.209063,
     "geom:longitude":-93.644452,
@@ -33,17 +34,34 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pljz1yoZQfbtQRKMWPsZL_45.209063_-93.644452@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602529,
-    "wof:geomhash":"ab6502c6a04de92df6a3f720b483bb0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"704d49d95424d51c2d69a7d4a2972606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":806960453
+        }
+    ],
     "wof:id":806960453,
-    "wof:lastmodified":1472629964,
+    "wof:lastmodified":1492816428,
     "wof:name":"Federated Co-Ops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

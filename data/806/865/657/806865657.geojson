@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.188325,46.161076,-94.188325,46.161076",
     "geom:latitude":46.161076,
     "geom:longitude":-94.188325,
@@ -31,17 +32,32 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512027,
+        85633793,
+        102087093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mmJLpGHeCRdqqJwEusztG_46.161076_-94.188325@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601738,
-    "wof:geomhash":"e84513c5e30ac073398616a53f6097af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc850eb760e979c17804eff945b8ee69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087093,
+            "localadmin_id":404512027,
+            "region_id":85688727,
+            "venue_id":806865657
+        }
+    ],
     "wof:id":806865657,
-    "wof:lastmodified":1472629906,
+    "wof:lastmodified":1492817468,
     "wof:name":"Hardrock Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

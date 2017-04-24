@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.53986,47.461659,-92.53986,47.461659",
     "geom:latitude":47.461659,
     "geom:longitude":-92.53986,
@@ -34,17 +35,26 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VH2idyMDpbVWApLOTbRQp_47.461659_-92.539860@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605063,
-    "wof:geomhash":"f5e81a0c717eb2bc5288666a820e0511",
-    "wof:hierarchy":[],
+    "wof:geomhash":"081b6f6b0112fff3194601a474071080",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":807225117
+        }
+    ],
     "wof:id":807225117,
-    "wof:lastmodified":1472629434,
+    "wof:lastmodified":1492822161,
     "wof:name":"Cafe Deluxe",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

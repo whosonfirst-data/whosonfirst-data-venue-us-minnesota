@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.149319,46.819439,-95.149319,46.819439",
     "geom:latitude":46.819439,
     "geom:longitude":-95.149319,
@@ -33,17 +34,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512973,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FX5PoibzCtlh3JGV3BGjF_46.819439_-95.149319@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595342,
-    "wof:geomhash":"105b83140f68e892291a7725ec5827c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7f21cf0e504c58485cdb59824f9c408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512973,
+            "region_id":85688727,
+            "venue_id":790374223
+        }
+    ],
     "wof:id":790374223,
-    "wof:lastmodified":1472629578,
+    "wof:lastmodified":1492835410,
     "wof:name":"Minnesota Pipe Line Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

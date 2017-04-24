@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.923819,47.399205,-92.923819,47.399205",
     "geom:latitude":47.399205,
     "geom:longitude":-92.923819,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85847473,
+        102191575,
+        404513387,
         85633793,
         85968501,
         102087653,
-        85847473
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462605069,
-    "wof:geomhash":"a0f10de02b1417f868a13b195b74c832",
+    "wof:geomhash":"3a6f1d9aef32a9e5c21288bbe08d809e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513387,
             "locality_id":85968501,
             "neighbourhood_id":85847473,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":807225275,
-    "wof:lastmodified":1472629433,
+    "wof:lastmodified":1492822156,
     "wof:name":"McDonald's",
     "wof:parent_id":85847473,
     "wof:placetype":"venue",

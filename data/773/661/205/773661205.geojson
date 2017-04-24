@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.241499,45.632058,-94.241499,45.632058",
     "geom:latitude":45.632058,
     "geom:longitude":-94.241499,
@@ -28,17 +29,34 @@
     "sg:postcode":"56377",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514503,
+        85633793,
+        85952441,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lgcFzBg9H64pJOYtYuqhF_45.632058_-94.241499@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587405,
-    "wof:geomhash":"977ae2b8df009b59f84e64353acc2391",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f230abd867dfff175adbc404a6c81a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514503,
+            "locality_id":85952441,
+            "region_id":85688727,
+            "venue_id":773661205
+        }
+    ],
     "wof:id":773661205,
-    "wof:lastmodified":1472630117,
+    "wof:lastmodified":1492799868,
     "wof:name":"Holland & Frank Employee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

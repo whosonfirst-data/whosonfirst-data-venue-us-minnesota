@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.916098,45.69089,-94.916098,45.69089",
     "geom:latitude":45.69089,
     "geom:longitude":-94.916098,
@@ -31,17 +32,32 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512157,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tmx0jcBASHgJ3nvSsnS86_45.690890_-94.916098@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602626,
-    "wof:geomhash":"f81f3ce587963d6f81a999e03d8481be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71d8f8effa355f2233be70be87ffd923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512157,
+            "region_id":85688727,
+            "venue_id":806971891
+        }
+    ],
     "wof:id":806971891,
-    "wof:lastmodified":1472629971,
+    "wof:lastmodified":1492813998,
     "wof:name":"Jerry Vanhavermaet Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

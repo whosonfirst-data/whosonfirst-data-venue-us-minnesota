@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.493149,46.24317,-93.493149,46.24317",
     "geom:latitude":46.24317,
     "geom:longitude":-93.493149,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510009,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PYKTl99m3UETfyI4d57E4_46.243170_-93.493149@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603534,
-    "wof:geomhash":"c97118adeb5cbb1b38bbf38190e60b36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"543153fbf6dfc317ff0cdba2288bf12a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404510009,
+            "region_id":85688727,
+            "venue_id":807080163
+        }
+    ],
     "wof:id":807080163,
-    "wof:lastmodified":1472629081,
+    "wof:lastmodified":1492825325,
     "wof:name":"North Central Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

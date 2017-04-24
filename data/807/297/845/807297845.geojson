@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.350438,44.733079,-94.350438,44.733079",
     "geom:latitude":44.733079,
     "geom:longitude":-94.350438,
@@ -33,17 +34,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512685,
+        85633793,
+        85952567,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c1vFHC7n9EjREN1Cr7aH5_44.733079_-94.350438@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605829,
-    "wof:geomhash":"43899c5cb233ce835ed2ddcf7dc65dcb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d3ec2b2e922fb39584ea29b12876785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512685,
+            "locality_id":85952567,
+            "region_id":85688727,
+            "venue_id":807297845
+        }
+    ],
     "wof:id":807297845,
-    "wof:lastmodified":1472629630,
+    "wof:lastmodified":1492827417,
     "wof:name":"City Of Brownton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

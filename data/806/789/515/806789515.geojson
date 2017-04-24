@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.773892,48.195308,-96.773892,48.195308",
     "geom:latitude":48.195308,
     "geom:longitude":-96.773892,
@@ -28,17 +29,34 @@
     "sg:postcode":"56762",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513989,
+        85633793,
+        85953457,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vXpXKvI5QJkCGrpi1mL6W_48.195308_-96.773892@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601100,
-    "wof:geomhash":"176a6fa81cba30577da8f5b7852aebea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9414ae93d665d835f87de9fa705bc0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513989,
+            "locality_id":85953457,
+            "region_id":85688727,
+            "venue_id":806789515
+        }
+    ],
     "wof:id":806789515,
-    "wof:lastmodified":1472629823,
+    "wof:lastmodified":1492815246,
     "wof:name":"Schools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

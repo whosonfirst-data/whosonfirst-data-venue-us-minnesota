@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.964417,45.684677,-92.964417,45.684677",
     "geom:latitude":45.684677,
     "geom:longitude":-92.964417,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GOwbAYpvuN5wqTnEXItsh_45.684677_-92.964417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601768,
-    "wof:geomhash":"15d8961ae6171ee9ad95c54a4904708c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"643cebd36bf2db6cd477cfe205e3859b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":806869527
+        }
+    ],
     "wof:id":806869527,
-    "wof:lastmodified":1472629908,
+    "wof:lastmodified":1492814389,
     "wof:name":"Rush City Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

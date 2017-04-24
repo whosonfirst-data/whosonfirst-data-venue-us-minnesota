@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.254608,48.28295,-97.254608,48.28295",
     "geom:latitude":48.28295,
     "geom:longitude":-97.254608,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404482043,
+        85633793,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iLxqCUXbTrRxunWymMKG0_48.282950_-97.254608@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604525,
-    "wof:geomhash":"41004aa1a633a22e3f2f36ed42f8cb0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d16d171bdde52f41bed995710292e100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404482043,
+            "region_id":85688525,
+            "venue_id":807173851
+        }
+    ],
     "wof:id":807173851,
-    "wof:lastmodified":1472629359,
+    "wof:lastmodified":1492825976,
     "wof:name":"Dennis Kosmatka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

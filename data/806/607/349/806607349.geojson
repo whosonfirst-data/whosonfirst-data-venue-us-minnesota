@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.877849,47.500061,-94.877849,47.500061",
     "geom:latitude":47.500061,
     "geom:longitude":-94.877849,
@@ -31,17 +32,32 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511415,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1muWqBbxtgrbLovsBMVbuR_47.500061_-94.877849@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599546,
-    "wof:geomhash":"49a3ced4143706cdbba82899ad739d8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f19399b97f3f39f773810c034371cd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511415,
+            "region_id":85688727,
+            "venue_id":806607349
+        }
+    ],
     "wof:id":806607349,
-    "wof:lastmodified":1472629539,
+    "wof:lastmodified":1492821840,
     "wof:name":"Qwest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

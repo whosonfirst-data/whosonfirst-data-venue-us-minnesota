@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.033089,44.384174,-92.033089,44.384174",
     "geom:latitude":44.384174,
     "geom:longitude":-92.033089,
@@ -39,17 +40,34 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XjiWk9J2x8fpJgxfOraBn_44.384174_-92.033089@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609058,
-    "wof:geomhash":"aebc6485974653e2569ed07cdf74a6a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"746203e188c1c5b302cd176def87fe2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":823235407
+        }
+    ],
     "wof:id":823235407,
-    "wof:lastmodified":1472629136,
+    "wof:lastmodified":1492831058,
     "wof:name":"Jewels On River",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

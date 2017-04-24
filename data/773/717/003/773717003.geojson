@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.334523,45.938126,-95.334523,45.938126",
     "geom:latitude":45.938126,
     "geom:longitude":-95.334523,
@@ -36,17 +37,32 @@
         "travel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513899,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5v9opFM8RLTReMw1EuxrFi_45.938126_-95.334523@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587851,
-    "wof:geomhash":"eccca3ab9a22c4eb86bac59e843d3179",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d2fb6fbf8764a903ae5aacc23ce778e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513899,
+            "region_id":85688727,
+            "venue_id":773717003
+        }
+    ],
     "wof:id":773717003,
-    "wof:lastmodified":1472630136,
+    "wof:lastmodified":1492800630,
     "wof:name":"Affordable Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

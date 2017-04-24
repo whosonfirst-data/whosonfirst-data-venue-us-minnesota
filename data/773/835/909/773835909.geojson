@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.463216,44.017217,-92.463216,44.017217",
     "geom:latitude":44.017217,
     "geom:longitude":-92.463216,
@@ -32,17 +33,34 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WjJNZ0AMKmLO0hOg3vqIF_44.017217_-92.463216@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588771,
-    "wof:geomhash":"9172bf3b85e66542dad4f849cd84230a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4db09551badbba59e5581406dbb88b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773835909
+        }
+    ],
     "wof:id":773835909,
-    "wof:lastmodified":1472630171,
+    "wof:lastmodified":1492800673,
     "wof:name":"Java Dreams Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

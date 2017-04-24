@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.405074,48.603043,-93.405074,48.603043",
     "geom:latitude":48.603043,
     "geom:longitude":-93.405074,
@@ -32,17 +33,34 @@
         "mail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BgYq5fHDTuQ02dgjv50g2_48.603043_-93.405074@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599719,
-    "wof:geomhash":"5569ae2841232664554428495ccb036e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7563cc52506980f0be4fc5de869177a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":806627955
+        }
+    ],
     "wof:id":806627955,
-    "wof:lastmodified":1472629572,
+    "wof:lastmodified":1492815698,
     "wof:name":"Border Boxes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

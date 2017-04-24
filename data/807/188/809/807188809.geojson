@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.861974,47.453663,-94.861974,47.453663",
     "geom:latitude":47.453663,
     "geom:longitude":-94.861974,
@@ -36,17 +37,34 @@
         "alignment-frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gwk5VwsdVgtlBeDAU9S0A_47.453731_-94.861899@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604679,
-    "wof:geomhash":"4ae2980578dc67598794069f0eeba8c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"522e2ebac83a1bb8bc75402f4cea5275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":807188809
+        }
+    ],
     "wof:id":807188809,
-    "wof:lastmodified":1472629404,
+    "wof:lastmodified":1492822234,
     "wof:name":"Buster's Frontend Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

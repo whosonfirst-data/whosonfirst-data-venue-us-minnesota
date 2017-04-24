@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.227363,45.619276,-94.227363,45.619276",
     "geom:latitude":45.619276,
     "geom:longitude":-94.227363,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514503,
+        85633793,
+        85952441,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WSnq0jsqt6ioAZzFKvNHw_45.619276_-94.227363@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585028,
-    "wof:geomhash":"c0a13e7a5b88b331106ea7c8aecd6fb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6910d782e5e78af51176368a34304e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514503,
+            "locality_id":85952441,
+            "region_id":85688727,
+            "venue_id":773347723
+        }
+    ],
     "wof:id":773347723,
-    "wof:lastmodified":1472630024,
+    "wof:lastmodified":1492806598,
     "wof:name":"Sartell City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

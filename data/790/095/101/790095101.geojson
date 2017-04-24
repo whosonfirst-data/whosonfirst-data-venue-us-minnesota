@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.835852,45.377766,-92.835852,45.377766",
     "geom:latitude":45.377766,
     "geom:longitude":-92.835852,
@@ -33,17 +34,34 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12rfP0X3exLxi0NvHdyMRd_45.377766_-92.835852@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593091,
-    "wof:geomhash":"bf037f078f5061508124d998fb47b82d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3fc129d02fe8a16d5582e773363af45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":790095101
+        }
+    ],
     "wof:id":790095101,
-    "wof:lastmodified":1472629123,
+    "wof:lastmodified":1492833930,
     "wof:name":"Speed Runs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

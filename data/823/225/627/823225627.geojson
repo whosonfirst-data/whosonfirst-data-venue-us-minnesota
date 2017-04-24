@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.580383,47.398665,-92.580383,47.398665",
     "geom:latitude":47.398665,
     "geom:longitude":-92.580383,
@@ -38,17 +39,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rqXRA6Eo4DeDyECkxLss6_47.398665_-92.580383@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608850,
-    "wof:geomhash":"6be1a2afab70ed6488eb3288742529de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"231625a4b1d8b932a47eed6d2e4a338a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823225627
+        }
+    ],
     "wof:id":823225627,
-    "wof:lastmodified":1472629116,
+    "wof:lastmodified":1492828059,
     "wof:name":"Centennial Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

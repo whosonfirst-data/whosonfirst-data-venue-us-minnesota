@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.888262,47.635939,-95.888262,47.635939",
     "geom:latitude":47.635939,
     "geom:longitude":-95.888262,
@@ -39,17 +40,34 @@
         "preparation-business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510195,
+        85633793,
+        85968373,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GSHt75qg7E26xoTFuaO3a_47.635939_-95.888262@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609463,
-    "wof:geomhash":"048f5bc3937c9cb4c6a588e33d99bb74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0c86726a03f2cebf8338fe2af64259d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404510195,
+            "locality_id":85968373,
+            "region_id":85688727,
+            "venue_id":823256239
+        }
+    ],
     "wof:id":823256239,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492828685,
     "wof:name":"Phil Thompson & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

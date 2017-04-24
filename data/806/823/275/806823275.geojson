@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.591931,45.151554,-93.591931,45.151554",
     "geom:latitude":45.151554,
     "geom:longitude":-93.591931,
@@ -31,17 +32,34 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511835,
+        85633793,
+        85969223,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ml9gZ3U1RV8RBmIRK8ZdO_45.151554_-93.591931@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601369,
-    "wof:geomhash":"394b337494344c8863fa0744942bed98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d18050e09fb54427ba0f8269762897ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511835,
+            "locality_id":85969223,
+            "region_id":85688727,
+            "venue_id":806823275
+        }
+    ],
     "wof:id":806823275,
-    "wof:lastmodified":1472629850,
+    "wof:lastmodified":1492818078,
     "wof:name":"Casserly Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

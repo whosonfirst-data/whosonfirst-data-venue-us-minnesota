@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.152787,44.770053,-94.152787,44.770053",
     "geom:latitude":44.770053,
     "geom:longitude":-94.152787,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://www.ml.doc.state.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74oUTS5HezZFVvWz2LA9aI_44.770053_-94.152787@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606004,
-    "wof:geomhash":"29f48919de6db02fa0e3eb4e3b425e4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49598d06007bb383eb45dcb66c31913e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":807314465
+        }
+    ],
     "wof:id":807314465,
-    "wof:lastmodified":1472629698,
+    "wof:lastmodified":1492822431,
     "wof:name":"Department Of Corrections Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

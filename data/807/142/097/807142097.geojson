@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.121984,44.656982,-94.121984,44.656982",
     "geom:latitude":44.656982,
     "geom:longitude":-94.121984,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510483,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IhGmRPXohFlJb712W4E6R_44.656982_-94.121984@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604181,
-    "wof:geomhash":"dd1c5aa727fa7b547e57dab73874d314",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1e7447fad566448a5047db41ca566df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404510483,
+            "region_id":85688727,
+            "venue_id":807142097
+        }
+    ],
     "wof:id":807142097,
-    "wof:lastmodified":1472629270,
+    "wof:lastmodified":1492823652,
     "wof:name":"Charles Woehler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

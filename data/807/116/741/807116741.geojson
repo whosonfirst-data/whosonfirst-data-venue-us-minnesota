@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.028322,44.052014,-93.028322,44.052014",
     "geom:latitude":44.052014,
     "geom:longitude":-93.028322,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513727,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T3VzBeWRdKDYdDii7IRiv_44.052014_-93.028322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603906,
-    "wof:geomhash":"e6041a4d34960073aa0e6baf36f14ad7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e529fc56c9f10b681e013693c7a8b74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513727,
+            "region_id":85688727,
+            "venue_id":807116741
+        }
+    ],
     "wof:id":807116741,
-    "wof:lastmodified":1472629242,
+    "wof:lastmodified":1492825935,
     "wof:name":"Lawrence Christey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

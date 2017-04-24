@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.095021,44.936159,-93.095021,44.936159",
     "geom:latitude":44.936159,
     "geom:longitude":-93.095021,
@@ -31,19 +32,38 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53AKEVx2tKkD801pGLBFE8_44.936159_-93.095021@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596214,
-    "wof:geomhash":"3f32a47d7da0276ef0fb3499490fb18f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be3e0cd4df7762e09cbbaeceed3abcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":790482539
+        }
+    ],
     "wof:id":790482539,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492836915,
     "wof:name":"Scottish Rite Temple",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

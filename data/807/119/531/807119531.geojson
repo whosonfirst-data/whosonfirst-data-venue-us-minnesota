@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.029071,44.379666,-92.029071,44.379666",
     "geom:latitude":44.379666,
     "geom:longitude":-92.029071,
@@ -33,17 +34,34 @@
         "police"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YYmf8JnV1aMUbJ8PTe5nu_44.379089_-92.029150@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603933,
-    "wof:geomhash":"2789711cd86a6ec0b5abdb7c3af3aa58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d43e763d7d411f24823fc2ba4d6ea4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":807119531
+        }
+    ],
     "wof:id":807119531,
-    "wof:lastmodified":1472629235,
+    "wof:lastmodified":1492825347,
     "wof:name":"Wabasha County Sheriff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

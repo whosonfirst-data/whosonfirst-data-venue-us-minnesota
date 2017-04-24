@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.340369,47.487114,-92.340369,47.487114",
     "geom:latitude":47.487114,
     "geom:longitude":-92.340369,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rsFJbD9CGMboFseF0WBKG_47.487114_-92.340369@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583911,
-    "wof:geomhash":"46526ff286743849f6eee820660a94b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7663970e1d5c2631eb1349b1e67a23fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773196665
+        }
+    ],
     "wof:id":773196665,
-    "wof:lastmodified":1472629955,
+    "wof:lastmodified":1492799431,
     "wof:name":"S Contracting Inc",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

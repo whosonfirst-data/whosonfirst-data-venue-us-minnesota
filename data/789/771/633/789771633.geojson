@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.07242,46.280404,-96.07242,46.280404",
     "geom:latitude":46.280404,
     "geom:longitude":-96.07242,
@@ -32,17 +33,34 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P1myfc7jsIoGO1qFuKenh_46.280404_-96.072420@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590413,
-    "wof:geomhash":"87e74f3d929cf7bfa36ecb48531d249d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c50328759878481485e0a69f894aa72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":789771633
+        }
+    ],
     "wof:id":789771633,
-    "wof:lastmodified":1472629343,
+    "wof:lastmodified":1492810338,
     "wof:name":"Field Of Beans Espresso",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.252614,44.289311,-93.252614,44.289311",
     "geom:latitude":44.289311,
     "geom:longitude":-93.252614,
@@ -31,17 +32,34 @@
         "operator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AOt5qsmJ189vrRFCY5UrN_44.289311_-93.252614@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587274,
-    "wof:geomhash":"678aa489a8d4c7f65cc667c618d530c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"233d48be2b14144de791fb344dee0080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773642725
+        }
+    ],
     "wof:id":773642725,
-    "wof:lastmodified":1472630117,
+    "wof:lastmodified":1492807578,
     "wof:name":"Nathan Whitlow Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

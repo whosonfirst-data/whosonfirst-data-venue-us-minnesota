@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.274497,44.888943,-93.274497,44.888943",
     "geom:latitude":44.888943,
     "geom:longitude":-93.274497,
@@ -33,17 +34,34 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eHL5yqfjIzuMOCWv4wfMw_44.888943_-93.274497@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584331,
-    "wof:geomhash":"a31be1baabacdc853df27b673fb1d0ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0f29ca89692921fd0ea1883df8515cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":773255301
+        }
+    ],
     "wof:id":773255301,
-    "wof:lastmodified":1472629992,
+    "wof:lastmodified":1492809012,
     "wof:name":"Steven Mc Ginness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

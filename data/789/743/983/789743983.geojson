@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.105822,44.980179,-93.105822,44.980179",
     "geom:latitude":44.980179,
     "geom:longitude":-93.105822,
@@ -34,11 +35,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        1108800551
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,23 +48,33 @@
     },
     "wof:country":"US",
     "wof:created":1462590207,
-    "wof:geomhash":"b3d704d98132c14d0a86bd5cd6be4477",
+    "wof:geomhash":"14f04abb5e2aef2408004dba195bd552",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":789743983
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800551,
             "region_id":85688727,
             "venue_id":789743983
         }
     ],
     "wof:id":789743983,
-    "wof:lastmodified":1472629275,
+    "wof:lastmodified":1492810870,
     "wof:name":"Direct Airport Taxi Svc",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

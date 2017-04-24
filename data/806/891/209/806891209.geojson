@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.706891,44.829105,-95.706891,44.829105",
     "geom:latitude":44.829105,
     "geom:longitude":-95.706891,
@@ -31,17 +32,32 @@
         "bean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514581,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EHj0uWhOqyVhFMPlMlDyb_44.829105_-95.706891@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601942,
-    "wof:geomhash":"99f25334b67bf920517a10aeef2a6fab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b344de843262d43c1a7d477261f43c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404514581,
+            "region_id":85688727,
+            "venue_id":806891209
+        }
+    ],
     "wof:id":806891209,
-    "wof:lastmodified":1472629912,
+    "wof:lastmodified":1492814893,
     "wof:name":"Curtis Skulstad",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

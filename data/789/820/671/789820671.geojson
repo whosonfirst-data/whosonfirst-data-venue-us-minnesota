@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.498279,45.805203,-96.498279,45.805203",
     "geom:latitude":45.805203,
     "geom:longitude":-96.498279,
@@ -28,17 +29,34 @@
     "sg:postcode":"56296",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c6AkHEQcZoITNHA4PaiFu_45.805203_-96.498279@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590794,
-    "wof:geomhash":"d8dbfda81ffe87b74784141bba0ff22b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2626ed73c899b7f0997ee61e97925b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":789820671
+        }
+    ],
     "wof:id":789820671,
-    "wof:lastmodified":1472629409,
+    "wof:lastmodified":1492813306,
     "wof:name":"Verizon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

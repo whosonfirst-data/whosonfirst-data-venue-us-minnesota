@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.880563,45.356955,-92.880563,45.356955",
     "geom:latitude":45.356955,
     "geom:longitude":-92.880563,
@@ -33,17 +34,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ib9EFKNYsPkYG5DIT43lI_45.356955_-92.880563@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587613,
-    "wof:geomhash":"f8e03a8fb4cd704e18960c680b292e5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cdb1459f471aba9c09e4bd55c8eed0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773689787
+        }
+    ],
     "wof:id":773689787,
-    "wof:lastmodified":1472630132,
+    "wof:lastmodified":1492800958,
     "wof:name":"George Johnson Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.06324,46.90734,-95.06324,46.90734",
     "geom:latitude":46.90734,
     "geom:longitude":-95.06324,
@@ -44,17 +45,34 @@
         "mach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n5bJUHwDQhvffJ96LnQm3_46.907340_-95.063240@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583475,
-    "wof:geomhash":"7c8dda75668823658bf863cd464735f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43189cdfadea893d1075b213595b468d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":773146023
+        }
+    ],
     "wof:id":773146023,
-    "wof:lastmodified":1472629707,
+    "wof:lastmodified":1492799273,
     "wof:name":"B & E Fiberglass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.64608,44.936656,-93.64608,44.936656",
     "geom:latitude":44.936656,
     "geom:longitude":-93.64608,
@@ -32,17 +33,34 @@
         "engine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511891,
+        85633793,
+        85969151,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KGTpakWfMkBQO3MpVVDLx_44.936656_-93.646080@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598928,
-    "wof:geomhash":"0c4341d78a63c05967579acfd8f02cab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a674b1f5f9212b2ebe9891699f930605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511891,
+            "locality_id":85969151,
+            "region_id":85688727,
+            "venue_id":806536581
+        }
+    ],
     "wof:id":806536581,
-    "wof:lastmodified":1472629402,
+    "wof:lastmodified":1492821497,
     "wof:name":"Small Engine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

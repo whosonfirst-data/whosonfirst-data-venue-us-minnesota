@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.418682,43.959334,-92.418682,43.959334",
     "geom:latitude":43.959334,
     "geom:longitude":-92.418682,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512579,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aigkJhr8a16lrQz3aqc1p_43.959334_-92.418682@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604311,
-    "wof:geomhash":"4e5ae405f691883550e3fb8d189c5f08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bd7dd9e5e8cfd93da8dec3a70227471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512579,
+            "region_id":85688727,
+            "venue_id":807153963
+        }
+    ],
     "wof:id":807153963,
-    "wof:lastmodified":1472629300,
+    "wof:lastmodified":1492822796,
     "wof:name":"Jeff Schoenfelder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

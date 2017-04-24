@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.515332,43.951889,-92.515332,43.951889",
     "geom:latitude":43.951889,
     "geom:longitude":-92.515332,
@@ -50,17 +51,32 @@
         "mirror"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512593,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ewDQ3EqJeDdaMRaEsWkhZ_43.951889_-92.515332@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608971,
-    "wof:geomhash":"67b77a5e147d2919bc651e26eb595714",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a58994d6a17c16e5cf7942d47d282cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512593,
+            "region_id":85688727,
+            "venue_id":823231087
+        }
+    ],
     "wof:id":823231087,
-    "wof:lastmodified":1472629123,
+    "wof:lastmodified":1492830758,
     "wof:name":"Affordable Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

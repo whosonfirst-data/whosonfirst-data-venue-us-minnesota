@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.724224,44.295131,-94.724224,44.295131",
     "geom:latitude":44.295131,
     "geom:longitude":-94.724224,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509331,
+        85633793,
+        85952697,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oGejqwejxWvSTpgi6mYcN_44.295131_-94.724224@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604046,
-    "wof:geomhash":"344478cf8dc9228424fdc9d611c11ab0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e01e94d246078886d96a715e0c5044be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509331,
+            "locality_id":85952697,
+            "region_id":85688727,
+            "venue_id":807129893
+        }
+    ],
     "wof:id":807129893,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492826248,
     "wof:name":"Gilbert Maas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

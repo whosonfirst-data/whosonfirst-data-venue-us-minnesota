@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.338429,45.151643,-93.338429,45.151643",
     "geom:latitude":45.151643,
     "geom:longitude":-93.338429,
@@ -63,17 +64,34 @@
     ],
     "sg:website":"http://www.construct-allcorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ij0hfCtxZVrTTRQ4aSp2f_45.151643_-93.338429@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605859,
-    "wof:geomhash":"d5ec430c42eac65b4cbcd701607d993d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ccd715e63d687001681008f8363de4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807300455
+        }
+    ],
     "wof:id":807300455,
-    "wof:lastmodified":1472629624,
+    "wof:lastmodified":1492825891,
     "wof:name":"Construct All Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

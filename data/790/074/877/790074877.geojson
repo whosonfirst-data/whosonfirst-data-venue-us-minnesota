@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.455688,47.169182,-92.455688,47.169182",
     "geom:latitude":47.169182,
     "geom:longitude":-92.455688,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nJPkolufv8Rk7gZrdmTEQ_47.169182_-92.455688@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592931,
-    "wof:geomhash":"d1f338178654c3e3932a380e4511ebd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8432993228fa0cb9743d55c280a0f843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790074877
+        }
+    ],
     "wof:id":790074877,
-    "wof:lastmodified":1472629093,
+    "wof:lastmodified":1492836962,
     "wof:name":"Riversedge Crafts",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

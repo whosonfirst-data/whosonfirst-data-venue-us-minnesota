@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.540318,44.777866,-93.540318,44.777866",
     "geom:latitude":44.777866,
     "geom:longitude":-93.540318,
@@ -31,17 +32,34 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lmT5nm4DJfgYLSs7lLPRF_44.777866_-93.540318@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609186,
-    "wof:geomhash":"ac28cba63b952a6bf0db81a220edea85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eb5acee1f17e75c8b3509e4b024fc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":823242099
+        }
+    ],
     "wof:id":823242099,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492828600,
     "wof:name":"Appel Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

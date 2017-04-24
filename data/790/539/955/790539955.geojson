@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.995886,45.328505,-92.995886,45.328505",
     "geom:latitude":45.328505,
     "geom:longitude":-92.995886,
@@ -31,17 +32,34 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vc8aJWgHPxCaTJZCTEH9R_45.328505_-92.995886@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596705,
-    "wof:geomhash":"c6f08065c1279849bab23e73adbcc7ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e4a443062bf7acb5a806f46286168ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":790539955
+        }
+    ],
     "wof:id":790539955,
-    "wof:lastmodified":1472629821,
+    "wof:lastmodified":1492835445,
     "wof:name":"Lees Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

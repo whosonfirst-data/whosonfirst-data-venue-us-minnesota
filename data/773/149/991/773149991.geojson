@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.990745,44.173624,-93.990745,44.173624",
     "geom:latitude":44.173624,
     "geom:longitude":-93.990745,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XEGiwk7bVDaKRLYU7nLMv_44.173624_-93.990745@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583504,
-    "wof:geomhash":"fd9996de060cfa607126a520786b204a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee77a97244534ebeb209b70398df2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":773149991
+        }
+    ],
     "wof:id":773149991,
-    "wof:lastmodified":1472629730,
+    "wof:lastmodified":1492808148,
     "wof:name":"Minnesota Sno Flakes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

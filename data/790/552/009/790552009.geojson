@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.063639,45.595681,-93.063639,45.595681",
     "geom:latitude":45.595681,
     "geom:longitude":-93.063639,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509099,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6U92LRige5ZoDDnsy6aCO8_45.595681_-93.063639@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596811,
-    "wof:geomhash":"86f9ba274bbb01251194ba52be00b47c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bfc988d40a6c2d349026300025f3968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509099,
+            "region_id":85688727,
+            "venue_id":790552009
+        }
+    ],
     "wof:id":790552009,
-    "wof:lastmodified":1472629829,
+    "wof:lastmodified":1492835344,
     "wof:name":"Countryside Home Delivery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

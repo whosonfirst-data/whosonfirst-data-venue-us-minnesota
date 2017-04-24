@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.973847,45.557078,-92.973847,45.557078",
     "geom:latitude":45.557078,
     "geom:longitude":-92.973847,
@@ -31,17 +32,34 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Eq8654Gyxyyj2UYWDZPcZ_45.557078_-92.973847@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582407,
-    "wof:geomhash":"77fa48d89e0e34fbc1aac6ce32978573",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9139b45e53fc439d1d7dcddaa8197672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":773015653
+        }
+    ],
     "wof:id":773015653,
-    "wof:lastmodified":1472629005,
+    "wof:lastmodified":1492799086,
     "wof:name":"Enron Energy Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

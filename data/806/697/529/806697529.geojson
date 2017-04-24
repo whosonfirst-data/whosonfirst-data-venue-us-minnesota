@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.960423,45.730793,-92.960423,45.730793",
     "geom:latitude":45.730793,
     "geom:longitude":-92.960423,
@@ -31,17 +32,34 @@
         "development"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513381,
+        85633793,
+        85953269,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xij9U6AVTHydemiFOJMbE_45.730793_-92.960423@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600315,
-    "wof:geomhash":"f494eac94d62297db482d030c579e07d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d1b42e46ef6ba3b937a679923bdf592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513381,
+            "locality_id":85953269,
+            "region_id":85688727,
+            "venue_id":806697529
+        }
+    ],
     "wof:id":806697529,
-    "wof:lastmodified":1472629707,
+    "wof:lastmodified":1492820306,
     "wof:name":"Timber Ridge II",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

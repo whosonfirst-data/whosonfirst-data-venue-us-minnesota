@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.18728,48.699899,-96.18728,48.699899",
     "geom:latitude":48.699899,
     "geom:longitude":-96.18728,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512917,
+        85633793,
+        85953423,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HJWK8RH7cciVcYZOjpIpn_48.699899_-96.187280@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585524,
-    "wof:geomhash":"2ce7ad3dc044711cf19f08523696b877",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f13321b30ca11e527df643997d8f51fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512917,
+            "locality_id":85953423,
+            "region_id":85688727,
+            "venue_id":773414193
+        }
+    ],
     "wof:id":773414193,
-    "wof:lastmodified":1472630045,
+    "wof:lastmodified":1492801501,
     "wof:name":"Greenwood Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

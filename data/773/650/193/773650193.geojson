@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.643382,44.036314,-92.643382,44.036314",
     "geom:latitude":44.036314,
     "geom:longitude":-92.643382,
@@ -33,17 +34,34 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512431,
+        85633793,
+        85953523,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0snJ268s7tgBTqjQsw8skT_44.036314_-92.643382@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587329,
-    "wof:geomhash":"a5eefc9186c839c9fb9c08127d408841",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c4a59e2ee2111dc240a2a15587ab935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512431,
+            "locality_id":85953523,
+            "region_id":85688727,
+            "venue_id":773650193
+        }
+    ],
     "wof:id":773650193,
-    "wof:lastmodified":1472630116,
+    "wof:lastmodified":1492807655,
     "wof:name":"Bradshaw Lawn Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.470601,43.776011,-95.470601,43.776011",
     "geom:latitude":43.776011,
     "geom:longitude":-95.470601,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510261,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YVMbKmYdWkqnmX1kEBZZC_43.776011_-95.470601@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609171,
-    "wof:geomhash":"93448d5648b17b88db3b94e8f7d7cfee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cb94806e9dd70244c789aa6e083e55d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510261,
+            "region_id":85688727,
+            "venue_id":823241245
+        }
+    ],
     "wof:id":823241245,
-    "wof:lastmodified":1472629138,
+    "wof:lastmodified":1492828901,
     "wof:name":"R & J Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

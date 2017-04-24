@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.34388,47.532902,-92.34388,47.532902",
     "geom:latitude":47.532902,
     "geom:longitude":-92.34388,
@@ -37,17 +38,26 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W7n81EgXtFhlxTUKA1BLf_47.532902_-92.343880@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608789,
-    "wof:geomhash":"a36834167af3621751dd76d231933ae7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d3668bfb961275cf7ce134e8b5012e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":823223017
+        }
+    ],
     "wof:id":823223017,
-    "wof:lastmodified":1472629075,
+    "wof:lastmodified":1492830893,
     "wof:name":"Laurentian Realty",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

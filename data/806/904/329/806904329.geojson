@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.350769,45.025335,-93.350769,45.025335",
     "geom:latitude":45.025335,
     "geom:longitude":-93.350769,
@@ -33,17 +34,45 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709,
+        404511901,
+        85969129
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ld604ilNVYy5lDUXpwNgS_45.025335_-93.350769@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602042,
-    "wof:geomhash":"d61265edbbc20420368dae88b7f20884",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0713ed0d67c5db7490dd7a7ce06f03f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":806904329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511901,
+            "locality_id":85969129,
+            "region_id":85688727,
+            "venue_id":806904329
+        }
+    ],
     "wof:id":806904329,
-    "wof:lastmodified":1472629927,
+    "wof:lastmodified":1492813957,
     "wof:name":"Azuma Sports",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

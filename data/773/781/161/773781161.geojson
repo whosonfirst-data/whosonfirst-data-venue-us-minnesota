@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.450319,48.621327,-97.450319,48.621327",
     "geom:latitude":48.621327,
     "geom:longitude":-97.450319,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479311,
+        85633793,
+        85981937,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aT8Jso8Xu8iwPkuVcCV5I_48.621327_-97.450319@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588326,
-    "wof:geomhash":"d84a0af79eb98b24bdb80e6ef05a4f71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec94f5911744642f6f72eff6cfcd5320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404479311,
+            "locality_id":85981937,
+            "region_id":85688525,
+            "venue_id":773781161
+        }
+    ],
     "wof:id":773781161,
-    "wof:lastmodified":1472630155,
+    "wof:lastmodified":1492800694,
     "wof:name":"Helt's Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

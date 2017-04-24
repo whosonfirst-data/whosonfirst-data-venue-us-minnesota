@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.776028,47.797493,-93.776028,47.797493",
     "geom:latitude":47.797493,
     "geom:longitude":-93.776028,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513137,
+        85633793,
+        102086963
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lPaJNWR9NxegEEAKooNgh_47.797493_-93.776028@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583140,
-    "wof:geomhash":"5f5e54fabb1b37ea3a198027c72e1917",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ce6b90f5db1391e7e34b6e40dcd800a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086963,
+            "localadmin_id":404513137,
+            "region_id":85688727,
+            "venue_id":773098153
+        }
+    ],
     "wof:id":773098153,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492807791,
     "wof:name":"Riverside Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.882128,46.282255,-95.882128,46.282255",
     "geom:latitude":46.282255,
     "geom:longitude":-95.882128,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513057,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IOPieBMpggaAllbNEbnt8_46.282255_-95.882128@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609496,
-    "wof:geomhash":"28db43f9140500587731963ff2f88f12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a9dd9e31452018792030da9fed2ccc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513057,
+            "region_id":85688727,
+            "venue_id":823257779
+        }
+    ],
     "wof:id":823257779,
-    "wof:lastmodified":1472629230,
+    "wof:lastmodified":1492830356,
     "wof:name":"James Schei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

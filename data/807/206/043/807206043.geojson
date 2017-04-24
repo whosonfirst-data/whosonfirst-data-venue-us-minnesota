@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.719317,43.557724,-93.719317,43.557724",
     "geom:latitude":43.557724,
     "geom:longitude":-93.719317,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514089,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jpdh657tIaqtQRMOZz96H_43.557724_-93.719317@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604858,
-    "wof:geomhash":"b7ea72046215b99a5fd04891ed1f24f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1643d99a429d41b7ea24b40e3fd73b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514089,
+            "region_id":85688727,
+            "venue_id":807206043
+        }
+    ],
     "wof:id":807206043,
-    "wof:lastmodified":1472629399,
+    "wof:lastmodified":1492823708,
     "wof:name":"David Sitzman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

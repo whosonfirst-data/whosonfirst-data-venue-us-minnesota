@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.642099,44.053999,-91.642099,44.053999",
     "geom:latitude":44.053999,
     "geom:longitude":-91.642099,
@@ -31,17 +32,34 @@
         "handicapped"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Na4M29rh8TIKZ8UHEnJsZ_44.053999_-91.642099@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591651,
-    "wof:geomhash":"1fe69561010b0f06558a27fdc98d197e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eee22da409418df5e11964cc3c1b88b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":789923303
+        }
+    ],
     "wof:id":789923303,
-    "wof:lastmodified":1472629618,
+    "wof:lastmodified":1492813113,
     "wof:name":"Handi-Cab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.854057,44.196847,-92.854057,44.196847",
     "geom:latitude":44.196847,
     "geom:longitude":-92.854057,
@@ -31,19 +32,38 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85824013,
+        102191575,
+        404512193,
+        85633793,
+        85952861,
+        102087843,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ObSCvKvhuObuoqdVwgCva_44.196847_-92.854057@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584206,
-    "wof:geomhash":"0e6f4c85adda1fd9d65149d973c70b0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8a18fef8d50262f4920bd6fa1b62313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087843,
+            "localadmin_id":404512193,
+            "locality_id":85952861,
+            "neighbourhood_id":85824013,
+            "region_id":85688727,
+            "venue_id":773238785
+        }
+    ],
     "wof:id":773238785,
-    "wof:lastmodified":1472629982,
+    "wof:lastmodified":1492806978,
     "wof:name":"Big Blue Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85824013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

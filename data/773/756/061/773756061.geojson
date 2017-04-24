@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.775866,45.079008,-93.775866,45.079008",
     "geom:latitude":45.079008,
     "geom:longitude":-93.775866,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zTNI0oFSLUv1tBgGgjAyV_45.079008_-93.775866@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588140,
-    "wof:geomhash":"ab21410435d62b29bdb3b8ae74d49f4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2a266b5e1fba86c4932c60813503efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":773756061
+        }
+    ],
     "wof:id":773756061,
-    "wof:lastmodified":1472630148,
+    "wof:lastmodified":1492805987,
     "wof:name":"New Directions Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

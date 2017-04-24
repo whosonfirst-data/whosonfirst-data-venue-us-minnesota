@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.465974,44.017254,-92.465974,44.017254",
     "geom:latitude":44.017254,
     "geom:longitude":-92.465974,
@@ -28,17 +29,34 @@
     "sg:postcode":"55902",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59zuZfQOLeXQPLqvd13Qxa_44.017254_-92.465974@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597712,
-    "wof:geomhash":"64ef63aaefb03cc01a23fd497c48ec69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79a2f8e8183f82e33e1917caec076e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806384019
+        }
+    ],
     "wof:id":806384019,
-    "wof:lastmodified":1472628988,
+    "wof:lastmodified":1492820081,
     "wof:name":"Hotel Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

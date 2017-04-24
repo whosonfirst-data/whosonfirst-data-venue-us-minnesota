@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.910432,45.406827,-92.910432,45.406827",
     "geom:latitude":45.406827,
     "geom:longitude":-92.910432,
@@ -32,17 +33,32 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6giWdi2NjWQHEEA2oBLFt2_45.406827_-92.910432@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594037,
-    "wof:geomhash":"7b52c67c48484abdb4d4b59860524367",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4db4e77fad9a22e9146c315b66a8a0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":790211523
+        }
+    ],
     "wof:id":790211523,
-    "wof:lastmodified":1472629305,
+    "wof:lastmodified":1492831457,
     "wof:name":"Chisago Lakes Sanitation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

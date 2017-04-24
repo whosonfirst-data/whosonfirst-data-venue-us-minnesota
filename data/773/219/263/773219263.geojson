@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.629574,46.703019,-96.629574,46.703019",
     "geom:latitude":46.703019,
     "geom:longitude":-96.629574,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688525,
+        85877329,
+        102191575,
+        404478877,
         85633793,
         85982177,
         102082073,
-        85877329
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462584069,
-    "wof:geomhash":"d5648f3a9acc6cd4720025b962f21d25",
+    "wof:geomhash":"3c27c1f025a658a45f10f459c5ba6a85",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082073,
+            "localadmin_id":404478877,
             "locality_id":85982177,
             "neighbourhood_id":85877329,
             "region_id":85688525,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":773219263,
-    "wof:lastmodified":1472629961,
+    "wof:lastmodified":1492804226,
     "wof:name":"B & C Transport",
     "wof:parent_id":85877329,
     "wof:placetype":"venue",

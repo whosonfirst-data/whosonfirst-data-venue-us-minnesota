@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.166676,46.087014,-95.166676,46.087014",
     "geom:latitude":46.087014,
     "geom:longitude":-95.166676,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509595,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pL8YCFYr77itixiThiGIs_46.087014_-95.166676@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603177,
-    "wof:geomhash":"1dcf86b9e0b48c50442e76088e6f2a52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5adc5bccc1fe20fb1343eff1aa6b89e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509595,
+            "region_id":85688727,
+            "venue_id":807036713
+        }
+    ],
     "wof:id":807036713,
-    "wof:lastmodified":1472629010,
+    "wof:lastmodified":1492827111,
     "wof:name":"GTS Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

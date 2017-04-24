@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.507868,44.981012,-93.507868,44.981012",
     "geom:latitude":44.981012,
     "geom:longitude":-93.507868,
@@ -31,17 +32,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33AOptVIRoBuVAH6H3ryr1_44.981012_-93.507868@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594894,
-    "wof:geomhash":"76ab89dc3a18181cbf2d60349793bb9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efd82e2ff7903a560556e2a807c4b55c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":790316669
+        }
+    ],
     "wof:id":790316669,
-    "wof:lastmodified":1472629514,
+    "wof:lastmodified":1492832562,
     "wof:name":"Power Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

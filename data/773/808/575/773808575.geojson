@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.323445,46.088142,-95.323445,46.088142",
     "geom:latitude":46.088142,
     "geom:longitude":-95.323445,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513925,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DXPmxgz4BE4H2gfjE2W6g_46.088142_-95.323445@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588539,
-    "wof:geomhash":"e3e78f171e62494c39f97bca8d94ab04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"332361308dae2e71063a85ad231e1bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513925,
+            "region_id":85688727,
+            "venue_id":773808575
+        }
+    ],
     "wof:id":773808575,
-    "wof:lastmodified":1472630166,
+    "wof:lastmodified":1492799704,
     "wof:name":"Charles Bettermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

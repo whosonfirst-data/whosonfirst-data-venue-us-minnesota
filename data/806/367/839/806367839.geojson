@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.92868,47.488737,-94.92868,47.488737",
     "geom:latitude":47.488737,
     "geom:longitude":-94.92868,
@@ -32,17 +33,32 @@
     ],
     "sg:website":"www.fedexfreight.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511387,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VmUcStNKfyE2pjQw0DrSE_47.488737_-94.928680@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597582,
-    "wof:geomhash":"df3439ea7f81d95a3e1e5a4f70e9da02",
-    "wof:hierarchy":[],
+    "wof:geomhash":"16b99711aaf54da68a42e244a4358bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511387,
+            "region_id":85688727,
+            "venue_id":806367839
+        }
+    ],
     "wof:id":806367839,
-    "wof:lastmodified":1472628976,
+    "wof:lastmodified":1492818634,
     "wof:name":"Fed Ex Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

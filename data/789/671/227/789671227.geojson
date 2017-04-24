@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.068644,44.017462,-94.068644,44.017462",
     "geom:latitude":44.017462,
     "geom:longitude":-94.068644,
@@ -31,17 +32,32 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511541,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hWBezhZTg4DScGOWpQ9OS_44.017462_-94.068644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589635,
-    "wof:geomhash":"77ca7f1f516cc1148ec2befbe97520f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57b34288aaaf8984eca1c3121b159c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511541,
+            "region_id":85688727,
+            "venue_id":789671227
+        }
+    ],
     "wof:id":789671227,
-    "wof:lastmodified":1472629128,
+    "wof:lastmodified":1492809116,
     "wof:name":"Live Tree Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

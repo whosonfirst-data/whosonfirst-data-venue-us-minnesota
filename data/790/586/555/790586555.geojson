@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540193,47.466032,-92.540193,47.466032",
     "geom:latitude":47.466032,
     "geom:longitude":-92.540193,
@@ -31,17 +32,26 @@
         "skilled"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4W6il1sU09Qvfnu5ryN4TL_47.466032_-92.540193@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597097,
-    "wof:geomhash":"09f47e9713bfd0b697db938b46ce4d26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09bf728fa44e8040d17302df07d13e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790586555
+        }
+    ],
     "wof:id":790586555,
-    "wof:lastmodified":1472629881,
+    "wof:lastmodified":1492832609,
     "wof:name":"Arrowhead Living Community",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

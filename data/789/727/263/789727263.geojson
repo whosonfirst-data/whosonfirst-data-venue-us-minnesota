@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.874438,47.447749,-94.874438,47.447749",
     "geom:latitude":47.447749,
     "geom:longitude":-94.874438,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511371,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18LQYfmM0TJrB16CDLE3Ji_47.447749_-94.874438@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590081,
-    "wof:geomhash":"4b5bca529091ce2506eacfa331929000",
-    "wof:hierarchy":[],
+    "wof:geomhash":"733c49a633ad98067e512f363b44bb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511371,
+            "region_id":85688727,
+            "venue_id":789727263
+        }
+    ],
     "wof:id":789727263,
-    "wof:lastmodified":1472629244,
+    "wof:lastmodified":1492812625,
     "wof:name":"Speeds Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

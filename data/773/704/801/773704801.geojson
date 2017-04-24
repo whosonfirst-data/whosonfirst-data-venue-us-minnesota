@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.375631,44.875196,-94.375631,44.875196",
     "geom:latitude":44.875196,
     "geom:longitude":-94.375631,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0De7ZE49zkoAXfYPI8dhNV_44.875196_-94.375631@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587758,
-    "wof:geomhash":"23d4d170e2154f3507d2bbcc028daaea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9acc6a6e3772fe44ab75574c50fdd6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773704801
+        }
+    ],
     "wof:id":773704801,
-    "wof:lastmodified":1472630136,
+    "wof:lastmodified":1492805885,
     "wof:name":"KFC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.999265,45.330304,-92.999265,45.330304",
     "geom:latitude":45.330304,
     "geom:longitude":-92.999265,
@@ -28,17 +29,34 @@
     "sg:postcode":"55092",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JfAJVOtU1gCFrOMz3uOb0_45.330304_-92.999265@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600815,
-    "wof:geomhash":"885b5663082013ba6ecb43c3ab7a5955",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d668676c4a85d5071110d40d8840504d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":806756269
+        }
+    ],
     "wof:id":806756269,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492819591,
     "wof:name":"National Brokerage Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

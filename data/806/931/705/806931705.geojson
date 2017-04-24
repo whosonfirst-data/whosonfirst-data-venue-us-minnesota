@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.441575,45.098329,-93.441575,45.098329",
     "geom:latitude":45.098329,
     "geom:longitude":-93.441575,
@@ -28,17 +29,34 @@
     "sg:postcode":"55369",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KYL4OFU2UjE5MmyzPUxQZ_45.098329_-93.441575@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602289,
-    "wof:geomhash":"a6eb7a613ded45e13309c990a2061702",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd694c915465475eca11893a591a6ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806931705
+        }
+    ],
     "wof:id":806931705,
-    "wof:lastmodified":1472629942,
+    "wof:lastmodified":1492816211,
     "wof:name":"Mt Fuji",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.652756,45.40367,-92.652756,45.40367",
     "geom:latitude":45.40367,
     "geom:longitude":-92.652756,
@@ -32,17 +33,34 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511033,
+        85633793,
+        85952681,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YyfvgG5IrqkHk4v8D51tf_45.403670_-92.652756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600842,
-    "wof:geomhash":"7cee4f6d6970a257aeb2341eb2015fb4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a83208a283ae44ef273fe74f8d5ef736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511033,
+            "locality_id":85952681,
+            "region_id":85688727,
+            "venue_id":806759089
+        }
+    ],
     "wof:id":806759089,
-    "wof:lastmodified":1472629785,
+    "wof:lastmodified":1492816457,
     "wof:name":"Coffee Talk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

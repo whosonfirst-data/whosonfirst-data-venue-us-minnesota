@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.756583,45.035786,-93.756583,45.035786",
     "geom:latitude":45.035786,
     "geom:longitude":-93.756583,
@@ -38,17 +39,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511727,
+        85633793,
+        85969195,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bziGNLuWkXKaEAo1VeIk9_45.035786_-93.756583@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599837,
-    "wof:geomhash":"a69a4070e321de978623931753935b64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20ba83f1d49795276219e196c0fa565d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511727,
+            "locality_id":85969195,
+            "region_id":85688727,
+            "venue_id":806642255
+        }
+    ],
     "wof:id":806642255,
-    "wof:lastmodified":1472629604,
+    "wof:lastmodified":1492821022,
     "wof:name":"Basics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

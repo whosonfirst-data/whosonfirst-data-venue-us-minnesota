@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.884932,44.891509,-93.884932,44.891509",
     "geom:latitude":44.891509,
     "geom:longitude":-93.884932,
@@ -31,17 +32,34 @@
         "brake"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511699,
+        85633793,
+        85952949,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I1hIJDJ5gPNwqiqvgnCiG_44.891509_-93.884932@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598926,
-    "wof:geomhash":"f1a2f6d11902088df4cfd95bcba2e94e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2e37a9679f9399ce4cf3671753a8b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511699,
+            "locality_id":85952949,
+            "region_id":85688727,
+            "venue_id":806536301
+        }
+    ],
     "wof:id":806536301,
-    "wof:lastmodified":1472629398,
+    "wof:lastmodified":1492821505,
     "wof:name":"Bob's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

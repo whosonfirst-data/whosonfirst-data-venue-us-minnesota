@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.665892,44.746875,-93.665892,44.746875",
     "geom:latitude":44.746875,
     "geom:longitude":-93.665892,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511691,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i7WlStepp6y9Nhbfoxo5w_44.746875_-93.665892@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593324,
-    "wof:geomhash":"0932c6059eb3c7036bf1824d13921a58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4ace6643956af12b0105d1ea74f9262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511691,
+            "region_id":85688727,
+            "venue_id":790124457
+        }
+    ],
     "wof:id":790124457,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492834678,
     "wof:name":"Industrial Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

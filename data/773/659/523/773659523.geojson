@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.592583,48.713732,-94.592583,48.713732",
     "geom:latitude":48.713732,
     "geom:longitude":-94.592583,
@@ -32,17 +33,34 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515153,
+        85633793,
+        85952741,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IrWwkRV5gEt8iM4k0OA0Q_48.713732_-94.592583@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587389,
-    "wof:geomhash":"dae0d9967d620c0c5addc7df879c0afe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"83f9dc6c3713e73706caca2424081110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404515153,
+            "locality_id":85952741,
+            "region_id":85688727,
+            "venue_id":773659523
+        }
+    ],
     "wof:id":773659523,
-    "wof:lastmodified":1472630124,
+    "wof:lastmodified":1492800907,
     "wof:name":"Baudette Community Swimming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.158163,44.907718,-93.158163,44.907718",
     "geom:latitude":44.907718,
     "geom:longitude":-93.158163,
@@ -31,19 +32,38 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TTkRVNzpO64tfEXCccmiN_44.907718_-93.158163@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587208,
-    "wof:geomhash":"021ecb55d190421b7b1b4e75f2ebb641",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa10254dac6692d65ca2a52e988a7393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773634849
+        }
+    ],
     "wof:id":773634849,
-    "wof:lastmodified":1472630116,
+    "wof:lastmodified":1492806902,
     "wof:name":"Highway Motel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

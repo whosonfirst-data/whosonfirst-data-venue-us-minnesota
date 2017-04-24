@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.978855,45.000183,-92.978855,45.000183",
     "geom:latitude":45.000183,
     "geom:longitude":-92.978855,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"www.versa-lok.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514913,
+        85633793,
+        85953565,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bVtRkcxCin0XjCdD5zMFg_45.000183_-92.978855@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601589,
-    "wof:geomhash":"6ab703721ab71ef274e5c73a6ff5ef42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a9c85ca44740a8861aedaa8746dcddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514913,
+            "locality_id":85953565,
+            "region_id":85688727,
+            "venue_id":806848171
+        }
+    ],
     "wof:id":806848171,
-    "wof:lastmodified":1472629882,
+    "wof:lastmodified":1492821530,
     "wof:name":"Versa-Lok Retaining Wall Sys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

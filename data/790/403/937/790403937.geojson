@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.303513,45.11134,-93.303513,45.11134",
     "geom:latitude":45.11134,
     "geom:longitude":-93.303513,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3geuYIYoYjCzFPlluSX7og_45.111340_-93.303513@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595562,
-    "wof:geomhash":"c133fc4916b5de7309c67f344f03c6c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"100779ef79d90ba0e3813f0f738869a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":790403937
+        }
+    ],
     "wof:id":790403937,
-    "wof:lastmodified":1472629696,
+    "wof:lastmodified":1492833911,
     "wof:name":"Chinese Wok",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

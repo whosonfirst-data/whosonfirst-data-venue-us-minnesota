@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.230984,44.977311,-93.230984,44.977311",
     "geom:latitude":44.977311,
     "geom:longitude":-93.230984,
@@ -44,14 +45,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559185,
+        85872661,
         102191575,
+        1108800003,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872661
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607599,
-    "wof:geomhash":"2bf39cf5ef4a8f57dd5ba0bc2e1845eb",
+    "wof:geomhash":"578a3eff618dc47f493ca61ca5cc1c60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,25 +68,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559185,
-            "region_id":85688727,
-            "venue_id":823144693
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108800003,
             "neighbourhood_id":85872661,
             "region_id":85688727,
             "venue_id":823144693
         }
     ],
     "wof:id":823144693,
-    "wof:lastmodified":1472628943,
+    "wof:lastmodified":1492830852,
     "wof:name":"Sojourn Campus Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

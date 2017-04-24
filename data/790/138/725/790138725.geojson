@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.176468,45.723493,-93.176468,45.723493",
     "geom:latitude":45.723493,
     "geom:longitude":-93.176468,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509781,
+        85633793,
+        85953307,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DGPH7mY82102nTipxBhO4_45.723493_-93.176468@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593422,
-    "wof:geomhash":"0ab8007c9a578b39becdb5680be49b59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49fa476d60c9865895f9ef4a0937b4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509781,
+            "locality_id":85953307,
+            "region_id":85688727,
+            "venue_id":790138725
+        }
+    ],
     "wof:id":790138725,
-    "wof:lastmodified":1472629196,
+    "wof:lastmodified":1492833280,
     "wof:name":"Elmhurst Commons Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

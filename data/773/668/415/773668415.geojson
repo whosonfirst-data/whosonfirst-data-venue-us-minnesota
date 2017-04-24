@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.221467,45.57279,-93.221467,45.57279",
     "geom:latitude":45.57279,
     "geom:longitude":-93.221467,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1r0lBFuEHeuxNQkXG0uOyV_45.572790_-93.221467@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587455,
-    "wof:geomhash":"518978eddde17f2e93fd47f4560e205b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aef7e9f706526633ed9309140f336b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":773668415
+        }
+    ],
     "wof:id":773668415,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492806063,
     "wof:name":"Cambridge Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

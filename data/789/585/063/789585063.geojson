@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.734418,48.847957,-95.734418,48.847957",
     "geom:latitude":48.847957,
     "geom:longitude":-95.734418,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512957,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sYfqXHzuhLwK56Q4xGS8J_48.847957_-95.734418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588949,
-    "wof:geomhash":"adc4e0ab7d462003a9d7b39f8291401f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"324e0f98e1fca95c4ceb7f6696983c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512957,
+            "region_id":85688727,
+            "venue_id":789585063
+        }
+    ],
     "wof:id":789585063,
-    "wof:lastmodified":1472628928,
+    "wof:lastmodified":1492813625,
     "wof:name":"Evangelical Covenant Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

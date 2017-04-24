@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.872942,46.827871,-95.872942,46.827871",
     "geom:latitude":46.827871,
     "geom:longitude":-95.872942,
@@ -32,17 +33,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m9PZyZzhJtdE1SiHBCk24_46.827871_-95.872942@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585310,
-    "wof:geomhash":"3de3ae867b9c0a083491e21e95479979",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcc40eee1aefd67e09e461b5fba1d90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":773388127
+        }
+    ],
     "wof:id":773388127,
-    "wof:lastmodified":1472630038,
+    "wof:lastmodified":1492808382,
     "wof:name":"Murphys Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

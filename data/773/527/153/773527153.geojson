@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.32514,44.84287,-93.32514,44.84287",
     "geom:latitude":44.84287,
     "geom:longitude":-93.32514,
@@ -32,17 +33,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GHxLy8R7JYDZYbnSqn8U4_44.842870_-93.325140@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586392,
-    "wof:geomhash":"6181dd5e7c22d984a0067842d134473d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68b2063e18df0280484b6caa93d1aad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773527153
+        }
+    ],
     "wof:id":773527153,
-    "wof:lastmodified":1472630081,
+    "wof:lastmodified":1492802758,
     "wof:name":"USA Cab Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

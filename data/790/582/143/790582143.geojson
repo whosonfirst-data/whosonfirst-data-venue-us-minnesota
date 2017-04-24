@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.017464,44.948583,-93.017464,44.948583",
     "geom:latitude":44.948583,
     "geom:longitude":-93.017464,
@@ -32,19 +33,40 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6n5k2lZwJ9NjTsUzn49oPv_44.948583_-93.017464@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597059,
-    "wof:geomhash":"c784419e1b2e3ad4397154e0f7771a9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab3b4e6e4da44f0c0b577e8ab6d15784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":790582143
+        }
+    ],
     "wof:id":790582143,
-    "wof:lastmodified":1472629864,
+    "wof:lastmodified":1492835884,
     "wof:name":"Creek Point Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

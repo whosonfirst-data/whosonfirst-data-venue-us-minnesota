@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.773286,44.717027,-93.773286,44.717027",
     "geom:latitude":44.717027,
     "geom:longitude":-93.773286,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509355,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FE2EtrYGTc49Po08MULKm_44.717027_-93.773286@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599119,
-    "wof:geomhash":"5f25cf3c5ab3c2cb2f27b78e07cca935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f6b5d85279683f4622f94e92ea91f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404509355,
+            "region_id":85688727,
+            "venue_id":806559285
+        }
+    ],
     "wof:id":806559285,
-    "wof:lastmodified":1472629447,
+    "wof:lastmodified":1492821778,
     "wof:name":"Braun Brain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

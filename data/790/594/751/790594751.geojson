@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.386743,43.641703,-93.386743,43.641703",
     "geom:latitude":43.641703,
     "geom:longitude":-93.386743,
@@ -32,17 +33,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0raS2nRfxJXXKEc6bNS3Bd_43.641703_-93.386743@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597164,
-    "wof:geomhash":"00abfc1b89341c7aa1a753ad2b581681",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ce9da4670a5c772ba50d932dcf3f0f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":790594751
+        }
+    ],
     "wof:id":790594751,
-    "wof:lastmodified":1472629891,
+    "wof:lastmodified":1492836600,
     "wof:name":"Walt Vomhof",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

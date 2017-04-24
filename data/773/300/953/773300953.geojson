@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.548701,45.193728,-93.548701,45.193728",
     "geom:latitude":45.193728,
     "geom:longitude":-93.548701,
@@ -32,17 +33,34 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PJgdgqFusc1UT8xusJXem_45.193728_-93.548701@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584691,
-    "wof:geomhash":"408057e2e2e5f729230d306adc01d548",
-    "wof:hierarchy":[],
+    "wof:geomhash":"487aff34903698bbac21a8bc8e5bda64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":773300953
+        }
+    ],
     "wof:id":773300953,
-    "wof:lastmodified":1472630038,
+    "wof:lastmodified":1492805398,
     "wof:name":"A M Cap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

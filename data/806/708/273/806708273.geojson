@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.731787,44.972961,-93.731787,44.972961",
     "geom:latitude":44.972961,
     "geom:longitude":-93.731787,
@@ -39,17 +40,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511889,
+        85633793,
+        85969155,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JnAMQ3TmL7FMT4RbTONBP_44.972961_-93.731787@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600405,
-    "wof:geomhash":"bd75504a8e265b171e50a689bf5305bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fac60128b415cd9e28ad642325aac9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":806708273
+        }
+    ],
     "wof:id":806708273,
-    "wof:lastmodified":1472629713,
+    "wof:lastmodified":1492814686,
     "wof:name":"Dressells Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

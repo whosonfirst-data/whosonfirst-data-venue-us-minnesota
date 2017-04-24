@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.303873,45.873376,-93.303873,45.873376",
     "geom:latitude":45.873376,
     "geom:longitude":-93.303873,
@@ -32,17 +33,34 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513767,
+        85633793,
+        85953281,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sxp5eOamCfzIiItTBVtQT_45.873376_-93.303873@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595647,
-    "wof:geomhash":"204e9fbe4cef40df38ec93f26a82275c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"575e93b55b1eb2576f95de1feb8667ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513767,
+            "locality_id":85953281,
+            "region_id":85688727,
+            "venue_id":790415303
+        }
+    ],
     "wof:id":790415303,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492835522,
     "wof:name":"Woodcrest Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

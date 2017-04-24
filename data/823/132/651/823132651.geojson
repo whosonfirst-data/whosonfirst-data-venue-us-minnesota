@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.287201,44.948399,-93.287201,44.948399",
     "geom:latitude":44.948399,
     "geom:longitude":-93.287201,
@@ -29,14 +30,15 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872643,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607378,
-    "wof:geomhash":"d3c9af1c021b40bd9258939e6d4028ff",
+    "wof:geomhash":"bea29bbb57c0e229dc0722cd25971bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +54,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872643,
-            "region_id":85688727,
-            "venue_id":823132651
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":823132651
         }
     ],
     "wof:id":823132651,
-    "wof:lastmodified":1472628930,
+    "wof:lastmodified":1492830922,
     "wof:name":"Arby's Restaurants",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

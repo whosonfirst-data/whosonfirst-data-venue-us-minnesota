@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.742916,47.581248,-95.742916,47.581248",
     "geom:latitude":47.581248,
     "geom:longitude":-95.742916,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SL0J7VHQXaOzWvZfrhavy_47.581248_-95.742916@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591924,
-    "wof:geomhash":"5c40a1566e23f33e357da5183ec291f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"780cab78abc480a2b201c8de2ad08490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":789951181
+        }
+    ],
     "wof:id":789951181,
-    "wof:lastmodified":1472629646,
+    "wof:lastmodified":1492812264,
     "wof:name":"Rick's Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

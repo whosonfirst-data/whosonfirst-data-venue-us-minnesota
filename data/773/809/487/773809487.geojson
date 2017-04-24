@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.985976,45.002659,-92.985976,45.002659",
     "geom:latitude":45.002659,
     "geom:longitude":-92.985976,
@@ -33,17 +34,34 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514461,
+        85633793,
+        85953179,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cp3RueW5vVhWtNRjDoTe4_45.002659_-92.985976@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588552,
-    "wof:geomhash":"6938d0f661f9fd2772300b0a006450ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"009c695bb52a1c2983f42d401cf176f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514461,
+            "locality_id":85953179,
+            "region_id":85688727,
+            "venue_id":773809487
+        }
+    ],
     "wof:id":773809487,
-    "wof:lastmodified":1472630165,
+    "wof:lastmodified":1492805073,
     "wof:name":"Auto Glass Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

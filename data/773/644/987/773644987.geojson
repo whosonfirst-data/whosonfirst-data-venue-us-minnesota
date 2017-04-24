@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.529516,45.129788,-94.529516,45.129788",
     "geom:latitude":45.129788,
     "geom:longitude":-94.529516,
@@ -32,17 +33,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D49NA5ZldjqCRuQ4x6ZGn_45.129788_-94.529516@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587294,
-    "wof:geomhash":"b3e80a7a006c0d43f852ae17e4aed480",
-    "wof:hierarchy":[],
+    "wof:geomhash":"215da8e6e69d744fd0f0dcbd2f9ef5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":773644987
+        }
+    ],
     "wof:id":773644987,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492800838,
     "wof:name":"First Priority Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

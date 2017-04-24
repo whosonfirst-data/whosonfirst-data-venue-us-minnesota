@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.36827,46.894429,-92.36827,46.894429",
     "geom:latitude":46.894429,
     "geom:longitude":-92.36827,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804953,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85804953
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462602206,
-    "wof:geomhash":"5003b3d1f07c8834f68df3ba183cb5f6",
+    "wof:geomhash":"44ad906d1661295fbcedd87a5405335c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85804953,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":806922103,
-    "wof:lastmodified":1472629932,
+    "wof:lastmodified":1492819918,
     "wof:name":"All Around Storage",
     "wof:parent_id":85804953,
     "wof:placetype":"venue",

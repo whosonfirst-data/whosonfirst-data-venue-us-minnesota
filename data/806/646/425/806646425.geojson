@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.012505,43.555976,-92.012505,43.555976",
     "geom:latitude":43.555976,
     "geom:longitude":-92.012505,
@@ -34,17 +35,34 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25DrP2Z0VAQ65i1rDcfiLI_43.555976_-92.012505@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599875,
-    "wof:geomhash":"ddbc26483e9734827b4ace5ad0b555ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c8dae9dad9ad7133eabba1606b5030f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":806646425
+        }
+    ],
     "wof:id":806646425,
-    "wof:lastmodified":1472629620,
+    "wof:lastmodified":1492819645,
     "wof:name":"Harmony Cold Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

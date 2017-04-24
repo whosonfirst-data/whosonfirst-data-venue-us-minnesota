@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.814611,47.60778,-96.814611,47.60778",
     "geom:latitude":47.60778,
     "geom:longitude":-96.814611,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.larl.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510451,
+        85633793,
+        85968419,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ksWDL9A3cmgvmsHBRDsZ4_47.607780_-96.814611@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609448,
-    "wof:geomhash":"10096ef0b494264faf23d0aa332219d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daf4790d334b58ebfcff23cdb1ac8d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404510451,
+            "locality_id":85968419,
+            "region_id":85688727,
+            "venue_id":823255381
+        }
+    ],
     "wof:id":823255381,
-    "wof:lastmodified":1472629206,
+    "wof:lastmodified":1492831223,
     "wof:name":"Climax Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

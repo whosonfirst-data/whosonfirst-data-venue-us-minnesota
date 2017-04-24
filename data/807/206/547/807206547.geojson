@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.43622,44.045146,-95.43622,44.045146",
     "geom:latitude":44.045146,
     "geom:longitude":-95.43622,
@@ -32,17 +33,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KqvnQ4N8sS5fOdeaG3uEF_44.045724_-95.436412@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604863,
-    "wof:geomhash":"26eba2538f4362a29ae9d2fa7bcc0222",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2f152d50884251106c16d2a3387aca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":807206547
+        }
+    ],
     "wof:id":807206547,
-    "wof:lastmodified":1472629421,
+    "wof:lastmodified":1492823691,
     "wof:name":"Trinity Lutheran Church Elca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

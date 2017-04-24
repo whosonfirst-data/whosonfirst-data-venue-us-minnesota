@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.997201,44.181528,-93.997201,44.181528",
     "geom:latitude":44.181528,
     "geom:longitude":-93.997201,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.regionv.k12.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gZ745Wfwyvk0kJSfhC9od_44.181528_-93.997201@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586442,
-    "wof:geomhash":"3c0487bfda413f5bfcf32581434caea9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62501f87bee0a47feba09f11d74fdc70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":773534291
+        }
+    ],
     "wof:id":773534291,
-    "wof:lastmodified":1472630084,
+    "wof:lastmodified":1492807334,
     "wof:name":"Region V Computer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

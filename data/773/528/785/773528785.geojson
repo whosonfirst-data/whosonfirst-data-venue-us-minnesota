@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.480083,47.299604,-92.480083,47.299604",
     "geom:latitude":47.299604,
     "geom:longitude":-92.480083,
@@ -31,17 +32,26 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pD1C4gsVsvUIt95T2ukLx_47.299604_-92.480083@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586402,
-    "wof:geomhash":"b974d0ca7b0f1745767b13491ca174c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f0800e37297d80aa2f4c23af1068901",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773528785
+        }
+    ],
     "wof:id":773528785,
-    "wof:lastmodified":1472630082,
+    "wof:lastmodified":1492801575,
     "wof:name":"Porky's Building Supply Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

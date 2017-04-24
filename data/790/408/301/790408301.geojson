@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.374295,46.518542,-95.374295,46.518542",
     "geom:latitude":46.518542,
     "geom:longitude":-95.374295,
@@ -33,17 +34,34 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515169,
+        85633793,
+        85968759,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lf9WG094IaHnosFjICdFm_46.518542_-95.374295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595600,
-    "wof:geomhash":"153f6fc9d0ccdb54a746846efb8163b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b5f42379ec4eb15845c36915bd0fc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404515169,
+            "locality_id":85968759,
+            "region_id":85688727,
+            "venue_id":790408301
+        }
+    ],
     "wof:id":790408301,
-    "wof:lastmodified":1472629672,
+    "wof:lastmodified":1492831581,
     "wof:name":"American Express Financial Adv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

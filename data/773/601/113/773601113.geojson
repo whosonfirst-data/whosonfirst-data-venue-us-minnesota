@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.055588,43.869172,-93.055588,43.869172",
     "geom:latitude":43.869172,
     "geom:longitude":-93.055588,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510809,
+        85633793,
+        85952847,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OP7k1co3XclWRkPDaMhmm_43.869172_-93.055588@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586949,
-    "wof:geomhash":"2a3479bbd2cd7d72166f9d848c4e44bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d91780969d7892200619eed61a37a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510809,
+            "locality_id":85952847,
+            "region_id":85688727,
+            "venue_id":773601113
+        }
+    ],
     "wof:id":773601113,
-    "wof:lastmodified":1472630099,
+    "wof:lastmodified":1492808010,
     "wof:name":"Karen Njos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.843159,44.968282,-93.843159,44.968282",
     "geom:latitude":44.968282,
     "geom:longitude":-93.843159,
@@ -37,17 +38,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_394sXQjBSH0uGB1WNVRDUR_44.968282_-93.843159@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606457,
-    "wof:geomhash":"e7a1c2a7ee36572d3385aec901de7bec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7af414ab32e6d3fe6bf5c7ba8d0a9650",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":807346887
+        }
+    ],
     "wof:id":807346887,
-    "wof:lastmodified":1472629780,
+    "wof:lastmodified":1492826278,
     "wof:name":"Altra Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

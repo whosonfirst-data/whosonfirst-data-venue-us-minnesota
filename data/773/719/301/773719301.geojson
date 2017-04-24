@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.056155,45.17176,-93.056155,45.17176",
     "geom:latitude":45.17176,
     "geom:longitude":-93.056155,
@@ -32,17 +33,34 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509191,
+        85633793,
+        85953407,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mbQen6hPuXh4wlx8vedtd_45.171760_-93.056155@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587866,
-    "wof:geomhash":"00532c54774877585bcacdf8b33d468a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ba4caec36649be92b39a40a289d1854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404509191,
+            "locality_id":85953407,
+            "region_id":85688727,
+            "venue_id":773719301
+        }
+    ],
     "wof:id":773719301,
-    "wof:lastmodified":1472630139,
+    "wof:lastmodified":1492807312,
     "wof:name":"Penn Contracting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

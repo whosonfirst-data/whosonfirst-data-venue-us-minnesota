@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.510647,44.046183,-92.510647,44.046183",
     "geom:latitude":44.046183,
     "geom:longitude":-92.510647,
@@ -28,17 +29,34 @@
     "sg:postcode":"55901",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23Il60nrfvDQmYqcr0KGI7_44.046183_-92.510647@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592831,
-    "wof:geomhash":"55009b1e4956102c088612da02e47586",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d42eafb099b349c74281da72aa4056d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790061471
+        }
+    ],
     "wof:id":790061471,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492831226,
     "wof:name":"Northwest Food Prod Trnsprtn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

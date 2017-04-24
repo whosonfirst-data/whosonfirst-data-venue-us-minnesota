@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.535595,45.003094,-93.535595,45.003094",
     "geom:latitude":45.003094,
     "geom:longitude":-93.535595,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511881,
+        85633793,
+        85969173,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rhLavJazT5sU7FCCMEuqG_45.003094_-93.535595@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583547,
-    "wof:geomhash":"e25510dbeb95bbf8da6ed12e8d0f04c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b2f3c3af4fe799426c50dd22867fa91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511881,
+            "locality_id":85969173,
+            "region_id":85688727,
+            "venue_id":773153339
+        }
+    ],
     "wof:id":773153339,
-    "wof:lastmodified":1472629729,
+    "wof:lastmodified":1492799983,
     "wof:name":"Travel Source of Wayzata Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

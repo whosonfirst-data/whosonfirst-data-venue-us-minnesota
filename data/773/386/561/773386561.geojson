@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25263,46.758633,-93.25263,46.758633",
     "geom:latitude":46.758633,
     "geom:longitude":-93.25263,
@@ -31,17 +32,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511251,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JBVwPHDNLrK9nAPSFMPzj_46.758633_-93.252630@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585300,
-    "wof:geomhash":"c7a2c80986710cf8cfa5ecf4f343fdf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d26e5c311112189208f6b9e1ed0e273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511251,
+            "region_id":85688727,
+            "venue_id":773386561
+        }
+    ],
     "wof:id":773386561,
-    "wof:lastmodified":1472630037,
+    "wof:lastmodified":1492808458,
     "wof:name":"Bar De Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

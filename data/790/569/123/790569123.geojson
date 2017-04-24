@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.654587,44.053134,-91.654587,44.053134",
     "geom:latitude":44.053134,
     "geom:longitude":-91.654587,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HOKpCEwgFhys3OnMIC6Zz_44.053134_-91.654587@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596954,
-    "wof:geomhash":"31b89cd6afd9d1d00b9a8d112622aca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e47e877b3fe9f1fd234c964237ba8ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":790569123
+        }
+    ],
     "wof:id":790569123,
-    "wof:lastmodified":1472629861,
+    "wof:lastmodified":1492832078,
     "wof:name":"New Focus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

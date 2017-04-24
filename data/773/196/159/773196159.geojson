@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.307095,45.058544,-93.307095,45.058544",
     "geom:latitude":45.058544,
     "geom:longitude":-93.307095,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jTTDiRHAfjG3G2ejPvZjG_45.058544_-93.307095@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583899,
-    "wof:geomhash":"f3acd5e3228d861eee452a516e28fde6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30fa24d2fe34d6b2d858fdb1553cbd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":773196159
+        }
+    ],
     "wof:id":773196159,
-    "wof:lastmodified":1472629944,
+    "wof:lastmodified":1492799424,
     "wof:name":"Chuck Wagon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

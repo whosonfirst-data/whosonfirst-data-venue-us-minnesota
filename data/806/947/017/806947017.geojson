@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.623445,47.771213,-96.623445,47.771213",
     "geom:latitude":47.771213,
     "geom:longitude":-96.623445,
@@ -31,17 +32,34 @@
         "mental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513695,
+        85633793,
+        85968417,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wncdMyBxTygxonAYrQ0tK_47.771213_-96.623445@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602414,
-    "wof:geomhash":"5547d8bfd50d138da24e81305a426e6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f34973a62d037ceb974529c3448bf3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513695,
+            "locality_id":85968417,
+            "region_id":85688727,
+            "venue_id":806947017
+        }
+    ],
     "wof:id":806947017,
-    "wof:lastmodified":1472629944,
+    "wof:lastmodified":1492819195,
     "wof:name":"Northwestern Mental Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

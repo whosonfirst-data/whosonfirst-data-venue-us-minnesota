@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.454679,43.906083,-93.454679,43.906083",
     "geom:latitude":43.906083,
     "geom:longitude":-93.454679,
@@ -31,17 +32,32 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514867,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sCGNYkmbjhKA4AaNtjsjb_43.906083_-93.454679@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599310,
-    "wof:geomhash":"9016f554c5647a747041eb365b4eef6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31467cc5cd7f5b5d2843e623864e41f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514867,
+            "region_id":85688727,
+            "venue_id":806580035
+        }
+    ],
     "wof:id":806580035,
-    "wof:lastmodified":1472629483,
+    "wof:lastmodified":1492815219,
     "wof:name":"Riverview Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

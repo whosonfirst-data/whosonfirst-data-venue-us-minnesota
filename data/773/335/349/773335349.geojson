@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.636379,43.560979,-91.636379,43.560979",
     "geom:latitude":43.560979,
     "geom:longitude":-91.636379,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85844731,
+        102191575,
+        404511937,
         85633793,
         85953131,
         102087605,
-        85844731
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462584951,
-    "wof:geomhash":"25c9ab8c97f617fe2d6a531aee4c6c5b",
+    "wof:geomhash":"82ad7288d98bfcd5e0ca44f7a6dbc59c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087605,
+            "localadmin_id":404511937,
             "locality_id":85953131,
             "neighbourhood_id":85844731,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":773335349,
-    "wof:lastmodified":1472630017,
+    "wof:lastmodified":1492802461,
     "wof:name":"Home Town Store",
     "wof:parent_id":85844731,
     "wof:placetype":"venue",

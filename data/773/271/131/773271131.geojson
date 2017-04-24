@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.409092,44.185661,-94.409092,44.185661",
     "geom:latitude":44.185661,
     "geom:longitude":-94.409092,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511593,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IUjZVDKxBc9lAlqkKrbXw_44.185661_-94.409092@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584451,
-    "wof:geomhash":"15cc4ecfb1330d7c136de7453120eedb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12afc3c51410a1c41474729e46cad345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511593,
+            "region_id":85688727,
+            "venue_id":773271131
+        }
+    ],
     "wof:id":773271131,
-    "wof:lastmodified":1472629992,
+    "wof:lastmodified":1492803437,
     "wof:name":"Doug Koehler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.320984,45.494043,-94.320984,45.494043",
     "geom:latitude":45.494043,
     "geom:longitude":-94.320984,
@@ -27,17 +28,34 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514485,
+        85633793,
+        85952485,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43cCyl2QLEgK7qlPgs5GUR_45.494043_-94.320984@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604293,
-    "wof:geomhash":"f1778eeb458549c8864ea311ff8bfbda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d59edb859518935595af31627d7ed465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514485,
+            "locality_id":85952485,
+            "region_id":85688727,
+            "venue_id":807152015
+        }
+    ],
     "wof:id":807152015,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492827694,
     "wof:name":"Robert Mertes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

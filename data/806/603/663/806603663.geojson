@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.640553,44.054626,-91.640553,44.054626",
     "geom:latitude":44.054626,
     "geom:longitude":-91.640553,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nP0nzsFHzRrUDX8ZcFcA0_44.054626_-91.640553@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599519,
-    "wof:geomhash":"512ef2465c4f7a067439df49339fc4aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7c95b1e89e95fb3620f3d2d790e2668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":806603663
+        }
+    ],
     "wof:id":806603663,
-    "wof:lastmodified":1472629539,
+    "wof:lastmodified":1492820850,
     "wof:name":"Winona Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

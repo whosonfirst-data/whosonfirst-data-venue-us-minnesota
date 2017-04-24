@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.551574,45.190531,-93.551574,45.190531",
     "geom:latitude":45.190531,
     "geom:longitude":-93.551574,
@@ -33,17 +34,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pfxZsufnY7xSVX64WrQVB_45.190531_-93.551574@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594030,
-    "wof:geomhash":"4436989f1b25b0b918e81c14e4ade284",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1be991eadd521117abf03bef32217e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":790210411
+        }
+    ],
     "wof:id":790210411,
-    "wof:lastmodified":1472629295,
+    "wof:lastmodified":1492832848,
     "wof:name":"Auto Body Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

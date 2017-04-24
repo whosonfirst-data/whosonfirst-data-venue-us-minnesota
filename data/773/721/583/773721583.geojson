@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.592632,43.625667,-95.592632,43.625667",
     "geom:latitude":43.625667,
     "geom:longitude":-95.592632,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52s8IsdvPOiW0ps9I9rbIX_43.625667_-95.592632@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587881,
-    "wof:geomhash":"c736094563bc272f4cd1abe1b1974e49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e107cea6a67afb7a416f4723b423cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":773721583
+        }
+    ],
     "wof:id":773721583,
-    "wof:lastmodified":1472630140,
+    "wof:lastmodified":1492803700,
     "wof:name":"Dennys Siding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.25511,44.988476,-93.25511,44.988476",
     "geom:latitude":44.988476,
     "geom:longitude":-93.25511,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559147,
+        85872653,
         102191575,
+        1108800003,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872653
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585101,
-    "wof:geomhash":"92852a3e47acf87dd8eb5b3611432673",
+    "wof:geomhash":"f2902b60e66d1ed79a3f184894da47d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559147,
-            "region_id":85688727,
-            "venue_id":773357737
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108800003,
             "neighbourhood_id":85872653,
             "region_id":85688727,
             "venue_id":773357737
         }
     ],
     "wof:id":773357737,
-    "wof:lastmodified":1472630031,
+    "wof:lastmodified":1492808776,
     "wof:name":"Johnson Law Firm",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872653,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

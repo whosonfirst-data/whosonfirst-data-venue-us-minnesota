@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.348322,46.339406,-94.348322,46.339406",
     "geom:latitude":46.339406,
     "geom:longitude":-94.348322,
@@ -39,17 +40,32 @@
         "archery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511757,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71ac7bkguXIIsdVSAQ87p3_46.339406_-94.348322@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609388,
-    "wof:geomhash":"283ca3d6f6ed34af7ddcaafa2814a2bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"022f03d24ed32ebf8be18e8dee718653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511757,
+            "region_id":85688727,
+            "venue_id":823252227
+        }
+    ],
     "wof:id":823252227,
-    "wof:lastmodified":1472629184,
+    "wof:lastmodified":1492830370,
     "wof:name":"A&K Archery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

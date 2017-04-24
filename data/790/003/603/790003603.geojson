@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.278718,44.451596,-92.278718,44.451596",
     "geom:latitude":44.451596,
     "geom:longitude":-92.278718,
@@ -32,17 +33,34 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514795,
+        85633793,
+        85952869,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hVTxsy1psL0EULRFC4fBE_44.451596_-92.278718@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592354,
-    "wof:geomhash":"62e11b63ccc5ebdbe8ed983ef8a00995",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3b69bb2c135913ec8c624c1ff0f64bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514795,
+            "locality_id":85952869,
+            "region_id":85688727,
+            "venue_id":790003603
+        }
+    ],
     "wof:id":790003603,
-    "wof:lastmodified":1472628940,
+    "wof:lastmodified":1492837222,
     "wof:name":"Food Shelf-Unemployment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

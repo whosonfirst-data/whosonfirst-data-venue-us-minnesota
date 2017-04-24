@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.308486,45.206734,-95.308486,45.206734",
     "geom:latitude":45.206734,
     "geom:longitude":-95.308486,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514679,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73rkM18HAvMrm5Cft0WbCV_45.206734_-95.308486@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609256,
-    "wof:geomhash":"dc2f24f9e05eb62f1d4a5b1f5bfddf42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"609646e4b204f518d964db04f4a44c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514679,
+            "region_id":85688727,
+            "venue_id":823245789
+        }
+    ],
     "wof:id":823245789,
-    "wof:lastmodified":1472629173,
+    "wof:lastmodified":1492829424,
     "wof:name":"Carlton Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

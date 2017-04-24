@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359139,43.640161,-93.359139,43.640161",
     "geom:latitude":43.640161,
     "geom:longitude":-93.359139,
@@ -31,17 +32,34 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tKERYHfjmNzuDrewWhV2S_43.640161_-93.359139@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588256,
-    "wof:geomhash":"0e2992ca39f7746eb708c8e559cddb5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"445462c9c05c2f517c8650cc2e3c1abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":773771955
+        }
+    ],
     "wof:id":773771955,
-    "wof:lastmodified":1472630155,
+    "wof:lastmodified":1492801594,
     "wof:name":"Schuhmacher Testing Labs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

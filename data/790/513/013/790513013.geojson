@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.415707,44.617497,-95.415707,44.617497",
     "geom:latitude":44.617497,
     "geom:longitude":-95.415707,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510775,
+        85633793,
+        85952919,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tzhopxWH1itGY3ejZxMXb_44.617497_-95.415707@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596475,
-    "wof:geomhash":"95f8f9bfb7f88c38f4fc1bee156b2721",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2da8bb2f97a2e022ad2cf923e8591acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510775,
+            "locality_id":85952919,
+            "region_id":85688727,
+            "venue_id":790513013
+        }
+    ],
     "wof:id":790513013,
-    "wof:lastmodified":1472629787,
+    "wof:lastmodified":1492836017,
     "wof:name":"Echo Alliance Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.419652,44.046325,-94.419652,44.046325",
     "geom:latitude":44.046325,
     "geom:longitude":-94.419652,
@@ -32,17 +33,34 @@
         "metal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514943,
+        85633793,
+        85968901,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YzeanCOc7ZEnViUwOZehi_44.046325_-94.419652@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587486,
-    "wof:geomhash":"38aa8b87b3a41dc82e2a155c9c55ead1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edb6aea45977b498ca1b2d5be5405c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514943,
+            "locality_id":85968901,
+            "region_id":85688727,
+            "venue_id":773672973
+        }
+    ],
     "wof:id":773672973,
-    "wof:lastmodified":1472630127,
+    "wof:lastmodified":1492806364,
     "wof:name":"Custom Fabrication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.266224,44.974325,-93.266224,44.974325",
     "geom:latitude":44.974325,
     "geom:longitude":-93.266224,
@@ -30,14 +31,14 @@
     "sg:website":"http://www.comfortsuites.com/hotel-minneapolis-minnesota-MN126?promo=yplocal",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872705,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607678,
-    "wof:geomhash":"0e140f7fd252d8fc43a6736e5df1a7cb",
+    "wof:geomhash":"2105a5ed60ebe8d5fd9692e624350bac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,25 +54,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872705,
-            "region_id":85688727,
-            "venue_id":823150829
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":823150829
         }
     ],
     "wof:id":823150829,
-    "wof:lastmodified":1472628964,
+    "wof:lastmodified":1492830546,
     "wof:name":"Comfort Suites Minneapolis - Downtown",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

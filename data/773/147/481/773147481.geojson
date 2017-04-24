@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.376048,45.770548,-95.376048,45.770548",
     "geom:latitude":45.770548,
     "geom:longitude":-95.376048,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513909,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UDvuSzpyXnWuQJyZCAuzc_45.770548_-95.376048@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583484,
-    "wof:geomhash":"293768b3ea37716016d992adc459a27c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54d7c5a9fb5f9fce1d9e70ea42b93ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513909,
+            "region_id":85688727,
+            "venue_id":773147481
+        }
+    ],
     "wof:id":773147481,
-    "wof:lastmodified":1472629726,
+    "wof:lastmodified":1492805781,
     "wof:name":"Maple Island Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

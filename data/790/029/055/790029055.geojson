@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.4077,47.501722,-92.4077,47.501722",
     "geom:latitude":47.501722,
     "geom:longitude":-92.4077,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1csH0q03I2RxrkaY1gO8IF_47.501722_-92.407700@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592567,
-    "wof:geomhash":"f905d59be5bb8696690733a2deadaf83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0bf9b9aa4f2dc9afe4a8cb0f7fdf50a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":790029055
+        }
+    ],
     "wof:id":790029055,
-    "wof:lastmodified":1472628981,
+    "wof:lastmodified":1492836528,
     "wof:name":"Heritage Trail Bible Church",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.402482,44.07992,-95.402482,44.07992",
     "geom:latitude":44.07992,
     "geom:longitude":-95.402482,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512009,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TmbzBkPWZgbI2uJeeanIs_44.079920_-95.402482@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609209,
-    "wof:geomhash":"6d1c017e0ef7e39901503c6c2ae6c1c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df2b839139968288ee19d676f4cca35d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512009,
+            "region_id":85688727,
+            "venue_id":823243391
+        }
+    ],
     "wof:id":823243391,
-    "wof:lastmodified":1472629145,
+    "wof:lastmodified":1492829336,
     "wof:name":"Berg's Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

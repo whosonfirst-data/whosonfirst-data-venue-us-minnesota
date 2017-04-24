@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.407342,45.57959,-93.407342,45.57959",
     "geom:latitude":45.57959,
     "geom:longitude":-93.407342,
@@ -32,17 +33,32 @@
         "mason"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509789,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A4dYHWZFTc41AnoVp6bE7_45.579590_-93.407342@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605181,
-    "wof:geomhash":"64a15bab761b3a7a897dbef2ebfbfe6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5878ccc3f3097a97782128eeb81cc89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509789,
+            "region_id":85688727,
+            "venue_id":807236881
+        }
+    ],
     "wof:id":807236881,
-    "wof:lastmodified":1472629479,
+    "wof:lastmodified":1492824664,
     "wof:name":"Thomas Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

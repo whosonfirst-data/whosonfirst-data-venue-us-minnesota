@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.008402,43.991227,-94.008402,43.991227",
     "geom:latitude":43.991227,
     "geom:longitude":-94.008402,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511515,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fDKojIXvDwaRQibKvQ2nS_43.991227_-94.008402@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604163,
-    "wof:geomhash":"ba4ad6c1f6e30491a39ffddc96c14aa2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"841fd40de69d94b4fbb8c06589442409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511515,
+            "region_id":85688727,
+            "venue_id":807140575
+        }
+    ],
     "wof:id":807140575,
-    "wof:lastmodified":1472629278,
+    "wof:lastmodified":1492826376,
     "wof:name":"Richard Sohre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

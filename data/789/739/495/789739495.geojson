@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.580889,45.412502,-94.580889,45.412502",
     "geom:latitude":45.412502,
     "geom:longitude":-94.580889,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514229,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QZ6nsqeY54p3coa2eeKgt_45.412502_-94.580889@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590169,
-    "wof:geomhash":"22042afcbbb3d0c0b963e59736992d49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c569ef71a803ab155cdfb20e0044d351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514229,
+            "region_id":85688727,
+            "venue_id":789739495
+        }
+    ],
     "wof:id":789739495,
-    "wof:lastmodified":1472629268,
+    "wof:lastmodified":1492810863,
     "wof:name":"Dennis Flint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

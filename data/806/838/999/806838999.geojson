@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.145161,44.636849,-93.145161,44.636849",
     "geom:latitude":44.636849,
     "geom:longitude":-93.145161,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85844381,
+        102191575,
+        404511991,
         85633793,
         85968455,
         102087895,
-        85844381
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462601501,
-    "wof:geomhash":"500b88a686ab48826d88336b0d26eb61",
+    "wof:geomhash":"b8cb86eb1ba67840f73488dcb82a7032",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087895,
+            "localadmin_id":404511991,
             "locality_id":85968455,
             "neighbourhood_id":85844381,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":806838999,
-    "wof:lastmodified":1472629887,
+    "wof:lastmodified":1492820322,
     "wof:name":"Farmington Post Office",
     "wof:parent_id":85844381,
     "wof:placetype":"venue",

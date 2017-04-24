@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.594414,45.081745,-95.594414,45.081745",
     "geom:latitude":45.081745,
     "geom:longitude":-95.594414,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511781,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tRPzuIuLhf3QK2VJgsFCI_45.081745_-95.594414@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591777,
-    "wof:geomhash":"2d92144384ebe1d4aca4a178f3c81728",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f6b40cf40f593c4ba82d91b406f651c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404511781,
+            "region_id":85688727,
+            "venue_id":789938609
+        }
+    ],
     "wof:id":789938609,
-    "wof:lastmodified":1472629642,
+    "wof:lastmodified":1492809270,
     "wof:name":"Gerald Vanzyl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.995431,44.772301,-94.995431,44.772301",
     "geom:latitude":44.772301,
     "geom:longitude":-94.995431,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0z21NzYGYGCu4hjpe5IrOA_44.772301_-94.995431@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591197,
-    "wof:geomhash":"eb5038eb9c5e78456b22decdebdeeb9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e3d3f6d2c24c8edfa8ec148ae4e2e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":789871187
+        }
+    ],
     "wof:id":789871187,
-    "wof:lastmodified":1472629532,
+    "wof:lastmodified":1492810933,
     "wof:name":"Westcourt Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

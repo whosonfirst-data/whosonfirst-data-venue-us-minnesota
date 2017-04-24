@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.030473,44.179621,-94.030473,44.179621",
     "geom:latitude":44.179621,
     "geom:longitude":-94.030473,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S58HNhvunemLdn5NF0BFB_44.179621_-94.030473@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586561,
-    "wof:geomhash":"282a90a8d324018b8b4eccd466c287ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af85873d8edfa83d5ea462e8428a0fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":773549139
+        }
+    ],
     "wof:id":773549139,
-    "wof:lastmodified":1472630087,
+    "wof:lastmodified":1492801387,
     "wof:name":"All City Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.522499,43.863783,-95.522499,43.863783",
     "geom:latitude":43.863783,
     "geom:longitude":-95.522499,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513165,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZoLmwujHmpo93Z0rAGMsy_43.863783_-95.522499@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604113,
-    "wof:geomhash":"83437b4415763779d0bda5c31af1c151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f12e084175329b9527b38cd03e0d2da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513165,
+            "region_id":85688727,
+            "venue_id":807135473
+        }
+    ],
     "wof:id":807135473,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492823767,
     "wof:name":"Paul Brunk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

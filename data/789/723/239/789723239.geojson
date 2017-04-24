@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.342775,44.941644,-93.342775,44.941644",
     "geom:latitude":44.941644,
     "geom:longitude":-93.342775,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73A0jqMy2EDrsbOA3T7H6u_44.941644_-93.342775@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590053,
-    "wof:geomhash":"a5f9e1752189610abae4b85b369fa10e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bedc0a0196f876b64493900adbacb479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":789723239
+        }
+    ],
     "wof:id":789723239,
-    "wof:lastmodified":1472629239,
+    "wof:lastmodified":1492812050,
     "wof:name":"Water Works Manufacturing LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

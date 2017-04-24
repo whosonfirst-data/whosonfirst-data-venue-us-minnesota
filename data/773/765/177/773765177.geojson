@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.162064,44.804899,-94.162064,44.804899",
     "geom:latitude":44.804899,
     "geom:longitude":-94.162064,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512823,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40BFog3LCKszSHSvqKJvE4_44.804899_-94.162064@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588207,
-    "wof:geomhash":"ab7665243316b45e038549ac4fddf96f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78995a06f81990c04ce1f86dd3744fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512823,
+            "region_id":85688727,
+            "venue_id":773765177
+        }
+    ],
     "wof:id":773765177,
-    "wof:lastmodified":1472630150,
+    "wof:lastmodified":1492801908,
     "wof:name":"Mineral Service Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

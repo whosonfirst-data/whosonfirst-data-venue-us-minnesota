@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.21752,43.643871,-96.21752,43.643871",
     "geom:latitude":43.643871,
     "geom:longitude":-96.21752,
@@ -51,17 +52,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512779,
+        85633793,
+        85968777,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64UkfubZ8vw2dMILAH7s4L_43.643871_-96.217520@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609191,
-    "wof:geomhash":"5f1d76ee3659fa3ff04d2683fdbd525c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e4ce91857dc4718f3ee46521a0bbf29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512779,
+            "locality_id":85968777,
+            "region_id":85688727,
+            "venue_id":823242363
+        }
+    ],
     "wof:id":823242363,
-    "wof:lastmodified":1472629139,
+    "wof:lastmodified":1492828571,
     "wof:name":"Todd's Auto Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

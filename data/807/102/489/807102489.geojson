@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.324866,43.47389,-93.324866,43.47389",
     "geom:latitude":43.47389,
     "geom:longitude":-93.324866,
@@ -26,17 +27,30 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688713,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wao3pwpCrvkfNd7ZIFNS7_43.473890_-93.324866@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603759,
-    "wof:geomhash":"87ca4f0872cbf1a23a2754c7d6f43ce5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9cc52cd001e1b5582431a371da0bf980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "region_id":85688713,
+            "venue_id":807102489
+        }
+    ],
     "wof:id":807102489,
-    "wof:lastmodified":1472629198,
+    "wof:lastmodified":1492826730,
     "wof:name":"Steve Hengesteg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

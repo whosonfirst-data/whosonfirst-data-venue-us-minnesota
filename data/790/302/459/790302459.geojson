@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.530067,47.467065,-92.530067,47.467065",
     "geom:latitude":47.467065,
     "geom:longitude":-92.530067,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dd16hRtCvaZyRfWTM9FqT_47.467065_-92.530067@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594785,
-    "wof:geomhash":"0cf1f7a71b7b9e10a00c2b8dfc31bf98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3efbbb9aeec347a52e9e5e3842dbc235",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790302459
+        }
+    ],
     "wof:id":790302459,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492837822,
     "wof:name":"Mackey Construction LLC",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

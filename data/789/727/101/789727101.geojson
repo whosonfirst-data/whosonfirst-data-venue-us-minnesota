@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.079371,45.103884,-93.079371,45.103884",
     "geom:latitude":45.103884,
     "geom:longitude":-93.079371,
@@ -33,17 +34,34 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514457,
+        85633793,
+        85953175,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KoEplNSvgrqfSpzEOMjsv_45.103884_-93.079371@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590079,
-    "wof:geomhash":"940b3af64f09ffb19c555a28c26f732b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"767675920dd8bfe92f54dedfe4733155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514457,
+            "locality_id":85953175,
+            "region_id":85688727,
+            "venue_id":789727101
+        }
+    ],
     "wof:id":789727101,
-    "wof:lastmodified":1472629232,
+    "wof:lastmodified":1492812620,
     "wof:name":"Clark Consultants LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

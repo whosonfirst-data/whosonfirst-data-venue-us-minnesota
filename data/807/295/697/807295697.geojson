@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.892662,45.403203,-93.892662,45.403203",
     "geom:latitude":45.403203,
     "geom:longitude":-93.892662,
@@ -32,17 +33,34 @@
         "equipment-service"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515051,
+        85633793,
+        85968831,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2htpG5VhT0o6VDuzhUgBkO_45.403203_-93.892662@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605810,
-    "wof:geomhash":"386bce2392ba3dc5d4f01136565bf04b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"511946aef0d5fd0f828f383740e93d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515051,
+            "locality_id":85968831,
+            "region_id":85688727,
+            "venue_id":807295697
+        }
+    ],
     "wof:id":807295697,
-    "wof:lastmodified":1472629621,
+    "wof:lastmodified":1492826214,
     "wof:name":"Technician Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

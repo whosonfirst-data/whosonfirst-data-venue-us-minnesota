@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.390748,47.483917,-92.390748,47.483917",
     "geom:latitude":47.483917,
     "geom:longitude":-92.390748,
@@ -32,17 +33,26 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zO46ysmmY4FH4JBMYhep7_47.483917_-92.390748@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591313,
-    "wof:geomhash":"cdea5720fb1cdb928e33891467541702",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ae043d1988ad3712fed12fa7477f1a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":789882591
+        }
+    ],
     "wof:id":789882591,
-    "wof:lastmodified":1472629572,
+    "wof:lastmodified":1492810947,
     "wof:name":"EFI Hutter House",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

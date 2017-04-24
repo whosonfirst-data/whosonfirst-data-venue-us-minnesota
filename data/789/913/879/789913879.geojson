@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.480704,48.043842,-90.480704,48.043842",
     "geom:latitude":48.043842,
     "geom:longitude":-90.480704,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509495,
+        85633793,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KlZyakuoAMmPX9QoZyHhz_48.043842_-90.480704@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591572,
-    "wof:geomhash":"8f8405a6ae932e498c2cacebb3ddc0c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a15cd3ff5b0bbab98f43272482d36802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404509495,
+            "region_id":85688727,
+            "venue_id":789913879
+        }
+    ],
     "wof:id":789913879,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492812713,
     "wof:name":"Austin Construction Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

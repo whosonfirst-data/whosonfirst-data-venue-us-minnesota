@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.379815,43.644055,-93.379815,43.644055",
     "geom:latitude":43.644055,
     "geom:longitude":-93.379815,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.albertleatribune.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kYaTXqXO7olucrPetewJp_43.644055_-93.379815@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597743,
-    "wof:geomhash":"b19efe133a9b53618295812daf04d5c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"584e83d505e5aab7827d6449b7aaa639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806388607
+        }
+    ],
     "wof:id":806388607,
-    "wof:lastmodified":1472629041,
+    "wof:lastmodified":1492821657,
     "wof:name":"Albert Lea Tribune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

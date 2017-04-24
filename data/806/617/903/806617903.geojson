@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.459838,45.089156,-93.459838,45.089156",
     "geom:latitude":45.089156,
     "geom:longitude":-93.459838,
@@ -31,17 +32,34 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X7K19xDAN49ctlAUiD12r_45.089156_-93.459838@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599636,
-    "wof:geomhash":"2692237876b1f4b9feb2fbe47f8f780f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c640bcb1424f0dde50890338342b60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806617903
+        }
+    ],
     "wof:id":806617903,
-    "wof:lastmodified":1472629556,
+    "wof:lastmodified":1492818461,
     "wof:name":"Collins Auto Body Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

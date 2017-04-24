@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.899183,45.448016,-93.899183,45.448016",
     "geom:latitude":45.448016,
     "geom:longitude":-93.899183,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515055,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HbVlZCrk3FB3o3FFaFtoL_45.448016_-93.899183@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605810,
-    "wof:geomhash":"07d84a2752c45503efbf5142087acf68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27ebe11e15626fcabbc02fc231547c04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515055,
+            "region_id":85688727,
+            "venue_id":807295705
+        }
+    ],
     "wof:id":807295705,
-    "wof:lastmodified":1472629621,
+    "wof:lastmodified":1492826202,
     "wof:name":"Brower Concrete, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

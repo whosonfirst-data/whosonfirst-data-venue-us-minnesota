@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.795161,45.301404,-93.795161,45.301404",
     "geom:latitude":45.301404,
     "geom:longitude":-93.795161,
@@ -34,17 +35,34 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KQz2Fzcv7OgRGO96Cyafh_45.301404_-93.795161@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600974,
-    "wof:geomhash":"9663a824f4e3ff3bd2dcec8d734943ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62f3e8917b20f3ab661bba365bab0519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":806774837
+        }
+    ],
     "wof:id":806774837,
-    "wof:lastmodified":1472629809,
+    "wof:lastmodified":1492819475,
     "wof:name":"River City Movies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.385014,44.885103,-93.385014,44.885103",
     "geom:latitude":44.885103,
     "geom:longitude":-93.385014,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NvZB3ReDqAHRTj4bxBqAB_44.885103_-93.385014@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608524,
-    "wof:geomhash":"6e333812eb02cb7022a26144d429a1b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c6a13248815ea007885b6b984225784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823209567
+        }
+    ],
     "wof:id":823209567,
-    "wof:lastmodified":1472629107,
+    "wof:lastmodified":1492829841,
     "wof:name":"Cb And Scott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

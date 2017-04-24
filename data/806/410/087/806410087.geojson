@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.066356,46.915855,-95.066356,46.915855",
     "geom:latitude":46.915855,
     "geom:longitude":-95.066356,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WRx96IUKHJqjOcUyb61pa_46.915855_-95.066356@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597929,
-    "wof:geomhash":"bf0157744184164eebb60433277a8cbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fca2592e6549cae9311352424cf6a14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":806410087
+        }
+    ],
     "wof:id":806410087,
-    "wof:lastmodified":1472629070,
+    "wof:lastmodified":1492815798,
     "wof:name":"Park Villa Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

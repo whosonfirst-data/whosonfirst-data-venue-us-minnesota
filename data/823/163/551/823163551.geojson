@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.219324,45.013714,-93.219324,45.013714",
     "geom:latitude":45.013714,
     "geom:longitude":-93.219324,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://www.hannaysmarine.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509463,
+        85633793,
+        85953217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tAJ8Z7fmL52FWIreYDNRo_45.013714_-93.219324@1303262828"
     },
     "wof:country":"US",
     "wof:created":1462607848,
-    "wof:geomhash":"7bf5d1aa97b2023d6d802a3c7b9326b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64a6b6699bddfb51ea19bee02390b69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509463,
+            "locality_id":85953217,
+            "region_id":85688727,
+            "venue_id":823163551
+        }
+    ],
     "wof:id":823163551,
-    "wof:lastmodified":1472628994,
+    "wof:lastmodified":1492829379,
     "wof:name":"Hannay's Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

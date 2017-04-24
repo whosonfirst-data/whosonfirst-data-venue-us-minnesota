@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.997988,45.086451,-92.997988,45.086451",
     "geom:latitude":45.086451,
     "geom:longitude":-92.997988,
@@ -32,17 +33,32 @@
         "interest"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514473,
+        85633793,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10cFVorTrKMthovX0Yvigq_45.086451_-92.997988@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591533,
-    "wof:geomhash":"c83c59e2a2eed3c9c7c44c5e2d73a360",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1ff17e8af2b122f61051ab381ce3267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514473,
+            "region_id":85688727,
+            "venue_id":789909429
+        }
+    ],
     "wof:id":789909429,
-    "wof:lastmodified":1472629608,
+    "wof:lastmodified":1492811938,
     "wof:name":"Law Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

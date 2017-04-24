@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.277802,44.962471,-93.277802,44.962471",
     "geom:latitude":44.962471,
     "geom:longitude":-93.277802,
@@ -50,14 +51,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872585,
+        1108800007,
+        85872643,
         102191575,
+        1108799997,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872643
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +67,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606994,
-    "wof:geomhash":"2b70af3e5bee94863aab44a096abbae1",
+    "wof:geomhash":"ec2783b232f90d7b371541e146939a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,25 +75,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872585,
-            "region_id":85688727,
-            "venue_id":807384701
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799997,
+            "microhood_id":1108800007,
             "neighbourhood_id":85872643,
             "region_id":85688727,
             "venue_id":807384701
         }
     ],
     "wof:id":807384701,
-    "wof:lastmodified":1472629877,
+    "wof:lastmodified":1492826776,
     "wof:name":"Wamo Home Care Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

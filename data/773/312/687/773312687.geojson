@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.523821,45.136839,-94.523821,45.136839",
     "geom:latitude":45.136839,
     "geom:longitude":-94.523821,
@@ -33,17 +34,34 @@
         "procedure"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IVtzIMkjyYl65WNgsx85Q_45.136839_-94.523821@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584789,
-    "wof:geomhash":"44ac8e27edfcc1c8d7625945529b09b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4241cec771e1aa2be884f87682932d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":773312687
+        }
+    ],
     "wof:id":773312687,
-    "wof:lastmodified":1472630001,
+    "wof:lastmodified":1492806409,
     "wof:name":"Nypc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

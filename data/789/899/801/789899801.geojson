@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.760492,45.287371,-93.760492,45.287371",
     "geom:latitude":45.287371,
     "geom:longitude":-93.760492,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OUHAbvhDMPS5s3tcHu45y_45.287371_-93.760492@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591444,
-    "wof:geomhash":"fdfc4207ee2381f370f67293a6061f5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8440f34ec468eabe644610d7056e718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":789899801
+        }
+    ],
     "wof:id":789899801,
-    "wof:lastmodified":1472629614,
+    "wof:lastmodified":1492809112,
     "wof:name":"Printers Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

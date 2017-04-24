@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.839256,45.051005,-94.839256,45.051005",
     "geom:latitude":45.051005,
     "geom:longitude":-94.839256,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509879,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iONX1mN2ipzWTKVWuy2YC_45.051005_-94.839256@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584981,
-    "wof:geomhash":"8be498752e5f4c88a4e96db8a85e6a20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0234777a2080fd01b9da368353f6def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509879,
+            "region_id":85688727,
+            "venue_id":773339993
+        }
+    ],
     "wof:id":773339993,
-    "wof:lastmodified":1472630018,
+    "wof:lastmodified":1492804231,
     "wof:name":"Blue Skies Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

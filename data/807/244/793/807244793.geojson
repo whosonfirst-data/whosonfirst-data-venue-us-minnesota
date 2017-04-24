@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.134521,45.471293,-93.134521,45.471293",
     "geom:latitude":45.471293,
     "geom:longitude":-93.134521,
@@ -31,17 +32,32 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509785,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r2qiEgwcL3XBnn53HR32B_45.471293_-93.134521@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605275,
-    "wof:geomhash":"50023d8865f8b44224d916309e61a89c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"330b1fc1534536c58d9290fd85d85dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509785,
+            "region_id":85688727,
+            "venue_id":807244793
+        }
+    ],
     "wof:id":807244793,
-    "wof:lastmodified":1472629504,
+    "wof:lastmodified":1492827606,
     "wof:name":"Nyquist Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

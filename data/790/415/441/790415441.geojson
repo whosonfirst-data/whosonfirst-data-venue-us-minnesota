@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.464616,43.991405,-92.464616,43.991405",
     "geom:latitude":43.991405,
     "geom:longitude":-92.464616,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18eF5IGj0BSDFU2TnN4DJU_43.991405_-92.464616@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595648,
-    "wof:geomhash":"308ab359b51b5f56cc6ac36005c4ba00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc53238b7325cbb193d040b1f2e1f44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790415441
+        }
+    ],
     "wof:id":790415441,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492835532,
     "wof:name":"Brettin Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

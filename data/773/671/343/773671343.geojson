@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.319681,47.452295,-92.319681,47.452295",
     "geom:latitude":47.452295,
     "geom:longitude":-92.319681,
@@ -31,17 +32,26 @@
         "livestock"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LPjtwVOa94zaLoOEuNS1x_47.452295_-92.319681@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587476,
-    "wof:geomhash":"e5b65c279ae4855469646f7b576759a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f848990f998013632a561265bb59d851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773671343
+        }
+    ],
     "wof:id":773671343,
-    "wof:lastmodified":1472630123,
+    "wof:lastmodified":1492799036,
     "wof:name":"Ronald Mackey",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

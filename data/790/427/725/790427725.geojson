@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.224641,44.890855,-93.224641,44.890855",
     "geom:latitude":44.890855,
     "geom:longitude":-93.224641,
@@ -32,17 +33,32 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511715,
+        85633793,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13hSF2kA95vJhP9CrOGEmk_44.890855_-93.224641@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595755,
-    "wof:geomhash":"765d30e63b7604dd19fde2739ac6f9de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"251dedff9ee81c660f6a784c2c0bbcfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511715,
+            "region_id":85688727,
+            "venue_id":790427725
+        }
+    ],
     "wof:id":790427725,
-    "wof:lastmodified":1472629702,
+    "wof:lastmodified":1492833660,
     "wof:name":"Navy Recruiting Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

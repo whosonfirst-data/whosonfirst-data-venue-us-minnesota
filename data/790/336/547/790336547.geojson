@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.578672,45.305698,-93.578672,45.305698",
     "geom:latitude":45.305698,
     "geom:longitude":-93.578672,
@@ -31,17 +32,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515103,
+        85633793,
+        85968825,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WUEK6itJOJUoZhTH6KsAj_45.305698_-93.578672@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595036,
-    "wof:geomhash":"0e9330b7f119ceb326c8ec7452a59b44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c33e5197d3b9ef84df64c36db74eadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515103,
+            "locality_id":85968825,
+            "region_id":85688727,
+            "venue_id":790336547
+        }
+    ],
     "wof:id":790336547,
-    "wof:lastmodified":1472629525,
+    "wof:lastmodified":1492836129,
     "wof:name":"Craft Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

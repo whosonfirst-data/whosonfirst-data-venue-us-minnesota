@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.169022,48.106192,-96.169022,48.106192",
     "geom:latitude":48.106192,
     "geom:longitude":-96.169022,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ri2nDDx4doQ97GIVJh0mJ_48.106192_-96.169022@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582873,
-    "wof:geomhash":"8e45bf1f601660ec9932ed25c789459e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a222ecd6f810c18dad3bc776fc64cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773062883
+        }
+    ],
     "wof:id":773062883,
-    "wof:lastmodified":1472629476,
+    "wof:lastmodified":1492807217,
     "wof:name":"Adventist Community Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

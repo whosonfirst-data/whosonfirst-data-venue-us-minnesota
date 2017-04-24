@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.088814,46.575173,-96.088814,46.575173",
     "geom:latitude":46.575173,
     "geom:longitude":-96.088814,
@@ -33,17 +34,34 @@
         "lighter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510359,
+        85633793,
+        85968713,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ykDHNJPgeoL5dOJfvXcgu_46.575173_-96.088814@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585043,
-    "wof:geomhash":"250dd0adbc2712dcedb15c9142539e2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"157ed4233a371000425bb71f2f39474f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510359,
+            "locality_id":85968713,
+            "region_id":85688727,
+            "venue_id":773349531
+        }
+    ],
     "wof:id":773349531,
-    "wof:lastmodified":1472630025,
+    "wof:lastmodified":1492806098,
     "wof:name":"Smoke Masters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

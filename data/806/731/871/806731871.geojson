@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.120078,45.518615,-93.120078,45.518615",
     "geom:latitude":45.518615,
     "geom:longitude":-93.120078,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509785,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jPB46b9SQ6Cq4Tu1f6BMD_45.518615_-93.120078@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600600,
-    "wof:geomhash":"7f7ecec1f231d95e3613510a453642dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"664ed506e8a981e184f3b9ab50722cb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509785,
+            "region_id":85688727,
+            "venue_id":806731871
+        }
+    ],
     "wof:id":806731871,
-    "wof:lastmodified":1472629769,
+    "wof:lastmodified":1492814850,
     "wof:name":"Soul Food Alpacas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

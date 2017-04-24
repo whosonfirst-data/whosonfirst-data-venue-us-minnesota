@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.836179,45.386916,-92.836179,45.386916",
     "geom:latitude":45.386916,
     "geom:longitude":-92.836179,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ev77wJqcIEX7ZkVfikMuV_45.386916_-92.836179@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585347,
-    "wof:geomhash":"2b0e54b72606b14f732dded418e2e4eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c79c5e197d6249caee99d8ccf62b7663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":773392601
+        }
+    ],
     "wof:id":773392601,
-    "wof:lastmodified":1472630039,
+    "wof:lastmodified":1492800767,
     "wof:name":"Smith Metal Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

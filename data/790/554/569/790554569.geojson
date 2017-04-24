@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.074288,46.277105,-96.074288,46.277105",
     "geom:latitude":46.277105,
     "geom:longitude":-96.074288,
@@ -40,17 +41,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r0K11hFIF91v1pXnj9IRG_46.277105_-96.074288@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596834,
-    "wof:geomhash":"2c267f9af5252677f89cdd58bc4ae39e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a299c114fc9ffb3f47f27f7156c51055",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":790554569
+        }
+    ],
     "wof:id":790554569,
-    "wof:lastmodified":1472629837,
+    "wof:lastmodified":1492836623,
     "wof:name":"Fergus Falls Dialysis Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

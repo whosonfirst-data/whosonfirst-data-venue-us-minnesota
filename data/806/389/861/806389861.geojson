@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.464098,45.922176,-94.464098,45.922176",
     "geom:latitude":45.922176,
     "geom:longitude":-94.464098,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512873,
+        85633793,
+        85968691,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BJVqz7PxWTWKNm6ZKRTr2_45.922176_-94.464098@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597751,
-    "wof:geomhash":"02b272717c74e917097ed9cfb6029e42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"394b43505e5e58d439d13f6db8fbaaa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512873,
+            "locality_id":85968691,
+            "region_id":85688727,
+            "venue_id":806389861
+        }
+    ],
     "wof:id":806389861,
-    "wof:lastmodified":1472629053,
+    "wof:lastmodified":1492819214,
     "wof:name":"Saint Stanislaus Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.419341,44.050746,-94.419341,44.050746",
     "geom:latitude":44.050746,
     "geom:longitude":-94.419341,
@@ -33,17 +34,34 @@
         "crime"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514943,
+        85633793,
+        85968901,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qy2LDzKppiNrwySDPT1q9_44.050746_-94.419341@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597029,
-    "wof:geomhash":"caffc2578edd0d438c1a806520dea534",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cef8dcb0f0132e8b72e40cd9d911d1dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514943,
+            "locality_id":85968901,
+            "region_id":85688727,
+            "venue_id":790578929
+        }
+    ],
     "wof:id":790578929,
-    "wof:lastmodified":1472629864,
+    "wof:lastmodified":1492835167,
     "wof:name":"Crime Stoppers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

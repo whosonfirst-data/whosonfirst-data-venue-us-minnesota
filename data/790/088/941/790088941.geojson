@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.369403,44.893375,-94.369403,44.893375",
     "geom:latitude":44.893375,
     "geom:longitude":-94.369403,
@@ -33,17 +34,34 @@
         "drain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q35I1ZPDnsfjYabwJpkrj_44.893375_-94.369403@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593036,
-    "wof:geomhash":"f83cc652bc05226d9fc4e25a5b0faa3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3ca98136044ed08af0ffbe732ea167c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":790088941
+        }
+    ],
     "wof:id":790088941,
-    "wof:lastmodified":1472629120,
+    "wof:lastmodified":1492834428,
     "wof:name":"3 B's Sewer & Drain Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

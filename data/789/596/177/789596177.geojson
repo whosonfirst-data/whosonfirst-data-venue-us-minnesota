@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.018239,44.601621,-96.018239,44.601621",
     "geom:latitude":44.601621,
     "geom:longitude":-96.018239,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512537,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1c3knly4LMF2Rnu4yDMInm_44.601621_-96.018239@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589029,
-    "wof:geomhash":"f619a3de534fe6830a67fe032a479545",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5d6362239c9074c76cb3a837a48a0017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512537,
+            "region_id":85688727,
+            "venue_id":789596177
+        }
+    ],
     "wof:id":789596177,
-    "wof:lastmodified":1472628955,
+    "wof:lastmodified":1492812079,
     "wof:name":"James Croatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

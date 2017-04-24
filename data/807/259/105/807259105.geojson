@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.998528,45.336651,-92.998528,45.336651",
     "geom:latitude":45.336651,
     "geom:longitude":-92.998528,
@@ -42,17 +43,34 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NrnOhXiJiaQoBbgAVaKub_45.336651_-92.998528@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605422,
-    "wof:geomhash":"1dff45816fe5b2331e62f0507cb38cc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0795ac1fdf39b6856f8395b7ecf03866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":807259105
+        }
+    ],
     "wof:id":807259105,
-    "wof:lastmodified":1472629500,
+    "wof:lastmodified":1492823813,
     "wof:name":"Cornerstone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.847013,45.22307,-93.847013,45.22307",
     "geom:latitude":45.22307,
     "geom:longitude":-93.847013,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515187,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1As6CJZtzBaVDr2ktrr4Fr_45.223070_-93.847013@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600705,
-    "wof:geomhash":"69ed08fe49d65779a13dbba5c50dd38f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4379fd06b8a1f3e082173c589e3ef03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515187,
+            "region_id":85688727,
+            "venue_id":806743219
+        }
+    ],
     "wof:id":806743219,
-    "wof:lastmodified":1472629757,
+    "wof:lastmodified":1492816916,
     "wof:name":"Buffalo Evang Free Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

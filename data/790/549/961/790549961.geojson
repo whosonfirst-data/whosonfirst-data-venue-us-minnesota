@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.273485,43.718214,-91.273485,43.718214",
     "geom:latitude":43.718214,
     "geom:longitude":-91.273485,
@@ -29,10 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1462596795,
-    "wof:geomhash":"1cc91c9e12fdf5b45e37accd33a9944a",
+    "wof:geomhash":"39212cb80567f70f6f7aaf2cb705561c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":790549961
         }
     ],
     "wof:id":790549961,
-    "wof:lastmodified":1472629830,
+    "wof:lastmodified":1492832772,
     "wof:name":"Lawrence Lake Marina & Bait",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

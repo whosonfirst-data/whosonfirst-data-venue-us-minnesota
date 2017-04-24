@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247789,44.837051,-93.247789,44.837051",
     "geom:latitude":44.837051,
     "geom:longitude":-93.247789,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JMEy66gOLWuzaCnIOYZ6e_44.837051_-93.247789@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589686,
-    "wof:geomhash":"e5ec51041b491481152e7b70fb5f7380",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb0540f4a4bf03e4b7b5550161dc9947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":789678147
+        }
+    ],
     "wof:id":789678147,
-    "wof:lastmodified":1472629136,
+    "wof:lastmodified":1492811275,
     "wof:name":"Bloomington Garden Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

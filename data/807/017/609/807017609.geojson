@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.774913,48.197127,-96.774913,48.197127",
     "geom:latitude":48.197127,
     "geom:longitude":-96.774913,
@@ -28,17 +29,34 @@
     "sg:postcode":"56762",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513989,
+        85633793,
+        85953457,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Zaq5wkelrjsVKmXRSS21r_48.197127_-96.774913@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603008,
-    "wof:geomhash":"bf88f2913ecd78fc6a941a1bd665480f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c3447b5f4877b419f705c63122fb0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513989,
+            "locality_id":85953457,
+            "region_id":85688727,
+            "venue_id":807017609
+        }
+    ],
     "wof:id":807017609,
-    "wof:lastmodified":1472628968,
+    "wof:lastmodified":1492823516,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

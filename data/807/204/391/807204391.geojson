@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.551689,45.065055,-93.551689,45.065055",
     "geom:latitude":45.065055,
     "geom:longitude":-93.551689,
@@ -26,17 +27,34 @@
         "facsimile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511881,
+        85633793,
+        85969173,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gCO4BvievKGtAAFH7w5Kr_45.065055_-93.551689@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604839,
-    "wof:geomhash":"21be7cf09f4062dadacab3790285a9b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b83f26468e5d5158e42362c1e79c77cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511881,
+            "locality_id":85969173,
+            "region_id":85688727,
+            "venue_id":807204391
+        }
+    ],
     "wof:id":807204391,
-    "wof:lastmodified":1472629413,
+    "wof:lastmodified":1492823509,
     "wof:name":"MTN Concepts Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

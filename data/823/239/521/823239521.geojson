@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.370762,43.920456,-94.370762,43.920456",
     "geom:latitude":43.920456,
     "geom:longitude":-94.370762,
@@ -32,17 +33,32 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514933,
+        85633793,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ljzv30JvheGzuDwACzdOy_43.920456_-94.370762@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609141,
-    "wof:geomhash":"99ead0121c1a419d28681de1a22f7f23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a134df52bae8569c1d23eadef985f9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514933,
+            "region_id":85688727,
+            "venue_id":823239521
+        }
+    ],
     "wof:id":823239521,
-    "wof:lastmodified":1472629156,
+    "wof:lastmodified":1492828328,
     "wof:name":"Bradley Bowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

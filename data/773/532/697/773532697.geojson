@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.728391,43.77601,-93.728391,43.77601",
     "geom:latitude":43.77601,
     "geom:longitude":-93.728391,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514075,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r7r4FeclK6ZwusmxzXhCu_43.776010_-93.728391@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586432,
-    "wof:geomhash":"203b3d9e68414a19169f5c6017055e98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"568b70f432b290c35b2a91226f23fa66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514075,
+            "region_id":85688727,
+            "venue_id":773532697
+        }
+    ],
     "wof:id":773532697,
-    "wof:lastmodified":1472630083,
+    "wof:lastmodified":1492805041,
     "wof:name":"Boelke Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

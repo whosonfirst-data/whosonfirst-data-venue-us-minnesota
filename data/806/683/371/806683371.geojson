@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.231507,45.122676,-93.231507,45.122676",
     "geom:latitude":45.122676,
     "geom:longitude":-93.231507,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511125,
+        85633793,
+        85953013,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j8XwnPe1xO3zPs5luutZt_45.122676_-93.231507@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600198,
-    "wof:geomhash":"fc89886718bd0df0a3146372965aa484",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4fad05afeba46f27d306ede09cf907a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511125,
+            "locality_id":85953013,
+            "region_id":85688727,
+            "venue_id":806683371
+        }
+    ],
     "wof:id":806683371,
-    "wof:lastmodified":1472629692,
+    "wof:lastmodified":1492814759,
     "wof:name":"Maximum Performance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

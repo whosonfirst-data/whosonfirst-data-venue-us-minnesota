@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.50291,47.168945,-92.50291,47.168945",
     "geom:latitude":47.168945,
     "geom:longitude":-92.50291,
@@ -31,17 +32,26 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OBJAfpgnyjUS6RXZouvsR_47.168945_-92.502910@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582314,
-    "wof:geomhash":"f56ee37feca6e67ae3ebe68745bf9a57",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8af50069425697e1351f5d559c1247f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773010569
+        }
+    ],
     "wof:id":773010569,
-    "wof:lastmodified":1472628981,
+    "wof:lastmodified":1492800914,
     "wof:name":"Natural Resources-Forestry Sta",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

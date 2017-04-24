@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.53974,47.460774,-92.53974,47.460774",
     "geom:latitude":47.460774,
     "geom:longitude":-92.53974,
@@ -31,17 +32,26 @@
         "ready"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pxVCJKY9T68LMVltO63yE_47.460774_-92.539740@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591153,
-    "wof:geomhash":"14b195f6a9c2f0025bef078564641605",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c93e5b2716500812e846bad521b268c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789865935
+        }
+    ],
     "wof:id":789865935,
-    "wof:lastmodified":1472629543,
+    "wof:lastmodified":1492811199,
     "wof:name":"Economy Ready Mix Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

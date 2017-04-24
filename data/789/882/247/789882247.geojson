@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.768322,45.299441,-93.768322,45.299441",
     "geom:latitude":45.299441,
     "geom:longitude":-93.768322,
@@ -31,17 +32,32 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515099,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JXWwQgPxCRWm2TMaZoWq4_45.299441_-93.768322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591311,
-    "wof:geomhash":"5a5ef386d6a3f91acff8e75ed2fa88a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcf0f6d1426446a2d9b7873a8346dc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515099,
+            "region_id":85688727,
+            "venue_id":789882247
+        }
+    ],
     "wof:id":789882247,
-    "wof:lastmodified":1472629559,
+    "wof:lastmodified":1492810943,
     "wof:name":"William Kelly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

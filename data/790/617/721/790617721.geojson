@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.779381,44.08022,-92.779381,44.08022",
     "geom:latitude":44.08022,
     "geom:longitude":-92.779381,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513741,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AKwQuzlycJBlDKqdJr29f_44.080220_-92.779381@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597391,
-    "wof:geomhash":"d3a9e631d310c712925dd51d6c75afa5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"feb29f7dcde780000f04c994c8022058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513741,
+            "region_id":85688727,
+            "venue_id":790617721
+        }
+    ],
     "wof:id":790617721,
-    "wof:lastmodified":1472629922,
+    "wof:lastmodified":1492835051,
     "wof:name":"Don Suhr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

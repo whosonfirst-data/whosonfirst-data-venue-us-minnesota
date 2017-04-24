@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.543615,45.199432,-93.543615,45.199432",
     "geom:latitude":45.199432,
     "geom:longitude":-93.543615,
@@ -45,17 +46,34 @@
     ],
     "sg:website":"http://www.quiznos.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1APMURiKqe86NQ3y60uGvw_45.199432_-93.543615@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606334,
-    "wof:geomhash":"36d653a63e433ca8ec917bc1cd63e24c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25854ddcaf18b1638366d8a91217ad83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":807339005
+        }
+    ],
     "wof:id":807339005,
-    "wof:lastmodified":1472629726,
+    "wof:lastmodified":1492825239,
     "wof:name":"Quiznos Classic Subs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

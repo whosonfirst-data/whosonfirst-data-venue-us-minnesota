@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286949,44.317584,-93.286949,44.317584",
     "geom:latitude":44.317584,
     "geom:longitude":-93.286949,
@@ -31,17 +32,34 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GWP45qHWq2Jp1Ff01W0I6_44.317584_-93.286949@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605193,
-    "wof:geomhash":"30373958270db31ea115f44d8895f523",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a737b8ea9b319c13bdc7770d27f3176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":807238203
+        }
+    ],
     "wof:id":807238203,
-    "wof:lastmodified":1472629496,
+    "wof:lastmodified":1492826897,
     "wof:name":"Boldt Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

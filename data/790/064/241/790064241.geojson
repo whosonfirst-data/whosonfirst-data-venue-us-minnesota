@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.645304,44.033615,-92.645304,44.033615",
     "geom:latitude":44.033615,
     "geom:longitude":-92.645304,
@@ -28,17 +29,34 @@
     "sg:postcode":"55920",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512431,
+        85633793,
+        85953523,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xSkgzIXtyvATh5DdrvHa0_44.033615_-92.645304@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592850,
-    "wof:geomhash":"6bc0bfeb96659b9837188fad152e7c4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c9bfc49299bf096b2c4b39ef36fa34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512431,
+            "locality_id":85953523,
+            "region_id":85688727,
+            "venue_id":790064241
+        }
+    ],
     "wof:id":790064241,
-    "wof:lastmodified":1472629034,
+    "wof:lastmodified":1492831605,
     "wof:name":"Byron Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

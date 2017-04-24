@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.747928,44.601233,-93.747928,44.601233",
     "geom:latitude":44.601233,
     "geom:longitude":-93.747928,
@@ -34,17 +35,32 @@
         "knife"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514975,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YBWkqJ7lGiBakr63nSB5w_44.601233_-93.747928@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599663,
-    "wof:geomhash":"f1fbf593f50a26156ae355dee8447046",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2940d67ab35a4484287a7197f791db5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514975,
+            "region_id":85688727,
+            "venue_id":806621239
+        }
+    ],
     "wof:id":806621239,
-    "wof:lastmodified":1472629546,
+    "wof:lastmodified":1492820004,
     "wof:name":"Minnesota Saw",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

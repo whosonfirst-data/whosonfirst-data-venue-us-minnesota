@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.272526,44.444796,-92.272526,44.444796",
     "geom:latitude":44.444796,
     "geom:longitude":-92.272526,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514795,
+        85633793,
+        85952869,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46s8YopMtX5gYLRaiIjS0l_44.444796_-92.272526@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593946,
-    "wof:geomhash":"d2d08f5d680af56d87eec61160b9cfce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80386b7b40952d5b09484d1ec5f3eda7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514795,
+            "locality_id":85952869,
+            "region_id":85688727,
+            "venue_id":790198509
+        }
+    ],
     "wof:id":790198509,
-    "wof:lastmodified":1472629300,
+    "wof:lastmodified":1492836810,
     "wof:name":"Lake City Auto Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

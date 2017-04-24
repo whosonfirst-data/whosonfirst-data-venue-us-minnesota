@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.606364,44.670893,-93.606364,44.670893",
     "geom:latitude":44.670893,
     "geom:longitude":-93.606364,
@@ -38,17 +39,32 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515043,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SCEH3iSwfrY9I8IH2lYsJ_44.670893_-93.606364@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606240,
-    "wof:geomhash":"e7915adf55873fa58abf00ff825251e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bea2d58e57e104b75031d36b39de8cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515043,
+            "region_id":85688727,
+            "venue_id":807333261
+        }
+    ],
     "wof:id":807333261,
-    "wof:lastmodified":1472629729,
+    "wof:lastmodified":1492826232,
     "wof:name":"Country Trail Tree Spade",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

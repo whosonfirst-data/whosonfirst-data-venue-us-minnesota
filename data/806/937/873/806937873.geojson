@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.917668,47.070169,-94.917668,47.070169",
     "geom:latitude":47.070169,
     "geom:longitude":-94.917668,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509757,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZdcukEiwrUYOSsPCXOOQZ_47.070169_-94.917668@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602339,
-    "wof:geomhash":"cfbd3451839351604dab7ac9ccc1ab11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bec09dba8e4398cf1e171d30a4813c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404509757,
+            "region_id":85688727,
+            "venue_id":806937873
+        }
+    ],
     "wof:id":806937873,
-    "wof:lastmodified":1472629945,
+    "wof:lastmodified":1492816750,
     "wof:name":"Trails End Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

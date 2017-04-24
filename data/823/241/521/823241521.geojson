@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.128624,43.873129,-96.128624,43.873129",
     "geom:latitude":43.873129,
     "geom:longitude":-96.128624,
@@ -46,17 +47,34 @@
         "plotting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510433,
+        85633793,
+        85953115,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qYfnhbsMpgRuK0SikTJLz_43.873129_-96.128624@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609176,
-    "wof:geomhash":"3ce8232c6899df9674462977c4250a90",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff21ab8726447c944d0d763be6cc7836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510433,
+            "locality_id":85953115,
+            "region_id":85688727,
+            "venue_id":823241521
+        }
+    ],
     "wof:id":823241521,
-    "wof:lastmodified":1472629157,
+    "wof:lastmodified":1492828897,
     "wof:name":"Main Street Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

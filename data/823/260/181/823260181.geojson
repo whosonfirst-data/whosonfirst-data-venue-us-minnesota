@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.063807,48.175057,-97.063807,48.175057",
     "geom:latitude":48.175057,
     "geom:longitude":-97.063807,
@@ -32,17 +33,32 @@
         "device"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513851,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JpmdW028GHDOrDnTxFAON_48.175057_-97.063807@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609555,
-    "wof:geomhash":"09138f1ebb56d248eb9b1a7e1b0ba10c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4448769f471cd2fef5eb4965d6e19b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513851,
+            "region_id":85688727,
+            "venue_id":823260181
+        }
+    ],
     "wof:id":823260181,
-    "wof:lastmodified":1472629189,
+    "wof:lastmodified":1492828549,
     "wof:name":"Beamco, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

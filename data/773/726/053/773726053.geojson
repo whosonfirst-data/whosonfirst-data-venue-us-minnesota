@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.370274,45.084298,-93.370274,45.084298",
     "geom:latitude":45.084298,
     "geom:longitude":-93.370274,
@@ -31,17 +32,34 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76mjbUBCkOvg4vV4goWaMm_45.084298_-93.370274@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587922,
-    "wof:geomhash":"cde79b0a19c79acb7e75a60584120a35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c58f4d92951c0558a42440e876f5bece",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773726053
+        }
+    ],
     "wof:id":773726053,
-    "wof:lastmodified":1472630140,
+    "wof:lastmodified":1492803225,
     "wof:name":"Potters House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

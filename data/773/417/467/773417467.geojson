@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.6578,47.316816,-92.6578,47.316816",
     "geom:latitude":47.316816,
     "geom:longitude":-92.6578,
@@ -32,17 +33,26 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69MwcMUuwItoRR378BpvCa_47.316816_-92.657800@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585554,
-    "wof:geomhash":"702430a8e686f236f717267e1ed60664",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2237e30a049e7adb5ed7e9583d5bd9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773417467
+        }
+    ],
     "wof:id":773417467,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492800596,
     "wof:name":"Casey Aro",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.759182,46.861542,-95.759182,46.861542",
     "geom:latitude":46.861542,
     "geom:longitude":-95.759182,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511145,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dM981lrMlgzxgTKc5Od1h_46.861542_-95.759182@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587583,
-    "wof:geomhash":"84168dbec240972b83b0f12222218613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ad464e4cedcc388bc158c623cb4bbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511145,
+            "region_id":85688727,
+            "venue_id":773685335
+        }
+    ],
     "wof:id":773685335,
-    "wof:lastmodified":1472630129,
+    "wof:lastmodified":1492800559,
     "wof:name":"B & M Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

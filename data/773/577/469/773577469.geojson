@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.943899,45.301287,-94.943899,45.301287",
     "geom:latitude":45.301287,
     "geom:longitude":-94.943899,
@@ -32,17 +33,34 @@
         "commerce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513943,
+        85633793,
+        85953219,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hv0mAogCA1hv5iSc0olSP_45.301287_-94.943899@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586783,
-    "wof:geomhash":"894c1848a4db8a041f44980aafc8372c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66cd36fdfe28603b4de4a9dfd0ce1d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513943,
+            "locality_id":85953219,
+            "region_id":85688727,
+            "venue_id":773577469
+        }
+    ],
     "wof:id":773577469,
-    "wof:lastmodified":1472630097,
+    "wof:lastmodified":1492802074,
     "wof:name":"New London Chamber Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

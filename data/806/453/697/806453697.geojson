@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.618249,47.020257,-92.618249,47.020257",
     "geom:latitude":47.020257,
     "geom:longitude":-92.618249,
@@ -38,17 +39,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51loXT7PFWOaiDwUbXmzte_47.020257_-92.618249@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598269,
-    "wof:geomhash":"add091aaff89c6b2effb27a1bf3a4319",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3865d63cb7f9dda9268e0ed68a809a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806453697
+        }
+    ],
     "wof:id":806453697,
-    "wof:lastmodified":1472629189,
+    "wof:lastmodified":1492814465,
     "wof:name":"Brady's Septic Design & Inspct",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

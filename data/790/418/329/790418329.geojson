@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.663456,45.262403,-93.663456,45.262403",
     "geom:latitude":45.262403,
     "geom:longitude":-93.663456,
@@ -36,17 +37,34 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515245,
+        85633793,
+        85968889,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05dxBe5daEQGdmZOPUQpaV_45.262403_-93.663456@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595668,
-    "wof:geomhash":"7ed2d6eed092f3a1a3552ee6d77c5919",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11b7d5d0ad368f64229643035d6cc379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515245,
+            "locality_id":85968889,
+            "region_id":85688727,
+            "venue_id":790418329
+        }
+    ],
     "wof:id":790418329,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492837505,
     "wof:name":"Michael Bistodeau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

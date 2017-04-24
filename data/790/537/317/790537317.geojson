@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.181897,48.55806,-97.181897,48.55806",
     "geom:latitude":48.55806,
     "geom:longitude":-97.181897,
@@ -33,17 +34,34 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479297,
+        85633793,
+        85981925,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55XP0iPOpLjfaNEtjgDL3F_48.558060_-97.181897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596681,
-    "wof:geomhash":"5a4deb658d38f0d0cd42ec0bfd1a61c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd5bd46c6e7bc6f983b52669c825174b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404479297,
+            "locality_id":85981925,
+            "region_id":85688525,
+            "venue_id":790537317
+        }
+    ],
     "wof:id":790537317,
-    "wof:lastmodified":1472629809,
+    "wof:lastmodified":1492837559,
     "wof:name":"Pete's Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

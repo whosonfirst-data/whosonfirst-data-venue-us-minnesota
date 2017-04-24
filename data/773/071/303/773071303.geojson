@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.707591,44.116233,-93.707591,44.116233",
     "geom:latitude":44.116233,
     "geom:longitude":-93.707591,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514863,
+        85633793,
+        85953079,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JrjG60nyBLS0PxQGwdNTd_44.116233_-93.707591@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582945,
-    "wof:geomhash":"be8ed733ada4ac0f44dc3adfa23bb165",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c95ac49c9ed8d20ab117e5240e91d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514863,
+            "locality_id":85953079,
+            "region_id":85688727,
+            "venue_id":773071303
+        }
+    ],
     "wof:id":773071303,
-    "wof:lastmodified":1472629461,
+    "wof:lastmodified":1492805698,
     "wof:name":"Gardner Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

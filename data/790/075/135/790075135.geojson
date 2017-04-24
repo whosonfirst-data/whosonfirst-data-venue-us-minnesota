@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.449987,45.610579,-94.449987,45.610579",
     "geom:latitude":45.610579,
     "geom:longitude":-94.449987,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        85952451,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lbearSOsIB6vsonerAx40_45.610579_-94.449987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592932,
-    "wof:geomhash":"3a1bffb2cc2f86eee2debb1f77449890",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0a2889540ef943bb40db3e81a815f2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "locality_id":85952451,
+            "region_id":85688727,
+            "venue_id":790075135
+        }
+    ],
     "wof:id":790075135,
-    "wof:lastmodified":1472629069,
+    "wof:lastmodified":1492835037,
     "wof:name":"Burger Treat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

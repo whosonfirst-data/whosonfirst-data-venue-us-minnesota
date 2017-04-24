@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.693725,44.842785,-93.693725,44.842785",
     "geom:latitude":44.842785,
     "geom:longitude":-93.693725,
@@ -28,17 +29,34 @@
     "sg:postcode":"55318",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511603,
+        85633793,
+        85953353,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H8kVTX7JCIaCbQVEOJeZ2_44.842785_-93.693725@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603450,
-    "wof:geomhash":"0eb64632fe95ef8704c4366574083885",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31f87959f03a18972c91b5576d00223f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511603,
+            "locality_id":85953353,
+            "region_id":85688727,
+            "venue_id":807070625
+        }
+    ],
     "wof:id":807070625,
-    "wof:lastmodified":1472629086,
+    "wof:lastmodified":1492827205,
     "wof:name":"Michael Tellers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

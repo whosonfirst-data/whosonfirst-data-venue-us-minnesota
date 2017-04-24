@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.774994,46.931477,-93.774994,46.931477",
     "geom:latitude":46.931477,
     "geom:longitude":-93.774994,
@@ -44,17 +45,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511243,
+        85633793,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DrDixaMKlDFtzA7KQGzsV_46.931477_-93.774994@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608874,
-    "wof:geomhash":"650e53c10b967033e58156e1294e580d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1efa39b4cdec352c9e9d58f7fb672fe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404511243,
+            "region_id":85688727,
+            "venue_id":823226163
+        }
+    ],
     "wof:id":823226163,
-    "wof:lastmodified":1472629093,
+    "wof:lastmodified":1492830869,
     "wof:name":"Holker Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

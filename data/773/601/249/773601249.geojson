@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.758565,44.104729,-92.758565,44.104729",
     "geom:latitude":44.104729,
     "geom:longitude":-92.758565,
@@ -32,17 +33,32 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513741,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gwEe53l6LHYH2Ny3FpI98_44.104729_-92.758565@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586951,
-    "wof:geomhash":"00c419bd0fe08319e2abb3566ad78ffc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"974248b9ca5fe3a9422c33a4d7df6761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513741,
+            "region_id":85688727,
+            "venue_id":773601249
+        }
+    ],
     "wof:id":773601249,
-    "wof:lastmodified":1472630102,
+    "wof:lastmodified":1492808003,
     "wof:name":"Armstrong & Affiliates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

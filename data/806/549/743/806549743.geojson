@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.230586,45.552723,-94.230586,45.552723",
     "geom:latitude":45.552723,
     "geom:longitude":-94.230586,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B0UTgqlJRqNXUn32vyjij_45.552723_-94.230586@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599032,
-    "wof:geomhash":"ea3fa4a2b7948b3c9a56faef5374679b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d51817ba06c3b3ff524c8d51b99aceb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":806549743
+        }
+    ],
     "wof:id":806549743,
-    "wof:lastmodified":1472629442,
+    "wof:lastmodified":1492815747,
     "wof:name":"Kennedy Transmission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

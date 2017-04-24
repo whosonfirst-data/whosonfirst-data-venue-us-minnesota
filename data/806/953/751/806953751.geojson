@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.41411,45.391108,-94.41411,45.391108",
     "geom:latitude":45.391108,
     "geom:longitude":-94.41411,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510509,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D0MdT1jQkzRTRoCLKJzzv_45.391108_-94.414110@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602475,
-    "wof:geomhash":"2f248529c5f80de97f0ee9457148ac14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d108fda0e747254b74fb953113e46470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510509,
+            "region_id":85688727,
+            "venue_id":806953751
+        }
+    ],
     "wof:id":806953751,
-    "wof:lastmodified":1472629964,
+    "wof:lastmodified":1492816344,
     "wof:name":"Dennis Rausch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

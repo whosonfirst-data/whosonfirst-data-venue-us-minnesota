@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.788961,44.41371,-93.788961,44.41371",
     "geom:latitude":44.41371,
     "geom:longitude":-93.788961,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509709,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qBoVn1uhhX19MdCK1QVoW_44.413710_-93.788961@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604729,
-    "wof:geomhash":"147371c94cd7e5070f3408f031849e69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90ba660b231cfc2919653d8fd32e3665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404509709,
+            "region_id":85688727,
+            "venue_id":807193523
+        }
+    ],
     "wof:id":807193523,
-    "wof:lastmodified":1472629389,
+    "wof:lastmodified":1492823906,
     "wof:name":"Harold Wagner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

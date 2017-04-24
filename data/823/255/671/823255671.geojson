@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.756231,47.583577,-95.756231,47.583577",
     "geom:latitude":47.583577,
     "geom:longitude":-95.756231,
@@ -32,17 +33,34 @@
         "equipment-service"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q4YhISFVEXNAOjBZMaq4v_47.583577_-95.756231@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609453,
-    "wof:geomhash":"20619d3875ab664180bda713f1d855dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59e66630d0c8323b0efcdfa8eafaa0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":823255671
+        }
+    ],
     "wof:id":823255671,
-    "wof:lastmodified":1472629224,
+    "wof:lastmodified":1492831190,
     "wof:name":"Jon's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

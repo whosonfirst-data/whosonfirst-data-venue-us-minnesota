@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.489991,45.639055,-94.489991,45.639055",
     "geom:latitude":45.639055,
     "geom:longitude":-94.489991,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YQChO0iZynrKdHePV09I5_45.639055_-94.489991@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591182,
-    "wof:geomhash":"f68f3c8c383f6bc48385c3fbdd3a7988",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a2e7dc4761fc5f90cf60f2c621a558e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "region_id":85688727,
+            "venue_id":789869189
+        }
+    ],
     "wof:id":789869189,
-    "wof:lastmodified":1472629534,
+    "wof:lastmodified":1492809457,
     "wof:name":"Richard Gundringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

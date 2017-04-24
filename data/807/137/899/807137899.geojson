@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.467909,44.785349,-94.467909,44.785349",
     "geom:latitude":44.785349,
     "geom:longitude":-94.467909,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512687,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39waD0mdDeqoAYsdPuQsJG_44.785349_-94.467909@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604140,
-    "wof:geomhash":"26281b5deaaebcbda25c9d59a4d77057",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6324017d88ca12e9db52efbc11facc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512687,
+            "region_id":85688727,
+            "venue_id":807137899
+        }
+    ],
     "wof:id":807137899,
-    "wof:lastmodified":1472629266,
+    "wof:lastmodified":1492824154,
     "wof:name":"Lakeview 4",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

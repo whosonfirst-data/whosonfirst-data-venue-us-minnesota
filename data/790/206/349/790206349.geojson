@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.200115,48.117954,-96.200115,48.117954",
     "geom:latitude":48.117954,
     "geom:longitude":-96.200115,
@@ -28,17 +29,34 @@
     "sg:postcode":"56701",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20oDXxTisqO4urTHhuiMNz_48.117954_-96.200115@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594003,
-    "wof:geomhash":"2189cfe3e302ada3c4734f63382029aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4cb6e7c7ed3b430f1ab922d870ea3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":790206349
+        }
+    ],
     "wof:id":790206349,
-    "wof:lastmodified":1472629299,
+    "wof:lastmodified":1492833000,
     "wof:name":"Head Shed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

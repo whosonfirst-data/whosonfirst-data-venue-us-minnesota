@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262151,44.348928,-93.262151,44.348928",
     "geom:latitude":44.348928,
     "geom:longitude":-93.262151,
@@ -31,17 +32,32 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512625,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52921dCiWTAplOGkrXQtVI_44.348928_-93.262151@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605202,
-    "wof:geomhash":"ccefadab6fc146037c7016d9db8776f1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33837a73aa19de052879d88636a8fc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512625,
+            "region_id":85688727,
+            "venue_id":807239167
+        }
+    ],
     "wof:id":807239167,
-    "wof:lastmodified":1472629492,
+    "wof:lastmodified":1492822529,
     "wof:name":"Jim T Boudreau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

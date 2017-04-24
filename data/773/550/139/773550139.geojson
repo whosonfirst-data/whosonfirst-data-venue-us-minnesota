@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.53995,47.462339,-92.53995,47.462339",
     "geom:latitude":47.462339,
     "geom:longitude":-92.53995,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KiIKfd2udNAWvYCgZm2QC_47.462339_-92.539950@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586567,
-    "wof:geomhash":"9c5caf557b7dae2de6e62ee177127e1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec413ed1d4463bf34b8d457e6bb53e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773550139
+        }
+    ],
     "wof:id":773550139,
-    "wof:lastmodified":1472630088,
+    "wof:lastmodified":1492803261,
     "wof:name":"Curl & Clip Beauty Barber Shop",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

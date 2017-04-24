@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.851028,44.965351,-93.851028,44.965351",
     "geom:latitude":44.965351,
     "geom:longitude":-93.851028,
@@ -47,17 +48,34 @@
         "conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pRI8XgP9UI7dtXQ44qEsc_44.965351_-93.851028@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606460,
-    "wof:geomhash":"2a6f8804148a0c154e2a62cd80d9e20b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"650718699d5c98bbf4793f71bb7fa396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":807347069
+        }
+    ],
     "wof:id":807347069,
-    "wof:lastmodified":1472629763,
+    "wof:lastmodified":1492826752,
     "wof:name":"Watertek Water Conditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

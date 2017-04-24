@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.008596,44.074181,-94.008596,44.074181",
     "geom:latitude":44.074181,
     "geom:longitude":-94.008596,
@@ -31,17 +32,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511563,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T5uwotzA4Hjikz8GzUrkb_44.074181_-94.008596@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590787,
-    "wof:geomhash":"2673e24a1b35f089dc1e3fd2c4988324",
-    "wof:hierarchy":[],
+    "wof:geomhash":"245584da098622ccc892a77900b11041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511563,
+            "region_id":85688727,
+            "venue_id":789819821
+        }
+    ],
     "wof:id":789819821,
-    "wof:lastmodified":1472629416,
+    "wof:lastmodified":1492809210,
     "wof:name":"Steves Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

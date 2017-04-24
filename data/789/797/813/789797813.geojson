@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.879452,44.235684,-95.879452,44.235684",
     "geom:latitude":44.235684,
     "geom:longitude":-95.879452,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512527,
+        85633793,
+        85968557,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ApfTt3GTMZuDgFAki9LCg_44.235684_-95.879452@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590625,
-    "wof:geomhash":"96c4318b93ea7477eb33ad7f7c4dbdb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fce1f9d1d59f3a1e57a1ead8ad031c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512527,
+            "locality_id":85968557,
+            "region_id":85688727,
+            "venue_id":789797813
+        }
+    ],
     "wof:id":789797813,
-    "wof:lastmodified":1472629384,
+    "wof:lastmodified":1492811833,
     "wof:name":"Balaton Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

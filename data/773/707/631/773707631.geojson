@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.456333,45.502467,-94.456333,45.502467",
     "geom:latitude":45.502467,
     "geom:longitude":-94.456333,
@@ -31,17 +32,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514223,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KBxSG9i0t2o5m2GzmecqO_45.502467_-94.456333@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587784,
-    "wof:geomhash":"a888d4d21af538c3d7e3feacb4e582f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41b937e922b3db4bd4eddf13987c134f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514223,
+            "region_id":85688727,
+            "venue_id":773707631
+        }
+    ],
     "wof:id":773707631,
-    "wof:lastmodified":1472630139,
+    "wof:lastmodified":1492803666,
     "wof:name":"Molitor Manufacturing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

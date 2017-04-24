@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.168912,43.971866,-94.168912,43.971866",
     "geom:latitude":43.971866,
     "geom:longitude":-94.168912,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511573,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pQLO6EYfy8F3uNYobe5bT_43.971866_-94.168912@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603714,
-    "wof:geomhash":"c8a48e0dea5c31e23a672ab769080062",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9e2a0814b409f8cbb3f87527e38f34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511573,
+            "region_id":85688727,
+            "venue_id":807099365
+        }
+    ],
     "wof:id":807099365,
-    "wof:lastmodified":1472629197,
+    "wof:lastmodified":1492827964,
     "wof:name":"Bob Stevens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.204276,44.106025,-93.204276,44.106025",
     "geom:latitude":44.106025,
     "geom:longitude":-93.204276,
@@ -31,17 +32,34 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wYjoUC3BGPFO81vsctObL_44.106025_-93.204276@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601225,
-    "wof:geomhash":"ca0668bb3b684c61e362683d3627d3ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"336be2b8e03fc3c05bd54d36656cd75b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":806804639
+        }
+    ],
     "wof:id":806804639,
-    "wof:lastmodified":1472629850,
+    "wof:lastmodified":1492821443,
     "wof:name":"Fishing Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

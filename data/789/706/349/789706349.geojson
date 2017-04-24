@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.824034,45.307495,-93.824034,45.307495",
     "geom:latitude":45.307495,
     "geom:longitude":-93.824034,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31iMtxJOHj9A7uFPevj6qX_45.307495_-93.824034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589902,
-    "wof:geomhash":"244b55e23e962ca81c63dbf9d844fbcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4d7375078943361d2c253c6131e77d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":789706349
+        }
+    ],
     "wof:id":789706349,
-    "wof:lastmodified":1472629230,
+    "wof:lastmodified":1492813430,
     "wof:name":"Hill Top Excavating & Grading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.866879,46.135044,-92.866879,46.135044",
     "geom:latitude":46.135044,
     "geom:longitude":-92.866879,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513495,
+        85633793,
+        85953263,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08yLlTC7emFViK2jb3PEFi_46.135044_-92.866879@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592128,
-    "wof:geomhash":"99de9c0ce27ef76cbb2b299c65098d1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69ee8e91e24602a2cd76f72cadbcde13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513495,
+            "locality_id":85953263,
+            "region_id":85688727,
+            "venue_id":789975183
+        }
+    ],
     "wof:id":789975183,
-    "wof:lastmodified":1472629670,
+    "wof:lastmodified":1492812877,
     "wof:name":"Chris Citgo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

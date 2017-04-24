@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.957106,47.064294,-93.957106,47.064294",
     "geom:latitude":47.064294,
     "geom:longitude":-93.957106,
@@ -32,17 +33,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511755,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tNOmI9cFygntW3iXDKJF5_47.064294_-93.957106@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582476,
-    "wof:geomhash":"9832ee504aedf97bce12bc7a0fad05e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db56bfe72385ab48901b4f8aa69c7383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511755,
+            "region_id":85688727,
+            "venue_id":773021359
+        }
+    ],
     "wof:id":773021359,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492804975,
     "wof:name":"Cedar Point Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

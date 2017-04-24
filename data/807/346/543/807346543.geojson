@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.790188,44.833167,-93.790188,44.833167",
     "geom:latitude":44.833167,
     "geom:longitude":-93.790188,
@@ -55,17 +56,34 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9519897%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511605,
+        85633793,
+        85953183,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f9hHULVEiufu4kEG5n3kJ_44.833167_-93.790188@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606452,
-    "wof:geomhash":"dda9fe6c3a06acbe34f51a8f651c3342",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50007f81ff2d7fd901dffad1f899a027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511605,
+            "locality_id":85953183,
+            "region_id":85688727,
+            "venue_id":807346543
+        }
+    ],
     "wof:id":807346543,
-    "wof:lastmodified":1472629779,
+    "wof:lastmodified":1492826269,
     "wof:name":"Boy's Electric, LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

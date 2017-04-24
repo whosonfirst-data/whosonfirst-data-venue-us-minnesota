@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.293694,45.062434,-93.293694,45.062434",
     "geom:latitude":45.062434,
     "geom:longitude":-93.293694,
@@ -36,17 +37,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Qsw70JOqtoEqctGcUv8IJ_45.062434_-93.293694@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608235,
-    "wof:geomhash":"10dd9493dc1aa7996d78352de58c8f52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4a09df53905cd3c9c0a09d3fa9d2d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823193203
+        }
+    ],
     "wof:id":823193203,
-    "wof:lastmodified":1472629023,
+    "wof:lastmodified":1492829249,
     "wof:name":"Office Facility Technician",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

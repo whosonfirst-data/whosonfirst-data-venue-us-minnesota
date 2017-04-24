@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.356932,44.812179,-93.356932,44.812179",
     "geom:latitude":44.812179,
     "geom:longitude":-93.356932,
@@ -32,17 +33,34 @@
         "court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J2wUMxTq3zWTPgWMv6Kvx_44.812179_-93.356932@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591621,
-    "wof:geomhash":"f23f143180b2854d023b4295b8ea8897",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cfdf40923e468712816d10535bc41ac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":789919161
+        }
+    ],
     "wof:id":789919161,
-    "wof:lastmodified":1472629596,
+    "wof:lastmodified":1492810040,
     "wof:name":"Zion Secretarial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.382044,44.94936,-93.382044,44.94936",
     "geom:latitude":44.94936,
     "geom:longitude":-93.382044,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46m8AnEWp7Xaz8JPdtMXYE_44.949360_-93.382044@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590869,
-    "wof:geomhash":"00ba32d2516baeb4cd837f6eda721d42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdef1c7a7e34c913e120aeefbb2ecaec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":789829619
+        }
+    ],
     "wof:id":789829619,
-    "wof:lastmodified":1472629424,
+    "wof:lastmodified":1492810758,
     "wof:name":"A Banner Smile Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

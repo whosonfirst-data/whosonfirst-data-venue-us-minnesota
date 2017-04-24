@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.65175,44.05498,-91.65175,44.05498",
     "geom:latitude":44.05498,
     "geom:longitude":-91.65175,
@@ -36,17 +37,34 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WHaG1Bvdts5isTByHOZxs_44.054980_-91.651750@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583552,
-    "wof:geomhash":"360a9b75ebb98c460207020640b2a1cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d78ced8301594bb95faff5792261bd90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":773154047
+        }
+    ],
     "wof:id":773154047,
-    "wof:lastmodified":1472629713,
+    "wof:lastmodified":1492802156,
     "wof:name":"Steve's Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

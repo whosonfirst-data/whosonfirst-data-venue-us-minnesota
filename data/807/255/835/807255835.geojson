@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.9994,45.422483,-92.9994,45.422483",
     "geom:latitude":45.422483,
     "geom:longitude":-92.9994,
@@ -44,17 +45,32 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3akY4X77XrU7FFIRFYIYcK_45.422483_-92.999400@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605387,
-    "wof:geomhash":"43efa8e96f4596ae07e3911ce6551de2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89c764b579fbf1b672f12564c0ba66f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":807255835
+        }
+    ],
     "wof:id":807255835,
-    "wof:lastmodified":1472629524,
+    "wof:lastmodified":1492828026,
     "wof:name":"Metcalf Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

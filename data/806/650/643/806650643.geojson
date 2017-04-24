@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.300202,44.999682,-93.300202,44.999682",
     "geom:latitude":44.999682,
     "geom:longitude":-93.300202,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872691,
+        85872599,
         102191575,
+        1108799979,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872599
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599911,
-    "wof:geomhash":"92c1fc6d5b04a0ddb7d6cf602691fc6c",
+    "wof:geomhash":"3f91ea7c023da4b0062ebcac40167d17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872691,
-            "region_id":85688727,
-            "venue_id":806650643
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799979,
             "neighbourhood_id":85872599,
             "region_id":85688727,
             "venue_id":806650643
         }
     ],
     "wof:id":806650643,
-    "wof:lastmodified":1472629634,
+    "wof:lastmodified":1492821066,
     "wof:name":"Un Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

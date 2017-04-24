@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.293805,45.058947,-93.293805,45.058947",
     "geom:latitude":45.058947,
     "geom:longitude":-93.293805,
@@ -40,17 +41,34 @@
         "replacement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y2P6HGKfZYDWl8ZhGMTa2_45.058947_-93.293805@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608245,
-    "wof:geomhash":"b69c35c13414582a67e5b96373ac35ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89484e35c4fa8e54fbc3cdd5987ef28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823193519
+        }
+    ],
     "wof:id":823193519,
-    "wof:lastmodified":1472629037,
+    "wof:lastmodified":1492829260,
     "wof:name":"Lloyd's Edi Glass Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

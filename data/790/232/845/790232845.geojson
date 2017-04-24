@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.465652,45.011039,-93.465652,45.011039",
     "geom:latitude":45.011039,
     "geom:longitude":-93.465652,
@@ -32,17 +33,34 @@
         "metal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FBlr8E2lkRW6BAXYnYjgp_45.011039_-93.465652@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594196,
-    "wof:geomhash":"177aa69bf41e7b9c7edbf2db0980da03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"370be160bf51dbad4d26076de9fc05c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":790232845
+        }
+    ],
     "wof:id":790232845,
-    "wof:lastmodified":1472629343,
+    "wof:lastmodified":1492831270,
     "wof:name":"ATN Stainless Steel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

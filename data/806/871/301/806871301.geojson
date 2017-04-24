@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.885742,47.489449,-92.885742,47.489449",
     "geom:latitude":47.489449,
     "geom:longitude":-92.885742,
@@ -31,17 +32,36 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ImMIySi0kvh9EzG0rb7hW_47.489449_-92.885742@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601781,
-    "wof:geomhash":"f32aebf79d65e69ca4a822c770c2a439",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be30142fe651542bf473bf954c08165a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":806871301
+        }
+    ],
     "wof:id":806871301,
-    "wof:lastmodified":1472629908,
+    "wof:lastmodified":1492817077,
     "wof:name":"Chisholm Public Library Adult",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

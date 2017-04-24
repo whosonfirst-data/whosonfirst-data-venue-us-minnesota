@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540032,47.464259,-92.540032,47.464259",
     "geom:latitude":47.464259,
     "geom:longitude":-92.540032,
@@ -31,17 +32,26 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jqLgPQF4NTGFkWpwdIAR0_47.464259_-92.540032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600930,
-    "wof:geomhash":"dcfafe132c5ecb77cd03e734fb69a015",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b11297c76038a4c20ef5aa8ee652d4e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806770153
+        }
+    ],
     "wof:id":806770153,
-    "wof:lastmodified":1472629795,
+    "wof:lastmodified":1492815589,
     "wof:name":"Haas Enterprises",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

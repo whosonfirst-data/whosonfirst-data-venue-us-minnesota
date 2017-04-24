@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.953376,43.928795,-93.953376,43.928795",
     "geom:latitude":43.928795,
     "geom:longitude":-93.953376,
@@ -33,17 +34,34 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511551,
+        85633793,
+        85953343,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HWBSCn4ncADNpUuYAhA9a_43.928795_-93.953376@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591161,
-    "wof:geomhash":"1c4ab84b98218a216b3f9fbc69046f1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c351a553329cea0e6e1d69570b93380c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511551,
+            "locality_id":85953343,
+            "region_id":85688727,
+            "venue_id":789867065
+        }
+    ],
     "wof:id":789867065,
-    "wof:lastmodified":1472629532,
+    "wof:lastmodified":1492812168,
     "wof:name":"Mobile Glass Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.5683,43.670192,-93.5683,43.670192",
     "geom:latitude":43.670192,
     "geom:longitude":-93.5683,
@@ -33,17 +34,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509647,
+        85633793,
+        85969073,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lNCjqRg3YdMr1tYs62ox7_43.670192_-93.568300@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583599,
-    "wof:geomhash":"39b59adb0fe3dbf32b926fb54e3ce463",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07b86d3c936b450e16a9902ab8c60cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509647,
+            "locality_id":85969073,
+            "region_id":85688727,
+            "venue_id":773161105
+        }
+    ],
     "wof:id":773161105,
-    "wof:lastmodified":1472629757,
+    "wof:lastmodified":1492803626,
     "wof:name":"Kevin Swenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

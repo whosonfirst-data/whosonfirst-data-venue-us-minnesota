@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.273453,44.448307,-92.273453,44.448307",
     "geom:latitude":44.448307,
     "geom:longitude":-92.273453,
@@ -31,17 +32,34 @@
         "taxicab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514795,
+        85633793,
+        85952869,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pUGDSnjXqh4bTHz2Chswx_44.448307_-92.273453@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593595,
-    "wof:geomhash":"0b2e4ef4619df1b743c1bb6ec28399bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42de8817d4fef3666ca777feebfb9707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514795,
+            "locality_id":85952869,
+            "region_id":85688727,
+            "venue_id":790160357
+        }
+    ],
     "wof:id":790160357,
-    "wof:lastmodified":1472629238,
+    "wof:lastmodified":1492837857,
     "wof:name":"Red Link Taxi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

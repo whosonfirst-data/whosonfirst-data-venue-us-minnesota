@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.589104,44.901501,-93.589104,44.901501",
     "geom:latitude":44.901501,
     "geom:longitude":-93.589104,
@@ -31,17 +32,34 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511913,
+        85633793,
+        85969115,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fB8Ep1L6AlAO2vlBqfgpb_44.901319_-93.589177@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604003,
-    "wof:geomhash":"779b88cc6dee84f919371b3fd04c39d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbed24138acc8403c48b008c961ae189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511913,
+            "locality_id":85969115,
+            "region_id":85688727,
+            "venue_id":807125279
+        }
+    ],
     "wof:id":807125279,
-    "wof:lastmodified":1472629230,
+    "wof:lastmodified":1492827410,
     "wof:name":"Heartbreaker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.236562,45.553686,-94.236562,45.553686",
     "geom:latitude":45.553686,
     "geom:longitude":-94.236562,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cEhLTD1PtCWD8YCgP6XPb_45.553686_-94.236562@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586236,
-    "wof:geomhash":"e70b04243eddbad2c6dc1572fe49060a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe195f969ee22dbb8f1e667aff922a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":773504593
+        }
+    ],
     "wof:id":773504593,
-    "wof:lastmodified":1472630073,
+    "wof:lastmodified":1492805389,
     "wof:name":"Park Diner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

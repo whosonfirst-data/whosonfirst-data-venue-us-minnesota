@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.343549,44.80472,-93.343549,44.80472",
     "geom:latitude":44.80472,
     "geom:longitude":-93.343549,
@@ -32,17 +33,34 @@
         "removal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gZ9uO71Yjaf9lE4YKGPuw_44.804720_-93.343549@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608466,
-    "wof:geomhash":"fa41c6e30d5161fba5b123ec1f29e94a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38b9656281151d3dbb18c8134b7789cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823206329
+        }
+    ],
     "wof:id":823206329,
-    "wof:lastmodified":1472629060,
+    "wof:lastmodified":1492829094,
     "wof:name":"Greg Snowplowing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

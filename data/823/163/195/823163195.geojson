@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.243492,45.020401,-93.243492,45.020401",
     "geom:latitude":45.020401,
     "geom:longitude":-93.243492,
@@ -34,14 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558757,
+        420781087,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607843,
-    "wof:geomhash":"b352476b95a5db4c9ceed32736a68a82",
+    "wof:geomhash":"c3463f55ab19e8bb520e52be8a19659e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,25 +58,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420558757,
-            "region_id":85688727,
-            "venue_id":823163195
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781087,
             "region_id":85688727,
             "venue_id":823163195
         }
     ],
     "wof:id":823163195,
-    "wof:lastmodified":1472628983,
+    "wof:lastmodified":1492829376,
     "wof:name":"Bison Beat Sound",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

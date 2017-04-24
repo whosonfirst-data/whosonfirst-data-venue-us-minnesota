@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.803692,45.786997,-94.803692,45.786997",
     "geom:latitude":45.786997,
     "geom:longitude":-94.803692,
@@ -31,17 +32,32 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514695,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FB7WWm1ebzP0kox0pnKcF_45.786997_-94.803692@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584975,
-    "wof:geomhash":"cd9ed24832a35cbabe3956337df0912d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5349b77114d07ae106c2df334012c1b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514695,
+            "region_id":85688727,
+            "venue_id":773339019
+        }
+    ],
     "wof:id":773339019,
-    "wof:lastmodified":1472630014,
+    "wof:lastmodified":1492804232,
     "wof:name":"Brian's Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

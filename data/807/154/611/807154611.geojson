@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.873697,44.571987,-92.873697,44.571987",
     "geom:latitude":44.571987,
     "geom:longitude":-92.873697,
@@ -26,17 +27,32 @@
         "production"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512097,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bW6MWIXx7X5mRgOqQddPp_44.571987_-92.873697@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604317,
-    "wof:geomhash":"b67454a3e658370e034760f63087f256",
-    "wof:hierarchy":[],
+    "wof:geomhash":"122b980e9fb3f06e48b613723696c684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512097,
+            "region_id":85688727,
+            "venue_id":807154611
+        }
+    ],
     "wof:id":807154611,
-    "wof:lastmodified":1472629302,
+    "wof:lastmodified":1492823943,
     "wof:name":"David Kimmes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

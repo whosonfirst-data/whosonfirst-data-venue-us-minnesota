@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.586244,44.549563,-93.586244,44.549563",
     "geom:latitude":44.549563,
     "geom:longitude":-93.586244,
@@ -35,17 +36,34 @@
         "handling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515037,
+        85633793,
+        85952425,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ELjqnEQrVM7ZpumM2ny7C_44.549563_-93.586244@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584391,
-    "wof:geomhash":"90d6f8ef88960eb8bbab0e2f22a10532",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fbc338bfb16d0be95af7e3ed158d19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515037,
+            "locality_id":85952425,
+            "region_id":85688727,
+            "venue_id":773264185
+        }
+    ],
     "wof:id":773264185,
-    "wof:lastmodified":1472629991,
+    "wof:lastmodified":1492806525,
     "wof:name":"Neil Dornbusch & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

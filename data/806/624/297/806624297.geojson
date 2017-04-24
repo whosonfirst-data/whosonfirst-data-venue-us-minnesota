@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.541033,44.808417,-95.541033,44.808417",
     "geom:latitude":44.808417,
     "geom:longitude":-95.541033,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515275,
+        85633793,
+        85952945,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EbRppFA6SEIKUgJk64l7o_44.808417_-95.541033@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599688,
-    "wof:geomhash":"4aed39b990ae18e54058dbf0c4615aa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d5745e267971714b06eab41d4ab2306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515275,
+            "locality_id":85952945,
+            "region_id":85688727,
+            "venue_id":806624297
+        }
+    ],
     "wof:id":806624297,
-    "wof:lastmodified":1472629555,
+    "wof:lastmodified":1492816093,
     "wof:name":"Affiliated Community Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

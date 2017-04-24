@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.767035,44.029529,-91.767035,44.029529",
     "geom:latitude":44.029529,
     "geom:longitude":-91.767035,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510745,
+        85633793,
+        85968957,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hsygNdbrHh0iuTiruQS48_44.029529_-91.767035@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599516,
-    "wof:geomhash":"fe74032641e9775f9806a27dfc6f5d51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86136aad8111727bf5e5e6dfe4a43406",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404510745,
+            "locality_id":85968957,
+            "region_id":85688727,
+            "venue_id":806603261
+        }
+    ],
     "wof:id":806603261,
-    "wof:lastmodified":1472629535,
+    "wof:lastmodified":1492820851,
     "wof:name":"Stockton City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

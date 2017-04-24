@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.009485,44.941129,-93.009485,44.941129",
     "geom:latitude":44.941129,
     "geom:longitude":-93.009485,
@@ -31,19 +32,40 @@
         "cd"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iKjMCCh8uNx0AlwSET5e5_44.941129_-93.009485@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603160,
-    "wof:geomhash":"aec491aa3fe022ce9e8f2aad0a203c8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69ae1c2072f9704942f21c761112bbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":807034627
+        }
+    ],
     "wof:id":807034627,
-    "wof:lastmodified":1472629001,
+    "wof:lastmodified":1492825142,
     "wof:name":"Greenwood Tree",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

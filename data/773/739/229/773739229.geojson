@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580044,45.570698,-93.580044,45.570698",
     "geom:latitude":45.570698,
     "geom:longitude":-93.580044,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512571,
+        85633793,
+        85968823,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xl6Mo9PpbH37TxPsjh8Ok_45.570698_-93.580044@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588015,
-    "wof:geomhash":"fc1bd2318a147a45af563d4cd6e86622",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bdd2c5f96e57156639fcf76f6bd8435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512571,
+            "locality_id":85968823,
+            "region_id":85688727,
+            "venue_id":773739229
+        }
+    ],
     "wof:id":773739229,
-    "wof:lastmodified":1472630144,
+    "wof:lastmodified":1492802677,
     "wof:name":"Pizza Barn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

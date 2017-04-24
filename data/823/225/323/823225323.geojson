@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.822717,47.430448,-92.822717,47.430448",
     "geom:latitude":47.430448,
     "geom:longitude":-92.822717,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85847473,
+        102191575,
+        404513387,
         85633793,
         85968501,
         102087653,
-        85847473
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462608845,
-    "wof:geomhash":"f0136ee39d6ecd7c90385fedf2f9c0b2",
+    "wof:geomhash":"a55b3098d6faeaf3540c952faecf5b10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513387,
             "locality_id":85968501,
             "neighbourhood_id":85847473,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":823225323,
-    "wof:lastmodified":1472629101,
+    "wof:lastmodified":1492828078,
     "wof:name":"Ram Medical, Inc",
     "wof:parent_id":85847473,
     "wof:placetype":"venue",

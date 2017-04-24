@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.529954,47.234693,-93.529954,47.234693",
     "geom:latitude":47.234693,
     "geom:longitude":-93.529954,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462588388,
-    "wof:geomhash":"6326fade2e71cbc0f931021e9268d494",
+    "wof:geomhash":"c90b04204b9cab62e45e32d5f426d0c9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":773789813,
-    "wof:lastmodified":1472630162,
+    "wof:lastmodified":1492800707,
     "wof:name":"David A Kellin Financial Svc",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

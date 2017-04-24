@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.425065,43.612957,-92.425065,43.612957",
     "geom:latitude":43.612957,
     "geom:longitude":-92.425065,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509639,
+        85633793,
+        85953169,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6elltKV92ugC731welXO65_43.612957_-92.425065@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591172,
-    "wof:geomhash":"4f198a47cf5fc930cdc7ec7568167d44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d5cbbf38f72e1dbca9fe8b4154ae505",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509639,
+            "locality_id":85953169,
+            "region_id":85688727,
+            "venue_id":789868635
+        }
+    ],
     "wof:id":789868635,
-    "wof:lastmodified":1472629542,
+    "wof:lastmodified":1492813582,
     "wof:name":"Steve Hellickson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

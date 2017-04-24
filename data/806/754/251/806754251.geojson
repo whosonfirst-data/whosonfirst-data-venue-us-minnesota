@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.468123,47.488072,-92.468123,47.488072",
     "geom:latitude":47.488072,
     "geom:longitude":-92.468123,
@@ -31,17 +32,26 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kb8OI4STHz8g4G6mrrtUI_47.488072_-92.468123@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600797,
-    "wof:geomhash":"f04999c2845f0c6173ce887266e196d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa2361edacf99edba1de7ae08a6ace9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":806754251
+        }
+    ],
     "wof:id":806754251,
-    "wof:lastmodified":1472629785,
+    "wof:lastmodified":1492814792,
     "wof:name":"Gilbert Recreation Director",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

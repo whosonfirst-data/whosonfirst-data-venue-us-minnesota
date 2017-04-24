@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.470452,44.641851,-93.470452,44.641851",
     "geom:latitude":44.641851,
     "geom:longitude":-93.470452,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85850591,
+        102191575,
+        404515039,
         85633793,
         85952535,
         102087041,
-        85850591
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462594296,
-    "wof:geomhash":"786ac277b9f3464a50a5aa6005f04115",
+    "wof:geomhash":"3464d0f92577f0589e06356531fd9e35",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087041,
+            "localadmin_id":404515039,
             "locality_id":85952535,
             "neighbourhood_id":85850591,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":790246165,
-    "wof:lastmodified":1472629351,
+    "wof:lastmodified":1492833942,
     "wof:name":"Exterior Building Svc Inc",
     "wof:parent_id":85850591,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.942332,48.740613,-95.942332,48.740613",
     "geom:latitude":48.740613,
     "geom:longitude":-95.942332,
@@ -27,17 +28,32 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512959,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74oBLzot5TMqL4I02boGc9_48.740613_-95.942332@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604795,
-    "wof:geomhash":"e10b0d3fade7d996173414089cf956bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4df982e1f73117547cb76c8907c77b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512959,
+            "region_id":85688727,
+            "venue_id":807199861
+        }
+    ],
     "wof:id":807199861,
-    "wof:lastmodified":1472629419,
+    "wof:lastmodified":1492827722,
     "wof:name":"Albert Penas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

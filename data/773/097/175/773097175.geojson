@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.31193,45.200331,-94.31193,45.200331",
     "geom:latitude":45.200331,
     "geom:longitude":-94.31193,
@@ -31,17 +32,34 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512403,
+        85633793,
+        85953559,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uwMaklwpIRpETxoMhgu3I_45.200331_-94.311930@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583134,
-    "wof:geomhash":"a81c9a4ba29ea4871def89421b0cf585",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37fc2fdf7f1a773151b77415d392eb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512403,
+            "locality_id":85953559,
+            "region_id":85688727,
+            "venue_id":773097175
+        }
+    ],
     "wof:id":773097175,
-    "wof:lastmodified":1472629543,
+    "wof:lastmodified":1492807919,
     "wof:name":"Kingston Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

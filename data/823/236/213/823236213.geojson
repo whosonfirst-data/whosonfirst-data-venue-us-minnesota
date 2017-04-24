@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.269692,43.704667,-92.269692,43.704667",
     "geom:latitude":43.704667,
     "geom:longitude":-92.269692,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509645,
+        85633793,
+        85953095,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VwDOHK83cyfjt9A1Uq5l0_43.704667_-92.269692@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609071,
-    "wof:geomhash":"f167cfa811b41e8f9aae02bf7317b907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"945cf50538cfe16b90659d9d1de1167d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509645,
+            "locality_id":85953095,
+            "region_id":85688727,
+            "venue_id":823236213
+        }
+    ],
     "wof:id":823236213,
-    "wof:lastmodified":1472629133,
+    "wof:lastmodified":1492829784,
     "wof:name":"St John's Church Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

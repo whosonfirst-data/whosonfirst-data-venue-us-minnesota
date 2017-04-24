@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.042748,45.11372,-95.042748,45.11372",
     "geom:latitude":45.11372,
     "geom:longitude":-95.042748,
@@ -28,17 +29,34 @@
     "sg:postcode":"56201",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yrGhUC7wVyXmYWHmV20NO_45.113720_-95.042748@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584316,
-    "wof:geomhash":"62c0665c000b327730176f56774a09db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4aa32052e2e41e86e65aaddd0a058d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":773253169
+        }
+    ],
     "wof:id":773253169,
-    "wof:lastmodified":1472629989,
+    "wof:lastmodified":1492803272,
     "wof:name":"Tengwall Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

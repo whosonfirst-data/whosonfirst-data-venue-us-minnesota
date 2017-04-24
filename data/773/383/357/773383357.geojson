@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.865767,45.050299,-93.865767,45.050299",
     "geom:latitude":45.050299,
     "geom:longitude":-93.865767,
@@ -31,17 +32,32 @@
         "furnace"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ANrpXRBcbG7lRxZ933Epv_45.050299_-93.865767@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585275,
-    "wof:geomhash":"14cd78cba71b2ed137af53cdd355c076",
-    "wof:hierarchy":[],
+    "wof:geomhash":"212894afcb3391c8ec7a76cc1753e867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":773383357
+        }
+    ],
     "wof:id":773383357,
-    "wof:lastmodified":1472630036,
+    "wof:lastmodified":1492803577,
     "wof:name":"Class-Act Outdoor Furnace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.299728,44.886692,-93.299728,44.886692",
     "geom:latitude":44.886692,
     "geom:longitude":-93.299728,
@@ -37,17 +38,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75WSNoOtxoSt7VJDuihcDJ_44.886692_-93.299728@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462608021,
-    "wof:geomhash":"f6c897df3d306a22a7c9999d322050e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a97d77b7da228d8cb02e5827c19d8c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823176521
+        }
+    ],
     "wof:id":823176521,
-    "wof:lastmodified":1472629012,
+    "wof:lastmodified":1492828440,
     "wof:name":"Red Carpet Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.04023,45.108936,-93.04023,45.108936",
     "geom:latitude":45.108936,
     "geom:longitude":-93.04023,
@@ -31,17 +32,32 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514471,
+        85633793,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bZDYf9D9PEDAErIjtjP84_45.108936_-93.040230@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595172,
-    "wof:geomhash":"8004e4e9ce78eb73b6c87ba99df9a9ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20df889b766057a4bd9ac69a651afbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514471,
+            "region_id":85688727,
+            "venue_id":790354493
+        }
+    ],
     "wof:id":790354493,
-    "wof:lastmodified":1472629566,
+    "wof:lastmodified":1492837269,
     "wof:name":"Set To Go Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

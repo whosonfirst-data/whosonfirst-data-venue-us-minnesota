@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.053685,44.187163,-94.053685,44.187163",
     "geom:latitude":44.187163,
     "geom:longitude":-94.053685,
@@ -36,17 +37,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41OlSGXNdjJgfSIVw7Z6p7_44.187163_-94.053685@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600249,
-    "wof:geomhash":"6fc0dbe4eb9477ee51f42e87d4a6c56a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ce868683e1455e6c7a631e032577587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":806689391
+        }
+    ],
     "wof:id":806689391,
-    "wof:lastmodified":1472629707,
+    "wof:lastmodified":1492815467,
     "wof:name":"Alliance Pipeline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

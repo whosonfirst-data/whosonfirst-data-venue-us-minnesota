@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.581038,45.198166,-93.581038,45.198166",
     "geom:latitude":45.198166,
     "geom:longitude":-93.581038,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wI8P75l1aNYOze0QGYXCu_45.198166_-93.581038@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589468,
-    "wof:geomhash":"908ce97366dd6e52a8ef11477101686a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3c1d18fb54265393af9e3b28eb3c917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":789651673
+        }
+    ],
     "wof:id":789651673,
-    "wof:lastmodified":1472629100,
+    "wof:lastmodified":1492810068,
     "wof:name":"Stocks Heating & AC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

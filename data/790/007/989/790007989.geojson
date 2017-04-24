@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.344703,45.061275,-93.344703,45.061275",
     "geom:latitude":45.061275,
     "geom:longitude":-93.344703,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JIf7wI6gbUTIllB5qwqDV_45.061275_-93.344703@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592393,
-    "wof:geomhash":"e3ca93be2433a05105a2de94c20bebaa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"54df59008d4abae509c34d3fc29f8770",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":790007989
+        }
+    ],
     "wof:id":790007989,
-    "wof:lastmodified":1472628958,
+    "wof:lastmodified":1492831890,
     "wof:name":"Martin Virginia",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

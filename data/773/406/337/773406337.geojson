@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.229327,45.566578,-93.229327,45.566578",
     "geom:latitude":45.566578,
     "geom:longitude":-93.229327,
@@ -32,17 +33,34 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OwOWIpHKUhbhYcvu3bbxD_45.566578_-93.229327@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585447,
-    "wof:geomhash":"2ae7dc71e9c54ad7d87ef894372f86c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc5fdaf20e0c7511b7cac3b11728a9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":773406337
+        }
+    ],
     "wof:id":773406337,
-    "wof:lastmodified":1472630047,
+    "wof:lastmodified":1492802043,
     "wof:name":"Behaviorl Hlth Svcs Allina CAM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

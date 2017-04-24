@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.670206,44.048545,-91.670206,44.048545",
     "geom:latitude":44.048545,
     "geom:longitude":-91.670206,
@@ -33,17 +34,34 @@
         "recruiting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fUthw2MYJ3p6uxQLs03dp_44.048545_-91.670206@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585311,
-    "wof:geomhash":"803f7b53f3e99ef07c279309307a4a75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f18e6a3b779347f235bb2f536619cbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":773388271
+        }
+    ],
     "wof:id":773388271,
-    "wof:lastmodified":1472630038,
+    "wof:lastmodified":1492808378,
     "wof:name":"US Marine Corps Recruiting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

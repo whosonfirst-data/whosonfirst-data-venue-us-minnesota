@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.336133,45.961981,-93.336133,45.961981",
     "geom:latitude":45.961981,
     "geom:longitude":-93.336133,
@@ -26,17 +27,32 @@
         "petroleum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509861,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L6XhINp8U7FnR2XeiiH5T_45.961981_-93.336133@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604865,
-    "wof:geomhash":"c0c74854492aaed8a3b8ec37fa5463ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce824fa67164d091e6c478bdedf382a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404509861,
+            "region_id":85688727,
+            "venue_id":807206753
+        }
+    ],
     "wof:id":807206753,
-    "wof:lastmodified":1472629425,
+    "wof:lastmodified":1492823698,
     "wof:name":"Underground Tank Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

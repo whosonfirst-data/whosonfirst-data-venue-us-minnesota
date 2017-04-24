@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.459361,45.113584,-93.459361,45.113584",
     "geom:latitude":45.113584,
     "geom:longitude":-93.459361,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O4mWfCpqfszY6cAin95oj_45.113584_-93.459361@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586433,
-    "wof:geomhash":"0ee6696995b0dd6a10ec63f5da922806",
-    "wof:hierarchy":[],
+    "wof:geomhash":"733e1835c68a5bd8042e93d51dfe78fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773532749
+        }
+    ],
     "wof:id":773532749,
-    "wof:lastmodified":1472630083,
+    "wof:lastmodified":1492805032,
     "wof:name":"Barbara Kiemen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

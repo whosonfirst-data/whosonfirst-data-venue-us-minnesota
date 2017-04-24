@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.204434,44.903084,-94.204434,44.903084",
     "geom:latitude":44.903084,
     "geom:longitude":-94.204434,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510113,
+        85633793,
+        85952555,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27AMbCT2IzfNsz09SnNbaI_44.903084_-94.204434@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596722,
-    "wof:geomhash":"0ea2d52074bd502b6207f607110f637b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"068c7c8e60a29cd53b74e2ae5a8ae954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510113,
+            "locality_id":85952555,
+            "region_id":85688727,
+            "venue_id":790542233
+        }
+    ],
     "wof:id":790542233,
-    "wof:lastmodified":1472629812,
+    "wof:lastmodified":1492836151,
     "wof:name":"Church Of The Holy Family",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

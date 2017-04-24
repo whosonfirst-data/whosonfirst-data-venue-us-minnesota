@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.138708,44.926825,-93.138708,44.926825",
     "geom:latitude":44.926825,
     "geom:longitude":-93.138708,
@@ -39,19 +40,38 @@
     ],
     "sg:website":"www.runnfunshoes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ckltp1ZV8Lcg3RG7mHVzQ_44.926825_-93.138708@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600245,
-    "wof:geomhash":"23c2da2ed631451e4a8223cd2a733ad0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9f1e32d35a162b287338cfbadc77dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":806688887
+        }
+    ],
     "wof:id":806688887,
-    "wof:lastmodified":1472629701,
+    "wof:lastmodified":1492820877,
     "wof:name":"Run N Fun",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

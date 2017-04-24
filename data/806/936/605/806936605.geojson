@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.053193,44.960202,-94.053193,44.960202",
     "geom:latitude":44.960202,
     "geom:longitude":-94.053193,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3geYrXmyvjyTSK97uL0EPi_44.960202_-94.053193@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602329,
-    "wof:geomhash":"d6a70365253e3e4bf65f2a6f282dc0b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"718a68c5c51ecfd53d8d47ba2918f0e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":806936605
+        }
+    ],
     "wof:id":806936605,
-    "wof:lastmodified":1472629948,
+    "wof:lastmodified":1492814538,
     "wof:name":"Winsted Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

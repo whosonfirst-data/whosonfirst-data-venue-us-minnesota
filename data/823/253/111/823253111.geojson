@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.686014,46.530638,-93.686014,46.530638",
     "geom:latitude":46.530638,
     "geom:longitude":-93.686014,
@@ -46,17 +47,34 @@
         "paving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509151,
+        85633793,
+        85968607,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wiMUWOP9HKqo8z1UpFj6v_46.530638_-93.686014@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609405,
-    "wof:geomhash":"a32597fec86a34087489c8d330883692",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6317643df24c4f54f1e305b80f77b286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404509151,
+            "locality_id":85968607,
+            "region_id":85688727,
+            "venue_id":823253111
+        }
+    ],
     "wof:id":823253111,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492829726,
     "wof:name":"Oakridge Homesr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

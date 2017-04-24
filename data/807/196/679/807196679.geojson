@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.826452,43.800542,-93.826452,43.800542",
     "geom:latitude":43.800542,
     "geom:longitude":-93.826452,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514093,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6w0SgsoicL4RkBeAFH2imH_43.800542_-93.826452@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604765,
-    "wof:geomhash":"c965b797eaae08464943a6dbd59692a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c4f6048ff9a6233564d12eac52d3aed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514093,
+            "region_id":85688727,
+            "venue_id":807196679
+        }
+    ],
     "wof:id":807196679,
-    "wof:lastmodified":1472629414,
+    "wof:lastmodified":1492822471,
     "wof:name":"Scott Radke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

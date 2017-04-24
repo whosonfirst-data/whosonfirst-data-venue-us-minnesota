@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.494219,46.089886,-94.494219,46.089886",
     "geom:latitude":46.089886,
     "geom:longitude":-94.494219,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510043,
+        85633793,
+        85968695,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61oK1q6uqM6LuGI6gHeqJw_46.089886_-94.494219@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590236,
-    "wof:geomhash":"7733d0d3e1532e8edf645448bbe0fdb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60a88c4ab400de47dac2215f3772bc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510043,
+            "locality_id":85968695,
+            "region_id":85688727,
+            "venue_id":789747691
+        }
+    ],
     "wof:id":789747691,
-    "wof:lastmodified":1472629311,
+    "wof:lastmodified":1492809903,
     "wof:name":"St James Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

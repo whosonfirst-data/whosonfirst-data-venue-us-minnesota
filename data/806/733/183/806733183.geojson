@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.384025,44.968011,-93.384025,44.968011",
     "geom:latitude":44.968011,
     "geom:longitude":-93.384025,
@@ -31,17 +32,34 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LLNDoEzQOSzrbh2gqeONC_44.968011_-93.384025@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600610,
-    "wof:geomhash":"d044ec76b88ab2b5bf770f04b656c5ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55925b49abb0262255a02632e860c79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":806733183
+        }
+    ],
     "wof:id":806733183,
-    "wof:lastmodified":1472629756,
+    "wof:lastmodified":1492817673,
     "wof:name":"Royal Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

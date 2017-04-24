@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.324964,47.757647,-90.324964,47.757647",
     "geom:latitude":47.757647,
     "geom:longitude":-90.324964,
@@ -31,17 +32,34 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511965,
+        85633793,
+        85953369,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZyDaSxTIs9752Q3EXQoBP_47.757647_-90.324964@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599215,
-    "wof:geomhash":"53eca95a9ca97c23ff2946a30fb33b6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27ee40e12517cad396d61b0ace287cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404511965,
+            "locality_id":85953369,
+            "region_id":85688727,
+            "venue_id":806570491
+        }
+    ],
     "wof:id":806570491,
-    "wof:lastmodified":1472629463,
+    "wof:lastmodified":1492815433,
     "wof:name":"Emergency Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

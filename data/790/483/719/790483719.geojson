@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.268504,44.447827,-92.268504,44.447827",
     "geom:latitude":44.447827,
     "geom:longitude":-92.268504,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514795,
+        85633793,
+        85952869,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7equOVIXyvdaOnQPyIGg1P_44.447827_-92.268504@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596223,
-    "wof:geomhash":"e1438b8bea131b21b1915e8d7fef6f42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc0860b1383a7b5995d1385854920f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514795,
+            "locality_id":85952869,
+            "region_id":85688727,
+            "venue_id":790483719
+        }
+    ],
     "wof:id":790483719,
-    "wof:lastmodified":1472629771,
+    "wof:lastmodified":1492836740,
     "wof:name":"St Mark's Episcopal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

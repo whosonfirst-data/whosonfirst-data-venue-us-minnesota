@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.507645,44.875088,-93.507645,44.875088",
     "geom:latitude":44.875088,
     "geom:longitude":-93.507645,
@@ -32,17 +33,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62nYaR5QR8eWf2aH36ve9V_44.875088_-93.507645@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583410,
-    "wof:geomhash":"6e5ea0f1b16800636a46f05e47b009ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bddfd346b3983ede4c349998c5291db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":773136265
+        }
+    ],
     "wof:id":773136265,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492803308,
     "wof:name":"Market Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.164813,45.587461,-94.164813,45.587461",
     "geom:latitude":45.587461,
     "geom:longitude":-94.164813,
@@ -31,17 +32,34 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NvenQ1w2dUdSAoDSz3z08_45.587461_-94.164813@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593300,
-    "wof:geomhash":"ad32258f9f955cced450207ba71e4bf4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e739e92fa853d2bef3551373f850d18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":790121611
+        }
+    ],
     "wof:id":790121611,
-    "wof:lastmodified":1472629178,
+    "wof:lastmodified":1492835001,
     "wof:name":"Call A Technician",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

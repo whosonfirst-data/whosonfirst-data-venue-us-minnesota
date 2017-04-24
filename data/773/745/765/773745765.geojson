@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.608908,47.767325,-96.608908,47.767325",
     "geom:latitude":47.767325,
     "geom:longitude":-96.608908,
@@ -31,17 +32,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513695,
+        85633793,
+        85968417,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hN9kjdPd62iDPuuIJUoAm_47.767325_-96.608908@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588068,
-    "wof:geomhash":"a9fdea2fd13253168e486d65f19ffe5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77f1d84016fd1838860fa9cc3220c043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513695,
+            "locality_id":85968417,
+            "region_id":85688727,
+            "venue_id":773745765
+        }
+    ],
     "wof:id":773745765,
-    "wof:lastmodified":1472630147,
+    "wof:lastmodified":1492806870,
     "wof:name":"Pat's Hair Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

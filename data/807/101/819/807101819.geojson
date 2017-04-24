@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.347399,44.065034,-95.347399,44.065034",
     "geom:latitude":44.065034,
     "geom:longitude":-95.347399,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512009,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vbWntWIMvC6Yu54E2fZ0X_44.065034_-95.347399@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603752,
-    "wof:geomhash":"daef5c3f43678baaa58650bab196de7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1419fbbb12160eaf456f47ece433db7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512009,
+            "region_id":85688727,
+            "venue_id":807101819
+        }
+    ],
     "wof:id":807101819,
-    "wof:lastmodified":1472629207,
+    "wof:lastmodified":1492822773,
     "wof:name":"Brian Vaupel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

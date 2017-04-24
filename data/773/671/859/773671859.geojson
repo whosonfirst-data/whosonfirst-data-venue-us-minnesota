@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.952146,44.332366,-93.952146,44.332366",
     "geom:latitude":44.332366,
     "geom:longitude":-93.952146,
@@ -32,17 +33,34 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513479,
+        85633793,
+        85953469,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Wbnn8k5f6UaZKJu6TSanL_44.332366_-93.952146@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587479,
-    "wof:geomhash":"43625f86a2c33bdbb195d3fc8e4ba85c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75447f4e9b03b64fe2cd9d03e14625f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513479,
+            "locality_id":85953469,
+            "region_id":85688727,
+            "venue_id":773671859
+        }
+    ],
     "wof:id":773671859,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492799045,
     "wof:name":"Wilson Publishing House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

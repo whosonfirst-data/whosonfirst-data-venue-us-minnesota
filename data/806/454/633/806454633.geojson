@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.451835,43.652174,-94.451835,43.652174",
     "geom:latitude":43.652174,
     "geom:longitude":-94.451835,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514005,
+        85633793,
+        85953127,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53IKXP4n64xgR8cMr86PLU_43.652174_-94.451835@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598275,
-    "wof:geomhash":"df35ac059619cdc78d2d9203dd5b6573",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75edda085f337b0c261d11fd2ca6294d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514005,
+            "locality_id":85953127,
+            "region_id":85688727,
+            "venue_id":806454633
+        }
+    ],
     "wof:id":806454633,
-    "wof:lastmodified":1472629208,
+    "wof:lastmodified":1492819527,
     "wof:name":"Shipping Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

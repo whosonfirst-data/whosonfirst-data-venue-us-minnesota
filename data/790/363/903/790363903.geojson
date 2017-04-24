@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.018505,45.412915,-93.018505,45.412915",
     "geom:latitude":45.412915,
     "geom:longitude":-93.018505,
@@ -32,17 +33,32 @@
         "transportation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66GUlVlmdUkZwWxXLYsQj1_45.412915_-93.018505@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595256,
-    "wof:geomhash":"422b09cf335bfa18d6921c9aac115fbd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"448160136e70756a0b6adc789105103b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":790363903
+        }
+    ],
     "wof:id":790363903,
-    "wof:lastmodified":1472629574,
+    "wof:lastmodified":1492833553,
     "wof:name":"Dock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

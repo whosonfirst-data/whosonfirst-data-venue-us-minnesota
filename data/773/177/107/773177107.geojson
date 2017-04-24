@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.698777,46.520289,-95.698777,46.520289",
     "geom:latitude":46.520289,
     "geom:longitude":-95.698777,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510327,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ncD0acN6TegoHcdntcsdK_46.520289_-95.698777@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583715,
-    "wof:geomhash":"343a3316e8e19669f4a2380833b3d151",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b557bea96503a6d44d4d66e877abfb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510327,
+            "region_id":85688727,
+            "venue_id":773177107
+        }
+    ],
     "wof:id":773177107,
-    "wof:lastmodified":1472629855,
+    "wof:lastmodified":1492802983,
     "wof:name":"Rue Marland & Rowland Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

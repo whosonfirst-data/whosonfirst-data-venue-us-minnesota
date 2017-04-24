@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.358987,46.488576,-94.358987,46.488576",
     "geom:latitude":46.488576,
     "geom:longitude":-94.358987,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511655,
+        85633793,
+        85968785,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OIPC4jYoG5Sy7Z6hgVnVR_46.488576_-94.358987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584707,
-    "wof:geomhash":"36a6d01ce5b79929522ffa458ee31ebe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"96099c9ed7e13252634e139117637d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511655,
+            "locality_id":85968785,
+            "region_id":85688727,
+            "venue_id":773303071
+        }
+    ],
     "wof:id":773303071,
-    "wof:lastmodified":1472630004,
+    "wof:lastmodified":1492799253,
     "wof:name":"Brainerd Roto-Rooter Sewer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

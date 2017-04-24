@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.617131,44.23633,-95.617131,44.23633",
     "geom:latitude":44.23633,
     "geom:longitude":-95.617131,
@@ -34,17 +35,34 @@
         "accommodation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oBaYcgBXgnUmObGHMfmF2_44.236330_-95.617131@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584507,
-    "wof:geomhash":"782e5745516b2eca978a74fb5bce2e64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd42613e125f2544533dd183791b603a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":773278951
+        }
+    ],
     "wof:id":773278951,
-    "wof:lastmodified":1472630032,
+    "wof:lastmodified":1492804450,
     "wof:name":"The Valentine Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

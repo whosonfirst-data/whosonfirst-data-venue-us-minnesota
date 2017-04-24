@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.743173,46.14241,-92.743173,46.14241",
     "geom:latitude":46.14241,
     "geom:longitude":-92.743173,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513497,
+        85633793,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R4cdzq7HVhf2B0cfOBV54_46.142410_-92.743173@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605379,
-    "wof:geomhash":"d12ab44a4ed2154d575f3cd6ffd7a5ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bcb39c2f99af6551d768d7d5e849657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513497,
+            "region_id":85688727,
+            "venue_id":807255051
+        }
+    ],
     "wof:id":807255051,
-    "wof:lastmodified":1472629499,
+    "wof:lastmodified":1492828040,
     "wof:name":"Michael E Riedeman Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

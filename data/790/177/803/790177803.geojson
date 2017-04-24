@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.008515,44.921494,-93.008515,44.921494",
     "geom:latitude":44.921494,
     "geom:longitude":-93.008515,
@@ -28,19 +29,40 @@
     "sg:postcode":"55119",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800629,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cWbddYRZrbITty5cik20t_44.921494_-93.008515@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593756,
-    "wof:geomhash":"1cc60ad39daf39e587735053573742de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bfde51ad7f196b325eae98058bfb57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800629,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":790177803
+        }
+    ],
     "wof:id":790177803,
-    "wof:lastmodified":1472629267,
+    "wof:lastmodified":1492833906,
     "wof:name":"Metropolitan Slot Car",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

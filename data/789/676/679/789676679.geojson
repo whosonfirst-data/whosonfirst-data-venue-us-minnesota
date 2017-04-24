@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.458831,45.587141,-93.458831,45.587141",
     "geom:latitude":45.587141,
     "geom:longitude":-93.458831,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509789,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54lEPdwkzvfUW4nYWL7U7Z_45.587141_-93.458831@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589676,
-    "wof:geomhash":"6c79d9f1218841dc079d7eccee567cac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7aa0cc45d880cdc0746a80d3ef016d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509789,
+            "region_id":85688727,
+            "venue_id":789676679
+        }
+    ],
     "wof:id":789676679,
-    "wof:lastmodified":1472629160,
+    "wof:lastmodified":1492813084,
     "wof:name":"Cross Of Life Community Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

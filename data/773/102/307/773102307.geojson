@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.654147,46.528607,-94.654147,46.528607",
     "geom:latitude":46.528607,
     "geom:longitude":-94.654147,
@@ -32,17 +33,32 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509395,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60lrvccj1uK1ZRKDf8Max4_46.528607_-94.654147@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583170,
-    "wof:geomhash":"44c59dd865b37d1b501d93a04c049ddd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70b503441a0ac97d17eb833d04cf9a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509395,
+            "region_id":85688727,
+            "venue_id":773102307
+        }
+    ],
     "wof:id":773102307,
-    "wof:lastmodified":1472629596,
+    "wof:lastmodified":1492806569,
     "wof:name":"Eagles Nest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

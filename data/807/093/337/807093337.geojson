@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.756085,45.113925,-95.756085,45.113925",
     "geom:latitude":45.113925,
     "geom:longitude":-95.756085,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509415,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cfSjMKqChx4UmI352P0OK_45.113925_-95.756085@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603648,
-    "wof:geomhash":"c82e0ac2e70e26b69465ca6353f7d977",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ff426b8175aa4eb25ff5ee96d22affc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509415,
+            "region_id":85688727,
+            "venue_id":807093337
+        }
+    ],
     "wof:id":807093337,
-    "wof:lastmodified":1472629174,
+    "wof:lastmodified":1492827275,
     "wof:name":"Moldens Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

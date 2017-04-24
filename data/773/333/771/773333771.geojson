@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.172996,46.133101,-96.172996,46.133101",
     "geom:latitude":46.133101,
     "geom:longitude":-96.172996,
@@ -34,17 +35,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513067,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cL7KVKfVLaJYoABW5G9Uv_46.133101_-96.172996@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584940,
-    "wof:geomhash":"c95a36e08cf8eba648f57d63904f1eff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edfbab18157604fe477f910ade6c92b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513067,
+            "region_id":85688727,
+            "venue_id":773333771
+        }
+    ],
     "wof:id":773333771,
-    "wof:lastmodified":1472630017,
+    "wof:lastmodified":1492805843,
     "wof:name":"White Ash Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

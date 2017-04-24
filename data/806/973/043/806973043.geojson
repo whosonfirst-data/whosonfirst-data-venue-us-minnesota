@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.229767,43.449669,-93.229767,43.449669",
     "geom:latitude":43.449669,
     "geom:longitude":-93.229767,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1W5bPnIXgnpISyaiDdS07e_43.449669_-93.229767@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602634,
-    "wof:geomhash":"dc5ee3f8ba164ce06cf0419c3db569cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"558c21c755f9df7f7765feecc3a994a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":806973043
+        }
+    ],
     "wof:id":806973043,
-    "wof:lastmodified":1472629961,
+    "wof:lastmodified":1492818814,
     "wof:name":"Gordon Farm Property",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

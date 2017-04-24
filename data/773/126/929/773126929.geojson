@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.694757,46.80682,-95.694757,46.80682",
     "geom:latitude":46.80682,
     "geom:longitude":-95.694757,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511145,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UOylV25rtC03QnOhxLnfU_46.806820_-95.694757@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583341,
-    "wof:geomhash":"f53797d6b9cedcd74e55097c50bc870e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4edda5ffb23c490d984099718e815dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511145,
+            "region_id":85688727,
+            "venue_id":773126929
+        }
+    ],
     "wof:id":773126929,
-    "wof:lastmodified":1472629670,
+    "wof:lastmodified":1492806113,
     "wof:name":"Mountain Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

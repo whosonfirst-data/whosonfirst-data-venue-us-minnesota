@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.381381,44.907329,-93.381381,44.907329",
     "geom:latitude":44.907329,
     "geom:longitude":-93.381381,
@@ -32,17 +33,34 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hJHCwEJvW6j05GtgHoDA8_44.907329_-93.381381@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584330,
-    "wof:geomhash":"1194472b41a732871bb9167c9f508ac8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f8ef1866e039b6971b88267fcab965f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":773255045
+        }
+    ],
     "wof:id":773255045,
-    "wof:lastmodified":1472629988,
+    "wof:lastmodified":1492809004,
     "wof:name":"Olympic Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

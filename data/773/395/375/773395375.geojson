@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.987751,43.623024,-94.987751,43.623024",
     "geom:latitude":43.623024,
     "geom:longitude":-94.987751,
@@ -36,17 +37,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ax3qdzyt1EhmNMe80gHc6_43.623024_-94.987751@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585366,
-    "wof:geomhash":"a4e11476442e447d48ee880e017c746f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"593cb02f3582251a1f9c1a340a42ab97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":773395375
+        }
+    ],
     "wof:id":773395375,
-    "wof:lastmodified":1472630039,
+    "wof:lastmodified":1492807035,
     "wof:name":"Kauffman Auto Body Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

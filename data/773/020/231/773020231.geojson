@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.138958,43.972052,-92.138958,43.972052",
     "geom:latitude":43.972052,
     "geom:longitude":-92.138958,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512435,
+        85633793,
+        85953511,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s51sx9aGTSGLykcdka8FY_43.972052_-92.138958@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582460,
-    "wof:geomhash":"3d91cafad6f1bd752a69114ee5632735",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25c628f91eddee3001e2875d7f8fd697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512435,
+            "locality_id":85953511,
+            "region_id":85688727,
+            "venue_id":773020231
+        }
+    ],
     "wof:id":773020231,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492799767,
     "wof:name":"Dover City Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

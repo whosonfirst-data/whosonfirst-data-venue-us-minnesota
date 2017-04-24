@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.241363,43.637381,-94.241363,43.637381",
     "geom:latitude":43.637381,
     "geom:longitude":-94.241363,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514085,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fQ3alnoEgru8Z4p3FpBmh_43.637381_-94.241363@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603669,
-    "wof:geomhash":"acc9d11ef4a17b1626ddf53db4789af4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f7fe3cc942e4de9894ca6d5aa341d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514085,
+            "region_id":85688727,
+            "venue_id":807095445
+        }
+    ],
     "wof:id":807095445,
-    "wof:lastmodified":1472629179,
+    "wof:lastmodified":1492824456,
     "wof:name":"Edward Hannaman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

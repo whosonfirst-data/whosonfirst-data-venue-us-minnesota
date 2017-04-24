@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.721085,45.372238,-94.721085,45.372238",
     "geom:latitude":45.372238,
     "geom:longitude":-94.721085,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514385,
+        85633793,
+        85952481,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ipuEY1MCfd4MfbvP8ISLv_45.372238_-94.721085@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586222,
-    "wof:geomhash":"4934dd4b086e32c0252aa2f26ce9983f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f9baad82bb5adc98201dd10fd752b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514385,
+            "locality_id":85952481,
+            "region_id":85688727,
+            "venue_id":773502603
+        }
+    ],
     "wof:id":773502603,
-    "wof:lastmodified":1472630072,
+    "wof:lastmodified":1492799179,
     "wof:name":"Paynesville Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

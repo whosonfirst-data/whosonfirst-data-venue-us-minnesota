@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.895085,44.765362,-94.895085,44.765362",
     "geom:latitude":44.765362,
     "geom:longitude":-94.895085,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510573,
+        85633793,
+        85969061,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2emYueDxTdWxpoa6xpD9wE_44.765362_-94.895085@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591292,
-    "wof:geomhash":"0eb8d66fdb3e7cda4d302bb4abc83ff2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"774dbe46855d9545781837975b8f809c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510573,
+            "locality_id":85969061,
+            "region_id":85688727,
+            "venue_id":789880209
+        }
+    ],
     "wof:id":789880209,
-    "wof:lastmodified":1472629560,
+    "wof:lastmodified":1492809217,
     "wof:name":"Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

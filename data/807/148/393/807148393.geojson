@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.642919,43.893399,-95.642919,43.893399",
     "geom:latitude":43.893399,
     "geom:longitude":-95.642919,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513167,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uKcYvkGljT64e2mIC2MrZ_43.893399_-95.642919@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604259,
-    "wof:geomhash":"b3347456901fe3acc32e05921e6ad773",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff2ffdee2e271da13919fca0ae83feac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513167,
+            "region_id":85688727,
+            "venue_id":807148393
+        }
+    ],
     "wof:id":807148393,
-    "wof:lastmodified":1472629277,
+    "wof:lastmodified":1492824555,
     "wof:name":"Stan Kramer Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

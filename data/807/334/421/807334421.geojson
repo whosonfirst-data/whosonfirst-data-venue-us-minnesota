@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.894218,44.8881,-93.894218,44.8881",
     "geom:latitude":44.8881,
     "geom:longitude":-93.894218,
@@ -37,17 +38,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511699,
+        85633793,
+        85952949,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KAPn7P7WDCDHPGPBjzJDn_44.888100_-93.894218@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606255,
-    "wof:geomhash":"e173f9b3aa7db90721e2a4ece3168085",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ddc71929ffefe8cfdb15851884325a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511699,
+            "locality_id":85952949,
+            "region_id":85688727,
+            "venue_id":807334421
+        }
+    ],
     "wof:id":807334421,
-    "wof:lastmodified":1472629735,
+    "wof:lastmodified":1492826352,
     "wof:name":"Diverse Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

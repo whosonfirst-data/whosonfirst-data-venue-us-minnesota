@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.42321,43.545345,-91.42321,43.545345",
     "geom:latitude":43.545345,
     "geom:longitude":-91.42321,
@@ -27,10 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,18 +42,21 @@
     },
     "wof:country":"US",
     "wof:created":1462604664,
-    "wof:geomhash":"58b7ddbcc68503d61b76b2f09635526c",
+    "wof:geomhash":"471ff7f4dea11c341b7004a15c2ae678",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":807187335
         }
     ],
     "wof:id":807187335,
-    "wof:lastmodified":1472629384,
+    "wof:lastmodified":1492825873,
     "wof:name":"Kenneth Schulze",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

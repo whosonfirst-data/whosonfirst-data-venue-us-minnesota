@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.329403,44.746514,-93.329403,44.746514",
     "geom:latitude":44.746514,
     "geom:longitude":-93.329403,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.pizzanpasta.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54AmBPX2rCWlIhktCrIY2K_44.746514_-93.329403@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586186,
-    "wof:geomhash":"e32358b3549a7c9eb2c35bd4ef9937a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8e33df98cc6713ee9a97c87fae5462fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":773497011
+        }
+    ],
     "wof:id":773497011,
-    "wof:lastmodified":1472630070,
+    "wof:lastmodified":1492799229,
     "wof:name":"Pizza N'Pasta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

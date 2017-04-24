@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.785359,45.831709,-95.785359,45.831709",
     "geom:latitude":45.831709,
     "geom:longitude":-95.785359,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509431,
+        85633793,
+        85968289,
+        102087739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xL4dytFvhjXedyWYfY22r_45.831709_-95.785359@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590432,
-    "wof:geomhash":"900ea950c1f1b5c545ded37e1c84cc9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da3e66be669aa1b0a3040daa323d2e53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087739,
+            "localadmin_id":404509431,
+            "locality_id":85968289,
+            "region_id":85688727,
+            "venue_id":789773833
+        }
+    ],
     "wof:id":789773833,
-    "wof:lastmodified":1472629342,
+    "wof:lastmodified":1492809068,
     "wof:name":"Zion Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

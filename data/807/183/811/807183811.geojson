@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.378899,44.8232,-93.378899,44.8232",
     "geom:latitude":44.8232,
     "geom:longitude":-93.378899,
@@ -33,17 +34,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65fJwY37QCXUblFQlFJwK5_44.822783_-93.378881@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604623,
-    "wof:geomhash":"baf633340fae33e87dd783dca465be5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"787c6fe468d194562a38096c899bddc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":807183811
+        }
+    ],
     "wof:id":807183811,
-    "wof:lastmodified":1472629371,
+    "wof:lastmodified":1492826977,
     "wof:name":"Dawn Valley Funeral Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.990319,43.848924,-95.990319,43.848924",
     "geom:latitude":43.848924,
     "geom:longitude":-95.990319,
@@ -34,17 +35,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513195,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eDBFhE9JNLZdiGPCmpKsC_43.848881_-95.990580@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603999,
-    "wof:geomhash":"2470f88c32bba8bd94d08c7e74ba14f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9c912cd5ac81b2dc7e212f09ab953ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513195,
+            "region_id":85688727,
+            "venue_id":807124831
+        }
+    ],
     "wof:id":807124831,
-    "wof:lastmodified":1472629260,
+    "wof:lastmodified":1492825177,
     "wof:name":"Dave Hamm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

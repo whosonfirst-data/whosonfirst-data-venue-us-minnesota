@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.60578,43.625336,-95.60578,43.625336",
     "geom:latitude":43.625336,
     "geom:longitude":-95.60578,
@@ -32,17 +33,34 @@
         "intervention"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54t5LX328PgqMeQE4zxgdz_43.625336_-95.605780@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596337,
-    "wof:geomhash":"37179ff314da683a5f1ab52a956b66ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7d3cb9ee67449ba03662cfdb05bd613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":790495899
+        }
+    ],
     "wof:id":790495899,
-    "wof:lastmodified":1472629777,
+    "wof:lastmodified":1492833863,
     "wof:name":"Southwest Crisis Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

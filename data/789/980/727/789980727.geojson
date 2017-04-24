@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.198142,45.548183,-94.198142,45.548183",
     "geom:latitude":45.548183,
     "geom:longitude":-94.198142,
@@ -32,17 +33,34 @@
         "savings"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IzHWNCfUfteTvSgcqn00w_45.548183_-94.198142@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592171,
-    "wof:geomhash":"17bf8e1cd22dc86f1928d1a09e32ed2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f940c2b80203a4f358a8034d8f0ad559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789980727
+        }
+    ],
     "wof:id":789980727,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492812672,
     "wof:name":"TCF Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

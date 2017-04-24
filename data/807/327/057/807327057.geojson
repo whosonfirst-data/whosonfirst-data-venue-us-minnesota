@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.404057,44.90125,-93.404057,44.90125",
     "geom:latitude":44.90125,
     "geom:longitude":-93.404057,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.isuppli.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511887,
+        85633793,
+        85969165,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GyrS6wnKlBTU3LiMjl3Ek_44.901250_-93.404057@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606155,
-    "wof:geomhash":"7c7dd4f594e5244c9a8ae70275f68fd8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"93b84dc2826b14aa4ad7142af3a4cdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511887,
+            "locality_id":85969165,
+            "region_id":85688727,
+            "venue_id":807327057
+        }
+    ],
     "wof:id":807327057,
-    "wof:lastmodified":1472629719,
+    "wof:lastmodified":1492826000,
     "wof:name":"Isuppli Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

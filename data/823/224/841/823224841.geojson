@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.54142,47.46423,-92.54142,47.46423",
     "geom:latitude":47.46423,
     "geom:longitude":-92.54142,
@@ -31,17 +32,26 @@
         "recreation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HsHMZFZA0deyNzzYThLAp_47.464230_-92.541420@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608836,
-    "wof:geomhash":"cb550843a2fd2b9d93033d58e6e1571c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77507cfde4a199017ba77204765c4b24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224841
+        }
+    ],
     "wof:id":823224841,
-    "wof:lastmodified":1472629107,
+    "wof:lastmodified":1492828775,
     "wof:name":"Hippodrome",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

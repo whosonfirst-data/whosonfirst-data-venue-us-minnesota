@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.293361,45.105249,-93.293361,45.105249",
     "geom:latitude":45.105249,
     "geom:longitude":-93.293361,
@@ -33,17 +34,34 @@
         "alterations-clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nhF8yCSQCelZ4JxBTLsi4_45.105249_-93.293361@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608591,
-    "wof:geomhash":"03a3c1ccc1abb6db68fece393441f084",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78f6d017f23c552bde7d86307a8811d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213357
+        }
+    ],
     "wof:id":823213357,
-    "wof:lastmodified":1472629094,
+    "wof:lastmodified":1492829233,
     "wof:name":"The Shetland Piper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

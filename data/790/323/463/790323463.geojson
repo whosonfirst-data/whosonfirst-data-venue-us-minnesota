@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.409705,45.154194,-93.409705,45.154194",
     "geom:latitude":45.154194,
     "geom:longitude":-93.409705,
@@ -32,17 +33,34 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YvWlMeb9ZaUfcnD0eOTXc_45.154194_-93.409705@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594939,
-    "wof:geomhash":"ee255daaea86ee916888d991f7448f5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c326062db26ab527132c11c94e4dc0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":790323463
+        }
+    ],
     "wof:id":790323463,
-    "wof:lastmodified":1472629505,
+    "wof:lastmodified":1492836829,
     "wof:name":"Curtis & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

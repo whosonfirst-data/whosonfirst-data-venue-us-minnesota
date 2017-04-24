@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.057983,48.054031,-90.057983,48.054031",
     "geom:latitude":48.054031,
     "geom:longitude":-90.057983,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509493,
+        85633793,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lTWoA9ibX5B7CpF5UIj5a_48.054031_-90.057983@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608781,
-    "wof:geomhash":"23c6bd8156ab2e8cffc55a3d9d2567ba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5073a8e0b9a05e1ca795f48f6da74869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404509493,
+            "region_id":85688727,
+            "venue_id":823222631
+        }
+    ],
     "wof:id":823222631,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492830428,
     "wof:name":"Great Plains Locating Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

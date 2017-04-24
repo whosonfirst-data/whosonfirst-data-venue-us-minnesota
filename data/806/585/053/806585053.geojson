@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.053993,43.869172,-93.053993,43.869172",
     "geom:latitude":43.869172,
     "geom:longitude":-93.053993,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510809,
+        85633793,
+        85952847,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HhXzDzEE7mnL8pufENPjF_43.869172_-93.053993@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599354,
-    "wof:geomhash":"0a5111a39c5b53489d7d6c0bd995e271",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5e3ade68cfdba50a4248e2eeffb1e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510809,
+            "locality_id":85952847,
+            "region_id":85688727,
+            "venue_id":806585053
+        }
+    ],
     "wof:id":806585053,
-    "wof:lastmodified":1472629482,
+    "wof:lastmodified":1492821720,
     "wof:name":"Wallace Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

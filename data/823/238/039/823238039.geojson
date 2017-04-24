@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.997398,44.075654,-93.997398,44.075654",
     "geom:latitude":44.075654,
     "geom:longitude":-93.997398,
@@ -33,17 +34,32 @@
         "producer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511523,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iUrUMAV0fkNLyQRPT5Srs_44.075654_-93.997398@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609107,
-    "wof:geomhash":"a721510e1e5843a7c665221696998958",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1682f15985b30f320c4ab169cf03899f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511523,
+            "region_id":85688727,
+            "venue_id":823238039
+        }
+    ],
     "wof:id":823238039,
-    "wof:lastmodified":1472629125,
+    "wof:lastmodified":1492830652,
     "wof:name":"Custom Log Design, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

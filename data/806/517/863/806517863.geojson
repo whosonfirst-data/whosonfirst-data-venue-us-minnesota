@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.741216,44.905626,-93.741216,44.905626",
     "geom:latitude":44.905626,
     "geom:longitude":-93.741216,
@@ -32,17 +33,34 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511907,
+        85633793,
+        85969123,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S4o0RJ0xmItjpNBiLWVpD_44.905626_-93.741216@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598774,
-    "wof:geomhash":"79f4f3cbb2275e77507c96a8ee3aa9ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38520b6a86f141ec3f4652ca8c4ea8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511907,
+            "locality_id":85969123,
+            "region_id":85688727,
+            "venue_id":806517863
+        }
+    ],
     "wof:id":806517863,
-    "wof:lastmodified":1472629373,
+    "wof:lastmodified":1492819739,
     "wof:name":"Wildwood Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

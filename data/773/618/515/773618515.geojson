@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.169786,48.097388,-96.169786,48.097388",
     "geom:latitude":48.097388,
     "geom:longitude":-96.169786,
@@ -28,17 +29,34 @@
     "sg:postcode":"56701",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G5pnEj77yc1xeA2MT50Iw_48.097388_-96.169786@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587088,
-    "wof:geomhash":"d51760ec3867d22c315c1a2765e3da25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4c30a47a1051b87370272e5f33e3d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773618515
+        }
+    ],
     "wof:id":773618515,
-    "wof:lastmodified":1472630110,
+    "wof:lastmodified":1492808426,
     "wof:name":"N Fish Sea",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

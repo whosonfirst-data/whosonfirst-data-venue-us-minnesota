@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.847537,45.279227,-93.847537,45.279227",
     "geom:latitude":45.279227,
     "geom:longitude":-93.847537,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dXt9JQpvVxbSeAHflMbyX_45.279227_-93.847537@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595112,
-    "wof:geomhash":"dfe1f2adbb43df3c89d08eb91e235bae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bab0b6e074818a4a389094cd2e98eeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":790346625
+        }
+    ],
     "wof:id":790346625,
-    "wof:lastmodified":1472629535,
+    "wof:lastmodified":1492835905,
     "wof:name":"Bradley Olsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.563462,44.8906,-93.563462,44.8906",
     "geom:latitude":44.8906,
     "geom:longitude":-93.563462,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wr2ow6eSIB7LqZJbY2qEU_44.890600_-93.563462@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593375,
-    "wof:geomhash":"48b138ac018bfe60a0df49a033c2db69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf6e9e62ed7a6fdfaa3471e297b87cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":790132335
+        }
+    ],
     "wof:id":790132335,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492837207,
     "wof:name":"Williams Auto and Wrecker Sls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

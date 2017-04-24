@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.477019,44.029117,-92.477019,44.029117",
     "geom:latitude":44.029117,
     "geom:longitude":-92.477019,
@@ -33,17 +34,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03rj5dsKq2hamQZQGkB1vH_44.029117_-92.477019@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587756,
-    "wof:geomhash":"8c18b3d3e1acb9d2d77b54da643f4b86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b64c1f08f1d29afddc414955ee86eae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773704491
+        }
+    ],
     "wof:id":773704491,
-    "wof:lastmodified":1472630135,
+    "wof:lastmodified":1492805888,
     "wof:name":"Joe's Auto Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

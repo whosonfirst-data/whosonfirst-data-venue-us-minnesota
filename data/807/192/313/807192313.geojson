@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.415212,43.655826,-95.415212,43.655826",
     "geom:latitude":43.655826,
     "geom:longitude":-95.415212,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509841,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nUMnk1HBc1eVE98ziQzFi_43.655826_-95.415212@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604713,
-    "wof:geomhash":"add9a813edbb4530c3725b6332d9ca53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3eb369d4c872f64828b42425aa11aac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509841,
+            "region_id":85688727,
+            "venue_id":807192313
+        }
+    ],
     "wof:id":807192313,
-    "wof:lastmodified":1472629386,
+    "wof:lastmodified":1492823329,
     "wof:name":"Mike Haberman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

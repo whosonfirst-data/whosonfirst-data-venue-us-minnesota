@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.992492,44.776546,-94.992492,44.776546",
     "geom:latitude":44.776546,
     "geom:longitude":-94.992492,
@@ -31,17 +32,34 @@
         "federal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zLypyrIHxau4jb4RR7JTA_44.776546_-94.992492@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596730,
-    "wof:geomhash":"a3da0d4fec24428133fe788e2d4db115",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bddb5b28763401e898fa2dbef5d8c081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":790543303
+        }
+    ],
     "wof:id":790543303,
-    "wof:lastmodified":1472629812,
+    "wof:lastmodified":1492832805,
     "wof:name":"Natural Resources Conservation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

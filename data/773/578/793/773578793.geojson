@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.217754,45.082454,-93.217754,45.082454",
     "geom:latitude":45.082454,
     "geom:longitude":-93.217754,
@@ -33,17 +34,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Eua1bzhrTGRO13UkbeIPl_45.082454_-93.217754@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586796,
-    "wof:geomhash":"08b7d737914363938bd602adf8ee8260",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d074d4fb549a01b2fb96424e4073c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":773578793
+        }
+    ],
     "wof:id":773578793,
-    "wof:lastmodified":1472630099,
+    "wof:lastmodified":1492804904,
     "wof:name":"Youth House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

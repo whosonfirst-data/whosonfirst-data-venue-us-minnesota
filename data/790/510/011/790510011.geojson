@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.493747,44.999588,-93.493747,44.999588",
     "geom:latitude":44.999588,
     "geom:longitude":-93.493747,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ff74n5Hp58WmtoyG8nT6A_44.999588_-93.493747@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596453,
-    "wof:geomhash":"6b8a02228218cb72b92e035fc326e285",
-    "wof:hierarchy":[],
+    "wof:geomhash":"638789067e01ed8ac1537c446218d365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":790510011
+        }
+    ],
     "wof:id":790510011,
-    "wof:lastmodified":1472629784,
+    "wof:lastmodified":1492836336,
     "wof:name":"Lucid Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.711189,46.533357,-93.711189,46.533357",
     "geom:latitude":46.533357,
     "geom:longitude":-93.711189,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.aitkin.k12.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509151,
+        85633793,
+        85968607,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c22vrMwZsgxvwUWssV6NH_46.533357_-93.711189@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609405,
-    "wof:geomhash":"192227ef882b59948bea7051f1388333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1f88202cc1b9df2bee753f7e02bae8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404509151,
+            "locality_id":85968607,
+            "region_id":85688727,
+            "venue_id":823253107
+        }
+    ],
     "wof:id":823253107,
-    "wof:lastmodified":1472629183,
+    "wof:lastmodified":1492829708,
     "wof:name":"Aitkin High School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

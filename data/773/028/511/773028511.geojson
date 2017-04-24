@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.338144,47.435991,-92.338144,47.435991",
     "geom:latitude":47.435991,
     "geom:longitude":-92.338144,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kuJbfDgETCQuf3h94F7sm_47.435991_-92.338144@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582554,
-    "wof:geomhash":"0691bda6223493cac07755435cbb5dea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6735338b37442bfa001995c437f64f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773028511
+        }
+    ],
     "wof:id":773028511,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492802080,
     "wof:name":"Hall Contracting",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

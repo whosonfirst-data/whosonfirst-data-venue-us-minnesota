@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.934932,46.063069,-94.934932,46.063069",
     "geom:latitude":46.063069,
     "geom:longitude":-94.934932,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510867,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37pyfWbnduGjHzMQZSZPkG_46.063069_-94.934932@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596747,
-    "wof:geomhash":"1b534aa02e28fa198237db96faef3fff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3d14d73e38212b74027cd2fd826097f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404510867,
+            "region_id":85688727,
+            "venue_id":790545399
+        }
+    ],
     "wof:id":790545399,
-    "wof:lastmodified":1472629816,
+    "wof:lastmodified":1492835314,
     "wof:name":"James May",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

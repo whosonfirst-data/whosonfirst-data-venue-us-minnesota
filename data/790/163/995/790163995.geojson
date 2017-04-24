@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218843,45.073426,-93.218843,45.073426",
     "geom:latitude":45.073426,
     "geom:longitude":-93.218843,
@@ -31,17 +32,34 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BpsCwZuZc1S0AzWSzvjRJ_45.073426_-93.218843@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593635,
-    "wof:geomhash":"72238cc89643b750b4c8a2ef288fa2bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"613debb0da9e4038211cd50bdb8ab29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":790163995
+        }
+    ],
     "wof:id":790163995,
-    "wof:lastmodified":1472629266,
+    "wof:lastmodified":1492833697,
     "wof:name":"Finish Line Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

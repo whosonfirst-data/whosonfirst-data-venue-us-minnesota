@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.736778,45.111007,-94.736778,45.111007",
     "geom:latitude":45.111007,
     "geom:longitude":-94.736778,
@@ -42,17 +43,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512265,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fASKBJWSkrnoVAyg7hYqq_45.111007_-94.736778@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609232,
-    "wof:geomhash":"34d11fd3a9399bb5cf412c09189ebf81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc6c2b5cf9bed728156865e1cf0619c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512265,
+            "region_id":85688727,
+            "venue_id":823244775
+        }
+    ],
     "wof:id":823244775,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492830997,
     "wof:name":"Amcrest Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

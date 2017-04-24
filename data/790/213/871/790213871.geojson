@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.621898,47.642832,-92.621898,47.642832",
     "geom:latitude":47.642832,
     "geom:longitude":-92.621898,
@@ -41,17 +42,36 @@
         "mach"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vGYy43xDitq9pxth8zdVw_47.642832_-92.621898@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594055,
-    "wof:geomhash":"7c8b1ce937153f3a99ab4511d18d7bfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce00b2ff951917664285aec677654bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":790213871
+        }
+    ],
     "wof:id":790213871,
-    "wof:lastmodified":1472629321,
+    "wof:lastmodified":1492833251,
     "wof:name":"Metso Minerals",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

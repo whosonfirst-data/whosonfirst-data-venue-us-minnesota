@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.246613,45.35233,-93.246613,45.35233",
     "geom:latitude":45.35233,
     "geom:longitude":-93.246613,
@@ -37,17 +38,34 @@
         "eldercare-home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511283,
+        85633793,
+        85953399,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33DPbqxUG5ByKSEchptlM5_45.352330_-93.246613@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605186,
-    "wof:geomhash":"c8589d1fe1f789dfe66bdb00ac3e81c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e32c5813559687251f8e68a188312813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511283,
+            "locality_id":85953399,
+            "region_id":85688727,
+            "venue_id":807237433
+        }
+    ],
     "wof:id":807237433,
-    "wof:lastmodified":1472629461,
+    "wof:lastmodified":1492827753,
     "wof:name":"Fountain Of Grace Home Care In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

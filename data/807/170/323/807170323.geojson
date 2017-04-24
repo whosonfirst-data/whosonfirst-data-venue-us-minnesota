@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.925125,44.059294,-92.925125,44.059294",
     "geom:latitude":44.059294,
     "geom:longitude":-92.925125,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513747,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bhWRxIVGbbLB3zfakzaci_44.059294_-92.925125@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604488,
-    "wof:geomhash":"67e9fe094a9b2577a7ea5e8699fc203b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60163a822dde36f673fdf7b8b26ad0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513747,
+            "region_id":85688727,
+            "venue_id":807170323
+        }
+    ],
     "wof:id":807170323,
-    "wof:lastmodified":1472629337,
+    "wof:lastmodified":1492823095,
     "wof:name":"Randy Eipers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

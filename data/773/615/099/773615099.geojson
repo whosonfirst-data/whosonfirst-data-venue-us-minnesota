@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.127036,44.770806,-94.127036,44.770806",
     "geom:latitude":44.770806,
     "geom:longitude":-94.127036,
@@ -31,17 +32,34 @@
         "warehouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14wQSK5dgA0JkKHCjXDTvB_44.770806_-94.127036@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587051,
-    "wof:geomhash":"6b0f5eefa5ed9e532636336ec78dd14b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86b7bf0b104a4d5c7e6b5c605f6094c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":773615099
+        }
+    ],
     "wof:id":773615099,
-    "wof:lastmodified":1472630104,
+    "wof:lastmodified":1492803113,
     "wof:name":"Glencoe Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

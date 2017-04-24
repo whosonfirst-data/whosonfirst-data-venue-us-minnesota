@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.3339,44.947102,-93.3339,44.947102",
     "geom:latitude":44.947102,
     "geom:longitude":-93.3339,
@@ -32,17 +33,34 @@
         "community"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yC8kHtIP478HMXeG8Bz38_44.947102_-93.333900@1303262828"
     },
     "wof:country":"US",
     "wof:created":1462607773,
-    "wof:geomhash":"260ccbe8c28d9b4cf4f5f462c5b34640",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f791b444418ce2401d8bf55b691bcc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823157773
+        }
+    ],
     "wof:id":823157773,
-    "wof:lastmodified":1472628969,
+    "wof:lastmodified":1492830096,
     "wof:name":"Arc Hennepin Carver",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

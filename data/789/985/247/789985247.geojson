@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.747322,44.901817,-93.747322,44.901817",
     "geom:latitude":44.901817,
     "geom:longitude":-93.747322,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511907,
+        85633793,
+        85969123,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ANmOSgH1cpZ0jtQJmsg8K_44.901817_-93.747322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592210,
-    "wof:geomhash":"d5e636482611a8b069c0fff74626419f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0476e7c034cb39d38c4e0019a6273aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511907,
+            "locality_id":85969123,
+            "region_id":85688727,
+            "venue_id":789985247
+        }
+    ],
     "wof:id":789985247,
-    "wof:lastmodified":1472629674,
+    "wof:lastmodified":1492811105,
     "wof:name":"Marathon Quick Stop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

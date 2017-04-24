@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.104725,44.924285,-93.104725,44.924285",
     "geom:latitude":44.924285,
     "geom:longitude":-93.104725,
@@ -31,19 +32,40 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800635,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tm7ypzRlfTzyV2E4RGqVz_44.924285_-93.104725@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593495,
-    "wof:geomhash":"862426dda04c32f7963e20453eea9ee4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3295d78584ece73027cc7ebed58bc3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800635,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":790148507
+        }
+    ],
     "wof:id":790148507,
-    "wof:lastmodified":1472629205,
+    "wof:lastmodified":1492834026,
     "wof:name":"Refugio L Mendez",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

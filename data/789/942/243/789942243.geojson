@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.493958,45.807033,-96.493958,45.807033",
     "geom:latitude":45.807033,
     "geom:longitude":-96.493958,
@@ -28,17 +29,34 @@
     "sg:postcode":"56296",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dsEB0ZN88pSp89LZilq5k_45.807033_-96.493958@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591804,
-    "wof:geomhash":"d65d3c79c7270601cfcb12dbd787fa8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb96fbf7c236e242e02aa426e071322f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":789942243
+        }
+    ],
     "wof:id":789942243,
-    "wof:lastmodified":1472629642,
+    "wof:lastmodified":1492809331,
     "wof:name":"Traverse County Hwy Engineer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.6,45.443564,-93.6,45.443564",
     "geom:latitude":45.443564,
     "geom:longitude":-93.6,
@@ -28,17 +29,34 @@
     "sg:postcode":"55398",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513887,
+        85633793,
+        85968821,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aY1EpqSW5HPW8Mh2Hd7ay_45.443564_-93.600000@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598361,
-    "wof:geomhash":"af6bf868511ff68515e9d94485006cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1654aad1d9ef6d106d296a202487fa05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404513887,
+            "locality_id":85968821,
+            "region_id":85688727,
+            "venue_id":806465955
+        }
+    ],
     "wof:id":806465955,
-    "wof:lastmodified":1472629222,
+    "wof:lastmodified":1492815542,
     "wof:name":"Saint John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

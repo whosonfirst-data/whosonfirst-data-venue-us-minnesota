@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540117,47.466019,-92.540117,47.466019",
     "geom:latitude":47.466019,
     "geom:longitude":-92.540117,
@@ -31,17 +32,26 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iLzFRR8G33xoRaLc1LX0F_47.466019_-92.540117@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592245,
-    "wof:geomhash":"a916c9c15fd8864383871d69eb9e7a9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab9a998afb86375cf9a71bed7def9733",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789989825
+        }
+    ],
     "wof:id":789989825,
-    "wof:lastmodified":1472629688,
+    "wof:lastmodified":1492809784,
     "wof:name":"Eveleth Oil Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

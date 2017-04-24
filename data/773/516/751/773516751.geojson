@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.127246,46.64683,-93.127246,46.64683",
     "geom:latitude":46.64683,
     "geom:longitude":-93.127246,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509181,
+        85633793,
+        85968581,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m7hrUD0O0UrFCjTqlxICa_46.646830_-93.127246@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586322,
-    "wof:geomhash":"ad1c3e68c20052abcb92443fa825e6ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6686804874c69817fa4ef9ac0e61dc06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404509181,
+            "locality_id":85968581,
+            "region_id":85688727,
+            "venue_id":773516751
+        }
+    ],
     "wof:id":773516751,
-    "wof:lastmodified":1472630078,
+    "wof:lastmodified":1492805638,
     "wof:name":"Tamarack City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

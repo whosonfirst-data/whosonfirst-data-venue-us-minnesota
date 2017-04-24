@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.500252,44.045491,-92.500252,44.045491",
     "geom:latitude":44.045491,
     "geom:longitude":-92.500252,
@@ -28,17 +29,34 @@
     "sg:postcode":"55901",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GsmCkwMECCZcN2hwBDEXy_44.045491_-92.500252@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596829,
-    "wof:geomhash":"202d2d5621c1bec8837677a1ae484602",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0f0905a43459eed891a01eeb602c6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790553921
+        }
+    ],
     "wof:id":790553921,
-    "wof:lastmodified":1472629845,
+    "wof:lastmodified":1492837231,
     "wof:name":"Rochester Consulting Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

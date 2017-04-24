@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.39787,47.75561,-90.39787,47.75561",
     "geom:latitude":47.75561,
     "geom:longitude":-90.39787,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509495,
+        85633793,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BVRKWH9moCnRZuPnIjn0l_47.755610_-90.397870@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589636,
-    "wof:geomhash":"cbcea7f33b14cddef1d03b3b3766acac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bdfd30d27c657aff9ab32648cb4640e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404509495,
+            "region_id":85688727,
+            "venue_id":789671379
+        }
+    ],
     "wof:id":789671379,
-    "wof:lastmodified":1472629133,
+    "wof:lastmodified":1492809126,
     "wof:name":"Richard B Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

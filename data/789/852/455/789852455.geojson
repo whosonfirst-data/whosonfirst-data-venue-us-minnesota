@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.450213,45.125409,-93.450213,45.125409",
     "geom:latitude":45.125409,
     "geom:longitude":-93.450213,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PPoaMXxyMzMJBjf7AlLpd_45.125409_-93.450213@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591046,
-    "wof:geomhash":"1568851fa5e4d2b9d7c8523c31cf2527",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8047c27a6cd6abe9e64d37b586fd3c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789852455
+        }
+    ],
     "wof:id":789852455,
-    "wof:lastmodified":1472629480,
+    "wof:lastmodified":1492813380,
     "wof:name":"Jane Herbes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

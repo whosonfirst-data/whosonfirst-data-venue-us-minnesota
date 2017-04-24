@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.290164,45.085409,-93.290164,45.085409",
     "geom:latitude":45.085409,
     "geom:longitude":-93.290164,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N638aNrY1QgyMlbxOTH32_45.085409_-93.290164@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597509,
-    "wof:geomhash":"5ac2061e32d9216c5d16cf641be34240",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9cdf73f893b800f0d5b6c55ec256b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":806360313
+        }
+    ],
     "wof:id":806360313,
-    "wof:lastmodified":1472628944,
+    "wof:lastmodified":1492817035,
     "wof:name":"Evergreen Park Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

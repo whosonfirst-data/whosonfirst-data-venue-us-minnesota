@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.009509,44.326299,-94.009509,44.326299",
     "geom:latitude":44.326299,
     "geom:longitude":-94.009509,
@@ -32,17 +33,32 @@
         "passenger"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513475,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wZUUnumPAFc4xwsg8QN1q_44.326299_-94.009509@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593771,
-    "wof:geomhash":"7ceed74b3f893ab5a40c977f346b06dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d558fcf3473c5b7d00ab52520afe0ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513475,
+            "region_id":85688727,
+            "venue_id":790179731
+        }
+    ],
     "wof:id":790179731,
-    "wof:lastmodified":1472629251,
+    "wof:lastmodified":1492836657,
     "wof:name":"Share Shuttle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

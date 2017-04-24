@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.165441,47.347533,-95.165441,47.347533",
     "geom:latitude":47.347533,
     "geom:longitude":-95.165441,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512827,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zu05nbtveXIk9z9cCklq3_47.347533_-95.165441@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597860,
-    "wof:geomhash":"2848a444864c4203f6752da4d1bf4064",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dee44ec90dde28e62518ed0369c266c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512827,
+            "region_id":85688727,
+            "venue_id":806402949
+        }
+    ],
     "wof:id":806402949,
-    "wof:lastmodified":1472629062,
+    "wof:lastmodified":1492818095,
     "wof:name":"Lasalle Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

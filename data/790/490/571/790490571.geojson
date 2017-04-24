@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.384559,45.481362,-94.384559,45.481362",
     "geom:latitude":45.481362,
     "geom:longitude":-94.384559,
@@ -33,17 +34,34 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514485,
+        85633793,
+        85952485,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ph4KtSQqnagwDfIzvfH9L_45.481362_-94.384559@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596294,
-    "wof:geomhash":"82f4c81a3d7181be2715b2cb0d95093f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd64ec857b99db0cc6dc62442bec5948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514485,
+            "locality_id":85952485,
+            "region_id":85688727,
+            "venue_id":790490571
+        }
+    ],
     "wof:id":790490571,
-    "wof:lastmodified":1472629774,
+    "wof:lastmodified":1492834968,
     "wof:name":"Prairie View Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

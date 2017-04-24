@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.067975,43.968916,-92.067975,43.968916",
     "geom:latitude":43.968916,
     "geom:longitude":-92.067975,
@@ -33,17 +34,34 @@
         "grounds"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515087,
+        85633793,
+        85968973,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08p1EDNzXhsVDu7mDyE8pT_43.968916_-92.067975@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590876,
-    "wof:geomhash":"c949b64a4599d00e415f907d22dfab7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73b44deb04c5bdcbda46bbdfa4b0306a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515087,
+            "locality_id":85968973,
+            "region_id":85688727,
+            "venue_id":789830591
+        }
+    ],
     "wof:id":789830591,
-    "wof:lastmodified":1472629430,
+    "wof:lastmodified":1492813053,
     "wof:name":"Community Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

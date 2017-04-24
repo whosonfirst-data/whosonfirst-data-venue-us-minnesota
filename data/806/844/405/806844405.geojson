@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.523916,44.079553,-92.523916,44.079553",
     "geom:latitude":44.079553,
     "geom:longitude":-92.523916,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gixwPTmLkEQbI9y84TNwK_44.079553_-92.523916@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601559,
-    "wof:geomhash":"e71c806cdd0f4ab4c37f6a0ef2d3ed2f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"64d9bbbeabd5dd712af452e656b42d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806844405
+        }
+    ],
     "wof:id":806844405,
-    "wof:lastmodified":1472629883,
+    "wof:lastmodified":1492815268,
     "wof:name":"Rhino Linings Of Rochester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

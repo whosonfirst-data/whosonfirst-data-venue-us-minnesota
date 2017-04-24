@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.763732,44.104653,-95.763732,44.104653",
     "geom:latitude":44.104653,
     "geom:longitude":-95.763732,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510093,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3V7C62dp9IOZN3ww8AyQPR_44.104653_-95.763732@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604263,
-    "wof:geomhash":"f90c32c12ed6bac8bd1365e5581d76d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d50e34974f1d42b2e4133c2a641316d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510093,
+            "region_id":85688727,
+            "venue_id":807148761
+        }
+    ],
     "wof:id":807148761,
-    "wof:lastmodified":1472629286,
+    "wof:lastmodified":1492824561,
     "wof:name":"Buss Richard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.260913,46.713401,-92.260913,46.713401",
     "geom:latitude":46.713401,
     "geom:longitude":-92.260913,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85849129,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85849129
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462600822,
-    "wof:geomhash":"b8068e8d441e19ad0769782fae583f53",
+    "wof:geomhash":"887d29e2099ba84f86fecb71762b0281",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85849129,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":806757155,
-    "wof:lastmodified":1472629785,
+    "wof:lastmodified":1492819842,
     "wof:name":"Ray Transport Inc",
     "wof:parent_id":85849129,
     "wof:placetype":"venue",

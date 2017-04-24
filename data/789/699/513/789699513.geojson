@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.518417,47.496749,-92.518417,47.496749",
     "geom:latitude":47.496749,
     "geom:longitude":-92.518417,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dkUNKEYSnk243K4Wo33s1_47.496749_-92.518417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589854,
-    "wof:geomhash":"250424d6998bc9c52d99b2ecb4f1539c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f7b5f921b8de0c1279d2191516a9a37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789699513
+        }
+    ],
     "wof:id":789699513,
-    "wof:lastmodified":1472629207,
+    "wof:lastmodified":1492811778,
     "wof:name":"Southridge Excavating & Landsc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

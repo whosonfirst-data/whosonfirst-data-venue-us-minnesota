@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.874764,45.1709,-93.874764,45.1709",
     "geom:latitude":45.1709,
     "geom:longitude":-93.874764,
@@ -33,17 +34,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3R1B875PBENapu4GlBglMY_45.170900_-93.874764@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597834,
-    "wof:geomhash":"bb999fc32abb4ddba3d432f3bac6178c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3cc959d16ad5f5fd87b71ff869cf5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":806399135
+        }
+    ],
     "wof:id":806399135,
-    "wof:lastmodified":1472629024,
+    "wof:lastmodified":1492818106,
     "wof:name":"Craft Country",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

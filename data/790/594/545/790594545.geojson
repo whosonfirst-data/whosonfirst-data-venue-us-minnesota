@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.087368,44.927873,-93.087368,44.927873",
     "geom:latitude":44.927873,
     "geom:longitude":-93.087368,
@@ -31,19 +32,38 @@
         "fraternal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vxKS1cXHmVDa4hApZYLch_44.927873_-93.087368@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597163,
-    "wof:geomhash":"9209bb1353e811beb455450ed2a7d725",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b127ff845148f01adbf5d93f69f3b640",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":790594545
+        }
+    ],
     "wof:id":790594545,
-    "wof:lastmodified":1472629884,
+    "wof:lastmodified":1492836606,
     "wof:name":"Mother Earth Lodge",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

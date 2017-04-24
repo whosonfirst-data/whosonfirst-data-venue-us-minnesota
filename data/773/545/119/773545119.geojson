@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181645,48.701463,-96.181645,48.701463",
     "geom:latitude":48.701463,
     "geom:longitude":-96.181645,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512917,
+        85633793,
+        85953423,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f6yWUFGUpvb3BO4cZQhIB_48.701463_-96.181645@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586527,
-    "wof:geomhash":"c4d19a8bc2e59683b5c6a8696f1154cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a9a760a649d05ae2067685daab56167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512917,
+            "locality_id":85953423,
+            "region_id":85688727,
+            "venue_id":773545119
+        }
+    ],
     "wof:id":773545119,
-    "wof:lastmodified":1472630088,
+    "wof:lastmodified":1492805094,
     "wof:name":"Squid's Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

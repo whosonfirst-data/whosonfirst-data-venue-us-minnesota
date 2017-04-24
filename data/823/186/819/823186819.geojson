@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.381647,44.984075,-93.381647,44.984075",
     "geom:latitude":44.984075,
     "geom:longitude":-93.381647,
@@ -44,17 +45,34 @@
     ],
     "sg:website":"http://www.godfatherspizza.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511717,
+        85633793,
+        85969205,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aucCELblQr8ChwybLfOWk_44.984075_-93.381647@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608153,
-    "wof:geomhash":"943ca9cbe31ec342fbb696b4426d11b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82ee2353d2bdc543f2d4987ab650d050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511717,
+            "locality_id":85969205,
+            "region_id":85688727,
+            "venue_id":823186819
+        }
+    ],
     "wof:id":823186819,
-    "wof:lastmodified":1472629052,
+    "wof:lastmodified":1492830522,
     "wof:name":"Godfather's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

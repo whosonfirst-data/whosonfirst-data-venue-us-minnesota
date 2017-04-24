@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.905679,44.109822,-94.905679,44.109822",
     "geom:latitude":44.109822,
     "geom:longitude":-94.905679,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509321,
+        85633793,
+        85952717,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I27MeAdvmNFfHl1q7jhzD_44.109822_-94.905679@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597610,
-    "wof:geomhash":"c62b0b8fdb56bb3af77d1462e02daeb8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c7a28cef85572cd40f75a802eaab0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509321,
+            "locality_id":85952717,
+            "region_id":85688727,
+            "venue_id":806371481
+        }
+    ],
     "wof:id":806371481,
-    "wof:lastmodified":1472628991,
+    "wof:lastmodified":1492815413,
     "wof:name":"Comfrey City Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

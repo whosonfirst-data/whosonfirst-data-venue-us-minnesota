@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.999052,44.869199,-92.999052,44.869199",
     "geom:latitude":44.869199,
     "geom:longitude":-92.999052,
@@ -32,17 +33,34 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514911,
+        85633793,
+        85953567,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lEJQtH6RvxOHynfZvxjCe_44.869199_-92.999052@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595868,
-    "wof:geomhash":"8f461505a8f123a44d8da53f30eade66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06e97fc8db7353e935fa1c7e955007a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514911,
+            "locality_id":85953567,
+            "region_id":85688727,
+            "venue_id":790443089
+        }
+    ],
     "wof:id":790443089,
-    "wof:lastmodified":1472629705,
+    "wof:lastmodified":1492834064,
     "wof:name":"Lock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

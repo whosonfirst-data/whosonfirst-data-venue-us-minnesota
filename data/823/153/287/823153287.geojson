@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.351686,44.937742,-93.351686,44.937742",
     "geom:latitude":44.937742,
     "geom:longitude":-93.351686,
@@ -41,17 +42,34 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Sr5MGZ3glIxN0cvKQPnry_44.937742_-93.351686@1303262827"
     },
     "wof:country":"US",
     "wof:created":1462607710,
-    "wof:geomhash":"51da0723644569c6422476dd5f71b698",
-    "wof:hierarchy":[],
+    "wof:geomhash":"350eda0c76a01e58843220e911b60dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823153287
+        }
+    ],
     "wof:id":823153287,
-    "wof:lastmodified":1472628952,
+    "wof:lastmodified":1492828479,
     "wof:name":"Artistic Kitchen Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

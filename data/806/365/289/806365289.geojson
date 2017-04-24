@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.827874,43.719536,-93.827874,43.719536",
     "geom:latitude":43.719536,
     "geom:longitude":-93.827874,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509615,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04khDzvf7QItcRYOUSTZ2F_43.719536_-93.827874@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597544,
-    "wof:geomhash":"0982f045d467f7d1df7665027dc95a1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"185781e32f5f9c5a5aadf15b92f9bdfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509615,
+            "region_id":85688727,
+            "venue_id":806365289
+        }
+    ],
     "wof:id":806365289,
-    "wof:lastmodified":1472628962,
+    "wof:lastmodified":1492817909,
     "wof:name":"Warmka Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

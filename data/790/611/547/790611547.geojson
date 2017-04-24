@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.308296,45.977354,-93.308296,45.977354",
     "geom:latitude":45.977354,
     "geom:longitude":-93.308296,
@@ -37,17 +38,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509861,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Lh6JguclXydyChLJYvu4W_45.977354_-93.308296@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597316,
-    "wof:geomhash":"c6faa4982eb6a65937487a5e9e4e9019",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b268d0180fa0c402452091c082be601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404509861,
+            "region_id":85688727,
+            "venue_id":790611547
+        }
+    ],
     "wof:id":790611547,
-    "wof:lastmodified":1472629914,
+    "wof:lastmodified":1492831288,
     "wof:name":"Knife Lake Sportsmens Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

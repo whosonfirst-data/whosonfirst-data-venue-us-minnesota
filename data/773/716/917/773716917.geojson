@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.535074,47.462644,-92.535074,47.462644",
     "geom:latitude":47.462644,
     "geom:longitude":-92.535074,
@@ -31,17 +32,26 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e2rkvXNL5pXquKSaEPEKa_47.462644_-92.535074@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587850,
-    "wof:geomhash":"8b906361832f2fd8a265987ddd7fe023",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c36784aa38aad644292df81eb638122c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773716917
+        }
+    ],
     "wof:id":773716917,
-    "wof:lastmodified":1472630141,
+    "wof:lastmodified":1492802478,
     "wof:name":"Eveleth Public Library",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

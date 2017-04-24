@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.883369,45.356522,-92.883369,45.356522",
     "geom:latitude":45.356522,
     "geom:longitude":-92.883369,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k2qrhqb5exZcfBiBke51D_45.356522_-92.883369@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590405,
-    "wof:geomhash":"addb8098413c6c1772cb789c7f4382b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cce7056b89251eae2a0867bac251f422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":789770497
+        }
+    ],
     "wof:id":789770497,
-    "wof:lastmodified":1472629339,
+    "wof:lastmodified":1492810166,
     "wof:name":"Parmly Lakeview Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

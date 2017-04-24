@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.403993,44.90013,-93.403993,44.90013",
     "geom:latitude":44.90013,
     "geom:longitude":-93.403993,
@@ -31,17 +32,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511887,
+        85633793,
+        85969165,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qwjhwsPQgn45pYxKHAfGs_44.900130_-93.403993@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586153,
-    "wof:geomhash":"16748cc52d5957d5bf67cd8de19a2ea7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bccc8dae32e826e4728c0a450e4df09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511887,
+            "locality_id":85969165,
+            "region_id":85688727,
+            "venue_id":773492349
+        }
+    ],
     "wof:id":773492349,
-    "wof:lastmodified":1472630070,
+    "wof:lastmodified":1492808178,
     "wof:name":"ABM Jntrial Srvcs-Northern Cal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

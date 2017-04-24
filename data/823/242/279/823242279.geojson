@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.327252,44.180994,-95.327252,44.180994",
     "geom:latitude":44.180994,
     "geom:longitude":-95.327252,
@@ -36,17 +37,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509505,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mtWeg5WE4vAlkIhO66qiQ_44.180994_-95.327252@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609189,
-    "wof:geomhash":"c25902b657559a94c7c7d958de712108",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3ca4f54812fec5c78c9b904e8c6816d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509505,
+            "region_id":85688727,
+            "venue_id":823242279
+        }
+    ],
     "wof:id":823242279,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1492828583,
     "wof:name":"Russ Derickson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

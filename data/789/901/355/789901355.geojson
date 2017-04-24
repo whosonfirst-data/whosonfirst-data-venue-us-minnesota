@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.036768,46.826266,-96.036768,46.826266",
     "geom:latitude":46.826266,
     "geom:longitude":-96.036768,
@@ -35,17 +36,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511131,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JnjknJXPQ0dIvT7bgC1s0_46.826266_-96.036768@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591456,
-    "wof:geomhash":"118e8eb51f06bbc2392063f7f02eb2f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39bc5891034e87e78a633a98b2da398e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511131,
+            "region_id":85688727,
+            "venue_id":789901355
+        }
+    ],
     "wof:id":789901355,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492810951,
     "wof:name":"E George Hamre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

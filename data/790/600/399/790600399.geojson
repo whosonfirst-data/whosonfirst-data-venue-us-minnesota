@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.741032,45.281244,-93.741032,45.281244",
     "geom:latitude":45.281244,
     "geom:longitude":-93.741032,
@@ -36,17 +37,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CTiryB7qQuTvc4QidjT1f_45.281244_-93.741032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597229,
-    "wof:geomhash":"6bbf250b432f25f13c57f4a06da22cad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7106ed51cc871fb3924be0e2a035971d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":790600399
+        }
+    ],
     "wof:id":790600399,
-    "wof:lastmodified":1472629905,
+    "wof:lastmodified":1492834457,
     "wof:name":"Monticello Tool & Cutter Grind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

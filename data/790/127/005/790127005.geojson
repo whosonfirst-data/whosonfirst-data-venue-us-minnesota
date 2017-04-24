@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.512605,44.084883,-93.512605,44.084883",
     "geom:latitude":44.084883,
     "geom:longitude":-93.512605,
@@ -32,17 +33,34 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PuNyVjKegB2Hh2l1sqUYI_44.084883_-93.512605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593340,
-    "wof:geomhash":"4183248eea2175e6a8e039e9d16a2abc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e9ad92c57e4187802518969ed8ea53ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":790127005
+        }
+    ],
     "wof:id":790127005,
-    "wof:lastmodified":1472629176,
+    "wof:lastmodified":1492836357,
     "wof:name":"WTF Tax Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.176804,48.120077,-96.176804,48.120077",
     "geom:latitude":48.120077,
     "geom:longitude":-96.176804,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20P3usS6n1Di7qdC0DO3xa_48.120077_-96.176804@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600307,
-    "wof:geomhash":"7c90f308dbedbb6261926d233268885f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"087e6d8ba4416200bfba2681013ad9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806696483
+        }
+    ],
     "wof:id":806696483,
-    "wof:lastmodified":1472629714,
+    "wof:lastmodified":1492820943,
     "wof:name":"Phillips 66 Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

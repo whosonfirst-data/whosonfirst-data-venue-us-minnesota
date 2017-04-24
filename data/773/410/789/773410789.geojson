@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.491858,47.080902,-94.491858,47.080902",
     "geom:latitude":47.080902,
     "geom:longitude":-94.491858,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511765,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42XC01rPS4l4VXH0XghqH1_47.080902_-94.491858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585494,
-    "wof:geomhash":"30f3ccbb9a01d23a660bcafb2e9aba4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6725d17aed834e4a53ffcdca0963a754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511765,
+            "region_id":85688727,
+            "venue_id":773410789
+        }
+    ],
     "wof:id":773410789,
-    "wof:lastmodified":1472630047,
+    "wof:lastmodified":1492801415,
     "wof:name":"Jerry's Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

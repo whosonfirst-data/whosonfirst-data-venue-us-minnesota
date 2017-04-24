@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.643951,44.035091,-91.643951,44.035091",
     "geom:latitude":44.035091,
     "geom:longitude":-91.643951,
@@ -32,17 +33,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uUab07chzIUsOyx4segr9_44.035091_-91.643951@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588887,
-    "wof:geomhash":"19ba7fb4ab55ad80e62db7a58cdd1eb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ade015f8015bd1eab5f988b1c786e638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":789577775
+        }
+    ],
     "wof:id":789577775,
-    "wof:lastmodified":1472628926,
+    "wof:lastmodified":1492810529,
     "wof:name":"Frankard Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

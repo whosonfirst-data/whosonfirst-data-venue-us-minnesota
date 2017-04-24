@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.369797,45.005789,-93.369797,45.005789",
     "geom:latitude":45.005789,
     "geom:longitude":-93.369797,
@@ -34,17 +35,34 @@
         "light"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511717,
+        85633793,
+        85969205,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77QWMCGALC43V6SQdMbEzZ_45.005789_-93.369797@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598851,
-    "wof:geomhash":"e3d37c6d18f48f2659046c9516c8574d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aa72e2bcfc449fb715ee6bd7bc1e2c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511717,
+            "locality_id":85969205,
+            "region_id":85688727,
+            "venue_id":806527531
+        }
+    ],
     "wof:id":806527531,
-    "wof:lastmodified":1472629396,
+    "wof:lastmodified":1492816941,
     "wof:name":"Emergency Lite Service Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

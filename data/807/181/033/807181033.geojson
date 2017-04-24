@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.079055,45.85917,-95.079055,45.85917",
     "geom:latitude":45.85917,
     "geom:longitude":-95.079055,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514713,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xd6SJYfjSrazWKOAiilwz_45.859170_-95.079055@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604595,
-    "wof:geomhash":"0f1c28b12dbf5a67502b1fb6cf783543",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdbf21ac847ab83f8be6d79c7797dcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514713,
+            "region_id":85688727,
+            "venue_id":807181033
+        }
+    ],
     "wof:id":807181033,
-    "wof:lastmodified":1472629344,
+    "wof:lastmodified":1492826307,
     "wof:name":"Mark Lebrun",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.490195,45.810485,-96.490195,45.810485",
     "geom:latitude":45.810485,
     "geom:longitude":-96.490195,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SjLtuKZEuvgA2sfA50Yml_45.810485_-96.490195@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600477,
-    "wof:geomhash":"ebc9269f9890f68479fa38433412e7e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21b3c108585255bb2fc7f4c82f1637fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":806717059
+        }
+    ],
     "wof:id":806717059,
-    "wof:lastmodified":1472629749,
+    "wof:lastmodified":1492815148,
     "wof:name":"Ted Siltman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

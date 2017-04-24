@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326928,45.119636,-93.326928,45.119636",
     "geom:latitude":45.119636,
     "geom:longitude":-93.326928,
@@ -37,17 +38,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PGrN4lnVXWGtdHe7yPDjU_45.119636_-93.326928@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585336,
-    "wof:geomhash":"598d2a696696822b9d470733633ef2ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3f4d7ca64a125923aaf5533da613704d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773390755
+        }
+    ],
     "wof:id":773390755,
-    "wof:lastmodified":1472630041,
+    "wof:lastmodified":1492803944,
     "wof:name":"Yell Sewer & Drain Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

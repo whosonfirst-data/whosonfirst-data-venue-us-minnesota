@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.65273,45.403285,-92.65273,45.403285",
     "geom:latitude":45.403285,
     "geom:longitude":-92.65273,
@@ -37,17 +38,34 @@
         "bar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511033,
+        85633793,
+        85952681,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p1gbxyYbqkgm32vwkEeCm_45.403285_-92.652730@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592822,
-    "wof:geomhash":"ea29d396a544e5b905340c51ba02942e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1458d5af6c89d6d8dbfdf6371f7aa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511033,
+            "locality_id":85952681,
+            "region_id":85688727,
+            "venue_id":790060069
+        }
+    ],
     "wof:id":790060069,
-    "wof:lastmodified":1472629033,
+    "wof:lastmodified":1492835291,
     "wof:name":"Border Bar and Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

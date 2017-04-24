@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.308675,44.874622,-93.308675,44.874622",
     "geom:latitude":44.874622,
     "geom:longitude":-93.308675,
@@ -31,17 +32,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12w799j3id9EOLNN1Y02tQ_44.874622_-93.308675@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596764,
-    "wof:geomhash":"dfed604f4c22717e1376eb83be52df54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5cb02c3519225de3798a485d50f2792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":790547673
+        }
+    ],
     "wof:id":790547673,
-    "wof:lastmodified":1472629818,
+    "wof:lastmodified":1492831308,
     "wof:name":"Minneapolis Jewish Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

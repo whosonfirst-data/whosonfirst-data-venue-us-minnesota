@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.709014,45.382152,-94.709014,45.382152",
     "geom:latitude":45.382152,
     "geom:longitude":-94.709014,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514385,
+        85633793,
+        85952481,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0boezeXCCvIKcHw82Dffhr_45.382152_-94.709014@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583350,
-    "wof:geomhash":"ddeb77a2c5ba29abf6bcae27d4fe67de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7668e882bb457bf15deaf397775f344c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514385,
+            "locality_id":85952481,
+            "region_id":85688727,
+            "venue_id":773128355
+        }
+    ],
     "wof:id":773128355,
-    "wof:lastmodified":1472629655,
+    "wof:lastmodified":1492804937,
     "wof:name":"Highway Maintenance Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

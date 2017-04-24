@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.876169,45.552154,-93.876169,45.552154",
     "geom:latitude":45.552154,
     "geom:longitude":-93.876169,
@@ -31,17 +32,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510475,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Iu19DLsjDsExpydTiEUio_45.552154_-93.876169@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587636,
-    "wof:geomhash":"0c00cbde2a527cf616b2a6d8991f62fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1eb9c366452c66ba4e9b24d3be665154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510475,
+            "region_id":85688727,
+            "venue_id":773692577
+        }
+    ],
     "wof:id":773692577,
-    "wof:lastmodified":1472630132,
+    "wof:lastmodified":1492802235,
     "wof:name":"Kalway Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.301287,47.167292,-92.301287,47.167292",
     "geom:latitude":47.167292,
     "geom:longitude":-92.301287,
@@ -31,17 +32,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514967,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jEZi6JmkdCqkqAtMBMX5i_47.167292_-92.301287@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593287,
-    "wof:geomhash":"6fa6d6c6c947fb2e450d7c5a434840cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da2ebef5127490814fc5f15c4758c04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404514967,
+            "region_id":85688727,
+            "venue_id":790119599
+        }
+    ],
     "wof:id":790119599,
-    "wof:lastmodified":1472629160,
+    "wof:lastmodified":1492834800,
     "wof:name":"Aardvark Septic Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.837117,45.393897,-92.837117,45.393897",
     "geom:latitude":45.393897,
     "geom:longitude":-92.837117,
@@ -33,17 +34,34 @@
         "deck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11f8AJg57O1EpYMFUDjfsa_45.393897_-92.837117@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589953,
-    "wof:geomhash":"4a0e67c2314e59de1081439eecf4f34e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a177cf953da0af7d413311444275b9a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":789712683
+        }
+    ],
     "wof:id":789712683,
-    "wof:lastmodified":1472629252,
+    "wof:lastmodified":1492811373,
     "wof:name":"Steven R Nelson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

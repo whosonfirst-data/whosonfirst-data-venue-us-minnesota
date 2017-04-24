@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.182459,45.5676,-94.182459,45.5676",
     "geom:latitude":45.5676,
     "geom:longitude":-94.182459,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hG5u8mEgGXqOfbCN51wsg_45.567600_-94.182459@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598323,
-    "wof:geomhash":"f80b59cc35163d604991dd9adef9e8d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3acd409b0fcd8d38aad20c2d0bdec289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":806461565
+        }
+    ],
     "wof:id":806461565,
-    "wof:lastmodified":1472629202,
+    "wof:lastmodified":1492819432,
     "wof:name":"Bob Gucks Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

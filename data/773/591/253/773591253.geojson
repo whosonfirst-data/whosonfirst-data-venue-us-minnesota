@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.961656,45.678525,-92.961656,45.678525",
     "geom:latitude":45.678525,
     "geom:longitude":-92.961656,
@@ -33,17 +34,32 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511025,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05HuClfLq3doFF4FsoZztE_45.678525_-92.961656@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586883,
-    "wof:geomhash":"25a22e15b12fa933549e499a700a2450",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72d4ee99fc8cf265fb9f011656a9f742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511025,
+            "region_id":85688727,
+            "venue_id":773591253
+        }
+    ],
     "wof:id":773591253,
-    "wof:lastmodified":1472630100,
+    "wof:lastmodified":1492806238,
     "wof:name":"Auto Tech Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

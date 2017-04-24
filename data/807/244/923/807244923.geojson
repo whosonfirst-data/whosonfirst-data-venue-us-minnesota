@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.273097,45.502365,-93.273097,45.502365",
     "geom:latitude":45.502365,
     "geom:longitude":-93.273097,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512981,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6c1JXigw8UgC1OoQwWaI9O_45.502365_-93.273097@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605276,
-    "wof:geomhash":"4ddb03dccad4893ce5856129e82cca85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab2548ede3d79cbfb9bd8c61b19efa8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512981,
+            "region_id":85688727,
+            "venue_id":807244923
+        }
+    ],
     "wof:id":807244923,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492827609,
     "wof:name":"Jeff Knoll Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

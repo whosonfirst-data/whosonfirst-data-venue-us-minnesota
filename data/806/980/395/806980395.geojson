@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.413661,44.731339,-93.413661,44.731339",
     "geom:latitude":44.731339,
     "geom:longitude":-93.413661,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85896887,
+        102191575,
+        404515039,
         85633793,
         85952535,
         102087041,
-        85896887
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462602692,
-    "wof:geomhash":"c817f8790f7cc11ec93476bf1f1f4537",
+    "wof:geomhash":"38ec05939170b3cc97fa029888647777",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087041,
+            "localadmin_id":404515039,
             "locality_id":85952535,
             "neighbourhood_id":85896887,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":806980395,
-    "wof:lastmodified":1472629971,
+    "wof:lastmodified":1492820026,
     "wof:name":"Olson's Old Tools",
     "wof:parent_id":85896887,
     "wof:placetype":"venue",

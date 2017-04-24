@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.485154,44.022657,-92.485154,44.022657",
     "geom:latitude":44.022657,
     "geom:longitude":-92.485154,
@@ -31,17 +32,34 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7igvNAKuv3SiSrDSw0xp9U_44.022657_-92.485154@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584178,
-    "wof:geomhash":"e74ee4ee50bd41bd72f33fdb5a932a05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"592bbfaf2dc69026e2f0736961e05cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773234409
+        }
+    ],
     "wof:id":773234409,
-    "wof:lastmodified":1472629970,
+    "wof:lastmodified":1492799566,
     "wof:name":"Rochester Memonite Guest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

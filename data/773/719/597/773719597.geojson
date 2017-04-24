@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.537262,47.400435,-92.537262,47.400435",
     "geom:latitude":47.400435,
     "geom:longitude":-92.537262,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PZGLLnE7B1qTR7vnnZoCT_47.400435_-92.537262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587868,
-    "wof:geomhash":"be5c849987e3fd99e47907833bf39b96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"047b98a0a2f84af5214382a388077706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773719597
+        }
+    ],
     "wof:id":773719597,
-    "wof:lastmodified":1472630140,
+    "wof:lastmodified":1492807304,
     "wof:name":"Judys Scissor Magic",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

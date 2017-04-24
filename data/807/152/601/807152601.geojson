@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.709851,44.744019,-94.709851,44.744019",
     "geom:latitude":44.744019,
     "geom:longitude":-94.709851,
@@ -33,17 +34,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510581,
+        85633793,
+        85969013,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45f5vi6xqbThGKuhoKHXGh_44.743936_-94.709938@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604298,
-    "wof:geomhash":"088239c949f79152f06cf14bb0efecdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03b7be4cb082dee9b0f3caa5e2e816f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404510581,
+            "locality_id":85969013,
+            "region_id":85688727,
+            "venue_id":807152601
+        }
+    ],
     "wof:id":807152601,
-    "wof:lastmodified":1472629290,
+    "wof:lastmodified":1492827710,
     "wof:name":"Evangelical Free Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

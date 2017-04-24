@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.302513,47.452882,-91.302513,47.452882",
     "geom:latitude":47.452882,
     "geom:longitude":-91.302513,
@@ -41,17 +42,34 @@
         "grocers-specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514451,
+        85633793,
+        85969419,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H6QHySUed8xK9qsWRrWOt_47.452882_-91.302513@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608781,
-    "wof:geomhash":"d27b26d2a1782f8a98677e38ef2f5f38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3cd704c39a03e8d237293ecfe92e362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514451,
+            "locality_id":85969419,
+            "region_id":85688727,
+            "venue_id":823222595
+        }
+    ],
     "wof:id":823222595,
-    "wof:lastmodified":1472629109,
+    "wof:lastmodified":1492830443,
     "wof:name":"Finland Cooperative Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

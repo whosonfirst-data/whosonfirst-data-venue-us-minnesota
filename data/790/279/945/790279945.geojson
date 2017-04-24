@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.248685,45.487977,-93.248685,45.487977",
     "geom:latitude":45.487977,
     "geom:longitude":-93.248685,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513111,
+        85633793,
+        85953389,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xDDgbSLs9kzxdupknjz9A_45.487977_-93.248685@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594609,
-    "wof:geomhash":"7848369c8fceb74f390168493735a20f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"598c978d475c7e7e8ea3d1332a12d084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513111,
+            "locality_id":85953389,
+            "region_id":85688727,
+            "venue_id":790279945
+        }
+    ],
     "wof:id":790279945,
-    "wof:lastmodified":1472629464,
+    "wof:lastmodified":1492835069,
     "wof:name":"Isanti Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

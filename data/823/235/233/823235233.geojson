@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.452237,43.855559,-92.452237,43.855559",
     "geom:latitude":43.855559,
     "geom:longitude":-92.452237,
@@ -36,17 +37,32 @@
         "ranch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512449,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2artvvrbrTARz8Z97d0uPc_43.855559_-92.452237@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609055,
-    "wof:geomhash":"f75e76f486857f78eec0e2bde5ed3e58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a022eb53edb1bcea6007fa2174807a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512449,
+            "region_id":85688727,
+            "venue_id":823235233
+        }
+    ],
     "wof:id":823235233,
-    "wof:lastmodified":1472629128,
+    "wof:lastmodified":1492831044,
     "wof:name":"King, John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

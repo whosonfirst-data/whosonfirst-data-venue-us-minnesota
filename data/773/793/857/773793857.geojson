@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.145651,45.566284,-94.145651,45.566284",
     "geom:latitude":45.566284,
     "geom:longitude":-94.145651,
@@ -31,17 +32,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62PdB6UREN1gti0Rgorqio_45.566284_-94.145651@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588422,
-    "wof:geomhash":"a9d5bd44882238ca417ced40d35c65e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03063e5084114dc118e470009ba99a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773793857
+        }
+    ],
     "wof:id":773793857,
-    "wof:lastmodified":1472630162,
+    "wof:lastmodified":1492804520,
     "wof:name":"Central Minnesota Eductl RES &",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

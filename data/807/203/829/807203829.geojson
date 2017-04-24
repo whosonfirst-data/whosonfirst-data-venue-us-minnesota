@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.374603,44.807899,-93.374603,44.807899",
     "geom:latitude":44.807899,
     "geom:longitude":-93.374603,
@@ -32,17 +33,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fI7zyXUtpPt6eHnUg0DIO_44.807939_-93.375474@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604834,
-    "wof:geomhash":"c800d5d5f0e1454d1d4affa5b417b895",
-    "wof:hierarchy":[],
+    "wof:geomhash":"820ade273c074c4c291be98e85db9f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":807203829
+        }
+    ],
     "wof:id":807203829,
-    "wof:lastmodified":1472629424,
+    "wof:lastmodified":1492823602,
     "wof:name":"Z Tech Automobile Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

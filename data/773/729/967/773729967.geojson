@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.209344,44.789301,-95.209344,44.789301",
     "geom:latitude":44.789301,
     "geom:longitude":-95.209344,
@@ -32,17 +33,34 @@
         "patrol"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512611,
+        85633793,
+        85969081,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SAxydUpweawzNx2EeVQvg_44.789301_-95.209344@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587947,
-    "wof:geomhash":"d61bf5a2f78f324be05daf7304262077",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbb916ba46ef2dfd25dc99c95650aa49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512611,
+            "locality_id":85969081,
+            "region_id":85688727,
+            "venue_id":773729967
+        }
+    ],
     "wof:id":773729967,
-    "wof:lastmodified":1472630143,
+    "wof:lastmodified":1492800845,
     "wof:name":"Knight Security Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

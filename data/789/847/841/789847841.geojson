@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.619777,43.978513,-94.619777,43.978513",
     "geom:latitude":43.978513,
     "geom:longitude":-94.619777,
@@ -32,17 +33,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GlsNaH1LNVGJ8oxMGqZ0w_43.978513_-94.619777@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591012,
-    "wof:geomhash":"715d91805a7b37b9552b639750212864",
-    "wof:hierarchy":[],
+    "wof:geomhash":"053665ad0fc21649c9d0cc2d20ad3e5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":789847841
+        }
+    ],
     "wof:id":789847841,
-    "wof:lastmodified":1472629485,
+    "wof:lastmodified":1492812462,
     "wof:name":"Phillips 66",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

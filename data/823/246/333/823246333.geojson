@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.911395,45.110302,-95.911395,45.110302",
     "geom:latitude":45.110302,
     "geom:longitude":-95.911395,
@@ -42,17 +43,34 @@
     ],
     "sg:website":"http://www.montevideomedical.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509089,
+        85633793,
+        85953211,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38Nb3W5E3wHCb6d3vQ4ZOE_45.110302_-95.911395@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609266,
-    "wof:geomhash":"ef00b472de29388e762cb3fcb0c27922",
-    "wof:hierarchy":[],
+    "wof:geomhash":"147471f3ea120eb3ba774e7303a60040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509089,
+            "locality_id":85953211,
+            "region_id":85688727,
+            "venue_id":823246333
+        }
+    ],
     "wof:id":823246333,
-    "wof:lastmodified":1472629160,
+    "wof:lastmodified":1492829605,
     "wof:name":"Milan Clinic P A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

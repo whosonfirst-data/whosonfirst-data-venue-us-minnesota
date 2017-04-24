@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.487503,45.106517,-93.487503,45.106517",
     "geom:latitude":45.106517,
     "geom:longitude":-93.487503,
@@ -38,17 +39,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VtczVM3V8Vd4kwIMQr733_45.106517_-93.487503@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605825,
-    "wof:geomhash":"85b7b0dece91051e89b9bf74e5aab499",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6860088905386cc1c51dc7f20773e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807297355
+        }
+    ],
     "wof:id":807297355,
-    "wof:lastmodified":1472629606,
+    "wof:lastmodified":1492827422,
     "wof:name":"Aloft Technologies, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

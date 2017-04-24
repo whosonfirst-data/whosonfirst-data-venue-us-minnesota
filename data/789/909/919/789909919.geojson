@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.290156,47.443998,-92.290156,47.443998",
     "geom:latitude":47.443998,
     "geom:longitude":-92.290156,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MevE3gvM6MrMHM9WvLf6c_47.443998_-92.290156@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591539,
-    "wof:geomhash":"f1e14fe680387d7af536e0a6d4f7a732",
-    "wof:hierarchy":[],
+    "wof:geomhash":"57bd1c19467ecb57c022bc3d94dd049c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":789909919
+        }
+    ],
     "wof:id":789909919,
-    "wof:lastmodified":1472629624,
+    "wof:lastmodified":1492811931,
     "wof:name":"Handyman Dan's Carpentry Inc",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.252151,44.070297,-93.252151,44.070297",
     "geom:latitude":44.070297,
     "geom:longitude":-93.252151,
@@ -37,17 +38,34 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TTxskOxHqz3yiuzo4qFnw_44.070297_-93.252151@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605365,
-    "wof:geomhash":"53305e02d2ebb684adfe488759d86a0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea6c569ccb2ac91b3e2096d1b3b5145e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":807253595
+        }
+    ],
     "wof:id":807253595,
-    "wof:lastmodified":1472629522,
+    "wof:lastmodified":1492824599,
     "wof:name":"Wayne Minges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

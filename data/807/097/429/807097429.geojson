@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.375273,43.87714,-93.375273,43.87714",
     "geom:latitude":43.87714,
     "geom:longitude":-93.375273,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510807,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KmqLH9o5mvccbnGjeKDd6_43.877140_-93.375273@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603691,
-    "wof:geomhash":"57cbfcd9e5e89b747e08051d82cd60e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1fa1b91588a1f5725f33011a651d33a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510807,
+            "region_id":85688727,
+            "venue_id":807097429
+        }
+    ],
     "wof:id":807097429,
-    "wof:lastmodified":1472629195,
+    "wof:lastmodified":1492827383,
     "wof:name":"John Hecker Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

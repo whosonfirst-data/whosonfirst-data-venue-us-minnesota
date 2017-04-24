@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.986653,44.356973,-94.986653,44.356973",
     "geom:latitude":44.356973,
     "geom:longitude":-94.986653,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510561,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kPQ0OHbLyEP5Tva0hGve4_44.356973_-94.986653@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604863,
-    "wof:geomhash":"689c29eedbd467f11058877a31a1100f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03186c37315325791f22810cfc382fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510561,
+            "region_id":85688727,
+            "venue_id":807206539
+        }
+    ],
     "wof:id":807206539,
-    "wof:lastmodified":1472629422,
+    "wof:lastmodified":1492823702,
     "wof:name":"Dale Frederiksen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

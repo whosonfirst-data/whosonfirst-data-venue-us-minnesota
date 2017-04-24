@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.859217,43.938091,-94.859217,43.938091",
     "geom:latitude":43.938091,
     "geom:longitude":-94.859217,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511865,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dqWcedXtWehimWssBToX3_43.938091_-94.859217@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604825,
-    "wof:geomhash":"4655e6c96889145d57833211f493f2bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d45787282ba379438d704238bee3b395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511865,
+            "region_id":85688727,
+            "venue_id":807202839
+        }
+    ],
     "wof:id":807202839,
-    "wof:lastmodified":1472629417,
+    "wof:lastmodified":1492824683,
     "wof:name":"David Elg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

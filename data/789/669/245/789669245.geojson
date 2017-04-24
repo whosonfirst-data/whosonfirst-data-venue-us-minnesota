@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.134756,43.7033,-95.134756,43.7033",
     "geom:latitude":43.7033,
     "geom:longitude":-95.134756,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513593,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ARRN04WH1sGV0rYFCrgqM_43.703300_-95.134756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589622,
-    "wof:geomhash":"3f6017799932b393eda3204a3f875947",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73cf3d8bdaa15678522fbd6e368daa09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513593,
+            "region_id":85688727,
+            "venue_id":789669245
+        }
+    ],
     "wof:id":789669245,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492811434,
     "wof:name":"Bretzman Ted Farm of",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.145047,44.760929,-94.145047,44.760929",
     "geom:latitude":44.760929,
     "geom:longitude":-94.145047,
@@ -32,17 +33,34 @@
         "rooms"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dnqt3CmO2DrXn3Ineo6Lo_44.760929_-94.145047@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586914,
-    "wof:geomhash":"6d6f2614941c1db138ca7d393f17d405",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddf2c194af3a50f495354771117a50a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":773595741
+        }
+    ],
     "wof:id":773595741,
-    "wof:lastmodified":1472630106,
+    "wof:lastmodified":1492805683,
     "wof:name":"Glencoe Country Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.838941,44.709356,-92.838941,44.709356",
     "geom:latitude":44.709356,
     "geom:longitude":-92.838941,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vnf4G317MztK3wW2RBqGP_44.709356_-92.838941@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601883,
-    "wof:geomhash":"df245cb2001aa94cb3cb4672f0ebbd6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcaf2a59e899657e462a158b502543ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":806883815
+        }
+    ],
     "wof:id":806883815,
-    "wof:lastmodified":1472629921,
+    "wof:lastmodified":1492816563,
     "wof:name":"Canvas Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

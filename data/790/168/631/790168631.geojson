@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.930975,45.226655,-94.930975,45.226655",
     "geom:latitude":45.226655,
     "geom:longitude":-94.930975,
@@ -32,17 +33,34 @@
         "sewage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513959,
+        85633793,
+        85953327,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eBBaAmtAKCBmP9mT40TKC_45.226655_-94.930975@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593678,
-    "wof:geomhash":"a37ed9d20a3e953f12e01fcfa255154a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf3655329c6cce29eb8407e8058aa2d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513959,
+            "locality_id":85953327,
+            "region_id":85688727,
+            "venue_id":790168631
+        }
+    ],
     "wof:id":790168631,
-    "wof:lastmodified":1472629259,
+    "wof:lastmodified":1492836845,
     "wof:name":"Waters Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

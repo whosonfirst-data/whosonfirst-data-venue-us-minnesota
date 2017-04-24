@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.381613,44.984068,-93.381613,44.984068",
     "geom:latitude":44.984068,
     "geom:longitude":-93.381613,
@@ -33,17 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511717,
+        85633793,
+        85969205,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M654LbnAavv179QbD3MIy_44.984068_-93.381613@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608171,
-    "wof:geomhash":"5eb7a28204870710b873bc0a6521adee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"738d99a5e02169b20f023c4adbba65f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511717,
+            "locality_id":85969205,
+            "region_id":85688727,
+            "venue_id":823188297
+        }
+    ],
     "wof:id":823188297,
-    "wof:lastmodified":1472629023,
+    "wof:lastmodified":1492828143,
     "wof:name":"Accutrak Invntory Spclist Minn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

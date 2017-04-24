@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.688408,44.927361,-93.688408,44.927361",
     "geom:latitude":44.927361,
     "geom:longitude":-93.688408,
@@ -32,17 +33,34 @@
         "hospital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511889,
+        85633793,
+        85969155,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PUSzZ2yMU8s2FgJJEuF8d_44.927361_-93.688408@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606280,
-    "wof:geomhash":"99edcf192cb85d84020692f3ff088cc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79b66422ef72441efb28abb4813abbcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":807335725
+        }
+    ],
     "wof:id":807335725,
-    "wof:lastmodified":1472629744,
+    "wof:lastmodified":1492824142,
     "wof:name":"Saunders Lk Veterinary Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

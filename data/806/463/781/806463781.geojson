@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.242039,44.901907,-93.242039,44.901907",
     "geom:latitude":44.901907,
     "geom:longitude":-93.242039,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872695,
+        85872551,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872551
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598345,
-    "wof:geomhash":"4832be1586b6461723b4cf7df6925bc6",
+    "wof:geomhash":"44210ff8e5662b642325772dfb781f84",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872695,
-            "region_id":85688727,
-            "venue_id":806463781
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872551,
             "region_id":85688727,
             "venue_id":806463781
         }
     ],
     "wof:id":806463781,
-    "wof:lastmodified":1472629214,
+    "wof:lastmodified":1492818555,
     "wof:name":"Nokomis Collectibles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

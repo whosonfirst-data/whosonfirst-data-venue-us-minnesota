@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.258783,47.306514,-96.258783,47.306514",
     "geom:latitude":47.306514,
     "geom:longitude":-96.258783,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512429,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PUBoxm3l1KweaoZI72JLh_47.306514_-96.258783@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602103,
-    "wof:geomhash":"a22225b080c465d0c77c25c1d10e687e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6523ef872c62d4abbacd03501704dbf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512429,
+            "region_id":85688727,
+            "venue_id":806910731
+        }
+    ],
     "wof:id":806910731,
-    "wof:lastmodified":1472629932,
+    "wof:lastmodified":1492814322,
     "wof:name":"Wildwood Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

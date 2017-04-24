@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.852751,44.733404,-92.852751,44.733404",
     "geom:latitude":44.733404,
     "geom:longitude":-92.852751,
@@ -31,17 +32,34 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HxX5m7LjwLYHs6FqPxSHm_44.733404_-92.852751@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584101,
-    "wof:geomhash":"bd84c88aa0cb6f369a9ef1177e04f607",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f8667a3a622f851f4cc8fdda30f7c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":773223951
+        }
+    ],
     "wof:id":773223951,
-    "wof:lastmodified":1472629977,
+    "wof:lastmodified":1492807739,
     "wof:name":"Emily's Bakery & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

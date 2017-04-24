@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.056665,45.256873,-94.056665,45.256873",
     "geom:latitude":45.256873,
     "geom:longitude":-94.056665,
@@ -31,17 +32,32 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515199,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1E7AXN6XmRV7Jdb038MeEu_45.256873_-94.056665@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585688,
-    "wof:geomhash":"ac659a0c551d84411492f479a36e6138",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66d4c118e65f93104feea4522b9fd9b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515199,
+            "region_id":85688727,
+            "venue_id":773432625
+        }
+    ],
     "wof:id":773432625,
-    "wof:lastmodified":1472630053,
+    "wof:lastmodified":1492806306,
     "wof:name":"Imagine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

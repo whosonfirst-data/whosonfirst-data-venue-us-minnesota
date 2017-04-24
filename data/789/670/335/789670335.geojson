@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.819997,45.397678,-92.819997,45.397678",
     "geom:latitude":45.397678,
     "geom:longitude":-92.819997,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511107,
+        85633793,
+        85952707,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FGg34zwV0K6g8isa3AJmw_45.397678_-92.819997@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589629,
-    "wof:geomhash":"727ef8bf341bf4c1fdc490ef3e429449",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d7c2643070acb059bf7d572cdd77808a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511107,
+            "locality_id":85952707,
+            "region_id":85688727,
+            "venue_id":789670335
+        }
+    ],
     "wof:id":789670335,
-    "wof:lastmodified":1472629135,
+    "wof:lastmodified":1492813492,
     "wof:name":"M C Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

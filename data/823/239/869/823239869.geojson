@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.18779,44.2769,-94.18779,44.2769",
     "geom:latitude":44.2769,
     "geom:longitude":-94.18779,
@@ -61,17 +62,34 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513345,
+        85633793,
+        85953473,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hLhmxufSduI7K3okZKAz2_44.276900_-94.187790@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609147,
-    "wof:geomhash":"43a0c363103c88f4d7da6a6ebd369f17",
-    "wof:hierarchy":[],
+    "wof:geomhash":"36f0bb1a54c8ef4684dc88806a7d8e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513345,
+            "locality_id":85953473,
+            "region_id":85688727,
+            "venue_id":823239869
+        }
+    ],
     "wof:id":823239869,
-    "wof:lastmodified":1472629170,
+    "wof:lastmodified":1492828317,
     "wof:name":"Al's Cabinet Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

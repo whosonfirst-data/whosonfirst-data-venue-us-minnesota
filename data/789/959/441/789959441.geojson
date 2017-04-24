@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.92095,46.796917,-95.92095,46.796917",
     "geom:latitude":46.796917,
     "geom:longitude":-95.92095,
@@ -32,17 +33,32 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511339,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F6MhkmUHiB5DX2SUGNEDW_46.796917_-95.920950@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591991,
-    "wof:geomhash":"32fe70d94b7c968ff9d0f74708152445",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46c8ca9fb0cd18f1b1f513f94942fd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511339,
+            "region_id":85688727,
+            "venue_id":789959441
+        }
+    ],
     "wof:id":789959441,
-    "wof:lastmodified":1472629648,
+    "wof:lastmodified":1492812354,
     "wof:name":"Bradshaw Gravel Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

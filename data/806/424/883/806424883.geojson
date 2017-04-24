@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.687938,43.731487,-93.687938,43.731487",
     "geom:latitude":43.731487,
     "geom:longitude":-93.687938,
@@ -35,17 +36,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514071,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QwPNfV1gZ9mmtBcgsp4Qb_43.731487_-93.687938@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598040,
-    "wof:geomhash":"c6fcf98fd1a76a22d3a4a194edf896dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"add51e37d5b6a956c02852e234b31368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514071,
+            "region_id":85688727,
+            "venue_id":806424883
+        }
+    ],
     "wof:id":806424883,
-    "wof:lastmodified":1472629148,
+    "wof:lastmodified":1492816033,
     "wof:name":"Kevin Voigt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.482835,47.169233,-92.482835,47.169233",
     "geom:latitude":47.169233,
     "geom:longitude":-92.482835,
@@ -32,17 +33,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bhQAAqGPgREh9Cra3crY3_47.169153_-92.481999@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603643,
-    "wof:geomhash":"47de65c2f5eb6fed1bb96add8a9915bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e23dc04c3c11ed0b4d0d23612dcca263",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":807092843
+        }
+    ],
     "wof:id":807092843,
-    "wof:lastmodified":1472629160,
+    "wof:lastmodified":1492823251,
     "wof:name":"Cotton Community Church",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

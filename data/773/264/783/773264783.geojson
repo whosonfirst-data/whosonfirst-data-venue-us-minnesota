@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.389993,45.654403,-95.389993,45.654403",
     "geom:latitude":45.654403,
     "geom:longitude":-95.389993,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514323,
+        85633793,
+        85968627,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QtEvJlhDUuhRyGtGqqHv9_45.654403_-95.389993@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584395,
-    "wof:geomhash":"b8221400dd15c78895ad9f10b5db9bb3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76220da8d00633e95cea7290a49f2947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514323,
+            "locality_id":85968627,
+            "region_id":85688727,
+            "venue_id":773264783
+        }
+    ],
     "wof:id":773264783,
-    "wof:lastmodified":1472630002,
+    "wof:lastmodified":1492806529,
     "wof:name":"Glenwood Estates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.120177,43.923401,-95.120177,43.923401",
     "geom:latitude":43.923401,
     "geom:longitude":-95.120177,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511859,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SkrHzzdWONELb8ZLboWj9_43.923401_-95.120177@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603903,
-    "wof:geomhash":"f2f632e69fcb294aaed03509562f611c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ade59398ea3d51d60a02091269dd5845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511859,
+            "region_id":85688727,
+            "venue_id":807116415
+        }
+    ],
     "wof:id":807116415,
-    "wof:lastmodified":1472629231,
+    "wof:lastmodified":1492825931,
     "wof:name":"Wayne Muller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

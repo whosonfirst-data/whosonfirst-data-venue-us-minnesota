@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.218907,45.554964,-94.218907,45.554964",
     "geom:latitude":45.554964,
     "geom:longitude":-94.218907,
@@ -31,17 +32,34 @@
         "transmission"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P6DoxBEpPUN7y5aDpVsf0_45.554964_-94.218907@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598193,
-    "wof:geomhash":"5508152d16c80ab237f4d3c574d81778",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abaee24ab6346ca250fd912fd198f86a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":806443539
+        }
+    ],
     "wof:id":806443539,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492817359,
     "wof:name":"Schulte Transmission Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

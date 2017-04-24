@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.435882,45.065982,-93.435882,45.065982",
     "geom:latitude":45.065982,
     "geom:longitude":-93.435882,
@@ -32,17 +33,34 @@
         "machinery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JFTxxybwaODnw4BdKHb0V_45.065982_-93.435882@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596026,
-    "wof:geomhash":"ed23c99d101a8139e65a821f0324205c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9706fe7a183005e098a17c4074d3445",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":790461907
+        }
+    ],
     "wof:id":790461907,
-    "wof:lastmodified":1472629738,
+    "wof:lastmodified":1492835831,
     "wof:name":"Air Rigging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

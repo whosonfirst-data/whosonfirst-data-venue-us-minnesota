@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.579976,44.449637,-93.579976,44.449637",
     "geom:latitude":44.449637,
     "geom:longitude":-93.579976,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pbw4LkuD8oJkBIFOrX5fd_44.449637_-93.579976@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589196,
-    "wof:geomhash":"5b55717f86c4c3ec50247035abe0a422",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9eb5cdbc1b4805bb1e98c986a80165d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":789617015
+        }
+    ],
     "wof:id":789617015,
-    "wof:lastmodified":1472629021,
+    "wof:lastmodified":1492811837,
     "wof:name":"Autotake Recovery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

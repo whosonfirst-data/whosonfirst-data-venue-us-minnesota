@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.663371,44.362671,-94.663371,44.362671",
     "geom:latitude":44.362671,
     "geom:longitude":-94.663371,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511589,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5y9CzzRxQ4O6ddTX1SVbui_44.362671_-94.663371@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601774,
-    "wof:geomhash":"db182d6a37569de433edc3b5319f49f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a16573a5f569a4f6df360fc59326b29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511589,
+            "region_id":85688727,
+            "venue_id":806870365
+        }
+    ],
     "wof:id":806870365,
-    "wof:lastmodified":1472629908,
+    "wof:lastmodified":1492814159,
     "wof:name":"Havemeier Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

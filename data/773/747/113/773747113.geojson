@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.584505,45.545884,-93.584505,45.545884",
     "geom:latitude":45.545884,
     "geom:longitude":-93.584505,
@@ -31,17 +32,32 @@
         "crane"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515049,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DJyLQsBRSayTFywFqx7Vs_45.545884_-93.584505@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588077,
-    "wof:geomhash":"5b9bd18773c39d2afb96ef276dd17cca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"064d192e0683e49891f242241b88155a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515049,
+            "region_id":85688727,
+            "venue_id":773747113
+        }
+    ],
     "wof:id":773747113,
-    "wof:lastmodified":1472630146,
+    "wof:lastmodified":1492800638,
     "wof:name":"Anderson Inc Crane Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

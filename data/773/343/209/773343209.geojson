@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.798542,44.43529,-95.798542,44.43529",
     "geom:latitude":44.43529,
     "geom:longitude":-95.798542,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VAvUwNwnWU4A8iVrleU0c_44.435290_-95.798542@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585001,
-    "wof:geomhash":"ce14693af92585915a1a3235225ba57e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b86923e5321de3db02d3200f4e12ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":773343209
+        }
+    ],
     "wof:id":773343209,
-    "wof:lastmodified":1472630012,
+    "wof:lastmodified":1492801317,
     "wof:name":"Jane Gregg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

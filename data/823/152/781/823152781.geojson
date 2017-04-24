@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.358727,44.933414,-93.358727,44.933414",
     "geom:latitude":44.933414,
     "geom:longitude":-93.358727,
@@ -28,17 +29,34 @@
     "sg:postcode":"55416",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xCYsbLYbKGE0RfRFwVlAz_44.933414_-93.358727@1303262827"
     },
     "wof:country":"US",
     "wof:created":1462607701,
-    "wof:geomhash":"bda2109e57e967936632829699db0c75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fe34bb4b051ea4e3ea609563c7f11ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823152781
+        }
+    ],
     "wof:id":823152781,
-    "wof:lastmodified":1472628969,
+    "wof:lastmodified":1492831083,
     "wof:name":"Ward Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

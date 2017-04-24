@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.518343,44.704935,-94.518343,44.704935",
     "geom:latitude":44.704935,
     "geom:longitude":-94.518343,
@@ -26,17 +27,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514037,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DlU9cyH1QrKYn2xL7OBog_44.704935_-94.518343@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603653,
-    "wof:geomhash":"de28e54a3c81da02682bf61628abd930",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3364ab80c692ed1ac36f655e55d85d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514037,
+            "region_id":85688727,
+            "venue_id":807093881
+        }
+    ],
     "wof:id":807093881,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492827271,
     "wof:name":"J M L Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

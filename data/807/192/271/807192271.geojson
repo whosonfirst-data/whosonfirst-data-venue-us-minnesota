@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.962489,45.451335,-93.962489,45.451335",
     "geom:latitude":45.451335,
     "geom:longitude":-93.962489,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515101,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NruHW0Nrm42BmMQphttpO_45.451335_-93.962489@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604712,
-    "wof:geomhash":"d4dcfd1111c16e2ec22996832cc9639d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"911962d4d8834b02f7d03c0f68e6cae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515101,
+            "region_id":85688727,
+            "venue_id":807192271
+        }
+    ],
     "wof:id":807192271,
-    "wof:lastmodified":1472629387,
+    "wof:lastmodified":1492823324,
     "wof:name":"Fiereck Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

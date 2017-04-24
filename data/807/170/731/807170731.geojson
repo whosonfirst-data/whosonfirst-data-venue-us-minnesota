@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.519,44.630448,-93.519,44.630448",
     "geom:latitude":44.630448,
     "geom:longitude":-93.519,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510735,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cCc6VTfIo0jSbKoP8TnDO_44.630448_-93.519000@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604491,
-    "wof:geomhash":"4a344879c7139856dba43522ce00a00d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc6bcf21884de2b8af3cfdf1527aed3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510735,
+            "region_id":85688727,
+            "venue_id":807170731
+        }
+    ],
     "wof:id":807170731,
-    "wof:lastmodified":1472629349,
+    "wof:lastmodified":1492823081,
     "wof:name":"Roger Dubbe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

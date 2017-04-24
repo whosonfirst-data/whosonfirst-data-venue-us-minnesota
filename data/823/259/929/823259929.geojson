@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.183243,48.703422,-96.183243,48.703422",
     "geom:latitude":48.703422,
     "geom:longitude":-96.183243,
@@ -32,17 +33,34 @@
         "device"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512917,
+        85633793,
+        85953423,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yC4Jtgyl59BEEHSDJRiuc_48.703422_-96.183243@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609551,
-    "wof:geomhash":"6c936f4c1af66bfe02a61e816c324e96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0320ae415656c1b8eff76001c6896cef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512917,
+            "locality_id":85953423,
+            "region_id":85688727,
+            "venue_id":823259929
+        }
+    ],
     "wof:id":823259929,
-    "wof:lastmodified":1472629228,
+    "wof:lastmodified":1492829174,
     "wof:name":"Mcfarlane Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

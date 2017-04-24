@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538089,47.462541,-92.538089,47.462541",
     "geom:latitude":47.462541,
     "geom:longitude":-92.538089,
@@ -31,17 +32,26 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YdsNlpnc3kLiRHmO25wjw_47.462541_-92.538089@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597022,
-    "wof:geomhash":"3a2beabc1a9dea7d95a1b2556d649da8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afee2b9d054a53e3fc75150c4e58aaf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790577983
+        }
+    ],
     "wof:id":790577983,
-    "wof:lastmodified":1472629888,
+    "wof:lastmodified":1492833335,
     "wof:name":"Eveleth Ambulance Svc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

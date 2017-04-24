@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.36851,45.500799,-93.36851,45.500799",
     "geom:latitude":45.500799,
     "geom:longitude":-93.36851,
@@ -35,17 +36,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512981,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qRivB5eXre9nyO9A9BIEq_45.500799_-93.368510@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605277,
-    "wof:geomhash":"97298ed0b74de60be414bd219c1034ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddf55830af56f4339f246a32e1f442d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512981,
+            "region_id":85688727,
+            "venue_id":807245015
+        }
+    ],
     "wof:id":807245015,
-    "wof:lastmodified":1472629488,
+    "wof:lastmodified":1492824277,
     "wof:name":"Englund Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

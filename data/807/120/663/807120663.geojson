@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.179659,45.232732,-94.179659,45.232732",
     "geom:latitude":45.232732,
     "geom:longitude":-94.179659,
@@ -35,17 +36,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510761,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_224qxaUPmlusf2p24h41NX_45.232616_-94.179665@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603947,
-    "wof:geomhash":"1be0bdc8ddfea7caa996d9f3af772ef9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92eb4c9d33330b672cc4b8632b6e1dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510761,
+            "region_id":85688727,
+            "venue_id":807120663
+        }
+    ],
     "wof:id":807120663,
-    "wof:lastmodified":1472629253,
+    "wof:lastmodified":1492822333,
     "wof:name":"Werner Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

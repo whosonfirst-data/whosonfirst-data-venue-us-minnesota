@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.718649,45.079538,-93.718649,45.079538",
     "geom:latitude":45.079538,
     "geom:longitude":-93.718649,
@@ -33,17 +34,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511719,
+        85633793,
+        85969203,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yzNzEGnTToC88Aaj08PvQ_45.079538_-93.718649@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602615,
-    "wof:geomhash":"18923cbdb25ea4a98f69b5bf82df40ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"807bc4da5aae34b698a7f56bd5ee4a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511719,
+            "locality_id":85969203,
+            "region_id":85688727,
+            "venue_id":806970453
+        }
+    ],
     "wof:id":806970453,
-    "wof:lastmodified":1472629964,
+    "wof:lastmodified":1492814259,
     "wof:name":"Holiday Station Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.019142,45.400171,-93.019142,45.400171",
     "geom:latitude":45.400171,
     "geom:longitude":-93.019142,
@@ -34,17 +35,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mu29Pn8Ct92CWCuYNEc3K_45.400171_-93.019142@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605386,
-    "wof:geomhash":"21c8bc397e505aa2fe876f8c6f638b8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56eb65b8cb69a3a2c0c3a253ca9cd1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":807255803
+        }
+    ],
     "wof:id":807255803,
-    "wof:lastmodified":1472629524,
+    "wof:lastmodified":1492828038,
     "wof:name":"Tri Star Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

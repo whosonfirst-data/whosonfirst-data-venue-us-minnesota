@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.274074,44.716963,-96.274074,44.716963",
     "geom:latitude":44.716963,
     "geom:longitude":-96.274074,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515265,
+        85633793,
+        85952941,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fl1jpWaKqYPmydM0Fvmay_44.716963_-96.274074@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584924,
-    "wof:geomhash":"90d060c0bdcc5856f9b504d6c5f65bd4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42d7384c0f11d28a46061a93e7e54b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515265,
+            "locality_id":85952941,
+            "region_id":85688727,
+            "venue_id":773331591
+        }
+    ],
     "wof:id":773331591,
-    "wof:lastmodified":1472630013,
+    "wof:lastmodified":1492806343,
     "wof:name":"Ethel M Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

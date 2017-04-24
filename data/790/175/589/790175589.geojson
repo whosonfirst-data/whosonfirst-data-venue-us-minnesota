@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.175285,48.123083,-96.175285,48.123083",
     "geom:latitude":48.123083,
     "geom:longitude":-96.175285,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bEBNKHCBrkPVR98i17XRD_48.123083_-96.175285@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593740,
-    "wof:geomhash":"79b45faf3c66a8467a3364509bf96675",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b314885971c23243fe80fdf8655ebb66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":790175589
+        }
+    ],
     "wof:id":790175589,
-    "wof:lastmodified":1472629264,
+    "wof:lastmodified":1492834765,
     "wof:name":"Olson's Auto Sales & Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

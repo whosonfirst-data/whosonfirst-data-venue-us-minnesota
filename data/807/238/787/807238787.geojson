@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.292785,44.314165,-93.292785,44.314165",
     "geom:latitude":44.314165,
     "geom:longitude":-93.292785,
@@ -40,17 +41,34 @@
         "listing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iW9tRBirtt9sDENLeBqJz_44.314165_-93.292785@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605198,
-    "wof:geomhash":"601a37c7a21bd51a85f7d01bf71a2001",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82ae6e3df152f268a974c8a1c93f2183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":807238787
+        }
+    ],
     "wof:id":807238787,
-    "wof:lastmodified":1472629518,
+    "wof:lastmodified":1492826895,
     "wof:name":"Park Avenue Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

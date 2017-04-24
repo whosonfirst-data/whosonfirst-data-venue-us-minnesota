@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.667295,44.097976,-93.667295,44.097976",
     "geom:latitude":44.097976,
     "geom:longitude":-93.667295,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510935,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EtgKRZrn8swee6qzoqy3Y_44.097976_-93.667295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604506,
-    "wof:geomhash":"4fab9a7ba432653f527bf4f36ed5c887",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c60a16edc87c66622ef635cebf991837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404510935,
+            "region_id":85688727,
+            "venue_id":807171905
+        }
+    ],
     "wof:id":807171905,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492824645,
     "wof:name":"Burke Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

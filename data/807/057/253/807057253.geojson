@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.624119,47.767473,-96.624119,47.767473",
     "geom:latitude":47.767473,
     "geom:longitude":-96.624119,
@@ -31,17 +32,26 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10lcHmhWD7QT4dq6ZqpG7M_47.767473_-96.624119@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603350,
-    "wof:geomhash":"55f0ba3bd4bc904e2d5e4d3ab8372b1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1cb3da7919159d17006e7a235ba7d71f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":807057253
+        }
+    ],
     "wof:id":807057253,
-    "wof:lastmodified":1472629026,
+    "wof:lastmodified":1492827732,
     "wof:name":"Crookston Building Ctr",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.746149,45.11154,-93.746149,45.11154",
     "geom:latitude":45.11154,
     "geom:longitude":-93.746149,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515249,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1z03KN3w9xZmYDWOP8EdM9_45.111540_-93.746149@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605832,
-    "wof:geomhash":"97568b8629c34a8b9d67b9b0116b119f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c08befce642c7ba08b2468697d7db99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515249,
+            "region_id":85688727,
+            "venue_id":807298157
+        }
+    ],
     "wof:id":807298157,
-    "wof:lastmodified":1472629603,
+    "wof:lastmodified":1492827509,
     "wof:name":"Dudley Trucking & Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

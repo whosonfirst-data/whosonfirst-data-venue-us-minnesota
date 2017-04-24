@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.150768,45.253583,-94.150768,45.253583",
     "geom:latitude":45.253583,
     "geom:longitude":-94.150768,
@@ -31,17 +32,34 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515117,
+        85633793,
+        85968933,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73ALTIo3w2cQjGVkIlCyRT_45.253583_-94.150768@1303262815"
     },
     "wof:country":"US",
     "wof:created":1462605636,
-    "wof:geomhash":"fd8f54b7ff7ee8ce1ad5a57c6c5cf735",
-    "wof:hierarchy":[],
+    "wof:geomhash":"641e1713eed3e09006e758fdf2f33005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515117,
+            "locality_id":85968933,
+            "region_id":85688727,
+            "venue_id":807279019
+        }
+    ],
     "wof:id":807279019,
-    "wof:lastmodified":1472629587,
+    "wof:lastmodified":1492825551,
     "wof:name":"Hart Electric Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

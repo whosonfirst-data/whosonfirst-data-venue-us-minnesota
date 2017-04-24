@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.138864,44.92584,-93.138864,44.92584",
     "geom:latitude":44.92584,
     "geom:longitude":-93.138864,
@@ -33,19 +34,38 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r0rYLHNFU4fYU4NHkvWg8_44.925840_-93.138864@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595076,
-    "wof:geomhash":"a91fb7c6baeeacaf7195241bd4deb824",
-    "wof:hierarchy":[],
+    "wof:geomhash":"629bd07a08987fe41c0cc2ae0a0f260d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":790342041
+        }
+    ],
     "wof:id":790342041,
-    "wof:lastmodified":1472629522,
+    "wof:lastmodified":1492837955,
     "wof:name":"T L Trucking Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

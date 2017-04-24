@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.839766,43.921268,-92.839766,43.921268",
     "geom:latitude":43.921268,
     "geom:longitude":-92.839766,
@@ -33,17 +34,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513735,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wTjN2Yra4VANDBQOn9wSR_43.921268_-92.839766@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598373,
-    "wof:geomhash":"e67b0200419fd2ea243dfda5ce2c2c5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f87b01cc5de0e32f76768d22381e301f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513735,
+            "region_id":85688727,
+            "venue_id":806467633
+        }
+    ],
     "wof:id":806467633,
-    "wof:lastmodified":1472629215,
+    "wof:lastmodified":1492814511,
     "wof:name":"Peterson Auto Specialists Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

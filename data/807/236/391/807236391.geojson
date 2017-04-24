@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.246393,45.407481,-93.246393,45.407481",
     "geom:latitude":45.407481,
     "geom:longitude":-93.246393,
@@ -41,17 +42,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511283,
+        85633793,
+        85953399,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ewBc0fIhHKxFblxHTlmZs_45.407481_-93.246393@1303262812"
     },
     "wof:country":"US",
     "wof:created":1462605177,
-    "wof:geomhash":"827bea7971f8439b7c726ee292ad32bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9fef70c69536d561d787471a014b9182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511283,
+            "locality_id":85953399,
+            "region_id":85688727,
+            "venue_id":807236391
+        }
+    ],
     "wof:id":807236391,
-    "wof:lastmodified":1472629468,
+    "wof:lastmodified":1492824668,
     "wof:name":"Metro Electronic Lifestyle Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

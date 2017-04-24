@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.3449,45.054739,-93.3449,45.054739",
     "geom:latitude":45.054739,
     "geom:longitude":-93.3449,
@@ -37,17 +38,34 @@
         "cleaners-interior"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eC1ABenBqObYPtZqMfmsO_45.054739_-93.344900@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608215,
-    "wof:geomhash":"7ecd066e7fbbe89c2cc552bbe4952dea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"944eb919972d1e24cb94581eaa179492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823191955
+        }
+    ],
     "wof:id":823191955,
-    "wof:lastmodified":1472629057,
+    "wof:lastmodified":1492830473,
     "wof:name":"Carre Electric & Maintenance C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.386133,44.905021,-93.386133,44.905021",
     "geom:latitude":44.905021,
     "geom:longitude":-93.386133,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xMQnI8PRjm5fGGBFpis9L_44.905021_-93.386133@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591612,
-    "wof:geomhash":"ca4cd3f18190d5594a91f6cccd66631e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"17757f3e180a3009643b5a28050904de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":789918515
+        }
+    ],
     "wof:id":789918515,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492811219,
     "wof:name":"Anderson Property Management",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

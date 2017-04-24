@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.864414,45.553456,-92.864414,45.553456",
     "geom:latitude":45.553456,
     "geom:longitude":-92.864414,
@@ -32,17 +33,32 @@
         "sanitary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511031,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oTOhxFr8TaPYRwIySpPWH_45.553456_-92.864414@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584069,
-    "wof:geomhash":"c26f3694bfec159ee836495c5c1fce62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c9475c312c00c5722399cc0ad39fa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511031,
+            "region_id":85688727,
+            "venue_id":773219237
+        }
+    ],
     "wof:id":773219237,
-    "wof:lastmodified":1472629955,
+    "wof:lastmodified":1492804230,
     "wof:name":"Uptown Sweeping Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

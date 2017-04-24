@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.168701,45.0215,-93.168701,45.0215",
     "geom:latitude":45.0215,
     "geom:longitude":-93.168701,
@@ -28,17 +29,34 @@
     "sg:postcode":"55113",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SUOS4R6NmzJhdFUnhhsnR_45.021500_-93.168701@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605488,
-    "wof:geomhash":"c7fb066f3dfb4d38eed354e26c9f018f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81adb5d931555cac74e5ce6e11e43680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":807265193
+        }
+    ],
     "wof:id":807265193,
-    "wof:lastmodified":1472629557,
+    "wof:lastmodified":1492826092,
     "wof:name":"Boston Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

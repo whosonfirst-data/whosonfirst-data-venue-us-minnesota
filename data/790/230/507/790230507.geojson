@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.50135,44.03808,-92.50135,44.03808",
     "geom:latitude":44.03808,
     "geom:longitude":-92.50135,
@@ -34,17 +35,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V5oxCjl9Kxfgs2xFAr0PO_44.038080_-92.501350@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594173,
-    "wof:geomhash":"3961c6aeedcb5ce5366cd890b2c6cf3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88ffcb8bc1714524d7aa102304f26027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790230507
+        }
+    ],
     "wof:id":790230507,
-    "wof:lastmodified":1472629336,
+    "wof:lastmodified":1492833828,
     "wof:name":"Apria Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

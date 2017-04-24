@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.339088,45.069509,-93.339088,45.069509",
     "geom:latitude":45.069509,
     "geom:longitude":-93.339088,
@@ -27,17 +28,34 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0U2J2mcdd0qmgLYUQnhWNN_45.069509_-93.339088@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603745,
-    "wof:geomhash":"dd9156e1910a1c73957c6c027fb81a1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a5a7a13fee761c01a571a63b3593abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":807101105
+        }
+    ],
     "wof:id":807101105,
-    "wof:lastmodified":1472629187,
+    "wof:lastmodified":1492822773,
     "wof:name":"Earl Jacobson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

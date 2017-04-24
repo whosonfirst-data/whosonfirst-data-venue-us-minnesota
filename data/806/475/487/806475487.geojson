@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.178626,46.920089,-95.178626,46.920089",
     "geom:latitude":46.920089,
     "geom:longitude":-95.178626,
@@ -33,17 +34,32 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511341,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PKEjoEK2Ek3Gsr78tZlK5_46.920089_-95.178626@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598427,
-    "wof:geomhash":"eb2411041d5b7b21902706139e341311",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59c574fdd48cd1fefb3a0be1b9582688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511341,
+            "region_id":85688727,
+            "venue_id":806475487
+        }
+    ],
     "wof:id":806475487,
-    "wof:lastmodified":1472629257,
+    "wof:lastmodified":1492818544,
     "wof:name":"Green Valley Bean",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

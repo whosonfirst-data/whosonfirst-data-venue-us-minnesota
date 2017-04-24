@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262703,44.963001,-93.262703,44.963001",
     "geom:latitude":44.963001,
     "geom:longitude":-93.262703,
@@ -29,14 +30,14 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559131,
+        420781109,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872701
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606993,
-    "wof:geomhash":"12c9c88a123872b2b321e154f14da7fb",
+    "wof:geomhash":"9effcc05bdc57b67beb69df4d4cc0069",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +53,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559131,
-            "region_id":85688727,
-            "venue_id":807384561
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872701,
+            "macrohood_id":1108799995,
+            "neighbourhood_id":420781109,
             "region_id":85688727,
             "venue_id":807384561
         }
     ],
     "wof:id":807384561,
-    "wof:lastmodified":1472629872,
+    "wof:lastmodified":1492826775,
     "wof:name":"Subway Sandwiches & Salad Shops",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

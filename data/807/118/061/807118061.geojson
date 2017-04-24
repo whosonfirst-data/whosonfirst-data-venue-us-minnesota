@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.098138,44.759785,-95.098138,44.759785",
     "geom:latitude":44.759785,
     "geom:longitude":-95.098138,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512615,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vVQK5EpKWG3ncyIOpzaOk_44.759785_-95.098138@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603918,
-    "wof:geomhash":"04375418b3206cbcb8bb4aa9cdf182de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f939a55be1874d2aeb3fc18e9b1500d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512615,
+            "region_id":85688727,
+            "venue_id":807118061
+        }
+    ],
     "wof:id":807118061,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492825092,
     "wof:name":"Joe Braun Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.975458,43.713894,-91.975458,43.713894",
     "geom:latitude":43.713894,
     "geom:longitude":-91.975458,
@@ -33,17 +34,34 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514267,
+        85633793,
+        85953173,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JoKFMhiNWHQRNmBiZEagb_43.713894_-91.975458@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591705,
-    "wof:geomhash":"2b83aecb2164eb0c282e2f32b9916b1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9ee28cd2a2a9784ffe7fa6ef905fee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514267,
+            "locality_id":85953173,
+            "region_id":85688727,
+            "venue_id":789929201
+        }
+    ],
     "wof:id":789929201,
-    "wof:lastmodified":1472629630,
+    "wof:lastmodified":1492812141,
     "wof:name":"Jenny's Country Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

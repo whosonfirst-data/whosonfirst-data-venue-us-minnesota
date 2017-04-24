@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.581519,44.558835,-93.581519,44.558835",
     "geom:latitude":44.558835,
     "geom:longitude":-93.581519,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515037,
+        85633793,
+        85952425,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WfOn5XVm0J7MKOeU5ZbJR_44.558835_-93.581519@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585805,
-    "wof:geomhash":"b2dd124113a576d5f9c1c7cd046e777e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c9da997b2bdbcfb1443595619f83a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515037,
+            "locality_id":85952425,
+            "region_id":85688727,
+            "venue_id":773445471
+        }
+    ],
     "wof:id":773445471,
-    "wof:lastmodified":1472630056,
+    "wof:lastmodified":1492802748,
     "wof:name":"Arts & Scraps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

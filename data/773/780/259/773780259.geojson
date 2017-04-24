@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.356334,44.956418,-93.356334,44.956418",
     "geom:latitude":44.956418,
     "geom:longitude":-93.356334,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78QiJRxrMn3R9F8DNL3LUR_44.956418_-93.356334@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588320,
-    "wof:geomhash":"34a43cdf551d873aa1bfd08137222781",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7818ed02a0ef78bba1fb886957f3c860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":773780259
+        }
+    ],
     "wof:id":773780259,
-    "wof:lastmodified":1472630155,
+    "wof:lastmodified":1492801257,
     "wof:name":"Overland Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

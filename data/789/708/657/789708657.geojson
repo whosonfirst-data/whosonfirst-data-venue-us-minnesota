@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.830098,47.44542,-94.830098,47.44542",
     "geom:latitude":47.44542,
     "geom:longitude":-94.830098,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511371,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FQJhg4ILsWx9XyvDzBPyQ_47.445420_-94.830098@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589921,
-    "wof:geomhash":"6df84a5d209b4c5a86e1dd4512e85eed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69a008049d9fe496de3c0e3e2bca2323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511371,
+            "region_id":85688727,
+            "venue_id":789708657
+        }
+    ],
     "wof:id":789708657,
-    "wof:lastmodified":1472629231,
+    "wof:lastmodified":1492809623,
     "wof:name":"Waterfront Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

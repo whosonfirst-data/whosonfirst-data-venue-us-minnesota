@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.806019,45.431942,-92.806019,45.431942",
     "geom:latitude":45.431942,
     "geom:longitude":-92.806019,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FIeBweLIthwDxVEdh20Lj_45.431942_-92.806019@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598466,
-    "wof:geomhash":"e916038d7ccc546f17046f085acfb89c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebd936c568073adb6b9d40faa50a5ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":806479567
+        }
+    ],
     "wof:id":806479567,
-    "wof:lastmodified":1472629268,
+    "wof:lastmodified":1492814582,
     "wof:name":"Wahl Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

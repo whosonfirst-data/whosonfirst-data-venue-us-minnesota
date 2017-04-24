@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.699581,47.028965,-91.699581,47.028965",
     "geom:latitude":47.028965,
     "geom:longitude":-91.699581,
@@ -31,17 +32,32 @@
         "sanitary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514557,
+        85633793,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dJ2rGhJcn5FhrRI8Gpej1_47.028965_-91.699581@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586002,
-    "wof:geomhash":"c972dff6d613c806f13fc5f07a2648d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfff3f445438840f253decf7a81239bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514557,
+            "region_id":85688727,
+            "venue_id":773471905
+        }
+    ],
     "wof:id":773471905,
-    "wof:lastmodified":1472630067,
+    "wof:lastmodified":1492800360,
     "wof:name":"Norm Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

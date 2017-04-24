@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.044786,44.17323,-94.044786,44.17323",
     "geom:latitude":44.17323,
     "geom:longitude":-94.044786,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67fUfxFt6HvqQ3x2DBujLG_44.173230_-94.044786@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603521,
-    "wof:geomhash":"f1f029df99fd2b5d6c92f1f533474a8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b527c241735805e624787291c99087a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":807078523
+        }
+    ],
     "wof:id":807078523,
-    "wof:lastmodified":1472629098,
+    "wof:lastmodified":1492825958,
     "wof:name":"Minnesota Automotive Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

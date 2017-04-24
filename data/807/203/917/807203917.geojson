@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.333632,43.979741,-96.333632,43.979741",
     "geom:latitude":43.979741,
     "geom:longitude":-96.333632,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513533,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FKwoP2wLatlzpH1ofqc3j_43.979741_-96.333632@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604835,
-    "wof:geomhash":"7a57ef706e3ed25f3d6bb2d2ffda92ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34dad60da73f88387a98ce234783dd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513533,
+            "region_id":85688727,
+            "venue_id":807203917
+        }
+    ],
     "wof:id":807203917,
-    "wof:lastmodified":1472629424,
+    "wof:lastmodified":1492823598,
     "wof:name":"Ronald Raatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

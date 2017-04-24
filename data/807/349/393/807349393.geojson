@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.657752,45.491424,-93.657752,45.491424",
     "geom:latitude":45.491424,
     "geom:longitude":-93.657752,
@@ -38,17 +39,32 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510741,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nCpwrv7PYxflotOhn2oPW_45.491424_-93.657752@1303262821"
     },
     "wof:country":"US",
     "wof:created":1462606493,
-    "wof:geomhash":"ba023d3cd38ca95593df89cb71b0f2bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c7955dc5843d5c20f3e1325d3e135b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510741,
+            "region_id":85688727,
+            "venue_id":807349393
+        }
+    ],
     "wof:id":807349393,
-    "wof:lastmodified":1472629792,
+    "wof:lastmodified":1492826406,
     "wof:name":"Expert Appraisals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

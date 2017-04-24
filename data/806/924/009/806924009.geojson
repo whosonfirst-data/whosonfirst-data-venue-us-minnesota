@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.038061,45.140008,-95.038061,45.140008",
     "geom:latitude":45.140008,
     "geom:longitude":-95.038061,
@@ -31,17 +32,34 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gHd0IhS08T82DHyLBGu1I_45.140008_-95.038061@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602225,
-    "wof:geomhash":"7ea29957c264f6a66fa59849b2fefe88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2dae8aaa2a799c5b58f9ef0be466edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":806924009
+        }
+    ],
     "wof:id":806924009,
-    "wof:lastmodified":1472629933,
+    "wof:lastmodified":1492814835,
     "wof:name":"Federated Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

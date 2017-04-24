@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.649694,45.004837,-93.649694,45.004837",
     "geom:latitude":45.004837,
     "geom:longitude":-93.649694,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511879,
+        85633793,
+        85969183,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Cm2pOe78TrjtYWYNvcLnW_45.004837_-93.649694@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587568,
-    "wof:geomhash":"cc70bfab2173cd1369e295cfbfd39113",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbe341bd38f32a84d52cc6a486a695c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511879,
+            "locality_id":85969183,
+            "region_id":85688727,
+            "venue_id":773683645
+        }
+    ],
     "wof:id":773683645,
-    "wof:lastmodified":1472630130,
+    "wof:lastmodified":1492800170,
     "wof:name":"Maple Terace Aptsr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

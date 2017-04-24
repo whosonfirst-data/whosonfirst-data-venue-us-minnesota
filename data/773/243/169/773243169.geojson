@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.383611,44.275471,-93.383611,44.275471",
     "geom:latitude":44.275471,
     "geom:longitude":-93.383611,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512761,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45mTAej2WDYoF6HCdUD3ty_44.275471_-93.383611@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584237,
-    "wof:geomhash":"6e58cd20a69f67966f3d3c881b1ed806",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45de424fbc799f880cdde53c02a129a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512761,
+            "region_id":85688727,
+            "venue_id":773243169
+        }
+    ],
     "wof:id":773243169,
-    "wof:lastmodified":1472629972,
+    "wof:lastmodified":1492802440,
     "wof:name":"Loren Dupont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

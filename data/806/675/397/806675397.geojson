@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.188991,44.919717,-93.188991,44.919717",
     "geom:latitude":44.919717,
     "geom:longitude":-93.188991,
@@ -31,19 +32,38 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FsEhP9YO0bnZwXag0n7ur_44.919717_-93.188991@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600131,
-    "wof:geomhash":"459226ef1ebe133d7e72b6a6faee63ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"091a1a1723e597998f3205d8be81d59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806675397
+        }
+    ],
     "wof:id":806675397,
-    "wof:lastmodified":1472629686,
+    "wof:lastmodified":1492815729,
     "wof:name":"Parkway Stamps",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

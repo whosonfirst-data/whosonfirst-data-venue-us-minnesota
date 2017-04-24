@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.006207,45.235952,-94.006207,45.235952",
     "geom:latitude":45.235952,
     "geom:longitude":-94.006207,
@@ -31,17 +32,34 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515231,
+        85633793,
+        85968911,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zmd0wxM6RQ0bwiqDAPuYH_45.235952_-94.006207@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602711,
-    "wof:geomhash":"749a86d17e6dfe14cee436f49a11dfda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"314fdb98bb375d2ff081d3686fe6477c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515231,
+            "locality_id":85968911,
+            "region_id":85688727,
+            "venue_id":806982217
+        }
+    ],
     "wof:id":806982217,
-    "wof:lastmodified":1472629967,
+    "wof:lastmodified":1492821373,
     "wof:name":"Steven King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

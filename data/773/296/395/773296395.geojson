@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.167116,44.635003,-96.167116,44.635003",
     "geom:latitude":44.635003,
     "geom:longitude":-96.167116,
@@ -32,17 +33,34 @@
         "hydraulic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510783,
+        85633793,
+        85952901,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aL577JFpTHqZ66uQ0li4m_44.635003_-96.167116@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584647,
-    "wof:geomhash":"6f8e0d47cd7685427a95863d6112f0a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14abe50f25ca9e2a07e82b9351220166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510783,
+            "locality_id":85952901,
+            "region_id":85688727,
+            "venue_id":773296395
+        }
+    ],
     "wof:id":773296395,
-    "wof:lastmodified":1472630018,
+    "wof:lastmodified":1492799129,
     "wof:name":"SMI & Hydraulics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

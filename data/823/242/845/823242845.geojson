@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.105012,44.175677,-96.105012,44.175677",
     "geom:latitude":44.175677,
     "geom:longitude":-96.105012,
@@ -38,17 +39,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513531,
+        85633793,
+        85952983,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TAiyecGrIqvAqXb92xGMC_44.175677_-96.105012@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609199,
-    "wof:geomhash":"1a148ac2a6d5a7e849c95c493d553f43",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd5d48f80bbbfd6bbb4516db4b30ecb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513531,
+            "locality_id":85952983,
+            "region_id":85688727,
+            "venue_id":823242845
+        }
+    ],
     "wof:id":823242845,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492828559,
     "wof:name":"Reber Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

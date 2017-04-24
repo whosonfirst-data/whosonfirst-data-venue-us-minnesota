@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.54163,45.044681,-93.54163,45.044681",
     "geom:latitude":45.044681,
     "geom:longitude":-93.54163,
@@ -40,17 +41,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511881,
+        85633793,
+        85969173,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5s4glCj7lFEZsKwljcZrTA_45.044681_-93.541630@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606130,
-    "wof:geomhash":"3968df466ab86254c10746a2ec045847",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a62c06cae347b87a0582fed85f5dc00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511881,
+            "locality_id":85969173,
+            "region_id":85688727,
+            "venue_id":807325051
+        }
+    ],
     "wof:id":807325051,
-    "wof:lastmodified":1472629715,
+    "wof:lastmodified":1492825033,
     "wof:name":"Material Handling Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

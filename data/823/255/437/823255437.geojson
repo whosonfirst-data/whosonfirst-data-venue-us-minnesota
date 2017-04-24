@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.751025,46.549674,-95.751025,46.549674",
     "geom:latitude":46.549674,
     "geom:longitude":-95.751025,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512745,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ueJIdZLkfI5dqVHbb0VRD_46.549674_-95.751025@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609449,
-    "wof:geomhash":"c18cdc917c1af1a6090c2d6824f51153",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff0d0dce0a157cdbfb3ba149432ab042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512745,
+            "region_id":85688727,
+            "venue_id":823255437
+        }
+    ],
     "wof:id":823255437,
-    "wof:lastmodified":1472629214,
+    "wof:lastmodified":1492831217,
     "wof:name":"Satter Trucking, Inc Of Dent",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

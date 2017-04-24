@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.409651,45.786566,-93.409651,45.786566",
     "geom:latitude":45.786566,
     "geom:longitude":-93.409651,
@@ -32,17 +33,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513773,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50jNn24wemRUoVHNg6RbD1_45.786566_-93.409651@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599898,
-    "wof:geomhash":"c2bc1f257845084f05127076d1117dce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a0c36c4026e4f3b521f3846082d18b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513773,
+            "region_id":85688727,
+            "venue_id":806649359
+        }
+    ],
     "wof:id":806649359,
-    "wof:lastmodified":1472629633,
+    "wof:lastmodified":1492814906,
     "wof:name":"D & T Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.166523,45.021035,-93.166523,45.021035",
     "geom:latitude":45.021035,
     "geom:longitude":-93.166523,
@@ -31,17 +32,34 @@
         "national"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24NlCwPM3rtsyBRV7A1xWx_45.021035_-93.166523@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596956,
-    "wof:geomhash":"59ceba86a7a2d99eab46215c398c5c67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a45adfb5c7f4327d223a9fc0f80d7ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":790569341
+        }
+    ],
     "wof:id":790569341,
-    "wof:lastmodified":1472629868,
+    "wof:lastmodified":1492832079,
     "wof:name":"Community National Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

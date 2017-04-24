@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.149494,45.016076,-93.149494,45.016076",
     "geom:latitude":45.016076,
     "geom:longitude":-93.149494,
@@ -39,17 +40,34 @@
         "thawing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59KpCFg5AQXoPa6k7vzRR9_45.016076_-93.149494@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583694,
-    "wof:geomhash":"2d0b12970ccec448cf9d4b940198ae23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e08fd13767022a3b6828686a917b2242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":773173923
+        }
+    ],
     "wof:id":773173923,
-    "wof:lastmodified":1472629838,
+    "wof:lastmodified":1492805516,
     "wof:name":"Metro Sewer & Drain Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

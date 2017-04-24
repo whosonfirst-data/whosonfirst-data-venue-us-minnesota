@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.816816,45.393848,-92.816816,45.393848",
     "geom:latitude":45.393848,
     "geom:longitude":-92.816816,
@@ -33,17 +34,34 @@
         "bed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511107,
+        85633793,
+        85952707,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ADCz8eJhlrIekw0QFfMMa_45.393848_-92.816816@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598402,
-    "wof:geomhash":"38501efc9bf5255e69d8845c94e0df0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"957e703b858031af006fe64fc177d55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511107,
+            "locality_id":85952707,
+            "region_id":85688727,
+            "venue_id":806471925
+        }
+    ],
     "wof:id":806471925,
-    "wof:lastmodified":1472629222,
+    "wof:lastmodified":1492814924,
     "wof:name":"Summit Inn Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

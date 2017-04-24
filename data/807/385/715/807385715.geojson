@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.266203,44.960558,-93.266203,44.960558",
     "geom:latitude":44.960558,
     "geom:longitude":-93.266203,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872701,
+        420781055,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420559143
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607008,
-    "wof:geomhash":"5d79bfe790333a63d92d75f7193e7a7d",
+    "wof:geomhash":"e525d9bca48adaaadd89cc19cb8a69ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +57,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872701,
-            "region_id":85688727,
-            "venue_id":807385715
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420559143,
+            "macrohood_id":1108799995,
+            "neighbourhood_id":420781055,
             "region_id":85688727,
             "venue_id":807385715
         }
     ],
     "wof:id":807385715,
-    "wof:lastmodified":1472629880,
+    "wof:lastmodified":1492825071,
     "wof:name":"Freeport West Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

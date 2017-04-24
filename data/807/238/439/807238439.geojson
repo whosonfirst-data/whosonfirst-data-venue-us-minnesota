@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286999,44.268004,-93.286999,44.268004",
     "geom:latitude":44.268004,
     "geom:longitude":-93.286999,
@@ -39,17 +40,34 @@
         "homes-institutional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H6kXFdCEDsLQYY5RAk5CD_44.268004_-93.286999@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605195,
-    "wof:geomhash":"901be531e95db3256c37f8f4bec617ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edbddb558048eff45f76b3fc15992376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":807238439
+        }
+    ],
     "wof:id":807238439,
-    "wof:lastmodified":1472629509,
+    "wof:lastmodified":1492826910,
     "wof:name":"Prairie Ridge Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

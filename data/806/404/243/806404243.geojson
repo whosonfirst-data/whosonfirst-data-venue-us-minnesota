@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.165453,48.119104,-96.165453,48.119104",
     "geom:latitude":48.119104,
     "geom:longitude":-96.165453,
@@ -32,17 +33,34 @@
         "extinguisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15x7eslgeUkTTzd7t0yfNH_48.119104_-96.165453@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597870,
-    "wof:geomhash":"02df619d28ea18d7eff71bfe07f13160",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33e4770bf3fe09b538dd72d624b3710f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806404243
+        }
+    ],
     "wof:id":806404243,
-    "wof:lastmodified":1472629052,
+    "wof:lastmodified":1492816585,
     "wof:name":"Northland Fire Extinguishers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

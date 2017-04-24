@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.438471,45.459799,-96.438471,45.459799",
     "geom:latitude":45.459799,
     "geom:longitude":-96.438471,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511321,
+        85633793,
+        85952731,
+        102087619
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3upCvse4Z0rpuzbqSH9a0M_45.459799_-96.438471@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609250,
-    "wof:geomhash":"8eeccf911b864fb2e3c1fc6b9800ad93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"024d99d57ed7b2ea9e360e05d5079aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087619,
+            "localadmin_id":404511321,
+            "locality_id":85952731,
+            "region_id":85688727,
+            "venue_id":823245385
+        }
+    ],
     "wof:id":823245385,
-    "wof:lastmodified":1472629159,
+    "wof:lastmodified":1492829438,
     "wof:name":"Clinton Community Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

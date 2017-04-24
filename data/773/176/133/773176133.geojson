@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.016697,44.949904,-93.016697,44.949904",
     "geom:latitude":44.949904,
     "geom:longitude":-93.016697,
@@ -28,19 +29,40 @@
     "sg:postcode":"55119",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pBvOfPC0DEQpPvHD92If7_44.949904_-93.016697@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583708,
-    "wof:geomhash":"da1a40ddeb6a0a309543eae4cf29739b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d66028537c2755df33e7c733437d6d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":773176133
+        }
+    ],
     "wof:id":773176133,
-    "wof:lastmodified":1472629858,
+    "wof:lastmodified":1492799887,
     "wof:name":"Slumberland",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

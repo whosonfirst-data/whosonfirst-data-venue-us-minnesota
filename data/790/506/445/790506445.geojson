@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.954688,43.930792,-93.954688,43.930792",
     "geom:latitude":43.930792,
     "geom:longitude":-93.954688,
@@ -31,17 +32,34 @@
         "photographer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511551,
+        85633793,
+        85953343,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j5N16kuVvgAFzrgyJ5Wlj_43.930792_-93.954688@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596423,
-    "wof:geomhash":"78525fe6b786bac592877627b8eee136",
-    "wof:hierarchy":[],
+    "wof:geomhash":"67d6a6b4f7412aa61fd94877c95a1abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511551,
+            "locality_id":85953343,
+            "region_id":85688727,
+            "venue_id":790506445
+        }
+    ],
     "wof:id":790506445,
-    "wof:lastmodified":1472629785,
+    "wof:lastmodified":1492833155,
     "wof:name":"Maple Park Studios",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.597865,45.584721,-93.597865,45.584721",
     "geom:latitude":45.584721,
     "geom:longitude":-93.597865,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512571,
+        85633793,
+        85968823,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ce6ICH9tALc7Or1bqsw0i_45.584721_-93.597865@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582228,
-    "wof:geomhash":"d06787cb21235b9153674d05abdefa2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5b0cc2613a5120697e5c643f2dd3e90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512571,
+            "locality_id":85968823,
+            "region_id":85688727,
+            "venue_id":773005405
+        }
+    ],
     "wof:id":773005405,
-    "wof:lastmodified":1472628982,
+    "wof:lastmodified":1492802381,
     "wof:name":"Barbara Miller",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

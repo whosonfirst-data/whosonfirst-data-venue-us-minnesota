@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.488431,43.869136,-92.488431,43.869136",
     "geom:latitude":43.869136,
     "geom:longitude":-92.488431,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512597,
+        85633793,
+        85953503,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KT6SoLXBaJgL5pBI7xjSt_43.869136_-92.488431@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603866,
-    "wof:geomhash":"cc93587a93c7e8f5e7da2c27b82434b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"97b6ab6634e2bb2591902dc125da38b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512597,
+            "locality_id":85953503,
+            "region_id":85688727,
+            "venue_id":807112507
+        }
+    ],
     "wof:id":807112507,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492824721,
     "wof:name":"Kevin Capelle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

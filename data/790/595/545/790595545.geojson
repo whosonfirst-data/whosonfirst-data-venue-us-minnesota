@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.023777,45.097552,-93.023777,45.097552",
     "geom:latitude":45.097552,
     "geom:longitude":-93.023777,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514471,
+        85633793,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ILMr1T4xeuBF2xADNgAdN_45.097552_-93.023777@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597172,
-    "wof:geomhash":"4415eb8a1ace2c8bc94ed6e762fff5db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a59f3f07ec30c16cc74b39ae41c751b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514471,
+            "region_id":85688727,
+            "venue_id":790595545
+        }
+    ],
     "wof:id":790595545,
-    "wof:lastmodified":1472629893,
+    "wof:lastmodified":1492835714,
     "wof:name":"Stoerzinger Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.346932,44.808672,-93.346932,44.808672",
     "geom:latitude":44.808672,
     "geom:longitude":-93.346932,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01MvkHiQZEEngkwzPHB9fp_44.808672_-93.346932@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602591,
-    "wof:geomhash":"17da3dc884b46e73dedac73b59dcc33a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"027152c67356d7d6710ae891ba1584cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806967997
+        }
+    ],
     "wof:id":806967997,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492817635,
     "wof:name":"Willen Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

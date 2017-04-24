@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.580139,45.568386,-93.580139,45.568386",
     "geom:latitude":45.568386,
     "geom:longitude":-93.580139,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512571,
+        85633793,
+        85968823,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n1vrleIRuJWrx4dr4jjlj_45.568386_-93.580139@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589180,
-    "wof:geomhash":"a7092e49d5ad585f02413266afcf2d24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8820fcc23eaa79f7a66ef2d5fad51b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512571,
+            "locality_id":85968823,
+            "region_id":85688727,
+            "venue_id":789615659
+        }
+    ],
     "wof:id":789615659,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492811007,
     "wof:name":"Northwest Family Dental Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

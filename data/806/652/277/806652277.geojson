@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.537758,47.406607,-92.537758,47.406607",
     "geom:latitude":47.406607,
     "geom:longitude":-92.537758,
@@ -31,17 +32,26 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00gRMo79EfQGx3vvXLDv61_47.406607_-92.537758@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599927,
-    "wof:geomhash":"deec9addf5aad13ddba95a58c457da7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b35dd49f81d7a6bc0f55c4b63ef75b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806652277
+        }
+    ],
     "wof:id":806652277,
-    "wof:lastmodified":1472629632,
+    "wof:lastmodified":1492817418,
     "wof:name":"Laurentian Group",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.047191,44.964053,-94.047191,44.964053",
     "geom:latitude":44.964053,
     "geom:longitude":-94.047191,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3D69aEihUWpWRdFmdgFI5i_44.964053_-94.047191@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585940,
-    "wof:geomhash":"7f0830e0bbde23d5b5a99359564ef848",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5bcb4d75b69edfc3edde264bf2ceee5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":773463329
+        }
+    ],
     "wof:id":773463329,
-    "wof:lastmodified":1472630057,
+    "wof:lastmodified":1492805005,
     "wof:name":"Gray Biological Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

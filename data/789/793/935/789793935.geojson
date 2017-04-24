@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.864724,45.251404,-93.864724,45.251404",
     "geom:latitude":45.251404,
     "geom:longitude":-93.864724,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UAs05p0SsJ5hIy7KANJGn_45.251404_-93.864724@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590594,
-    "wof:geomhash":"2aa34d2ebbcf65174825bd76813ccbe2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b273c2ff5d6da4096c241b1455c77037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":789793935
+        }
+    ],
     "wof:id":789793935,
-    "wof:lastmodified":1472629387,
+    "wof:lastmodified":1492811679,
     "wof:name":"Ted Kopff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

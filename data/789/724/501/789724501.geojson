@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.025446,44.130337,-94.025446,44.130337",
     "geom:latitude":44.130337,
     "geom:longitude":-94.025446,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511549,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C9ExDt5gi701m19GsGVg7_44.130337_-94.025446@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590062,
-    "wof:geomhash":"b94e2f9b503dc632ba71cddeab0054d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a14299f2f53b51f79d9c48cc981f79b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511549,
+            "region_id":85688727,
+            "venue_id":789724501
+        }
+    ],
     "wof:id":789724501,
-    "wof:lastmodified":1472629243,
+    "wof:lastmodified":1492809672,
     "wof:name":"River City Express Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

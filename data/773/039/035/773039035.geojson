@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.621384,45.764098,-93.621384,45.764098",
     "geom:latitude":45.764098,
     "geom:longitude":-93.621384,
@@ -35,17 +36,32 @@
         "fuel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512541,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LrHX6hTNxKtqjoYO7IyJh_45.764098_-93.621384@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582656,
-    "wof:geomhash":"26939a3661acab7e493ed6b41f8f06ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10087c32969231420951f200480201f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512541,
+            "region_id":85688727,
+            "venue_id":773039035
+        }
+    ],
     "wof:id":773039035,
-    "wof:lastmodified":1472629340,
+    "wof:lastmodified":1492808788,
     "wof:name":"My Q Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

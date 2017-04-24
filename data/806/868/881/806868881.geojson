@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.2798,43.695668,-91.2798,43.695668",
     "geom:latitude":43.695668,
     "geom:longitude":-91.2798,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,21 @@
     },
     "wof:country":"US",
     "wof:created":1462601763,
-    "wof:geomhash":"65dfb430164e728c4bb4260918932b1a",
+    "wof:geomhash":"7eea5764b458b30fdc2a54f452848994",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":806868881
         }
     ],
     "wof:id":806868881,
-    "wof:lastmodified":1472629915,
+    "wof:lastmodified":1492821640,
     "wof:name":"Zion Evangelical Church",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

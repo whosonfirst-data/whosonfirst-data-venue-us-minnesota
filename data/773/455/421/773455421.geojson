@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.762847,48.845133,-95.762847,48.845133",
     "geom:latitude":48.845133,
     "geom:longitude":-95.762847,
@@ -31,17 +32,34 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H1LvM9pldo2oAng1sRS6A_48.845133_-95.762847@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585879,
-    "wof:geomhash":"b84e02e32ae518a911003fb930e839f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccb5eae6dfef42a7fa9889d0fb305d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":773455421
+        }
+    ],
     "wof:id":773455421,
-    "wof:lastmodified":1472630060,
+    "wof:lastmodified":1492801873,
     "wof:name":"Hayes & Czeh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

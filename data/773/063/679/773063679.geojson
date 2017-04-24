@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.866724,45.38747,-92.866724,45.38747",
     "geom:latitude":45.38747,
     "geom:longitude":-92.866724,
@@ -34,17 +35,34 @@
         "cassette"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        85952701,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zh31uF4kQB8NoiNcYdz9D_45.387470_-92.866724@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582884,
-    "wof:geomhash":"4a22f72848dbc29558efafa950936e11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b7530e888791f93836ed767cf544793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "locality_id":85952701,
+            "region_id":85688727,
+            "venue_id":773063679
+        }
+    ],
     "wof:id":773063679,
-    "wof:lastmodified":1472629475,
+    "wof:lastmodified":1492808760,
     "wof:name":"Video Vault",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

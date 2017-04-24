@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.227503,45.078924,-93.227503,45.078924",
     "geom:latitude":45.078924,
     "geom:longitude":-93.227503,
@@ -32,13 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85811975,
+        85688727,
         102191575,
-        404511285,
+        404510233,
         85633793,
+        85953147,
+        102087007,
+        404511285,
         85953397,
-        102087861,
-        85688727
+        102087861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,23 +49,31 @@
     },
     "wof:country":"US",
     "wof:created":1462599034,
-    "wof:geomhash":"16da6844c001d4e4c2e5483bae91c044",
+    "wof:geomhash":"c9b725d70a682bfece4dad98395bab51",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":806549987
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087861,
             "localadmin_id":404511285,
             "locality_id":85953397,
-            "neighbourhood_id":85811975,
             "region_id":85688727,
             "venue_id":806549987
         }
     ],
     "wof:id":806549987,
-    "wof:lastmodified":1472629460,
+    "wof:lastmodified":1492815752,
     "wof:name":"Koby F Koby",
-    "wof:parent_id":85811975,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

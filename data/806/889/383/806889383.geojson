@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.150159,44.771129,-94.150159,44.771129",
     "geom:latitude":44.771129,
     "geom:longitude":-94.150159,
@@ -28,17 +29,34 @@
     "sg:postcode":"55336",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yM4PO3cxLmFUfjSfDx3Lk_44.771129_-94.150159@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601925,
-    "wof:geomhash":"7833acbbb7fbcac1535156ded3614afe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be053bb47d3b834df4ac7afb5dbc0713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":806889383
+        }
+    ],
     "wof:id":806889383,
-    "wof:lastmodified":1472629918,
+    "wof:lastmodified":1492821864,
     "wof:name":"American Red Cross",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

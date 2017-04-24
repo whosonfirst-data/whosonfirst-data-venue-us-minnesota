@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.506868,47.078773,-96.506868,47.078773",
     "geom:latitude":47.078773,
     "geom:longitude":-96.506868,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877339,
+        102191575,
+        404478877,
         85633793,
-        85969409,
-        102087681,
-        85877339
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1462597109,
-    "wof:geomhash":"13a54721b97f8d1c0b8809917512a2cc",
+    "wof:geomhash":"c017db226c5161fd0554c701681daf0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087681,
-            "locality_id":85969409,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
             "neighbourhood_id":85877339,
-            "region_id":85688727,
+            "region_id":85688525,
             "venue_id":790588169
         }
     ],
     "wof:id":790588169,
-    "wof:lastmodified":1472629879,
+    "wof:lastmodified":1492836743,
     "wof:name":"Felton Guest House",
     "wof:parent_id":85877339,
     "wof:placetype":"venue",

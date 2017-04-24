@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.042103,45.690346,-93.042103,45.690346",
     "geom:latitude":45.690346,
     "geom:longitude":-93.042103,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o26rfG8NXWGCfI3R8LAkf_45.690346_-93.042103@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595256,
-    "wof:geomhash":"e0c4884644059a22a18a2e4284f64724",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2222de45eb93082963a0dc6995c9fdd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":790363783
+        }
+    ],
     "wof:id":790363783,
-    "wof:lastmodified":1472629572,
+    "wof:lastmodified":1492833555,
     "wof:name":"Square Lake Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

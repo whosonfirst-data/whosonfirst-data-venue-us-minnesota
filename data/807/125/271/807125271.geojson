@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.065694,48.862684,-96.065694,48.862684",
     "geom:latitude":48.862684,
     "geom:longitude":-96.065694,
@@ -30,17 +31,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512933,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FB2G9soznvdsfCiyaffXz_48.862684_-96.065694@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604003,
-    "wof:geomhash":"02338abf34f10b5850313c38a76e641d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78d3a69b6a6eb55ba3d8b664fd8c9e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512933,
+            "region_id":85688727,
+            "venue_id":807125271
+        }
+    ],
     "wof:id":807125271,
-    "wof:lastmodified":1472629237,
+    "wof:lastmodified":1492827408,
     "wof:name":"Haygen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

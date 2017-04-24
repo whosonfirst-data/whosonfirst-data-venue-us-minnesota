@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.175872,45.598473,-94.175872,45.598473",
     "geom:latitude":45.598473,
     "geom:longitude":-94.175872,
@@ -33,17 +34,34 @@
         "carpentry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iPVcVyiPOPhMNtCdUowJd_45.598473_-94.175872@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582619,
-    "wof:geomhash":"745628ee4f4180b096886eba96a7c78c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"575e0d2adaf056ab3d08186d20493fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":773034783
+        }
+    ],
     "wof:id":773034783,
-    "wof:lastmodified":1472629318,
+    "wof:lastmodified":1492804122,
     "wof:name":"Ted's Barber Shop & Clock Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.573165,44.23296,-95.573165,44.23296",
     "geom:latitude":44.23296,
     "geom:longitude":-95.573165,
@@ -35,17 +36,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512325,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HSpozrBQJmXQA6UTfCxz5_44.232960_-95.573165@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599257,
-    "wof:geomhash":"8706cc65342a7789b2aa99bf766b83e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49232cd244a89a11b0930159fc1ccd55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512325,
+            "region_id":85688727,
+            "venue_id":806573015
+        }
+    ],
     "wof:id":806573015,
-    "wof:lastmodified":1472629443,
+    "wof:lastmodified":1492820291,
     "wof:name":"Fultz Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

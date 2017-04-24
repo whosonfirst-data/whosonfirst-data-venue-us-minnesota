@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.563013,44.902597,-93.563013,44.902597",
     "geom:latitude":44.902597,
     "geom:longitude":-93.563013,
@@ -32,17 +33,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509445,
+        85633793,
+        85969207,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1a039B5AwD3Z6NMsAEIPst_44.902597_-93.563013@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594632,
-    "wof:geomhash":"89012dfbacf7d0b5f4cd986790e5dfd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"890358f997c7c7a116e8d6863c79ec57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509445,
+            "locality_id":85969207,
+            "region_id":85688727,
+            "venue_id":790283269
+        }
+    ],
     "wof:id":790283269,
-    "wof:lastmodified":1472629440,
+    "wof:lastmodified":1492833739,
     "wof:name":"Ofis Communications LP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

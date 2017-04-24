@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.56028,47.53011,-92.56028,47.53011",
     "geom:latitude":47.53011,
     "geom:longitude":-92.56028,
@@ -32,19 +33,34 @@
         "program"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        85633793,
+        85968439,
+        102087653,
+        85820563
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CgMhZj8tgaVeEzU5vdgxg_47.530110_-92.560280@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589746,
-    "wof:geomhash":"5af0d6abb6a5c30d2ddf2dd246452e92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f6edc1c7b8a5ace510abafcadb641fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087653,
+            "locality_id":85968439,
+            "neighbourhood_id":85820563,
+            "region_id":85688727,
+            "venue_id":789685473
+        }
+    ],
     "wof:id":789685473,
-    "wof:lastmodified":1472629196,
+    "wof:lastmodified":1492809857,
     "wof:name":"Drivers License Examining Sta",
-    "wof:parent_id":420525037,
+    "wof:parent_id":85820563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

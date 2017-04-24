@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.375278,44.89705,-94.375278,44.89705",
     "geom:latitude":44.89705,
     "geom:longitude":-94.375278,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g5PkxZBWAvwmKzxn9G0U7_44.897050_-94.375278@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589718,
-    "wof:geomhash":"30b0ed087b5bf90781c78fc4e8e93828",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ebff6fd84b51d0fd291caf7758734f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":789682171
+        }
+    ],
     "wof:id":789682171,
-    "wof:lastmodified":1472629168,
+    "wof:lastmodified":1492809384,
     "wof:name":"Crow Rver Veterinary Clinic PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

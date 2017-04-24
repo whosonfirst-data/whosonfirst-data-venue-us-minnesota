@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.42233,44.31905,-94.42233,44.31905",
     "geom:latitude":44.31905,
     "geom:longitude":-94.42233,
@@ -27,17 +28,32 @@
         "dairy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513333,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4A6pDejWuWBgGx0im7HmfB_44.319050_-94.422330@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604309,
-    "wof:geomhash":"2d652d24dd58dac525b9517848608ce4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"977a759ddc92ab430de5c2af21a8cd81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513333,
+            "region_id":85688727,
+            "venue_id":807153825
+        }
+    ],
     "wof:id":807153825,
-    "wof:lastmodified":1472629295,
+    "wof:lastmodified":1492822802,
     "wof:name":"Fischer Delber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

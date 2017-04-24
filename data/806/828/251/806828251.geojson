@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.425018,44.047656,-94.425018,44.047656",
     "geom:latitude":44.047656,
     "geom:longitude":-94.425018,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514943,
+        85633793,
+        85968901,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7haemXXrNIF5TqqQJFRE80_44.047656_-94.425018@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601408,
-    "wof:geomhash":"4a4fa6095f6b3a5b1e6b2c20cf69d664",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fea83766d07871b79a16a212067588e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514943,
+            "locality_id":85968901,
+            "region_id":85688727,
+            "venue_id":806828251
+        }
+    ],
     "wof:id":806828251,
-    "wof:lastmodified":1472629866,
+    "wof:lastmodified":1492816044,
     "wof:name":"James Eiselt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

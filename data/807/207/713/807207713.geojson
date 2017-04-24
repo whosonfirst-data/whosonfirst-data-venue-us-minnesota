@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.464923,44.021516,-92.464923,44.021516",
     "geom:latitude":44.021516,
     "geom:longitude":-92.464923,
@@ -33,17 +34,34 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7myi39UjGQ6fS5Ik3ASN1z_44.021475_-92.465766@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604874,
-    "wof:geomhash":"49644a4ec7f3ec03ee5f6854ce447661",
-    "wof:hierarchy":[],
+    "wof:geomhash":"798ddaaf0ede89a85be03f811781b6e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":807207713
+        }
+    ],
     "wof:id":807207713,
-    "wof:lastmodified":1472629420,
+    "wof:lastmodified":1492825750,
     "wof:name":"Colonial Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

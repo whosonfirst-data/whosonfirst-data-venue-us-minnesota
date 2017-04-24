@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.976914,43.713372,-91.976914,43.713372",
     "geom:latitude":43.713372,
     "geom:longitude":-91.976914,
@@ -31,17 +32,34 @@
         "attraction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514267,
+        85633793,
+        85953173,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M3z6udT3TItScQ62ShWSy_43.713372_-91.976914@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609043,
-    "wof:geomhash":"db367779b6fa840c8ba0d2a8089739e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50a3b249a5492e0bac790bce4757c5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514267,
+            "locality_id":85953173,
+            "region_id":85688727,
+            "venue_id":823234567
+        }
+    ],
     "wof:id":823234567,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492828390,
     "wof:name":"Lanesboro, Minnesota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

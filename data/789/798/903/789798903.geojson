@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.198361,45.580915,-94.198361,45.580915",
     "geom:latitude":45.580915,
     "geom:longitude":-94.198361,
@@ -31,17 +32,34 @@
         "electrolysis"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yj1QL0GGUJlToRYYU6QaZ_45.580915_-94.198361@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590633,
-    "wof:geomhash":"14f86e1ef49680a43e4817984a949b5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6456e4faf4bb1607fef020c9477a59c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789798903
+        }
+    ],
     "wof:id":789798903,
-    "wof:lastmodified":1472629390,
+    "wof:lastmodified":1492810204,
     "wof:name":"Amelia's Electrolysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.202331,46.837391,-92.202331,46.837391",
     "geom:latitude":46.837391,
     "geom:longitude":-92.202331,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839611,
+        85815383,
         102191575,
-        404513281,
+        404513247,
         85633793,
-        85968503,
+        85968517,
         102087653,
-        85688727
+        85688727,
+        85839611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,23 +49,33 @@
     },
     "wof:country":"US",
     "wof:created":1462586030,
-    "wof:geomhash":"22018b3cd4b6047f7cebf1361fe3f1bb",
+    "wof:geomhash":"2fed0c8459c3719bc2f03b9812b3898e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
-            "localadmin_id":404513281,
-            "locality_id":85968503,
+            "localadmin_id":404513247,
+            "locality_id":85968517,
+            "neighbourhood_id":85815383,
+            "region_id":85688727,
+            "venue_id":773476125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513247,
+            "locality_id":85968517,
             "neighbourhood_id":85839611,
             "region_id":85688727,
             "venue_id":773476125
         }
     ],
     "wof:id":773476125,
-    "wof:lastmodified":1472630065,
+    "wof:lastmodified":1492808552,
     "wof:name":"US Army & Air Force Base",
-    "wof:parent_id":85839611,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.771036,45.349255,-93.771036,45.349255",
     "geom:latitude":45.349255,
     "geom:longitude":-93.771036,
@@ -35,17 +36,34 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515185,
+        85633793,
+        85968829,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YNnN6JrQMPdkvj2aP7gYS_45.349255_-93.771036@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585630,
-    "wof:geomhash":"85c02a5ff5a71982b0a0ae128241913e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bd73e2ac7ee5fedb69d73fa6affb277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515185,
+            "locality_id":85968829,
+            "region_id":85688727,
+            "venue_id":773426263
+        }
+    ],
     "wof:id":773426263,
-    "wof:lastmodified":1472630049,
+    "wof:lastmodified":1492808611,
     "wof:name":"Staupenet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.34864,45.098961,-93.34864,45.098961",
     "geom:latitude":45.098961,
     "geom:longitude":-93.34864,
@@ -45,17 +46,34 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NkZ0J982tAUV9YhQnfjWE_45.098961_-93.348640@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608578,
-    "wof:geomhash":"0116f012fa07d8a983feb55156976865",
-    "wof:hierarchy":[],
+    "wof:geomhash":"277a297316ada4e552026f2c332228aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823212589
+        }
+    ],
     "wof:id":823212589,
-    "wof:lastmodified":1472629103,
+    "wof:lastmodified":1492829994,
     "wof:name":"H & S Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

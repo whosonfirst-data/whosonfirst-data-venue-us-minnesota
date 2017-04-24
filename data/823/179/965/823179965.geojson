@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.248015,44.859067,-93.248015,44.859067",
     "geom:latitude":44.859067,
     "geom:longitude":-93.248015,
@@ -36,17 +37,34 @@
         "optical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47n0sVzeKZ4mixRr9VLzvV_44.859067_-93.248015@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608062,
-    "wof:geomhash":"444edf4d2a937588f0a86488f915a9c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85036d7a925551ab3691616d8ba7fe6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823179965
+        }
+    ],
     "wof:id":823179965,
-    "wof:lastmodified":1472629015,
+    "wof:lastmodified":1492830607,
     "wof:name":"Beamoptical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.356398,45.099491,-93.356398,45.099491",
     "geom:latitude":45.099491,
     "geom:longitude":-93.356398,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mNCAvKCR8iwHSF2dePYG8_45.099491_-93.356398@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597602,
-    "wof:geomhash":"1cbeb8be9df301f2178829885f20cf84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5e597764f8ddf133bb1feb1b5a80d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":806370467
+        }
+    ],
     "wof:id":806370467,
-    "wof:lastmodified":1472628991,
+    "wof:lastmodified":1492814818,
     "wof:name":"Point of America Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

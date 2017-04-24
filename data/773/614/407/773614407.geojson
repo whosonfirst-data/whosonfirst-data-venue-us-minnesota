@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.38578,44.90707,-94.38578,44.90707",
     "geom:latitude":44.90707,
     "geom:longitude":-94.38578,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512681,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5njhdP735vwr47JkQQlM7I_44.907070_-94.385780@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587047,
-    "wof:geomhash":"66b65623d66a2dda360f5dd2f784c852",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c52ddb8ec31f84fd03c6e99bfbb5a914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512681,
+            "region_id":85688727,
+            "venue_id":773614407
+        }
+    ],
     "wof:id":773614407,
-    "wof:lastmodified":1472630106,
+    "wof:lastmodified":1492800652,
     "wof:name":"Pleasant Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

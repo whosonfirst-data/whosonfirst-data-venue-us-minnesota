@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.348134,45.092975,-93.348134,45.092975",
     "geom:latitude":45.092975,
     "geom:longitude":-93.348134,
@@ -32,17 +33,34 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T2paXRvjIoG9ZyH9Hyxrr_45.092975_-93.348134@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608577,
-    "wof:geomhash":"ab8fe38fa909485683b11ff0fb6b25d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee1b866de3c42a2aaad4c0ffbdf57cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823212579
+        }
+    ],
     "wof:id":823212579,
-    "wof:lastmodified":1472629103,
+    "wof:lastmodified":1492829982,
     "wof:name":"Victor Clinical Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

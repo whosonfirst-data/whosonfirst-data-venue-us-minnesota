@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538246,47.463383,-92.538246,47.463383",
     "geom:latitude":47.463383,
     "geom:longitude":-92.538246,
@@ -31,17 +32,26 @@
         "embroidery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UOEzPUO78nN33eMq9fug6_47.463383_-92.538246@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586362,
-    "wof:geomhash":"7704f84e1e3a31248dac993da650374a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"292798bb819d3b37fb9449ef81534caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773523147
+        }
+    ],
     "wof:id":773523147,
-    "wof:lastmodified":1472630081,
+    "wof:lastmodified":1492806147,
     "wof:name":"Swanson's Custom Lettering",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

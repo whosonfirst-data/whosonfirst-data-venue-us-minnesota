@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.523656,47.464607,-92.523656,47.464607",
     "geom:latitude":47.464607,
     "geom:longitude":-92.523656,
@@ -38,17 +39,26 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05EslMlmCnTigO83dsKg75_47.464607_-92.523656@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599073,
-    "wof:geomhash":"074a363741d294686741c1bdf5204566",
-    "wof:hierarchy":[],
+    "wof:geomhash":"315a40b6c3bc3481535daa301d8cd402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806555279
+        }
+    ],
     "wof:id":806555279,
-    "wof:lastmodified":1472629436,
+    "wof:lastmodified":1492820633,
     "wof:name":"Willow Wood Assisted Living RE",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

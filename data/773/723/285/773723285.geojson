@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.857694,45.167196,-93.857694,45.167196",
     "geom:latitude":45.167196,
     "geom:longitude":-93.857694,
@@ -28,17 +29,34 @@
     "sg:postcode":"55313",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dwrgrPC3GzsbZxu7XlsDZ_45.167196_-93.857694@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587894,
-    "wof:geomhash":"ccd99d5bba406af4377f3af31e039265",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a30d5e23b18e0db544b06d71645d4c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":773723285
+        }
+    ],
     "wof:id":773723285,
-    "wof:lastmodified":1472630140,
+    "wof:lastmodified":1492805287,
     "wof:name":"Don Helmbrecht",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

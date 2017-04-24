@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.220148,45.080156,-94.220148,45.080156",
     "geom:latitude":45.080156,
     "geom:longitude":-94.220148,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515195,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lt6UTuCxx9xagMa8hkxks_45.080156_-94.220148@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595424,
-    "wof:geomhash":"35f2709aef24307fdfb1915b35199d91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d39f24cb07aad81aec7ec001cb5b8fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515195,
+            "region_id":85688727,
+            "venue_id":790385315
+        }
+    ],
     "wof:id":790385315,
-    "wof:lastmodified":1472629602,
+    "wof:lastmodified":1492834558,
     "wof:name":"Teske Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

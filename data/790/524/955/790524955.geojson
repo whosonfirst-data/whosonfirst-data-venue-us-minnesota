@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.165658,44.167978,-92.165658,44.167978",
     "geom:latitude":44.167978,
     "geom:longitude":-92.165658,
@@ -32,17 +33,34 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510915,
+        85633793,
+        85968637,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rnqWNka99xfRs1t7gDGvJ_44.167978_-92.165658@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596583,
-    "wof:geomhash":"073a5f437830dc07e0d351e1f05e9437",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91429a1a8a69343562bbede5fe5465d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404510915,
+            "locality_id":85968637,
+            "region_id":85688727,
+            "venue_id":790524955
+        }
+    ],
     "wof:id":790524955,
-    "wof:lastmodified":1472629814,
+    "wof:lastmodified":1492834355,
     "wof:name":"Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.2855,44.949707,-93.2855,44.949707",
     "geom:latitude":44.949707,
     "geom:longitude":-93.2855,
@@ -30,14 +31,15 @@
     "sg:website":"www.cultstatusgallery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867013,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872643
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607279,
-    "wof:geomhash":"b1b4671ac29aef693e1353afa41eb37c",
+    "wof:geomhash":"5fa744333d8be1866a8ac6d87809056a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,25 +55,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867013,
-            "region_id":85688727,
-            "venue_id":807399893
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872643,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":807399893
         }
     ],
     "wof:id":807399893,
-    "wof:lastmodified":1472629895,
+    "wof:lastmodified":1492825416,
     "wof:name":"Cult Status Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

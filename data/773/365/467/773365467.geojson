@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.186489,45.73532,-94.186489,45.73532",
     "geom:latitude":45.73532,
     "geom:longitude":-94.186489,
@@ -31,17 +32,32 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509279,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mKdfwvhfkVhPW843qxxfF_45.735320_-94.186489@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585149,
-    "wof:geomhash":"1295356814352daeea932993c0e8410c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e12c7aac1f5abdd7e9805bf9c1c25ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404509279,
+            "region_id":85688727,
+            "venue_id":773365467
+        }
+    ],
     "wof:id":773365467,
-    "wof:lastmodified":1472630030,
+    "wof:lastmodified":1492804061,
     "wof:name":"Pitmans Cleaning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

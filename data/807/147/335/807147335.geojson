@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.542542,46.723645,-95.542542,46.723645",
     "geom:latitude":46.723645,
     "geom:longitude":-95.542542,
@@ -30,17 +31,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511149,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sn6izmv3d7J3xou4TAwcG_46.723645_-95.542542@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604249,
-    "wof:geomhash":"851f2d9700617c465a4afa24cf3f88ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5588a571d38f1381cfd83e948cd7a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511149,
+            "region_id":85688727,
+            "venue_id":807147335
+        }
+    ],
     "wof:id":807147335,
-    "wof:lastmodified":1472629274,
+    "wof:lastmodified":1492826168,
     "wof:name":"Stan Malikowski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

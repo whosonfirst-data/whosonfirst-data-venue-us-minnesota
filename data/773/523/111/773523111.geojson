@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.858786,45.172527,-94.858786,45.172527",
     "geom:latitude":45.172527,
     "geom:longitude":-94.858786,
@@ -28,17 +29,32 @@
     "sg:postcode":"56209",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509875,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m4lNCnLJmVnCy3qAohfiY_45.172527_-94.858786@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586362,
-    "wof:geomhash":"0d15be7d7578bc2c86183f6ab19f2fe8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd6029d31f9fd10484d52d830efe07ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509875,
+            "region_id":85688727,
+            "venue_id":773523111
+        }
+    ],
     "wof:id":773523111,
-    "wof:lastmodified":1472630081,
+    "wof:lastmodified":1492806150,
     "wof:name":"Mike Pickle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

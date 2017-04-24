@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.958119,43.987231,-93.958119,43.987231",
     "geom:latitude":43.987231,
     "geom:longitude":-93.958119,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511515,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m6f470JfdVEq2vjyNi55G_43.987231_-93.958119@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604202,
-    "wof:geomhash":"1e1680d755caef22df12ceab04155fd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43beb58d4dd708f73490ec3386b38494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511515,
+            "region_id":85688727,
+            "venue_id":807143853
+        }
+    ],
     "wof:id":807143853,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492824977,
     "wof:name":"Alvin Jaeger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.959053,44.115275,-93.959053,44.115275",
     "geom:latitude":44.115275,
     "geom:longitude":-93.959053,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511549,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P3KUj54My0EBeLuHh0bvH_44.115275_-93.959053@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594210,
-    "wof:geomhash":"8871f561749b086b251473ca69770b9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5687317d8de7cbbfa64e0ce060cf8c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511549,
+            "region_id":85688727,
+            "venue_id":790235119
+        }
+    ],
     "wof:id":790235119,
-    "wof:lastmodified":1472629333,
+    "wof:lastmodified":1492837648,
     "wof:name":"Farm Systems Of Mankato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

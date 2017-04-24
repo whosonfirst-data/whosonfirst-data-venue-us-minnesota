@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.427257,45.456839,-94.427257,45.456839",
     "geom:latitude":45.456839,
     "geom:longitude":-94.427257,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514221,
+        85633793,
+        85952459,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sgHrSM6G7uLOTa5aoIvEY_45.456839_-94.427257@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583850,
-    "wof:geomhash":"6a37cf25e591de77b9f05d7ce0ee1ee4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"907ba5a781e99939f3499d41397d8ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514221,
+            "locality_id":85952459,
+            "region_id":85688727,
+            "venue_id":773190065
+        }
+    ],
     "wof:id":773190065,
-    "wof:lastmodified":1472629934,
+    "wof:lastmodified":1492804288,
     "wof:name":"Absorb Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

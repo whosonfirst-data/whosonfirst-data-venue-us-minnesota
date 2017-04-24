@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.371797,47.05061,-94.371797,47.05061",
     "geom:latitude":47.05061,
     "geom:longitude":-94.371797,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511737,
+        85633793,
+        85969435,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AwLTIyRB2ocWxnDpJ5hJL_47.050610_-94.371797@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585928,
-    "wof:geomhash":"7a7ffd06dfa4ad3f93ffefa0f487e8b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7840df0823ac358f96ad820e80ec0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511737,
+            "locality_id":85969435,
+            "region_id":85688727,
+            "venue_id":773461741
+        }
+    ],
     "wof:id":773461741,
-    "wof:lastmodified":1472630062,
+    "wof:lastmodified":1492805802,
     "wof:name":"Olson & Olson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

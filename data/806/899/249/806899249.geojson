@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.146604,44.095474,-96.146604,44.095474",
     "geom:latitude":44.095474,
     "geom:longitude":-96.146604,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510439,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_003BEQUkfP3rmmgFiqchgQ_44.095474_-96.146604@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602004,
-    "wof:geomhash":"215c7b6f2e5df3c0426f7a13d9780320",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82b606c5df78fb03f88214c8fb6640ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510439,
+            "region_id":85688727,
+            "venue_id":806899249
+        }
+    ],
     "wof:id":806899249,
-    "wof:lastmodified":1472629925,
+    "wof:lastmodified":1492813872,
     "wof:name":"Loren Veen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

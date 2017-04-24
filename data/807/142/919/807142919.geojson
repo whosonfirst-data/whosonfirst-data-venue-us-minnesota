@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.945643,44.514885,-93.945643,44.514885",
     "geom:latitude":44.514885,
     "geom:longitude":-93.945643,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514043,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kc03P13r2M8TrBmDIO3nr_44.514885_-93.945643@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604193,
-    "wof:geomhash":"a0aa30c46b7c40dff04d5f77d09bba9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4affbb5d34518f2ef923be61df620d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514043,
+            "region_id":85688727,
+            "venue_id":807142919
+        }
+    ],
     "wof:id":807142919,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1492823639,
     "wof:name":"Morris Lieske",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.280716,47.528548,-96.280716,47.528548",
     "geom:latitude":47.528548,
     "geom:longitude":-96.280716,
@@ -37,17 +38,34 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513711,
+        85633793,
+        85968403,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mmBljboGvJO8093LxPm3p_47.528548_-96.280716@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609453,
-    "wof:geomhash":"d11bbb30154712125ef7e547c5555e3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b99326b7a252e00e615d436275645a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513711,
+            "locality_id":85968403,
+            "region_id":85688727,
+            "venue_id":823255653
+        }
+    ],
     "wof:id":823255653,
-    "wof:lastmodified":1472629224,
+    "wof:lastmodified":1492831210,
     "wof:name":"Sandhill Supper Club & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

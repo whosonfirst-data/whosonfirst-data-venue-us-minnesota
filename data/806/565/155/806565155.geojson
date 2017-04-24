@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.381965,47.459125,-92.381965,47.459125",
     "geom:latitude":47.459125,
     "geom:longitude":-92.381965,
@@ -31,17 +32,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WOocWByephUBmosQyYUcF_47.459125_-92.381965@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599167,
-    "wof:geomhash":"c3f3477d190868d2d1db911a0565c4d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"411f9219465d89532231dc42e3660fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":806565155
+        }
+    ],
     "wof:id":806565155,
-    "wof:lastmodified":1472629448,
+    "wof:lastmodified":1492816066,
     "wof:name":"Glass & Door Inc",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

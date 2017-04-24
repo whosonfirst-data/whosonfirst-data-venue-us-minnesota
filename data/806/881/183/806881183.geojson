@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.9585,45.067707,-92.9585,45.067707",
     "geom:latitude":45.067707,
     "geom:longitude":-92.9585,
@@ -43,11 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85815391,
+        102191575,
+        404510951,
         85633793,
         85968253,
         102087659,
-        85815391
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,11 +58,13 @@
     },
     "wof:country":"US",
     "wof:created":1462601865,
-    "wof:geomhash":"509ec74c19f70716d97792ab5ac3c4d4",
+    "wof:geomhash":"a6175f434ed7794467793b5618318c19",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087659,
+            "localadmin_id":404510951,
             "locality_id":85968253,
             "neighbourhood_id":85815391,
             "region_id":85688727,
@@ -67,7 +72,7 @@
         }
     ],
     "wof:id":806881183,
-    "wof:lastmodified":1472629910,
+    "wof:lastmodified":1492818154,
     "wof:name":"Superior Networks Inc",
     "wof:parent_id":85815391,
     "wof:placetype":"venue",

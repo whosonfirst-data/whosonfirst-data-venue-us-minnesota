@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.97182,45.81912,-92.97182,45.81912",
     "geom:latitude":45.81912,
     "geom:longitude":-92.97182,
@@ -31,17 +32,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513373,
+        85633793,
+        85953271,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12UychqdoenXMhLW1U1j5V_45.819120_-92.971820@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587764,
-    "wof:geomhash":"8a217f2ac56571f6ed2c028f55969e51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c8dd3b43b131dfe69a6ce06a77c5dd21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513373,
+            "locality_id":85953271,
+            "region_id":85688727,
+            "venue_id":773705643
+        }
+    ],
     "wof:id":773705643,
-    "wof:lastmodified":1472630135,
+    "wof:lastmodified":1492799746,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

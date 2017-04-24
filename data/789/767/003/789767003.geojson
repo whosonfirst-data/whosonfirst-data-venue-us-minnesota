@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.093974,43.932823,-92.093974,43.932823",
     "geom:latitude":43.932823,
     "geom:longitude":-92.093974,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512439,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29ehJXCVa1zYVcVgxnKFtb_43.932823_-92.093974@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590380,
-    "wof:geomhash":"4a4c7ae26e3eca98a72334ab2de293ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ff89bc1a2befd94db3ea122f7781205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512439,
+            "region_id":85688727,
+            "venue_id":789767003
+        }
+    ],
     "wof:id":789767003,
-    "wof:lastmodified":1472629325,
+    "wof:lastmodified":1492810825,
     "wof:name":"Ida McGuire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

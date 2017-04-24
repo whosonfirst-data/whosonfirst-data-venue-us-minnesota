@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.304878,44.857796,-93.304878,44.857796",
     "geom:latitude":44.857796,
     "geom:longitude":-93.304878,
@@ -28,17 +29,34 @@
     "sg:postcode":"55431",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QdI2WDLeQby2t50ZAcTXL_44.858209_-93.304942@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603892,
-    "wof:geomhash":"90eb17b65e68004eb5348e95052f10f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0fba561078abe7f03d06dc5cd23183c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":807115241
+        }
+    ],
     "wof:id":807115241,
-    "wof:lastmodified":1472629228,
+    "wof:lastmodified":1492823359,
     "wof:name":"Hunan Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

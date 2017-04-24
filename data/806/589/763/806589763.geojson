@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.219348,46.515943,-96.219348,46.515943",
     "geom:latitude":46.515943,
     "geom:longitude":-96.219348,
@@ -31,17 +32,32 @@
         "inventory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510367,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AJej7evyZVI5IXcASPgtB_46.515943_-96.219348@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599397,
-    "wof:geomhash":"7a9006f30c14ac8604d7eceb2d655b29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7da5d3560bdc8339439487c08354ca29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510367,
+            "region_id":85688727,
+            "venue_id":806589763
+        }
+    ],
     "wof:id":806589763,
-    "wof:lastmodified":1472629516,
+    "wof:lastmodified":1492819569,
     "wof:name":"PNS Inventory Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.75344,48.843709,-95.75344,48.843709",
     "geom:latitude":48.843709,
     "geom:longitude":-95.75344,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35P9j2XRcxOktpobL250Zs_48.843709_-95.753440@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582633,
-    "wof:geomhash":"d8ed3b5d52a4148a13a7702cb99b03ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68fa28fd6aca17e2bf497eff5aa73647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":773036581
+        }
+    ],
     "wof:id":773036581,
-    "wof:lastmodified":1472629375,
+    "wof:lastmodified":1492807404,
     "wof:name":"Roseau United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.311592,43.693369,-91.311592,43.693369",
     "geom:latitude":43.693369,
     "geom:longitude":-91.311592,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +49,21 @@
     },
     "wof:country":"US",
     "wof:created":1462595796,
-    "wof:geomhash":"63aef584acb2946433f82e1c59797056",
+    "wof:geomhash":"fe6dd1300715637c68ffd7618fd9f38b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":790433483
         }
     ],
     "wof:id":790433483,
-    "wof:lastmodified":1472629714,
+    "wof:lastmodified":1492831831,
     "wof:name":"Martin Miller",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

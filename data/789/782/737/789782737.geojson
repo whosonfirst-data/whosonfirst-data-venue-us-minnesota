@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.920912,46.918047,-91.920912,46.918047",
     "geom:latitude":46.918047,
     "geom:longitude":-91.920912,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85829557,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85829557
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462590511,
-    "wof:geomhash":"307c5a4fc416c8d93af88d38b7009551",
+    "wof:geomhash":"b420f8d9d61024c8c7290bf166a8397a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85829557,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":789782737,
-    "wof:lastmodified":1472629361,
+    "wof:lastmodified":1492810750,
     "wof:name":"Bruckelmyer Masonry",
     "wof:parent_id":85829557,
     "wof:placetype":"venue",

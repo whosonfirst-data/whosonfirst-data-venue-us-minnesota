@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.985399,45.267708,-94.985399,45.267708",
     "geom:latitude":45.267708,
     "geom:longitude":-94.985399,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513945,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u45qW6fVhfPFbvukGxK7b_45.267708_-94.985399@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603745,
-    "wof:geomhash":"b64e6f08f3a8ed435682604157dd3e20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ac40f51395632f9a496e00e4300a1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513945,
+            "region_id":85688727,
+            "venue_id":807101125
+        }
+    ],
     "wof:id":807101125,
-    "wof:lastmodified":1472629181,
+    "wof:lastmodified":1492822789,
     "wof:name":"Michael Halvorson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

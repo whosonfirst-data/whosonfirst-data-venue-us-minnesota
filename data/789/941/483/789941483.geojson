@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.222676,45.117837,-93.222676,45.117837",
     "geom:latitude":45.117837,
     "geom:longitude":-93.222676,
@@ -28,17 +29,34 @@
     "sg:postcode":"55112",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514455,
+        85633793,
+        85953145,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JpwV1kJsTnaTrxy2PyNDU_45.117837_-93.222676@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591798,
-    "wof:geomhash":"3727f70f096a43a64a0d738ec494dbae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24cfeba390577828f6d4a3f42333455a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514455,
+            "locality_id":85953145,
+            "region_id":85688727,
+            "venue_id":789941483
+        }
+    ],
     "wof:id":789941483,
-    "wof:lastmodified":1472629641,
+    "wof:lastmodified":1492812520,
     "wof:name":"Northwest Irrigation Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

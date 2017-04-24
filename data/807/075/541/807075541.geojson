@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.02081,44.94971,-93.02081,44.94971",
     "geom:latitude":44.94971,
     "geom:longitude":-93.02081,
@@ -31,19 +32,40 @@
         "alteration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MJqtwm3to2dfXGxHxtxkO_44.949710_-93.020810@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603499,
-    "wof:geomhash":"65144e246445908ffd86464e358ca3e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a722acbeb7c66e4171ad3271c28a7f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":807075541
+        }
+    ],
     "wof:id":807075541,
-    "wof:lastmodified":1472629092,
+    "wof:lastmodified":1492825548,
     "wof:name":"Q Tailor Alterations",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

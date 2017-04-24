@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.169965,44.163464,-92.169965,44.163464",
     "geom:latitude":44.163464,
     "geom:longitude":-92.169965,
@@ -31,17 +32,34 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510915,
+        85633793,
+        85968637,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DaQZwZvPifXZ83CIHWICg_44.163464_-92.169965@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601793,
-    "wof:geomhash":"ecdae4c2da6f1dc05d8816459e39990d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"165826302f33ab662f391d346b3f858e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404510915,
+            "locality_id":85968637,
+            "region_id":85688727,
+            "venue_id":806873005
+        }
+    ],
     "wof:id":806873005,
-    "wof:lastmodified":1472629902,
+    "wof:lastmodified":1492816966,
     "wof:name":"Farm Country Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

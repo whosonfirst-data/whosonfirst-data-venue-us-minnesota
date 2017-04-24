@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.188784,45.130481,-94.188784,45.130481",
     "geom:latitude":45.130481,
     "geom:longitude":-94.188784,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515195,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RixNiPvvyOrICGkXtBZml_45.130481_-94.188784@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605958,
-    "wof:geomhash":"2842c1d19326a13659ff03e05b906367",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cca84370002773939c64024d90f4c5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515195,
+            "region_id":85688727,
+            "venue_id":807310097
+        }
+    ],
     "wof:id":807310097,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492824322,
     "wof:name":"Stanley Dahlman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

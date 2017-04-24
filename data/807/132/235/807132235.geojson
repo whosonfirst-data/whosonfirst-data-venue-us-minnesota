@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.016346,44.885003,-95.016346,44.885003",
     "geom:latitude":44.885003,
     "geom:longitude":-95.016346,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512619,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TCi8crPtxjqy9hURUgFVy_44.885003_-95.016346@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604076,
-    "wof:geomhash":"d3ff17d3b6c05dd9db53e5c67db26bb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3767bcb521510847fc77c36a3f0ff7c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512619,
+            "region_id":85688727,
+            "venue_id":807132235
+        }
+    ],
     "wof:id":807132235,
-    "wof:lastmodified":1472629239,
+    "wof:lastmodified":1492827320,
     "wof:name":"Michael Lippert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

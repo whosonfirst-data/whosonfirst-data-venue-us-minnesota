@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.243137,44.853712,-93.243137,44.853712",
     "geom:latitude":44.853712,
     "geom:longitude":-93.243137,
@@ -47,17 +48,34 @@
     ],
     "sg:website":"http://www.victoriassecret.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JNgCiz8lwDqLJsSavB0F7_44.853712_-93.243137@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608078,
-    "wof:geomhash":"f05261a5b088b820406d724f1a61f564",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85c226eb9653377fa86f063bb27ec014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823181313
+        }
+    ],
     "wof:id":823181313,
-    "wof:lastmodified":1472629016,
+    "wof:lastmodified":1492830419,
     "wof:name":"Victoria's Secret",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

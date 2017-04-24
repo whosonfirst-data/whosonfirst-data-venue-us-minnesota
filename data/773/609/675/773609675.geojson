@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.75636,43.98526,-95.75636,43.98526",
     "geom:latitude":43.98526,
     "geom:longitude":-95.75636,
@@ -33,17 +34,34 @@
         "adm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513321,
+        85633793,
+        85952743,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KKmtHbsW5Q6MTSGqR0MrM_43.985260_-95.756360@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587011,
-    "wof:geomhash":"f8875219b53d56cc7b0be10352b1ae60",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3f9e42feb2ce55cd813c265ce61aab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513321,
+            "locality_id":85952743,
+            "region_id":85688727,
+            "venue_id":773609675
+        }
+    ],
     "wof:id":773609675,
-    "wof:lastmodified":1472630108,
+    "wof:lastmodified":1492801683,
     "wof:name":"Murray County Economic Dev",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

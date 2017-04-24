@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.038514,45.678999,-93.038514,45.678999",
     "geom:latitude":45.678999,
     "geom:longitude":-93.038514,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23e0iu6qr0K7m1hwgUYi9Z_45.678999_-93.038514@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582234,
-    "wof:geomhash":"89b3160572cf1bd976c2ba369d1806d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"326ab49b9327d763cdad0b9037cecc48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":773005823
+        }
+    ],
     "wof:id":773005823,
-    "wof:lastmodified":1472629046,
+    "wof:lastmodified":1492802390,
     "wof:name":"Service Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

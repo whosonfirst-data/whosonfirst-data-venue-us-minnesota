@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.019149,44.945495,-93.019149,44.945495",
     "geom:latitude":44.945495,
     "geom:longitude":-93.019149,
@@ -32,19 +33,40 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ids4wn0xdSPcSedzKpNBZ_44.945495_-93.019149@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594829,
-    "wof:geomhash":"13f8866419a8875548b7d1df1eef8386",
-    "wof:hierarchy":[],
+    "wof:geomhash":"34ddc9622fc9f7ef1e48f41557a7b55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":790307597
+        }
+    ],
     "wof:id":790307597,
-    "wof:lastmodified":1472629496,
+    "wof:lastmodified":1492831614,
     "wof:name":"Interior Concepts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

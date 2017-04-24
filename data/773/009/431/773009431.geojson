@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.358516,44.806243,-93.358516,44.806243",
     "geom:latitude":44.806243,
     "geom:longitude":-93.358516,
@@ -33,17 +34,34 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58iT69MkG4tu78XFwWxFvx_44.806243_-93.358516@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582297,
-    "wof:geomhash":"0119ec1e69c5dc539b0c3c76500fce5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77a3375a9a582574408d109b356069c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773009431
+        }
+    ],
     "wof:id":773009431,
-    "wof:lastmodified":1472628979,
+    "wof:lastmodified":1492802286,
     "wof:name":"Compendium Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

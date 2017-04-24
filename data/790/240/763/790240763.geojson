@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.245715,45.455166,-93.245715,45.455166",
     "geom:latitude":45.455166,
     "geom:longitude":-93.245715,
@@ -32,17 +33,32 @@
         "soil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512979,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WprZ5rBplDhZfhRr2KiGn_45.455166_-93.245715@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594253,
-    "wof:geomhash":"0e72443c2ed22d30edd66696ce73e135",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dad7445be3b5529d3fac0d507a48b97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512979,
+            "region_id":85688727,
+            "venue_id":790240763
+        }
+    ],
     "wof:id":790240763,
-    "wof:lastmodified":1472629367,
+    "wof:lastmodified":1492836904,
     "wof:name":"Bjorklund Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

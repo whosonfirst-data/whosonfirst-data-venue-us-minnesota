@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.376602,44.812328,-93.376602,44.812328",
     "geom:latitude":44.812328,
     "geom:longitude":-93.376602,
@@ -59,17 +60,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Mb3m9j615dsl6YQNVJVw9_44.812328_-93.376602@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608501,
-    "wof:geomhash":"8652be9c9ec72cea793f47a4a8c441d9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0692ca83e25ae8c8981bc122b0b68bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823208259
+        }
+    ],
     "wof:id":823208259,
-    "wof:lastmodified":1472629082,
+    "wof:lastmodified":1492829106,
     "wof:name":"Electrical Concepts, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

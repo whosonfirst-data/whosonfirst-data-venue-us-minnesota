@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.27147,44.186663,-95.27147,44.186663",
     "geom:latitude":44.186663,
     "geom:longitude":-95.27147,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509505,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05vHPibzm34IysvhI2HGSL_44.186663_-95.271470@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591517,
-    "wof:geomhash":"9cb4d37939e9bacdf6ba443d2fb9b690",
-    "wof:hierarchy":[],
+    "wof:geomhash":"305a133337a77f2bb2ea0bb12791623d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509505,
+            "region_id":85688727,
+            "venue_id":789908063
+        }
+    ],
     "wof:id":789908063,
-    "wof:lastmodified":1472629590,
+    "wof:lastmodified":1492809607,
     "wof:name":"Floyd Imker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

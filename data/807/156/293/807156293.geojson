@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.27655,44.710154,-94.27655,44.710154",
     "geom:latitude":44.710154,
     "geom:longitude":-94.27655,
@@ -30,17 +31,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512819,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EtJyj7el2QDGPjBdRAcjf_44.710154_-94.276550@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604333,
-    "wof:geomhash":"a41b3788a4f51ec3a7557dce687376dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24e4993124bacbf265bd29861bf90743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512819,
+            "region_id":85688727,
+            "venue_id":807156293
+        }
+    ],
     "wof:id":807156293,
-    "wof:lastmodified":1472629288,
+    "wof:lastmodified":1492824891,
     "wof:name":"David Schuch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

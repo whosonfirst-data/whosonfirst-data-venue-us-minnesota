@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.568374,47.24761,-93.568374,47.24761",
     "geom:latitude":47.24761,
     "geom:longitude":-93.568374,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462593685,
-    "wof:geomhash":"f2e48868f2ace9748a5e369b4fa7a4e6",
+    "wof:geomhash":"7bc7522d6e46fa58157e5c3ddb1907e2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":790169721,
-    "wof:lastmodified":1472629260,
+    "wof:lastmodified":1492832140,
     "wof:name":"Car's Auto Sales",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

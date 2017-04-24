@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.528775,47.220122,-93.528775,47.220122",
     "geom:latitude":47.220122,
     "geom:longitude":-93.528775,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462583096,
-    "wof:geomhash":"33a60b494a76b08c60da56788ae70437",
+    "wof:geomhash":"e16a5e246a16f54c620f1f3c425a393a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":773092371,
-    "wof:lastmodified":1472629562,
+    "wof:lastmodified":1492800810,
     "wof:name":"Great Clips",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

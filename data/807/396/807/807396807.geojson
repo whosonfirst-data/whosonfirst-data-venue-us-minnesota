@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.262893,44.949195,-93.262893,44.949195",
     "geom:latitude":44.949195,
     "geom:longitude":-93.262893,
@@ -44,15 +45,15 @@
     "sg:website":"seafoodtogoomn.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872701,
+        1108800089,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420559143,
-        85872703
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607206,
-    "wof:geomhash":"f83f807c768d6826a2c3b1f54b4635ba",
+    "wof:geomhash":"6c7df134a435e92fcacbc8993ba61dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,35 +69,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872701,
-            "region_id":85688727,
-            "venue_id":807396807
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420559143,
-            "region_id":85688727,
-            "venue_id":807396807
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872703,
+            "macrohood_id":1108799995,
+            "microhood_id":1108800089,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":807396807
         }
     ],
     "wof:id":807396807,
-    "wof:lastmodified":1472629891,
+    "wof:lastmodified":1492826143,
     "wof:name":"Seafood To Go",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

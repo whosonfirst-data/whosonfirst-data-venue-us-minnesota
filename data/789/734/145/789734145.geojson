@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.873246,45.380294,-92.873246,45.380294",
     "geom:latitude":45.380294,
     "geom:longitude":-92.873246,
@@ -28,17 +29,34 @@
     "sg:postcode":"55013",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jrWMVNFBCut3IWT0e74Re_45.380294_-92.873246@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590133,
-    "wof:geomhash":"0b370ca395a61e47aabe6f4f8581a594",
-    "wof:hierarchy":[],
+    "wof:geomhash":"805747e20566dab97b0db23fe69a009d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":789734145
+        }
+    ],
     "wof:id":789734145,
-    "wof:lastmodified":1472629236,
+    "wof:lastmodified":1492812652,
     "wof:name":"Northwoods Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

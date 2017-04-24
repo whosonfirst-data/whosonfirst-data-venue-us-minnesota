@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.164734,43.868912,-96.164734,43.868912",
     "geom:latitude":43.868912,
     "geom:longitude":-96.164734,
@@ -31,17 +32,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513527,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UVCkrBn8yaYldO0ZPh5WN_43.868912_-96.164734@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604900,
-    "wof:geomhash":"9692eeb561d3a0d5c0297dce591981ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2a1ff702227dd9da25288046a87e34f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513527,
+            "region_id":85688727,
+            "venue_id":807210041
+        }
+    ],
     "wof:id":807210041,
-    "wof:lastmodified":1472629398,
+    "wof:lastmodified":1492823562,
     "wof:name":"Brent De Boer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

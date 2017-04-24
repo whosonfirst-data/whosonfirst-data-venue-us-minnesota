@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.605853,47.774501,-96.605853,47.774501",
     "geom:latitude":47.774501,
     "geom:longitude":-96.605853,
@@ -32,17 +33,26 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zIFIW2IOg0UTYna36E2i3_47.774501_-96.605853@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597494,
-    "wof:geomhash":"c813b28369dad5fe4b6b6789faad8540",
-    "wof:hierarchy":[],
+    "wof:geomhash":"514f92e6cb92f71a2b090968b4230aed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":806358171
+        }
+    ],
     "wof:id":806358171,
-    "wof:lastmodified":1472628934,
+    "wof:lastmodified":1492818030,
     "wof:name":"Grand Theatre",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.062223,46.925585,-95.062223,46.925585",
     "geom:latitude":46.925585,
     "geom:longitude":-95.062223,
@@ -28,17 +29,34 @@
     "sg:postcode":"56470",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0E882mRI2hm0oBImWuYMKy_46.925585_-95.062223@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591337,
-    "wof:geomhash":"8e71a530b203d101a1b80c04fcce2a7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"471d560655dc543ccf940a00bce7d630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":789885795
+        }
+    ],
     "wof:id":789885795,
-    "wof:lastmodified":1472629594,
+    "wof:lastmodified":1492810372,
     "wof:name":"Word Worx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

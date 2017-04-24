@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.342235,45.474862,-93.342235,45.474862",
     "geom:latitude":45.474862,
     "geom:longitude":-93.342235,
@@ -31,17 +32,32 @@
         "machine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512981,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q9onIRW6FF6BZFa8L9eDF_45.474862_-93.342235@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605263,
-    "wof:geomhash":"1e086f8159bb6166867a6eccd1bcf0f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e59d2dc70d35b845adce5fad5d43699f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512981,
+            "region_id":85688727,
+            "venue_id":807244115
+        }
+    ],
     "wof:id":807244115,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492827601,
     "wof:name":"Whittet Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

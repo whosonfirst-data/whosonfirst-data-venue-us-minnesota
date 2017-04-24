@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.996327,44.19201,-93.996327,44.19201",
     "geom:latitude":44.19201,
     "geom:longitude":-93.996327,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://www.truevalue.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WUHZ7FpHOEeU6wnL97Cww_44.192010_-93.996327@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609089,
-    "wof:geomhash":"690e107de11ff6baf3fe14eefa84a22f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f96a80df8deefb166971383dec9b232b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":823237185
+        }
+    ],
     "wof:id":823237185,
-    "wof:lastmodified":1472629129,
+    "wof:lastmodified":1492831128,
     "wof:name":"True Value Distribution Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

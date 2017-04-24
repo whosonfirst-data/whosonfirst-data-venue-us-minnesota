@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.007001,44.867729,-93.007001,44.867729",
     "geom:latitude":44.867729,
     "geom:longitude":-93.007001,
@@ -31,17 +32,34 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514911,
+        85633793,
+        85953567,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a9xtZFnuTZtX23ARNbcDS_44.867729_-93.007001@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601901,
-    "wof:geomhash":"335a9453cbb6832f95d280ad26225490",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f6366130399632d2b5e1b16e6ec889f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514911,
+            "locality_id":85953567,
+            "region_id":85688727,
+            "venue_id":806886145
+        }
+    ],
     "wof:id":806886145,
-    "wof:lastmodified":1472629907,
+    "wof:lastmodified":1492820557,
     "wof:name":"Non Stop Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.992691,45.051013,-93.992691,45.051013",
     "geom:latitude":45.051013,
     "geom:longitude":-93.992691,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515263,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gmkvx2NfQtUPBTeG7kVqv_45.051013_-93.992691@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594245,
-    "wof:geomhash":"137886fefd8c225ce14278672a06ee83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04751fecfb45bd25094b3f2798c1856f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515263,
+            "region_id":85688727,
+            "venue_id":790239527
+        }
+    ],
     "wof:id":790239527,
-    "wof:lastmodified":1472629351,
+    "wof:lastmodified":1492831668,
     "wof:name":"Mike Young",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

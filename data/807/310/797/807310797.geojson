@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.518059,45.229875,-93.518059,45.229875",
     "geom:latitude":45.229875,
     "geom:longitude":-93.518059,
@@ -47,17 +48,34 @@
         "terrazzo"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511707,
+        85633793,
+        85968941,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aMvjsFYaYQsz2QrfUxinO_45.229875_-93.518059@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605964,
-    "wof:geomhash":"0c48d181e479be76ec7f4b6b3789971e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ba46b8e58cbe0cae532576514561891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511707,
+            "locality_id":85968941,
+            "region_id":85688727,
+            "venue_id":807310797
+        }
+    ],
     "wof:id":807310797,
-    "wof:lastmodified":1472629700,
+    "wof:lastmodified":1492824314,
     "wof:name":"Michael T Hallaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

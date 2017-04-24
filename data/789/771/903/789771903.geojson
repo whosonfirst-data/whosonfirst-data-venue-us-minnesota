@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.692357,45.66441,-94.692357,45.66441",
     "geom:latitude":45.66441,
     "geom:longitude":-94.692357,
@@ -31,17 +32,34 @@
         "wrecker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515175,
+        85633793,
+        85952463,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NrZwTQLjNfjxfvO2blHrI_45.664410_-94.692357@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590415,
-    "wof:geomhash":"538454e014990a13ca4fccb2f715d018",
-    "wof:hierarchy":[],
+    "wof:geomhash":"92c85de159b1e635e126321f933fb48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404515175,
+            "locality_id":85952463,
+            "region_id":85688727,
+            "venue_id":789771903
+        }
+    ],
     "wof:id":789771903,
-    "wof:lastmodified":1472629348,
+    "wof:lastmodified":1492810340,
     "wof:name":"Hiltner Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

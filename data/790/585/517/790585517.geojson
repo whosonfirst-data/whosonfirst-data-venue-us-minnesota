@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.225979,44.570764,-95.225979,44.570764",
     "geom:latitude":44.570764,
     "geom:longitude":-95.225979,
@@ -31,17 +32,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512167,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K2m8SEGdZZijhi1X7U55E_44.570764_-95.225979@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597088,
-    "wof:geomhash":"d9671b53eac73ed3b0b7a29196fa55fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf90b3cbbc327a09283135d630cec3b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512167,
+            "region_id":85688727,
+            "venue_id":790585517
+        }
+    ],
     "wof:id":790585517,
-    "wof:lastmodified":1472629884,
+    "wof:lastmodified":1492837640,
     "wof:name":"Vick Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

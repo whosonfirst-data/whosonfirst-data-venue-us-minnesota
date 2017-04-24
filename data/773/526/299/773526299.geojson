@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.157727,45.865704,-95.157727,45.865704",
     "geom:latitude":45.865704,
     "geom:longitude":-95.157727,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509593,
+        85633793,
+        85968425,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YpYTqzrWgyPhAi4E2vJUB_45.865704_-95.157727@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586386,
-    "wof:geomhash":"c9091320ac2e55a3f6bd9f95fc0a07a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b92f8ecce8fe8d74e8184f07292332dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509593,
+            "locality_id":85968425,
+            "region_id":85688727,
+            "venue_id":773526299
+        }
+    ],
     "wof:id":773526299,
-    "wof:lastmodified":1472630082,
+    "wof:lastmodified":1492806731,
     "wof:name":"Redeemer Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

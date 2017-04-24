@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.747746,45.324942,-95.747746,45.324942",
     "geom:latitude":45.324942,
     "geom:longitude":-95.747746,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514673,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aVF0XkL2IeXKDDrpH4uZY_45.324942_-95.747746@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603809,
-    "wof:geomhash":"ad85a613b8c4773e1f88808eb793e0b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5830f85263858a300eb548abc1d6ef67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514673,
+            "region_id":85688727,
+            "venue_id":807107343
+        }
+    ],
     "wof:id":807107343,
-    "wof:lastmodified":1472629200,
+    "wof:lastmodified":1492824433,
     "wof:name":"Troy Wersinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

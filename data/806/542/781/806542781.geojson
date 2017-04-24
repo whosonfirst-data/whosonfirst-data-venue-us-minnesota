@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.282924,44.950146,-93.282924,44.950146",
     "geom:latitude":44.950146,
     "geom:longitude":-93.282924,
@@ -36,12 +37,12 @@
     "wof:belongsto":[
         85872643,
         102191575,
+        1108799997,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598981,
-    "wof:geomhash":"418cde943196ef89beea705744ff3aad",
+    "wof:geomhash":"67f9fc5cf564648c64d0b2ecbf2e8d16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,25 +58,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799997,
             "neighbourhood_id":85872643,
-            "region_id":85688727,
-            "venue_id":806542781
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867013,
             "region_id":85688727,
             "venue_id":806542781
         }
     ],
     "wof:id":806542781,
-    "wof:lastmodified":1472629420,
+    "wof:lastmodified":1492819770,
     "wof:name":"Standard Machine Mold Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

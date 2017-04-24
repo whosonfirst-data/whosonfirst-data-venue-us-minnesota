@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.249084,44.869924,-93.249084,44.869924",
     "geom:latitude":44.869924,
     "geom:longitude":-93.249084,
@@ -31,17 +32,34 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fc7HQF1OYRO9IAklC4L7g_44.869924_-93.249084@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583187,
-    "wof:geomhash":"2a1b2a06b925af2a6470ffa71052acfc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e74a960eb5d6fe535e68c413920cf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":773104827
+        }
+    ],
     "wof:id":773104827,
-    "wof:lastmodified":1472629627,
+    "wof:lastmodified":1492800066,
     "wof:name":"Primrose Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

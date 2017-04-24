@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.565257,44.511093,-93.565257,44.511093",
     "geom:latitude":44.511093,
     "geom:longitude":-93.565257,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512357,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TfdSUOWtew0PCLltIUseW_44.511093_-93.565257@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587208,
-    "wof:geomhash":"84c83f6a158de407cfa6e5e6fd96a325",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1041501940e80ebf8dbefe0883d145f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512357,
+            "region_id":85688727,
+            "venue_id":773634887
+        }
+    ],
     "wof:id":773634887,
-    "wof:lastmodified":1472630116,
+    "wof:lastmodified":1492806898,
     "wof:name":"Guertin Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

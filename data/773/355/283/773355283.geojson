@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.172113,44.92247,-93.172113,44.92247",
     "geom:latitude":44.92247,
     "geom:longitude":-93.172113,
@@ -31,19 +32,38 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12kqswLoLEtzq8GxPPo40q_44.922470_-93.172113@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585086,
-    "wof:geomhash":"977034ec2f358bc5c531997d1371978b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24984bde2d657aad3259e63eccd7532c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773355283
+        }
+    ],
     "wof:id":773355283,
-    "wof:lastmodified":1472630025,
+    "wof:lastmodified":1492801480,
     "wof:name":"Modern Ink Internet Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

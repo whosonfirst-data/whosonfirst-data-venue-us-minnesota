@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.817415,45.391435,-92.817415,45.391435",
     "geom:latitude":45.391435,
     "geom:longitude":-92.817415,
@@ -31,17 +32,34 @@
         "liquor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511107,
+        85633793,
+        85952707,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G1IktZJ5dijb6jZqFymTQ_45.391435_-92.817415@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599260,
-    "wof:geomhash":"df7a0b7197e964d89f1db1efcbdb3fa6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f236765b76bfd662e3968c41600274c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511107,
+            "locality_id":85952707,
+            "region_id":85688727,
+            "venue_id":806573425
+        }
+    ],
     "wof:id":806573425,
-    "wof:lastmodified":1472629462,
+    "wof:lastmodified":1492820298,
     "wof:name":"Vintage Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

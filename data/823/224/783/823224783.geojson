@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.536751,47.466166,-92.536751,47.466166",
     "geom:latitude":47.466166,
     "geom:longitude":-92.536751,
@@ -31,17 +32,26 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21vJXU1ou3d09digtdkfuR_47.466166_-92.536751@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608835,
-    "wof:geomhash":"57aa5e1c60c20f6208cb98226d47c451",
-    "wof:hierarchy":[],
+    "wof:geomhash":"310b61520869a3960fbd3549329f9212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224783
+        }
+    ],
     "wof:id":823224783,
-    "wof:lastmodified":1472629110,
+    "wof:lastmodified":1492828785,
     "wof:name":"Paul's Market & Catering",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

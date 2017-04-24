@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.333308,44.809573,-93.333308,44.809573",
     "geom:latitude":44.809573,
     "geom:longitude":-93.333308,
@@ -43,17 +44,34 @@
     ],
     "sg:website":"http://apps.amfam.com/agentlocator/?sourceid=yp3",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7f9s0zT8G9WHQ92VZ8sPIV_44.809573_-93.333308@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608481,
-    "wof:geomhash":"ac835afc42c8f96996f040c33aacdc0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4264d20cf7157e5eb97a93b658b27b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823207169
+        }
+    ],
     "wof:id":823207169,
-    "wof:lastmodified":1472629044,
+    "wof:lastmodified":1492830169,
     "wof:name":"American Family Insurance- Bill Schorn Agency, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

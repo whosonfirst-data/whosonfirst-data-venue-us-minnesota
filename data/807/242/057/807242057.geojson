@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.851434,44.723004,-92.851434,44.723004",
     "geom:latitude":44.723004,
     "geom:longitude":-92.851434,
@@ -45,17 +46,34 @@
     ],
     "sg:website":"http://www.subway.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3To97mrlTXMf2NVwEvypQr_44.723004_-92.851434@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605235,
-    "wof:geomhash":"eb2df91999e20d0020b6d66fc34c3e61",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c06b7357d54109eb6396c5fa376633a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":807242057
+        }
+    ],
     "wof:id":807242057,
-    "wof:lastmodified":1472629485,
+    "wof:lastmodified":1492822932,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

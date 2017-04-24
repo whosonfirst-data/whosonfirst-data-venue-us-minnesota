@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.182668,43.860956,-92.182668,43.860956",
     "geom:latitude":43.860956,
     "geom:longitude":-92.182668,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509629,
+        85633793,
+        85953187,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3prCzoqowm7rbz4B3qtk1h_43.860956_-92.182668@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602975,
-    "wof:geomhash":"5c876f13ec4d043c5b97e40ad401b0d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"edc975f5f96444f6e8b85d3480bd2d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509629,
+            "locality_id":85953187,
+            "region_id":85688727,
+            "venue_id":807013511
+        }
+    ],
     "wof:id":807013511,
-    "wof:lastmodified":1472628953,
+    "wof:lastmodified":1492824753,
     "wof:name":"Ronald L Wendt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.840297,46.318584,-92.840297,46.318584",
     "geom:latitude":46.318584,
     "geom:longitude":-92.840297,
@@ -28,17 +29,34 @@
     "sg:postcode":"55795",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510425,
+        85633793,
+        85953237,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LHL009g49QyppBCaTsv5O_46.318584_-92.840297@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586911,
-    "wof:geomhash":"781a4bd7135b0a92e77f0cd1e357a9d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdbcb24f2c3d956a8982364f37f48e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404510425,
+            "locality_id":85953237,
+            "region_id":85688727,
+            "venue_id":773595527
+        }
+    ],
     "wof:id":773595527,
-    "wof:lastmodified":1472630103,
+    "wof:lastmodified":1492805674,
     "wof:name":"Highway Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

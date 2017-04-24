@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.525483,44.899985,-93.525483,44.899985",
     "geom:latitude":44.899985,
     "geom:longitude":-93.525483,
@@ -31,17 +32,34 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LgCx3O6JrqXxLJYPUb1wl_44.899985_-93.525483@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601764,
-    "wof:geomhash":"d4b3c9e0559fd3ff2892496365a1b91e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"39237be9386ac01dea74d8d1986a61e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":806869049
+        }
+    ],
     "wof:id":806869049,
-    "wof:lastmodified":1472629901,
+    "wof:lastmodified":1492814392,
     "wof:name":"Stein Co AT&t Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

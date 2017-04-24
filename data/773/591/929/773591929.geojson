@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.37835,44.941364,-93.37835,44.941364",
     "geom:latitude":44.941364,
     "geom:longitude":-93.37835,
@@ -31,17 +32,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ENjr30H9lWfQoXiB18VUd_44.941364_-93.378350@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586887,
-    "wof:geomhash":"5955beaaf9a863f74e1a95d7532af896",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c91d6e17306c7996f31175bea24a091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":773591929
+        }
+    ],
     "wof:id":773591929,
-    "wof:lastmodified":1472630108,
+    "wof:lastmodified":1492806242,
     "wof:name":"Dock Truck Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.398717,43.980888,-92.398717,43.980888",
     "geom:latitude":43.980888,
     "geom:longitude":-92.398717,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rRwPFkvuArkzoHJ4OJVMP_43.980888_-92.398717@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591161,
-    "wof:geomhash":"cdf3bf3660616e0b8517e90ec8b942c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4c3a673b3624c79a3ae177a10c14d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789866949
+        }
+    ],
     "wof:id":789866949,
-    "wof:lastmodified":1472629554,
+    "wof:lastmodified":1492810145,
     "wof:name":"Cornerstone Evangelical Free",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

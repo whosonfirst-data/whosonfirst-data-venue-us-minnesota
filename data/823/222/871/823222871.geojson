@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.311553,47.528675,-92.311553,47.528675",
     "geom:latitude":47.528675,
     "geom:longitude":-92.311553,
@@ -31,17 +32,26 @@
         "iron"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57nPSqdPd6y7ttsPujS6Pr_47.528675_-92.311553@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608786,
-    "wof:geomhash":"7c0941c31d24ffa1a6fa5576161d1a89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae2f22f9589293e0c5db075cd554fddd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":823222871
+        }
+    ],
     "wof:id":823222871,
-    "wof:lastmodified":1472629115,
+    "wof:lastmodified":1492830436,
     "wof:name":"Iron Wood Bat Co",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

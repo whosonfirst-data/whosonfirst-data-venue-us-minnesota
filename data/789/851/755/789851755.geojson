@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.114888,45.023382,-93.114888,45.023382",
     "geom:latitude":45.023382,
     "geom:longitude":-93.114888,
@@ -31,17 +32,34 @@
         "disability"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ws8naZ1DUuoGNjeIWiG4f_45.023382_-93.114888@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591040,
-    "wof:geomhash":"e640812b10bb6b69062fb49a662844f7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9eae75242129f42bf9458559af0e7581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":789851755
+        }
+    ],
     "wof:id":789851755,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492813596,
     "wof:name":"Northeast Residences",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

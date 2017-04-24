@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.555722,45.401832,-94.555722,45.401832",
     "geom:latitude":45.401832,
     "geom:longitude":-94.555722,
@@ -31,17 +32,32 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514229,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KtFQkKirgC2BXTtxHO7mO_45.401832_-94.555722@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609353,
-    "wof:geomhash":"b407406af04cdbf2a24e14040cc6198a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7bbe7e910bc9a4684d42163313020bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514229,
+            "region_id":85688727,
+            "venue_id":823250963
+        }
+    ],
     "wof:id":823250963,
-    "wof:lastmodified":1472629175,
+    "wof:lastmodified":1492829883,
     "wof:name":"Laddco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

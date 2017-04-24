@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.890707,47.452792,-94.890707,47.452792",
     "geom:latitude":47.452792,
     "geom:longitude":-94.890707,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511371,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43XdDnSQ4IKsy4jFGfghkT_47.452792_-94.890707@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585125,
-    "wof:geomhash":"966b7c633230e5563f1dbb9e6854546b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"739eabb8104add90b6dbe57227cb7669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511371,
+            "region_id":85688727,
+            "venue_id":773361647
+        }
+    ],
     "wof:id":773361647,
-    "wof:lastmodified":1472630027,
+    "wof:lastmodified":1492805141,
     "wof:name":"Senske & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

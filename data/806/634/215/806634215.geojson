@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.594156,46.271618,-96.594156,46.271618",
     "geom:latitude":46.271618,
     "geom:longitude":-96.594156,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514997,
+        85633793,
+        85952501,
+        102087021
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U6CUVetWdN8KgKGZqr4gT_46.271618_-96.594156@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599770,
-    "wof:geomhash":"4083671717e8e2b0749fd3a283ece9b6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e122a9fec1edb05cf07113f27709ec96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087021,
+            "localadmin_id":404514997,
+            "locality_id":85952501,
+            "region_id":85688727,
+            "venue_id":806634215
+        }
+    ],
     "wof:id":806634215,
-    "wof:lastmodified":1472629563,
+    "wof:lastmodified":1492820440,
     "wof:name":"Orthopaedic Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.487511,44.05309,-92.487511,44.05309",
     "geom:latitude":44.05309,
     "geom:longitude":-92.487511,
@@ -28,17 +29,34 @@
     "sg:postcode":"55901",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rD90SF9exvpP4DzsbTczZ_44.053090_-92.487511@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596470,
-    "wof:geomhash":"56c42fcfc46ca462930d750ce89e839b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a236545084c52cfd213bb783b2ae56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790512423
+        }
+    ],
     "wof:id":790512423,
-    "wof:lastmodified":1472629790,
+    "wof:lastmodified":1492832311,
     "wof:name":"Feeser Clock Tool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

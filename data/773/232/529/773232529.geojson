@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.461262,45.02925,-93.461262,45.02925",
     "geom:latitude":45.02925,
     "geom:longitude":-93.461262,
@@ -33,17 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LNVi0atdzOGaxMzWtrZkC_45.029250_-93.461262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584164,
-    "wof:geomhash":"9c421f0255e1bbe6fc00975c0368d25e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5d02548552ba5cc5dfcd1b5a55aa6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":773232529
+        }
+    ],
     "wof:id":773232529,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492799058,
     "wof:name":"Regent At Plymouth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

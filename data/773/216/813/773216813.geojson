@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.012569,44.369596,-92.012569,44.369596",
     "geom:latitude":44.369596,
     "geom:longitude":-92.012569,
@@ -31,17 +32,34 @@
         "carrier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iFEobyd07M4CuR9XI1g2H_44.369596_-92.012569@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584051,
-    "wof:geomhash":"ab7fe1ce3115e4c5ec4b55bd58cd1f38",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2b26a3d898adac73aafc3efae0dad4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":773216813
+        }
+    ],
     "wof:id":773216813,
-    "wof:lastmodified":1472629972,
+    "wof:lastmodified":1492800384,
     "wof:name":"Todd Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

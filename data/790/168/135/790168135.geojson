@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.011853,44.167881,-94.011853,44.167881",
     "geom:latitude":44.167881,
     "geom:longitude":-94.011853,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mJqP9DO9DHgsG21aIym6r_44.167881_-94.011853@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593674,
-    "wof:geomhash":"0820dd1fe718a553e577429c0044548e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18ca1264890605625ab94fdbfb332a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":790168135
+        }
+    ],
     "wof:id":790168135,
-    "wof:lastmodified":1472629237,
+    "wof:lastmodified":1492836846,
     "wof:name":"Lemon Check",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

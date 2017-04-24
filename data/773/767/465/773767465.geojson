@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.199565,45.06383,-93.199565,45.06383",
     "geom:latitude":45.06383,
     "geom:longitude":-93.199565,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3thKGyvPZykfmflM0jhhZ9_45.063830_-93.199565@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588223,
-    "wof:geomhash":"3474ce2467af17381d848c5a0ada44d3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f4dcb030ff48fdbaa5dbb3a73044ca10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":773767465
+        }
+    ],
     "wof:id":773767465,
-    "wof:lastmodified":1472630152,
+    "wof:lastmodified":1492802555,
     "wof:name":"Wolkowicz Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

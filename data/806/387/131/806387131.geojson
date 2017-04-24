@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.469916,44.036214,-92.469916,44.036214",
     "geom:latitude":44.036214,
     "geom:longitude":-92.469916,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_061X1bn7SlrFf9YWCMbh3o_44.036214_-92.469916@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597732,
-    "wof:geomhash":"f8538d46d7e67ba17b2b81dcf858cd29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d8228c95d10afe1f14e991c2c5d2f090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":806387131
+        }
+    ],
     "wof:id":806387131,
-    "wof:lastmodified":1472628993,
+    "wof:lastmodified":1492816282,
     "wof:name":"Gullickson Properties/Mgmt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.055552,44.195081,-95.055552,44.195081",
     "geom:latitude":44.195081,
     "geom:longitude":-95.055552,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509333,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vEQGE72xXAS2AFVNW7rK5_44.195081_-95.055552@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601554,
-    "wof:geomhash":"17ab219b9787be53b057cdd786070b31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c668354c1dda982de6a8457ab9928414",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509333,
+            "region_id":85688727,
+            "venue_id":806843659
+        }
+    ],
     "wof:id":806843659,
-    "wof:lastmodified":1472629883,
+    "wof:lastmodified":1492814414,
     "wof:name":"Jim Meine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

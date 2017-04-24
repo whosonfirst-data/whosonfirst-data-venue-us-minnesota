@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.169185,48.112022,-96.169185,48.112022",
     "geom:latitude":48.112022,
     "geom:longitude":-96.169185,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LUxZoYk43NYwWV5NanCMG_48.112022_-96.169185@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601722,
-    "wof:geomhash":"e6675f43d78ae86d053a74d23cdff99a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8eb4211e83ee0a80d459a5e98822dc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806863457
+        }
+    ],
     "wof:id":806863457,
-    "wof:lastmodified":1472629900,
+    "wof:lastmodified":1492819705,
     "wof:name":"Sharon McCullough",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.373942,45.094553,-93.373942,45.094553",
     "geom:latitude":45.094553,
     "geom:longitude":-93.373942,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"http://www.tcfbank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZNZaig5VJcag3U5y9boKm_45.094553_-93.373942@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608605,
-    "wof:geomhash":"0d872168883b6ce6a05768263406ae35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e17446b2e8d23f44a46193e96510848d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823213895
+        }
+    ],
     "wof:id":823213895,
-    "wof:lastmodified":1472629113,
+    "wof:lastmodified":1492829193,
     "wof:name":"TCF Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

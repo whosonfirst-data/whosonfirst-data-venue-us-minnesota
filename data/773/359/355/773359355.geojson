@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.360696,45.889413,-95.360696,45.889413",
     "geom:latitude":45.889413,
     "geom:longitude":-95.360696,
@@ -32,17 +33,34 @@
         "terrain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zunHc9YT9j3twI2cwaK8a_45.889413_-95.360696@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585111,
-    "wof:geomhash":"2dd3119bbd5cf3c3c7437fb3dbec3a7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"108f5fdf40c3b4eb7c4c92fb20726dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773359355
+        }
+    ],
     "wof:id":773359355,
-    "wof:lastmodified":1472630029,
+    "wof:lastmodified":1492802419,
     "wof:name":"Woodsmen Power Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

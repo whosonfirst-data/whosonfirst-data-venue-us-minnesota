@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.478126,44.877912,-94.478126,44.877912",
     "geom:latitude":44.877912,
     "geom:longitude":-94.478126,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512817,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SR90Bx84vsVrMVKwhDlX8_44.877912_-94.478126@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594681,
-    "wof:geomhash":"6eedac3393341ec9fade73a25abd0be8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"170f5da8a9a60520eff21bacd26ae912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512817,
+            "region_id":85688727,
+            "venue_id":790289871
+        }
+    ],
     "wof:id":790289871,
-    "wof:lastmodified":1472629477,
+    "wof:lastmodified":1492838023,
     "wof:name":"Larry Fraser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

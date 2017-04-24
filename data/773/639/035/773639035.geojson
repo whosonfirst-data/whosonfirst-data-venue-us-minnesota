@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.284592,44.886396,-93.284592,44.886396",
     "geom:latitude":44.886396,
     "geom:longitude":-93.284592,
@@ -28,17 +29,34 @@
     "sg:postcode":"55423",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45HhEkprMALmMssMiObbV1_44.886396_-93.284592@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587239,
-    "wof:geomhash":"e0e3dab8c19d8dc9e663d820e32d3196",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ad2a8445363ecc5887fb8ce30e22f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":773639035
+        }
+    ],
     "wof:id":773639035,
-    "wof:lastmodified":1472630114,
+    "wof:lastmodified":1492806885,
     "wof:name":"From East",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.192249,44.877045,-94.192249,44.877045",
     "geom:latitude":44.877045,
     "geom:longitude":-94.192249,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512823,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W2LXzirucV8P5xS92YXIL_44.877045_-94.192249@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603757,
-    "wof:geomhash":"ee34c160617a5d48fa9350243c5a92c0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf1a80266e13d995b901af425f53b415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512823,
+            "region_id":85688727,
+            "venue_id":807102401
+        }
+    ],
     "wof:id":807102401,
-    "wof:lastmodified":1472629201,
+    "wof:lastmodified":1492826725,
     "wof:name":"Brian Nemec",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

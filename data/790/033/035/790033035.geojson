@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.278076,44.879328,-93.278076,44.879328",
     "geom:latitude":44.879328,
     "geom:longitude":-93.278076,
@@ -31,17 +32,34 @@
         "chapel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6s9I6zqZueT6ITnmOYVfqG_44.879328_-93.278076@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592594,
-    "wof:geomhash":"1c0b20bad2786baa044dc1bd98ba8deb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04687364180b843a52bdfe885a8d9692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":790033035
+        }
+    ],
     "wof:id":790033035,
-    "wof:lastmodified":1472628987,
+    "wof:lastmodified":1492837884,
     "wof:name":"Albin Funeral Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

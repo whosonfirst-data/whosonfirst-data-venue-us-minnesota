@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.35049,43.964397,-95.35049,43.964397",
     "geom:latitude":43.964397,
     "geom:longitude":-95.35049,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511871,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0owhUDUJmwz0OiOeUlo4Bu_43.964397_-95.350490@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603710,
-    "wof:geomhash":"623b3e6e4c7f82b03189cfae439aee62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d17d457d918d4448ce00b28094c2b5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511871,
+            "region_id":85688727,
+            "venue_id":807098999
+        }
+    ],
     "wof:id":807098999,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492827293,
     "wof:name":"Lawrence Cowan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

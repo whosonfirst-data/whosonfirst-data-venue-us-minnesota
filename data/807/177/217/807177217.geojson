@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.173836,47.371415,-96.173836,47.371415",
     "geom:latitude":47.371415,
     "geom:longitude":-96.173836,
@@ -26,17 +27,32 @@
         "beet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512427,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5piNzEVy2foKr34VDxNjTR_47.371415_-96.173836@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604558,
-    "wof:geomhash":"9f600d096f40c91d1a10faaff105aadf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d178ba010ddfe6176d3771b771d50b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512427,
+            "region_id":85688727,
+            "venue_id":807177217
+        }
+    ],
     "wof:id":807177217,
-    "wof:lastmodified":1472629332,
+    "wof:lastmodified":1492824421,
     "wof:name":"Dean Pederson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.009848,43.563629,-92.009848,43.563629",
     "geom:latitude":43.563629,
     "geom:longitude":-92.009848,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EQAwKVJUMetYpvLJrxUQU_43.563629_-92.009848@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590134,
-    "wof:geomhash":"df31f0684aeccbfe50cca618b5fe9ec9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d02274d3070ecc6934091bd07c541888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":789734393
+        }
+    ],
     "wof:id":789734393,
-    "wof:lastmodified":1472629250,
+    "wof:lastmodified":1492812649,
     "wof:name":"Morem Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.416411,43.98362,-92.416411,43.98362",
     "geom:latitude":43.98362,
     "geom:longitude":-92.416411,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72RK9JDPFat5br4ZgT4UPC_43.983620_-92.416411@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591546,
-    "wof:geomhash":"dca9a0836cc2de76e021ceae68804ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a391e6a4eeb54af80b0fb8572b8e0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789910783
+        }
+    ],
     "wof:id":789910783,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492809398,
     "wof:name":"Ewing Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

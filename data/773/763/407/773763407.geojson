@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.164112,44.169883,-92.164112,44.169883",
     "geom:latitude":44.169883,
     "geom:longitude":-92.164112,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510915,
+        85633793,
+        85968637,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Iu8D7yPMkot0qf3irtaXZ_44.169883_-92.164112@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588195,
-    "wof:geomhash":"c2b9c986c34de6f6865d44583b41c2d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bdf23f7c6263ab23e3a7a881128e0234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404510915,
+            "locality_id":85968637,
+            "region_id":85688727,
+            "venue_id":773763407
+        }
+    ],
     "wof:id":773763407,
-    "wof:lastmodified":1472630152,
+    "wof:lastmodified":1492805190,
     "wof:name":"Eastwood Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

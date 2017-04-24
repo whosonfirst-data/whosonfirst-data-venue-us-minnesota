@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.368409,44.810615,-93.368409,44.810615",
     "geom:latitude":44.810615,
     "geom:longitude":-93.368409,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"www.americanracing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42tCNnO6KgugOEnS3TbX2I_44.810615_-93.368409@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600183,
-    "wof:geomhash":"9253b10bfd42491ed82748d022df8347",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8541f6b689c138cba853c3ff1eee46f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":806681521
+        }
+    ],
     "wof:id":806681521,
-    "wof:lastmodified":1472629686,
+    "wof:lastmodified":1492820806,
     "wof:name":"American Racing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

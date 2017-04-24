@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.079168,44.328749,-96.079168,44.328749",
     "geom:latitude":44.328749,
     "geom:longitude":-96.079168,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515141,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64DcNYSUG1I15NUWBoSH57_44.328823_-96.079125@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604620,
-    "wof:geomhash":"6d812637bcd8b6ddfdced8aa89b6929c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b737a6a90506d6b26b94c0111d3f4a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404515141,
+            "region_id":85688727,
+            "venue_id":807183551
+        }
+    ],
     "wof:id":807183551,
-    "wof:lastmodified":1472629360,
+    "wof:lastmodified":1492826986,
     "wof:name":"Robert Thooft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

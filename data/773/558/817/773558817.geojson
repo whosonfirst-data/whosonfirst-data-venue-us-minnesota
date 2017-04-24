@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.10278,45.585356,-94.10278,45.585356",
     "geom:latitude":45.585356,
     "geom:longitude":-94.10278,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511465,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QwthGkGrbpsxPa4CJl2HM_45.585356_-94.102780@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586638,
-    "wof:geomhash":"fa9bace67a5e58aa2539433d111fe26a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e359484a14b438dde58dd4f19ff0e1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511465,
+            "region_id":85688727,
+            "venue_id":773558817
+        }
+    ],
     "wof:id":773558817,
-    "wof:lastmodified":1472630091,
+    "wof:lastmodified":1492800489,
     "wof:name":"Huntington Automotive Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

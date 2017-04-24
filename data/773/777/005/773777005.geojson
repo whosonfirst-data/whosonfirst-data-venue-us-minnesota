@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.930749,45.340883,-92.930749,45.340883",
     "geom:latitude":45.340883,
     "geom:longitude":-92.930749,
@@ -31,17 +32,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CujPSe0FASDhX3yhLO991_45.340883_-92.930749@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588296,
-    "wof:geomhash":"a2b5fa94a4c7369f847756e669c0de53",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61bb7170f99d680e88beac192c189cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773777005
+        }
+    ],
     "wof:id":773777005,
-    "wof:lastmodified":1472630152,
+    "wof:lastmodified":1492804480,
     "wof:name":"Northern Natural Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

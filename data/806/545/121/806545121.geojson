@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.493499,45.834889,-94.493499,45.834889",
     "geom:latitude":45.834889,
     "geom:longitude":-94.493499,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510029,
+        85633793,
+        85968861,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dNUPZji8sgHPnGgMxsFlN_45.834889_-94.493499@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598998,
-    "wof:geomhash":"3d14810c5d8eb57f00005c675ad2eb7a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ba69ad110a6ce0869ee64a5ad80e147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510029,
+            "locality_id":85968861,
+            "region_id":85688727,
+            "venue_id":806545121
+        }
+    ],
     "wof:id":806545121,
-    "wof:lastmodified":1472629428,
+    "wof:lastmodified":1492818677,
     "wof:name":"Northern Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

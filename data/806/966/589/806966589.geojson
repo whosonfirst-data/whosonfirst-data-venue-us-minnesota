@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.405083,44.319087,-94.405083,44.319087",
     "geom:latitude":44.319087,
     "geom:longitude":-94.405083,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513333,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gDkMKcb4WLbQpXdJr8QgN_44.319087_-94.405083@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602580,
-    "wof:geomhash":"7e8d09d4a6b8e851fd3bd0dd86e102b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fef220d2aa468f9cb27f4025352361d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513333,
+            "region_id":85688727,
+            "venue_id":806966589
+        }
+    ],
     "wof:id":806966589,
-    "wof:lastmodified":1472629969,
+    "wof:lastmodified":1492815765,
     "wof:name":"P & L Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.349779,44.819195,-93.349779,44.819195",
     "geom:latitude":44.819195,
     "geom:longitude":-93.349779,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u9gUw6vytYmTUwaUo0Zm1_44.819195_-93.349779@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603328,
-    "wof:geomhash":"6481e0faaefacf5eeb3a1c97cc19b6db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"320b98d1859eb07e1944ad8dc409c81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":807055175
+        }
+    ],
     "wof:id":807055175,
-    "wof:lastmodified":1472629043,
+    "wof:lastmodified":1492826537,
     "wof:name":"JPE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.406826,44.048396,-92.406826,44.048396",
     "geom:latitude":44.048396,
     "geom:longitude":-92.406826,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512447,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X97V2lMvvoqsion23qR9p_44.048396_-92.406826@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599133,
-    "wof:geomhash":"ea08b67155a2848257bddf747b238a2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f155f89578903c2e12a6638780fa990a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512447,
+            "region_id":85688727,
+            "venue_id":806560615
+        }
+    ],
     "wof:id":806560615,
-    "wof:lastmodified":1472629459,
+    "wof:lastmodified":1492814276,
     "wof:name":"Jay Brinkman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

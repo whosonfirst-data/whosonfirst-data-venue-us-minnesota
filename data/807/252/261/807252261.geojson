@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.291071,44.473838,-93.291071,44.473838",
     "geom:latitude":44.473838,
     "geom:longitude":-93.291071,
@@ -38,17 +39,32 @@
     ],
     "sg:website":"http://www.lakesgasco.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510605,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mUm1ooFBcaDJVBpmWyucV_44.473838_-93.291071@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605346,
-    "wof:geomhash":"7aa3ff0535b599fff7e9fb624f80deb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61be78d63a4164ad002d5b8b55d8f14f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404510605,
+            "region_id":85688727,
+            "venue_id":807252261
+        }
+    ],
     "wof:id":807252261,
-    "wof:lastmodified":1472629500,
+    "wof:lastmodified":1492826119,
     "wof:name":"Lakes Gas Co.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

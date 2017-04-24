@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.019651,46.010647,-93.019651,46.010647",
     "geom:latitude":46.010647,
     "geom:longitude":-93.019651,
@@ -31,17 +32,32 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513355,
+        85633793,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uqwwYt0Uq5arP3JcfoaYX_46.010647_-93.019651@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584856,
-    "wof:geomhash":"90c0481cabbed3cf710488750126d57d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6f313df28112a818cb14a36dcf44aa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513355,
+            "region_id":85688727,
+            "venue_id":773321897
+        }
+    ],
     "wof:id":773321897,
-    "wof:lastmodified":1472630004,
+    "wof:lastmodified":1492800043,
     "wof:name":"Common Sense Computing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

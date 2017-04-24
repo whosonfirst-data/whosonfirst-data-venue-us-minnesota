@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.961911,45.678781,-92.961911,45.678781",
     "geom:latitude":45.678781,
     "geom:longitude":-92.961911,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511025,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SuwBvzczXEoSQwjzvHeaz_45.678781_-92.961911@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600235,
-    "wof:geomhash":"4f3d9a6e079cf0e0120578ae305c5f9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2ed09dc6d8ee2acdaf3fbcbdc66b3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511025,
+            "region_id":85688727,
+            "venue_id":806687621
+        }
+    ],
     "wof:id":806687621,
-    "wof:lastmodified":1472629696,
+    "wof:lastmodified":1492817684,
     "wof:name":"Prefer Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

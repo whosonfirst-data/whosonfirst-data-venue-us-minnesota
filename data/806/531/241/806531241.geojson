@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.99396,44.776392,-94.99396,44.776392",
     "geom:latitude":44.776392,
     "geom:longitude":-94.99396,
@@ -28,17 +29,34 @@
     "sg:postcode":"56277",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512489,
+        85633793,
+        85969085,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jJNKtNYxTCswlP9m8s3W2_44.776392_-94.993960@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598879,
-    "wof:geomhash":"c210938ba58ef48fc871ab0097a76c40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6f3ea87a8ada3cbd22c7661a2775eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512489,
+            "locality_id":85969085,
+            "region_id":85688727,
+            "venue_id":806531241
+        }
+    ],
     "wof:id":806531241,
-    "wof:lastmodified":1472629385,
+    "wof:lastmodified":1492817057,
     "wof:name":"Home Town Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

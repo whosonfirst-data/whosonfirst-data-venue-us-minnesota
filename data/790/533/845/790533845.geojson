@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.9862,45.328689,-92.9862,45.328689",
     "geom:latitude":45.328689,
     "geom:longitude":-92.9862,
@@ -28,17 +29,34 @@
     "sg:postcode":"55092",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f7tNzRINvY95zjpLK0fCf_45.328689_-92.986200@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596653,
-    "wof:geomhash":"73b4a3aba64917a97b8f64f940ccc2b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab5dbfdde7ac862682daa4c4a2c354b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":790533845
+        }
+    ],
     "wof:id":790533845,
-    "wof:lastmodified":1472629817,
+    "wof:lastmodified":1492834028,
     "wof:name":"Mark Wallinga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.371371,48.21108,-96.371371,48.21108",
     "geom:latitude":48.21108,
     "geom:longitude":-96.371371,
@@ -32,17 +33,32 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513985,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g1LnxITAMZ7jFiCmQy0gq_48.211080_-96.371371@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595711,
-    "wof:geomhash":"b622c0d89df7dbe042ce01eb69005f7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"749ce1abde97e2074ce07077ee4d7f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513985,
+            "region_id":85688727,
+            "venue_id":790424051
+        }
+    ],
     "wof:id":790424051,
-    "wof:lastmodified":1472629702,
+    "wof:lastmodified":1492833074,
     "wof:name":"Span Arch Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

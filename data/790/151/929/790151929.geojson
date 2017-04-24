@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.113729,45.578107,-94.113729,45.578107",
     "geom:latitude":45.578107,
     "geom:longitude":-94.113729,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511465,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mnSGHtvQ7vf0ZNUYCGWbD_45.578107_-94.113729@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593519,
-    "wof:geomhash":"1e98f904292fdf1737d013e95361aecb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"061ed737e5b793be474b0ebfbd95ff51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511465,
+            "region_id":85688727,
+            "venue_id":790151929
+        }
+    ],
     "wof:id":790151929,
-    "wof:lastmodified":1472629235,
+    "wof:lastmodified":1492832638,
     "wof:name":"APT Home Equity Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

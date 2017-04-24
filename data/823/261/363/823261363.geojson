@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.590111,44.867066,-93.590111,44.867066",
     "geom:latitude":44.867066,
     "geom:longitude":-93.590111,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"http://www.cardiocom.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XJnXm2KO9bj4ZfuRnxBQC_44.867066_-93.590111@1308186500"
     },
     "wof:country":"US",
     "wof:created":1462609577,
-    "wof:geomhash":"0a8283823b8c9263dddb5d975bfbe2ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ba07a1f6e6f7c11f748f54552585b30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":823261363
+        }
+    ],
     "wof:id":823261363,
-    "wof:lastmodified":1472629220,
+    "wof:lastmodified":1492830008,
     "wof:name":"Cardiocom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

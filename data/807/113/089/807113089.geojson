@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.186567,44.020717,-92.186567,44.020717",
     "geom:latitude":44.020717,
     "geom:longitude":-92.186567,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510311,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LX753r7vw0khTLxdHNk2C_44.020717_-92.186567@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603871,
-    "wof:geomhash":"b3df009a9b0b02d0189477642dd4a17c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eeb507027908ba3b92d794ef732ea9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510311,
+            "region_id":85688727,
+            "venue_id":807113089
+        }
+    ],
     "wof:id":807113089,
-    "wof:lastmodified":1472629194,
+    "wof:lastmodified":1492825475,
     "wof:name":"Dale Woodward",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

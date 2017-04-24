@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.439742,45.064929,-93.439742,45.064929",
     "geom:latitude":45.064929,
     "geom:longitude":-93.439742,
@@ -23,17 +24,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.jeffersonatplymouth.com/templates/template_jpi_c/default2.asp?w=jeffersonatplymouth",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fE44aoNjoXZ7ux82HIvGD_45.064929_-93.439742@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608559,
-    "wof:geomhash":"c9c5cec6e1683ea0457be0895f9b5b24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"610b0442141b1506cfd081309014d451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823211417
+        }
+    ],
     "wof:id":823211417,
-    "wof:lastmodified":1472629104,
+    "wof:lastmodified":1492828200,
     "wof:name":"Jefferson at Plymouth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

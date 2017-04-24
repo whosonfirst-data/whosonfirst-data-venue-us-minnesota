@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.283431,44.887531,-93.283431,44.887531",
     "geom:latitude":44.887531,
     "geom:longitude":-93.283431,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dUBJ6IVihy0c9ecjtG7kB_44.887531_-93.283431@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591898,
-    "wof:geomhash":"ab5299495c049b41df128f3b8e58a58b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b10181a06910f2a08d17408bb481a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":789948741
+        }
+    ],
     "wof:id":789948741,
-    "wof:lastmodified":1472629653,
+    "wof:lastmodified":1492813110,
     "wof:name":"Charlotte Stalcar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

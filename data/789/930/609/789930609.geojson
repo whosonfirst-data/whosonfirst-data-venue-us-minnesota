@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.558091,45.189584,-93.558091,45.189584",
     "geom:latitude":45.189584,
     "geom:longitude":-93.558091,
@@ -34,17 +35,34 @@
         "sewer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BkMYG1MRGEYBOFR3kj084_45.189584_-93.558091@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591715,
-    "wof:geomhash":"a0b692c360088c66a995b34fa3c48a6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"757d7ba24f4665eb72e367a367b8261b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":789930609
+        }
+    ],
     "wof:id":789930609,
-    "wof:lastmodified":1472629634,
+    "wof:lastmodified":1492811092,
     "wof:name":"Jet Sewer Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

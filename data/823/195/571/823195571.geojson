@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.318298,44.800999,-93.318298,44.800999",
     "geom:latitude":44.800999,
     "geom:longitude":-93.318298,
@@ -31,17 +32,34 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xgS0FM7zy8FY27Bi5USup_44.800999_-93.318298@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608271,
-    "wof:geomhash":"2c0f1bc109c4bd13ff61754308a07777",
-    "wof:hierarchy":[],
+    "wof:geomhash":"316b6eca64c908c74289786d4b125030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823195571
+        }
+    ],
     "wof:id":823195571,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492830518,
     "wof:name":"Sky Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

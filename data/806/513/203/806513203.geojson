@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.756162,46.861281,-96.756162,46.861281",
     "geom:latitude":46.861281,
     "geom:longitude":-96.756162,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877341,
+        102191575,
+        404511077,
         85633793,
         85968969,
         102087681,
-        85877341
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462598739,
-    "wof:geomhash":"6521c3f0580d2992d90bd5d7a226e52d",
+    "wof:geomhash":"6294f6a21265c2cfd6e238ca4ea3283b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087681,
+            "localadmin_id":404511077,
             "locality_id":85968969,
             "neighbourhood_id":85877341,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":806513203,
-    "wof:lastmodified":1472629338,
+    "wof:lastmodified":1492819616,
     "wof:name":"Overland Transport",
     "wof:parent_id":85877341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.721529,44.543377,-93.721529,44.543377",
     "geom:latitude":44.543377,
     "geom:longitude":-93.721529,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514975,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dD25flzD1jELqWtCdIKQN_44.543377_-93.721529@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600434,
-    "wof:geomhash":"b81fd373a3ec1c0480db756bafde225e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eee918a3e81f33d677221a9f57f6c965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514975,
+            "region_id":85688727,
+            "venue_id":806712091
+        }
+    ],
     "wof:id":806712091,
-    "wof:lastmodified":1472629720,
+    "wof:lastmodified":1492817736,
     "wof:name":"Bill Sirek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

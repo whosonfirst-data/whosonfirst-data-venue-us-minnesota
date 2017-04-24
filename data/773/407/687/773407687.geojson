@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.259773,44.980807,-93.259773,44.980807",
     "geom:latitude":44.980807,
     "geom:longitude":-93.259773,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872705,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585472,
-    "wof:geomhash":"b96065c559d156c5a958510b04dd9803",
+    "wof:geomhash":"45790d8df90e0570d85ad874bdc47ab3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872705,
-            "region_id":85688727,
-            "venue_id":773407687
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":773407687
         }
     ],
     "wof:id":773407687,
-    "wof:lastmodified":1472630044,
+    "wof:lastmodified":1492804184,
     "wof:name":"Underground Coffee & Cafe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

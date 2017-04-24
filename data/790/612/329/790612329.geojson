@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.959158,44.154745,-93.959158,44.154745",
     "geom:latitude":44.154745,
     "geom:longitude":-93.959158,
@@ -33,17 +34,34 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Jzz74rUZnGDOqsA2OJb9N_44.154745_-93.959158@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597322,
-    "wof:geomhash":"6c72dcb609a49547fae95d3018d410da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1796e668d333fd0c7db08cf2625c2706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":790612329
+        }
+    ],
     "wof:id":790612329,
-    "wof:lastmodified":1472629907,
+    "wof:lastmodified":1492831728,
     "wof:name":"Parkinsons Education Program",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

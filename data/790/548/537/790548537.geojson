@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.879341,45.069997,-93.879341,45.069997",
     "geom:latitude":45.069997,
     "geom:longitude":-93.879341,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515203,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QU5IE1h7oTxFaXoeisgSj_45.069997_-93.879341@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596770,
-    "wof:geomhash":"cc6915878d6884f8b6301ee8e0941599",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2d8288bd8f9050b7763cbe703fc515eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515203,
+            "region_id":85688727,
+            "venue_id":790548537
+        }
+    ],
     "wof:id":790548537,
-    "wof:lastmodified":1472629821,
+    "wof:lastmodified":1492837070,
     "wof:name":"Howard Schultz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.932215,43.531676,-91.932215,43.531676",
     "geom:latitude":43.531676,
     "geom:longitude":-91.932215,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509627,
+        85633793,
+        85953137,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54LfHImcOsNnuXrlNY4Pfk_43.531676_-91.932215@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591433,
-    "wof:geomhash":"d2704aa6db3cc4d08865b393a4efcf7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"01986db76fac4f68d0a77ea7e4da00ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509627,
+            "locality_id":85953137,
+            "region_id":85688727,
+            "venue_id":789898273
+        }
+    ],
     "wof:id":789898273,
-    "wof:lastmodified":1472629593,
+    "wof:lastmodified":1492812149,
     "wof:name":"Assumption Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

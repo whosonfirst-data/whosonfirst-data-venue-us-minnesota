@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.517932,48.600249,-96.517932,48.600249",
     "geom:latitude":48.600249,
     "geom:longitude":-96.517932,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513971,
+        85633793,
+        102087613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NI0lzl4d7UQnwQne0dGUh_48.600249_-96.517932@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609553,
-    "wof:geomhash":"ca85deaa7fe318c7b016b04244aae64d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b433151b46ff84688e9c14fd30c701f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087613,
+            "localadmin_id":404513971,
+            "region_id":85688727,
+            "venue_id":823260077
+        }
+    ],
     "wof:id":823260077,
-    "wof:lastmodified":1472629182,
+    "wof:lastmodified":1492828547,
     "wof:name":"Anderson & Son Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

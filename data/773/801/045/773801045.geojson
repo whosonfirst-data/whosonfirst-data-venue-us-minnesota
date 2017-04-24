@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.177884,48.118,-96.177884,48.118",
     "geom:latitude":48.118,
     "geom:longitude":-96.177884,
@@ -32,17 +33,34 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40B1eEZJn5zSvChLwtYKVc_48.118000_-96.177884@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588475,
-    "wof:geomhash":"9b1b86e95752fa90400cc11c7e8aca5a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25ae9c7f94d339e7321e972b5d429a03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773801045
+        }
+    ],
     "wof:id":773801045,
-    "wof:lastmodified":1472630161,
+    "wof:lastmodified":1492805215,
     "wof:name":"Thief River Falls Fire Chief",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

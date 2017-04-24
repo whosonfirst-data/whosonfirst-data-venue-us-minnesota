@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.58465,45.210569,-94.58465,45.210569",
     "geom:latitude":45.210569,
     "geom:longitude":-94.58465,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512401,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2csp9mDo5KBKihsYeaNhvz_45.210569_-94.584650@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603992,
-    "wof:geomhash":"df583d78df90264ae41675e1d72afdb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78f2d6d3bb1b68b9b9b0a54e49887969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512401,
+            "region_id":85688727,
+            "venue_id":807124111
+        }
+    ],
     "wof:id":807124111,
-    "wof:lastmodified":1472629232,
+    "wof:lastmodified":1492825192,
     "wof:name":"Weseman Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

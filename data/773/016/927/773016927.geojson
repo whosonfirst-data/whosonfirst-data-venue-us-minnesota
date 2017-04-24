@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.295096,44.821237,-94.295096,44.821237",
     "geom:latitude":44.821237,
     "geom:longitude":-94.295096,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512809,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eFsdAPSbtGmq9JhpRc7oc_44.821237_-94.295096@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582424,
-    "wof:geomhash":"43d869321681a90eebf0037bf56e4713",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43010e468b58417e3dc6850f2f3ebdbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512809,
+            "region_id":85688727,
+            "venue_id":773016927
+        }
+    ],
     "wof:id":773016927,
-    "wof:lastmodified":1472629144,
+    "wof:lastmodified":1492801113,
     "wof:name":"Allan Plath",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

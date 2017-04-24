@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.847165,48.062254,-92.847165,48.062254",
     "geom:latitude":48.062254,
     "geom:longitude":-92.847165,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513401,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65BjSpmK0u5Ovqq3EG4knX_48.062254_-92.847165@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593463,
-    "wof:geomhash":"3ac3cfdbe6aef239dadcad0b1c2e1c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19480e1e078581fe27635ccc6f82e390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513401,
+            "region_id":85688727,
+            "venue_id":790144537
+        }
+    ],
     "wof:id":790144537,
-    "wof:lastmodified":1472629206,
+    "wof:lastmodified":1492836930,
     "wof:name":"Voyageur Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

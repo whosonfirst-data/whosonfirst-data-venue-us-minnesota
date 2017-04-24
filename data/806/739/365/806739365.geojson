@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.45284,44.90674,-94.45284,44.90674",
     "geom:latitude":44.90674,
     "geom:longitude":-94.45284,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512681,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GqAKmKTGWjeN1qi5bJm8b_44.906740_-94.452840@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600675,
-    "wof:geomhash":"1213b6e0a6963e67c285c0b8f5abcdba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02a7bc751dcde49b9df6f9def926210b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512681,
+            "region_id":85688727,
+            "venue_id":806739365
+        }
+    ],
     "wof:id":806739365,
-    "wof:lastmodified":1472629761,
+    "wof:lastmodified":1492816891,
     "wof:name":"Kenneth Warnke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

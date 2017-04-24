@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.462006,44.021625,-92.462006,44.021625",
     "geom:latitude":44.021625,
     "geom:longitude":-92.462006,
@@ -31,17 +32,34 @@
         "garage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LkkWcyRYFkI1Bll5zctxO_44.021625_-92.462006@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593942,
-    "wof:geomhash":"364b447fe6ef9da5d3b075f44776e5e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d42e1dd2cc0dfd9f47f2263e18f24cec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790198025
+        }
+    ],
     "wof:id":790198025,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492836806,
     "wof:name":"Rochester Parking Ramps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

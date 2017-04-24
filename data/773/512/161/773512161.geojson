@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.567584,47.504678,-92.567584,47.504678",
     "geom:latitude":47.504678,
     "geom:longitude":-92.567584,
@@ -31,17 +32,36 @@
         "entertainer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rB3HMRftKG9IaZJY0NnOZ_47.504678_-92.567584@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586288,
-    "wof:geomhash":"1a408bc5c5533e74175ca934ea328b5b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9a38fb355612cc7afb9fff058c881c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":773512161
+        }
+    ],
     "wof:id":773512161,
-    "wof:lastmodified":1472630079,
+    "wof:lastmodified":1492800508,
     "wof:name":"Men of Camelot",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

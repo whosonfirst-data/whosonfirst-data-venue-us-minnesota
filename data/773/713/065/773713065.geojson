@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.476636,45.008847,-93.476636,45.008847",
     "geom:latitude":45.008847,
     "geom:longitude":-93.476636,
@@ -38,17 +39,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KDVqv5ACThoifpmKGs5lj_45.008847_-93.476636@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587823,
-    "wof:geomhash":"4f6046ff2aad85f270df3a44638e21af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e365b1399e39f48ecf47085236a4b1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":773713065
+        }
+    ],
     "wof:id":773713065,
-    "wof:lastmodified":1472630135,
+    "wof:lastmodified":1492799682,
     "wof:name":"J-Mark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.883231,44.745812,-92.883231,44.745812",
     "geom:latitude":44.745812,
     "geom:longitude":-92.883231,
@@ -37,17 +38,34 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18hBq6FukSxg5vukNyeku7_44.745812_-92.883231@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584593,
-    "wof:geomhash":"ffc23f13d91f8889164871ede245e3fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c12f15928fe0065911ac801dd68504b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":773289253
+        }
+    ],
     "wof:id":773289253,
-    "wof:lastmodified":1472630000,
+    "wof:lastmodified":1492808982,
     "wof:name":"Estrem Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

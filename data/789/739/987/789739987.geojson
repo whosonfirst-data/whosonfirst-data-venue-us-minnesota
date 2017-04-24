@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.308416,44.74528,-95.308416,44.74528",
     "geom:latitude":44.74528,
     "geom:longitude":-95.308416,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512613,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0soOY6jMX0SL5OKz6iv07m_44.745280_-95.308416@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590172,
-    "wof:geomhash":"2f397ce607f9d7bedef16caed5beb742",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3063ee4ea8ccaf600052d8ca6764fb6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512613,
+            "region_id":85688727,
+            "venue_id":789739987
+        }
+    ],
     "wof:id":789739987,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492810868,
     "wof:name":"James Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

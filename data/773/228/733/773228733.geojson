@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.416144,44.910317,-93.416144,44.910317",
     "geom:latitude":44.910317,
     "geom:longitude":-93.416144,
@@ -31,17 +32,34 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VHVjAlms9GzhOjrsS7g42_44.910317_-93.416144@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584133,
-    "wof:geomhash":"bdc4a829b6a7a58e66b0392f85ff9a96",
-    "wof:hierarchy":[],
+    "wof:geomhash":"079d0e0aabeea5ed538fe55393f1027c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":773228733
+        }
+    ],
     "wof:id":773228733,
-    "wof:lastmodified":1472629968,
+    "wof:lastmodified":1492806248,
     "wof:name":"McMahon Wirth Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

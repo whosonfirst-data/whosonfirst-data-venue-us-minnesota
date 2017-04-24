@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.061089,44.558089,-93.061089,44.558089",
     "geom:latitude":44.558089,
     "geom:longitude":-93.061089,
@@ -27,11 +28,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85844381,
+        102191575,
+        404511991,
         85633793,
         85968455,
         102087895,
-        85844381
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,11 +42,13 @@
     },
     "wof:country":"US",
     "wof:created":1462604391,
-    "wof:geomhash":"a28e1e955de20e8a56c03faf548add7e",
+    "wof:geomhash":"90377f55419cf2b61d09ac31d413e24b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087895,
+            "localadmin_id":404511991,
             "locality_id":85968455,
             "neighbourhood_id":85844381,
             "region_id":85688727,
@@ -51,7 +56,7 @@
         }
     ],
     "wof:id":807161303,
-    "wof:lastmodified":1472629303,
+    "wof:lastmodified":1492824805,
     "wof:name":"Dennis Kuhn",
     "wof:parent_id":85844381,
     "wof:placetype":"venue",

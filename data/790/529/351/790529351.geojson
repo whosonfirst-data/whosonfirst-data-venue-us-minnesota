@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.719955,43.738204,-93.719955,43.738204",
     "geom:latitude":43.738204,
     "geom:longitude":-93.719955,
@@ -28,17 +29,34 @@
     "sg:postcode":"56097",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509619,
+        85633793,
+        85952579,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78Kaom3mqz2aZIsSIQlX6x_43.738204_-93.719955@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596619,
-    "wof:geomhash":"54364985c4e9f4333d03d738fe043a1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2495682ddb572fc64da8b931bb840401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509619,
+            "locality_id":85952579,
+            "region_id":85688727,
+            "venue_id":790529351
+        }
+    ],
     "wof:id":790529351,
-    "wof:lastmodified":1472629799,
+    "wof:lastmodified":1492832031,
     "wof:name":"Hartman Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

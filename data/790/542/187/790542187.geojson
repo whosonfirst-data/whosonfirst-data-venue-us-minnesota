@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.34347,44.948397,-93.34347,44.948397",
     "geom:latitude":44.948397,
     "geom:longitude":-93.34347,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.stlouispark.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GNXbUHbfiPRR3Co1kiCdT_44.948397_-93.343470@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596722,
-    "wof:geomhash":"11c72a87d12c53725b03da16b603d2e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ab6d4859d76848a0dbf6d35cfe481a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":790542187
+        }
+    ],
     "wof:id":790542187,
-    "wof:lastmodified":1472629813,
+    "wof:lastmodified":1492836158,
     "wof:name":"St Louis Park City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

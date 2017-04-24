@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.661394,45.239586,-93.661394,45.239586",
     "geom:latitude":45.239586,
     "geom:longitude":-93.661394,
@@ -31,17 +32,34 @@
         "feed"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510755,
+        85633793,
+        85968935,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GfkBtT1y9ahhTJAu2oOxD_45.239586_-93.661394@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593887,
-    "wof:geomhash":"aac2eb6eb12ebb1f74ff013a2b965b49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe0a96086dcb40f1e2578237875b85ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510755,
+            "locality_id":85968935,
+            "region_id":85688727,
+            "venue_id":790193613
+        }
+    ],
     "wof:id":790193613,
-    "wof:lastmodified":1472629283,
+    "wof:lastmodified":1492833304,
     "wof:name":"Federated Co-Cops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

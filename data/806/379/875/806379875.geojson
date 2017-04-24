@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.216877,46.499602,-95.216877,46.499602",
     "geom:latitude":46.499602,
     "geom:longitude":-95.216877,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512609,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72xu0bRF72Zt23euZXw90v_46.499602_-95.216877@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597672,
-    "wof:geomhash":"d45b7400853807e4791b5fc499100bf1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1b95d4d7ee3b27b95f8dff8e7afffcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512609,
+            "region_id":85688727,
+            "venue_id":806379875
+        }
+    ],
     "wof:id":806379875,
-    "wof:lastmodified":1472629011,
+    "wof:lastmodified":1492820509,
     "wof:name":"Kids Korner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

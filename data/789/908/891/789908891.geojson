@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.55261,45.180595,-93.55261,45.180595",
     "geom:latitude":45.180595,
     "geom:longitude":-93.55261,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mDM3wf7GWrp07DEsQ86NJ_45.180595_-93.552610@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591527,
-    "wof:geomhash":"2cd4089c0100733ff591f2fb5b28d022",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d52249174672024aaaf72b8e4c9fabf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":789908891
+        }
+    ],
     "wof:id":789908891,
-    "wof:lastmodified":1472629623,
+    "wof:lastmodified":1492809597,
     "wof:name":"Whitney World Wide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

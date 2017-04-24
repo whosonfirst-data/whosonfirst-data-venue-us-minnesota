@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.822065,45.168993,-93.822065,45.168993",
     "geom:latitude":45.168993,
     "geom:longitude":-93.822065,
@@ -33,17 +34,32 @@
         "roasted"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515187,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1expvLzeqsyXsFp8fOXuiL_45.168993_-93.822065@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592050,
-    "wof:geomhash":"768c7f57d7b5b4c9c5ecfaa91ca1c464",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a69b2e36607c8cd4c7ba64f3e24298dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515187,
+            "region_id":85688727,
+            "venue_id":789966539
+        }
+    ],
     "wof:id":789966539,
-    "wof:lastmodified":1472629653,
+    "wof:lastmodified":1492810283,
     "wof:name":"Custom Roasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

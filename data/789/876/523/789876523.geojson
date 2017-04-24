@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.948451,43.928959,-95.948451,43.928959",
     "geom:latitude":43.928959,
     "geom:longitude":-95.948451,
@@ -28,17 +29,34 @@
     "sg:postcode":"56122",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510079,
+        85633793,
+        85952803,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OhpbQSumq5LXo3TqzRnNg_43.928959_-95.948451@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591248,
-    "wof:geomhash":"21091bad342df102b20955161e431cf7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"531c58d9b6a6379a0c0215f9066eb7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510079,
+            "locality_id":85952803,
+            "region_id":85688727,
+            "venue_id":789876523
+        }
+    ],
     "wof:id":789876523,
-    "wof:lastmodified":1472629571,
+    "wof:lastmodified":1492811296,
     "wof:name":"Chandler Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

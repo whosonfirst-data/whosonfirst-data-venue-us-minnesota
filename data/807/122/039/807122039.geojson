@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.021432,45.19994,-96.021432,45.19994",
     "geom:latitude":45.19994,
     "geom:longitude":-96.021432,
@@ -28,17 +29,34 @@
     "sg:postcode":"56208",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514645,
+        85633793,
+        85968651,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27cIEnVOSVlKlLnWkZpyxF_45.200045_-96.021623@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603962,
-    "wof:geomhash":"46c14f71f0d0e4750ae235a04071da0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2454e7b3c9535fa909d20f0e668fcf31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514645,
+            "locality_id":85968651,
+            "region_id":85688727,
+            "venue_id":807122039
+        }
+    ],
     "wof:id":807122039,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492825210,
     "wof:name":"Appleton Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

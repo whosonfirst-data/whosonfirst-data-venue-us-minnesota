@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.013297,43.547288,-96.013297,43.547288",
     "geom:latitude":43.547288,
     "geom:longitude":-96.013297,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512125,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1h4MWx4vZtEg8tBO29SFMq_43.547288_-96.013297@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585887,
-    "wof:geomhash":"2ec4088f5b5a658d673154c8d02e7db8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6d4cbe2ed1606fd4b157e8a738a2ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512125,
+            "region_id":85688727,
+            "venue_id":773456475
+        }
+    ],
     "wof:id":773456475,
-    "wof:lastmodified":1472630061,
+    "wof:lastmodified":1492801944,
     "wof:name":"James Lenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

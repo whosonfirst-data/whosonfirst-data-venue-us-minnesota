@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.525269,44.780515,-93.525269,44.780515",
     "geom:latitude":44.780515,
     "geom:longitude":-93.525269,
@@ -31,17 +32,34 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LiBjjPIv22J5atEoHACB6_44.780515_-93.525269@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601701,
-    "wof:geomhash":"e3c03750e6b11f2828cea844446214db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8d13727e65847d2e840139c85b40333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":806861413
+        }
+    ],
     "wof:id":806861413,
-    "wof:lastmodified":1472629900,
+    "wof:lastmodified":1492818615,
     "wof:name":"Shakopee Distribution Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

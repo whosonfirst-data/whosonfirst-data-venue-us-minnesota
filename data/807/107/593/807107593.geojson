@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.385714,45.174888,-93.385714,45.174888",
     "geom:latitude":45.174888,
     "geom:longitude":-93.385714,
@@ -31,17 +32,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bBq2qzcaPQH7pSpgBMTrm_45.174730_-93.385760@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603811,
-    "wof:geomhash":"03f994eb2a49e27a76fdb9c6b0576831",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cd698b9f59877c9a53092cef4c96587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807107593
+        }
+    ],
     "wof:id":807107593,
-    "wof:lastmodified":1472629215,
+    "wof:lastmodified":1492824439,
     "wof:name":"Country Cuts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

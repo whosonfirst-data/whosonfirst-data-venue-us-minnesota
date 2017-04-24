@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.305682,44.442173,-94.305682,44.442173",
     "geom:latitude":44.442173,
     "geom:longitude":-94.305682,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510097,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NX6KHtvtfCcjMl2AEE4Wv_44.442173_-94.305682@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597600,
-    "wof:geomhash":"06681154e5a789c0d64f362c7d0ebd46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61d0a6e3d0eed0e0d5cb6fc5e3d7137f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404510097,
+            "region_id":85688727,
+            "venue_id":806370271
+        }
+    ],
     "wof:id":806370271,
-    "wof:lastmodified":1472628987,
+    "wof:lastmodified":1492814823,
     "wof:name":"Petterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

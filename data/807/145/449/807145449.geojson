@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.215617,44.951125,-94.215617,44.951125",
     "geom:latitude":44.951125,
     "geom:longitude":-94.215617,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509747,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pSfvjPvNADIBEYOwBSt7T_44.951125_-94.215617@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604218,
-    "wof:geomhash":"be90ba6447e61ea713a49eeb42871f74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53d8374d46849f8e91ba36dfdb4b19c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509747,
+            "region_id":85688727,
+            "venue_id":807145449
+        }
+    ],
     "wof:id":807145449,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492827780,
     "wof:name":"Joe Chmielewski",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

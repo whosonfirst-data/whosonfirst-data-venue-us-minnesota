@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.704966,43.876906,-93.704966,43.876906",
     "geom:latitude":43.876906,
     "geom:longitude":-93.704966,
@@ -35,17 +36,32 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510941,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QSMccq29eesTKSFG9tYsZ_43.876906_-93.704966@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600898,
-    "wof:geomhash":"01493d6ec897ce79bd2a51ef75df7e4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"462c756143e16948a9ebd71fb2835733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404510941,
+            "region_id":85688727,
+            "venue_id":806766529
+        }
+    ],
     "wof:id":806766529,
-    "wof:lastmodified":1472629796,
+    "wof:lastmodified":1492819143,
     "wof:name":"Roesler Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

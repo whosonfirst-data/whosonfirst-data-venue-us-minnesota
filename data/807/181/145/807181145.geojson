@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.251275,44.239674,-94.251275,44.239674",
     "geom:latitude":44.239674,
     "geom:longitude":-94.251275,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513333,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XjEKtFyC90JlWtsUvuYn5_44.239674_-94.251275@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604596,
-    "wof:geomhash":"ae387b18379d51517ef4ce5d8eac6c3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeb7788c98f3f185a42b40b0ec0384a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513333,
+            "region_id":85688727,
+            "venue_id":807181145
+        }
+    ],
     "wof:id":807181145,
-    "wof:lastmodified":1472629353,
+    "wof:lastmodified":1492826307,
     "wof:name":"Dave Rengstorf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

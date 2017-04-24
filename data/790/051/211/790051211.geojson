@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.755726,45.209803,-95.755726,45.209803",
     "geom:latitude":45.209803,
     "geom:longitude":-95.755726,
@@ -36,17 +37,32 @@
         "local"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510853,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_587CFqaebB2AdiMSGMuWVP_45.209803_-95.755726@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592737,
-    "wof:geomhash":"6184092668740b176f3f8c74b51cc0b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1750a8b73a74cf0b23ca78c24859b634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404510853,
+            "region_id":85688727,
+            "venue_id":790051211
+        }
+    ],
     "wof:id":790051211,
-    "wof:lastmodified":1472629022,
+    "wof:lastmodified":1492837758,
     "wof:name":"Robert Freyholtz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

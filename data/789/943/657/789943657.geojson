@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.999572,44.919068,-92.999572,44.919068",
     "geom:latitude":44.919068,
     "geom:longitude":-92.999572,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514453,
+        85633793,
+        85953111,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LR836eB7YHKAUKrMu3y5z_44.919068_-92.999572@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591819,
-    "wof:geomhash":"e26dd2e12a4354fbeca92b1ba9647912",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11b6179c06e04e914fdbc41986f21704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514453,
+            "locality_id":85953111,
+            "region_id":85688727,
+            "venue_id":789943657
+        }
+    ],
     "wof:id":789943657,
-    "wof:lastmodified":1472629642,
+    "wof:lastmodified":1492811964,
     "wof:name":"Castleco Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

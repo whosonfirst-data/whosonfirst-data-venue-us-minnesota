@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.17204,44.897133,-93.17204,44.897133",
     "geom:latitude":44.897133,
     "geom:longitude":-93.17204,
@@ -32,19 +33,38 @@
         "lot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HeskpuN1TP8FkGazqqPK9_44.897133_-93.172040@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586338,
-    "wof:geomhash":"52e8cbf445ae6f599a25999255e64c6f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7be9b2a03e3a89fa395ad96ee8b8cd97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773519159
+        }
+    ],
     "wof:id":773519159,
-    "wof:lastmodified":1472630076,
+    "wof:lastmodified":1492806560,
     "wof:name":"National Garages Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

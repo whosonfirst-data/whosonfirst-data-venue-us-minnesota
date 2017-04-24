@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.28816,44.308577,-93.28816,44.308577",
     "geom:latitude":44.308577,
     "geom:longitude":-93.28816,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hto9ZY2S5McxS3nuESnxk_44.308577_-93.288160@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601606,
-    "wof:geomhash":"28c4b01cd20d11b52ff9ee9a666ca4a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f169b2fbe50a5b5f96efcda85b76295b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":806850021
+        }
+    ],
     "wof:id":806850021,
-    "wof:lastmodified":1472629896,
+    "wof:lastmodified":1492815054,
     "wof:name":"Infinia At Faribult",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

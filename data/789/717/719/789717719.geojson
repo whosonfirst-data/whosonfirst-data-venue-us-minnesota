@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.786504,45.445213,-93.786504,45.445213",
     "geom:latitude":45.445213,
     "geom:longitude":-93.786504,
@@ -31,17 +32,32 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515055,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ObUfnQChWuAoqBbdePB1P_45.445213_-93.786504@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589993,
-    "wof:geomhash":"674bc3a9f828808f7409f4eaf55e0a9c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b3067fa37d85dfbb5a4a8b63a8314dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515055,
+            "region_id":85688727,
+            "venue_id":789717719
+        }
+    ],
     "wof:id":789717719,
-    "wof:lastmodified":1472629242,
+    "wof:lastmodified":1492809894,
     "wof:name":"Southwest Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

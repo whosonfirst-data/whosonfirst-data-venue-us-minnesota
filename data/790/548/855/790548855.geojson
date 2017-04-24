@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.57994,45.583209,-93.57994,45.583209",
     "geom:latitude":45.583209,
     "geom:longitude":-93.57994,
@@ -33,17 +34,34 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512571,
+        85633793,
+        85968823,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Zdp6KKCwSOwcvf8drLzrr_45.583209_-93.579940@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596772,
-    "wof:geomhash":"81aeffb31d9b5846b57c9d646c286e25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68dfd03fb0121b3ad11472f9727701ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512571,
+            "locality_id":85968823,
+            "region_id":85688727,
+            "venue_id":790548855
+        }
+    ],
     "wof:id":790548855,
-    "wof:lastmodified":1472629827,
+    "wof:lastmodified":1492837065,
     "wof:name":"Princeton City Public Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.607215,45.310616,-95.607215,45.310616",
     "geom:latitude":45.310616,
     "geom:longitude":-95.607215,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514649,
+        85633793,
+        85968649,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06qaN7dZsDsG3b9no7tkOu_45.310616_-95.607215@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583996,
-    "wof:geomhash":"704bf02de056e848d3f70ca6c466658b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba4eff543be70dbae97cba0898fc737f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514649,
+            "locality_id":85968649,
+            "region_id":85688727,
+            "venue_id":773209951
+        }
+    ],
     "wof:id":773209951,
-    "wof:lastmodified":1472629968,
+    "wof:lastmodified":1492803450,
     "wof:name":"Manska & Sons Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

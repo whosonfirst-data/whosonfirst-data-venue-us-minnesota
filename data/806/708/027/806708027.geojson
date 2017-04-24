@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.507285,44.078466,-93.507285,44.078466",
     "geom:latitude":44.078466,
     "geom:longitude":-93.507285,
@@ -28,17 +29,34 @@
     "sg:postcode":"56093",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KBnz25TLWfYgatZXC2ACJ_44.078466_-93.507285@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600402,
-    "wof:geomhash":"96469820a0521d26b22b6a287ddf658c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc9407bb5a04d3cdbfbae2dc910e856b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":806708027
+        }
+    ],
     "wof:id":806708027,
-    "wof:lastmodified":1472629712,
+    "wof:lastmodified":1492814692,
     "wof:name":"Nelson Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.273143,44.870198,-93.273143,44.870198",
     "geom:latitude":44.870198,
     "geom:longitude":-93.273143,
@@ -33,17 +34,34 @@
         "hanging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42dsG0I6w0P01ORw0vze1m_44.869795_-93.273231@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604290,
-    "wof:geomhash":"75bb54250ad80d84a44d5124e1118373",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f929d6f55cbed3da720dbf1d5da5c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":807151791
+        }
+    ],
     "wof:id":807151791,
-    "wof:lastmodified":1472629291,
+    "wof:lastmodified":1492823391,
     "wof:name":"Rob Sutherland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.084491,44.933304,-93.084491,44.933304",
     "geom:latitude":44.933304,
     "geom:longitude":-93.084491,
@@ -32,19 +33,40 @@
     ],
     "sg:website":"www.bocachicatacohouse.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800565,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rx5TnL2y0KiCtcUoAMsFS_44.933304_-93.084491@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599504,
-    "wof:geomhash":"588738c5f5c34675cc3bdcf0818b6bc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fa3bd4a46fd1c6a1cd042c128d14f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800565,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":806601705
+        }
+    ],
     "wof:id":806601705,
-    "wof:lastmodified":1472629531,
+    "wof:lastmodified":1492821318,
     "wof:name":"Taco House",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

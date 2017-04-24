@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.114655,44.920669,-95.114655,44.920669",
     "geom:latitude":44.920669,
     "geom:longitude":-95.114655,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513951,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E4RrFdJT3oO4iDGpgNPx5_44.920669_-95.114655@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603998,
-    "wof:geomhash":"2e11e89bbefa9e5eefa5f0dc99750d3d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb21dc208fe3be09a4cfd1ea440c4753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513951,
+            "region_id":85688727,
+            "venue_id":807124775
+        }
+    ],
     "wof:id":807124775,
-    "wof:lastmodified":1472629258,
+    "wof:lastmodified":1492825182,
     "wof:name":"Paul Kleinhuizen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

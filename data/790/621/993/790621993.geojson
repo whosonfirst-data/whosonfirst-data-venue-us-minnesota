@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.535,44.093934,-92.535,44.093934",
     "geom:latitude":44.093934,
     "geom:longitude":-92.535,
@@ -33,17 +34,32 @@
         "softening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512433,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uaGr2O1dyOc2cuiTLtmDJ_44.093934_-92.535000@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597434,
-    "wof:geomhash":"f8ee3bbf6d6ca8b5fe80e3788d167d1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"449b5d4a6223513b297410a01233aff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512433,
+            "region_id":85688727,
+            "venue_id":790621993
+        }
+    ],
     "wof:id":790621993,
-    "wof:lastmodified":1472629923,
+    "wof:lastmodified":1492836344,
     "wof:name":"Clean Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

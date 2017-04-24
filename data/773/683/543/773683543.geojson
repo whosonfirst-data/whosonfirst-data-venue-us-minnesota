@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.314125,45.320118,-93.314125,45.320118",
     "geom:latitude":45.320118,
     "geom:longitude":-93.314125,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46xhHAhsAYFzkHuzqpCLra_45.320118_-93.314125@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587567,
-    "wof:geomhash":"b2fb6dacf5a4be8a73e9fc0e06508766",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f332d0ee9ebc8e32103843c02d4e6504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":773683543
+        }
+    ],
     "wof:id":773683543,
-    "wof:lastmodified":1472630129,
+    "wof:lastmodified":1492800169,
     "wof:name":"Oak Grove Plumbing Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

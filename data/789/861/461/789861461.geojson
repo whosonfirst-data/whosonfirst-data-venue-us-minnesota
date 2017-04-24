@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.85603,44.02815,-92.85603,44.02815",
     "geom:latitude":44.02815,
     "geom:longitude":-92.85603,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513731,
+        85633793,
+        85952839,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Eg6OnAbLRAUL6l4Xc4pRd_44.028150_-92.856030@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591118,
-    "wof:geomhash":"c3b8bdb23de9d2db2112a300525d2060",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ac38fee3d12fe247e4b375e17fbe4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513731,
+            "locality_id":85952839,
+            "region_id":85688727,
+            "venue_id":789861461
+        }
+    ],
     "wof:id":789861461,
-    "wof:lastmodified":1472629534,
+    "wof:lastmodified":1492811892,
     "wof:name":"Weber Law Offices",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

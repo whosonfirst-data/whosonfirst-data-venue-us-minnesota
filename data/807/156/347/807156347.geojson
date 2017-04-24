@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.412103,44.225013,-94.412103,44.225013",
     "geom:latitude":44.225013,
     "geom:longitude":-94.412103,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511583,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4evcpGiqrjHkbUyrL6JLBq_44.225013_-94.412103@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604334,
-    "wof:geomhash":"56464669e947d0d0851925b6f9fed38b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27088b762101fa950019109ff83825b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511583,
+            "region_id":85688727,
+            "venue_id":807156347
+        }
+    ],
     "wof:id":807156347,
-    "wof:lastmodified":1472629289,
+    "wof:lastmodified":1492824895,
     "wof:name":"Jerry Grathwohl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

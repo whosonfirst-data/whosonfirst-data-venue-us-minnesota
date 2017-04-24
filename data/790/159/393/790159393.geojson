@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.188914,45.014424,-96.188914,45.014424",
     "geom:latitude":45.014424,
     "geom:longitude":-96.188914,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514429,
+        85633793,
+        85968985,
+        102087677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zpziu5pSYC1mI3GDWBJmo_45.014424_-96.188914@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593588,
-    "wof:geomhash":"c0750aea463d4710bdf0ab6936c6c20a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78486ad6bee23958e5212f82bf288ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087677,
+            "localadmin_id":404514429,
+            "locality_id":85968985,
+            "region_id":85688727,
+            "venue_id":790159393
+        }
+    ],
     "wof:id":790159393,
-    "wof:lastmodified":1472629240,
+    "wof:lastmodified":1492832123,
     "wof:name":"Ann L Hoseck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

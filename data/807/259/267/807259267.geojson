@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.971247,45.317162,-92.971247,45.317162",
     "geom:latitude":45.317162,
     "geom:longitude":-92.971247,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZMmRmFFGcmHAxL2i3sMzl_45.317162_-92.971247@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605424,
-    "wof:geomhash":"54eafb966a06c50ef396d6492dd027ce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1234a96b17b9c7d9a3d2f33cff463a88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":807259267
+        }
+    ],
     "wof:id":807259267,
-    "wof:lastmodified":1472629508,
+    "wof:lastmodified":1492823819,
     "wof:name":"Bishop Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

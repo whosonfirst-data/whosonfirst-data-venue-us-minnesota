@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.111326,45.970003,-94.111326,45.970003",
     "geom:latitude":45.970003,
     "geom:longitude":-94.111326,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510041,
+        85633793,
+        85968725,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t8BDGqWLNR5CcE5fAV4QS_45.970003_-94.111326@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587358,
-    "wof:geomhash":"20ebd984b94ef803b0af45c49e9deac6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75219a3ac5c3b03fd17f99b9a4e9b7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510041,
+            "locality_id":85968725,
+            "region_id":85688727,
+            "venue_id":773654793
+        }
+    ],
     "wof:id":773654793,
-    "wof:lastmodified":1472630123,
+    "wof:lastmodified":1492807029,
     "wof:name":"Walker Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

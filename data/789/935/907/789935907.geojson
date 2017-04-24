@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.299013,46.836431,-92.299013,46.836431",
     "geom:latitude":46.836431,
     "geom:longitude":-92.299013,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804953,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85804953
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462591758,
-    "wof:geomhash":"58ca54643a34c289dfb7d47bd03f7a46",
+    "wof:geomhash":"b521431147445dc31d2ea6cd94f3ce1a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85804953,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":789935907,
-    "wof:lastmodified":1472629647,
+    "wof:lastmodified":1492812411,
     "wof:name":"Duluth Decal",
     "wof:parent_id":85804953,
     "wof:placetype":"venue",

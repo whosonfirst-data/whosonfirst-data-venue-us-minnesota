@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.33699,45.030153,-93.33699,45.030153",
     "geom:latitude":45.030153,
     "geom:longitude":-93.33699,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.minnesotadentalgroup.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511901,
+        85633793,
+        85969129,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hz8oPrY0eAtI09tHDZ7d5_45.030153_-93.336990@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462607955,
-    "wof:geomhash":"97e624bd1dc23ffc0617980b89ad8190",
-    "wof:hierarchy":[],
+    "wof:geomhash":"358e275c459f8531d52f778b19e45d9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511901,
+            "locality_id":85969129,
+            "region_id":85688727,
+            "venue_id":823172173
+        }
+    ],
     "wof:id":823172173,
-    "wof:lastmodified":1472628992,
+    "wof:lastmodified":1492828416,
     "wof:name":"Minnesota Dental Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

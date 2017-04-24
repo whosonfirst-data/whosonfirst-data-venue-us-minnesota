@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.337871,44.901297,-93.337871,44.901297",
     "geom:latitude":44.901297,
     "geom:longitude":-93.337871,
@@ -33,17 +34,34 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RcU6n65viWd0WNuuuFss0_44.901142_-93.337814@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604402,
-    "wof:geomhash":"8979d92cd02989c9c6b2ecfc9e411a2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43c88c41752c752c534781d394a2e447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":807162535
+        }
+    ],
     "wof:id":807162535,
-    "wof:lastmodified":1472629310,
+    "wof:lastmodified":1492827650,
     "wof:name":"P C Plus Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

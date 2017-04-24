@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.580622,47.100766,-94.580622,47.100766",
     "geom:latitude":47.100766,
     "geom:longitude":-94.580622,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511771,
+        85633793,
+        85968857,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PS65yJGf4G561mjvHBTkH_47.100766_-94.580622@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598928,
-    "wof:geomhash":"06530e64c4905597f28918699942101a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca95dba187c985902b92acc18401aba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511771,
+            "locality_id":85968857,
+            "region_id":85688727,
+            "venue_id":806536559
+        }
+    ],
     "wof:id":806536559,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492821505,
     "wof:name":"Platz Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

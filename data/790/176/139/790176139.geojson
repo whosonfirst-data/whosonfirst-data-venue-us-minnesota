@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.411526,44.618119,-95.411526,44.618119",
     "geom:latitude":44.618119,
     "geom:longitude":-95.411526,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510775,
+        85633793,
+        85952919,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0081rU2KeQ09pOzUotoB8A_44.618119_-95.411526@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593744,
-    "wof:geomhash":"e1b5406d3b614e9be76aea5ff634a032",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d88a77f375ecd1637b1d670c4ce49ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510775,
+            "locality_id":85952919,
+            "region_id":85688727,
+            "venue_id":790176139
+        }
+    ],
     "wof:id":790176139,
-    "wof:lastmodified":1472629241,
+    "wof:lastmodified":1492831880,
     "wof:name":"Foundation Dry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

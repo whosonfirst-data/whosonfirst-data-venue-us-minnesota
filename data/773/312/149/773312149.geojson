@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.197119,44.650823,-93.197119,44.650823",
     "geom:latitude":44.650823,
     "geom:longitude":-93.197119,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512105,
+        85633793,
+        85968489,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RD5eDrYHpOJYKlWF4M6Yz_44.650823_-93.197119@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584778,
-    "wof:geomhash":"557b28f2ce93447257c728afe9e487bb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"997df1b5f05589b70d31912abe02797e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512105,
+            "locality_id":85968489,
+            "region_id":85688727,
+            "venue_id":773312149
+        }
+    ],
     "wof:id":773312149,
-    "wof:lastmodified":1472630001,
+    "wof:lastmodified":1492806414,
     "wof:name":"David Ames & Assoc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

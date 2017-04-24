@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.315665,44.288992,-93.315665,44.288992",
     "geom:latitude":44.288992,
     "geom:longitude":-93.315665,
@@ -31,17 +32,34 @@
         "surveyor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yeblS8xUOJ3iUJrLR4Asp_44.288992_-93.315665@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584825,
-    "wof:geomhash":"923c40f90e0ae8d5d906396b548024d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50700d36b9f5d4f349b0e6706d0e7a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773317145
+        }
+    ],
     "wof:id":773317145,
-    "wof:lastmodified":1472630001,
+    "wof:lastmodified":1492805974,
     "wof:name":"Thomas Taylor & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

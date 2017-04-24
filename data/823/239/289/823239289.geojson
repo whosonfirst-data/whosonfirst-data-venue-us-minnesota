@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.011085,44.572223,-94.011085,44.572223",
     "geom:latitude":44.572223,
     "geom:longitude":-94.011085,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513891,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s7ma568m9HztNn9jQyrYR_44.572223_-94.011085@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609137,
-    "wof:geomhash":"16812906eea1221f9d80910be6751b62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10c6fdd4aa8e05ba009f9e8e323ef3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404513891,
+            "region_id":85688727,
+            "venue_id":823239289
+        }
+    ],
     "wof:id":823239289,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1492828357,
     "wof:name":"K & H Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

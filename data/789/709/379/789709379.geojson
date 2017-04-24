@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.124039,43.878271,-95.124039,43.878271",
     "geom:latitude":43.878271,
     "geom:longitude":-95.124039,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04EfXadnmeD7hpf3NDS05A_43.878271_-95.124039@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589929,
-    "wof:geomhash":"1f2c77a6c65062311e18022bff41afd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23a3e8967f29d1466b6555ed68804076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":789709379
+        }
+    ],
     "wof:id":789709379,
-    "wof:lastmodified":1472629231,
+    "wof:lastmodified":1492813769,
     "wof:name":"Amundson Burmeister Cnstr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

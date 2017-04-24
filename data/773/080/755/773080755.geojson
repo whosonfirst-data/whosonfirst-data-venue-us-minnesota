@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.026391,47.948816,-97.026391,47.948816",
     "geom:latitude":47.948816,
     "geom:longitude":-97.026391,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513699,
+        85633793,
+        85968415,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ExQOHfBiQASSAtzy4qT0q_47.948816_-97.026391@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583013,
-    "wof:geomhash":"d42515d0f7f0bcc6f1f259cf490ec733",
-    "wof:hierarchy":[],
+    "wof:geomhash":"395d9acf2edfed0bcade26e77dd61b9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513699,
+            "locality_id":85968415,
+            "region_id":85688727,
+            "venue_id":773080755
+        }
+    ],
     "wof:id":773080755,
-    "wof:lastmodified":1472629528,
+    "wof:lastmodified":1492804328,
     "wof:name":"Autogard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

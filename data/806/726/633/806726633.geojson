@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.669222,44.2935,-92.669222,44.2935",
     "geom:latitude":44.2935,
     "geom:longitude":-92.669222,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85824013,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85824013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462600557,
-    "wof:geomhash":"40878bd53b2be13aa55f2a918d7e43e8",
+    "wof:geomhash":"c0fd56d38b703971e07dd794cdaaa600",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85824013,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":806726633,
-    "wof:lastmodified":1472629759,
+    "wof:lastmodified":1492817329,
     "wof:name":"Main Street Hallmark",
     "wof:parent_id":85824013,
     "wof:placetype":"venue",

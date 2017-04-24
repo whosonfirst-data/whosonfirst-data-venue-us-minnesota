@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.257043,45.379437,-93.257043,45.379437",
     "geom:latitude":45.379437,
     "geom:longitude":-93.257043,
@@ -28,17 +29,34 @@
     "sg:postcode":"55011",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511283,
+        85633793,
+        85953399,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zIQnJvgQB8Rcobusa1qqf_45.379437_-93.257043@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599870,
-    "wof:geomhash":"147b23b5a474c389d3da20396c778c67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f12a05f576ed2a75b443dc4ee8ffa728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511283,
+            "locality_id":85953399,
+            "region_id":85688727,
+            "venue_id":806646161
+        }
+    ],
     "wof:id":806646161,
-    "wof:lastmodified":1472629610,
+    "wof:lastmodified":1492819643,
     "wof:name":"Carl Nutter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

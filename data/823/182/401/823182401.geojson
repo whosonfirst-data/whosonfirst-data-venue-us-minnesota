@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.243489,44.853722,-93.243489,44.853722",
     "geom:latitude":44.853722,
     "geom:longitude":-93.243489,
@@ -54,17 +55,34 @@
     ],
     "sg:website":"http://www.gap.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eq5riRNceFYci9GUDYJbE_44.853722_-93.243489@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608096,
-    "wof:geomhash":"e31d39c45ebfde49b58aa0cd60470801",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3cf8f095e2ab3220e382b8ffb033004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823182401
+        }
+    ],
     "wof:id":823182401,
-    "wof:lastmodified":1472629018,
+    "wof:lastmodified":1492828796,
     "wof:name":"Gap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

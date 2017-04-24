@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.074214,46.281433,-96.074214,46.281433",
     "geom:latitude":46.281433,
     "geom:longitude":-96.074214,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ki7pLx2dqgvfCvwa0XHJl_46.281433_-96.074214@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600010,
-    "wof:geomhash":"5c022224409d393387d0b3bd5db69fce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87dc39a5f27094ad68facfd4b345b334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":806660875
+        }
+    ],
     "wof:id":806660875,
-    "wof:lastmodified":1472629668,
+    "wof:lastmodified":1492821905,
     "wof:name":"South Mill Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

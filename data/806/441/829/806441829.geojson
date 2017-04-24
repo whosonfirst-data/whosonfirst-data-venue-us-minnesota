@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263712,44.981359,-93.263712,44.981359",
     "geom:latitude":44.981359,
     "geom:longitude":-93.263712,
@@ -31,12 +32,12 @@
     "wof:belongsto":[
         85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867017
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598181,
-    "wof:geomhash":"4763c64952fa2f33ce0eeed686571c3c",
+    "wof:geomhash":"6f2ddadc2324051bad842f03d88ad3f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,25 +53,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799999,
             "neighbourhood_id":85872619,
-            "region_id":85688727,
-            "venue_id":806441829
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867017,
             "region_id":85688727,
             "venue_id":806441829
         }
     ],
     "wof:id":806441829,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492822109,
     "wof:name":"Coldwell Banker",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

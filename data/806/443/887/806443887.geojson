@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.714013,47.345429,-94.714013,47.345429",
     "geom:latitude":47.345429,
     "geom:longitude":-94.714013,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509765,
+        85633793,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wEk0NJePKpkfBVyRUrN4Z_47.345429_-94.714013@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598196,
-    "wof:geomhash":"ea5cd5e452e08db26f1f094ec6989f0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62b00fa6ba19ea690e3ec3222730103a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404509765,
+            "region_id":85688727,
+            "venue_id":806443887
+        }
+    ],
     "wof:id":806443887,
-    "wof:lastmodified":1472629165,
+    "wof:lastmodified":1492817358,
     "wof:name":"John Rubash",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

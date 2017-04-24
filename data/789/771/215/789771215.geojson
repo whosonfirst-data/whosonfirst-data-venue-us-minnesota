@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.890711,45.091417,-93.890711,45.091417",
     "geom:latitude":45.091417,
     "geom:longitude":-93.890711,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515237,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rAkWcKZ4mBldharMzF06O_45.091417_-93.890711@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590410,
-    "wof:geomhash":"42bb7e37c5b5111c32e80df9cda10674",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f9046eea26a9cf014c33840d0e3ed45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515237,
+            "region_id":85688727,
+            "venue_id":789771215
+        }
+    ],
     "wof:id":789771215,
-    "wof:lastmodified":1472629328,
+    "wof:lastmodified":1492810342,
     "wof:name":"Synergy Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

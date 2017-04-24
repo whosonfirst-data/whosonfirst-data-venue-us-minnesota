@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.341938,45.890605,-95.341938,45.890605",
     "geom:latitude":45.890605,
     "geom:longitude":-95.341938,
@@ -33,17 +34,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VZCwbi8brdq2Qpp9I9ekz_45.890605_-95.341938@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586022,
-    "wof:geomhash":"cd4fd947487e51cf8c49c6f1baf8682a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a7255c7af9245393d1f12aec0d14c82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":773474903
+        }
+    ],
     "wof:id":773474903,
-    "wof:lastmodified":1472630070,
+    "wof:lastmodified":1492807246,
     "wof:name":"B & H Self Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

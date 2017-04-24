@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.551359,44.169391,-92.551359,44.169391",
     "geom:latitude":44.169391,
     "geom:longitude":-92.551359,
@@ -32,17 +33,34 @@
         "mower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512583,
+        85633793,
+        85953507,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45h8xZxSOMAoXSF1IPmWi7_44.169391_-92.551359@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582636,
-    "wof:geomhash":"fd5dc831ffea5777667ce778a5767381",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0abb58daedb2706e2301b88129a98a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512583,
+            "locality_id":85953507,
+            "region_id":85688727,
+            "venue_id":773036995
+        }
+    ],
     "wof:id":773036995,
-    "wof:lastmodified":1472629412,
+    "wof:lastmodified":1492807401,
     "wof:name":"Power Equipment Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

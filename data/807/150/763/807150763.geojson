@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.139451,44.773174,-94.139451,44.773174",
     "geom:latitude":44.773174,
     "geom:longitude":-94.139451,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"http://www.telex.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YyBovHMSwjIlAkr0d6Lrd_44.773095_-94.139539@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604281,
-    "wof:geomhash":"5b5c9e72fee3b63d96fa439109c09eb1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b3cceb130bf7e2b65fde9488987d38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":807150763
+        }
+    ],
     "wof:id":807150763,
-    "wof:lastmodified":1472629302,
+    "wof:lastmodified":1492826788,
     "wof:name":"Telex Communication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.261335,44.065212,-95.261335,44.065212",
     "geom:latitude":44.065212,
     "geom:longitude":-95.261335,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512005,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lL2R3wo9CtiokhZo2pYEl_44.065212_-95.261335@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604540,
-    "wof:geomhash":"440969d5f52ed3b09b7ea2380d36840d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae155dcac774e22cdb7aa5d2027742ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512005,
+            "region_id":85688727,
+            "venue_id":807175405
+        }
+    ],
     "wof:id":807175405,
-    "wof:lastmodified":1472629344,
+    "wof:lastmodified":1492825293,
     "wof:name":"Johnson Lyndon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

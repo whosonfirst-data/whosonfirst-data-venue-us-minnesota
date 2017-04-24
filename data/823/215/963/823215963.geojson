@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.471931,45.000999,-93.471931,45.000999",
     "geom:latitude":45.000999,
     "geom:longitude":-93.471931,
@@ -49,17 +50,34 @@
     ],
     "sg:website":"http://www.skarnes.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SAg7b06KNdNmheSPQ9SVz_45.000999_-93.471931@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608642,
-    "wof:geomhash":"ec29bc275cd682c268e41452fdb4b400",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a0e2746410d6d13725955130170d9d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823215963
+        }
+    ],
     "wof:id":823215963,
-    "wof:lastmodified":1472629119,
+    "wof:lastmodified":1492830663,
     "wof:name":"Skarnes Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

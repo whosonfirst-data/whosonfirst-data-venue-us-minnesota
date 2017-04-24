@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.34741,46.001051,-94.34741,46.001051",
     "geom:latitude":46.001051,
     "geom:longitude":-94.34741,
@@ -31,17 +32,34 @@
         "veterinarian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wq54tKthj2g89CmBsYQY8_46.001051_-94.347410@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598228,
-    "wof:geomhash":"4827f203a2ddeadfca4e0a0e1b0df218",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62544b7e4fd1531cfce212c50866125a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":806447603
+        }
+    ],
     "wof:id":806447603,
-    "wof:lastmodified":1472629159,
+    "wof:lastmodified":1492819868,
     "wof:name":"Minnesota Veterinary Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

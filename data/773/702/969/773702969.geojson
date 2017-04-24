@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.156467,46.732537,-95.156467,46.732537",
     "geom:latitude":46.732537,
     "geom:longitude":-95.156467,
@@ -32,17 +33,32 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514823,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YA0sfW2ikp7xlGkKc4dnQ_46.732537_-95.156467@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587746,
-    "wof:geomhash":"5d0107bfb6972af7f2817ccc8413a593",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af6945099b0b6fc59bbffe088ef2d988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514823,
+            "region_id":85688727,
+            "venue_id":773702969
+        }
+    ],
     "wof:id":773702969,
-    "wof:lastmodified":1472630137,
+    "wof:lastmodified":1492803188,
     "wof:name":"Haverinen Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

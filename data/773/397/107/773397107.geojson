@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.464583,44.019568,-92.464583,44.019568",
     "geom:latitude":44.019568,
     "geom:longitude":-92.464583,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5USsracdtmDhKhZOMTneMp_44.019568_-92.464583@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585379,
-    "wof:geomhash":"fb01f556eb9bd3a4bf282febc8cf12c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d7871b2ad5af345059a35bcde7cc2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773397107
+        }
+    ],
     "wof:id":773397107,
-    "wof:lastmodified":1472630039,
+    "wof:lastmodified":1492805757,
     "wof:name":"Newbridge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.93448,43.631849,-95.93448,43.631849",
     "geom:latitude":43.631849,
     "geom:longitude":-95.93448,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513483,
+        85633793,
+        85968701,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KN7Wl1TNzD03j2YuwP3M5_43.631849_-95.934480@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600093,
-    "wof:geomhash":"6e68da824f2302fa90da82e836f3a453",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6abf6b3e37fb5de9d69bd9dfb9cfa401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404513483,
+            "locality_id":85968701,
+            "region_id":85688727,
+            "venue_id":806671163
+        }
+    ],
     "wof:id":806671163,
-    "wof:lastmodified":1472629651,
+    "wof:lastmodified":1492813889,
     "wof:name":"Prairie Winds Zoo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

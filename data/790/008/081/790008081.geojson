@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.266576,47.886458,-96.266576,47.886458",
     "geom:latitude":47.886458,
     "geom:longitude":-96.266576,
@@ -32,17 +33,34 @@
         "intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512117,
+        85633793,
+        85952903,
+        102087755
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tSlxj2QW4GJGF1ZzRvfdX_47.886458_-96.266576@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592394,
-    "wof:geomhash":"165d797afa845267d28ca5d87315929f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"43297225cc416812694117ff55bf8863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087755,
+            "localadmin_id":404512117,
+            "locality_id":85952903,
+            "region_id":85688727,
+            "venue_id":790008081
+        }
+    ],
     "wof:id":790008081,
-    "wof:lastmodified":1472628931,
+    "wof:lastmodified":1492833832,
     "wof:name":"Hillcrest Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

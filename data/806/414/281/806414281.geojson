@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539853,47.461359,-92.539853,47.461359",
     "geom:latitude":47.461359,
     "geom:longitude":-92.539853,
@@ -37,17 +38,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02XPcnm1aX1QE6Xuk5J6Bo_47.461359_-92.539853@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597969,
-    "wof:geomhash":"57cd5f5f7eb7c818fae138706563ee12",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9edc480525079ccee749af5d24926e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806414281
+        }
+    ],
     "wof:id":806414281,
-    "wof:lastmodified":1472629083,
+    "wof:lastmodified":1492815856,
     "wof:name":"Koski Drywall and Painting",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.170845,45.029028,-93.170845,45.029028",
     "geom:latitude":45.029028,
     "geom:longitude":-93.170845,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R4icWvgvlMWERT1AQwFkz_45.029028_-93.170845@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583442,
-    "wof:geomhash":"2f259f8eb271078b6acf670cd68165bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4eb2ec0977ff2cff56df7addcd3a457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":773140827
+        }
+    ],
     "wof:id":773140827,
-    "wof:lastmodified":1472629702,
+    "wof:lastmodified":1492806090,
     "wof:name":"Living Waters Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

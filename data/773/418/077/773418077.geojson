@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.191545,45.010347,-96.191545,45.010347",
     "geom:latitude":45.010347,
     "geom:longitude":-96.191545,
@@ -32,17 +33,34 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514429,
+        85633793,
+        85968985,
+        102087677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KsfGD1vEjxIs7lShuiy3B_45.010347_-96.191545@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585559,
-    "wof:geomhash":"4c28fda51ad97943961ffe6856494186",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cf5e264b3e8d9e8b1678cdae638680e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087677,
+            "localadmin_id":404514429,
+            "locality_id":85968985,
+            "region_id":85688727,
+            "venue_id":773418077
+        }
+    ],
     "wof:id":773418077,
-    "wof:lastmodified":1472630047,
+    "wof:lastmodified":1492808252,
     "wof:name":"Madison Swimming Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

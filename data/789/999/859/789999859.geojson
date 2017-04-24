@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.049142,44.93896,-93.049142,44.93896",
     "geom:latitude":44.93896,
     "geom:longitude":-93.049142,
@@ -32,19 +33,38 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800705,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JPczQMVavjyHx7NEmcdA6_44.938960_-93.049142@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592328,
-    "wof:geomhash":"ba59cc08af6816d790ec1eae14e55f7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13ac9059ed6dcdf8474efe0afb63eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800705,
+            "region_id":85688727,
+            "venue_id":789999859
+        }
+    ],
     "wof:id":789999859,
-    "wof:lastmodified":1472629692,
+    "wof:lastmodified":1492811882,
     "wof:name":"Westway Trading Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

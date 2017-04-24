@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.043114,44.184148,-94.043114,44.184148",
     "geom:latitude":44.184148,
     "geom:longitude":-94.043114,
@@ -31,17 +32,34 @@
         "parks"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gF5YZAVy2OAgQIlCD6zOY_44.184148_-94.043114@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591974,
-    "wof:geomhash":"804fee06b71a722886083b1cd17789a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f89f68221252ffaf740b83515f47976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":789956989
+        }
+    ],
     "wof:id":789956989,
-    "wof:lastmodified":1472629660,
+    "wof:lastmodified":1492810710,
     "wof:name":"North Mankato Caswell Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

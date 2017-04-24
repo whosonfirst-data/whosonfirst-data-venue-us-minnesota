@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.617367,44.735266,-94.617367,44.735266",
     "geom:latitude":44.735266,
     "geom:longitude":-94.617367,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512459,
+        85633793,
+        85969057,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lVzEYluI79BG1kOWDeHGI_44.735266_-94.617367@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591656,
-    "wof:geomhash":"61b671c2c04a1a30b04bd1d81cb1f091",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7d24baae3893dd374f1a7f3bdbae7b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512459,
+            "locality_id":85969057,
+            "region_id":85688727,
+            "venue_id":789923927
+        }
+    ],
     "wof:id":789923927,
-    "wof:lastmodified":1472629627,
+    "wof:lastmodified":1492813112,
     "wof:name":"Buffalo Lake City Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

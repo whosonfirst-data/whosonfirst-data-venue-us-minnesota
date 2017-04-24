@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.618402,44.043705,-91.618402,44.043705",
     "geom:latitude":44.043705,
     "geom:longitude":-91.618402,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HsNNV45d8PDKRelKvHwxx_44.043705_-91.618402@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582387,
-    "wof:geomhash":"3854b1d0bc1c10d751df19cf4460730f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcaef6f78e8d422cf81d6712777c715d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":773014529
+        }
+    ],
     "wof:id":773014529,
-    "wof:lastmodified":1472628989,
+    "wof:lastmodified":1492801188,
     "wof:name":"Tile Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

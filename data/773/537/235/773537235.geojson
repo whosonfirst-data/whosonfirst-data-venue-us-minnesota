@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.872412,46.780336,-95.872412,46.780336",
     "geom:latitude":46.780336,
     "geom:longitude":-95.872412,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511339,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yIobNlassEF80CcAMNcK6_46.780336_-95.872412@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586460,
-    "wof:geomhash":"80c72a2d036c09c34f99cab82cf2eb4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b34cf734d4d227b6597b1c361cf7fe5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511339,
+            "region_id":85688727,
+            "venue_id":773537235
+        }
+    ],
     "wof:id":773537235,
-    "wof:lastmodified":1472630085,
+    "wof:lastmodified":1492808359,
     "wof:name":"Francis Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.149907,43.935763,-96.149907,43.935763",
     "geom:latitude":43.935763,
     "geom:longitude":-96.149907,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513509,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63QxG0lC4AWxIGsn709xaL_43.935763_-96.149907@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604618,
-    "wof:geomhash":"8f72d55a2cbca7742bb3e9dbca30eb0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bb1e3da2525df4258d60afcd817212f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513509,
+            "region_id":85688727,
+            "venue_id":807183347
+        }
+    ],
     "wof:id":807183347,
-    "wof:lastmodified":1472629359,
+    "wof:lastmodified":1492826983,
     "wof:name":"Larry Boelman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

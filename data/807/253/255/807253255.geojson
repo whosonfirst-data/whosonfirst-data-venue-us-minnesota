@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.256523,44.0751,-93.256523,44.0751",
     "geom:latitude":44.0751,
     "geom:longitude":-93.256523,
@@ -32,17 +33,34 @@
         "government-county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mcU7LkVXRFid6Y6oA6Fwm_44.075100_-93.256523@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605361,
-    "wof:geomhash":"fd7508dcda4c7d31e84d9d2435453e1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22af943f32b3fd7b439e6404e4e48d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":807253255
+        }
+    ],
     "wof:id":807253255,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492824606,
     "wof:name":"Steele Detention Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

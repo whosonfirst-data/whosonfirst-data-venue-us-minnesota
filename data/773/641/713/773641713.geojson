@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.474001,43.644424,-94.474001,43.644424",
     "geom:latitude":43.644424,
     "geom:longitude":-94.474001,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514005,
+        85633793,
+        85953127,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pzkpXYxLfHP9txJ4K1vhG_43.644424_-94.474001@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587260,
-    "wof:geomhash":"66b835691bb55347707fbdcf5c03cf6c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ff3c150c06d46ebbefb60737482a5dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514005,
+            "locality_id":85953127,
+            "region_id":85688727,
+            "venue_id":773641713
+        }
+    ],
     "wof:id":773641713,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492804466,
     "wof:name":"Steve Terhark Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.333446,44.763972,-93.333446,44.763972",
     "geom:latitude":44.763972,
     "geom:longitude":-93.333446,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510739,
+        85633793,
+        85952533,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s1oolyzr90DzFfcBhOI8X_44.763972_-93.333446@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594653,
-    "wof:geomhash":"322094bbac6f47ded877221ae8e7c3e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bacb3a57882bce95c8ab29c70ab985cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404510739,
+            "locality_id":85952533,
+            "region_id":85688727,
+            "venue_id":790285947
+        }
+    ],
     "wof:id":790285947,
-    "wof:lastmodified":1472629476,
+    "wof:lastmodified":1492831418,
     "wof:name":"Independent Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

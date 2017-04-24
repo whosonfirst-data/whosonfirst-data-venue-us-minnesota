@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.106517,44.534076,-95.106517,44.534076",
     "geom:latitude":44.534076,
     "geom:longitude":-95.106517,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512313,
+        85633793,
+        85968817,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Gy3qVmDByYyKSfKapGjyO_44.534076_-95.106517@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599405,
-    "wof:geomhash":"7501de2b970cbc400a51c0730722aeb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6269172f077d7fbf641352940c43f4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512313,
+            "locality_id":85968817,
+            "region_id":85688727,
+            "venue_id":806590839
+        }
+    ],
     "wof:id":806590839,
-    "wof:lastmodified":1472629513,
+    "wof:lastmodified":1492816838,
     "wof:name":"Charles Schoenberg Phone Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

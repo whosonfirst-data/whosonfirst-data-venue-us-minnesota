@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.251786,44.203765,-93.251786,44.203765",
     "geom:latitude":44.203765,
     "geom:longitude":-93.251786,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512759,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NXFmi4AJkiL1Vn85eOyuE_44.203765_-93.251786@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586068,
-    "wof:geomhash":"a8ecf03f8c4a438b5973a91e9cc8308c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6231453efd9238b96071583fa3c65890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512759,
+            "region_id":85688727,
+            "venue_id":773479115
+        }
+    ],
     "wof:id":773479115,
-    "wof:lastmodified":1472630065,
+    "wof:lastmodified":1492799934,
     "wof:name":"Maas Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

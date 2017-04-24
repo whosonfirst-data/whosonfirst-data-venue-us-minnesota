@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.496281,45.079897,-94.496281,45.079897",
     "geom:latitude":45.079897,
     "geom:longitude":-94.496281,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512387,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pT97Kv7YU1uBVX07OVjEy_45.079897_-94.496281@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593762,
-    "wof:geomhash":"0a24df9fd3b642e1f5a19f03e93bf2c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32f6d43d37673976edfe678e24b9828a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512387,
+            "region_id":85688727,
+            "venue_id":790178695
+        }
+    ],
     "wof:id":790178695,
-    "wof:lastmodified":1472629266,
+    "wof:lastmodified":1492832873,
     "wof:name":"Anderson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

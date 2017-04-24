@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.29315,45.44294,-94.29315,45.44294",
     "geom:latitude":45.44294,
     "geom:longitude":-94.29315,
@@ -28,17 +29,34 @@
     "sg:postcode":"56301",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514485,
+        85633793,
+        85952485,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RfzjFXtPRIcGEq3Jai3Rf_45.442940_-94.293150@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590948,
-    "wof:geomhash":"a86687fe5512a44c3b7401a5a7761624",
-    "wof:hierarchy":[],
+    "wof:geomhash":"874719b710021671b605a2ce9110e005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514485,
+            "locality_id":85952485,
+            "region_id":85688727,
+            "venue_id":789840235
+        }
+    ],
     "wof:id":789840235,
-    "wof:lastmodified":1472629452,
+    "wof:lastmodified":1492812279,
     "wof:name":"James Heinen Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

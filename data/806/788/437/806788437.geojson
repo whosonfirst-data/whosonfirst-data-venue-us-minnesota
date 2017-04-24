@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.714272,46.706377,-95.714272,46.706377",
     "geom:latitude":46.706377,
     "geom:longitude":-95.714272,
@@ -33,17 +34,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512889,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FIzOtJYDqMcxkVuzvHRTk_46.706377_-95.714272@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601092,
-    "wof:geomhash":"5640a8033994d3de603919cb4f781a0c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8feaa917d874e5f26194748ee52e0026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512889,
+            "region_id":85688727,
+            "venue_id":806788437
+        }
+    ],
     "wof:id":806788437,
-    "wof:lastmodified":1472629823,
+    "wof:lastmodified":1492814884,
     "wof:name":"New Horizons Home For The Eldr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

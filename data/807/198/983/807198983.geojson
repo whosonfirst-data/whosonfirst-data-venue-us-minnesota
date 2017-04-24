@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.045455,45.28955,-94.045455,45.28955",
     "geom:latitude":45.28955,
     "geom:longitude":-94.045455,
@@ -29,17 +30,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515199,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71BE4Z0ibrXTr8tMi1UFjk_45.289550_-94.045455@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604788,
-    "wof:geomhash":"72df1b7f1eb243c492c71ffd28eb1ca1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aea3dc2af06b2c8741fe724c35b0f17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515199,
+            "region_id":85688727,
+            "venue_id":807198983
+        }
+    ],
     "wof:id":807198983,
-    "wof:lastmodified":1472629416,
+    "wof:lastmodified":1492826988,
     "wof:name":"Dearing John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

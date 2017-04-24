@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.273254,44.865867,-93.273254,44.865867",
     "geom:latitude":44.865867,
     "geom:longitude":-93.273254,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tu69PEmXXCygxIBCahg7h_44.865867_-93.273254@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589054,
-    "wof:geomhash":"efe21f7cda481ed307125e82ccdecce8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4f227c438befb470daf232f3ad5bceb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":789598723
+        }
+    ],
     "wof:id":789598723,
-    "wof:lastmodified":1472628966,
+    "wof:lastmodified":1492811599,
     "wof:name":"Social Ties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

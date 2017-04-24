@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.148556,44.725974,-93.148556,44.725974",
     "geom:latitude":44.725974,
     "geom:longitude":-93.148556,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511991,
+        85633793,
+        85968455,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PnXrfiohIvE9Zz6OmqaXl_44.725974_-93.148556@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595165,
-    "wof:geomhash":"3802079e63ac3f485e24cc2cf9dc129b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14a19f76c63c954234e53274e32437bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404511991,
+            "locality_id":85968455,
+            "region_id":85688727,
+            "venue_id":790353563
+        }
+    ],
     "wof:id":790353563,
-    "wof:lastmodified":1472629561,
+    "wof:lastmodified":1492831876,
     "wof:name":"Margaret Tufte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

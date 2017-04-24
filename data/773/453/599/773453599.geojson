@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.004859,45.341201,-93.004859,45.341201",
     "geom:latitude":45.341201,
     "geom:longitude":-93.004859,
@@ -31,17 +32,34 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qfmQPyBSTB2Xm8QOQpa0C_45.341201_-93.004859@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585866,
-    "wof:geomhash":"311fa935bc497373043e2abd112bb531",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21a7ea58a14972b0baa0efbf36ae48c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":773453599
+        }
+    ],
     "wof:id":773453599,
-    "wof:lastmodified":1472630062,
+    "wof:lastmodified":1492799818,
     "wof:name":"Diane Blair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

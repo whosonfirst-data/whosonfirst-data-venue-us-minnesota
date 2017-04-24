@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.258569,45.012097,-93.258569,45.012097",
     "geom:latitude":45.012097,
     "geom:longitude":-93.258569,
@@ -32,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800097,
         85872675,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598660,
-    "wof:geomhash":"a62fe9f28e9d427ee9e7b1e83df10c0d",
+    "wof:geomhash":"30b63377d464a9d44546a90909a855ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,15 +57,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108800001,
+            "microhood_id":1108800097,
             "neighbourhood_id":85872675,
             "region_id":85688727,
             "venue_id":806503409
         }
     ],
     "wof:id":806503409,
-    "wof:lastmodified":1472629312,
+    "wof:lastmodified":1492815833,
     "wof:name":"Architectural Drafting Svc",
-    "wof:parent_id":85872675,
+    "wof:parent_id":1108800097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.962836,45.717291,-92.962836,45.717291",
     "geom:latitude":45.717291,
     "geom:longitude":-92.962836,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511025,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k2Y6ddsF4wsDbMFnaxqXD_45.717291_-92.962836@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586872,
-    "wof:geomhash":"fa142b3e0acf490bd72d4a2aaba0c5f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"569287d1e23f30c641ca844ad63ed041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511025,
+            "region_id":85688727,
+            "venue_id":773589963
+        }
+    ],
     "wof:id":773589963,
-    "wof:lastmodified":1472630102,
+    "wof:lastmodified":1492805954,
     "wof:name":"Sweathog Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.198113,45.058828,-93.198113,45.058828",
     "geom:latitude":45.058828,
     "geom:longitude":-93.198113,
@@ -32,17 +33,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jfa1bOcLlrg52BcIQsDfJ_45.058828_-93.198113@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600868,
-    "wof:geomhash":"6499198ba3727267f0a39613177a63e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d72fb0c12ae6d29c6367689d8b71e813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":806762543
+        }
+    ],
     "wof:id":806762543,
-    "wof:lastmodified":1472629798,
+    "wof:lastmodified":1492815511,
     "wof:name":"Mobil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

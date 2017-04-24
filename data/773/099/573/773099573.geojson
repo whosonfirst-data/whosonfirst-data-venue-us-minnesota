@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.160801,45.267868,-94.160801,45.267868",
     "geom:latitude":45.267868,
     "geom:longitude":-94.160801,
@@ -33,17 +34,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515255,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mD7cr35d7Gyy0sCNBEPzg_45.267868_-94.160801@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583148,
-    "wof:geomhash":"5483f45aee8976a8499efb9e767b97f6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f046c5c014dd58dfd79e8c128a4748b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515255,
+            "region_id":85688727,
+            "venue_id":773099573
+        }
+    ],
     "wof:id":773099573,
-    "wof:lastmodified":1472629600,
+    "wof:lastmodified":1492808887,
     "wof:name":"Outdoor Fitness Experience",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

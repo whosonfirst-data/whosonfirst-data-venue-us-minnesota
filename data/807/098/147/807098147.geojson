@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.368281,45.137932,-94.368281,45.137932",
     "geom:latitude":45.137932,
     "geom:longitude":-94.368281,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512393,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MvMaUIZujrDJjbc5obsNP_45.137932_-94.368281@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603700,
-    "wof:geomhash":"c262e4a4abaa22fa69144e2a862370e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee191d0e71f24c83fab18703bb0d20b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512393,
+            "region_id":85688727,
+            "venue_id":807098147
+        }
+    ],
     "wof:id":807098147,
-    "wof:lastmodified":1472629182,
+    "wof:lastmodified":1492827296,
     "wof:name":"Jerry Schaefer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

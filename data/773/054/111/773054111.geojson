@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.054586,46.325295,-95.054586,46.325295",
     "geom:latitude":46.325295,
     "geom:longitude":-95.054586,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514737,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bddmAl1AB2Gp41jSQsKF8_46.325295_-95.054586@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582796,
-    "wof:geomhash":"90efcd88b8ef20cb37a6c2bcc7a3f80f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56a64c0eae84aabb2a9388df1f2199ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514737,
+            "region_id":85688727,
+            "venue_id":773054111
+        }
+    ],
     "wof:id":773054111,
-    "wof:lastmodified":1472629395,
+    "wof:lastmodified":1492802598,
     "wof:name":"Dixon & Dixon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

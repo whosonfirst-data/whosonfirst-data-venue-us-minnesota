@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.182739,44.914256,-93.182739,44.914256",
     "geom:latitude":44.914256,
     "geom:longitude":-93.182739,
@@ -28,19 +29,38 @@
     "sg:postcode":"55116",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wZUXEM6mdvfi8DVn7nkqy_44.914256_-93.182739@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595071,
-    "wof:geomhash":"7ca11e2599236b5cc0a361c41a0fe7d4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7d77ae1c3719d56bd64b59b7191ab97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":790341285
+        }
+    ],
     "wof:id":790341285,
-    "wof:lastmodified":1472629530,
+    "wof:lastmodified":1492832962,
     "wof:name":"Reidy Terry A Reidy Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

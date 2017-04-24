@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.791451,45.285762,-93.791451,45.285762",
     "geom:latitude":45.285762,
     "geom:longitude":-93.791451,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kXfOT0H38x2B0ll1SMY45_45.285762_-93.791451@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590666,
-    "wof:geomhash":"8a390898c69636a4c849308ec22533bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c04b8f934f89b8501577041bc60ec2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":789803765
+        }
+    ],
     "wof:id":789803765,
-    "wof:lastmodified":1472629392,
+    "wof:lastmodified":1492813524,
     "wof:name":"Shore Nuff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

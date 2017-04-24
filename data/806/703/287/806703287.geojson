@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.898568,45.67664,-92.898568,45.67664",
     "geom:latitude":45.67664,
     "geom:longitude":-92.898568,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511025,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tljrkvWJ1TIdcGdpr6AiC_45.676640_-92.898568@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600363,
-    "wof:geomhash":"5617386dbe47ee5ed88e973097131f93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5cfc0ec6fe501330c78a7b41ce3f6cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511025,
+            "region_id":85688727,
+            "venue_id":806703287
+        }
+    ],
     "wof:id":806703287,
-    "wof:lastmodified":1472629715,
+    "wof:lastmodified":1492816426,
     "wof:name":"Gt Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

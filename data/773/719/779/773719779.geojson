@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.574547,44.988316,-93.574547,44.988316",
     "geom:latitude":44.988316,
     "geom:longitude":-93.574547,
@@ -31,17 +32,45 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511895,
+        85633793,
+        85969145,
+        102087709,
+        404509451,
+        85969193
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JugjOIh3sNfiuEx45ifwC_44.988316_-93.574547@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587869,
-    "wof:geomhash":"2e9ca140c87dc2905499b51b3a6f9c54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"994f9653c0cde36e7caf53eab2561b9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511895,
+            "locality_id":85969145,
+            "region_id":85688727,
+            "venue_id":773719779
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509451,
+            "locality_id":85969193,
+            "region_id":85688727,
+            "venue_id":773719779
+        }
+    ],
     "wof:id":773719779,
-    "wof:lastmodified":1472630141,
+    "wof:lastmodified":1492807309,
     "wof:name":"Budget Printing & Awards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

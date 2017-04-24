@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.202749,43.66469,-96.202749,43.66469",
     "geom:latitude":43.66469,
     "geom:longitude":-96.202749,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512779,
+        85633793,
+        85968777,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZaKEbSWIdW5ZvIMznTBP6_43.664690_-96.202749@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600024,
-    "wof:geomhash":"83c2664440923f8a09b32832d123938e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"acf972a9aa5c1c993772b50bb793e2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512779,
+            "locality_id":85968777,
+            "region_id":85688727,
+            "venue_id":806662799
+        }
+    ],
     "wof:id":806662799,
-    "wof:lastmodified":1472629664,
+    "wof:lastmodified":1492818857,
     "wof:name":"Mann Joleah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

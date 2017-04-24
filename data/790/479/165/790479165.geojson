@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.804811,44.790611,-95.804811,44.790611",
     "geom:latitude":44.790611,
     "geom:longitude":-95.804811,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510773,
+        85633793,
+        85952923,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b99BFaGZIb3jNPgWRPyPX_44.790611_-95.804811@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596183,
-    "wof:geomhash":"7d71a7778fe6bd2788c09b3cdab83936",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cec992e46fc6a09d75b8d14ef83c188f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404510773,
+            "locality_id":85952923,
+            "region_id":85688727,
+            "venue_id":790479165
+        }
+    ],
     "wof:id":790479165,
-    "wof:lastmodified":1472629758,
+    "wof:lastmodified":1492831903,
     "wof:name":"Clarkfield Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

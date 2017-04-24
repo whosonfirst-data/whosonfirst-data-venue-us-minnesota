@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.818402,45.02203,-95.818402,45.02203",
     "geom:latitude":45.02203,
     "geom:longitude":-95.818402,
@@ -36,17 +37,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511101,
+        85633793,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vNQHyzdrIOmP2hisaAsrJ_45.022030_-95.818402@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609285,
-    "wof:geomhash":"6b68f1c97889f08bd57b418e2b55b241",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b4175f7eac26d915b02989ef93f1a9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404511101,
+            "region_id":85688727,
+            "venue_id":823247455
+        }
+    ],
     "wof:id":823247455,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492829632,
     "wof:name":"Allen Andrews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

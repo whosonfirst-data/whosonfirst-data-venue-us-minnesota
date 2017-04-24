@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.612226,47.328028,-92.612226,47.328028",
     "geom:latitude":47.328028,
     "geom:longitude":-92.612226,
@@ -31,17 +32,26 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UmfaZjL9lNe5KjeYRFreI_47.328028_-92.612226@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592104,
-    "wof:geomhash":"fc7926f2009000eb05f7a1756ab61cda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"458244e533a277ed6aa2b64c0f9ad306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789972501
+        }
+    ],
     "wof:id":789972501,
-    "wof:lastmodified":1472629680,
+    "wof:lastmodified":1492811519,
     "wof:name":"Royal Cafe",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

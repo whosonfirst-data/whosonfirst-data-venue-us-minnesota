@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.771141,44.948865,-93.771141,44.948865",
     "geom:latitude":44.948865,
     "geom:longitude":-93.771141,
@@ -31,17 +32,32 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511611,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3881eByTEjUMdHrSsreW4s_44.948865_-93.771141@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601992,
-    "wof:geomhash":"93d4c6b47dde40da3f67e8c672cfb376",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c261b7a3d93f07a899d7cb70080afc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511611,
+            "region_id":85688727,
+            "venue_id":806897533
+        }
+    ],
     "wof:id":806897533,
-    "wof:lastmodified":1472629926,
+    "wof:lastmodified":1492817018,
     "wof:name":"Timber Creek Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

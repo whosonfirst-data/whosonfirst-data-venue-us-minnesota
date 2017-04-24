@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.050819,44.883394,-94.050819,44.883394",
     "geom:latitude":44.883394,
     "geom:longitude":-94.050819,
@@ -31,17 +32,32 @@
         "fertilizer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509749,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aX1sGVNtnpdnZOFEVw87Y_44.883394_-94.050819@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597855,
-    "wof:geomhash":"144367ac0e7913643675787341ea0db0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db7d91bf62b182065cd246df92816230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509749,
+            "region_id":85688727,
+            "venue_id":806402267
+        }
+    ],
     "wof:id":806402267,
-    "wof:lastmodified":1472629048,
+    "wof:lastmodified":1492818098,
     "wof:name":"Hutchinson Co-Op",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.043285,44.884549,-94.043285,44.884549",
     "geom:latitude":44.884549,
     "geom:longitude":-94.043285,
@@ -28,17 +29,34 @@
     "sg:postcode":"55354",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509749,
+        85633793,
+        85952559,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MtgNxY6OfBuIGcSJWROUX_44.884549_-94.043285@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595869,
-    "wof:geomhash":"ffe9d33909fdee6eea76682330014740",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de5c909f9a9a5267283cbc517a321e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404509749,
+            "locality_id":85952559,
+            "region_id":85688727,
+            "venue_id":790443237
+        }
+    ],
     "wof:id":790443237,
-    "wof:lastmodified":1472629709,
+    "wof:lastmodified":1492834070,
     "wof:name":"Port Hole",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

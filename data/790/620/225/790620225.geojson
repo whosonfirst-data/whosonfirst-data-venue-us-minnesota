@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.140717,45.124205,-93.140717,45.124205",
     "geom:latitude":45.124205,
     "geom:longitude":-93.140717,
@@ -31,19 +32,38 @@
         "ornamental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85827571,
+        102191575,
+        404511275,
+        85633793,
+        85953007,
+        102087861,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nZO1BVWw3vZxk0fqK6mzS_45.124205_-93.140717@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597415,
-    "wof:geomhash":"8a27b8e227b07e5f2f4084d6e14c8424",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b47b4e280ce53d78e0ca16b53b9f704e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511275,
+            "locality_id":85953007,
+            "neighbourhood_id":85827571,
+            "region_id":85688727,
+            "venue_id":790620225
+        }
+    ],
     "wof:id":790620225,
-    "wof:lastmodified":1472629916,
+    "wof:lastmodified":1492835773,
     "wof:name":"Baldwin Lake Perennials",
-    "wof:parent_id":-1,
+    "wof:parent_id":85827571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

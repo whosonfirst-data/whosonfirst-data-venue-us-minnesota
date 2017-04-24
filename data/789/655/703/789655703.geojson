@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.999575,45.423801,-92.999575,45.423801",
     "geom:latitude":45.423801,
     "geom:longitude":-92.999575,
@@ -31,17 +32,32 @@
         "daycare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ngDXQB6hhXiyuEXH19Z6C_45.423801_-92.999575@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589499,
-    "wof:geomhash":"f6cc586bd1da6f49a501e7e77660a234",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca584d99a7e48a1208f8866a8e3fd9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":789655703
+        }
+    ],
     "wof:id":789655703,
-    "wof:lastmodified":1472629094,
+    "wof:lastmodified":1492813795,
     "wof:name":"Country Home Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

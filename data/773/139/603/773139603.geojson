@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.400735,47.465843,-92.400735,47.465843",
     "geom:latitude":47.465843,
     "geom:longitude":-92.400735,
@@ -33,17 +34,26 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58hBkhvxRcdlS8KA5aRMQR_47.465843_-92.400735@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583434,
-    "wof:geomhash":"4a89888da423560fc70d9fe03d114c79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59fc90eff0ab1d5a85e87911326f99c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":773139603
+        }
+    ],
     "wof:id":773139603,
-    "wof:lastmodified":1472629697,
+    "wof:lastmodified":1492799789,
     "wof:name":"Chucks Vacuum Service",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

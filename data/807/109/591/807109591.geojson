@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.799249,43.892095,-95.799249,43.892095",
     "geom:latitude":43.892095,
     "geom:longitude":-95.799249,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513185,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EXvfXmUuf74ARHdE3j3ku_43.892095_-95.799249@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603830,
-    "wof:geomhash":"b12f2a1e9805e18d1d28272f2972b5b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec4dde1d4f74ec3937fd9d2d25a1a201",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513185,
+            "region_id":85688727,
+            "venue_id":807109591
+        }
+    ],
     "wof:id":807109591,
-    "wof:lastmodified":1472629216,
+    "wof:lastmodified":1492826887,
     "wof:name":"David Halbur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.871644,44.74348,-92.871644,44.74348",
     "geom:latitude":44.74348,
     "geom:longitude":-92.871644,
@@ -32,17 +33,34 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aen44ff8trp37s3roqk64_44.743480_-92.871644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599853,
-    "wof:geomhash":"7dd8cf8635c9c82bbcd342c796dcbdba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"738af9e096305ae26c3f7cf0dcf42e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":806644235
+        }
+    ],
     "wof:id":806644235,
-    "wof:lastmodified":1472629603,
+    "wof:lastmodified":1492815384,
     "wof:name":"Jay Raimann Travel Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

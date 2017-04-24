@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.167218,45.025293,-93.167218,45.025293",
     "geom:latitude":45.025293,
     "geom:longitude":-93.167218,
@@ -32,17 +33,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60gvrdbG710tn9QG2rAh4k_45.025293_-93.167218@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600649,
-    "wof:geomhash":"b1ab3802c957b607d2ba2f492e40e9a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3bf1f54ce10041f72d46cff6cae6528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":806736293
+        }
+    ],
     "wof:id":806736293,
-    "wof:lastmodified":1472629754,
+    "wof:lastmodified":1492815791,
     "wof:name":"North Subn Fmly Physicians PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

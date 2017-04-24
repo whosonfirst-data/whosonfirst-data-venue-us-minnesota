@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.219535,43.964434,-93.219535,43.964434",
     "geom:latitude":43.964434,
     "geom:longitude":-93.219535,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514609,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_195qXBRvHGQhi3UeG4e0Ph_43.964434_-93.219535@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603802,
-    "wof:geomhash":"0d6744f71e2f53413a79fb373e4ab8b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b22c211d512c6d0e19e56ce8dab10a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514609,
+            "region_id":85688727,
+            "venue_id":807106839
+        }
+    ],
     "wof:id":807106839,
-    "wof:lastmodified":1472629215,
+    "wof:lastmodified":1492827136,
     "wof:name":"Francis Langr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

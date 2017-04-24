@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.223551,43.645747,-95.223551,43.645747",
     "geom:latitude":43.645747,
     "geom:longitude":-95.223551,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509849,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s8H2oiqvRwkEuMLMgXFKf_43.645747_-95.223551@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596889,
-    "wof:geomhash":"7f5d634b6c7b162cc3c759cdfbeccace",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0ad9673ca52e601d1469c5d3526aa340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509849,
+            "region_id":85688727,
+            "venue_id":790561833
+        }
+    ],
     "wof:id":790561833,
-    "wof:lastmodified":1472629845,
+    "wof:lastmodified":1492836968,
     "wof:name":"John Nauerth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

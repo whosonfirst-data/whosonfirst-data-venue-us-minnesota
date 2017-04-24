@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.268386,44.363912,-95.268386,44.363912",
     "geom:latitude":44.363912,
     "geom:longitude":-95.268386,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512341,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14u4tcQjsAtITEjxptrsqu_44.363912_-95.268386@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601895,
-    "wof:geomhash":"97e3689242fd73895a2bac23dafa362c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5f598cd0a8f6ffbfaf3545fcad4b5350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512341,
+            "region_id":85688727,
+            "venue_id":806885355
+        }
+    ],
     "wof:id":806885355,
-    "wof:lastmodified":1472629917,
+    "wof:lastmodified":1492815947,
     "wof:name":"Dennis Guetter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

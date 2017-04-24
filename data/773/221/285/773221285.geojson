@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.271822,44.272955,-93.271822,44.272955",
     "geom:latitude":44.272955,
     "geom:longitude":-93.271822,
@@ -31,17 +32,34 @@
         "relocation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51paW3SZNGH5LixrO8ODHh_44.272955_-93.271822@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584083,
-    "wof:geomhash":"64f36f22d541841dcdbeb8bf8a905571",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b678f95a4264e0a5ff2eb66d95850ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":773221285
+        }
+    ],
     "wof:id":773221285,
-    "wof:lastmodified":1472629964,
+    "wof:lastmodified":1492804587,
     "wof:name":"Sirva Relocation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

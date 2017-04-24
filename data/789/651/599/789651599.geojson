@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.093285,43.899424,-93.093285,43.899424",
     "geom:latitude":43.899424,
     "geom:longitude":-93.093285,
@@ -31,17 +32,32 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510811,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IcSL1x76Yr2e0p2iOblDl_43.899424_-93.093285@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589467,
-    "wof:geomhash":"27a3b7ce8bba37824773c4f46967698a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18899bab12c60595d8ec822eb4b72e42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510811,
+            "region_id":85688727,
+            "venue_id":789651599
+        }
+    ],
     "wof:id":789651599,
-    "wof:lastmodified":1472629100,
+    "wof:lastmodified":1492810064,
     "wof:name":"Waynes Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

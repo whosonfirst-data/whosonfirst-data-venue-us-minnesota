@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.3285,44.3049,-93.3285,44.3049",
     "geom:latitude":44.3049,
     "geom:longitude":-93.3285,
@@ -32,17 +33,32 @@
         "packing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512763,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qJi27kgkxLhiVPYXYfYOE_44.304900_-93.328500@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591280,
-    "wof:geomhash":"446e97678dc9fb3bbd9f6d6839efaf5f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81dffd41e8da5b2e6ca08013099332a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512763,
+            "region_id":85688727,
+            "venue_id":789878901
+        }
+    ],
     "wof:id":789878901,
-    "wof:lastmodified":1472629571,
+    "wof:lastmodified":1492813787,
     "wof:name":"Williams Processing Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

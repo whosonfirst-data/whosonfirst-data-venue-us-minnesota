@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.263174,44.857806,-93.263174,44.857806",
     "geom:latitude":44.857806,
     "geom:longitude":-93.263174,
@@ -31,17 +32,34 @@
         "pasta"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oEy5tZf4mGGpk2QjbMdAm_44.857806_-93.263174@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588335,
-    "wof:geomhash":"7b3942278f3fb90567d80b16da330dff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2594704aa4864c23f9478e9e39d496a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":773782403
+        }
+    ],
     "wof:id":773782403,
-    "wof:lastmodified":1472630157,
+    "wof:lastmodified":1492802491,
     "wof:name":"LA Pasta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

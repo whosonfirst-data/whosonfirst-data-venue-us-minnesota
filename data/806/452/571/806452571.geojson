@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.452994,45.103182,-93.452994,45.103182",
     "geom:latitude":45.103182,
     "geom:longitude":-93.452994,
@@ -31,17 +32,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l4HNWRDHFG6kFFBIlaCwm_45.103182_-93.452994@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598262,
-    "wof:geomhash":"6cf773b5aafdc05d297df41ddaebf9be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa2502b99529ab27ca62eb6677f2144f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806452571
+        }
+    ],
     "wof:id":806452571,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492816620,
     "wof:name":"Grove Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

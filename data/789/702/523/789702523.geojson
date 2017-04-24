@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.353323,45.582919,-94.353323,45.582919",
     "geom:latitude":45.582919,
     "geom:longitude":-94.353323,
@@ -38,17 +39,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514497,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CDfv0vYVrKO5d78nIaiRx_45.582919_-94.353323@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589875,
-    "wof:geomhash":"2a6814b12577f8173db1a44b6fb515f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fc421fad951b54096560ea4ac270ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514497,
+            "region_id":85688727,
+            "venue_id":789702523
+        }
+    ],
     "wof:id":789702523,
-    "wof:lastmodified":1472629205,
+    "wof:lastmodified":1492811086,
     "wof:name":"Fieldstone Farm Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

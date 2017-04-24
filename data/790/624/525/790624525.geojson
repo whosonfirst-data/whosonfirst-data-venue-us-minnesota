@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.375258,45.161885,-93.375258,45.161885",
     "geom:latitude":45.161885,
     "geom:longitude":-93.375258,
@@ -28,17 +29,34 @@
     "sg:postcode":"55316",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DrK6vC7b2WrhT8CQ6HuUD_45.161885_-93.375258@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597457,
-    "wof:geomhash":"1e110fd320848f11d7b3986c69045285",
-    "wof:hierarchy":[],
+    "wof:geomhash":"396a7c8da316cceca90ed605f3ebc6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":790624525
+        }
+    ],
     "wof:id":790624525,
-    "wof:lastmodified":1472629922,
+    "wof:lastmodified":1492833133,
     "wof:name":"FAB Tech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

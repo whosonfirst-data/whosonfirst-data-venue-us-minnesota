@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.488863,44.722468,-94.488863,44.722468",
     "geom:latitude":44.722468,
     "geom:longitude":-94.488863,
@@ -31,17 +32,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510115,
+        85633793,
+        85952553,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UbPvWlf07iLPV986TjlAw_44.722468_-94.488863@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592650,
-    "wof:geomhash":"29a4dfbf1ff45f083bf2a48d021b07e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1205a0bc88cd3abfbf63bcc078a1ab72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404510115,
+            "locality_id":85952553,
+            "region_id":85688727,
+            "venue_id":790040687
+        }
+    ],
     "wof:id":790040687,
-    "wof:lastmodified":1472629011,
+    "wof:lastmodified":1492832130,
     "wof:name":"Stewart Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

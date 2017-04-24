@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.334186,45.043561,-93.334186,45.043561",
     "geom:latitude":45.043561,
     "geom:longitude":-93.334186,
@@ -32,17 +33,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mKZ2Dp2Pvam0PnJyDjMr9_45.043561_-93.334186@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608208,
-    "wof:geomhash":"225b64dce44a3356ea73111e67b1079a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"23d00a4c1cd43dd5566326432f428af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823191455
+        }
+    ],
     "wof:id":823191455,
-    "wof:lastmodified":1472629037,
+    "wof:lastmodified":1492830468,
     "wof:name":"Arden Ils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

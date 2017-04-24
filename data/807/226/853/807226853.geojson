@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.683538,44.05112,-91.683538,44.05112",
     "geom:latitude":44.05112,
     "geom:longitude":-91.683538,
@@ -33,17 +34,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1avhbUVOTL8NEqnPzgp0kp_44.051120_-91.683538@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605084,
-    "wof:geomhash":"39c9b690d99d16f019b04a6e8cc369bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52cadca3b36293a6c54b55f8223543e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":807226853
+        }
+    ],
     "wof:id":807226853,
-    "wof:lastmodified":1472629470,
+    "wof:lastmodified":1492827242,
     "wof:name":"Pizza Hut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.408471,47.513285,-92.408471,47.513285",
     "geom:latitude":47.513285,
     "geom:longitude":-92.408471,
@@ -25,17 +26,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xghAcuHKL8flaodGruxCe_47.513285_-92.408471@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604275,
-    "wof:geomhash":"a3f897e5137926067122d8d04d0cb5a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd1f4d45249f874709c8b0a8a05c09ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525035,
+            "venue_id":807150109
+        }
+    ],
     "wof:id":807150109,
-    "wof:lastmodified":1472629275,
+    "wof:lastmodified":1492826791,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":420525035,
     "wof:placetype":"venue",

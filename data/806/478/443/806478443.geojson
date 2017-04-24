@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.536821,47.463598,-92.536821,47.463598",
     "geom:latitude":47.463598,
     "geom:longitude":-92.536821,
@@ -31,17 +32,26 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ihMqYSARvnWXqEQMbPyWn_47.463598_-92.536821@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598448,
-    "wof:geomhash":"1c56d9082538975c2cf3e538c35b4771",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7eb9de4efd747a6c6a100cdcf62462d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806478443
+        }
+    ],
     "wof:id":806478443,
-    "wof:lastmodified":1472629236,
+    "wof:lastmodified":1492819344,
     "wof:name":"A-1 Oil Svc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

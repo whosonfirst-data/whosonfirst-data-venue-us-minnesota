@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.542599,45.327297,-94.542599,45.327297",
     "geom:latitude":45.327297,
     "geom:longitude":-94.542599,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509997,
+        85633793,
+        85952443,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z3mDOZgD1I1lURXzR7bri_45.327297_-94.542599@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583437,
-    "wof:geomhash":"c19fa25234b56744423e94e035fd849c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b7c30a22466cdff5ed7355042d477aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404509997,
+            "locality_id":85952443,
+            "region_id":85688727,
+            "venue_id":773140139
+        }
+    ],
     "wof:id":773140139,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492806080,
     "wof:name":"Rita's Daycare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

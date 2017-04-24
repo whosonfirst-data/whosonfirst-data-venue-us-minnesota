@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.082974,45.283107,-96.082974,45.283107",
     "geom:latitude":45.283107,
     "geom:longitude":-96.082974,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510851,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qz8RuLAZw9YWzEJJDCbky_45.283107_-96.082974@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600938,
-    "wof:geomhash":"2f742f453b941ec032c71e9a18056d77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69b9835280a9886fd724589e2d67b075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404510851,
+            "region_id":85688727,
+            "venue_id":806771089
+        }
+    ],
     "wof:id":806771089,
-    "wof:lastmodified":1472629793,
+    "wof:lastmodified":1492815912,
     "wof:name":"Behlen Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

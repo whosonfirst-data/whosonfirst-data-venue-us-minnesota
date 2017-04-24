@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.390056,45.65042,-95.390056,45.65042",
     "geom:latitude":45.65042,
     "geom:longitude":-95.390056,
@@ -37,17 +38,34 @@
         "french"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514323,
+        85633793,
+        85968627,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3S7cOaQjqn4lmgCH8TEFlD_45.650060_-95.390103@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462605167,
-    "wof:geomhash":"e0630c31cd352ade531b95f32717398d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8f064bad57db162e3e5f2bfd8f6188cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514323,
+            "locality_id":85968627,
+            "region_id":85688727,
+            "venue_id":807235255
+        }
+    ],
     "wof:id":807235255,
-    "wof:lastmodified":1472629462,
+    "wof:lastmodified":1492827669,
     "wof:name":"Le Cafe Paris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.404236,45.318972,-94.404236,45.318972",
     "geom:latitude":45.318972,
     "geom:longitude":-94.404236,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510005,
+        85633793,
+        85953553,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MM8NxUhawhWSx1xOBZeWY_45.318972_-94.404236@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589092,
-    "wof:geomhash":"b9a4859ee3b732a4071b321c3f1765c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b024bff451dccb86fe97bb830010b7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404510005,
+            "locality_id":85953553,
+            "region_id":85688727,
+            "venue_id":789603451
+        }
+    ],
     "wof:id":789603451,
-    "wof:lastmodified":1472628978,
+    "wof:lastmodified":1492813184,
     "wof:name":"Jewison Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

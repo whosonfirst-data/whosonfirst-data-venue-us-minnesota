@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.966279,45.690789,-92.966279,45.690789",
     "geom:latitude":45.690789,
     "geom:longitude":-92.966279,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w2DyfpqXTVUupp8cd2iLf_45.690789_-92.966279@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600915,
-    "wof:geomhash":"5c134dacf79bce5896def9b948a77146",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0f15a078f1f5cb1f1d1897ec4c28396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":806768403
+        }
+    ],
     "wof:id":806768403,
-    "wof:lastmodified":1472629794,
+    "wof:lastmodified":1492819889,
     "wof:name":"Rush City Country Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

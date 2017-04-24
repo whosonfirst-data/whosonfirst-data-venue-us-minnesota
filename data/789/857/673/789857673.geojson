@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.666196,45.138442,-93.666196,45.138442",
     "geom:latitude":45.138442,
     "geom:longitude":-93.666196,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511719,
+        85633793,
+        85969203,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16nDi8lLtIJangAkOP7kDg_45.138442_-93.666196@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591086,
-    "wof:geomhash":"d558c8e0e97a7b9e272a5329179a8df4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8416692d7a1736688ea0fd9e4ca4133e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511719,
+            "locality_id":85969203,
+            "region_id":85688727,
+            "venue_id":789857673
+        }
+    ],
     "wof:id":789857673,
-    "wof:lastmodified":1472629537,
+    "wof:lastmodified":1492811551,
     "wof:name":"Pearson Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

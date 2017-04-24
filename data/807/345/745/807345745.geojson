@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.42984,44.70268,-94.42984,44.70268",
     "geom:latitude":44.70268,
     "geom:longitude":-94.42984,
@@ -32,17 +33,32 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512825,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pMPTWvVTNW5SOQpMGSJbd_44.702680_-94.429840@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606443,
-    "wof:geomhash":"e46df196cfbf09ce73b8b6c415a79adf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d29af730bcd65a217e7a2e9d1237c0be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512825,
+            "region_id":85688727,
+            "venue_id":807345745
+        }
+    ],
     "wof:id":807345745,
-    "wof:lastmodified":1472629780,
+    "wof:lastmodified":1492826840,
     "wof:name":"Automist Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

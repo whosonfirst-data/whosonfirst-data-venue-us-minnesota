@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.863861,44.869981,-93.863861,44.869981",
     "geom:latitude":44.869981,
     "geom:longitude":-93.863861,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511607,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YYMdqoKcTyFAfURJ0tSOx_44.869981_-93.863861@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604780,
-    "wof:geomhash":"fc81797ee9ca2091f7f7e065a6977f74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e269c9f9329f8ce8569b695abe5d710f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511607,
+            "region_id":85688727,
+            "venue_id":807198139
+        }
+    ],
     "wof:id":807198139,
-    "wof:lastmodified":1472629387,
+    "wof:lastmodified":1492826988,
     "wof:name":"Neil Dummer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

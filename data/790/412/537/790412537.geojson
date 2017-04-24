@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.370934,44.954862,-95.370934,44.954862",
     "geom:latitude":44.954862,
     "geom:longitude":-95.370934,
@@ -31,17 +32,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511779,
+        85633793,
+        85953227,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pMny0nt3yDaNkSsnxIaPg_44.954862_-95.370934@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595629,
-    "wof:geomhash":"d0447018af0156d64d51bf7c32dd7a0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a04bbdc26761ccf17d14efaf9a061a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404511779,
+            "locality_id":85953227,
+            "region_id":85688727,
+            "venue_id":790412537
+        }
+    ],
     "wof:id":790412537,
-    "wof:lastmodified":1472629679,
+    "wof:lastmodified":1492834945,
     "wof:name":"Noble Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

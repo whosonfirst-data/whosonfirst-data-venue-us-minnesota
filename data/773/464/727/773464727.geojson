@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.675659,43.569803,-91.675659,43.569803",
     "geom:latitude":43.569803,
     "geom:longitude":-91.675659,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85844731,
+        102191575,
+        404511937,
         85633793,
         85953131,
         102087605,
-        85844731
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +50,13 @@
     },
     "wof:country":"US",
     "wof:created":1462585950,
-    "wof:geomhash":"cba98dd2c5ef2d4492d8e47f3bec54ec",
+    "wof:geomhash":"b08ae03d3cb6663c4e9c6107c4360c95",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087605,
+            "localadmin_id":404511937,
             "locality_id":85953131,
             "neighbourhood_id":85844731,
             "region_id":85688727,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":773464727,
-    "wof:lastmodified":1472630062,
+    "wof:lastmodified":1492806136,
     "wof:name":"Allen Deters",
     "wof:parent_id":85844731,
     "wof:placetype":"venue",

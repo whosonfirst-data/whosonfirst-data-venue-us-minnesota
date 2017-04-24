@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.167304,45.607356,-95.167304,45.607356",
     "geom:latitude":45.607356,
     "geom:longitude":-95.167304,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510215,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2g4N81GtJkLEmNqE0LrreB_45.607356_-95.167304@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604008,
-    "wof:geomhash":"89779979df70deb63c3d18f46e7e2d66",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60f1f9d6b67b12f99fe792b162d0cd5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404510215,
+            "region_id":85688727,
+            "venue_id":807125803
+        }
+    ],
     "wof:id":807125803,
-    "wof:lastmodified":1472629256,
+    "wof:lastmodified":1492827415,
     "wof:name":"Mark Hoeper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

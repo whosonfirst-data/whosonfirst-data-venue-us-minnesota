@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.86775,44.724049,-92.86775,44.724049",
     "geom:latitude":44.724049,
     "geom:longitude":-92.86775,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lX9CN86YbEbqi2nAvbRQH_44.724049_-92.867750@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597403,
-    "wof:geomhash":"3b6367e1157259e6ac02c1378cbb2459",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc7b224338217e904e1860389e51a74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":790618845
+        }
+    ],
     "wof:id":790618845,
-    "wof:lastmodified":1472629916,
+    "wof:lastmodified":1492837618,
     "wof:name":"Paulson Fawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

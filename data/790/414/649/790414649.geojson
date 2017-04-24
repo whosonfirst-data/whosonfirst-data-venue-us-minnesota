@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.778948,46.635068,-96.778948,46.635068",
     "geom:latitude":46.635068,
     "geom:longitude":-96.778948,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688525,
+        85877329,
+        102191575,
+        404478877,
         85633793,
         85982177,
         102082073,
-        85877329
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462595643,
-    "wof:geomhash":"73479ab50bb97ed24a3991fa8166af24",
+    "wof:geomhash":"3683e87369683662e797cb2ab18fddeb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082073,
+            "localadmin_id":404478877,
             "locality_id":85982177,
             "neighbourhood_id":85877329,
             "region_id":85688525,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":790414649,
-    "wof:lastmodified":1472629684,
+    "wof:lastmodified":1492832875,
     "wof:name":"Larry Ness",
     "wof:parent_id":85877329,
     "wof:placetype":"venue",

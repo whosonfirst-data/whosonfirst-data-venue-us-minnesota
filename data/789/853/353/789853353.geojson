@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.330288,46.161423,-95.330288,46.161423",
     "geom:latitude":46.161423,
     "geom:longitude":-95.330288,
@@ -36,17 +37,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510357,
+        85633793,
+        85968715,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04nP3foUJWzKz59SSxxb98_46.161423_-95.330288@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591054,
-    "wof:geomhash":"f7cac72aa6dcf65906c07a11279e4332",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf09bdca10c55c7be12a79a3633e3547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404510357,
+            "locality_id":85968715,
+            "region_id":85688727,
+            "venue_id":789853353
+        }
+    ],
     "wof:id":789853353,
-    "wof:lastmodified":1472629511,
+    "wof:lastmodified":1492812100,
     "wof:name":"Jjs Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

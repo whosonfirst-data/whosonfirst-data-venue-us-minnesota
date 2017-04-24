@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.759302,47.598925,-94.759302,47.598925",
     "geom:latitude":47.598925,
     "geom:longitude":-94.759302,
@@ -37,17 +38,34 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509267,
+        85633793,
+        85968921,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tKSqV6zHyTw0HHKAxiM22_47.598925_-94.759302@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585773,
-    "wof:geomhash":"ee0a14fcca1f91bd92c4762e33a70dbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"774d20c7a9f869c3db8f726ca8cf1736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404509267,
+            "locality_id":85968921,
+            "region_id":85688727,
+            "venue_id":773441949
+        }
+    ],
     "wof:id":773441949,
-    "wof:lastmodified":1472630057,
+    "wof:lastmodified":1492809017,
     "wof:name":"Other Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

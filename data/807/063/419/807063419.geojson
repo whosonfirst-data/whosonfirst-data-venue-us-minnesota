@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.752126,47.577577,-95.752126,47.577577",
     "geom:latitude":47.577577,
     "geom:longitude":-95.752126,
@@ -31,17 +32,34 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ou55Xj2Ra9fDCYEtv0AEa_47.577577_-95.752126@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603396,
-    "wof:geomhash":"a8fc85001876822fa4be86943ed2fabd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bacaf9ae5b48ca26221c08f4a4d34dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":807063419
+        }
+    ],
     "wof:id":807063419,
-    "wof:lastmodified":1472629067,
+    "wof:lastmodified":1492827866,
     "wof:name":"IGA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

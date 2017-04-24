@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.527614,46.049672,-95.527614,46.049672",
     "geom:latitude":46.049672,
     "geom:longitude":-95.527614,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513921,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wbn80eS0Arbf6sBb085ox_46.049672_-95.527614@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604269,
-    "wof:geomhash":"c854fe5ffdc32815f618d01636306bed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"978e16444ba0442d872b7812eeb848cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513921,
+            "region_id":85688727,
+            "venue_id":807149495
+        }
+    ],
     "wof:id":807149495,
-    "wof:lastmodified":1472629277,
+    "wof:lastmodified":1492827531,
     "wof:name":"Bill Obrien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

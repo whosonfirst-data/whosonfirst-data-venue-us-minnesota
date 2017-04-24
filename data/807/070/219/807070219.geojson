@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.165963,48.10875,-96.165963,48.10875",
     "geom:latitude":48.10875,
     "geom:longitude":-96.165963,
@@ -31,17 +32,34 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o5QBAgTVFB8AOyAE0bffq_48.108750_-96.165963@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603447,
-    "wof:geomhash":"43da92e334a7e066f50706cbbb0574fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"49996b23c27032e7f0328a619f56da5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":807070219
+        }
+    ],
     "wof:id":807070219,
-    "wof:lastmodified":1472629074,
+    "wof:lastmodified":1492827206,
     "wof:name":"Mickelson Eye Clinic PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

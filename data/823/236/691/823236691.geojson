@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.979659,44.166805,-93.979659,44.166805",
     "geom:latitude":44.166805,
     "geom:longitude":-93.979659,
@@ -36,17 +37,34 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zgzV0e4VCB3hpjJzuVaIL_44.166805_-93.979659@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609080,
-    "wof:geomhash":"f063a20c60c3d701e253660d85592250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03e5f8b11466a1d3c7f9514be79d94e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":823236691
+        }
+    ],
     "wof:id":823236691,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492829797,
     "wof:name":"Nile Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

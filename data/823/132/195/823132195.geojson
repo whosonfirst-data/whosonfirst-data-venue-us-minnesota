@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.288111,44.948167,-93.288111,44.948167",
     "geom:latitude":44.948167,
     "geom:longitude":-93.288111,
@@ -45,14 +46,15 @@
     "sg:website":"www.smittenkittenonline.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867013,
+        1108800013,
+        85872583,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872635
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607369,
-    "wof:geomhash":"557545bc44f2e1ca44355bf2f8a162e7",
+    "wof:geomhash":"2e0e0a96ae9eb06bd868d624aa34e01c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,25 +70,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867013,
-            "region_id":85688727,
-            "venue_id":823132195
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872635,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800013,
+            "neighbourhood_id":85872583,
             "region_id":85688727,
             "venue_id":823132195
         }
     ],
     "wof:id":823132195,
-    "wof:lastmodified":1472628926,
+    "wof:lastmodified":1492830927,
     "wof:name":"The Smitten Kitten",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

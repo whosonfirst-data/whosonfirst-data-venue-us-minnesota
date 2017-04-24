@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.572119,45.715569,-93.572119,45.715569",
     "geom:latitude":45.715569,
     "geom:longitude":-93.572119,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512419,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G0FEXiwr4gb6BkB6E627R_45.715569_-93.572119@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598352,
-    "wof:geomhash":"dcf12c42b1bd0b75e17bd22dfde709b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b93a4707a3b7b84b0538f23c7347dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512419,
+            "region_id":85688727,
+            "venue_id":806464721
+        }
+    ],
     "wof:id":806464721,
-    "wof:lastmodified":1472629212,
+    "wof:lastmodified":1492819682,
     "wof:name":"Thomas P Carlson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

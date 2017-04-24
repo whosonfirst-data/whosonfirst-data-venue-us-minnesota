@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.876519,45.187132,-93.876519,45.187132",
     "geom:latitude":45.187132,
     "geom:longitude":-93.876519,
@@ -36,17 +37,34 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LbtlEj78FzSwrhY0RRYCE_45.187132_-93.876519@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605844,
-    "wof:geomhash":"00a6033c3c79e2d642be3b476e7981a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9893e8d0f851b343ac436f2f79c1748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":807299395
+        }
+    ],
     "wof:id":807299395,
-    "wof:lastmodified":1472629618,
+    "wof:lastmodified":1492823632,
     "wof:name":"Huikko's Bowling Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

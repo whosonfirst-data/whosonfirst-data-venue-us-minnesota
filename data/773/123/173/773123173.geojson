@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.096796,46.633242,-95.096796,46.633242",
     "geom:latitude":46.633242,
     "geom:longitude":-95.096796,
@@ -32,17 +33,34 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514841,
+        85633793,
+        85968429,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O1JwlEHL4rAbudki61PWK_46.633242_-95.096796@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583318,
-    "wof:geomhash":"752839b6d2d194b69fdb668944babd7b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a5fe22897a03f92758069cf36fd1ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514841,
+            "locality_id":85968429,
+            "region_id":85688727,
+            "venue_id":773123173
+        }
+    ],
     "wof:id":773123173,
-    "wof:lastmodified":1472629644,
+    "wof:lastmodified":1492800536,
     "wof:name":"Johnson & Son Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

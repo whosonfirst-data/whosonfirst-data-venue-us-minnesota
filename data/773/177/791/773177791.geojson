@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.28586,45.586644,-94.28586,45.586644",
     "geom:latitude":45.586644,
     "geom:longitude":-94.28586,
@@ -35,17 +36,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514497,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PjPHZyg12APeewuyb4g4M_45.586644_-94.285860@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583719,
-    "wof:geomhash":"517842923a809c1bd0ae0577ae1477e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cee5666d9d01be87e9b8fb95571fe62c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514497,
+            "region_id":85688727,
+            "venue_id":773177791
+        }
+    ],
     "wof:id":773177791,
-    "wof:lastmodified":1472629886,
+    "wof:lastmodified":1492802986,
     "wof:name":"Warnet Feed & Seed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

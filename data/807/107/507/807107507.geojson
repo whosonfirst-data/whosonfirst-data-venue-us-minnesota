@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.116635,45.750465,-94.116635,45.750465",
     "geom:latitude":45.750465,
     "geom:longitude":-94.116635,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515127,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b2oBiKO3BVN6ilx7zRYSU_45.750465_-94.116635@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603811,
-    "wof:geomhash":"59292ea59513788639750822a6d119ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8716223be33ae477dd43579eb22dc3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404515127,
+            "region_id":85688727,
+            "venue_id":807107507
+        }
+    ],
     "wof:id":807107507,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492824447,
     "wof:name":"Thomas Freihammer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

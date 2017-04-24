@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.090376,46.971391,-92.090376,46.971391",
     "geom:latitude":46.971391,
     "geom:longitude":-92.090376,
@@ -31,17 +32,32 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513269,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wHFoAWhWsLVuTZSZXHJ3E_46.971391_-92.090376@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582956,
-    "wof:geomhash":"c3a93efe273e91caa3bf00f024c54cdb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be19040d3154b9bfd8c801b39282ba64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513269,
+            "region_id":85688727,
+            "venue_id":773073021
+        }
+    ],
     "wof:id":773073021,
-    "wof:lastmodified":1472629489,
+    "wof:lastmodified":1492807695,
     "wof:name":"Twin Ports Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

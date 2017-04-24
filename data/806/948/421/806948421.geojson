@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.933293,43.93909,-94.933293,43.93909",
     "geom:latitude":43.93909,
     "geom:longitude":-94.933293,
@@ -32,17 +33,34 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511869,
+        85633793,
+        85952779,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gFOu95y1tEB1VjLPamgDc_43.939090_-94.933293@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602425,
-    "wof:geomhash":"402dd2e97a98e266a01c973897699f77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bfe6aec85436f58eac83eace364d04fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511869,
+            "locality_id":85952779,
+            "region_id":85688727,
+            "venue_id":806948421
+        }
+    ],
     "wof:id":806948421,
-    "wof:lastmodified":1472629950,
+    "wof:lastmodified":1492820746,
     "wof:name":"Mountain Lake Medical Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

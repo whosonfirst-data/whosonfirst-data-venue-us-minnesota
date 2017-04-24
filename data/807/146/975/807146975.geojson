@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.401544,44.456958,-95.401544,44.456958",
     "geom:latitude":44.456958,
     "geom:longitude":-95.401544,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512169,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s0k3CPdMrnhMDVW306bnl_44.456958_-95.401544@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604246,
-    "wof:geomhash":"e6701928764faa05778a8cb364b46c4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a88037cd8874a8a0cc5a77c5ca491874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512169,
+            "region_id":85688727,
+            "venue_id":807146975
+        }
+    ],
     "wof:id":807146975,
-    "wof:lastmodified":1472629289,
+    "wof:lastmodified":1492822324,
     "wof:name":"James Ourada",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

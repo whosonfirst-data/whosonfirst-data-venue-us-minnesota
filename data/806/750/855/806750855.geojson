@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.079712,46.293672,-96.079712,46.293672",
     "geom:latitude":46.293672,
     "geom:longitude":-96.079712,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5w0ZrnLgv22SdWZyp2K4GX_46.293672_-96.079712@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600769,
-    "wof:geomhash":"7c9bc71519191d90e124e9a8934be57e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59e3a543c0e2f25cb9f4285608e74599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":806750855
+        }
+    ],
     "wof:id":806750855,
-    "wof:lastmodified":1472629782,
+    "wof:lastmodified":1492815004,
     "wof:name":"Lake Shore Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

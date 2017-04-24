@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.634981,46.977905,-92.634981,46.977905",
     "geom:latitude":46.977905,
     "geom:longitude":-92.634981,
@@ -35,17 +36,26 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44V5NIku01NFJy25BtL8ia_46.977905_-92.634981@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608783,
-    "wof:geomhash":"c6a7a8b28cc37590d320ecfc04c0949d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c030dc9e1d6924222dc3b706e4c0bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823222731
+        }
+    ],
     "wof:id":823222731,
-    "wof:lastmodified":1472629108,
+    "wof:lastmodified":1492830429,
     "wof:name":"Glass Enterprises",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.278697,45.889341,-95.278697,45.889341",
     "geom:latitude":45.889341,
     "geom:longitude":-95.278697,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513753,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JrAbOJKQ0ga5twaqWS7cZ_45.889341_-95.278697@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609334,
-    "wof:geomhash":"a8e438d21c33f93aaa7463ec6b1ddba9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbaba90cf161ecdb59b9a53e13deff96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513753,
+            "region_id":85688727,
+            "venue_id":823250057
+        }
+    ],
     "wof:id":823250057,
-    "wof:lastmodified":1472629136,
+    "wof:lastmodified":1492829910,
     "wof:name":"Dave Massmann Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

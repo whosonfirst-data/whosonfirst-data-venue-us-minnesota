@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.018783,44.043409,-94.018783,44.043409",
     "geom:latitude":44.043409,
     "geom:longitude":-94.018783,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511563,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VIRcVjJyrqxiZZ7xrTq0I_44.043409_-94.018783@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604585,
-    "wof:geomhash":"cf68672856df7a41f8a1873b27442e81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"341be4c9e672e22a901350b93cd0ef1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511563,
+            "region_id":85688727,
+            "venue_id":807180013
+        }
+    ],
     "wof:id":807180013,
-    "wof:lastmodified":1472629341,
+    "wof:lastmodified":1492822942,
     "wof:name":"Doug Hager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

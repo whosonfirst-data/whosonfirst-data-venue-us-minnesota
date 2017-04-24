@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.402192,45.120953,-93.402192,45.120953",
     "geom:latitude":45.120953,
     "geom:longitude":-93.402192,
@@ -28,17 +29,34 @@
     "sg:postcode":"55369",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509459,
+        85633793,
+        85969141,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UWHnCE1d18SgYO4GugW0X_45.120953_-93.402192@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592017,
-    "wof:geomhash":"02784c914aa60c31014e248d8df14073",
-    "wof:hierarchy":[],
+    "wof:geomhash":"15ec55dda991fc3183c21d1096cf1d5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509459,
+            "locality_id":85969141,
+            "region_id":85688727,
+            "venue_id":789962259
+        }
+    ],
     "wof:id":789962259,
-    "wof:lastmodified":1472629639,
+    "wof:lastmodified":1492811071,
     "wof:name":"Osseo Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

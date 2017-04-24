@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.26076,44.122132,-95.26076,44.122132",
     "geom:latitude":44.122132,
     "geom:longitude":-95.26076,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509505,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76O1q66ufgr34puBE5dYKd_44.122132_-95.260760@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604800,
-    "wof:geomhash":"5d116b39eef2f438e510d7c4ec6d0c2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e64ab0b7a84945e1028358efde754e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509505,
+            "region_id":85688727,
+            "venue_id":807200311
+        }
+    ],
     "wof:id":807200311,
-    "wof:lastmodified":1472629401,
+    "wof:lastmodified":1492823438,
     "wof:name":"Roger Engen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

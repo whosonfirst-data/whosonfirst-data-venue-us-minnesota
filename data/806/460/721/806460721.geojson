@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.408943,47.104759,-95.408943,47.104759",
     "geom:latitude":47.104759,
     "geom:longitude":-95.408943,
@@ -31,17 +32,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509209,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04bZSHkoZOq8SJYpTlU2SX_47.104759_-95.408943@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598317,
-    "wof:geomhash":"0dad5d918f7c7c508cbf8a8e3e253613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba37565c626472b5663ccfd3f24fa4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404509209,
+            "region_id":85688727,
+            "venue_id":806460721
+        }
+    ],
     "wof:id":806460721,
-    "wof:lastmodified":1472629212,
+    "wof:lastmodified":1492814989,
     "wof:name":"High Pines Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

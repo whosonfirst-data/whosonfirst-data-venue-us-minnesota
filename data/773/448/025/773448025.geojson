@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.020262,44.804985,-94.020262,44.804985",
     "geom:latitude":44.804985,
     "geom:longitude":-94.020262,
@@ -34,17 +35,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512683,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XytHvf5yt3nGjVXPX8Kvy_44.804985_-94.020262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585823,
-    "wof:geomhash":"3dbe35d0fbf082c81d57d543b35e7235",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42225237e3903c7f671c02d0675b0bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512683,
+            "region_id":85688727,
+            "venue_id":773448025
+        }
+    ],
     "wof:id":773448025,
-    "wof:lastmodified":1472630055,
+    "wof:lastmodified":1492802801,
     "wof:name":"Roger Martin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

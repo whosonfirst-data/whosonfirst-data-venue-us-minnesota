@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.466771,44.321028,-94.466771,44.321028",
     "geom:latitude":44.321028,
     "geom:longitude":-94.466771,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Vj2FZGVggo2JZkqRYNSMU_44.321028_-94.466771@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582661,
-    "wof:geomhash":"60f0fb96aab972aedbe1364943d5397d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aab73e978fa0444f64eca5e512a6abc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":773039683
+        }
+    ],
     "wof:id":773039683,
-    "wof:lastmodified":1472629374,
+    "wof:lastmodified":1492808783,
     "wof:name":"New Ulm Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

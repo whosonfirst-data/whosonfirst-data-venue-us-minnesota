@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.47545,47.169321,-92.47545,47.169321",
     "geom:latitude":47.169321,
     "geom:longitude":-92.47545,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ks2AD8Dbo4bj3uu2eHHMq_47.169321_-92.475450@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601574,
-    "wof:geomhash":"9bb97acf5fdf2d5774b2ed887013aa9a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a06ef9b72fca2c4d540273029be13866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806846395
+        }
+    ],
     "wof:id":806846395,
-    "wof:lastmodified":1472629886,
+    "wof:lastmodified":1492814097,
     "wof:name":"Cotton Volunteer Fire Dept",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

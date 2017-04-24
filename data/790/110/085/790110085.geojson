@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.085509,45.683026,-93.085509,45.683026",
     "geom:latitude":45.683026,
     "geom:longitude":-93.085509,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70hBhxcxn9H4WaODNHkcqL_45.683026_-93.085509@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593220,
-    "wof:geomhash":"54d3d3097f3f897736f6b187ffbad1c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91ef3d843d75befb70430508805d5910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":790110085
+        }
+    ],
     "wof:id":790110085,
-    "wof:lastmodified":1472629129,
+    "wof:lastmodified":1492835025,
     "wof:name":"John Engle Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.444563,44.227312,-93.444563,44.227312",
     "geom:latitude":44.227312,
     "geom:longitude":-93.444563,
@@ -31,17 +32,34 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510601,
+        85633793,
+        85968741,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I2Rk43LHxFZybuTKiYIqi_44.227312_-93.444563@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601119,
-    "wof:geomhash":"9faca72f2d5554bad82888ee2285bcc9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed862cf33e66467bfe04de5a50385bfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404510601,
+            "locality_id":85968741,
+            "region_id":85688727,
+            "venue_id":806791879
+        }
+    ],
     "wof:id":806791879,
-    "wof:lastmodified":1472629841,
+    "wof:lastmodified":1492818405,
     "wof:name":"State Bank Of Morristown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247304,45.013179,-93.247304,45.013179",
     "geom:latitude":45.013179,
     "geom:longitude":-93.247304,
@@ -44,14 +45,14 @@
     "sg:website":"www.holylandbrand.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558757,
+        420781087,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +60,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607841,
-    "wof:geomhash":"54dcb9126a67ca2a9c091bebe5403fe6",
+    "wof:geomhash":"955052c1dedb9a378eef610f4e9d71d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,25 +68,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420558757,
-            "region_id":85688727,
-            "venue_id":823162961
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781087,
             "region_id":85688727,
             "venue_id":823162961
         }
     ],
     "wof:id":823162961,
-    "wof:lastmodified":1472629000,
+    "wof:lastmodified":1492831029,
     "wof:name":"Holy Land",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

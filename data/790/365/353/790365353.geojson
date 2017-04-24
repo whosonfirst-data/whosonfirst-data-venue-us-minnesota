@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.37821,45.843542,-95.37821,45.843542",
     "geom:latitude":45.843542,
     "geom:longitude":-95.37821,
@@ -42,17 +43,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O9juEKM7gWqrPxY3bkwq4_45.843542_-95.378210@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595269,
-    "wof:geomhash":"f56e66d2ed22ac5743ab5e6aa8c1c9b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a352c3cc742c72498509d3bae3f0476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":790365353
+        }
+    ],
     "wof:id":790365353,
-    "wof:lastmodified":1472629560,
+    "wof:lastmodified":1492834596,
     "wof:name":"Alexandria Opportunities Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

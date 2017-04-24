@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.795111,45.305884,-93.795111,45.305884",
     "geom:latitude":45.305884,
     "geom:longitude":-93.795111,
@@ -31,17 +32,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55OxMb2OfY4KE7rYQEfB9J_45.305884_-93.795111@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601100,
-    "wof:geomhash":"e9213322445e7bf17a371ece81107fc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8000907b5915ca7e49b3844c29e70f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":806789483
+        }
+    ],
     "wof:id":806789483,
-    "wof:lastmodified":1472629828,
+    "wof:lastmodified":1492815249,
     "wof:name":"Raymond James Financial Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

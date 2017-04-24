@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.501488,47.465091,-92.501488,47.465091",
     "geom:latitude":47.465091,
     "geom:longitude":-92.501488,
@@ -31,19 +32,44 @@
         "metal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041,
+        420525055,
+        102191575,
+        404513267,
+        85968505,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mjNM028XfpKZHCDT4CHPx_47.465091_-92.501488@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601888,
-    "wof:geomhash":"1e170e415ce27458854177d54e55792d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ade19a2a86dfd3a26d7a1294a140d67c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806884435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513267,
+            "locality_id":85968505,
+            "neighbourhood_id":420525055,
+            "region_id":85688727,
+            "venue_id":806884435
+        }
+    ],
     "wof:id":806884435,
-    "wof:lastmodified":1472629915,
+    "wof:lastmodified":1492818352,
     "wof:name":"Gilbert Iron & Metal",
-    "wof:parent_id":420525041,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

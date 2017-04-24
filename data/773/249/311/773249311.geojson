@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.925893,43.938902,-94.925893,43.938902",
     "geom:latitude":43.938902,
     "geom:longitude":-94.925893,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511869,
+        85633793,
+        85952779,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aemdA3IFGbFx2LDpk19xo_43.938902_-94.925893@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584284,
-    "wof:geomhash":"d51ecdb1f95da28abf5a9696a667107c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e1f8cce111a68761980a0724ab1b0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511869,
+            "locality_id":85952779,
+            "region_id":85688727,
+            "venue_id":773249311
+        }
+    ],
     "wof:id":773249311,
-    "wof:lastmodified":1472629990,
+    "wof:lastmodified":1492799203,
     "wof:name":"Trinity Evangelical Lutheran",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

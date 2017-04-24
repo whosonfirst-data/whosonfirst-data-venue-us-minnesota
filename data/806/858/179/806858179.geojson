@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.89005,44.29746,-95.89005,44.29746",
     "geom:latitude":44.29746,
     "geom:longitude":-95.89005,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509733,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51TPJjbZHkZpKqX31uvTUW_44.297460_-95.890050@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601676,
-    "wof:geomhash":"fe43ef4b6d7cc042bbe3e9aca21e3790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ee505c4beb51dfc183dcbce42b5090b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404509733,
+            "region_id":85688727,
+            "venue_id":806858179
+        }
+    ],
     "wof:id":806858179,
-    "wof:lastmodified":1472629898,
+    "wof:lastmodified":1492818217,
     "wof:name":"Loren Evans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.118479,44.935109,-93.118479,44.935109",
     "geom:latitude":44.935109,
     "geom:longitude":-93.118479,
@@ -28,19 +29,40 @@
     "sg:postcode":"55102",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SwW2l5GuTwoHKooilq9sU_44.935109_-93.118479@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592245,
-    "wof:geomhash":"152e401d5f784f16be58d47afb9c03dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e2807074fbc5f8c9c13367cb155f8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":789989875
+        }
+    ],
     "wof:id":789989875,
-    "wof:lastmodified":1472629690,
+    "wof:lastmodified":1492809781,
     "wof:name":"Czech & Slovak Sokol Mn Gymnst",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

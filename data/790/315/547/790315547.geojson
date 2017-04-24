@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.460048,44.022238,-92.460048,44.022238",
     "geom:latitude":44.022238,
     "geom:longitude":-92.460048,
@@ -33,17 +34,34 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HNtQ9SpA6ax7ZXeu0DIzB_44.022238_-92.460048@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594886,
-    "wof:geomhash":"d412e1ae8255cccbdbd1a21e1504ad56",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fec7ec501f4e45a4ef34316a3501d1fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790315547
+        }
+    ],
     "wof:id":790315547,
-    "wof:lastmodified":1472629500,
+    "wof:lastmodified":1492833667,
     "wof:name":"Mayo Civic Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

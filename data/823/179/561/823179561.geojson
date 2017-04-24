@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.342376,44.915365,-93.342376,44.915365",
     "geom:latitude":44.915365,
     "geom:longitude":-93.342376,
@@ -33,17 +34,34 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L0UU9qqA4qryXPM4s6E56_44.915365_-93.342376@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608057,
-    "wof:geomhash":"977ef8a5f144f810192e87cdf8722704",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44848b0d48ada00c06a3b59bd8a86b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823179561
+        }
+    ],
     "wof:id":823179561,
-    "wof:lastmodified":1472629013,
+    "wof:lastmodified":1492830607,
     "wof:name":"E Christen Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

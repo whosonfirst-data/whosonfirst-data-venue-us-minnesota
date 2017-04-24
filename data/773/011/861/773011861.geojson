@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.151722,44.926044,-93.151722,44.926044",
     "geom:latitude":44.926044,
     "geom:longitude":-93.151722,
@@ -33,19 +34,38 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SzvhrivgzCYYM3wIGZlq5_44.926044_-93.151722@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582347,
-    "wof:geomhash":"1371fb0bc4c43d260787a163b938c132",
-    "wof:hierarchy":[],
+    "wof:geomhash":"502f92e4fde2f158ccd42e307da058f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":773011861
+        }
+    ],
     "wof:id":773011861,
-    "wof:lastmodified":1472629017,
+    "wof:lastmodified":1492804155,
     "wof:name":"Miller's Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.75202,44.027697,-92.75202,44.027697",
     "geom:latitude":44.027697,
     "geom:longitude":-92.75202,
@@ -32,17 +33,34 @@
         "housing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513737,
+        85633793,
+        85952827,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MOdmPxg9HhTAlAxeZcEzl_44.027697_-92.752020@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589399,
-    "wof:geomhash":"e2db6895e3145948cae141bdc8906964",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95a5555ab2d3f70ceb03d4b3f790b462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513737,
+            "locality_id":85952827,
+            "region_id":85688727,
+            "venue_id":789643461
+        }
+    ],
     "wof:id":789643461,
-    "wof:lastmodified":1472629086,
+    "wof:lastmodified":1492811209,
     "wof:name":"Kasson Senior Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

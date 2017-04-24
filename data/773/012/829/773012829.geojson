@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.732329,45.085049,-93.732329,45.085049",
     "geom:latitude":45.085049,
     "geom:longitude":-93.732329,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515247,
+        85633793,
+        85968937,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iG4Wagb0FEKyRCMpxflsg_45.085049_-93.732329@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582362,
-    "wof:geomhash":"0133b3933233e21a171be83967f656ea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8121369a467abca319b99e2ad67a013b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515247,
+            "locality_id":85968937,
+            "region_id":85688727,
+            "venue_id":773012829
+        }
+    ],
     "wof:id":773012829,
-    "wof:lastmodified":1472629014,
+    "wof:lastmodified":1492803071,
     "wof:name":"Central Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.885349,44.74396,-92.885349,44.74396",
     "geom:latitude":44.74396,
     "geom:longitude":-92.885349,
@@ -31,17 +32,34 @@
         "equipment-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76DMRhEfSjmGzoq5iKpkLH_44.743960_-92.885349@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605233,
-    "wof:geomhash":"6dad7f8b6e75892d1cc200adeeb239b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"929faa5795fe5657de4673a2332ebe53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":807241933
+        }
+    ],
     "wof:id":807241933,
-    "wof:lastmodified":1472629519,
+    "wof:lastmodified":1492823462,
     "wof:name":"Eir Testing Maintenance Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

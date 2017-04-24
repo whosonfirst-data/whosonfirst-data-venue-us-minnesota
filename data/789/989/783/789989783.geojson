@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.385657,44.931388,-93.385657,44.931388",
     "geom:latitude":44.931388,
     "geom:longitude":-93.385657,
@@ -31,17 +32,34 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BYlpIGWx8G4keqrCESQrc_44.931388_-93.385657@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592244,
-    "wof:geomhash":"44825421f085196f031a0c715c938b4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e7e272c9ddee6aaf02111d4c971db23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":789989783
+        }
+    ],
     "wof:id":789989783,
-    "wof:lastmodified":1472629688,
+    "wof:lastmodified":1492809785,
     "wof:name":"John Hamlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

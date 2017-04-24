@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.303873,45.389277,-93.303873,45.389277",
     "geom:latitude":45.389277,
     "geom:longitude":-93.303873,
@@ -32,17 +33,34 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515121,
+        85633793,
+        85953377,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cS1Yt5tIp5kG9f1yfdnOm_45.389277_-93.303873@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584369,
-    "wof:geomhash":"b879342b94cc8f57a0604a4a5c496f4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6fd35b452438595752baf55426e998c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404515121,
+            "locality_id":85953377,
+            "region_id":85688727,
+            "venue_id":773260835
+        }
+    ],
     "wof:id":773260835,
-    "wof:lastmodified":1472630003,
+    "wof:lastmodified":1492800126,
     "wof:name":"Nitti Rolloff Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

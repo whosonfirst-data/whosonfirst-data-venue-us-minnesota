@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.127675,44.40558,-95.127675,44.40558",
     "geom:latitude":44.40558,
     "geom:longitude":-95.127675,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510555,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dyXOYsa2UrkYzSfQRbw3S_44.405580_-95.127675@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599755,
-    "wof:geomhash":"56e6f20d42bae17378b548ef60756ec8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5ce4df7db95111c5fca645d9c52ec187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510555,
+            "region_id":85688727,
+            "venue_id":806632151
+        }
+    ],
     "wof:id":806632151,
-    "wof:lastmodified":1472629553,
+    "wof:lastmodified":1492818660,
     "wof:name":"Steves Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

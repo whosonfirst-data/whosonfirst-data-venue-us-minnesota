@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.382902,44.804098,-93.382902,44.804098",
     "geom:latitude":44.804098,
     "geom:longitude":-93.382902,
@@ -31,17 +32,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03IjnGzhf3RaQu8vUubzD3_44.804098_-93.382902@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608496,
-    "wof:geomhash":"973208f840c97cc5d9637d7734c5b472",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a1814a799a9c8955d11bc5dadc356339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823207957
+        }
+    ],
     "wof:id":823207957,
-    "wof:lastmodified":1472629064,
+    "wof:lastmodified":1492830181,
     "wof:name":"Davis Blair & Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

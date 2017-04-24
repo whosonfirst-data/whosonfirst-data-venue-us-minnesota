@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.989548,43.623772,-94.989548,43.623772",
     "geom:latitude":43.623772,
     "geom:longitude":-94.989548,
@@ -39,17 +40,34 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T4w5Vm2VJD2BzPHoG6eWW_43.623772_-94.989548@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609183,
-    "wof:geomhash":"af29128f58cabd1532d1351a93a57125",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a73ebf81a8dcae3926198e806cba8fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":823241893
+        }
+    ],
     "wof:id":823241893,
-    "wof:lastmodified":1472629168,
+    "wof:lastmodified":1492828892,
     "wof:name":"Trinity Lutheran Chu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

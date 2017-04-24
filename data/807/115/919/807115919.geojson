@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.283308,45.381375,-94.283308,45.381375",
     "geom:latitude":45.381375,
     "geom:longitude":-94.283308,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514373,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rRR2jVsNTfzcASLL2sRhR_45.381375_-94.283308@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603898,
-    "wof:geomhash":"32bc3e671cd44d433552195a386793b7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"78c78048787200db007227032e37f006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514373,
+            "region_id":85688727,
+            "venue_id":807115919
+        }
+    ],
     "wof:id":807115919,
-    "wof:lastmodified":1472629244,
+    "wof:lastmodified":1492823358,
     "wof:name":"Jerome Nistler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

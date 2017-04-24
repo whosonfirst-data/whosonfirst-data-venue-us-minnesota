@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.865512,45.968889,-94.865512,45.968889",
     "geom:latitude":45.968889,
     "geom:longitude":-94.865512,
@@ -31,17 +32,34 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514725,
+        85633793,
+        85968365,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SiuSo6pwC1YfPMUtnKIBK_45.968889_-94.865512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584309,
-    "wof:geomhash":"95184793305ad3be64eeea38fd5251bd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d1c8dc5d930115855210f507542aef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514725,
+            "locality_id":85968365,
+            "region_id":85688727,
+            "venue_id":773252125
+        }
+    ],
     "wof:id":773252125,
-    "wof:lastmodified":1472629989,
+    "wof:lastmodified":1492805697,
     "wof:name":"Budget Host Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

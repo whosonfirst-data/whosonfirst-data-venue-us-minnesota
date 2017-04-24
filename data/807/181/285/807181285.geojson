@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.948896,44.215125,-93.948896,44.215125",
     "geom:latitude":44.215125,
     "geom:longitude":-93.948896,
@@ -30,17 +31,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511539,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xRFQC6kOr2tDfLwC8l1CR_44.215125_-93.948896@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604598,
-    "wof:geomhash":"dd04126ba5ea8ab2e9f87d3b7e296a29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a09986f57886200892de0f21f9f430b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511539,
+            "region_id":85688727,
+            "venue_id":807181285
+        }
+    ],
     "wof:id":807181285,
-    "wof:lastmodified":1472629359,
+    "wof:lastmodified":1492826292,
     "wof:name":"Brian Hager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

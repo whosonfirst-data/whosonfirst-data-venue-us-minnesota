@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.163906,43.766696,-94.163906,43.766696",
     "geom:latitude":43.766696,
     "geom:longitude":-94.163906,
@@ -31,17 +32,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509621,
+        85633793,
+        85952577,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01OM3sxMCNf6t02hIWGnuo_43.766696_-94.163906@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582668,
-    "wof:geomhash":"c82c45ceb73fa86601cac911dfccf472",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75344a5650a583fc2c54ee2d74fd1687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509621,
+            "locality_id":85952577,
+            "region_id":85688727,
+            "venue_id":773040525
+        }
+    ],
     "wof:id":773040525,
-    "wof:lastmodified":1472629371,
+    "wof:lastmodified":1492800248,
     "wof:name":"Blue Earth Valley Telephone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

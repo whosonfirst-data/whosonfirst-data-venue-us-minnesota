@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539689,47.461216,-92.539689,47.461216",
     "geom:latitude":47.461216,
     "geom:longitude":-92.539689,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CA8FgT92EdXz1mhKBw4JO_47.461216_-92.539689@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582997,
-    "wof:geomhash":"2947098329c8ea71de7bf737263bd597",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81e96750ba9e9c0d6de38944cdce509c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773079045
+        }
+    ],
     "wof:id":773079045,
-    "wof:lastmodified":1472629489,
+    "wof:lastmodified":1492800660,
     "wof:name":"Head First Salon",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

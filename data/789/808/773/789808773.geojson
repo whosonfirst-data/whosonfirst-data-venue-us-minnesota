@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.173664,45.221941,-94.173664,45.221941",
     "geom:latitude":45.221941,
     "geom:longitude":-94.173664,
@@ -32,17 +33,32 @@
         "retreat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510761,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HwapIrOwA3PUj2MVjK42H_45.221941_-94.173664@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590705,
-    "wof:geomhash":"f46197c47ead940eb4bc5bee72d8e713",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13fc6a377c88bf905625f8219018ad76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510761,
+            "region_id":85688727,
+            "venue_id":789808773
+        }
+    ],
     "wof:id":789808773,
-    "wof:lastmodified":1472629405,
+    "wof:lastmodified":1492809437,
     "wof:name":"Clare's Well",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

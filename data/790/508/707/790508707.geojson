@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.343312,47.53803,-92.343312,47.53803",
     "geom:latitude":47.53803,
     "geom:longitude":-92.343312,
@@ -32,17 +33,26 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WSETka5NAn9ORUKEr6arS_47.538030_-92.343312@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596439,
-    "wof:geomhash":"608e0a8b58aff531df16d99e4cebde97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a16c30ab4df115e602aa0cd60c10ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":790508707
+        }
+    ],
     "wof:id":790508707,
-    "wof:lastmodified":1472629789,
+    "wof:lastmodified":1492834240,
     "wof:name":"Biwabik Water Treatment Plant",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

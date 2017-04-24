@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.855245,44.962794,-93.855245,44.962794",
     "geom:latitude":44.962794,
     "geom:longitude":-93.855245,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7INCCGCZvhiG7sLIspLECb_44.962794_-93.855245@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599632,
-    "wof:geomhash":"2fbcf2461d7d858acc01986beba6e189",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fee12434e3eb091a1f6d01a744989ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":806617429
+        }
+    ],
     "wof:id":806617429,
-    "wof:lastmodified":1472629552,
+    "wof:lastmodified":1492818464,
     "wof:name":"Elim Homes Of Watertown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

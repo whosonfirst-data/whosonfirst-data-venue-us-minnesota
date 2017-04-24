@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.374051,48.289415,-97.374051,48.289415",
     "geom:latitude":48.289415,
     "geom:longitude":-97.374051,
@@ -28,17 +29,34 @@
     "sg:postcode":"58261",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479699,
+        85633793,
+        85982491,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GXZ3jViui0tERUZKMVM4B_48.289415_-97.374051@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584166,
-    "wof:geomhash":"996c20ab5191b3a1ee7c850a6bda2d62",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81aad9e2046c7b5ccb0329f939488804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404479699,
+            "locality_id":85982491,
+            "region_id":85688525,
+            "venue_id":773232745
+        }
+    ],
     "wof:id":773232745,
-    "wof:lastmodified":1472629978,
+    "wof:lastmodified":1492799069,
     "wof:name":"John Miller Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

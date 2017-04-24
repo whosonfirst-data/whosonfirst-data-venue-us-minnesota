@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.842423,47.455883,-94.842423,47.455883",
     "geom:latitude":47.455883,
     "geom:longitude":-94.842423,
@@ -32,17 +33,32 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511371,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GRLALDXHA49iljcL5wIoJ_47.455883_-94.842423@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589870,
-    "wof:geomhash":"2a0e998f0d4e0a5cd5d640e9ed72ee23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed57e0e19c84ecd10b3fb1744d8140e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511371,
+            "region_id":85688727,
+            "venue_id":789701717
+        }
+    ],
     "wof:id":789701717,
-    "wof:lastmodified":1472629206,
+    "wof:lastmodified":1492813340,
     "wof:name":"Adult Day Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

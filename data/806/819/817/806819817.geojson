@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.921202,45.439244,-92.921202,45.439244",
     "geom:latitude":45.439244,
     "geom:longitude":-92.921202,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47Nha9kqyiU1Su4M4K87zS_45.439244_-92.921202@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601344,
-    "wof:geomhash":"3b372514a5e2bcb985ad525b3e98ec75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c582c315199d4b304d9712b2eedf475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":806819817
+        }
+    ],
     "wof:id":806819817,
-    "wof:lastmodified":1472629854,
+    "wof:lastmodified":1492814021,
     "wof:name":"Black Rock Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

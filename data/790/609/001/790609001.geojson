@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.121813,43.646743,-94.121813,43.646743",
     "geom:latitude":43.646743,
     "geom:longitude":-94.121813,
@@ -32,17 +33,34 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27zIN3zBihiAoxn6pFYoyY_43.646743_-94.121813@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597293,
-    "wof:geomhash":"a98abf488a1138a942689360fc5be77c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61d237a2156702c2fdba952b4248a0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":790609001
+        }
+    ],
     "wof:id":790609001,
-    "wof:lastmodified":1472629901,
+    "wof:lastmodified":1492833033,
     "wof:name":"Custom Built Pneumatics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.16383,44.060608,-94.16383,44.060608",
     "geom:latitude":44.060608,
     "geom:longitude":-94.16383,
@@ -32,17 +33,32 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509303,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UaYRzdygH4FZSbEXsn4HG_44.060608_-94.163830@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589358,
-    "wof:geomhash":"40f02dc9159de29d8ba682fdf6f279d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fa21b7c3517dc2c40bf9f732aeabf91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404509303,
+            "region_id":85688727,
+            "venue_id":789637741
+        }
+    ],
     "wof:id":789637741,
-    "wof:lastmodified":1472629092,
+    "wof:lastmodified":1492812510,
     "wof:name":"J R Connections",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

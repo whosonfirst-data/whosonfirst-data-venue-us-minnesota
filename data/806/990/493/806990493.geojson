@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.637644,44.748907,-93.637644,44.748907",
     "geom:latitude":44.748907,
     "geom:longitude":-93.637644,
@@ -32,17 +33,34 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509357,
+        85633793,
+        85953001,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cv4wM0qaAeK05IfHVKzBw_44.748907_-93.637644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602778,
-    "wof:geomhash":"04f4dd79088fa9905708b33fecae24aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"865a6ea9333c219b7ff49972fda88301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404509357,
+            "locality_id":85953001,
+            "region_id":85688727,
+            "venue_id":806990493
+        }
+    ],
     "wof:id":806990493,
-    "wof:lastmodified":1472629983,
+    "wof:lastmodified":1492814179,
     "wof:name":"Barclay Floorcovering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

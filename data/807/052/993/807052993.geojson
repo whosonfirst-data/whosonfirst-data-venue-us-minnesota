@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.767066,45.295268,-93.767066,45.295268",
     "geom:latitude":45.295268,
     "geom:longitude":-93.767066,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vbHQr3yM1chgPlymAMNZJ_45.295268_-93.767066@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603309,
-    "wof:geomhash":"270518c5bbf05fe56abe17d91319869a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31ff8d1d714387b39bed85f9936b516e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":807052993
+        }
+    ],
     "wof:id":807052993,
-    "wof:lastmodified":1472629053,
+    "wof:lastmodified":1492824823,
     "wof:name":"River Road Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

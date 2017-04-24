@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.113007,43.868854,-95.113007,43.868854",
     "geom:latitude":43.868854,
     "geom:longitude":-95.113007,
@@ -47,17 +48,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Us7mT6IcpwSqVLYBNDSie_43.868854_-95.113007@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609165,
-    "wof:geomhash":"2d9fad6b0716f4e84a73bf44e102699d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85aa745aa815397f37c912525bbed2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":823240915
+        }
+    ],
     "wof:id":823240915,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492830842,
     "wof:name":"Lund's Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

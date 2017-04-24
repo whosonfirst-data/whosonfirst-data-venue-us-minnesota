@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.957714,45.000184,-93.957714,45.000184",
     "geom:latitude":45.000184,
     "geom:longitude":-93.957714,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515263,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oqKcIDezXhFFvqDJm1hSh_45.000184_-93.957714@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604048,
-    "wof:geomhash":"bc572339d49a3ac42e04be94febf243c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3768282e6a4a9742efd750ab768d29cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515263,
+            "region_id":85688727,
+            "venue_id":807130059
+        }
+    ],
     "wof:id":807130059,
-    "wof:lastmodified":1472629240,
+    "wof:lastmodified":1492823015,
     "wof:name":"Joe Gallus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

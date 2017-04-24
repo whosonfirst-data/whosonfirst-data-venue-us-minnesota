@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.35022,44.73209,-94.35022,44.73209",
     "geom:latitude":44.73209,
     "geom:longitude":-94.35022,
@@ -39,17 +40,34 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512685,
+        85633793,
+        85952567,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O8MgrWWaIwx5gkBVIi7WQ_44.732090_-94.350220@1303262816"
     },
     "wof:country":"US",
     "wof:created":1462605830,
-    "wof:geomhash":"fb058a690ff5f1d2a9430849667322ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87d8a8980f6233fa6dd42139e872dc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512685,
+            "locality_id":85952567,
+            "region_id":85688727,
+            "venue_id":807297891
+        }
+    ],
     "wof:id":807297891,
-    "wof:lastmodified":1472629632,
+    "wof:lastmodified":1492827420,
     "wof:name":"Missouri Senate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

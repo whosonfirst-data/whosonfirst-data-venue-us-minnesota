@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.438866,43.688389,-95.438866,43.688389",
     "geom:latitude":43.688389,
     "geom:longitude":-95.438866,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509837,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iTj8Ksw8TBBr3gW2gLk2b_43.688389_-95.438866@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609171,
-    "wof:geomhash":"cf66b371e66230503fa9cbd10b72ddf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cca0a8bf7a22ed0c317a20c73b3d5f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509837,
+            "region_id":85688727,
+            "venue_id":823241263
+        }
+    ],
     "wof:id":823241263,
-    "wof:lastmodified":1472629131,
+    "wof:lastmodified":1492828907,
     "wof:name":"Larry Schmitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.203347,45.569092,-94.203347,45.569092",
     "geom:latitude":45.569092,
     "geom:longitude":-94.203347,
@@ -28,17 +29,34 @@
     "sg:postcode":"56303",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P2ccb14qf1XEX8F2s9QJa_45.569092_-94.203347@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592045,
-    "wof:geomhash":"b83120ddc66490a92f7b33d02d332a2c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fba4ac32098a0b0e38caf0f19a2c2ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":789965809
+        }
+    ],
     "wof:id":789965809,
-    "wof:lastmodified":1472629660,
+    "wof:lastmodified":1492813179,
     "wof:name":"Traffic Safety & Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

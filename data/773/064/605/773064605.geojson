@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.599849,45.963414,-95.599849,45.963414",
     "geom:latitude":45.963414,
     "geom:longitude":-95.599849,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509577,
+        85633793,
+        85953539,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MYnFrQ3dvveatCcOrCHjL_45.963414_-95.599849@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582890,
-    "wof:geomhash":"aa247e457f679dd6faa581bda8b90337",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7a61efe7ec2f0a1151b5256853a8199c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509577,
+            "locality_id":85953539,
+            "region_id":85688727,
+            "venue_id":773064605
+        }
+    ],
     "wof:id":773064605,
-    "wof:lastmodified":1472629473,
+    "wof:lastmodified":1492799480,
     "wof:name":"Grace Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

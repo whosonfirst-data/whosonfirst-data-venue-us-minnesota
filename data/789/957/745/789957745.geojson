@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.301015,44.855277,-93.301015,44.855277",
     "geom:latitude":44.855277,
     "geom:longitude":-93.301015,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QS3TQsuxjH5tJmadhiPGP_44.855277_-93.301015@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591979,
-    "wof:geomhash":"14d61f606bd20b95bbbb1a1a377f43fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a01af11ab75e7442aa824b1edb80452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":789957745
+        }
+    ],
     "wof:id":789957745,
-    "wof:lastmodified":1472629650,
+    "wof:lastmodified":1492811344,
     "wof:name":"Adams Consulting Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

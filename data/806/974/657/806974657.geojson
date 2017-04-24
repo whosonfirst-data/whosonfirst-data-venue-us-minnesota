@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.815334,43.563024,-93.815334,43.563024",
     "geom:latitude":43.563024,
     "geom:longitude":-93.815334,
@@ -33,17 +34,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509597,
+        85633793,
+        85952597,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TXGUERT3QOLtzwofTjPMe_43.563024_-93.815334@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602646,
-    "wof:geomhash":"2231a4594c6ec1575cdceea9bab303ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"72224c34135043c9ffeb9960d3ca9218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509597,
+            "locality_id":85952597,
+            "region_id":85688727,
+            "venue_id":806974657
+        }
+    ],
     "wof:id":806974657,
-    "wof:lastmodified":1472629976,
+    "wof:lastmodified":1492814648,
     "wof:name":"Bob's Archery & More",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

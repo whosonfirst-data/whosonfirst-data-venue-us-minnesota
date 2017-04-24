@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.177694,48.562962,-97.177694,48.562962",
     "geom:latitude":48.562962,
     "geom:longitude":-97.177694,
@@ -31,17 +32,34 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479297,
+        85633793,
+        85981925,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01kN6GXxlr0tF2vpyEf0Le_48.562962_-97.177694@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599799,
-    "wof:geomhash":"f92bf181262ad2a525fabea60d9764e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7e203bd9fed94d2f52d9121cd0d7871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404479297,
+            "locality_id":85981925,
+            "region_id":85688525,
+            "venue_id":806637935
+        }
+    ],
     "wof:id":806637935,
-    "wof:lastmodified":1472629587,
+    "wof:lastmodified":1492819674,
     "wof:name":"Kelly's Country Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

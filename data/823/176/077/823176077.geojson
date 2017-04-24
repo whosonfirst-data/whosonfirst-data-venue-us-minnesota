@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.279533,44.883509,-93.279533,44.883509",
     "geom:latitude":44.883509,
     "geom:longitude":-93.279533,
@@ -35,17 +36,34 @@
     ],
     "sg:website":"http://www.blockbuster.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3beHnyHXoYiY4oiIXYfWzK_44.883509_-93.279533@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462608015,
-    "wof:geomhash":"af4f06ed22b214fd22717f705d63b589",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8f21fd0aeb6336f01d030d322060c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823176077
+        }
+    ],
     "wof:id":823176077,
-    "wof:lastmodified":1472628994,
+    "wof:lastmodified":1492828451,
     "wof:name":"Blockbuster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

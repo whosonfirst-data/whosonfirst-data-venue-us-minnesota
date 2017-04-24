@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.956383,44.16946,-93.956383,44.16946",
     "geom:latitude":44.16946,
     "geom:longitude":-93.956383,
@@ -38,17 +39,34 @@
         "fur"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MeXIAQCtFJwKhAuzkAWmo_44.169460_-93.956383@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609104,
-    "wof:geomhash":"37558658a3ba34f7e320db6870467a93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"678b4e389cfec0c4f17bc2c84530213a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":823237871
+        }
+    ],
     "wof:id":823237871,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492831128,
     "wof:name":"Vanity Fur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.381112,45.076855,-93.381112,45.076855",
     "geom:latitude":45.076855,
     "geom:longitude":-93.381112,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Q5jcJKjOpwtzwKTUrq9Xl_45.076855_-93.381112@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593034,
-    "wof:geomhash":"3551e7ccdc52e6f0f81ad80fdfe3e333",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d6f237414e5513be75c79599ad73ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":790088771
+        }
+    ],
     "wof:id":790088771,
-    "wof:lastmodified":1472629119,
+    "wof:lastmodified":1492834424,
     "wof:name":"Patricia Mortenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

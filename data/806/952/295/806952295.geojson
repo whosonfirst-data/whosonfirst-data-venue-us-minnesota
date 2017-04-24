@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359215,44.558638,-93.359215,44.558638",
     "geom:latitude":44.558638,
     "geom:longitude":-93.359215,
@@ -33,17 +34,32 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514991,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Kr6kEOVzu26BGZIc1Fl7h_44.558638_-93.359215@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602460,
-    "wof:geomhash":"1d5be628207d959d6a27612a49c0dc7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"76b7f110985095b4ee66ec16156a3d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514991,
+            "region_id":85688727,
+            "venue_id":806952295
+        }
+    ],
     "wof:id":806952295,
-    "wof:lastmodified":1472629953,
+    "wof:lastmodified":1492817145,
     "wof:name":"Cody's Sweeping & Parking Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

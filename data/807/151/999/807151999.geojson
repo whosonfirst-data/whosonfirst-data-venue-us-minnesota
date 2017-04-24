@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.763345,43.972913,-95.763345,43.972913",
     "geom:latitude":43.972913,
     "geom:longitude":-95.763345,
@@ -29,17 +30,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513323,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_434zmRX5x43yeydsF3EkRH_43.972913_-95.763345@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604292,
-    "wof:geomhash":"d6c6b7827915cd7bafd8873475999f9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5906985a8f7db21549443746874fe070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513323,
+            "region_id":85688727,
+            "venue_id":807151999
+        }
+    ],
     "wof:id":807151999,
-    "wof:lastmodified":1472629298,
+    "wof:lastmodified":1492823392,
     "wof:name":"Don Renken",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

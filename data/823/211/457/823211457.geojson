@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.439734,45.06494,-93.439734,45.06494",
     "geom:latitude":45.06494,
     "geom:longitude":-93.439734,
@@ -36,17 +37,34 @@
         "cleaning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c6adnp0S4OfKnSE6UCWrA_45.064940_-93.439734@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608560,
-    "wof:geomhash":"d5e79a2ae73c933d5b2757252976a20d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fff134dd6d5167c3411302c1d7aa5944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823211457
+        }
+    ],
     "wof:id":823211457,
-    "wof:lastmodified":1472629105,
+    "wof:lastmodified":1492828202,
     "wof:name":"Leather Medic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

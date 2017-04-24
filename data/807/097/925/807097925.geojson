@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.511539,45.630576,-93.511539,45.630576",
     "geom:latitude":45.630576,
     "geom:longitude":-93.511539,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509789,
+        85633793,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mbOubBz0YF0f0cLblK5j0_45.630576_-93.511539@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603698,
-    "wof:geomhash":"8fb35f86f97486f528dc6a5ecbdcf807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d28f95b485c84474147cfaaa7781b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404509789,
+            "region_id":85688727,
+            "venue_id":807097925
+        }
+    ],
     "wof:id":807097925,
-    "wof:lastmodified":1472629216,
+    "wof:lastmodified":1492827382,
     "wof:name":"Larry Lueck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

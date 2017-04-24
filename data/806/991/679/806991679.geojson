@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.050715,45.31527,-93.050715,45.31527",
     "geom:latitude":45.31527,
     "geom:longitude":-93.050715,
@@ -31,17 +32,34 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509193,
+        85633793,
+        85953373,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aRCoRhpF1j3JxFdpmS04R_45.315270_-93.050715@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602788,
-    "wof:geomhash":"6ca6d639599ce138a49174b65cbfaa87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccc9c354e4f670d5b04911d7cb923162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404509193,
+            "locality_id":85953373,
+            "region_id":85688727,
+            "venue_id":806991679
+        }
+    ],
     "wof:id":806991679,
-    "wof:lastmodified":1472629987,
+    "wof:lastmodified":1492814733,
     "wof:name":"Walters & Goergen Consult",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.881162,44.159185,-93.881162,44.159185",
     "geom:latitude":44.159185,
     "geom:longitude":-93.881162,
@@ -34,17 +35,34 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511527,
+        85633793,
+        85953361,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EyJu6OZLzuNUXXBXPv9WD_44.159185_-93.881162@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590569,
-    "wof:geomhash":"5b6208f258bfdfda5e0f500c011481c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb923fcfd289d2a21206885934a9416b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511527,
+            "locality_id":85953361,
+            "region_id":85688727,
+            "venue_id":789790535
+        }
+    ],
     "wof:id":789790535,
-    "wof:lastmodified":1472629379,
+    "wof:lastmodified":1492813738,
     "wof:name":"Halter Housing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

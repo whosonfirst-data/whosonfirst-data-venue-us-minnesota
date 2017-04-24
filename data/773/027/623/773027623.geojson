@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.322915,48.369541,-96.322915,48.369541",
     "geom:latitude":48.369541,
     "geom:longitude":-96.322915,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513849,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PDFBdAfcV1LyIsiu60Rox_48.369541_-96.322915@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582547,
-    "wof:geomhash":"7be03a2722032a77fa8d9e6239faad6b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db8faffc2d287151857531e283f35866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513849,
+            "region_id":85688727,
+            "venue_id":773027623
+        }
+    ],
     "wof:id":773027623,
-    "wof:lastmodified":1472629175,
+    "wof:lastmodified":1492807505,
     "wof:name":"Norman Lindemoen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

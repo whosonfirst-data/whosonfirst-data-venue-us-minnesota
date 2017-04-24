@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.089357,43.586726,-93.089357,43.586726",
     "geom:latitude":43.586726,
     "geom:longitude":-93.089357,
@@ -32,17 +33,41 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515211,
+        85633793,
+        102087887,
+        404509663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bBfSVcMhNUUdqlRODezq0_43.586726_-93.089357@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584756,
-    "wof:geomhash":"04ca5e127191e71547a88eb9283ec482",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5df4252db3963259c71a78f010ac4455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404515211,
+            "region_id":85688727,
+            "venue_id":773309191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509663,
+            "region_id":85688727,
+            "venue_id":773309191
+        }
+    ],
     "wof:id":773309191,
-    "wof:lastmodified":1472630003,
+    "wof:lastmodified":1492802975,
     "wof:name":"Naatz Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

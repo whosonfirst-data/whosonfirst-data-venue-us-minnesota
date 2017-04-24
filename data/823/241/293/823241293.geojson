@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.452976,43.710375,-95.452976,43.710375",
     "geom:latitude":43.710375,
     "geom:longitude":-95.452976,
@@ -31,17 +32,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512127,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17f0CYvHuVXNZN9ET0vJh2_43.710375_-95.452976@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609172,
-    "wof:geomhash":"4ebc6306db5ccc93a1bc0d1fbd31427b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fe618b63ef8e454df31440c6041c885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512127,
+            "region_id":85688727,
+            "venue_id":823241293
+        }
+    ],
     "wof:id":823241293,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492828908,
     "wof:name":"Ron Luitjens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

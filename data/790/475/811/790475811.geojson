@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.548671,45.191068,-93.548671,45.191068",
     "geom:latitude":45.191068,
     "geom:longitude":-93.548671,
@@ -28,17 +29,34 @@
     "sg:postcode":"55374",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sh9wtTDzUigcsfRIl2FTr_45.191068_-93.548671@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596157,
-    "wof:geomhash":"77318d19b26bf7809de6bc1ab605d39e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a461cf9d28fc0f212fca7339ee9e41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":790475811
+        }
+    ],
     "wof:id":790475811,
-    "wof:lastmodified":1472629760,
+    "wof:lastmodified":1492835235,
     "wof:name":"Rogers Branch Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

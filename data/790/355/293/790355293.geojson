@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.89282,43.815848,-95.89282,43.815848",
     "geom:latitude":43.815848,
     "geom:longitude":-95.89282,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512151,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nPh8RSaxt50l5gCv7RreN_43.815848_-95.892820@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595180,
-    "wof:geomhash":"0dc8dbfc3f5d9ae455d8c3ba36ad3241",
-    "wof:hierarchy":[],
+    "wof:geomhash":"439c8d21845ff18bd69510639c5dc922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512151,
+            "region_id":85688727,
+            "venue_id":790355293
+        }
+    ],
     "wof:id":790355293,
-    "wof:lastmodified":1472629561,
+    "wof:lastmodified":1492832856,
     "wof:name":"Mark Roeder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

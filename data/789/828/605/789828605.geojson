@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.396299,44.901255,-94.396299,44.901255",
     "geom:latitude":44.901255,
     "geom:longitude":-94.396299,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01vIYp2vn2CMVmchVNXk1s_44.901255_-94.396299@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590861,
-    "wof:geomhash":"f678f50826cda2b2684288526dd1e27d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47f35e610f51f78e3e235513d5c32236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":789828605
+        }
+    ],
     "wof:id":789828605,
-    "wof:lastmodified":1472629433,
+    "wof:lastmodified":1492810409,
     "wof:name":"Woods Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

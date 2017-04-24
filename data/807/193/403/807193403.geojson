@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.257476,45.128896,-94.257476,45.128896",
     "geom:latitude":45.128896,
     "geom:longitude":-94.257476,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512393,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q0HZyfYkf8FYbL6Gk826x_45.128896_-94.257476@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604723,
-    "wof:geomhash":"0f2d797688aaeb2f9806fbd526ae9d6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db4e3aa0c7dff9aecf14f855226082b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512393,
+            "region_id":85688727,
+            "venue_id":807193403
+        }
+    ],
     "wof:id":807193403,
-    "wof:lastmodified":1472629385,
+    "wof:lastmodified":1492823900,
     "wof:name":"Tim Kelly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

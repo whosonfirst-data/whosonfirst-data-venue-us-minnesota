@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.328369,45.089981,-93.328369,45.089981",
     "geom:latitude":45.089981,
     "geom:longitude":-93.328369,
@@ -42,17 +43,34 @@
         "equipment-repairing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u3qtQ6vk7zjhBHz8pslgg_45.089981_-93.328369@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608582,
-    "wof:geomhash":"bf646ab399386d158df16eae530fcf71",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0484187d3c33f1ed9e95de1eb0c224ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823212813
+        }
+    ],
     "wof:id":823212813,
-    "wof:lastmodified":1472629110,
+    "wof:lastmodified":1492829992,
     "wof:name":"Life Safety Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

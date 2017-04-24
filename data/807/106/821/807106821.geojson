@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.929299,44.882816,-93.929299,44.882816",
     "geom:latitude":44.882816,
     "geom:longitude":-93.929299,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511683,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_194xhMsVFnE8imszRT04yi_44.882753_-93.929317@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603802,
-    "wof:geomhash":"ce97584315144d14eab7ba3e356c085c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c60a0d32c1fe9c24593fa38e233103cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511683,
+            "region_id":85688727,
+            "venue_id":807106821
+        }
+    ],
     "wof:id":807106821,
-    "wof:lastmodified":1472629209,
+    "wof:lastmodified":1492827143,
     "wof:name":"Joel Vinkemeier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.524273,45.660172,-93.524273,45.660172",
     "geom:latitude":45.660172,
     "geom:longitude":-93.524273,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512419,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Q8pfHqhGNiiQeW7p3avcM_45.660172_-93.524273@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595609,
-    "wof:geomhash":"0274ec63ab8c3b1b82a078b6636e44cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e11e207c7350669f658b85e97db72fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512419,
+            "region_id":85688727,
+            "venue_id":790409397
+        }
+    ],
     "wof:id":790409397,
-    "wof:lastmodified":1472629680,
+    "wof:lastmodified":1492836464,
     "wof:name":"Ralph Hoeft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

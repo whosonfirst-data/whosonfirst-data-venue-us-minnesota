@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.009305,47.912764,-97.009305,47.912764",
     "geom:latitude":47.912764,
     "geom:longitude":-97.009305,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513699,
+        85633793,
+        85968415,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BLEx4AWPuLBQbKnJhqvai_47.912764_-97.009305@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595011,
-    "wof:geomhash":"151e16e6cc14584a9ad0ee0499a1c75b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a3e4815740fbd18e3113eb26357e4fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513699,
+            "locality_id":85968415,
+            "region_id":85688727,
+            "venue_id":790332787
+        }
+    ],
     "wof:id":790332787,
-    "wof:lastmodified":1472629519,
+    "wof:lastmodified":1492832014,
     "wof:name":"Christian Reformed Church N A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

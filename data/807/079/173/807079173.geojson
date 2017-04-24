@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.58909,44.057872,-92.58909,44.057872",
     "geom:latitude":44.057872,
     "geom:longitude":-92.58909,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512451,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27vaV1jnjB6ZramXcsZKx5_44.057872_-92.589090@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603526,
-    "wof:geomhash":"a4f087237ad646d1d29f9701877fb1e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8f469b6d5463c871b616ef936dd1860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512451,
+            "region_id":85688727,
+            "venue_id":807079173
+        }
+    ],
     "wof:id":807079173,
-    "wof:lastmodified":1472629084,
+    "wof:lastmodified":1492823180,
     "wof:name":"Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

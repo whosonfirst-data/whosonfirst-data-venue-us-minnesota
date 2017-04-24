@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.352455,45.386981,-93.352455,45.386981",
     "geom:latitude":45.386981,
     "geom:longitude":-93.352455,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515121,
+        85633793,
+        85953377,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uV8CPcf36KCsx4MJTfq8j_45.386981_-93.352455@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584866,
-    "wof:geomhash":"d4a733f3175160eb96d7b57b8ec7b755",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ed7d7baecc8be807fabbe6089aacf77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404515121,
+            "locality_id":85953377,
+            "region_id":85688727,
+            "venue_id":773323601
+        }
+    ],
     "wof:id":773323601,
-    "wof:lastmodified":1472630010,
+    "wof:lastmodified":1492807157,
     "wof:name":"Jason R Williams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

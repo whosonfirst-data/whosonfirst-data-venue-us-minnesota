@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.967489,45.675516,-92.967489,45.675516",
     "geom:latitude":45.675516,
     "geom:longitude":-92.967489,
@@ -32,17 +33,34 @@
         "skid"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511023,
+        85633793,
+        85952689,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vGWRnqXsHwrwPWlxJSD4J_45.675516_-92.967489@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587180,
-    "wof:geomhash":"5bb60aa165dad9e95a4ef2f59ab70981",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fbf0f9bfbadd66ae1a3b2de61c4c767d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511023,
+            "locality_id":85952689,
+            "region_id":85688727,
+            "venue_id":773631241
+        }
+    ],
     "wof:id":773631241,
-    "wof:lastmodified":1472630114,
+    "wof:lastmodified":1492799945,
     "wof:name":"East Central Pallet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

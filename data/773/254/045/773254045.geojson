@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.819321,44.180803,-94.819321,44.180803",
     "geom:latitude":44.180803,
     "geom:longitude":-94.819321,
@@ -39,17 +40,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509327,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ESA3yQrBvjUnamXw4laE9_44.180803_-94.819321@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584322,
-    "wof:geomhash":"9cc27541a7c4b149a7d77dbfb2eaebe0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3be5a65208f009e5546e6cb07772a96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509327,
+            "region_id":85688727,
+            "venue_id":773254045
+        }
+    ],
     "wof:id":773254045,
-    "wof:lastmodified":1472629989,
+    "wof:lastmodified":1492807927,
     "wof:name":"Mike's Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

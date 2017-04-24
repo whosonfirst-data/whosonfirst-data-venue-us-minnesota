@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.869356,45.973177,-94.869356,45.973177",
     "geom:latitude":45.973177,
     "geom:longitude":-94.869356,
@@ -37,17 +38,34 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514725,
+        85633793,
+        85968365,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tN2Zt8FLvMsB1bID2jEQv_45.973177_-94.869356@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595706,
-    "wof:geomhash":"7b00843dbd9a02f07a7799e53c7e1d3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f39cbc7a576a2aa32bcfecd4412c045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514725,
+            "locality_id":85968365,
+            "region_id":85688727,
+            "venue_id":790423283
+        }
+    ],
     "wof:id":790423283,
-    "wof:lastmodified":1472629687,
+    "wof:lastmodified":1492832732,
     "wof:name":"Ruby David Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

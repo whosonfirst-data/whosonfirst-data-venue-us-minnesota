@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.640731,45.916617,-94.640731,45.916617",
     "geom:latitude":45.916617,
     "geom:longitude":-94.640731,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510053,
+        85633793,
+        85968867,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NupmcCLAJ38fNwQdvCVt4_45.916617_-94.640731@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592394,
-    "wof:geomhash":"3c300704f5892e6253bef3c849bbd1a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40c06c78c7062d201207a40be89e15a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510053,
+            "locality_id":85968867,
+            "region_id":85688727,
+            "venue_id":790008169
+        }
+    ],
     "wof:id":790008169,
-    "wof:lastmodified":1472628935,
+    "wof:lastmodified":1492833831,
     "wof:name":"St John's Catholic Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

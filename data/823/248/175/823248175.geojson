@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.379797,45.867489,-95.379797,45.867489",
     "geom:latitude":45.867489,
     "geom:longitude":-95.379797,
@@ -28,19 +29,38 @@
     "sg:postcode":"56308",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102531387,
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KHB9fAHoeU9LFFN1Zd3R9_45.867489_-95.379797@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609300,
-    "wof:geomhash":"c833a5c8dcb874580740a371ac1e846f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a99e322e484ca56cabb2cfe0ac3d505",
+    "wof:hierarchy":[
+        {
+            "campus_id":102531387,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":823248175
+        }
+    ],
     "wof:id":823248175,
-    "wof:lastmodified":1472629159,
+    "wof:lastmodified":1492830236,
     "wof:name":"Platinum Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":102531387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

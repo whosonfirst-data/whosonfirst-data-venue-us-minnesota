@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.174241,43.819122,-93.174241,43.819122",
     "geom:latitude":43.819122,
     "geom:longitude":-93.174241,
@@ -36,17 +37,32 @@
         "lab"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514413,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XHRtB3XEG3v91b2hFLd6b_43.819122_-93.174241@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582403,
-    "wof:geomhash":"4004845b03e26b1d978a079797bfc9b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b74c8a791e886b1f51feadf442815ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514413,
+            "region_id":85688727,
+            "venue_id":773015371
+        }
+    ],
     "wof:id":773015371,
-    "wof:lastmodified":1472628978,
+    "wof:lastmodified":1492799077,
     "wof:name":"Earthsoils",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

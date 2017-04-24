@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.336614,44.469365,-94.336614,44.469365",
     "geom:latitude":44.469365,
     "geom:longitude":-94.336614,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513889,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vLUwctEs42QIZVM0dzF3c_44.469365_-94.336614@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604088,
-    "wof:geomhash":"152b913f34550d0695910817181b9f97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86fff0fb4a5a0eccd35627435b3a5eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404513889,
+            "region_id":85688727,
+            "venue_id":807133453
+        }
+    ],
     "wof:id":807133453,
-    "wof:lastmodified":1472629255,
+    "wof:lastmodified":1492823525,
     "wof:name":"Nancy Niebuhr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

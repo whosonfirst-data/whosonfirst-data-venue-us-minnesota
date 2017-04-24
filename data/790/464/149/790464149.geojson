@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.42789,45.038733,-93.42789,45.038733",
     "geom:latitude":45.038733,
     "geom:longitude":-93.42789,
@@ -31,17 +32,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BvtpcZtbHaVdbLKOUTZG4_45.038733_-93.427890@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596042,
-    "wof:geomhash":"f2d824c4817b90f5d5285151c78cf1e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"964b64b3569df33352ddbde817d971f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":790464149
+        }
+    ],
     "wof:id":790464149,
-    "wof:lastmodified":1472629745,
+    "wof:lastmodified":1492836072,
     "wof:name":"Advance Building Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

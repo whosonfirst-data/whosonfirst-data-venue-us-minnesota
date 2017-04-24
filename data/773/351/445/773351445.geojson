@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.145917,46.333113,-96.145917,46.333113",
     "geom:latitude":46.333113,
     "geom:longitude":-96.145917,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512879,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XKTBjzLI0iMTcxsge5aaL_46.333113_-96.145917@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585055,
-    "wof:geomhash":"0f979dd1c68d9fdd8fdefeba092f4b25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0167a9bee9f27621ec601c94cf77ec76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512879,
+            "region_id":85688727,
+            "venue_id":773351445
+        }
+    ],
     "wof:id":773351445,
-    "wof:lastmodified":1472630025,
+    "wof:lastmodified":1492805768,
     "wof:name":"L Steve Roeh",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

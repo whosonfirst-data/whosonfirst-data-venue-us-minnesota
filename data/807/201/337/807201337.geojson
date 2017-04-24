@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.165635,45.77441,-95.165635,45.77441",
     "geom:latitude":45.77441,
     "geom:longitude":-95.165635,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513929,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AlODpvoIB8zJK8vwlmB9u_45.774410_-95.165635@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604811,
-    "wof:geomhash":"21060b44335264692d0f6725b21a8cd2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"257392b0f3591f163cf826f94e4876ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513929,
+            "region_id":85688727,
+            "venue_id":807201337
+        }
+    ],
     "wof:id":807201337,
-    "wof:lastmodified":1472629409,
+    "wof:lastmodified":1492825845,
     "wof:name":"Earl Newton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

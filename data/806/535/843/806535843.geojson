@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.19577,43.860739,-92.19577,43.860739",
     "geom:latitude":43.860739,
     "geom:longitude":-92.19577,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512439,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lFptZ9cXymI0E2fJyjmGb_43.860739_-92.195770@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598923,
-    "wof:geomhash":"3f14a01ba7faa1920cecac21d176c50b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd1c2430ff28ff00c7c6d13852d960ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512439,
+            "region_id":85688727,
+            "venue_id":806535843
+        }
+    ],
     "wof:id":806535843,
-    "wof:lastmodified":1472629405,
+    "wof:lastmodified":1492821980,
     "wof:name":"Funk Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

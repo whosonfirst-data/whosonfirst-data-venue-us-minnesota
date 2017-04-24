@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.174699,43.677229,-95.174699,43.677229",
     "geom:latitude":43.677229,
     "geom:longitude":-95.174699,
@@ -33,17 +34,34 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509845,
+        85633793,
+        85952431,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QL1djDbqsdrX88KlGsnOw_43.677229_-95.174699@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582243,
-    "wof:geomhash":"d86e5c1f9dc877448907a46146376ba8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63b5d065734bf722ba85c6353792735a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509845,
+            "locality_id":85952431,
+            "region_id":85688727,
+            "venue_id":773006421
+        }
+    ],
     "wof:id":773006421,
-    "wof:lastmodified":1472628984,
+    "wof:lastmodified":1492802519,
     "wof:name":"Cooperative Ag Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

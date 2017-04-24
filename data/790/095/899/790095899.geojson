@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.613368,43.608537,-95.613368,43.608537",
     "geom:latitude":43.608537,
     "geom:longitude":-95.613368,
@@ -31,17 +32,34 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51UVtJ4HdEPwdk2JdOGFtf_43.608537_-95.613368@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593096,
-    "wof:geomhash":"9d6b1701459487590571e4347bd5bd29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9aac22caa89cec1497fb29b9dfc10cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":790095899
+        }
+    ],
     "wof:id":790095899,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492833929,
     "wof:name":"Little Tech Center Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

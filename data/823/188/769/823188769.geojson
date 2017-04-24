@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.399708,45.050729,-93.399708,45.050729",
     "geom:latitude":45.050729,
     "geom:longitude":-93.399708,
@@ -36,17 +37,34 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dcX6vcuprNeQRNXBKUDs8_45.050729_-93.399708@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608176,
-    "wof:geomhash":"b74ac98a5a092819c754ea0e7e9962a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"80b658272d83ec4ff82e90e07b215d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":823188769
+        }
+    ],
     "wof:id":823188769,
-    "wof:lastmodified":1472629044,
+    "wof:lastmodified":1492828126,
     "wof:name":"Can Do Canines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

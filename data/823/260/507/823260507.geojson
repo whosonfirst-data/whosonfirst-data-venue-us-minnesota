@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.773906,48.197832,-96.773906,48.197832",
     "geom:latitude":48.197832,
     "geom:longitude":-96.773906,
@@ -37,17 +38,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513989,
+        85633793,
+        85953457,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TqjyucZhcz7fn952D3g7m_48.197832_-96.773906@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609561,
-    "wof:geomhash":"5b39896bc647b62db3561a0cbd6fb055",
-    "wof:hierarchy":[],
+    "wof:geomhash":"658e0b2f0561162cf6de75ff1adae54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513989,
+            "locality_id":85953457,
+            "region_id":85688727,
+            "venue_id":823260507
+        }
+    ],
     "wof:id":823260507,
-    "wof:lastmodified":1472629220,
+    "wof:lastmodified":1492828555,
     "wof:name":"March Siding Location",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

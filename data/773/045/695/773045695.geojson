@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.151644,44.768947,-94.151644,44.768947",
     "geom:latitude":44.768947,
     "geom:longitude":-94.151644,
@@ -31,17 +32,34 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PXR5avBRvhRajJPhJXhMB_44.768947_-94.151644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582707,
-    "wof:geomhash":"ce870a1f1fdb12b87724e3df424eea22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40cb60819bb27484ae4439d07c64ed8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":773045695
+        }
+    ],
     "wof:id":773045695,
-    "wof:lastmodified":1472629379,
+    "wof:lastmodified":1492802026,
     "wof:name":"My Own Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

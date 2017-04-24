@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.625911,44.768469,-93.625911,44.768469",
     "geom:latitude":44.768469,
     "geom:longitude":-93.625911,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509357,
+        85633793,
+        85953001,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X6jRagSNVu3aur6Zkr2ai_44.768469_-93.625911@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600848,
-    "wof:geomhash":"8ec9e1ccba0ac86d99b2d67cbe085613",
-    "wof:hierarchy":[],
+    "wof:geomhash":"544ee01d5a1a27326a47f2692cd34010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404509357,
+            "locality_id":85953001,
+            "region_id":85688727,
+            "venue_id":806759981
+        }
+    ],
     "wof:id":806759981,
-    "wof:lastmodified":1472629803,
+    "wof:lastmodified":1492816463,
     "wof:name":"Angel House Adult Foster Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

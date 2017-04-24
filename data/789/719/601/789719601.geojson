@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.837765,46.818275,-95.837765,46.818275",
     "geom:latitude":46.818275,
     "geom:longitude":-95.837765,
@@ -31,17 +32,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SMKs557WQLpieahOvCjJ9_46.818275_-95.837765@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590010,
-    "wof:geomhash":"36acec2e1af192e9b02d4cb47c467f0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24e0bca4470702c5e670aeb433cbb1eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":789719601
+        }
+    ],
     "wof:id":789719601,
-    "wof:lastmodified":1472629249,
+    "wof:lastmodified":1492813159,
     "wof:name":"Midwest Motor Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

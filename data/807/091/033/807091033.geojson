@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.318036,45.013885,-94.318036,45.013885",
     "geom:latitude":45.013885,
     "geom:longitude":-94.318036,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512381,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05Lmo3A6VB3dOxpabEm9iE_45.013885_-94.318036@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603627,
-    "wof:geomhash":"7dad3420265bddef331c06c54ae16663",
-    "wof:hierarchy":[],
+    "wof:geomhash":"55d34375bef71df55d63107783ab645f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512381,
+            "region_id":85688727,
+            "venue_id":807091033
+        }
+    ],
     "wof:id":807091033,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492822390,
     "wof:name":"Grant Quarnstrom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

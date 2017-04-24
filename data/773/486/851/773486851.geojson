@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.994611,44.203568,-93.994611,44.203568",
     "geom:latitude":44.203568,
     "geom:longitude":-93.994611,
@@ -38,17 +39,32 @@
         "elevator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511539,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vpEpa2NXIJbRY6pPKQ7aB_44.203568_-93.994611@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586118,
-    "wof:geomhash":"f9e66ae937fb8bd7fc9612410b452c0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a202f3c7b260a0e7e4aa8c0ef2413fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511539,
+            "region_id":85688727,
+            "venue_id":773486851
+        }
+    ],
     "wof:id":773486851,
-    "wof:lastmodified":1472630069,
+    "wof:lastmodified":1492802849,
     "wof:name":"Farmer's Elevator Co-Traverse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

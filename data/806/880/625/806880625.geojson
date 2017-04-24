@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.046584,44.378747,-92.046584,44.378747",
     "geom:latitude":44.378747,
     "geom:longitude":-92.046584,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_164CuDtnuXGeyWZNQ6OEup_44.378747_-92.046584@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601861,
-    "wof:geomhash":"866b1459eeae7c73c7e11b693d3e3763",
-    "wof:hierarchy":[],
+    "wof:geomhash":"297cd5a0918d60cfac07b78516660ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":806880625
+        }
+    ],
     "wof:id":806880625,
-    "wof:lastmodified":1472629919,
+    "wof:lastmodified":1492814028,
     "wof:name":"Philip C Carrels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

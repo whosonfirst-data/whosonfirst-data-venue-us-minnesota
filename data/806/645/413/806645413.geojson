@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.102438,43.859748,-95.102438,43.859748",
     "geom:latitude":43.859748,
     "geom:longitude":-95.102438,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jUQcUp04Hs6j6wpiSc6IG_43.859748_-95.102438@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599863,
-    "wof:geomhash":"5c75250a42b1b821b39da1873e51ad8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e1b05f5cc09ede7d4a9ef76d11c4080d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":806645413
+        }
+    ],
     "wof:id":806645413,
-    "wof:lastmodified":1472629612,
+    "wof:lastmodified":1492816768,
     "wof:name":"Yellow Transportation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

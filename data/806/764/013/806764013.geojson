@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.236887,45.354536,-93.236887,45.354536",
     "geom:latitude":45.354536,
     "geom:longitude":-93.236887,
@@ -32,17 +33,34 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511283,
+        85633793,
+        85953399,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_455XnS2d8yaJV3vgxBHrAy_45.354536_-93.236887@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600878,
-    "wof:geomhash":"f6f3698e332383f56d9fb43d73f1f1eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"887f850d42113a03cbd1f95b2f397bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511283,
+            "locality_id":85953399,
+            "region_id":85688727,
+            "venue_id":806764013
+        }
+    ],
     "wof:id":806764013,
-    "wof:lastmodified":1472629786,
+    "wof:lastmodified":1492814366,
     "wof:name":"Smith's Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

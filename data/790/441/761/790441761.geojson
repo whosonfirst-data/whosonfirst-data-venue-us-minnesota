@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.597644,47.317558,-92.597644,47.317558",
     "geom:latitude":47.317558,
     "geom:longitude":-92.597644,
@@ -33,17 +34,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zCFGWW2SHo78ztYl9nebY_47.317558_-92.597644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595852,
-    "wof:geomhash":"170a7b914acf0e3742cf261dc9abfc45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f5fd499cfaa4c320a7f6368b0df2c6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790441761
+        }
+    ],
     "wof:id":790441761,
-    "wof:lastmodified":1472629717,
+    "wof:lastmodified":1492838059,
     "wof:name":"Rolly's Small Engine Repair",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

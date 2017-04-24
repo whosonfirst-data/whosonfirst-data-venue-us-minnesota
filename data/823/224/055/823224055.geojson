@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.061317,47.785866,-93.061317,47.785866",
     "geom:latitude":47.785866,
     "geom:longitude":-93.061317,
@@ -38,17 +39,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zhp8ppB4HmPUY3CikLVhJ_47.785866_-93.061317@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608820,
-    "wof:geomhash":"ceb13d5bffb00d4bfb91d4c1512fd0de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8eec35ccc7d117b12972c71fcd62921",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":823224055
+        }
+    ],
     "wof:id":823224055,
-    "wof:lastmodified":1472629083,
+    "wof:lastmodified":1492828784,
     "wof:name":"Bill Nelson Construction",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

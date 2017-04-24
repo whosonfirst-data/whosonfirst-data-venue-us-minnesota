@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.86108,46.130869,-92.86108,46.130869",
     "geom:latitude":46.130869,
     "geom:longitude":-92.86108,
@@ -38,17 +39,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513495,
+        85633793,
+        85953263,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B2U8ZOsH2rIbWc7N44K8N_46.130869_-92.861080@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588106,
-    "wof:geomhash":"65c06f66642141ecc9472a84d298ff65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7675ed52d4923ba556681aacacd2f33e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513495,
+            "locality_id":85953263,
+            "region_id":85688727,
+            "venue_id":773751367
+        }
+    ],
     "wof:id":773751367,
-    "wof:lastmodified":1472630148,
+    "wof:lastmodified":1492799405,
     "wof:name":"Pine County Housing & Auth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

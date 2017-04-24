@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.410887,43.994671,-92.410887,43.994671",
     "geom:latitude":43.994671,
     "geom:longitude":-92.410887,
@@ -31,17 +32,34 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t9FtFlQtuw1g1x246iaUm_43.994671_-92.410887@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591300,
-    "wof:geomhash":"06d1eb30afa9884aa2ab1d602d89e747",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7363741a8b133b572eea05e9ed87030a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":789881437
+        }
+    ],
     "wof:id":789881437,
-    "wof:lastmodified":1472629565,
+    "wof:lastmodified":1492811644,
     "wof:name":"Rochester Area Stanley Steamer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

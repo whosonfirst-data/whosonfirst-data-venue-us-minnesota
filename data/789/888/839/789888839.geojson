@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.372881,45.977077,-94.372881,45.977077",
     "geom:latitude":45.977077,
     "geom:longitude":-94.372881,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512849,
+        85633793,
+        85968727,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nFTZnWXhxx5zBgLsZLAX7_45.977077_-94.372881@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591359,
-    "wof:geomhash":"032843c1bdeca2a1f5081b8921fb3556",
-    "wof:hierarchy":[],
+    "wof:geomhash":"417ca27f8c60b370b4a67cc94a67a2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512849,
+            "locality_id":85968727,
+            "region_id":85688727,
+            "venue_id":789888839
+        }
+    ],
     "wof:id":789888839,
-    "wof:lastmodified":1472629597,
+    "wof:lastmodified":1492809539,
     "wof:name":"Royalton Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

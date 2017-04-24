@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.621773,46.998332,-92.621773,46.998332",
     "geom:latitude":46.998332,
     "geom:longitude":-92.621773,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17jbMR9ueLY3S7PAoK6bLx_46.998332_-92.621773@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593010,
-    "wof:geomhash":"e3c3baffa36768063ada97efe46ffbb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"51be85ea738f955f13ebe06143f13adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790086009
+        }
+    ],
     "wof:id":790086009,
-    "wof:lastmodified":1472629108,
+    "wof:lastmodified":1492835656,
     "wof:name":"Lighting Maintenance Service",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

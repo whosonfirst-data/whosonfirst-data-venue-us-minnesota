@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247896,44.876812,-93.247896,44.876812",
     "geom:latitude":44.876812,
     "geom:longitude":-93.247896,
@@ -39,17 +40,34 @@
     ],
     "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313868015&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qvnhYWzzCQ0ShtPLxlev1_44.876812_-93.247896@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462608019,
-    "wof:geomhash":"c30de2116ffc2b3c5232a62a61c0c7a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"160c0d7ba7b51534edc68e5a5781fac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823176337
+        }
+    ],
     "wof:id":823176337,
-    "wof:lastmodified":1472629007,
+    "wof:lastmodified":1492828454,
     "wof:name":"Johns Auto Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

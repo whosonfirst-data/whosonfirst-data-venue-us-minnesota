@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.783686,44.053136,-95.783686,44.053136",
     "geom:latitude":44.053136,
     "geom:longitude":-95.783686,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510093,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dHs6T6BgdlHZasqQ1UDwc_44.053136_-95.783686@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593282,
-    "wof:geomhash":"953f05955bc475ce99274e3dd80a4375",
-    "wof:hierarchy":[],
+    "wof:geomhash":"623d867c9ee6ea18859b4c4f37a274d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510093,
+            "region_id":85688727,
+            "venue_id":790119291
+        }
+    ],
     "wof:id":790119291,
-    "wof:lastmodified":1472629150,
+    "wof:lastmodified":1492834803,
     "wof:name":"Dennis Dagel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

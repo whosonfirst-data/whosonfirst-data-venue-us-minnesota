@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.709585,46.534297,-93.709585,46.534297",
     "geom:latitude":46.534297,
     "geom:longitude":-93.709585,
@@ -31,17 +32,34 @@
         "hospice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509151,
+        85633793,
+        85968607,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QzP98iShtl4xqzrtb7tJW_46.534297_-93.709585@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586334,
-    "wof:geomhash":"0ee4ce61f1d14f4806d5a05c293bf388",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be6c71987b67d24e39505dc07bf97baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404509151,
+            "locality_id":85968607,
+            "region_id":85688727,
+            "venue_id":773518513
+        }
+    ],
     "wof:id":773518513,
-    "wof:lastmodified":1472630080,
+    "wof:lastmodified":1492805261,
     "wof:name":"Journey's Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

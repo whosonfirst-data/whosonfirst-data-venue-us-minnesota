@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.083828,46.296755,-96.083828,46.296755",
     "geom:latitude":46.296755,
     "geom:longitude":-96.083828,
@@ -33,17 +34,34 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512877,
+        85633793,
+        85968763,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A0VMNnH7ceAeSRC7j9HAk_46.296755_-96.083828@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586136,
-    "wof:geomhash":"3fc2cffd88b958b2380a9c704c3adfe9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b89252b403f1e03b140d73206b1d595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512877,
+            "locality_id":85968763,
+            "region_id":85688727,
+            "venue_id":773489705
+        }
+    ],
     "wof:id":773489705,
-    "wof:lastmodified":1472630069,
+    "wof:lastmodified":1492804253,
     "wof:name":"Otter Tail County Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

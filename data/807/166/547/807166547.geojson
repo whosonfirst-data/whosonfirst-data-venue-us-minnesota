@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.268919,43.860496,-94.268919,43.860496",
     "geom:latitude":43.860496,
     "geom:longitude":-94.268919,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511559,
+        85633793,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YKVSK6oHXEwNsCZB79J2h_43.860496_-94.268919@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604443,
-    "wof:geomhash":"64af795b90c756045ce71ee396a4c31e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6c67cdc1ed368f68e6c1834a7e43bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511559,
+            "region_id":85688727,
+            "venue_id":807166547
+        }
+    ],
     "wof:id":807166547,
-    "wof:lastmodified":1472629302,
+    "wof:lastmodified":1492822446,
     "wof:name":"Greg Schulz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

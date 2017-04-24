@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359372,44.941482,-93.359372,44.941482",
     "geom:latitude":44.941482,
     "geom:longitude":-93.359372,
@@ -37,17 +38,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dFGg38zvtI7h8sQPzZ2Pb_44.941482_-93.359372@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588332,
-    "wof:geomhash":"c7c35d8bca462db9bf0f8b049366c49c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"929c1fea2e013c32497a683dbf298b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":773782017
+        }
+    ],
     "wof:id":773782017,
-    "wof:lastmodified":1472630153,
+    "wof:lastmodified":1492802489,
     "wof:name":"Sales Incentives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

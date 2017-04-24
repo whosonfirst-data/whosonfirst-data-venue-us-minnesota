@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.194268,45.851664,-93.194268,45.851664",
     "geom:latitude":45.851664,
     "geom:longitude":-93.194268,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513625,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NdSLQzCjmJBI5JC10fRRm_45.851664_-93.194268@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604875,
-    "wof:geomhash":"2541392003ba408ae332c354e6ddc03d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"147efdd4364a645d80d962d0f3b704f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513625,
+            "region_id":85688727,
+            "venue_id":807207807
+        }
+    ],
     "wof:id":807207807,
-    "wof:lastmodified":1472629422,
+    "wof:lastmodified":1492825757,
     "wof:name":"Paul Kylander",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

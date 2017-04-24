@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.541055,46.093329,-94.541055,46.093329",
     "geom:latitude":46.093329,
     "geom:longitude":-94.541055,
@@ -33,17 +34,32 @@
         "drilling"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512859,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cJ4tR3XfJxJbB8pHwzCfL_46.093329_-94.541055@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584106,
-    "wof:geomhash":"ab1150ac6cd28ff8391d7dbc1dd46ed2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9bb3518831d55b5e85a2902a1e37436e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512859,
+            "region_id":85688727,
+            "venue_id":773224595
+        }
+    ],
     "wof:id":773224595,
-    "wof:lastmodified":1472629975,
+    "wof:lastmodified":1492800590,
     "wof:name":"North Central Well Drilling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

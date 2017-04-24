@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.757689,48.702952,-94.757689,48.702952",
     "geom:latitude":48.702952,
     "geom:longitude":-94.757689,
@@ -26,17 +27,32 @@
         "wheat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509691,
+        85633793,
+        102086985
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63vh55jGsDBsODSqwCPhKc_48.702952_-94.757689@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604619,
-    "wof:geomhash":"88546f7f44648e78f74363b808f6855e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cee957c676c509c7f77c0290fc3eea6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086985,
+            "localadmin_id":404509691,
+            "region_id":85688727,
+            "venue_id":807183399
+        }
+    ],
     "wof:id":807183399,
-    "wof:lastmodified":1472629363,
+    "wof:lastmodified":1492826980,
     "wof:name":"Krause Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

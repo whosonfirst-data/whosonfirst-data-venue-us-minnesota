@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.815355,44.227679,-95.815355,44.227679",
     "geom:latitude":44.227679,
     "geom:longitude":-95.815355,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512535,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75y2Oy3UAUv5H0L17O2eO2_44.227679_-95.815355@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601980,
-    "wof:geomhash":"a8bb1cd4c07a64a5de1410f9bce7bc4f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4e79c168467c6fd7dd56f7592b4a9e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512535,
+            "region_id":85688727,
+            "venue_id":806895793
+        }
+    ],
     "wof:id":806895793,
-    "wof:lastmodified":1472629926,
+    "wof:lastmodified":1492814068,
     "wof:name":"Raymond Kirk Farm Lessor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

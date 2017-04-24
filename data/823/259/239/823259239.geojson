@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.209684,46.990132,-94.209684,46.990132",
     "geom:latitude":46.990132,
     "geom:longitude":-94.209684,
@@ -38,17 +39,34 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511659,
+        85633793,
+        85968723,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zreeWHmmzTZS2DPVm7zi1_46.990132_-94.209684@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609536,
-    "wof:geomhash":"20ab25566efa4115fee677f483435303",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81da2b0f8faab203cf56814a363f8880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511659,
+            "locality_id":85968723,
+            "region_id":85688727,
+            "venue_id":823259239
+        }
+    ],
     "wof:id":823259239,
-    "wof:lastmodified":1472629199,
+    "wof:lastmodified":1492829146,
     "wof:name":"Longville Bible Chapel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

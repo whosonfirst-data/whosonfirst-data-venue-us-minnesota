@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.978336,43.714044,-91.978336,43.714044",
     "geom:latitude":43.714044,
     "geom:longitude":-91.978336,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514267,
+        85633793,
+        85953173,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NyIR4z1Voe0cgUy0OhiAj_43.714044_-91.978336@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585479,
-    "wof:geomhash":"08d685aa675c3f76291259cf9386c4db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9095461f91dc3319ae756e4ad2971ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514267,
+            "locality_id":85953173,
+            "region_id":85688727,
+            "venue_id":773408821
+        }
+    ],
     "wof:id":773408821,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492799445,
     "wof:name":"VIS Plumbing & Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

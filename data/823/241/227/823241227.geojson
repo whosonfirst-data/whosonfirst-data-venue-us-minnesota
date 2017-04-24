@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.031752,44.225282,-96.031752,44.225282",
     "geom:latitude":44.225282,
     "geom:longitude":-96.031752,
@@ -37,17 +38,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512669,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r9aeovNp8srwkDhhIq0Nm_44.225282_-96.031752@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609171,
-    "wof:geomhash":"f69606e375e8545376c26fe657fff644",
-    "wof:hierarchy":[],
+    "wof:geomhash":"719391eee12d6f0d7a6c4853685c5715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512669,
+            "region_id":85688727,
+            "venue_id":823241227
+        }
+    ],
     "wof:id":823241227,
-    "wof:lastmodified":1472629138,
+    "wof:lastmodified":1492828886,
     "wof:name":"Norman Fuhrmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

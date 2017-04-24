@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.473921,44.061505,-92.473921,44.061505",
     "geom:latitude":44.061505,
     "geom:longitude":-92.473921,
@@ -32,17 +33,34 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hL43yGBnWdNclrs7xl3yb_44.061505_-92.473921@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594272,
-    "wof:geomhash":"0048faa89af1ea27a2e768056572455e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f28158aaa47dbd4d5000b704f193adb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790243509
+        }
+    ],
     "wof:id":790243509,
-    "wof:lastmodified":1472629349,
+    "wof:lastmodified":1492833567,
     "wof:name":"Batteries Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

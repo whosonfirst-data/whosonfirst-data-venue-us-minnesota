@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.416969,44.661482,-94.416969,44.661482",
     "geom:latitude":44.661482,
     "geom:longitude":-94.416969,
@@ -31,17 +32,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512825,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gZxoncYQILFR7OtoAw3g9_44.661482_-94.416969@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604679,
-    "wof:geomhash":"2a098ae43d899f488a3d98a6636e54f9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5517c9ac44a289b3e572afbd635699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512825,
+            "region_id":85688727,
+            "venue_id":807188897
+        }
+    ],
     "wof:id":807188897,
-    "wof:lastmodified":1472629414,
+    "wof:lastmodified":1492822230,
     "wof:name":"Robert Doerr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.845348,46.81529,-95.845348,46.81529",
     "geom:latitude":46.81529,
     "geom:longitude":-95.845348,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.smrhc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511143,
+        85633793,
+        85952663,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75d3TH38yQGys3SURP7M43_46.815290_-95.845348@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585051,
-    "wof:geomhash":"4627c5409c19e7ef45ce83d649e48454",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c0302136c26e85be0f32f1dc56c68c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404511143,
+            "locality_id":85952663,
+            "region_id":85688727,
+            "venue_id":773350855
+        }
+    ],
     "wof:id":773350855,
-    "wof:lastmodified":1472630032,
+    "wof:lastmodified":1492802928,
     "wof:name":"St Mary's Regional Health Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

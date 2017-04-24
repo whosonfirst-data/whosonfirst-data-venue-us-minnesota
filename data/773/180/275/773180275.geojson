@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.887448,43.706469,-93.887448,43.706469",
     "geom:latitude":43.706469,
     "geom:longitude":-93.887448,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509615,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29BH42Y8wix2zGoJRXmssu_43.706469_-93.887448@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583743,
-    "wof:geomhash":"882f37417c536316b8168e17b527dd0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d520ee926c8726447a8b63a2bdb6920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509615,
+            "region_id":85688727,
+            "venue_id":773180275
+        }
+    ],
     "wof:id":773180275,
-    "wof:lastmodified":1472629857,
+    "wof:lastmodified":1492800160,
     "wof:name":"O'Rourke Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

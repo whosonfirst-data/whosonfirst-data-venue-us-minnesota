@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.007457,44.904453,-93.007457,44.904453",
     "geom:latitude":44.904453,
     "geom:longitude":-93.007457,
@@ -31,19 +32,40 @@
         "intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800629,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YaiXCfa3OOltnd2HlFgXY_44.904453_-93.007457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599888,
-    "wof:geomhash":"c9896ad6ac74c0d1108bca27cae87aeb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"102b61cae555beaf4f03745b085f5f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800629,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":806648021
+        }
+    ],
     "wof:id":806648021,
-    "wof:lastmodified":1472629595,
+    "wof:lastmodified":1492816485,
     "wof:name":"Esslings Homes Plus Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800629,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

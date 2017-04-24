@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.720522,44.804511,-93.720522,44.804511",
     "geom:latitude":44.804511,
     "geom:longitude":-93.720522,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511691,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ysKNjiZXwpA65yWhSYmYv_44.804511_-93.720522@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585199,
-    "wof:geomhash":"bc7ebba0891bc6af599ba75f0606e276",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6223293e64559570ab1f4be04ed653ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511691,
+            "region_id":85688727,
+            "venue_id":773372527
+        }
+    ],
     "wof:id":773372527,
-    "wof:lastmodified":1472630026,
+    "wof:lastmodified":1492802368,
     "wof:name":"Joel Hammers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

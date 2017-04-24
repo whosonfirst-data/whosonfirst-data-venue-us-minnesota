@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.04127,44.18739,-94.04127,44.18739",
     "geom:latitude":44.18739,
     "geom:longitude":-94.04127,
@@ -31,17 +32,34 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NTnAdJlKz9FQmWdrZXJjR_44.187390_-94.041270@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594244,
-    "wof:geomhash":"d7c882f933564c69edd00797b13068c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"340c0b49e33ece74ff251eaa390be37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":790239403
+        }
+    ],
     "wof:id":790239403,
-    "wof:lastmodified":1472629355,
+    "wof:lastmodified":1492831668,
     "wof:name":"Shannon Ballman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.954987,44.326579,-93.954987,44.326579",
     "geom:latitude":44.326579,
     "geom:longitude":-93.954987,
@@ -32,17 +33,34 @@
         "publishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513479,
+        85633793,
+        85953469,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26fXPn2jiVp7cfr03wnGEx_44.326579_-93.954987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583284,
-    "wof:geomhash":"e7d7c34735c5bf77a4baf0f950784d2a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"660cdd02b2aebd36ea18694a69a2a1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513479,
+            "locality_id":85953469,
+            "region_id":85688727,
+            "venue_id":773118339
+        }
+    ],
     "wof:id":773118339,
-    "wof:lastmodified":1472629639,
+    "wof:lastmodified":1492804040,
     "wof:name":"Star Tribune",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

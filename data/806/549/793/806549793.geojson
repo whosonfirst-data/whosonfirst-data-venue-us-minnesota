@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.494897,47.442112,-92.494897,47.442112",
     "geom:latitude":47.442112,
     "geom:longitude":-92.494897,
@@ -31,17 +32,26 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WAmbW1gceqqmGIiygCj4D_47.442112_-92.494897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599032,
-    "wof:geomhash":"00e106afcdf5846f0ea18427847a66a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c61bdf9645829ae6f8c70b094433cd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806549793
+        }
+    ],
     "wof:id":806549793,
-    "wof:lastmodified":1472629444,
+    "wof:lastmodified":1492815749,
     "wof:name":"R C Honkonen Consulting Svcs",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

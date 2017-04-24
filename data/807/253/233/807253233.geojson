@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.357663,44.135953,-93.357663,44.135953",
     "geom:latitude":44.135953,
     "geom:longitude":-93.357663,
@@ -54,17 +55,32 @@
     ],
     "sg:website":"http://www.coleselectric.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510813,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N02R1dhwIc4oHjTUuS2Jo_44.135953_-93.357663@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605361,
-    "wof:geomhash":"e7b4c455a570c3f77bbbf24f62c1ed88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7166c5bcf7cd04a182d08894267223e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510813,
+            "region_id":85688727,
+            "venue_id":807253233
+        }
+    ],
     "wof:id":807253233,
-    "wof:lastmodified":1472629505,
+    "wof:lastmodified":1492824586,
     "wof:name":"Cole's Electric, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

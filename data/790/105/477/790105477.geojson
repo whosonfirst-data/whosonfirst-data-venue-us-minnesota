@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.514137,46.772526,-92.514137,46.772526",
     "geom:latitude":46.772526,
     "geom:longitude":-92.514137,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510663,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gYjXVsgQCXH0Dww9gsB3j_46.772526_-92.514137@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593185,
-    "wof:geomhash":"42d2a9ffd143b5c33fbc6f951c7a92d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61472d934ecd38338b3d47a52630ba89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510663,
+            "region_id":85688727,
+            "venue_id":790105477
+        }
+    ],
     "wof:id":790105477,
-    "wof:lastmodified":1472629136,
+    "wof:lastmodified":1492831370,
     "wof:name":"James W Saaristo Truck",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

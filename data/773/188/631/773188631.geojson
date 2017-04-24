@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.886218,47.4894,-92.886218,47.4894",
     "geom:latitude":47.4894,
     "geom:longitude":-92.886218,
@@ -31,17 +32,36 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gMs9lRrmmWERCtZ9evb55_47.489400_-92.886218@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583836,
-    "wof:geomhash":"86ed2af9525c9bd8dd21bef2f705d553",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bacb153c843701e03e01af3373b574e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":773188631
+        }
+    ],
     "wof:id":773188631,
-    "wof:lastmodified":1472629942,
+    "wof:lastmodified":1492799180,
     "wof:name":"Chisholm Spur",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

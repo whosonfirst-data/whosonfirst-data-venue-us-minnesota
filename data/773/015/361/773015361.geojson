@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.457443,45.02977,-93.457443,45.02977",
     "geom:latitude":45.02977,
     "geom:longitude":-93.457443,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p3sGIx0ZxnCSaYkJGrgrx_45.029770_-93.457443@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582403,
-    "wof:geomhash":"f652d00a8192190055e6129695c97979",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cd093cb6beadd8e232205f3dbe3fbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":773015361
+        }
+    ],
     "wof:id":773015361,
-    "wof:lastmodified":1472628976,
+    "wof:lastmodified":1492799087,
     "wof:name":"Omega Development Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.975991,44.239992,-94.975991,44.239992",
     "geom:latitude":44.239992,
     "geom:longitude":-94.975991,
@@ -33,17 +34,34 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511473,
+        85633793,
+        85952695,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hw3Our4MIiIvtLwtHLazx_44.239992_-94.975991@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609148,
-    "wof:geomhash":"af4864043f03579a245edb1ff6def7a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"501b8e823c8d6005d10676ce174e07fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511473,
+            "locality_id":85952695,
+            "region_id":85688727,
+            "venue_id":823239947
+        }
+    ],
     "wof:id":823239947,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492828344,
     "wof:name":"O'leary & Moritz Chartered",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

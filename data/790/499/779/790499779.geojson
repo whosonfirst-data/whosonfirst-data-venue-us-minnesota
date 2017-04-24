@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.373753,46.51724,-95.373753,46.51724",
     "geom:latitude":46.51724,
     "geom:longitude":-95.373753,
@@ -32,17 +33,34 @@
         "butter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515169,
+        85633793,
+        85968759,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aNAmrYoj4zaHWK5YLCtWy_46.517240_-95.373753@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596366,
-    "wof:geomhash":"8e56ae9531b9b43f163074394cfd8af3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a50ae5de3003301db59b767d783de1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404515169,
+            "locality_id":85968759,
+            "region_id":85688727,
+            "venue_id":790499779
+        }
+    ],
     "wof:id":790499779,
-    "wof:lastmodified":1472629776,
+    "wof:lastmodified":1492835573,
     "wof:name":"Creamery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

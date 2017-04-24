@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.012248,48.783779,-96.012248,48.783779",
     "geom:latitude":48.783779,
     "geom:longitude":-96.012248,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"www.nwcaa.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510629,
+        85633793,
+        85953425,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UpiIz9wzoMUSHJp1zORaH_48.783779_-96.012248@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598249,
-    "wof:geomhash":"778c41f7aa58419de2850fee3ba5213d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d5365383e41f0a9c09af55a1611f62f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404510629,
+            "locality_id":85953425,
+            "region_id":85688727,
+            "venue_id":806450729
+        }
+    ],
     "wof:id":806450729,
-    "wof:lastmodified":1472629167,
+    "wof:lastmodified":1492817340,
     "wof:name":"Northwest Community Action",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

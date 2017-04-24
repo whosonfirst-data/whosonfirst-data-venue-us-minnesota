@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.489286,44.036185,-92.489286,44.036185",
     "geom:latitude":44.036185,
     "geom:longitude":-92.489286,
@@ -33,17 +34,34 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wzQYJx3rxivdRNxEhh58g_44.036185_-92.489286@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608950,
-    "wof:geomhash":"5017c31fcdfcfeab44cb07d51a8e7542",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebd8771066f2662b37c68357d921eb9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823229911
+        }
+    ],
     "wof:id":823229911,
-    "wof:lastmodified":1472629148,
+    "wof:lastmodified":1492829297,
     "wof:name":"Compass International, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

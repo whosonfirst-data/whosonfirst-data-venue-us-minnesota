@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.166015,43.921148,-96.166015,43.921148",
     "geom:latitude":43.921148,
     "geom:longitude":-96.166015,
@@ -35,17 +36,32 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513527,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e16I5wEDCIFqcpVvrjRmu_43.921148_-96.166015@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594880,
-    "wof:geomhash":"e454dd7f65ed3adfc97ef32093464d64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4148d77bb2bb35bbab7e0581c057118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513527,
+            "region_id":85688727,
+            "venue_id":790314661
+        }
+    ],
     "wof:id":790314661,
-    "wof:lastmodified":1472629507,
+    "wof:lastmodified":1492831539,
     "wof:name":"Walhof Hiene",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.44173,45.098234,-93.44173,45.098234",
     "geom:latitude":45.098234,
     "geom:longitude":-93.44173,
@@ -33,17 +34,34 @@
         "feeder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GUfrS7v2QaV7BFXB1rsvS_45.098234_-93.441730@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601626,
-    "wof:geomhash":"8ce6a0dd757e826facf10e9b477e35dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f74a5b8447009bdc75c3328fea98ca8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806852089
+        }
+    ],
     "wof:id":806852089,
-    "wof:lastmodified":1472629895,
+    "wof:lastmodified":1492821223,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

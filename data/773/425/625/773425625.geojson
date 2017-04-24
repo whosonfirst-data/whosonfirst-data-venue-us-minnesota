@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.295306,45.933222,-93.295306,45.933222",
     "geom:latitude":45.933222,
     "geom:longitude":-93.295306,
@@ -32,17 +33,32 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509861,
+        85633793,
+        102087687
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rx8CLrtTEdzQmWD39DiiV_45.933222_-93.295306@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585625,
-    "wof:geomhash":"0aeeaccf68f4d1c7e3783a1b88624a34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"194f0a43aff3df482f92eb80ef9eed70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404509861,
+            "region_id":85688727,
+            "venue_id":773425625
+        }
+    ],
     "wof:id":773425625,
-    "wof:lastmodified":1472630050,
+    "wof:lastmodified":1492804495,
     "wof:name":"Mora Well Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

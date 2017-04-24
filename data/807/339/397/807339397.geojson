@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.545116,45.196243,-93.545116,45.196243",
     "geom:latitude":45.196243,
     "geom:longitude":-93.545116,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KQ8zZ0lehAX1gTSTI6wP0_45.196243_-93.545116@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606339,
-    "wof:geomhash":"8773d32f5c374270416cd8f402c8fe63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18f9312b828259feee4797832d5da2a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":807339397
+        }
+    ],
     "wof:id":807339397,
-    "wof:lastmodified":1472629739,
+    "wof:lastmodified":1492825250,
     "wof:name":"Aron Tri River Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.646969,44.044262,-91.646969,44.044262",
     "geom:latitude":44.044262,
     "geom:longitude":-91.646969,
@@ -32,17 +33,34 @@
     ],
     "sg:website":"http://www.kwiktrip.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515111,
+        85633793,
+        85968953,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Yz6qynIXDelI37OHcM3xl_44.044551_-91.647789@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604110,
-    "wof:geomhash":"6a3a5642dc267b6f3ae8d74c2989b2c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"065fa5c9f9a5083bbca035672642b647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515111,
+            "locality_id":85968953,
+            "region_id":85688727,
+            "venue_id":807135215
+        }
+    ],
     "wof:id":807135215,
-    "wof:lastmodified":1472629248,
+    "wof:lastmodified":1492823779,
     "wof:name":"Kwik Trip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

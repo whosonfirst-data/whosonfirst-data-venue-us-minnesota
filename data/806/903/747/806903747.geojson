@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.182295,48.116955,-96.182295,48.116955",
     "geom:latitude":48.116955,
     "geom:longitude":-96.182295,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TPvhACEgBpG1hGeVStEJi_48.116955_-96.182295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602037,
-    "wof:geomhash":"5c132bd3c0b1ace1f72f5371fc4e1dd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"941d1b070543a02718cc242bfd089acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806903747
+        }
+    ],
     "wof:id":806903747,
-    "wof:lastmodified":1472629931,
+    "wof:lastmodified":1492819183,
     "wof:name":"Law Enforcement Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

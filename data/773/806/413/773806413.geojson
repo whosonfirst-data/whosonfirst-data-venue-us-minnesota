@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.165539,45.109376,-93.165539,45.109376",
     "geom:latitude":45.109376,
     "geom:longitude":-93.165539,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514467,
+        85633793,
+        85953193,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FurXvFZfi09V4mbsOAwFJ_45.109376_-93.165539@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588523,
-    "wof:geomhash":"5b77b5e6da418d9bc03faf44a7794231",
-    "wof:hierarchy":[],
+    "wof:geomhash":"165b263c1d41a55b72ff01b0e31ef18c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514467,
+            "locality_id":85953193,
+            "region_id":85688727,
+            "venue_id":773806413
+        }
+    ],
     "wof:id":773806413,
-    "wof:lastmodified":1472630164,
+    "wof:lastmodified":1492800826,
     "wof:name":"Nickel Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.004973,47.669132,-96.004973,47.669132",
     "geom:latitude":47.669132,
     "geom:longitude":-96.004973,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510455,
+        85633793,
+        85968407,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pfKUE8Yqa4DSZQZqyY8xz_47.669132_-96.004973@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585359,
-    "wof:geomhash":"c58d17298c5790af64f5ae97768c982d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa129843322adf64d16b3877dd80f6a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404510455,
+            "locality_id":85968407,
+            "region_id":85688727,
+            "venue_id":773394409
+        }
+    ],
     "wof:id":773394409,
-    "wof:lastmodified":1472630040,
+    "wof:lastmodified":1492801888,
     "wof:name":"West Brothers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

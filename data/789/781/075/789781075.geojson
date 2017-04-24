@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.599235,45.313736,-95.599235,45.313736",
     "geom:latitude":45.313736,
     "geom:longitude":-95.599235,
@@ -31,17 +32,34 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514649,
+        85633793,
+        85968649,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O51vlFQSV24jKRX65v1HE_45.313736_-95.599235@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590489,
-    "wof:geomhash":"b4b81edc11b2f15b32637f0435d556f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"161f352e34677229c2fe5b728dc55c94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514649,
+            "locality_id":85968649,
+            "region_id":85688727,
+            "venue_id":789781075
+        }
+    ],
     "wof:id":789781075,
-    "wof:lastmodified":1472629342,
+    "wof:lastmodified":1492809962,
     "wof:name":"Swift County Monitor News",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

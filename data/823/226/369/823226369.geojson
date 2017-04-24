@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.560921,47.512379,-92.560921,47.512379",
     "geom:latitude":47.512379,
     "geom:longitude":-92.560921,
@@ -40,17 +41,36 @@
     ],
     "sg:website":"http://www.autovalue.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hky3l7CF5jnms5gypJdPo_47.512379_-92.560921@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608878,
-    "wof:geomhash":"307b73ee622915a9330a4c99cab0bd26",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6e629194885edf5bdf2fca2f4a4dc5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":823226369
+        }
+    ],
     "wof:id":823226369,
-    "wof:lastmodified":1472629104,
+    "wof:lastmodified":1492830884,
     "wof:name":"Auto Value Parts Stores",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

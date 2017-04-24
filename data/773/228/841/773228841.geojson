@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.878746,47.48606,-92.878746,47.48606",
     "geom:latitude":47.48606,
     "geom:longitude":-92.878746,
@@ -33,17 +34,36 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DRtU14Absmv2ZOocfmlcr_47.486060_-92.878746@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584134,
-    "wof:geomhash":"0e0c863320166598e7e5b610bb003cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dcaf722210ad776aa0c064c8dea56986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":773228841
+        }
+    ],
     "wof:id":773228841,
-    "wof:lastmodified":1472629976,
+    "wof:lastmodified":1492806248,
     "wof:name":"Life Security & Control",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

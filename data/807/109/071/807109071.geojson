@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.04613,45.297074,-93.04613,45.297074",
     "geom:latitude":45.297074,
     "geom:longitude":-93.04613,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509193,
+        85633793,
+        85953373,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dZR2Sf94YLzLeN6FJkkrA_45.297074_-93.046130@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603825,
-    "wof:geomhash":"56c6ef23887d306b9ceba99e67721489",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c711e53abbd4868e66437bd46a27d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404509193,
+            "locality_id":85953373,
+            "region_id":85688727,
+            "venue_id":807109071
+        }
+    ],
     "wof:id":807109071,
-    "wof:lastmodified":1472629202,
+    "wof:lastmodified":1492826886,
     "wof:name":"Harry Jensen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

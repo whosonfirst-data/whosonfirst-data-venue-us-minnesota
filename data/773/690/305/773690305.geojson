@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.084511,46.600947,-95.084511,46.600947",
     "geom:latitude":46.600947,
     "geom:longitude":-95.084511,
@@ -34,17 +35,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510927,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EAhhxtypF6BdnU6mqJ5P3_46.600947_-95.084511@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587616,
-    "wof:geomhash":"52364731d961dd78d6b9fdcc5b1b81e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e36963275d90834d0b0ae2ce844d7f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404510927,
+            "region_id":85688727,
+            "venue_id":773690305
+        }
+    ],
     "wof:id":773690305,
-    "wof:lastmodified":1472630129,
+    "wof:lastmodified":1492806437,
     "wof:name":"Bernard Schoon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

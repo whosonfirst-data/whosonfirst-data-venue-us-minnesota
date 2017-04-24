@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.691958,45.775698,-95.691958,45.775698",
     "geom:latitude":45.775698,
     "geom:longitude":-95.691958,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509585,
+        85633793,
+        85968321,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kNwk5YGBP1VMP7fVG5jpj_45.775698_-95.691958@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589907,
-    "wof:geomhash":"a36f5ecce3dfd2db387daa053c34dfc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c035d0957a14265bdb28b756607b398d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404509585,
+            "locality_id":85968321,
+            "region_id":85688727,
+            "venue_id":789706915
+        }
+    ],
     "wof:id":789706915,
-    "wof:lastmodified":1472629236,
+    "wof:lastmodified":1492813431,
     "wof:name":"Our Lady Of The Runestone Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

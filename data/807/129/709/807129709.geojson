@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.442353,44.126804,-95.442353,44.126804",
     "geom:latitude":44.126804,
     "geom:longitude":-95.442353,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509499,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nvtHgZ0wTmEt27HW5Iy4Q_44.126804_-95.442353@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604045,
-    "wof:geomhash":"ab190c5cd5be0cc96070e0256e67ad9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e0b1e3f6d1b191246d708a555a8eaf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509499,
+            "region_id":85688727,
+            "venue_id":807129709
+        }
+    ],
     "wof:id":807129709,
-    "wof:lastmodified":1472629260,
+    "wof:lastmodified":1492826261,
     "wof:name":"Donald Kottke",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.363295,43.950807,-96.363295,43.950807",
     "geom:latitude":43.950807,
     "geom:longitude":-96.363295,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513533,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KiD8cXfAQZ282o12UYIrZ_43.950807_-96.363295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596610,
-    "wof:geomhash":"db31d1891d3a7ec74d87528b9d0d3a05",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84a20a2c5d2f1ae7c389356eeaae057a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513533,
+            "region_id":85688727,
+            "venue_id":790528279
+        }
+    ],
     "wof:id":790528279,
-    "wof:lastmodified":1472629802,
+    "wof:lastmodified":1492832951,
     "wof:name":"Doug Nagel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.273922,44.878663,-94.273922,44.878663",
     "geom:latitude":44.878663,
     "geom:longitude":-94.273922,
@@ -27,17 +28,32 @@
         "dairy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512809,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OFBoSoaSAMQjF8pP3rQj3_44.878663_-94.273922@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604046,
-    "wof:geomhash":"d83b55ae712d2ce23ef7fdac9c95dd85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"425e84c8408010a846ed91d4155cad16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512809,
+            "region_id":85688727,
+            "venue_id":807129885
+        }
+    ],
     "wof:id":807129885,
-    "wof:lastmodified":1472629263,
+    "wof:lastmodified":1492826249,
     "wof:name":"Lyle Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

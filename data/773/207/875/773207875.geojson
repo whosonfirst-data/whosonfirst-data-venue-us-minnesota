@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.086378,45.716436,-93.086378,45.716436",
     "geom:latitude":45.716436,
     "geom:longitude":-93.086378,
@@ -32,17 +33,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JSsIbe4vNjutTm04mo3dC_45.716436_-93.086378@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583983,
-    "wof:geomhash":"a38a501c1da6b6ad21b69a7b86245a16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c8850fa5e21d5754048c7dc0104519f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":773207875
+        }
+    ],
     "wof:id":773207875,
-    "wof:lastmodified":1472629952,
+    "wof:lastmodified":1492805105,
     "wof:name":"Stafflink Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

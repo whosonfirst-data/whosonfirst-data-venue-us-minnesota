@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.815282,44.226778,-95.815282,44.226778",
     "geom:latitude":44.226778,
     "geom:longitude":-95.815282,
@@ -36,17 +37,32 @@
         "ranch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512535,
+        85633793,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Zupe0onhEyjnkD0P9iRYW_44.226778_-95.815282@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609171,
-    "wof:geomhash":"8e27a7c603e31ca58df8a450a17ffd7e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b010f8f0376923511a711792fa45bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512535,
+            "region_id":85688727,
+            "venue_id":823241235
+        }
+    ],
     "wof:id":823241235,
-    "wof:lastmodified":1472629138,
+    "wof:lastmodified":1492828925,
     "wof:name":"Jerry Towne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

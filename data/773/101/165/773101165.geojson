@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.403633,48.717777,-97.403633,48.717777",
     "geom:latitude":48.717777,
     "geom:longitude":-97.403633,
@@ -28,17 +29,50 @@
     "sg:postcode":"58225",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404481463,
+        85633793,
+        102081509,
+        404481475,
+        404481439
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zYjsKuESmzSSUM7khCl7q_48.717777_-97.403633@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583163,
-    "wof:geomhash":"b3101b8c211e4464c03addbdf2175183",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2237115600d55ff1a187146643a43c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481463,
+            "region_id":85688525,
+            "venue_id":773101165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481475,
+            "region_id":85688525,
+            "venue_id":773101165
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481439,
+            "region_id":85688525,
+            "venue_id":773101165
+        }
+    ],
     "wof:id":773101165,
-    "wof:lastmodified":1472629595,
+    "wof:lastmodified":1492799971,
     "wof:name":"Lane Farm Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

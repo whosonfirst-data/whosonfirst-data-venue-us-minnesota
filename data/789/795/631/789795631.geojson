@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.420728,43.914485,-95.420728,43.914485",
     "geom:latitude":43.914485,
     "geom:longitude":-95.420728,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511875,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o6WQlHLT4folAN58Znadk_43.914485_-95.420728@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590610,
-    "wof:geomhash":"b4efabdeb8d96ecfa1a5bbf94f517dcf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd69aa5f54ddd34bee155db265a47c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511875,
+            "region_id":85688727,
+            "venue_id":789795631
+        }
+    ],
     "wof:id":789795631,
-    "wof:lastmodified":1472629381,
+    "wof:lastmodified":1492810883,
     "wof:name":"Vernon Jarmer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

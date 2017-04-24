@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.423635,45.453124,-94.423635,45.453124",
     "geom:latitude":45.453124,
     "geom:longitude":-94.423635,
@@ -31,17 +32,34 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514221,
+        85633793,
+        85952459,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iK1hVkD84mimDr26HQAGV_45.453124_-94.423635@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590700,
-    "wof:geomhash":"d9109b47278da552335afc1c42a933ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3fbd299653db23241fb7fea5d3861d0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514221,
+            "locality_id":85952459,
+            "region_id":85688727,
+            "venue_id":789808075
+        }
+    ],
     "wof:id":789808075,
-    "wof:lastmodified":1472629379,
+    "wof:lastmodified":1492809444,
     "wof:name":"Riverside Inn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

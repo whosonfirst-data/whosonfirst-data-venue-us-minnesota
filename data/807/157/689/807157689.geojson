@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.033294,44.377429,-92.033294,44.377429",
     "geom:latitude":44.377429,
     "geom:longitude":-92.033294,
@@ -33,17 +34,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hKu6A85Xh3waH8DkuK964_44.377420_-92.033364@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604346,
-    "wof:geomhash":"11795b60d5f03fa7635cd581a246441d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc9319aabad364ec0fe1c61c5d2a0eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":807157689
+        }
+    ],
     "wof:id":807157689,
-    "wof:lastmodified":1472629306,
+    "wof:lastmodified":1492825563,
     "wof:name":"Group River Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.429137,45.109843,-93.429137,45.109843",
     "geom:latitude":45.109843,
     "geom:longitude":-93.429137,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zOnNYFEKqFvnz511h8b0b_45.109843_-93.429137@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586785,
-    "wof:geomhash":"3efe24981d0c5c0726a9dd9d5d123c52",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df9e2bf107e4b22ce835ae230138191d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773577587
+        }
+    ],
     "wof:id":773577587,
-    "wof:lastmodified":1472630098,
+    "wof:lastmodified":1492802072,
     "wof:name":"Maple Lakes Town Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

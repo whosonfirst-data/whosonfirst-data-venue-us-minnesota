@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.197652,44.056047,-95.197652,44.056047",
     "geom:latitude":44.056047,
     "geom:longitude":-95.197652,
@@ -28,17 +29,34 @@
     "sg:postcode":"56145",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511861,
+        85633793,
+        85952811,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EIdOi7MQZynZQeLWERw4I_44.056047_-95.197652@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590096,
-    "wof:geomhash":"8d70c4d91aea5a421cced1c7fc81b50f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a1d457d1444b83f531b9f7762252f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511861,
+            "locality_id":85952811,
+            "region_id":85688727,
+            "venue_id":789729017
+        }
+    ],
     "wof:id":789729017,
-    "wof:lastmodified":1472629233,
+    "wof:lastmodified":1492810060,
     "wof:name":"City Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

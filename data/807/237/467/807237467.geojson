@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286277,45.348417,-93.286277,45.348417",
     "geom:latitude":45.348417,
     "geom:longitude":-93.286277,
@@ -38,17 +39,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lp0yYEOtZj6e0W4nd6TO8_45.348417_-93.286277@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605186,
-    "wof:geomhash":"7664dc816aa268a1010eb344c71d0eb2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b36816049e54afff34dde1763202e1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":807237467
+        }
+    ],
     "wof:id":807237467,
-    "wof:lastmodified":1472629462,
+    "wof:lastmodified":1492827753,
     "wof:name":"Ktm Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

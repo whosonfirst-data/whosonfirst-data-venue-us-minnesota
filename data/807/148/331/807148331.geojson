@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.717987,44.072875,-95.717987,44.072875",
     "geom:latitude":44.072875,
     "geom:longitude":-95.717987,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513187,
+        85633793,
+        85969289,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UFQaB5FLSlDuZekqd2Rkm_44.072875_-95.717987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604259,
-    "wof:geomhash":"8409cf46175ed33188947d264b30dddd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d2c8818564f0bb230b8e49a3ee49567d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513187,
+            "locality_id":85969289,
+            "region_id":85688727,
+            "venue_id":807148331
+        }
+    ],
     "wof:id":807148331,
-    "wof:lastmodified":1472629275,
+    "wof:lastmodified":1492824558,
     "wof:name":"Richard Andert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

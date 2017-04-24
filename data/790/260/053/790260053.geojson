@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.415164,45.147136,-93.415164,45.147136",
     "geom:latitude":45.147136,
     "geom:longitude":-93.415164,
@@ -31,17 +32,34 @@
         "craft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35nfBjQCaVf7QNIRNYCXBp_45.147136_-93.415164@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594421,
-    "wof:geomhash":"e402340e671163728e93cb441c16bddd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db83508bb271b8e134d31ba3f2783c2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":790260053
+        }
+    ],
     "wof:id":790260053,
-    "wof:lastmodified":1472629387,
+    "wof:lastmodified":1492832066,
     "wof:name":"Raeworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

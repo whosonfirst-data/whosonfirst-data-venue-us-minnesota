@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.754557,43.538048,-94.754557,43.538048",
     "geom:latitude":43.538048,
     "geom:longitude":-94.754557,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510181,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4C8ue48cojIBs6aodjVZXp_43.538048_-94.754557@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604318,
-    "wof:geomhash":"2afd282e24429be4bd885883adf5b655",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdf772e795cb8961a5b9b6a120602686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404510181,
+            "region_id":85688727,
+            "venue_id":807154779
+        }
+    ],
     "wof:id":807154779,
-    "wof:lastmodified":1472629306,
+    "wof:lastmodified":1492823955,
     "wof:name":"David Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

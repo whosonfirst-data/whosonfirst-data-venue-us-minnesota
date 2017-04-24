@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.727225,44.296293,-94.727225,44.296293",
     "geom:latitude":44.296293,
     "geom:longitude":-94.727225,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509331,
+        85633793,
+        85952697,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OIkeHW6m1hh5QcSxX32mP_44.296293_-94.727225@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599526,
-    "wof:geomhash":"a8a6fd3cc4a29faf3a2759c93a07d75e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a0ba7a0de124c76d8b5da307b32292ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509331,
+            "locality_id":85952697,
+            "region_id":85688727,
+            "venue_id":806604591
+        }
+    ],
     "wof:id":806604591,
-    "wof:lastmodified":1472629545,
+    "wof:lastmodified":1492815895,
     "wof:name":"Schroepfer Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.606107,47.774555,-96.606107,47.774555",
     "geom:latitude":47.774555,
     "geom:longitude":-96.606107,
@@ -31,17 +32,26 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ElRFTmywrc8VRsMRY5BVS_47.774555_-96.606107@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599418,
-    "wof:geomhash":"8b3cd2afd850cdb59f23430139b499b0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2aea588597c1a2d3dfd8940cd802586a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":806592745
+        }
+    ],
     "wof:id":806592745,
-    "wof:lastmodified":1472629513,
+    "wof:lastmodified":1492818525,
     "wof:name":"Unique Treasures",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

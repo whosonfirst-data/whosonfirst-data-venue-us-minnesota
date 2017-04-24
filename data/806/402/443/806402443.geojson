@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.02416,44.062079,-96.02416,44.062079",
     "geom:latitude":44.062079,
     "geom:longitude":-96.02416,
@@ -33,17 +34,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510077,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bXcRAU2M6NdHxl2aZPuxo_44.062079_-96.024160@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597857,
-    "wof:geomhash":"7254da0fa733180827624f67ba5a1c7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c911d48f442c26935644cd4913c8b050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510077,
+            "region_id":85688727,
+            "venue_id":806402443
+        }
+    ],
     "wof:id":806402443,
-    "wof:lastmodified":1472629047,
+    "wof:lastmodified":1492818096,
     "wof:name":"Andrew Edmundson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

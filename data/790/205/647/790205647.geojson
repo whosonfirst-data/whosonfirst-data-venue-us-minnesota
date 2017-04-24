@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.005436,45.121645,-95.005436,45.121645",
     "geom:latitude":45.121645,
     "geom:longitude":-95.005436,
@@ -32,17 +33,34 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x5iiaMxvygRW98MsoPZOf_45.121645_-95.005436@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593999,
-    "wof:geomhash":"682b38e21c4c49a99cce11ff6e738c2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19aa79993ca13055336fa3650c06552c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":790205647
+        }
+    ],
     "wof:id":790205647,
-    "wof:lastmodified":1472629302,
+    "wof:lastmodified":1492834443,
     "wof:name":"Marcus Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

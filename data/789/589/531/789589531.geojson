@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.672804,47.030662,-91.672804,47.030662",
     "geom:latitude":47.030662,
     "geom:longitude":-91.672804,
@@ -31,17 +32,34 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514563,
+        85633793,
+        85968577,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KLtvblJBF0BZnzKkDujLC_47.030662_-91.672804@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588983,
-    "wof:geomhash":"cf47793140236144d9f19ad0162cebba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42ab84e0060096edca4341916f0e833c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514563,
+            "locality_id":85968577,
+            "region_id":85688727,
+            "venue_id":789589531
+        }
+    ],
     "wof:id":789589531,
-    "wof:lastmodified":1472628954,
+    "wof:lastmodified":1492812428,
     "wof:name":"Faith Corner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.889011,45.245681,-93.889011,45.245681",
     "geom:latitude":45.245681,
     "geom:longitude":-93.889011,
@@ -31,17 +32,32 @@
         "landfill"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515241,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ReFy11oygCNTDR3DZ7DLW_45.245681_-93.889011@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598677,
-    "wof:geomhash":"4ddbf4d8bffb8589e9ba37e4d6698e6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed7020d2d502e33fc94c7800a0223ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515241,
+            "region_id":85688727,
+            "venue_id":806505551
+        }
+    ],
     "wof:id":806505551,
-    "wof:lastmodified":1472629314,
+    "wof:lastmodified":1492815782,
     "wof:name":"Fcr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

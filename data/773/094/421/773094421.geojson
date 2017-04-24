@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.475307,45.44184,-94.475307,45.44184",
     "geom:latitude":45.44184,
     "geom:longitude":-94.475307,
@@ -32,17 +33,32 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512163,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eMLfVi7OjdXj8TD5jlr0L_45.441840_-94.475307@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583112,
-    "wof:geomhash":"7e2da284aa52588904cc06ab3f054bd1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3624308c570581474de45a332921a05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512163,
+            "region_id":85688727,
+            "venue_id":773094421
+        }
+    ],
     "wof:id":773094421,
-    "wof:lastmodified":1472629558,
+    "wof:lastmodified":1492799962,
     "wof:name":"Sandy Provo Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

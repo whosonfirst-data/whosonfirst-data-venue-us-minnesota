@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.481644,45.011963,-93.481644,45.011963",
     "geom:latitude":45.011963,
     "geom:longitude":-93.481644,
@@ -31,17 +32,34 @@
         "refrigeration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rJLZnoSqu3cfHjamLDGZu_45.011963_-93.481644@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601228,
-    "wof:geomhash":"b817a910f6dabc3aaa709e25c47e3d22",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8ce8c79562e2ae61bf25a45a27bb586",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":806805097
+        }
+    ],
     "wof:id":806805097,
-    "wof:lastmodified":1472629833,
+    "wof:lastmodified":1492815665,
     "wof:name":"Circuit City",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

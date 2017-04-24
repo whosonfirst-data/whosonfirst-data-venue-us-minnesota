@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.946076,45.780221,-93.946076,45.780221",
     "geom:latitude":45.780221,
     "geom:longitude":-93.946076,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511449,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pUNvgIgTWCB8ihm7tsJTs_45.780221_-93.946076@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604218,
-    "wof:geomhash":"061539425e176ae9531eac2015604f24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11a024ceaedeea6ba02d657ff76fab22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511449,
+            "region_id":85688727,
+            "venue_id":807145511
+        }
+    ],
     "wof:id":807145511,
-    "wof:lastmodified":1472629272,
+    "wof:lastmodified":1492827773,
     "wof:name":"Novak Leroy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

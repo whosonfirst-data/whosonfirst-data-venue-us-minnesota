@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.335691,45.90546,-95.335691,45.90546",
     "geom:latitude":45.90546,
     "geom:longitude":-95.335691,
@@ -33,17 +34,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6R1oJkC9MFkUW4aD1nzTWL_45.905460_-95.335691@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603613,
-    "wof:geomhash":"de478e5ea94ac2d33388ce3048167940",
-    "wof:hierarchy":[],
+    "wof:geomhash":"965c42bc00748b0fbb6400b28e4dc307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":807089555
+        }
+    ],
     "wof:id":807089555,
-    "wof:lastmodified":1472629156,
+    "wof:lastmodified":1492824525,
     "wof:name":"K&S Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

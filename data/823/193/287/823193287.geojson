@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.299811,45.076484,-93.299811,45.076484",
     "geom:latitude":45.076484,
     "geom:longitude":-93.299811,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"http://www.cityofbrooklyncenter.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XpKHLuL0TN2WFdBMZnuOt_45.076484_-93.299811@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608242,
-    "wof:geomhash":"a2ba21a22b7cd80029b22bb2ebef82f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d500ae5b2bafd0327ee86d0aa69b5b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823193287
+        }
+    ],
     "wof:id":823193287,
-    "wof:lastmodified":1472629026,
+    "wof:lastmodified":1492829264,
     "wof:name":"Brooklyn Center Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

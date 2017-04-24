@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.176844,44.166965,-92.176844,44.166965",
     "geom:latitude":44.166965,
     "geom:longitude":-92.176844,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510915,
+        85633793,
+        85968637,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u1LEELVnHnrAG9fLOPeM5_44.166965_-92.176844@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595122,
-    "wof:geomhash":"e9142f5d0d84603dac693ea5da0bfaf3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12fc84de1bd0c1e087b93ba9ed2fa4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404510915,
+            "locality_id":85968637,
+            "region_id":85688727,
+            "venue_id":790348031
+        }
+    ],
     "wof:id":790348031,
-    "wof:lastmodified":1472629539,
+    "wof:lastmodified":1492834368,
     "wof:name":"Hillcrest Community Care Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

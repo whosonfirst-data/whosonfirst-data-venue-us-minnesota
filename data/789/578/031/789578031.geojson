@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.943561,46.818965,-93.943561,46.818965",
     "geom:latitude":46.818965,
     "geom:longitude":-93.943561,
@@ -31,17 +32,32 @@
         "wine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509381,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pji2dQ1wmmcSZUvday40x_46.818965_-93.943561@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588889,
-    "wof:geomhash":"657f979f69769bdeba7fec5b0428a340",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f9a617f3bcb2fac1170d5461f85687fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404509381,
+            "region_id":85688727,
+            "venue_id":789578031
+        }
+    ],
     "wof:id":789578031,
-    "wof:lastmodified":1472628925,
+    "wof:lastmodified":1492811854,
     "wof:name":"Shadberry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

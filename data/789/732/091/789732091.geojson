@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.913539,44.783279,-93.913539,44.783279",
     "geom:latitude":44.783279,
     "geom:longitude":-93.913539,
@@ -28,17 +29,34 @@
     "sg:postcode":"55397",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511701,
+        85633793,
+        85953355,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aAxm3YNXuIpSqONTUhGaM_44.783279_-93.913539@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590117,
-    "wof:geomhash":"87ff43140d9cc15c558894dcaac549a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e927983921645707e9e11a8f37b84dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511701,
+            "locality_id":85953355,
+            "region_id":85688727,
+            "venue_id":789732091
+        }
+    ],
     "wof:id":789732091,
-    "wof:lastmodified":1472629247,
+    "wof:lastmodified":1492813264,
     "wof:name":"Farmers Insurance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

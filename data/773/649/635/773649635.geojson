@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.889355,46.968161,-91.889355,46.968161",
     "geom:latitude":46.968161,
     "geom:longitude":-91.889355,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510673,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NcU5HIugRtkzfunwLKFlw_46.968161_-91.889355@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587325,
-    "wof:geomhash":"bbf252367d398a5be3fab9b29eed30e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bfe20168ac618fbfdeb9627ad00518a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404510673,
+            "region_id":85688727,
+            "venue_id":773649635
+        }
+    ],
     "wof:id":773649635,
-    "wof:lastmodified":1472630118,
+    "wof:lastmodified":1492800346,
     "wof:name":"Calco Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

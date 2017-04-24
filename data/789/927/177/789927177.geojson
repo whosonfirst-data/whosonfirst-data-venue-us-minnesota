@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.755748,44.61853,-93.755748,44.61853",
     "geom:latitude":44.61853,
     "geom:longitude":-93.755748,
@@ -32,17 +33,34 @@
         "coffee"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514973,
+        85633793,
+        85952539,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P0TS09AoEn928PeexV45d_44.618530_-93.755748@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591689,
-    "wof:geomhash":"55ae015e1fd97a0d9df869a954df224d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b3e4c9778307367cf457a956eab58cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514973,
+            "locality_id":85952539,
+            "region_id":85688727,
+            "venue_id":789927177
+        }
+    ],
     "wof:id":789927177,
-    "wof:lastmodified":1472629629,
+    "wof:lastmodified":1492809055,
     "wof:name":"Prairie Perks Coffee House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

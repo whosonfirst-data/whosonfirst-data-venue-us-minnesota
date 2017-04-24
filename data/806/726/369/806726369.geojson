@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.379148,44.927965,-93.379148,44.927965",
     "geom:latitude":44.927965,
     "geom:longitude":-93.379148,
@@ -40,17 +41,45 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709,
+        404511725,
+        85969199
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ff8rPeGxxc3x7vOeRp6zk_44.927965_-93.379148@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600555,
-    "wof:geomhash":"fdcdf2f82dcb625fbca122e83f6a9538",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bf8e161a6c7265604ce3658cce6322f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":806726369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":806726369
+        }
+    ],
     "wof:id":806726369,
-    "wof:lastmodified":1472629763,
+    "wof:lastmodified":1492817335,
     "wof:name":"Professional Instruments Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

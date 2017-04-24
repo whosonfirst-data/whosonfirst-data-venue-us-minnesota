@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.573514,43.645326,-95.573514,43.645326",
     "geom:latitude":43.645326,
     "geom:longitude":-95.573514,
@@ -31,17 +32,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512271,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_092UfTgYal5Xeku38y3Zrz_43.645326_-95.573514@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603635,
-    "wof:geomhash":"74caf3248e61d5f6c4d83cf8eb6cf6de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53c44fc73137fd33a4100bb504a48774",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512271,
+            "region_id":85688727,
+            "venue_id":807092029
+        }
+    ],
     "wof:id":807092029,
-    "wof:lastmodified":1472629133,
+    "wof:lastmodified":1492823264,
     "wof:name":"Leonard Ruesch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

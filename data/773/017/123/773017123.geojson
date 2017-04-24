@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.398763,45.047523,-93.398763,45.047523",
     "geom:latitude":45.047523,
     "geom:longitude":-93.398763,
@@ -31,17 +32,34 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32GR5yFp30k5XlTkIMfWhh_45.047523_-93.398763@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582426,
-    "wof:geomhash":"02a8f2d1010ea68552de10cf7c43ce75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b7da2b96fba0fadede39daf13c32462",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":773017123
+        }
+    ],
     "wof:id":773017123,
-    "wof:lastmodified":1472629061,
+    "wof:lastmodified":1492801365,
     "wof:name":"A-Acme Garage Door Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

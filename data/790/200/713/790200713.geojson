@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.666176,48.593861,-97.666176,48.593861",
     "geom:latitude":48.593861,
     "geom:longitude":-97.666176,
@@ -31,17 +32,34 @@
         "potato"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479295,
+        85633793,
+        85981927,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mDc4jek5CVmGq4DzsP8mj_48.593861_-97.666176@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593964,
-    "wof:geomhash":"f1319fdd79621f249c5744842d3f007e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a7d1c343afd420bbb53f1b08886d1b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404479295,
+            "locality_id":85981927,
+            "region_id":85688525,
+            "venue_id":790200713
+        }
+    ],
     "wof:id":790200713,
-    "wof:lastmodified":1472629302,
+    "wof:lastmodified":1492832707,
     "wof:name":"Tom Otto Potato Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

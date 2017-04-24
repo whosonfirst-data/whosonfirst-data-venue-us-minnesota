@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.866696,47.451331,-94.866696,47.451331",
     "geom:latitude":47.451331,
     "geom:longitude":-94.866696,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x39AgyampBYhx7bSPFY4O_47.451331_-94.866696@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599813,
-    "wof:geomhash":"700739e8c6929f7d8ceecc98a15a6fb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ebfd79b87f32c498048a3927a20432e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":806639825
+        }
+    ],
     "wof:id":806639825,
-    "wof:lastmodified":1472629593,
+    "wof:lastmodified":1492820416,
     "wof:name":"Assembly Of God Missionary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

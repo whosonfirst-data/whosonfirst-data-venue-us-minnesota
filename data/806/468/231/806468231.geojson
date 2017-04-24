@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.104587,44.925644,-93.104587,44.925644",
     "geom:latitude":44.925644,
     "geom:longitude":-93.104587,
@@ -32,19 +33,40 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800635,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zvLVe1x2nNT5Qz3F16OlG_44.925644_-93.104587@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598377,
-    "wof:geomhash":"751501047b77d5bfa08ee91d9a4c0364",
-    "wof:hierarchy":[],
+    "wof:geomhash":"792b0ef8c31d03f176395d862480480a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800635,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":806468231
+        }
+    ],
     "wof:id":806468231,
-    "wof:lastmodified":1472629199,
+    "wof:lastmodified":1492819766,
     "wof:name":"Maureen M Fearing",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

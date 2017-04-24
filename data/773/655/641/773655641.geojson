@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.285995,44.863147,-94.285995,44.863147",
     "geom:latitude":44.863147,
     "geom:longitude":-94.285995,
@@ -33,17 +34,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512809,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KSPmBe6nd0GKvPAeOrSo4_44.863147_-94.285995@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587364,
-    "wof:geomhash":"ec0d108c5832dfe195b06098863e2c2e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0895c92e26b5c90f6bd54af6931d7cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512809,
+            "region_id":85688727,
+            "venue_id":773655641
+        }
+    ],
     "wof:id":773655641,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492809045,
     "wof:name":"Ronald Field",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

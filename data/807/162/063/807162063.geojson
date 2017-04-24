@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.78185,44.448195,-95.78185,44.448195",
     "geom:latitude":44.448195,
     "geom:longitude":-95.78185,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qmetFJWusGurjgNB26xAL_44.448195_-95.781850@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604398,
-    "wof:geomhash":"3c5704a0cb3229077cd4ba6d7d233b8d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4272871bc135f461a8860ea46d3c003f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":807162063
+        }
+    ],
     "wof:id":807162063,
-    "wof:lastmodified":1472629294,
+    "wof:lastmodified":1492827650,
     "wof:name":"Daniel Schrunk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

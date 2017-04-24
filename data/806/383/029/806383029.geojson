@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.019048,45.440487,-93.019048,45.440487",
     "geom:latitude":45.440487,
     "geom:longitude":-93.019048,
@@ -39,17 +40,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511117,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04QzBpOco16yP8n0GhYM3u_45.440487_-93.019048@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597705,
-    "wof:geomhash":"bae6999fe1b586136ccf5f96af36f24e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2acf6fc09446976b0682399ce7b5fb98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511117,
+            "region_id":85688727,
+            "venue_id":806383029
+        }
+    ],
     "wof:id":806383029,
-    "wof:lastmodified":1472628991,
+    "wof:lastmodified":1492817587,
     "wof:name":"Aaron's Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

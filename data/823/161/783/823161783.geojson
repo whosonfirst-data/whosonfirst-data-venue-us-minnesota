@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.247326,45.007013,-93.247326,45.007013",
     "geom:latitude":45.007013,
     "geom:longitude":-93.247326,
@@ -31,14 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558761,
+        420781085,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607821,
-    "wof:geomhash":"7052a1221a9daef7cd1a675144e2ec58",
+    "wof:geomhash":"5671502482a0d143672026ed278a35f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,25 +55,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420558761,
-            "region_id":85688727,
-            "venue_id":823161783
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781085,
             "region_id":85688727,
             "venue_id":823161783
         }
     ],
     "wof:id":823161783,
-    "wof:lastmodified":1472628990,
+    "wof:lastmodified":1492829854,
     "wof:name":"Bilal's Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781085,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

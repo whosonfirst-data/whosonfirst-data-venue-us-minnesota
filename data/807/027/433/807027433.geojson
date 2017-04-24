@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.360717,43.610119,-91.360717,43.610119",
     "geom:latitude":43.610119,
     "geom:longitude":-91.360717,
@@ -29,10 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1462603102,
-    "wof:geomhash":"75a7babd1400fbb424c184d0951f4c34",
+    "wof:geomhash":"107cf2e4c66d778fe85291bf687b1c69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":807027433
         }
     ],
     "wof:id":807027433,
-    "wof:lastmodified":1472628988,
+    "wof:lastmodified":1492827147,
     "wof:name":"Satim Inc",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

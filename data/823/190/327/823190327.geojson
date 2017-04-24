@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.365518,45.078819,-93.365518,45.078819",
     "geom:latitude":45.078819,
     "geom:longitude":-93.365518,
@@ -43,17 +44,34 @@
     ],
     "sg:website":"http://www.northcenterchurch.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D7hAfn0ODOEkL8G7hkaln_45.078819_-93.365518@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608194,
-    "wof:geomhash":"e766accd57af3136b7834220a67f1987",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b7d6a4e6285379a3fe92ac174dc5d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823190327
+        }
+    ],
     "wof:id":823190327,
-    "wof:lastmodified":1472629023,
+    "wof:lastmodified":1492830051,
     "wof:name":"North Center Baptist Church Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

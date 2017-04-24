@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.452353,45.102858,-93.452353,45.102858",
     "geom:latitude":45.102858,
     "geom:longitude":-93.452353,
@@ -31,17 +32,34 @@
         "financing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XJSkmkzcc4PwFtpMKG61k_45.102858_-93.452353@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598066,
-    "wof:geomhash":"447c5a8481a481dd6cc1f4e0ec2f01c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2bce69017fcb2d9a68368ebe7260edf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806428453
+        }
+    ],
     "wof:id":806428453,
-    "wof:lastmodified":1472629126,
+    "wof:lastmodified":1492814806,
     "wof:name":"Wells Fargo Financial",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

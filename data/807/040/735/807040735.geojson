@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.206312,45.037299,-93.206312,45.037299",
     "geom:latitude":45.037299,
     "geom:longitude":-93.206312,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z5wrwanolMaC2gTcyRamE_45.037299_-93.206312@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603209,
-    "wof:geomhash":"a9dd4c1d30c4b591a00579a25091907d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a08c92debb2a7b9af88037f855d50ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":807040735
+        }
+    ],
     "wof:id":807040735,
-    "wof:lastmodified":1472629011,
+    "wof:lastmodified":1492822983,
     "wof:name":"Seven Frty River Rd Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

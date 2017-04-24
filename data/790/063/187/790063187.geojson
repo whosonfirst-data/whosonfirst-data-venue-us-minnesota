@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.935874,45.301641,-92.935874,45.301641",
     "geom:latitude":45.301641,
     "geom:longitude":-92.935874,
@@ -34,17 +35,34 @@
         "dist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6blkDiMW86BiERJXk0OIyq_45.301641_-92.935874@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592843,
-    "wof:geomhash":"76c859ba3b1f65f36b1db1b19a90ba86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c10617378b745e3e466dab7ba429402f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":790063187
+        }
+    ],
     "wof:id":790063187,
-    "wof:lastmodified":1472629031,
+    "wof:lastmodified":1492837895,
     "wof:name":"Taylor Packaging Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

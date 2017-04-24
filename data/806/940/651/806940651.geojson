@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.169262,48.114769,-96.169262,48.114769",
     "geom:latitude":48.114769,
     "geom:longitude":-96.169262,
@@ -32,17 +33,34 @@
         "frame"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1il7jKFgiqA44LbUTB5vlI_48.114769_-96.169262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602366,
-    "wof:geomhash":"b5f5130a3a0d941bfde1fa6fc124a849",
-    "wof:hierarchy":[],
+    "wof:geomhash":"597ec0a4c8f658919917dda265aa240e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":806940651
+        }
+    ],
     "wof:id":806940651,
-    "wof:lastmodified":1472629947,
+    "wof:lastmodified":1492820910,
     "wof:name":"Country Class Arts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.304771,45.604479,-94.304771,45.604479",
     "geom:latitude":45.604479,
     "geom:longitude":-94.304771,
@@ -36,17 +37,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510527,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p7tRHzHsaMacGXndZCNYq_45.604479_-94.304771@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587932,
-    "wof:geomhash":"f989cc6a0fb2cd2541aaa195e6515a93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0120424a5b2245fdd16428aaff116a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510527,
+            "region_id":85688727,
+            "venue_id":773727637
+        }
+    ],
     "wof:id":773727637,
-    "wof:lastmodified":1472630144,
+    "wof:lastmodified":1492806389,
     "wof:name":"Evergreen View Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

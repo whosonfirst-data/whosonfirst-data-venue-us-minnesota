@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.872446,44.711914,-92.872446,44.711914",
     "geom:latitude":44.711914,
     "geom:longitude":-92.872446,
@@ -44,17 +45,34 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IJjjDDw2lHpjyfnEdGrMD_44.711914_-92.872446@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605233,
-    "wof:geomhash":"e1a9ca89476edfb6909175f4ecc557f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"732a836a5bab909cbd18764694404283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":807241957
+        }
+    ],
     "wof:id":807241957,
-    "wof:lastmodified":1472629519,
+    "wof:lastmodified":1492823466,
     "wof:name":"Johnson Mw Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

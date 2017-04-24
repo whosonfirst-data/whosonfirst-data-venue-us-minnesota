@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.467364,47.169187,-92.467364,47.169187",
     "geom:latitude":47.169187,
     "geom:longitude":-92.467364,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MIONzOJUvveNBeNoH61ip_47.169187_-92.467364@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589266,
-    "wof:geomhash":"f0ed057cb9e91d484998013ee13011df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62fa7b5da35ad9e9a17b10b2fe41e264",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789626305
+        }
+    ],
     "wof:id":789626305,
-    "wof:lastmodified":1472629046,
+    "wof:lastmodified":1492812942,
     "wof:name":"Tuhkanen Excavating",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

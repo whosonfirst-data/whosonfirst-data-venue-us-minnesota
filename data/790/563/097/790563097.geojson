@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.171107,45.269107,-93.171107,45.269107",
     "geom:latitude":45.269107,
     "geom:longitude":-93.171107,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85812175,
+        102191575,
+        404511283,
         85633793,
         85953399,
         102087861,
-        85812175
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462596898,
-    "wof:geomhash":"1cf7420dd62d048563369bd4e14a5718",
+    "wof:geomhash":"62c306345358d170ddbc6464ad62f387",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087861,
+            "localadmin_id":404511283,
             "locality_id":85953399,
             "neighbourhood_id":85812175,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":790563097,
-    "wof:lastmodified":1472629841,
+    "wof:lastmodified":1492836504,
     "wof:name":"Field Qa Inc",
     "wof:parent_id":85812175,
     "wof:placetype":"venue",

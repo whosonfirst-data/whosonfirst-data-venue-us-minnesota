@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.300257,44.855289,-93.300257,44.855289",
     "geom:latitude":44.855289,
     "geom:longitude":-93.300257,
@@ -36,17 +37,34 @@
     ],
     "sg:website":"http://www.mncpa.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Hx3r8O7TZmEszY1w4yHle_44.855289_-93.300257@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608277,
-    "wof:geomhash":"c2e82dffe5b41d5329c80eef1db4b2ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d39291b023bc6d3e61d5f43d6c257a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823196111
+        }
+    ],
     "wof:id":823196111,
-    "wof:lastmodified":1472629027,
+    "wof:lastmodified":1492828313,
     "wof:name":"Minnesota Society of Certified Public Accountants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

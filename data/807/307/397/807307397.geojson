@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.574205,44.816401,-93.574205,44.816401",
     "geom:latitude":44.816401,
     "geom:longitude":-93.574205,
@@ -38,17 +39,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66Ys11ASGw918Rio3fKyu4_44.816401_-93.574205@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605931,
-    "wof:geomhash":"8dd3394c71b801d1bde6080cfcaca2c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ef0d250a3576e2b28bd9ba648a44b9b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":807307397
+        }
+    ],
     "wof:id":807307397,
-    "wof:lastmodified":1472629665,
+    "wof:lastmodified":1492822515,
     "wof:name":"Personal Home Helper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

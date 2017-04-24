@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.760034,45.294234,-93.760034,45.294234",
     "geom:latitude":45.294234,
     "geom:longitude":-93.760034,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dqSIRQ6eeSpzD3Vhzit3I_45.294234_-93.760034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587115,
-    "wof:geomhash":"0312cc4a94eabb48320d999160248787",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3955276760af95d57c139c4d91a6043a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":773622705
+        }
+    ],
     "wof:id":773622705,
-    "wof:lastmodified":1472630111,
+    "wof:lastmodified":1492804626,
     "wof:name":"A Glorious Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

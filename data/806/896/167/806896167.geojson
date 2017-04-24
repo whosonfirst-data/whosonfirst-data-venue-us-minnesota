@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.368793,43.649715,-93.368793,43.649715",
     "geom:latitude":43.649715,
     "geom:longitude":-93.368793,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ujlJtBNTDTBZY0mydMN24_43.649715_-93.368793@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601982,
-    "wof:geomhash":"4c8dc5b2bfc13eef1951bf4a89ca8bb7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ce1588b65abc576402fd75087f569cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806896167
+        }
+    ],
     "wof:id":806896167,
-    "wof:lastmodified":1472629925,
+    "wof:lastmodified":1492816362,
     "wof:name":"Grammas Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.594884,47.40187,-92.594884,47.40187",
     "geom:latitude":47.40187,
     "geom:longitude":-92.594884,
@@ -31,17 +32,26 @@
         "metal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78RbhlmKwLf6I7WyLgTqIO_47.401870_-92.594884@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586708,
-    "wof:geomhash":"a3672f94092c958b4d2ca514d4bb861c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"608d76ad80c7d08fc622ff75347fff7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773568253
+        }
+    ],
     "wof:id":773568253,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492806585,
     "wof:name":"Holmes Recycling Svc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

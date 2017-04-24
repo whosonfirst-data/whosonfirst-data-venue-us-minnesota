@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.366937,45.053752,-93.366937,45.053752",
     "geom:latitude":45.053752,
     "geom:longitude":-93.366937,
@@ -32,17 +33,34 @@
         "services-commercial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bWC7E7ckCHsPqDO9NF8iI_45.053752_-93.366937@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608173,
-    "wof:geomhash":"9959766841cca61a217f0347ad5b8b86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65625a1e6850dd55923f3c07a12e934a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823188521
+        }
+    ],
     "wof:id":823188521,
-    "wof:lastmodified":1472629034,
+    "wof:lastmodified":1492828127,
     "wof:name":"Carlson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

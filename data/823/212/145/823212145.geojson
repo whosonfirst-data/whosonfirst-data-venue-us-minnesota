@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.351745,45.108879,-93.351745,45.108879",
     "geom:latitude":45.108879,
     "geom:longitude":-93.351745,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://twincities.citysearch.com/profile/external/35735126/brooklyn_park_mn/jazzercise_brooklyn_park_brooklyn_park_community_activity_center.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06GhhQaVjlgzFGmbFxB9TE_45.108879_-93.351745@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608571,
-    "wof:geomhash":"210b4b30dec343411cb664a103a295b3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e186cac98fc724b9c728c0ab9967c8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823212145
+        }
+    ],
     "wof:id":823212145,
-    "wof:lastmodified":1472629082,
+    "wof:lastmodified":1492830003,
     "wof:name":"Jazzercise Brooklyn Park Brooklyn Park Community Activity Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.526392,44.798592,-93.526392,44.798592",
     "geom:latitude":44.798592,
     "geom:longitude":-93.526392,
@@ -31,17 +32,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AdPsWt0QeO7fK5vCruHGf_44.798592_-93.526392@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606425,
-    "wof:geomhash":"4ace7173a87672379d850af157e16d69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"25c5826bef3b440870adea8e5ba942a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":807344611
+        }
+    ],
     "wof:id":807344611,
-    "wof:lastmodified":1472629775,
+    "wof:lastmodified":1492826482,
     "wof:name":"Eagle Pet Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

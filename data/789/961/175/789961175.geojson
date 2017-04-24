@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.073537,44.917469,-94.073537,44.917469",
     "geom:latitude":44.917469,
     "geom:longitude":-94.073537,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513633,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wKQmv2frWrgZrILfOnlam_44.917469_-94.073537@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592008,
-    "wof:geomhash":"b9ce35827a77782ff8a3ca11337f8f16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53897c2f28e7b130beb3bccbb06021e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513633,
+            "region_id":85688727,
+            "venue_id":789961175
+        }
+    ],
     "wof:id":789961175,
-    "wof:lastmodified":1472629644,
+    "wof:lastmodified":1492810525,
     "wof:name":"Joe Kieser",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

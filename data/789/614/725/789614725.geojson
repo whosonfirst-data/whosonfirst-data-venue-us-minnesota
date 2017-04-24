@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.147554,48.118488,-96.147554,48.118488",
     "geom:latitude":48.118488,
     "geom:longitude":-96.147554,
@@ -28,17 +29,34 @@
     "sg:postcode":"56701",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cUpsRvHPRBhDtzmedmc5g_48.118488_-96.147554@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589174,
-    "wof:geomhash":"c0d9dcd8e1b5395ef36c1d67ad6cb3a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b84cc5d8ef8d330d00f2e0bffd4f74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":789614725
+        }
+    ],
     "wof:id":789614725,
-    "wof:lastmodified":1472629038,
+    "wof:lastmodified":1492809927,
     "wof:name":"Medicine Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

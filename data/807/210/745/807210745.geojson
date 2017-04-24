@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.1217,43.97053,-92.1217,43.97053",
     "geom:latitude":43.97053,
     "geom:longitude":-92.1217,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512437,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XVQk2an7Yearcvjx53lER_43.970530_-92.121700@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604907,
-    "wof:geomhash":"c8dbcb54f140b30fd242a318451caf14",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74b71f30b32bb7129b016fa6f00d2590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512437,
+            "region_id":85688727,
+            "venue_id":807210745
+        }
+    ],
     "wof:id":807210745,
-    "wof:lastmodified":1472629421,
+    "wof:lastmodified":1492823559,
     "wof:name":"Small Green Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

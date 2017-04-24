@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.105784,45.355458,-95.105784,45.355458",
     "geom:latitude":45.355458,
     "geom:longitude":-95.105784,
@@ -38,17 +39,32 @@
         "boilers-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509871,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hu97lwfBUEkGEd7Ksx8MU_45.355458_-95.105784@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609283,
-    "wof:geomhash":"ad4dda4f539949ea5344ae7a31832a4a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6820ead1f8d5f6ebfb15edaae1623cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509871,
+            "region_id":85688727,
+            "venue_id":823247373
+        }
+    ],
     "wof:id":823247373,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492829662,
     "wof:name":"Minnesota Welding & Boiler Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.91134,45.111714,-95.91134,45.111714",
     "geom:latitude":45.111714,
     "geom:longitude":-95.91134,
@@ -28,17 +29,34 @@
     "sg:postcode":"56262",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509089,
+        85633793,
+        85953211,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kbRhxQsLInCSE5QjziWu3_45.111714_-95.911340@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591065,
-    "wof:geomhash":"12a495f726be6b5c25d8c04154077175",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3537da7ae4c25076084aec781295a00b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404509089,
+            "locality_id":85953211,
+            "region_id":85688727,
+            "venue_id":789854775
+        }
+    ],
     "wof:id":789854775,
-    "wof:lastmodified":1472629525,
+    "wof:lastmodified":1492812705,
     "wof:name":"More Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

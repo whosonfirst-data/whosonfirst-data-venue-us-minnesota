@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.890816,45.365339,-92.890816,45.365339",
     "geom:latitude":45.365339,
     "geom:longitude":-92.890816,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IdpoHF98cdfBfo5Uc3vQY_45.365339_-92.890816@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586142,
-    "wof:geomhash":"98c126d0ba2c62be6f66a235caf6cafa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02555947c546f6e5746e2594e95aad6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773490605
+        }
+    ],
     "wof:id":773490605,
-    "wof:lastmodified":1472630071,
+    "wof:lastmodified":1492804641,
     "wof:name":"Old Time Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.341298,47.440051,-92.341298,47.440051",
     "geom:latitude":47.440051,
     "geom:longitude":-92.341298,
@@ -33,17 +34,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67l4dhSCiTHgsWHx9S7a1G_47.440051_-92.341298@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595126,
-    "wof:geomhash":"5e26d7b2e2976bcbca4ad9eb1e6bf85d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b3f57636b9dd7e18cd5c4119d856f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":790348703
+        }
+    ],
     "wof:id":790348703,
-    "wof:lastmodified":1472629565,
+    "wof:lastmodified":1492834365,
     "wof:name":"Butler Trucking",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

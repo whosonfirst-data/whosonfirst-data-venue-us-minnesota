@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.816555,45.676916,-94.816555,45.676916",
     "geom:latitude":45.676916,
     "geom:longitude":-94.816555,
@@ -37,17 +38,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514375,
+        85633793,
+        85952477,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ce7rqARoJR7eubpaAjkml_45.676916_-94.816555@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609327,
-    "wof:geomhash":"4d8e2ff3e8a239bf8a8f268ef1ab32ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63384645a4c6e57f13e0c759b8685e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514375,
+            "locality_id":85952477,
+            "region_id":85688727,
+            "venue_id":823249753
+        }
+    ],
     "wof:id":823249753,
-    "wof:lastmodified":1472629172,
+    "wof:lastmodified":1492828160,
     "wof:name":"Green Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

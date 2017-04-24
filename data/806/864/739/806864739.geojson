@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.545307,44.543555,-93.545307,44.543555",
     "geom:latitude":44.543555,
     "geom:longitude":-93.545307,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512357,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dqbshV4dZ89YmgxF43gea_44.543555_-93.545307@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601731,
-    "wof:geomhash":"5ae33276455a147290c0831dd5c33fc6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69914e70c27ebb7878d88d7a5c32b2ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512357,
+            "region_id":85688727,
+            "venue_id":806864739
+        }
+    ],
     "wof:id":806864739,
-    "wof:lastmodified":1472629900,
+    "wof:lastmodified":1492820787,
     "wof:name":"Albert Simon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

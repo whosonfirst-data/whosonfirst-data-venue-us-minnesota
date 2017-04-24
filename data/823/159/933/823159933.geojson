@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.233591,44.903059,-93.233591,44.903059",
     "geom:latitude":44.903059,
     "geom:longitude":-93.233591,
@@ -46,14 +47,14 @@
     "sg:website":"http://www.tcgs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872695,
+        85872551,
         102191575,
+        1108799987,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872551
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607798,
-    "wof:geomhash":"5b5e35d196831a0d449776cd3f9b8f70",
+    "wof:geomhash":"9b2f3d377f32f1131ad2498c4ae2de67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,25 +70,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872695,
-            "region_id":85688727,
-            "venue_id":823159933
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799987,
             "neighbourhood_id":85872551,
             "region_id":85688727,
             "venue_id":823159933
         }
     ],
     "wof:id":823159933,
-    "wof:lastmodified":1472628976,
+    "wof:lastmodified":1492828629,
     "wof:name":"T C G S",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.220984,44.083561,-93.220984,44.083561",
     "geom:latitude":44.083561,
     "geom:longitude":-93.220984,
@@ -38,17 +39,34 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HmgnagrZrKeuqlDaaCJZQ_44.083569_-93.221044@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604682,
-    "wof:geomhash":"1bbd88ae2052545d7b119320924326ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"726219edc01a0302bc92e260e4a5b3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":807189175
+        }
+    ],
     "wof:id":807189175,
-    "wof:lastmodified":1472629380,
+    "wof:lastmodified":1492825689,
     "wof:name":"Turn Key Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

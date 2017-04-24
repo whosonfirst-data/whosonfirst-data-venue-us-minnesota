@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.513623,47.417201,-92.513623,47.417201",
     "geom:latitude":47.417201,
     "geom:longitude":-92.513623,
@@ -32,17 +33,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5n1AU1iyjE8HwSY3oBtRRi_47.417201_-92.513623@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586373,
-    "wof:geomhash":"3a1568100b903f37d802a7882ac09621",
-    "wof:hierarchy":[],
+    "wof:geomhash":"713be6e264a0da346a4132ba62fa3c01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773524241
+        }
+    ],
     "wof:id":773524241,
-    "wof:lastmodified":1472630078,
+    "wof:lastmodified":1492803713,
     "wof:name":"Tini Square Properties",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

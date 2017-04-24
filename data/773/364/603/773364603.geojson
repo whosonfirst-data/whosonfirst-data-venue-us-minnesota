@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.349201,47.296113,-96.349201,47.296113",
     "geom:latitude":47.296113,
     "geom:longitude":-96.349201,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512293,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vQzFEN1Zyt1YF2WmHf5HG_47.296113_-96.349201@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585144,
-    "wof:geomhash":"09997e6064fd8c41dd418a89a4935865",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8193c21ef9849d03d1be6426290ff427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512293,
+            "region_id":85688727,
+            "venue_id":773364603
+        }
+    ],
     "wof:id":773364603,
-    "wof:lastmodified":1472630023,
+    "wof:lastmodified":1492800947,
     "wof:name":"Husky Haulers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

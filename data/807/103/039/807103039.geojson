@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.375943,43.8134,-95.375943,43.8134",
     "geom:latitude":43.8134,
     "geom:longitude":-95.375943,
@@ -28,17 +29,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513601,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XkxBHc1LqCim0ecZcDL3u_43.813400_-95.375943@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603764,
-    "wof:geomhash":"bc4367e83fe402d91c5b38aa3383e836",
-    "wof:hierarchy":[],
+    "wof:geomhash":"930c4965b51168f69e070c1d9ff36ac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513601,
+            "region_id":85688727,
+            "venue_id":807103039
+        }
+    ],
     "wof:id":807103039,
-    "wof:lastmodified":1472629187,
+    "wof:lastmodified":1492825393,
     "wof:name":"Bruce Iverson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

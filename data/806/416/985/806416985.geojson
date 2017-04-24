@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.776319,45.788123,-94.776319,45.788123",
     "geom:latitude":45.788123,
     "geom:longitude":-94.776319,
@@ -31,17 +32,32 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514695,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WqvmGWbrmdYfbAYRTSsyr_45.788123_-94.776319@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597987,
-    "wof:geomhash":"56eb1cdfd4fdecd6eee396c54abc1bd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1e37cc25e3e3b066e81fbc10c316c289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514695,
+            "region_id":85688727,
+            "venue_id":806416985
+        }
+    ],
     "wof:id":806416985,
-    "wof:lastmodified":1472629104,
+    "wof:lastmodified":1492818446,
     "wof:name":"BMT Septic Pumping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

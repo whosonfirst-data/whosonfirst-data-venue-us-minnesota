@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.581734,44.435509,-93.581734,44.435509",
     "geom:latitude":44.435509,
     "geom:longitude":-93.581734,
@@ -28,17 +29,34 @@
     "sg:postcode":"56069",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u1SB0hMdW4Vf8kOR8L5Vh_44.435509_-93.581734@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602339,
-    "wof:geomhash":"9634243e61c81bf808ee424a1f7be01a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"66b291b904f861b5db747dfe4e066062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":806937895
+        }
+    ],
     "wof:id":806937895,
-    "wof:lastmodified":1472629945,
+    "wof:lastmodified":1492816745,
     "wof:name":"Ace Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

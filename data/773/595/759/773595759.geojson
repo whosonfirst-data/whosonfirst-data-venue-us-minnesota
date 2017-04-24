@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.018338,46.843296,-92.018338,46.843296",
     "geom:latitude":46.843296,
     "geom:longitude":-92.018338,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85830347,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85829557,
-        85830347,
-        102191575,
-        404513247
+        85688727,
+        85829557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +48,8 @@
     },
     "wof:country":"US",
     "wof:created":1462586914,
-    "wof:geomhash":"1f51bc8218ff4771746dab41bacb5aae",
+    "wof:geomhash":"4827e7e6665c772b80dbe1bf93602cd9",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087653,
-            "locality_id":85968517,
-            "neighbourhood_id":85829557,
-            "region_id":85688727,
-            "venue_id":773595759
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -66,12 +59,22 @@
             "neighbourhood_id":85830347,
             "region_id":85688727,
             "venue_id":773595759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513247,
+            "locality_id":85968517,
+            "neighbourhood_id":85829557,
+            "region_id":85688727,
+            "venue_id":773595759
         }
     ],
     "wof:id":773595759,
-    "wof:lastmodified":1472630106,
+    "wof:lastmodified":1492805674,
     "wof:name":"Northern Refrigeration Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

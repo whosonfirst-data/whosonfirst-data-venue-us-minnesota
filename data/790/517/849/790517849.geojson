@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.474422,44.080459,-93.474422,44.080459",
     "geom:latitude":44.080459,
     "geom:longitude":-93.474422,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bX1rdf3cn2RXZeKC2yqcN_44.080459_-93.474422@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596512,
-    "wof:geomhash":"47700e6eac95bafef128578b8e44bec1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dc7aade0f13f36380efa3ffce737569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":790517849
+        }
+    ],
     "wof:id":790517849,
-    "wof:lastmodified":1472629796,
+    "wof:lastmodified":1492836105,
     "wof:name":"Elm Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

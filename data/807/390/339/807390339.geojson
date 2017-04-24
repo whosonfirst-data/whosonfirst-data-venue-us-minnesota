@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.307379,44.961645,-93.307379,44.961645",
     "geom:latitude":44.961645,
     "geom:longitude":-93.307379,
@@ -40,14 +41,14 @@
     "sg:website":"www.bockleygallery.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85808855,
+        85872649,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872649
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607077,
-    "wof:geomhash":"7b81992da67da7a8b023d18bf875a363",
+    "wof:geomhash":"c1cd803805458aa47851afcf2894d24b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,25 +64,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85808855,
-            "region_id":85688727,
-            "venue_id":807390339
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799977,
             "neighbourhood_id":85872649,
             "region_id":85688727,
             "venue_id":807390339
         }
     ],
     "wof:id":807390339,
-    "wof:lastmodified":1472629876,
+    "wof:lastmodified":1492825039,
     "wof:name":"Bockley Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872649,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.875947,43.863351,-92.875947,43.863351",
     "geom:latitude":43.863351,
     "geom:longitude":-92.875947,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513735,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZMyllqvNCRyGEeOgAyQqm_43.863351_-92.875947@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604784,
-    "wof:geomhash":"2a721b41a590fac5e88c083c89c2c393",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2b9545f3f13466e677aee92b8d99060a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404513735,
+            "region_id":85688727,
+            "venue_id":807198529
+        }
+    ],
     "wof:id":807198529,
-    "wof:lastmodified":1472629402,
+    "wof:lastmodified":1492826989,
     "wof:name":"Monte Sullivan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

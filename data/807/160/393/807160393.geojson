@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.471712,45.215143,-94.471712,45.215143",
     "geom:latitude":45.215143,
     "geom:longitude":-94.471712,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512395,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NEF1lBjWo8LyUctLDquJH_45.215143_-94.471712@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604383,
-    "wof:geomhash":"0eccd8126e227391842dfde4c883cd1d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3dbb35fbb1d148e2341a17c6056e5ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512395,
+            "region_id":85688727,
+            "venue_id":807160393
+        }
+    ],
     "wof:id":807160393,
-    "wof:lastmodified":1472629302,
+    "wof:lastmodified":1492827827,
     "wof:name":"Arthur Riebe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

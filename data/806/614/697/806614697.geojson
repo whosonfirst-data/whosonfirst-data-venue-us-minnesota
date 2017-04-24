@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.361845,44.547834,-94.361845,44.547834",
     "geom:latitude":44.547834,
     "geom:longitude":-94.361845,
@@ -32,17 +33,34 @@
         "commerce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514061,
+        85633793,
+        85953255,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61XkxQcro137Oysk4sZ9Oa_44.547834_-94.361845@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599603,
-    "wof:geomhash":"970929036764f66c9d87698d127ab0be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d18e23994051dfdd17e32f3d0df4df25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514061,
+            "locality_id":85953255,
+            "region_id":85688727,
+            "venue_id":806614697
+        }
+    ],
     "wof:id":806614697,
-    "wof:lastmodified":1472629568,
+    "wof:lastmodified":1492815196,
     "wof:name":"Winthrop Area Chamber-Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

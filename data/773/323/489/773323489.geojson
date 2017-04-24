@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.335546,44.002774,-92.335546,44.002774",
     "geom:latitude":44.002774,
     "geom:longitude":-92.335546,
@@ -33,17 +34,32 @@
         "carpet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512579,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qooe8oDw2rqZLrWegif7F_44.002774_-92.335546@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584865,
-    "wof:geomhash":"062abdaddcb4eea8e90fc4a4b1589265",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c1d1cfb9cca192751fa59d4efd18ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512579,
+            "region_id":85688727,
+            "venue_id":773323489
+        }
+    ],
     "wof:id":773323489,
-    "wof:lastmodified":1472630009,
+    "wof:lastmodified":1492807153,
     "wof:name":"Plaza Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

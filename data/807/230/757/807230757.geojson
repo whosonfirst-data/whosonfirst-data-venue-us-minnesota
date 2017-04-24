@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181912,48.119143,-96.181912,48.119143",
     "geom:latitude":48.119143,
     "geom:longitude":-96.181912,
@@ -33,17 +34,34 @@
         "mexican"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IkDo73XImq3mHbtChNIrw_48.119143_-96.181912@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605125,
-    "wof:geomhash":"1bbf33b71f59bd5b023348d309d55d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"714acbd1ef43e620d9f516475a11b252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":807230757
+        }
+    ],
     "wof:id":807230757,
-    "wof:lastmodified":1472629471,
+    "wof:lastmodified":1492824350,
     "wof:name":"Taco John's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.344944,45.05545,-93.344944,45.05545",
     "geom:latitude":45.05545,
     "geom:longitude":-93.344944,
@@ -32,17 +33,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sJypVOWMgxXOIwvgQGh1f_45.055450_-93.344944@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583304,
-    "wof:geomhash":"fbad58bc6352114cead09e7b44d1f950",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b286718241531a2f4e5410a362e25215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":773121337
+        }
+    ],
     "wof:id":773121337,
-    "wof:lastmodified":1472629648,
+    "wof:lastmodified":1492804724,
     "wof:name":"Infocentric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

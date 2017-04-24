@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.034262,43.616417,-95.034262,43.616417",
     "geom:latitude":43.616417,
     "geom:longitude":-95.034262,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513587,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tERuNLr2vJGCrYQK91XOQ_43.616417_-95.034262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604413,
-    "wof:geomhash":"7ddf68a4a45aadd605e961a07d4060c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aadc08cab304639499ec548e270c4b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513587,
+            "region_id":85688727,
+            "venue_id":807163517
+        }
+    ],
     "wof:id":807163517,
-    "wof:lastmodified":1472629307,
+    "wof:lastmodified":1492824246,
     "wof:name":"Eugene Resch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

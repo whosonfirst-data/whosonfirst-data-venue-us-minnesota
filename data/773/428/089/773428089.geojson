@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.727036,43.745578,-93.727036,43.745578",
     "geom:latitude":43.745578,
     "geom:longitude":-93.727036,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509619,
+        85633793,
+        85952579,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SVQg65gJQzUNcOCvMtIEZ_43.745578_-93.727036@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585647,
-    "wof:geomhash":"053f06cf94a957a7957f3f01518f3784",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c975edcac68d8085576fe6b0d12385c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509619,
+            "locality_id":85952579,
+            "region_id":85688727,
+            "venue_id":773428089
+        }
+    ],
     "wof:id":773428089,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492800206,
     "wof:name":"Leland Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

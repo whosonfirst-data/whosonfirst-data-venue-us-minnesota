@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.308146,45.080943,-94.308146,45.080943",
     "geom:latitude":45.080943,
     "geom:longitude":-94.308146,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512391,
+        85633793,
+        85968233,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pWVF4zqqpAV3TQ3PugATe_45.080943_-94.308146@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592899,
-    "wof:geomhash":"fbf26361df4727219584ab6b410d6075",
-    "wof:hierarchy":[],
+    "wof:geomhash":"beae64232f6b057d78ff0a88ce65dd8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512391,
+            "locality_id":85968233,
+            "region_id":85688727,
+            "venue_id":790071199
+        }
+    ],
     "wof:id":790071199,
-    "wof:lastmodified":1472629073,
+    "wof:lastmodified":1492835739,
     "wof:name":"General Family Dentistry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

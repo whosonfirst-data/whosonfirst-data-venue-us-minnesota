@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.44029,45.452038,-94.44029,45.452038",
     "geom:latitude":45.452038,
     "geom:longitude":-94.44029,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514221,
+        85633793,
+        85952459,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Oy5u8cR3Uxnc3lAIiPwSh_45.452038_-94.440290@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588361,
-    "wof:geomhash":"ed8af13721743ea635e128167dede997",
-    "wof:hierarchy":[],
+    "wof:geomhash":"417c13300de390a164e46489e7da0835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514221,
+            "locality_id":85952459,
+            "region_id":85688727,
+            "venue_id":773786181
+        }
+    ],
     "wof:id":773786181,
-    "wof:lastmodified":1472630157,
+    "wof:lastmodified":1492800269,
     "wof:name":"Roger Tweed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

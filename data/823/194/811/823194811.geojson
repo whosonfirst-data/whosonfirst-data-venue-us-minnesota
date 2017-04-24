@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.306162,44.858499,-93.306162,44.858499",
     "geom:latitude":44.858499,
     "geom:longitude":-93.306162,
@@ -42,17 +43,34 @@
     ],
     "sg:website":"http://www.sonicdrivein.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Pwp0MugIZbfbBDcuypr5Q_44.858499_-93.306162@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608261,
-    "wof:geomhash":"6588fa87c8d8e77a2fbe7d67f76095a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a24f56fd2ac92dcf458b1e8ee98e186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823194811
+        }
+    ],
     "wof:id":823194811,
-    "wof:lastmodified":1472629048,
+    "wof:lastmodified":1492830277,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

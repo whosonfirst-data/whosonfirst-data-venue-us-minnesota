@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.010048,43.549141,-92.010048,43.549141",
     "geom:latitude":43.549141,
     "geom:longitude":-92.010048,
@@ -28,17 +29,34 @@
     "sg:postcode":"55939",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75HqrVDds0QMRGt2PE1mda_43.549141_-92.010048@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609034,
-    "wof:geomhash":"766cddc5c3c8c68a0fceb2a361fb5c1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c068c31af6005bfebb815b7b6439e7cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":823234009
+        }
+    ],
     "wof:id":823234009,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492828371,
     "wof:name":"Country Lodge Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

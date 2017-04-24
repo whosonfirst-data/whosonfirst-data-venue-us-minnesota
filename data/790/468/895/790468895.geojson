@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.047095,43.905853,-95.047095,43.905853",
     "geom:latitude":43.905853,
     "geom:longitude":-95.047095,
@@ -31,17 +32,34 @@
         "bean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511851,
+        85633793,
+        85952785,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5k3cujq5MIazLwPDXEbCK0_43.905853_-95.047095@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596082,
-    "wof:geomhash":"8a13e911f5296c3332521defbcff36af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f7fff1402ebb48e07fc74b19744ccab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511851,
+            "locality_id":85952785,
+            "region_id":85688727,
+            "venue_id":790468895
+        }
+    ],
     "wof:id":790468895,
-    "wof:lastmodified":1472629748,
+    "wof:lastmodified":1492836106,
     "wof:name":"New Vision Coop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

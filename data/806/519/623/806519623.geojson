@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.878666,45.450455,-92.878666,45.450455",
     "geom:latitude":45.450455,
     "geom:longitude":-92.878666,
@@ -28,17 +29,32 @@
     "sg:postcode":"55045",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R3OKHe8PpIra2QKClhkGq_45.450455_-92.878666@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598786,
-    "wof:geomhash":"71dcb0094feef41829b6c24b096886a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aff63e810cdf6094ed7766083c2974a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":806519623
+        }
+    ],
     "wof:id":806519623,
-    "wof:lastmodified":1472629363,
+    "wof:lastmodified":1492820058,
     "wof:name":"Buffalo River Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

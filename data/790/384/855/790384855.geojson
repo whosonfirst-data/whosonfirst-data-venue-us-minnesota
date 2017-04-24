@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.441833,44.100474,-95.441833,44.100474",
     "geom:latitude":44.100474,
     "geom:longitude":-95.441833,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512009,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A6tdZBx80bWne69hEe30I_44.100474_-95.441833@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595421,
-    "wof:geomhash":"923f30195372d56cd268d3b0c477d8d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"af630f57c97afda28aa110494f4bb4ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512009,
+            "region_id":85688727,
+            "venue_id":790384855
+        }
+    ],
     "wof:id":790384855,
-    "wof:lastmodified":1472629624,
+    "wof:lastmodified":1492836453,
     "wof:name":"Timmerman Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

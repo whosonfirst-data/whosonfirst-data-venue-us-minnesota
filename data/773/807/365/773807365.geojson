@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.608304,47.771988,-96.608304,47.771988",
     "geom:latitude":47.771988,
     "geom:longitude":-96.608304,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513695,
+        85633793,
+        85968417,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LX7PbekNiQ8PDYlRYMecj_47.771988_-96.608304@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588529,
-    "wof:geomhash":"a3f042d92a76ffee75416fd3e5493ff1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"437c1b47371e67ccb02439d644ad2b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513695,
+            "locality_id":85968417,
+            "region_id":85688727,
+            "venue_id":773807365
+        }
+    ],
     "wof:id":773807365,
-    "wof:lastmodified":1472630164,
+    "wof:lastmodified":1492804003,
     "wof:name":"Fischer Law Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.815919,45.66533,-94.815919,45.66533",
     "geom:latitude":45.66533,
     "geom:longitude":-94.815919,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514375,
+        85633793,
+        85952477,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VyISONnYL8JiC9en4Tymw_45.665330_-94.815919@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596897,
-    "wof:geomhash":"a7f84dc298843bbff69503a8f4993fe5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a55f21c71a9c0d1fa79bb532a63e8964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514375,
+            "locality_id":85952477,
+            "region_id":85688727,
+            "venue_id":790562879
+        }
+    ],
     "wof:id":790562879,
-    "wof:lastmodified":1472629850,
+    "wof:lastmodified":1492835117,
     "wof:name":"Meadowlark Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

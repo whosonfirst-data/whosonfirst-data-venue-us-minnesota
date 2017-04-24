@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.471697,45.001531,-93.471697,45.001531",
     "geom:latitude":45.001531,
     "geom:longitude":-93.471697,
@@ -38,17 +39,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CvmNVtdQogn42PymQOnIA_45.001531_-93.471697@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608634,
-    "wof:geomhash":"8b2272459417cc9a5b2da566e551d05b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"def3dc9aed7895261e242694a61b5d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":823215503
+        }
+    ],
     "wof:id":823215503,
-    "wof:lastmodified":1472629102,
+    "wof:lastmodified":1492830661,
     "wof:name":"Packaging Systems Automation, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

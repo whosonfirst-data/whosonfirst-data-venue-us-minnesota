@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.5492,45.191298,-93.5492,45.191298",
     "geom:latitude":45.191298,
     "geom:longitude":-93.5492,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fllnKlwh4Cn0ddz6Tp7NH_45.191298_-93.549200@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587783,
-    "wof:geomhash":"3ee57d6b6dc883ef00948f28748cc1df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afe11203bef5df4df28749ce8af3f3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":773707533
+        }
+    ],
     "wof:id":773707533,
-    "wof:lastmodified":1472630138,
+    "wof:lastmodified":1492803670,
     "wof:name":"Heritage Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

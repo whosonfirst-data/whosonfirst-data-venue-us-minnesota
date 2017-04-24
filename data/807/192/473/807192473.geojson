@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.042528,45.488491,-94.042528,45.488491",
     "geom:latitude":45.488491,
     "geom:longitude":-94.042528,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510469,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oaOMtHAC5WO5bKGOkMct6_45.488491_-94.042528@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604714,
-    "wof:geomhash":"243a5c5d09df76db9e6313208fe7aa78",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f40acded9cb854460af11dbe76fc192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404510469,
+            "region_id":85688727,
+            "venue_id":807192473
+        }
+    ],
     "wof:id":807192473,
-    "wof:lastmodified":1472629394,
+    "wof:lastmodified":1492823322,
     "wof:name":"Gary Kiffmeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.606116,47.774537,-96.606116,47.774537",
     "geom:latitude":47.774537,
     "geom:longitude":-96.606116,
@@ -31,17 +32,26 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525025
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gDxMPhN8GGTcbCgLM1ker_47.774537_-96.606116@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600165,
-    "wof:geomhash":"08063db28de986136abcca64792dfe4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf3024fc7d74fc8a49940b083e183ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525025,
+            "venue_id":806679247
+        }
+    ],
     "wof:id":806679247,
-    "wof:lastmodified":1472629676,
+    "wof:lastmodified":1492816549,
     "wof:name":"Anderson's Camera Shop",
     "wof:parent_id":420525025,
     "wof:placetype":"venue",

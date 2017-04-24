@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.248807,44.948295,-93.248807,44.948295",
     "geom:latitude":44.948295,
     "geom:longitude":-93.248807,
@@ -32,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558725,
+        1108800089,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872703
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585426,
-    "wof:geomhash":"edfd18860e7152370c1cc4cb047ac53b",
+    "wof:geomhash":"90dcd5ae31de4139d0c7483658e9d034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +57,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420558725,
-            "region_id":85688727,
-            "venue_id":773403537
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872703,
+            "macrohood_id":1108799995,
+            "microhood_id":1108800089,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":773403537
         }
     ],
     "wof:id":773403537,
-    "wof:lastmodified":1472630042,
+    "wof:lastmodified":1492803003,
     "wof:name":"Exceptional Cleaning Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

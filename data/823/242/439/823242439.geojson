@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.21759,43.6455,-96.21759,43.6455",
     "geom:latitude":43.6455,
     "geom:longitude":-96.21759,
@@ -32,17 +33,34 @@
         "rinks-ice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512779,
+        85633793,
+        85968777,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Yb1cNq6eUvj6yPCh1iW6J_43.645500_-96.217590@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609192,
-    "wof:geomhash":"0d6255b9ad7f118c3b1e44acf78237b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ca54b632d2f026950511391064ea46d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512779,
+            "locality_id":85968777,
+            "region_id":85688727,
+            "venue_id":823242439
+        }
+    ],
     "wof:id":823242439,
-    "wof:lastmodified":1472629153,
+    "wof:lastmodified":1492828599,
     "wof:name":"Blue Mound Ice Arena",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

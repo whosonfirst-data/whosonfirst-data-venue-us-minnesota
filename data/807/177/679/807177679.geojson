@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.148472,44.451546,-93.148472,44.451546",
     "geom:latitude":44.451546,
     "geom:longitude":-93.148472,
@@ -26,17 +27,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qiJok0XitEkvZKD1ithSy_44.451546_-93.148472@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604562,
-    "wof:geomhash":"35540c973fd4774e3d32abdd41dec935",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b04cc93ba99a5ede881f570861261a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":807177679
+        }
+    ],
     "wof:id":807177679,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492824412,
     "wof:name":"Robert Graff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

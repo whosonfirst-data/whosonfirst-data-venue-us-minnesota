@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.087159,44.931215,-93.087159,44.931215",
     "geom:latitude":44.931215,
     "geom:longitude":-93.087159,
@@ -31,19 +32,40 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800565,
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wRBZshotZy7o3xbOx13Wi_44.931215_-93.087159@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586223,
-    "wof:geomhash":"0aa2c48f724f82db7f8289e29262a123",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2f2a06cbfdfb5adf48bbfb7178362356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800565,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":773502745
+        }
+    ],
     "wof:id":773502745,
-    "wof:lastmodified":1472630077,
+    "wof:lastmodified":1492799179,
     "wof:name":"Capitol City Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

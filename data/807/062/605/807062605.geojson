@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.517918,47.229192,-93.517918,47.229192",
     "geom:latitude":47.229192,
     "geom:longitude":-93.517918,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462603390,
-    "wof:geomhash":"3cb73542eafe80ff98bb0e0b58693c0d",
+    "wof:geomhash":"dfbcca9c64b128f61325248f93d88831",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":807062605,
-    "wof:lastmodified":1472629071,
+    "wof:lastmodified":1492827050,
     "wof:name":"Pine Ridge Apartments",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

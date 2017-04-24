@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.363897,45.042652,-93.363897,45.042652",
     "geom:latitude":45.042652,
     "geom:longitude":-93.363897,
@@ -32,17 +33,34 @@
         "court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nuwWKjDff65yXqiXnlTn3_45.042652_-93.363897@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589189,
-    "wof:geomhash":"19475e62bdc34c81f71c031f768fcf11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae1bd8b392d49c8e7733ae0812e4fcd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":789615997
+        }
+    ],
     "wof:id":789615997,
-    "wof:lastmodified":1472629043,
+    "wof:lastmodified":1492811015,
     "wof:name":"Nygard Administrative Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

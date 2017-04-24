@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.052558,43.795728,-96.052558,43.795728",
     "geom:latitude":43.795728,
     "geom:longitude":-96.052558,
@@ -31,17 +32,32 @@
         "feeding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510609,
+        85633793,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JiOSFRqlVffwWeW5wH5M3_43.795728_-96.052558@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609177,
-    "wof:geomhash":"e00d09755ce5b442a25fe7429fd87915",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69f5ea0a40c654216075a7c4f063374b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404510609,
+            "region_id":85688727,
+            "venue_id":823241571
+        }
+    ],
     "wof:id":823241571,
-    "wof:lastmodified":1472629159,
+    "wof:lastmodified":1492828918,
     "wof:name":"Ron Vandersteen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

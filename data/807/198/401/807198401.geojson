@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360631,44.952375,-93.360631,44.952375",
     "geom:latitude":44.952375,
     "geom:longitude":-93.360631,
@@ -31,17 +32,34 @@
         "theatre"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZhfSt9fD27TOs5GOej3rL_44.952205_-93.360711@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604782,
-    "wof:geomhash":"3e9f9da95c23242a6ff90c04184ac6ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9cdd9d75865cc33e6b305aa1b365294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":807198401
+        }
+    ],
     "wof:id":807198401,
-    "wof:lastmodified":1472629399,
+    "wof:lastmodified":1492826991,
     "wof:name":"Playshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

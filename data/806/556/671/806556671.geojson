@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.291176,44.321614,-93.291176,44.321614",
     "geom:latitude":44.321614,
     "geom:longitude":-93.291176,
@@ -31,17 +32,34 @@
         "lumber"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54Ihskl8vZIBqh8ypAEPx8_44.321614_-93.291176@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599089,
-    "wof:geomhash":"54ade5e56f5ec06fd24f3938473460de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ea375cfe26cfaba3d83d3c78067ae2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":806556671
+        }
+    ],
     "wof:id":806556671,
-    "wof:lastmodified":1472629450,
+    "wof:lastmodified":1492821872,
     "wof:name":"Met-Con Lumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

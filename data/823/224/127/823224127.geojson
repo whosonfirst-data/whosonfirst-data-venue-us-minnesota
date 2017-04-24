@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.393083,47.146211,-92.393083,47.146211",
     "geom:latitude":47.146211,
     "geom:longitude":-92.393083,
@@ -32,17 +33,26 @@
     ],
     "sg:website":"http://www.lilylakeptc.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1g4JkYW6SvfZaI2jAgZyX3_47.146211_-92.393083@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608821,
-    "wof:geomhash":"298176a279ab088707e42f0cb566030f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6e658bbdb661ad89c8051c203ed49c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224127
+        }
+    ],
     "wof:id":823224127,
-    "wof:lastmodified":1472629079,
+    "wof:lastmodified":1492828785,
     "wof:name":"Lily Lake",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

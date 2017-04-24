@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.254017,44.756424,-94.254017,44.756424",
     "geom:latitude":44.756424,
     "geom:longitude":-94.254017,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512807,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fmPP4UJcll3pHiIIf4P33_44.756424_-94.254017@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604165,
-    "wof:geomhash":"8a3916c6a9c7b171ebc5486aca63349f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e5195dd36084cf93b702bfb6fab10554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512807,
+            "region_id":85688727,
+            "venue_id":807140737
+        }
+    ],
     "wof:id":807140737,
-    "wof:lastmodified":1472629284,
+    "wof:lastmodified":1492826386,
     "wof:name":"Robert Adams",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

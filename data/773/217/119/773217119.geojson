@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.649507,44.707585,-93.649507,44.707585",
     "geom:latitude":44.707585,
     "geom:longitude":-93.649507,
@@ -33,17 +34,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511703,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LMAxQuCF2Otrq1teVwQtr_44.707585_-93.649507@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584054,
-    "wof:geomhash":"9709e6f121ba79cbe82bc85d7cda05f5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcee8e6a83ac894f93cb3eca63b2a72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511703,
+            "region_id":85688727,
+            "venue_id":773217119
+        }
+    ],
     "wof:id":773217119,
-    "wof:lastmodified":1472629949,
+    "wof:lastmodified":1492806917,
     "wof:name":"S L Anderson Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

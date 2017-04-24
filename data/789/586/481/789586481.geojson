@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.628944,44.228121,-95.628944,44.228121",
     "geom:latitude":44.228121,
     "geom:longitude":-95.628944,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sdekFCzHioJF77ZlAsbc3_44.228121_-95.628944@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588959,
-    "wof:geomhash":"6b6504b0f2fc63a19c02c2d8b9fd1902",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cda12234bef083405a42e5711dd60553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":789586481
+        }
+    ],
     "wof:id":789586481,
-    "wof:lastmodified":1472628935,
+    "wof:lastmodified":1492810135,
     "wof:name":"Owl Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.021056,45.091856,-93.021056,45.091856",
     "geom:latitude":45.091856,
     "geom:longitude":-93.021056,
@@ -34,17 +35,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514473,
+        85633793,
+        85953019,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0amiuCdImdl7UBm9peyWkN_45.091856_-93.021056@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595491,
-    "wof:geomhash":"d135bac3bd665a2e03666270e63aac39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb888853460a89fc05d6a7ef82022c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514473,
+            "locality_id":85953019,
+            "region_id":85688727,
+            "venue_id":790393559
+        }
+    ],
     "wof:id":790393559,
-    "wof:lastmodified":1472629659,
+    "wof:lastmodified":1492835264,
     "wof:name":"AlphaGraphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

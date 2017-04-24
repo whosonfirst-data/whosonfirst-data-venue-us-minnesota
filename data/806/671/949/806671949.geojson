@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.784032,43.91512,-95.784032,43.91512",
     "geom:latitude":43.91512,
     "geom:longitude":-95.784032,
@@ -33,17 +34,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510089,
+        85633793,
+        85952757,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6f9fbDF7mzx6UhdZjqvGKa_43.915120_-95.784032@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600100,
-    "wof:geomhash":"7090d8271c3b45fb7ba8e4c1eaa1c4f0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2e07d1d4750a5fc1c24e2909973a9ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510089,
+            "locality_id":85952757,
+            "region_id":85688727,
+            "venue_id":806671949
+        }
+    ],
     "wof:id":806671949,
-    "wof:lastmodified":1472629669,
+    "wof:lastmodified":1492813888,
     "wof:name":"Kremer Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

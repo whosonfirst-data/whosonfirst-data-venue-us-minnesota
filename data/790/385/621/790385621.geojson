@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.817741,46.639646,-95.817741,46.639646",
     "geom:latitude":46.639646,
     "geom:longitude":-95.817741,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512725,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ezJSGkUkcOvLHMRNbsz7B_46.639646_-95.817741@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595426,
-    "wof:geomhash":"4e8974ab9fb97482c4dd87343328fe97",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ccce2158017434d49cf0e447ca3742e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512725,
+            "region_id":85688727,
+            "venue_id":790385621
+        }
+    ],
     "wof:id":790385621,
-    "wof:lastmodified":1472629624,
+    "wof:lastmodified":1492834563,
     "wof:name":"Governor's Point",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

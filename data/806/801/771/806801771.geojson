@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.795486,45.554345,-92.795486,45.554345",
     "geom:latitude":45.554345,
     "geom:longitude":-92.795486,
@@ -39,17 +40,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511105,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vT6o7vHPYda4J9k1F17C5_45.554345_-92.795486@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601199,
-    "wof:geomhash":"fcd23a57e8a62772c3986e42bb7820fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"902d17c2bfc05d00a77d131f0a2bf4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511105,
+            "region_id":85688727,
+            "venue_id":806801771
+        }
+    ],
     "wof:id":806801771,
-    "wof:lastmodified":1472629843,
+    "wof:lastmodified":1492818845,
     "wof:name":"Women's Environmental Inst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

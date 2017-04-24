@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.468384,43.56131,-91.468384,43.56131",
     "geom:latitude":43.56131,
     "geom:longitude":-91.468384,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688517,
-        85633793,
         85824715,
-        102081301
+        102191575,
+        404491717,
+        85633793,
+        101732651,
+        102081301,
+        85688517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     },
     "wof:country":"US",
     "wof:created":1462591654,
-    "wof:geomhash":"bef88ba95aaee28015f55b6abcf6aea3",
+    "wof:geomhash":"dfae1861adc56aa86db7ca1a5afe23b6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081301,
+            "localadmin_id":404491717,
+            "locality_id":101732651,
             "neighbourhood_id":85824715,
             "region_id":85688517,
             "venue_id":789923663
         }
     ],
     "wof:id":789923663,
-    "wof:lastmodified":1472629624,
+    "wof:lastmodified":1492813117,
     "wof:name":"St Croix Valley Hardwoods",
     "wof:parent_id":85824715,
     "wof:placetype":"venue",

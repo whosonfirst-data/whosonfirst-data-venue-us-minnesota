@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.479653,45.128879,-93.479653,45.128879",
     "geom:latitude":45.128879,
     "geom:longitude":-93.479653,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.parkdental.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_313NYHEErSFItrbh4D4SZw_45.128879_-93.479653@1303262820"
     },
     "wof:country":"US",
     "wof:created":1462606309,
-    "wof:geomhash":"1e2e335e47c060b92089072b1f6814a9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26c54696c629601e3c78a6418039906a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":807336997
+        }
+    ],
     "wof:id":807336997,
-    "wof:lastmodified":1472629745,
+    "wof:lastmodified":1492826473,
     "wof:name":"Park Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

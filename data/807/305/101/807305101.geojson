@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.582477,44.849853,-93.582477,44.849853",
     "geom:latitude":44.849853,
     "geom:longitude":-93.582477,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.snapfitness.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VJ4d1SNU7QXlPlxwqFqQL_44.849853_-93.582477@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605905,
-    "wof:geomhash":"f9cb621daf50122b7ddc72fe918522c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fafd031a310d22e319aedb63eb750129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":807305101
+        }
+    ],
     "wof:id":807305101,
-    "wof:lastmodified":1472629645,
+    "wof:lastmodified":1492826933,
     "wof:name":"Snap Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

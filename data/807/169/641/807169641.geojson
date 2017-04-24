@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.942968,46.156216,-94.942968,46.156216",
     "geom:latitude":46.156216,
     "geom:longitude":-94.942968,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514705,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AaitEPdYUX1oP0VO1lH1O_46.156216_-94.942968@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604481,
-    "wof:geomhash":"a6f81729277368d440d8585caedd3998",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3ee3d6f2d6036355b24878d2bea6521c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514705,
+            "region_id":85688727,
+            "venue_id":807169641
+        }
+    ],
     "wof:id":807169641,
-    "wof:lastmodified":1472629322,
+    "wof:lastmodified":1492823005,
     "wof:name":"Larry Dickinson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

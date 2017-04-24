@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.859106,46.682888,-95.859106,46.682888",
     "geom:latitude":46.682888,
     "geom:longitude":-95.859106,
@@ -31,17 +32,32 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512725,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pv5E9fvvW1UXs5qUAnn9R_46.682888_-95.859106@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600935,
-    "wof:geomhash":"4f04f88d64a6d84b31b829c4cc102a45",
-    "wof:hierarchy":[],
+    "wof:geomhash":"40ca3692b57d8ce583af8f8c61418767",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512725,
+            "region_id":85688727,
+            "venue_id":806770717
+        }
+    ],
     "wof:id":806770717,
-    "wof:lastmodified":1472629809,
+    "wof:lastmodified":1492815590,
     "wof:name":"Johnson & Johnson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

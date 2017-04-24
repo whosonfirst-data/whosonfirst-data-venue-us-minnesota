@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.942146,45.380574,-92.942146,45.380574",
     "geom:latitude":45.380574,
     "geom:longitude":-92.942146,
@@ -31,17 +32,34 @@
         "newspaper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AOXP8kME6py1yvWT3BfyP_45.380574_-92.942146@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589374,
-    "wof:geomhash":"44eeef5bec10e22554a978a0d623bef3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb2666268eed365abc8c158745ff04d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":789639981
+        }
+    ],
     "wof:id":789639981,
-    "wof:lastmodified":1472629092,
+    "wof:lastmodified":1492812888,
     "wof:name":"Rasmussens Repair Weekly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

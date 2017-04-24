@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.181612,48.117837,-96.181612,48.117837",
     "geom:latitude":48.117837,
     "geom:longitude":-96.181612,
@@ -31,17 +32,34 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AYPr2l4XbwWqZj4OtI6IZ_48.117837_-96.181612@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583470,
-    "wof:geomhash":"40f6e0ddea01084ccc4f6214f44e04df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f07949e61bc3b9838dc84103c4e3bd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773145301
+        }
+    ],
     "wof:id":773145301,
-    "wof:lastmodified":1472629718,
+    "wof:lastmodified":1492808641,
     "wof:name":"Natural Resources Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

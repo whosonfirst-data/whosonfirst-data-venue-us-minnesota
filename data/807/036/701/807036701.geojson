@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.769753,43.522409,-91.769753,43.522409",
     "geom:latitude":43.522409,
     "geom:longitude":-91.769753,
@@ -31,17 +32,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509637,
+        85633793,
+        85953171,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hls6pd1aMizQqaI0PmhdZ_43.522409_-91.769753@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603177,
-    "wof:geomhash":"b593da781c6112cf17484c369d8b3906",
-    "wof:hierarchy":[],
+    "wof:geomhash":"961f49161c87595ae012c8196d75b742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404509637,
+            "locality_id":85953171,
+            "region_id":85688727,
+            "venue_id":807036701
+        }
+    ],
     "wof:id":807036701,
-    "wof:lastmodified":1472629009,
+    "wof:lastmodified":1492827121,
     "wof:name":"Mabel Co-Op Telephone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

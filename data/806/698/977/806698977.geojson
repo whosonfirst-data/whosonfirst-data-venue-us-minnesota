@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.343617,44.008891,-92.343617,44.008891",
     "geom:latitude":44.008891,
     "geom:longitude":-92.343617,
@@ -32,17 +33,32 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512579,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GApr4OP5Gy6J6m5hD7wEZ_44.008891_-92.343617@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600326,
-    "wof:geomhash":"62764e8960b489b2197dfc666daeacf0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50341af091ee54e2811308718a22ad23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512579,
+            "region_id":85688727,
+            "venue_id":806698977
+        }
+    ],
     "wof:id":806698977,
-    "wof:lastmodified":1472629732,
+    "wof:lastmodified":1492813945,
     "wof:name":"Southeast Minnesota Dirt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

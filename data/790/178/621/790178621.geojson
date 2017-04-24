@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.570396,44.892948,-93.570396,44.892948",
     "geom:latitude":44.892948,
     "geom:longitude":-93.570396,
@@ -32,17 +33,34 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511911,
+        85633793,
+        85969119,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22XOmFOJR5E6owP51m1O7u_44.892948_-93.570396@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593761,
-    "wof:geomhash":"1254a2f2c4d60d6396ef30d7cf08def1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31351a9424bbb7b8e2845085ef0738cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511911,
+            "locality_id":85969119,
+            "region_id":85688727,
+            "venue_id":790178621
+        }
+    ],
     "wof:id":790178621,
-    "wof:lastmodified":1472629265,
+    "wof:lastmodified":1492832870,
     "wof:name":"Taylor Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

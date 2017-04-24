@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.892382,45.177813,-93.892382,45.177813",
     "geom:latitude":45.177813,
     "geom:longitude":-93.892382,
@@ -32,17 +33,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2D53H6ILKlyOLSyhr8Pkei_45.177813_-93.892382@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589311,
-    "wof:geomhash":"15dc510e6efd360af030e85a2a499c76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f66adb69e91e9219bf3a399f47722177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":789632135
+        }
+    ],
     "wof:id":789632135,
-    "wof:lastmodified":1472629068,
+    "wof:lastmodified":1492811920,
     "wof:name":"Davis Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.010131,44.164493,-94.010131,44.164493",
     "geom:latitude":44.164493,
     "geom:longitude":-94.010131,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ae410qtPIuTdSttFR69Hy_44.164493_-94.010131@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598128,
-    "wof:geomhash":"adcb797a487a3cba09f67765e101deed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd58a21e211681aa2139accc4e7db884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":806435549
+        }
+    ],
     "wof:id":806435549,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1492813861,
     "wof:name":"Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

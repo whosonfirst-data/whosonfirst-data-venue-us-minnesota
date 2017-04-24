@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.049452,43.866506,-93.049452,43.866506",
     "geom:latitude":43.866506,
     "geom:longitude":-93.049452,
@@ -32,17 +33,34 @@
         "boot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510809,
+        85633793,
+        85952847,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xTLxoa8C2WcgonXVntOZ6_43.866506_-93.049452@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592506,
-    "wof:geomhash":"4810137c67f0f57ad7052850adcf8429",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87f9c72c7538f065415a4c7212d93463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510809,
+            "locality_id":85952847,
+            "region_id":85688727,
+            "venue_id":790022131
+        }
+    ],
     "wof:id":790022131,
-    "wof:lastmodified":1472628951,
+    "wof:lastmodified":1492836005,
     "wof:name":"Jesse's Boot Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.130811,47.180373,-96.130811,47.180373",
     "geom:latitude":47.180373,
     "geom:longitude":-96.130811,
@@ -31,17 +32,32 @@
         "casualty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512277,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22XeLvYP4waySFo0Zn1FgE_47.180373_-96.130811@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596682,
-    "wof:geomhash":"45b3283e07c9e30e82b386eb84e58594",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26462042c6623fd0f8aa4b388d72d369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404512277,
+            "region_id":85688727,
+            "venue_id":790537539
+        }
+    ],
     "wof:id":790537539,
-    "wof:lastmodified":1472629813,
+    "wof:lastmodified":1492837557,
     "wof:name":"Flom Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

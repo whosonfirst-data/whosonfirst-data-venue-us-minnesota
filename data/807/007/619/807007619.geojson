@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.931693,43.92851,-95.931693,43.92851",
     "geom:latitude":43.92851,
     "geom:longitude":-95.931693,
@@ -38,17 +39,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513177,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64Jlj9afNBxmunVGVqd9M0_43.928510_-95.931693@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602924,
-    "wof:geomhash":"bcbce01198a1a167283deebfa9757b35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"558b1348d1c9d778d41fd79196bd077e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513177,
+            "region_id":85688727,
+            "venue_id":807007619
+        }
+    ],
     "wof:id":807007619,
-    "wof:lastmodified":1472628944,
+    "wof:lastmodified":1492822743,
     "wof:name":"Glen Schoolmester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

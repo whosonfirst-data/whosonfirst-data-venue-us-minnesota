@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.357583,47.392896,-92.357583,47.392896",
     "geom:latitude":47.392896,
     "geom:longitude":-92.357583,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c0ihIx7G54IwNAQqXnGke_47.392896_-92.357583@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602379,
-    "wof:geomhash":"48dfc4d7b3d71e5d13a9afb1e016165c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc303887c8b54af429c8920dff221bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806942383
+        }
+    ],
     "wof:id":806942383,
-    "wof:lastmodified":1472629947,
+    "wof:lastmodified":1492814236,
     "wof:name":"Armor Construction",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

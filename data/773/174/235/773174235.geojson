@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.974357,43.643764,-94.974357,43.643764",
     "geom:latitude":43.643764,
     "geom:longitude":-94.974357,
@@ -31,17 +32,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513619,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uCjII25ogBToXv2rsVcDn_43.643764_-94.974357@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583695,
-    "wof:geomhash":"96a549207c1de629da57a0f8432f3873",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f03fd33b391addf9f0bf9dfc012a23b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513619,
+            "region_id":85688727,
+            "venue_id":773174235
+        }
+    ],
     "wof:id":773174235,
-    "wof:lastmodified":1472629810,
+    "wof:lastmodified":1492808877,
     "wof:name":"Jackson Transport Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

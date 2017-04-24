@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.398831,45.180279,-93.398831,45.180279",
     "geom:latitude":45.180279,
     "geom:longitude":-93.398831,
@@ -38,17 +39,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49NKTeQnIKfdt1Nfai10Q1_45.180279_-93.398831@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605868,
-    "wof:geomhash":"3f092d71460a38b61e345fc69796620d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9ee335b829419edab73348ab158d7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807301489
+        }
+    ],
     "wof:id":807301489,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492827562,
     "wof:name":"Sunkissed Towels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

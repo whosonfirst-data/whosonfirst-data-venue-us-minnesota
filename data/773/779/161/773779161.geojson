@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.429034,45.456603,-94.429034,45.456603",
     "geom:latitude":45.456603,
     "geom:longitude":-94.429034,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514221,
+        85633793,
+        85952459,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XNWz8jeZdiQYMYV7FXGEz_45.456603_-94.429034@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588312,
-    "wof:geomhash":"ec394321174a205dc6fcbaa2c1644eee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"95bc3b16380c55aee085de7105345be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514221,
+            "locality_id":85952459,
+            "region_id":85688727,
+            "venue_id":773779161
+        }
+    ],
     "wof:id":773779161,
-    "wof:lastmodified":1472630154,
+    "wof:lastmodified":1492805630,
     "wof:name":"Cold Spring Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

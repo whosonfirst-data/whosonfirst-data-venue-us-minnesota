@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.351535,45.909791,-95.351535,45.909791",
     "geom:latitude":45.909791,
     "geom:longitude":-95.351535,
@@ -36,17 +37,32 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513753,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10RTKBMMkzmWgJDvXIuke3_45.909791_-95.351535@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609296,
-    "wof:geomhash":"3347e2cd11fe00ec1545671904577817",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de7036c2c9549c1c13f7d81b40eb1888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513753,
+            "region_id":85688727,
+            "venue_id":823248015
+        }
+    ],
     "wof:id":823248015,
-    "wof:lastmodified":1472629142,
+    "wof:lastmodified":1492830216,
     "wof:name":"Six Jr Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.541328,47.464214,-92.541328,47.464214",
     "geom:latitude":47.464214,
     "geom:longitude":-92.541328,
@@ -31,17 +32,26 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oh4ZnDSI1KckGzyDbqmBR_47.464214_-92.541328@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592646,
-    "wof:geomhash":"fc166ca3fa333848c80a294e34850123",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dd241ea2091e18bef6a974e7c593de3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790040163
+        }
+    ],
     "wof:id":790040163,
-    "wof:lastmodified":1472628998,
+    "wof:lastmodified":1492832129,
     "wof:name":"Minnesota Power",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

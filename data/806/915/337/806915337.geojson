@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.442589,45.067045,-96.442589,45.067045",
     "geom:latitude":45.067045,
     "geom:longitude":-96.442589,
@@ -32,17 +33,34 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509953,
+        85633793,
+        85968979,
+        102087677
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AftRmXraNZpjyJ4CUlslo_45.067045_-96.442589@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602137,
-    "wof:geomhash":"512491cf2a4d3480d29927415eaacf1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"310c1e7238add7373901e5336c5a47ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087677,
+            "localadmin_id":404509953,
+            "locality_id":85968979,
+            "region_id":85688727,
+            "venue_id":806915337
+        }
+    ],
     "wof:id":806915337,
-    "wof:lastmodified":1472629931,
+    "wof:lastmodified":1492820478,
     "wof:name":"Nassau Fire Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.312473,44.878499,-93.312473,44.878499",
     "geom:latitude":44.878499,
     "geom:longitude":-93.312473,
@@ -31,17 +32,34 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2McJpncF0YsXrFeDwZlQNH_44.878499_-93.312473@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586231,
-    "wof:geomhash":"53b44fc3bb0032fc1bcf2e1043cba7cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f590a42680ee2933e82c11c5cd1e5cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":773503841
+        }
+    ],
     "wof:id":773503841,
-    "wof:lastmodified":1472630078,
+    "wof:lastmodified":1492801457,
     "wof:name":"Castle Keepers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

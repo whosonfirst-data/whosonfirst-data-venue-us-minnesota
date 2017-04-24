@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.549143,45.223261,-93.549143,45.223261",
     "geom:latitude":45.223261,
     "geom:longitude":-93.549143,
@@ -39,17 +40,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1j0Qwroa1fpgQPk01X1973_45.223261_-93.549143@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592595,
-    "wof:geomhash":"8388d436272d96380be8101eace4eb2d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19bd6e6cf48b9875cdadf686b08e35aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":790033075
+        }
+    ],
     "wof:id":790033075,
-    "wof:lastmodified":1472628982,
+    "wof:lastmodified":1492837884,
     "wof:name":"Midland Technologies Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

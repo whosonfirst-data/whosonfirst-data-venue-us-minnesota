@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.765456,48.848164,-95.765456,48.848164",
     "geom:latitude":48.848164,
     "geom:longitude":-95.765456,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512949,
+        85633793,
+        85953421,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DPjGaKaMIbplZ7cOLegKb_48.848148_-95.765529@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603654,
-    "wof:geomhash":"956d353aa4af311764d23eeaf0fb5266",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65b76b5deb3c6e089c779435bc8a9275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512949,
+            "locality_id":85953421,
+            "region_id":85688727,
+            "venue_id":807093967
+        }
+    ],
     "wof:id":807093967,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492827269,
     "wof:name":"Sunburst Acres Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

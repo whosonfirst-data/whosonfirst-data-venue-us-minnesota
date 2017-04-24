@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.264801,45.48131,-93.264801,45.48131",
     "geom:latitude":45.48131,
     "geom:longitude":-93.264801,
@@ -36,17 +37,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513111,
+        85633793,
+        85953389,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rMRpiO1igQ6YDxTJtMEBB_45.481310_-93.264801@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595528,
-    "wof:geomhash":"d89c3dbb86c9af1bd9f43e6c8ee70926",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b5d5b4d18be0606476befca46b0caa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404513111,
+            "locality_id":85953389,
+            "region_id":85688727,
+            "venue_id":790399025
+        }
+    ],
     "wof:id":790399025,
-    "wof:lastmodified":1472629636,
+    "wof:lastmodified":1492834867,
     "wof:name":"Northern Minnesota Network",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

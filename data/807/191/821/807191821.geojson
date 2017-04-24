@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.927735,44.153243,-92.927735,44.153243",
     "geom:latitude":44.153243,
     "geom:longitude":-92.927735,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509569,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MOyh6K6MEnmX1v234L71Q_44.153243_-92.927735@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604707,
-    "wof:geomhash":"b26feff26725c8177c02d0050e61d7cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87a8e7d2b4fbc87303ee38ec0bf6fbf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404509569,
+            "region_id":85688727,
+            "venue_id":807191821
+        }
+    ],
     "wof:id":807191821,
-    "wof:lastmodified":1472629417,
+    "wof:lastmodified":1492826448,
     "wof:name":"Dale Dohrmann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

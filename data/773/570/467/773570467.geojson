@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.519732,45.118611,-93.519732,45.118611",
     "geom:latitude":45.118611,
     "geom:longitude":-93.519732,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4J2VWmcJ9cHSBC3Mt2JnpI_45.118611_-93.519732@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586723,
-    "wof:geomhash":"685e6ddce1bdbf325e081cd412aa649e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"603c3e2bbf30d0691faa1e17b9bd0197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773570467
+        }
+    ],
     "wof:id":773570467,
-    "wof:lastmodified":1472630093,
+    "wof:lastmodified":1492800888,
     "wof:name":"T&R Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

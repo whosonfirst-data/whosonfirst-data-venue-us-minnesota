@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.380667,45.883522,-95.380667,45.883522",
     "geom:latitude":45.883522,
     "geom:longitude":-95.380667,
@@ -32,17 +33,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513751,
+        85633793,
+        85953541,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ID4rATDhkn3qbPP775Wqw_45.883522_-95.380667@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590855,
-    "wof:geomhash":"2dc4e4373bad372e44248d317346368c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f8fecd426056dabba6dc32cfa1c9b4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513751,
+            "locality_id":85953541,
+            "region_id":85688727,
+            "venue_id":789827707
+        }
+    ],
     "wof:id":789827707,
-    "wof:lastmodified":1472629429,
+    "wof:lastmodified":1492813404,
     "wof:name":"Douglas County Senior Citizens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

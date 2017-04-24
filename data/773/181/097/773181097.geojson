@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.938833,45.750425,-94.938833,45.750425",
     "geom:latitude":45.750425,
     "geom:longitude":-94.938833,
@@ -28,17 +29,34 @@
     "sg:postcode":"56378",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512153,
+        85633793,
+        85952509,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jg1WwsCFYRwj11POJMuqV_45.750425_-94.938833@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583753,
-    "wof:geomhash":"1d00f628237af966a592f87ed129e978",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c46bce71ac534ada009ef40299fcc3b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512153,
+            "locality_id":85952509,
+            "region_id":85688727,
+            "venue_id":773181097
+        }
+    ],
     "wof:id":773181097,
-    "wof:lastmodified":1472629855,
+    "wof:lastmodified":1492805944,
     "wof:name":"Bear Trap",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

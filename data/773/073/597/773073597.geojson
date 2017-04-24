@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.405605,48.602655,-93.405605,48.602655",
     "geom:latitude":48.602655,
     "geom:longitude":-93.405605,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.islandviewrealty.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7STP4VjfTHDH9X42rB0bU1_48.602655_-93.405605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582960,
-    "wof:geomhash":"aa98227ea7541a1a3b9542cd46e3bc34",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1360afd611f37685bad222816770aea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":773073597
+        }
+    ],
     "wof:id":773073597,
-    "wof:lastmodified":1472629510,
+    "wof:lastmodified":1492807689,
     "wof:name":"Island View Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.980936,44.566483,-95.980936,44.566483",
     "geom:latitude":44.566483,
     "geom:longitude":-95.980936,
@@ -31,17 +32,34 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512663,
+        85633793,
+        85968533,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q8sswqIm4hlsSnjrrLyZc_44.566483_-95.980936@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586729,
-    "wof:geomhash":"61bc999ec98bafbba91badcd2ca498bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87dfcdd07b7cef467444e6b200f56358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512663,
+            "locality_id":85968533,
+            "region_id":85688727,
+            "venue_id":773571233
+        }
+    ],
     "wof:id":773571233,
-    "wof:lastmodified":1472630094,
+    "wof:lastmodified":1492806801,
     "wof:name":"Minneota Home Health Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

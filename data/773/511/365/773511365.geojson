@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.337458,44.914658,-94.337458,44.914658",
     "geom:latitude":44.914658,
     "geom:longitude":-94.337458,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512815,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vH5XMiIXxqXiiaFeFDWPf_44.914658_-94.337458@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586281,
-    "wof:geomhash":"1ce4f6a893ef1c5f3006c838597351ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cec4eec246f23fb2b2d44a906e68a9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512815,
+            "region_id":85688727,
+            "venue_id":773511365
+        }
+    ],
     "wof:id":773511365,
-    "wof:lastmodified":1472630077,
+    "wof:lastmodified":1492803414,
     "wof:name":"JMS Concrete",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

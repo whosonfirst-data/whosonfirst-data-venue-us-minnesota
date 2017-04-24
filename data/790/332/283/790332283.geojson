@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.585152,44.440925,-93.585152,44.440925",
     "geom:latitude":44.440925,
     "geom:longitude":-93.585152,
@@ -33,17 +34,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IfZbenxxVEploXP9v4kVd_44.440925_-93.585152@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595008,
-    "wof:geomhash":"2dc3c24d7dbda0f9ad814dcaeae8c130",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd781d4464b9d40d9a9030f9274fef97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":790332283
+        }
+    ],
     "wof:id":790332283,
-    "wof:lastmodified":1472629509,
+    "wof:lastmodified":1492832017,
     "wof:name":"Montgomery Oil Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

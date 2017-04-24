@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.786985,44.850511,-93.786985,44.850511",
     "geom:latitude":44.850511,
     "geom:longitude":-93.786985,
@@ -28,17 +29,34 @@
     "sg:postcode":"55387",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511605,
+        85633793,
+        85953183,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5myskgbXrOi7Qxb87v1tTD_44.850511_-93.786985@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591157,
-    "wof:geomhash":"513012c2985bc0f7dbce87ae565bf0dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b79f0fa7acd44bf3456ce7d732f48985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511605,
+            "locality_id":85953183,
+            "region_id":85688727,
+            "venue_id":789866525
+        }
+    ],
     "wof:id":789866525,
-    "wof:lastmodified":1472629541,
+    "wof:lastmodified":1492810144,
     "wof:name":"Studio 56",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

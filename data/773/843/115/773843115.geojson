@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.346233,45.386443,-93.346233,45.386443",
     "geom:latitude":45.386443,
     "geom:longitude":-93.346233,
@@ -31,17 +32,34 @@
         "sensor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515121,
+        85633793,
+        85953377,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4q0ZfurkwDFluBDV8yMZIt_45.386443_-93.346233@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588846,
-    "wof:geomhash":"ee8c2469b59bed27902b3a810db164de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a048b012f97c9684d1def336b13cf798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404515121,
+            "locality_id":85953377,
+            "region_id":85688727,
+            "venue_id":773843115
+        }
+    ],
     "wof:id":773843115,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492799771,
     "wof:name":"Temperature Specialists Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

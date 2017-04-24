@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.543221,44.923423,-93.543221,44.923423",
     "geom:latitude":44.923423,
     "geom:longitude":-93.543221,
@@ -36,17 +37,34 @@
         "importer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511709,
+        85633793,
+        85969213,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12ySNQdtJfvjYwwkZ3v9s0_44.923423_-93.543221@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587122,
-    "wof:geomhash":"3747e1362d4b8c2330cedb3c72f44494",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bc629f32bd34e38c0fa5673932ce7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511709,
+            "locality_id":85969213,
+            "region_id":85688727,
+            "venue_id":773623821
+        }
+    ],
     "wof:id":773623821,
-    "wof:lastmodified":1472630112,
+    "wof:lastmodified":1492800527,
     "wof:name":"World Of Goods Textiles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

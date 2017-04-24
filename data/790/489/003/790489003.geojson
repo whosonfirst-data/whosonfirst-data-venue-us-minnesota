@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.41197,44.819119,-93.41197,44.819119",
     "geom:latitude":44.819119,
     "geom:longitude":-93.41197,
@@ -28,17 +29,34 @@
     "sg:postcode":"55347",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WVVvoLMpzKP1rN5uuITza_44.819119_-93.411970@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596283,
-    "wof:geomhash":"a0c7575daca05c33e3669c4a39ce6100",
-    "wof:hierarchy":[],
+    "wof:geomhash":"588963ac701068fc62a9fd39d526d413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":790489003
+        }
+    ],
     "wof:id":790489003,
-    "wof:lastmodified":1472629763,
+    "wof:lastmodified":1492834734,
     "wof:name":"Summit Management Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

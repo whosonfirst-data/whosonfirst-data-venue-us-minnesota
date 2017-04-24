@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.667388,47.054953,-91.667388,47.054953",
     "geom:latitude":47.054953,
     "geom:longitude":-91.667388,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514559,
+        85633793,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lPHr1v0GEcezrxOuwCPbn_47.054953_-91.667388@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600427,
-    "wof:geomhash":"56740a1d7cf524273e2313440c5bb16a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf9aa9230d3e3bf6829de58b44ae7095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514559,
+            "region_id":85688727,
+            "venue_id":806711163
+        }
+    ],
     "wof:id":806711163,
-    "wof:lastmodified":1472629723,
+    "wof:lastmodified":1492820977,
     "wof:name":"Northern Connection Landscpg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

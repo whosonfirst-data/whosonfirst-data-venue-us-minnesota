@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.870699,45.37801,-92.870699,45.37801",
     "geom:latitude":45.37801,
     "geom:longitude":-92.870699,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4emabhmeUjxqhyUSOjAnNT_45.378010_-92.870699@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593710,
-    "wof:geomhash":"e643ef62df6c2317b66a1f39e83fb67b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21e6193fd15619d1de94fe015e194213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":790172003
+        }
+    ],
     "wof:id":790172003,
-    "wof:lastmodified":1472629233,
+    "wof:lastmodified":1492831740,
     "wof:name":"Hansen Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

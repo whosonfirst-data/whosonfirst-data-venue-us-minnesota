@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.363055,44.540421,-94.363055,44.540421",
     "geom:latitude":44.540421,
     "geom:longitude":-94.363055,
@@ -31,17 +32,34 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514061,
+        85633793,
+        85953255,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_763vcAltYMCfBCXU5SQhyT_44.540421_-94.363055@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589145,
-    "wof:geomhash":"c779892dae6cee9bc75a55f79b4adca5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f22ec19915c7eccb8d81dd420fc33cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514061,
+            "locality_id":85953255,
+            "region_id":85688727,
+            "venue_id":789611099
+        }
+    ],
     "wof:id":789611099,
-    "wof:lastmodified":1472629000,
+    "wof:lastmodified":1492809142,
     "wof:name":"Winthrop Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.360465,43.526969,-96.360465,43.526969",
     "geom:latitude":43.526969,
     "geom:longitude":-96.360465,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512773,
+        85633793,
+        85968781,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26QvacCE7Q4KjBdSx463lO_43.526969_-96.360465@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603960,
-    "wof:geomhash":"00fc59ea595e363e51523010f92942ef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c33522701d163b15f024fa657720ae83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512773,
+            "locality_id":85968781,
+            "region_id":85688727,
+            "venue_id":807121889
+        }
+    ],
     "wof:id":807121889,
-    "wof:lastmodified":1472629256,
+    "wof:lastmodified":1492825518,
     "wof:name":"Steven Vanwyhe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

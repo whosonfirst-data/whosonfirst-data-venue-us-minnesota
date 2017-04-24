@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.102094,43.631288,-94.102094,43.631288",
     "geom:latitude":43.631288,
     "geom:longitude":-94.102094,
@@ -26,17 +27,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41CwKj2gcM4VlOl6qctrTC_43.631288_-94.102094@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604288,
-    "wof:geomhash":"126bdf65e1975b804aff16da279de2b9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b0a780e1f2b41865ec713dab47cbad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":807151541
+        }
+    ],
     "wof:id":807151541,
-    "wof:lastmodified":1472629286,
+    "wof:lastmodified":1492823398,
     "wof:name":"Roland Meyers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

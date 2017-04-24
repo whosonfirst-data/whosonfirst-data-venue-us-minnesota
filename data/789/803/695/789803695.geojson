@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.154201,45.589499,-94.154201,45.589499",
     "geom:latitude":45.589499,
     "geom:longitude":-94.154201,
@@ -32,17 +33,34 @@
         "bicycle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511307,
+        85633793,
+        85968343,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yXAIkTeJErT8VwEzQ3oKS_45.589499_-94.154201@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590666,
-    "wof:geomhash":"caec0d10abcad11d29f82459de91d17a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22bc1f97cc8657d87333c2a7fa7d73c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511307,
+            "locality_id":85968343,
+            "region_id":85688727,
+            "venue_id":789803695
+        }
+    ],
     "wof:id":789803695,
-    "wof:lastmodified":1472629391,
+    "wof:lastmodified":1492813531,
     "wof:name":"Joe's Bike Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

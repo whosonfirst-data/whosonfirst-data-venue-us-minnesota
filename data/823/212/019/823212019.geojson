@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.350731,45.108879,-93.350731,45.108879",
     "geom:latitude":45.108879,
     "geom:longitude":-93.350731,
@@ -40,17 +41,34 @@
     ],
     "sg:website":"http://www.brooklynpark.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aS3cw49Y7jufsYvYM09f8_45.108879_-93.350731@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608568,
-    "wof:geomhash":"db7e28e5275595fbe0ad3b8cf098d900",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9705cd758e3c97bd7e17cc31fedfa62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823212019
+        }
+    ],
     "wof:id":823212019,
-    "wof:lastmodified":1472629074,
+    "wof:lastmodified":1492829969,
     "wof:name":"Police Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

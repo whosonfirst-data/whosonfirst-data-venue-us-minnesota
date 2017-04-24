@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.010055,43.554829,-92.010055,43.554829",
     "geom:latitude":43.554829,
     "geom:longitude":-92.010055,
@@ -28,17 +29,34 @@
     "sg:postcode":"55939",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MzSnGudniUv5lIdI8BgCG_43.554829_-92.010055@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592685,
-    "wof:geomhash":"b2d6c0aa85d61ae2ab18bcce7043eaa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"828e30e78061d1afc93896ca08415c44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":790045723
+        }
+    ],
     "wof:id":790045723,
-    "wof:lastmodified":1472629043,
+    "wof:lastmodified":1492833295,
     "wof:name":"Village Square Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

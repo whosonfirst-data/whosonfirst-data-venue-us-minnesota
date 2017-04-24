@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.620168,43.633351,-95.620168,43.633351",
     "geom:latitude":43.633351,
     "geom:longitude":-95.620168,
@@ -31,17 +32,34 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512269,
+        85633793,
+        85968655,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qu4LMet77u4cEjZMicf7e_43.633351_-95.620168@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599934,
-    "wof:geomhash":"219212808a3517d3999a016050e014e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c8c9001610e135ec907a6ebfe8116c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512269,
+            "locality_id":85968655,
+            "region_id":85688727,
+            "venue_id":806653291
+        }
+    ],
     "wof:id":806653291,
-    "wof:lastmodified":1472629644,
+    "wof:lastmodified":1492818279,
     "wof:name":"Broken Note Instrument Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

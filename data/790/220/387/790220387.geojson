@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.146155,46.563108,-95.146155,46.563108",
     "geom:latitude":46.563108,
     "geom:longitude":-95.146155,
@@ -33,17 +34,32 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510927,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7glRpp7GjQJetuzZi34ekm_46.563108_-95.146155@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594105,
-    "wof:geomhash":"6eb1e922e9dbe2381fa9332b73a49e47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bae894cbfb44f41190d67ad03ce9bb58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404510927,
+            "region_id":85688727,
+            "venue_id":790220387
+        }
+    ],
     "wof:id":790220387,
-    "wof:lastmodified":1472629327,
+    "wof:lastmodified":1492832977,
     "wof:name":"Maple Ridge Stock Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

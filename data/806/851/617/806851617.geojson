@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.298354,44.948419,-93.298354,44.948419",
     "geom:latitude":44.948419,
     "geom:longitude":-93.298354,
@@ -29,8 +30,10 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800005,
         85872647,
         102191575,
+        1108799977,
         404511883,
         85633793,
         85969169,
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601623,
-    "wof:geomhash":"d83968aac03aec63fe192d86736d7478",
+    "wof:geomhash":"297413f2da094c6cee1311614ad845f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,15 +54,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108799977,
+            "microhood_id":1108800005,
             "neighbourhood_id":85872647,
             "region_id":85688727,
             "venue_id":806851617
         }
     ],
     "wof:id":806851617,
-    "wof:lastmodified":1472629897,
+    "wof:lastmodified":1492821679,
     "wof:name":"Uptown Theatre",
-    "wof:parent_id":85872647,
+    "wof:parent_id":1108800005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

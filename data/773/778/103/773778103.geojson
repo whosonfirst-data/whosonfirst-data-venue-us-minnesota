@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.207659,45.629879,-94.207659,45.629879",
     "geom:latitude":45.629879,
     "geom:longitude":-94.207659,
@@ -32,17 +33,34 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514503,
+        85633793,
+        85952441,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_622eW091O8w6rNH7fWXGQG_45.629879_-94.207659@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588305,
-    "wof:geomhash":"b014abda039f43268fd2871b5c665d84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b55ad2fdc8ffec19cdf9983bc8962ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514503,
+            "locality_id":85952441,
+            "region_id":85688727,
+            "venue_id":773778103
+        }
+    ],
     "wof:id":773778103,
-    "wof:lastmodified":1472630153,
+    "wof:lastmodified":1492804509,
     "wof:name":"US Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.547559,43.862702,-93.547559,43.862702",
     "geom:latitude":43.862702,
     "geom:longitude":-93.547559,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514857,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VGZbtVZjGQhRBW98yNwr7_43.862702_-93.547559@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584141,
-    "wof:geomhash":"172c6a0900879e47d27c5ed3a84656cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be1beeb71adf61b32c0d9231b9666eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514857,
+            "region_id":85688727,
+            "venue_id":773229815
+        }
+    ],
     "wof:id":773229815,
-    "wof:lastmodified":1472629975,
+    "wof:lastmodified":1492802263,
     "wof:name":"Ray Routh & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

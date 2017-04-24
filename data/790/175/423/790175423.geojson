@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.625084,45.210381,-93.625084,45.210381",
     "geom:latitude":45.210381,
     "geom:longitude":-93.625084,
@@ -33,17 +34,34 @@
         "vehicle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60hOAlRitO8AVrbNFDAw45_45.210381_-93.625084@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593739,
-    "wof:geomhash":"dcab3d4c2e20879a901ebf2c6c7ae1fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"315c57c70d7257017d0dee20c2367b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":790175423
+        }
+    ],
     "wof:id":790175423,
-    "wof:lastmodified":1472629262,
+    "wof:lastmodified":1492834758,
     "wof:name":"River's Edge Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

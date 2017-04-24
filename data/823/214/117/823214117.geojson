@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359501,45.133955,-93.359501,45.133955",
     "geom:latitude":45.133955,
     "geom:longitude":-93.359501,
@@ -38,17 +39,34 @@
     ],
     "sg:website":"http://twincities.citysearch.com/profile/external/651658130/brooklyn_park_mn/mathnasium.html?publisher=yellowpages&reference_id=7&placement=ypwebsitemip",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JT7SoLQJ5FCqtvwxCt1ku_45.133955_-93.359501@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608609,
-    "wof:geomhash":"315dd2fe9cb96dc0b36b86d72c249e06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa2c531864227cfe112d1092d6399b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823214117
+        }
+    ],
     "wof:id":823214117,
-    "wof:lastmodified":1472629082,
+    "wof:lastmodified":1492828508,
     "wof:name":"Mathnasium of Brooklyn Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.454516,48.160881,-92.454516,48.160881",
     "geom:latitude":48.160881,
     "geom:longitude":-92.454516,
@@ -32,17 +33,32 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513075,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BMyT4jOKjkPJVyRMiwRKi_48.160881_-92.454516@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586229,
-    "wof:geomhash":"8fd4eafa9584ff4636482f6592e75b88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a63724c4ec890418885508928f39ce97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513075,
+            "region_id":85688727,
+            "venue_id":773503563
+        }
+    ],
     "wof:id":773503563,
-    "wof:lastmodified":1472630077,
+    "wof:lastmodified":1492801461,
     "wof:name":"Timber Wolf Point Resort",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

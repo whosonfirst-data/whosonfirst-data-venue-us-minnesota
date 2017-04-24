@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.712226,43.53657,-93.712226,43.53657",
     "geom:latitude":43.53657,
     "geom:longitude":-93.712226,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514087,
+        85633793,
+        85952587,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZLHkMOwxHOuiEXDo2oef4_43.536570_-93.712226@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597046,
-    "wof:geomhash":"1e4898346e9df09010060d69c73a639c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3b8023753d9a44257803aeeaa016bbcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514087,
+            "locality_id":85952587,
+            "region_id":85688727,
+            "venue_id":790580357
+        }
+    ],
     "wof:id":790580357,
-    "wof:lastmodified":1472629869,
+    "wof:lastmodified":1492832410,
     "wof:name":"Christian & Peterson PA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

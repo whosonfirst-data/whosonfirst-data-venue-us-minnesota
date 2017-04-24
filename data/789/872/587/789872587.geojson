@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.707457,44.118335,-93.707457,44.118335",
     "geom:latitude":44.118335,
     "geom:longitude":-93.707457,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514863,
+        85633793,
+        85953079,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lVarwDD4iNSuLcZCQ7eA0_44.118335_-93.707457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591207,
-    "wof:geomhash":"2468273709be8a55057f0ce6789a3ef0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f03c14309642a1c9a14eeb1596f596c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514863,
+            "locality_id":85953079,
+            "region_id":85688727,
+            "venue_id":789872587
+        }
+    ],
     "wof:id":789872587,
-    "wof:lastmodified":1472629567,
+    "wof:lastmodified":1492810812,
     "wof:name":"Janesville Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

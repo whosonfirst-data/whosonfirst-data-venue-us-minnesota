@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.635422,48.052979,-95.635422,48.052979",
     "geom:latitude":48.052979,
     "geom:longitude":-95.635422,
@@ -46,17 +47,32 @@
     ],
     "sg:website":"http://www.thrivent.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510393,
+        85633793,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2h4DnR012oRddcZhnhcdec_48.052979_-95.635422@1303262840"
     },
     "wof:country":"US",
     "wof:created":1462609550,
-    "wof:geomhash":"cf9ce3782d137227e478b5b9314041db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59af63813bc6a98e1b222675de75a1c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404510393,
+            "region_id":85688727,
+            "venue_id":823259869
+        }
+    ],
     "wof:id":823259869,
-    "wof:lastmodified":1472629227,
+    "wof:lastmodified":1492829146,
     "wof:name":"Thrivant Financial For Lutherans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

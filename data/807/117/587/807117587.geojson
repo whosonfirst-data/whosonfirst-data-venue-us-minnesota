@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.627151,43.957998,-93.627151,43.957998",
     "geom:latitude":43.957998,
     "geom:longitude":-93.627151,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514877,
+        85633793,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uV7McKnpLcQaQTEm7ftFs_43.957998_-93.627151@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603914,
-    "wof:geomhash":"05b9108f1da34f8717225200c40dab3a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec15b8ac8dda1d4649508a3e21345d49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514877,
+            "region_id":85688727,
+            "venue_id":807117587
+        }
+    ],
     "wof:id":807117587,
-    "wof:lastmodified":1472629236,
+    "wof:lastmodified":1492825790,
     "wof:name":"Stencel Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

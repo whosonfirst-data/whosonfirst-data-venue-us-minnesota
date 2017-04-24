@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.73329,45.094215,-93.73329,45.094215",
     "geom:latitude":45.094215,
     "geom:longitude":-93.73329,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515247,
+        85633793,
+        85968937,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XbMxw9T7IRxNbgKZKqjLd_45.094215_-93.733290@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589503,
-    "wof:geomhash":"6944b8f23963dd029cee352242ed4068",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c03ef185037b71cc030b926a855c3fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515247,
+            "locality_id":85968937,
+            "region_id":85688727,
+            "venue_id":789656347
+        }
+    ],
     "wof:id":789656347,
-    "wof:lastmodified":1472629112,
+    "wof:lastmodified":1492810424,
     "wof:name":"Clean Heating Cooling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

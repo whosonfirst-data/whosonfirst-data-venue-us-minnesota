@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.291457,48.717525,-97.291457,48.717525",
     "geom:latitude":48.717525,
     "geom:longitude":-97.291457,
@@ -32,17 +33,32 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404481463,
+        85633793,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4epWxGcGudBzqRE58jKMSE_48.717525_-97.291457@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600603,
-    "wof:geomhash":"aa4c10117f0502bb81fff1ab54c50bc0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4133cf04628fede37c7b03f6572eae95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481463,
+            "region_id":85688525,
+            "venue_id":806732319
+        }
+    ],
     "wof:id":806732319,
-    "wof:lastmodified":1472629758,
+    "wof:lastmodified":1492820947,
     "wof:name":"Hamilton Farm Supply",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.29292,44.240755,-93.29292,44.240755",
     "geom:latitude":44.240755,
     "geom:longitude":-93.29292,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512761,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AZKsG2saxcjUwyChlAR30_44.240755_-93.292920@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603810,
-    "wof:geomhash":"fa6d06311943b984c1e272b4dc51a415",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13f58d3652d632df8da840425932e8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512761,
+            "region_id":85688727,
+            "venue_id":807107469
+        }
+    ],
     "wof:id":807107469,
-    "wof:lastmodified":1472629213,
+    "wof:lastmodified":1492824450,
     "wof:name":"Dean Wegner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

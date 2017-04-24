@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.872564,43.816845,-95.872564,43.816845",
     "geom:latitude":43.816845,
     "geom:longitude":-95.872564,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512151,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WoruyHh4wwOJOoWzmoaYj_43.816845_-95.872564@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603761,
-    "wof:geomhash":"d07a274b5f1417f8b5d8256f108018db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77851a8a9d808a54537f91748c7e93bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512151,
+            "region_id":85688727,
+            "venue_id":807102681
+        }
+    ],
     "wof:id":807102681,
-    "wof:lastmodified":1472629211,
+    "wof:lastmodified":1492826737,
     "wof:name":"William Korth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

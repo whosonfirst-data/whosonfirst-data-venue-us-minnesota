@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.467297,43.698215,-95.467297,43.698215",
     "geom:latitude":43.698215,
     "geom:longitude":-95.467297,
@@ -44,17 +45,34 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510111,
+        85633793,
+        85968697,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NdtBXA5m2J63674obJ7qt_43.698215_-95.467297@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609172,
-    "wof:geomhash":"5315042b214134ca62fff82980d87908",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99f18f8b218fce743be402e44ad35861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510111,
+            "locality_id":85968697,
+            "region_id":85688727,
+            "venue_id":823241307
+        }
+    ],
     "wof:id":823241307,
-    "wof:lastmodified":1472629133,
+    "wof:lastmodified":1492828887,
     "wof:name":"Silver Bucket Bar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

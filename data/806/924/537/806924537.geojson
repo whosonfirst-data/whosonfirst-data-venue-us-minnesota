@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.460349,46.906084,-94.460349,46.906084",
     "geom:latitude":46.906084,
     "geom:longitude":-94.460349,
@@ -36,17 +37,32 @@
         "herb"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511621,
+        85633793,
+        102087905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x2fybcggUR209uAm6sb2S_46.906084_-94.460349@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602229,
-    "wof:geomhash":"66943d39d868505c96cc25e4b5e0f5a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"68b972d22f034c80df0decf4d2a5ce35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087905,
+            "localadmin_id":404511621,
+            "region_id":85688727,
+            "venue_id":806924537
+        }
+    ],
     "wof:id":806924537,
-    "wof:lastmodified":1472629937,
+    "wof:lastmodified":1492814844,
     "wof:name":"Artemesia Springs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

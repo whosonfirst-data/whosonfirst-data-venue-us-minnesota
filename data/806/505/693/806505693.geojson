@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.32386,47.448477,-92.32386,47.448477",
     "geom:latitude":47.448477,
     "geom:longitude":-92.32386,
@@ -32,17 +33,26 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k0tZGJ6L8bM2Qx3TDmi2e_47.448477_-92.323860@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598677,
-    "wof:geomhash":"22e5716440ec552577f4de83d85377fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"37aa7cb205c2388adff4a7f0bc7a7a1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806505693
+        }
+    ],
     "wof:id":806505693,
-    "wof:lastmodified":1472629315,
+    "wof:lastmodified":1492815773,
     "wof:name":"Sawmill Saloon & Restaurant",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

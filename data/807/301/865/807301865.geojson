@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.390056,45.173544,-93.390056,45.173544",
     "geom:latitude":45.173544,
     "geom:longitude":-93.390056,
@@ -32,17 +33,34 @@
         "hygienist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6j88qReZzmcucfcaaQCehy_45.173544_-93.390056@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605872,
-    "wof:geomhash":"e75fc799a5be3cba46587a1c4f4eabf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaeb915ac5cc19b492073dcb4437199d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807301865
+        }
+    ],
     "wof:id":807301865,
-    "wof:lastmodified":1472629633,
+    "wof:lastmodified":1492827560,
     "wof:name":"Twin Cities Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

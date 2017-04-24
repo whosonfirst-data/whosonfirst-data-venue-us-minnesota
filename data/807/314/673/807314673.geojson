@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.151719,44.769131,-94.151719,44.769131",
     "geom:latitude":44.769131,
     "geom:longitude":-94.151719,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ItW51yK5lBIQzWOXzD4Pe_44.769131_-94.151719@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606006,
-    "wof:geomhash":"ab683b57b2afda44871a8c16a40d0058",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de63032085212bdaad14b8d5def6ec31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":807314673
+        }
+    ],
     "wof:id":807314673,
-    "wof:lastmodified":1472629700,
+    "wof:lastmodified":1492822436,
     "wof:name":"Bma Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

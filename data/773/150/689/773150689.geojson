@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.972242,44.894911,-92.972242,44.894911",
     "geom:latitude":44.894911,
     "geom:longitude":-92.972242,
@@ -32,17 +33,34 @@
         "tour"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514931,
+        85633793,
+        85953535,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74guFwU57iZWoRkaJmOCTV_44.894911_-92.972242@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583508,
-    "wof:geomhash":"11d0b236657bddf27495bfb4498fedbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e8059270dcf3b87b449aef1de99782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514931,
+            "locality_id":85953535,
+            "region_id":85688727,
+            "venue_id":773150689
+        }
+    ],
     "wof:id":773150689,
-    "wof:lastmodified":1472629727,
+    "wof:lastmodified":1492806625,
     "wof:name":"Global Destinations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

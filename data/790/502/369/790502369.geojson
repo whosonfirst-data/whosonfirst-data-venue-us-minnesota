@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.458583,44.055874,-92.458583,44.055874",
     "geom:latitude":44.055874,
     "geom:longitude":-92.458583,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JEdvWMw3pjQUZ9TdG1yGc_44.055874_-92.458583@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596387,
-    "wof:geomhash":"f2273f2e7726146f6d724a02f4683633",
-    "wof:hierarchy":[],
+    "wof:geomhash":"636df0b863282d37f8bff8ad9c7313bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790502369
+        }
+    ],
     "wof:id":790502369,
-    "wof:lastmodified":1472629787,
+    "wof:lastmodified":1492831348,
     "wof:name":"Rochester Square Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

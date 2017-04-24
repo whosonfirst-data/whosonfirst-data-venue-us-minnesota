@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.015189,44.949436,-93.015189,44.949436",
     "geom:latitude":44.949436,
     "geom:longitude":-93.015189,
@@ -28,19 +29,40 @@
     "sg:postcode":"55119",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800627,
+        1108800557,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dHNXnkXnTOeR4lE7pE6ZF_44.949436_-93.015189@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596633,
-    "wof:geomhash":"d77403b67a42d19edf1c3aedb0953790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b9c079dc02d6ba336e1a079dda67974e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800627,
+            "neighbourhood_id":1108800557,
+            "region_id":85688727,
+            "venue_id":790531293
+        }
+    ],
     "wof:id":790531293,
-    "wof:lastmodified":1472629803,
+    "wof:lastmodified":1492833880,
     "wof:name":"Allstate Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

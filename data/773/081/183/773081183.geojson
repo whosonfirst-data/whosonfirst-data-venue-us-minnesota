@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.644872,45.224171,-93.644872,45.224171",
     "geom:latitude":45.224171,
     "geom:longitude":-93.644872,
@@ -32,17 +33,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21tgpBR82uJuc9jjgMJK2k_45.224171_-93.644872@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583016,
-    "wof:geomhash":"c74406f6ab65e88f8fbf141f0f0a281a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81c1ccf1033eaac400b3e467db1e7efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":773081183
+        }
+    ],
     "wof:id":773081183,
-    "wof:lastmodified":1472629501,
+    "wof:lastmodified":1492801145,
     "wof:name":"W H Leasing Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

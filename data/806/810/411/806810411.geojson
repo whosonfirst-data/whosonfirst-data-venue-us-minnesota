@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.719109,45.303505,-93.719109,45.303505",
     "geom:latitude":45.303505,
     "geom:longitude":-93.719109,
@@ -32,17 +33,32 @@
         "iron"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515099,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46qLhirGtM1ePeiXygeQT1_45.303505_-93.719109@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601268,
-    "wof:geomhash":"200924bd2b805e2d89ecb95fd7c80c82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0a5e42bb3816d8a0794d575d26202599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515099,
+            "region_id":85688727,
+            "venue_id":806810411
+        }
+    ],
     "wof:id":806810411,
-    "wof:lastmodified":1472629847,
+    "wof:lastmodified":1492821774,
     "wof:name":"Custom Tool Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

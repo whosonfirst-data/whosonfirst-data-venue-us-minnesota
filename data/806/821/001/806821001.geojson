@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.396084,43.647585,-93.396084,43.647585",
     "geom:latitude":43.647585,
     "geom:longitude":-93.396084,
@@ -32,17 +33,34 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_525YYvNm44jeBxopMEZjkF_43.647585_-93.396084@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601352,
-    "wof:geomhash":"f5bd16b50804d508eb2d6f0f4413c90b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1ca562b85aa8af4ef09e5184e8eadc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806821001
+        }
+    ],
     "wof:id":806821001,
-    "wof:lastmodified":1472629842,
+    "wof:lastmodified":1492819747,
     "wof:name":"Vacuum Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

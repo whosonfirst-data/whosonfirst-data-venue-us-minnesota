@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.576235,44.436708,-93.576235,44.436708",
     "geom:latitude":44.436708,
     "geom:longitude":-93.576235,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512365,
+        85633793,
+        85953431,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53F6NmKwo5ALrOw1W3CDDd_44.436708_-93.576235@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602872,
-    "wof:geomhash":"c2f68054ce949f8c5ae629543d962542",
-    "wof:hierarchy":[],
+    "wof:geomhash":"42d94ab3db3cad32ccc62b76f180a023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512365,
+            "locality_id":85953431,
+            "region_id":85688727,
+            "venue_id":807001529
+        }
+    ],
     "wof:id":807001529,
-    "wof:lastmodified":1472628934,
+    "wof:lastmodified":1492824473,
     "wof:name":"Hidden Fence Of Rochester",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

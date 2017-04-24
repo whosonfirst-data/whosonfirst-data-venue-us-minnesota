@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.663189,45.425443,-92.663189,45.425443",
     "geom:latitude":45.425443,
     "geom:longitude":-92.663189,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511033,
+        85633793,
+        85952681,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tXalihljSUXel6KqmuoV0_45.425443_-92.663189@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593104,
-    "wof:geomhash":"3c40d8288ff354e75e94b9ac3483494b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b71107bc7f77cfb9745ba59d6dfa3e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511033,
+            "locality_id":85952681,
+            "region_id":85688727,
+            "venue_id":790097323
+        }
+    ],
     "wof:id":790097323,
-    "wof:lastmodified":1472629129,
+    "wof:lastmodified":1492837287,
     "wof:name":"Jericho Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

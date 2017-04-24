@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.54367,47.460551,-92.54367,47.460551",
     "geom:latitude":47.460551,
     "geom:longitude":-92.54367,
@@ -31,17 +32,26 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WFrsG9NNySu2bxg2VfFXj_47.460551_-92.543670@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587837,
-    "wof:geomhash":"4c9307dcd78b223e1e33d794ce7eba81",
-    "wof:hierarchy":[],
+    "wof:geomhash":"073471040106ab478067ed8cdd502fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773715167
+        }
+    ],
     "wof:id":773715167,
-    "wof:lastmodified":1472630136,
+    "wof:lastmodified":1492800569,
     "wof:name":"Eveleth City Garage",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

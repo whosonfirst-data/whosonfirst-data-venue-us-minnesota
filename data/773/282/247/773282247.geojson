@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.419972,46.653253,-96.419972,46.653253",
     "geom:latitude":46.653253,
     "geom:longitude":-96.419972,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877349,
+        102191575,
+        404511077,
         85633793,
         85968969,
         102087681,
-        85877349
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462584537,
-    "wof:geomhash":"4ef1ea624f98c998a312a6de4e0c12e0",
+    "wof:geomhash":"ce3b43d5bbb0aee845f5c98b0c1e81c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087681,
+            "localadmin_id":404511077,
             "locality_id":85968969,
             "neighbourhood_id":85877349,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":773282247,
-    "wof:lastmodified":1472629997,
+    "wof:lastmodified":1492801062,
     "wof:name":"Photo Loft",
     "wof:parent_id":85877349,
     "wof:placetype":"venue",

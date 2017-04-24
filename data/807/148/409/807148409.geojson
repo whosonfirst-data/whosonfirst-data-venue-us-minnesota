@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.18042,45.360463,-94.18042,45.360463",
     "geom:latitude":45.360463,
     "geom:longitude":-94.18042,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514233,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ul5NP7RvO7LOyNghUDksz_45.360463_-94.180420@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604259,
-    "wof:geomhash":"f1d66eb08d09f513aacb850370079fe1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"673d91f5d803d64cffad11a6e198138f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514233,
+            "region_id":85688727,
+            "venue_id":807148409
+        }
+    ],
     "wof:id":807148409,
-    "wof:lastmodified":1472629277,
+    "wof:lastmodified":1492824559,
     "wof:name":"Roger Schabel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

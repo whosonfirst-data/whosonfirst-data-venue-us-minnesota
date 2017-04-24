@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.611397,44.8097,-93.611397,44.8097",
     "geom:latitude":44.8097,
     "geom:longitude":-93.611397,
@@ -39,17 +40,34 @@
         "nose"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511689,
+        85633793,
+        85952993,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NWYwPRIEh2L2M2eB3nr5H_44.809700_-93.611397@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605927,
-    "wof:geomhash":"ca18332e8912e431ad8265abc486852d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4cffbbe3a617535ccae67516ebb3e49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511689,
+            "locality_id":85952993,
+            "region_id":85688727,
+            "venue_id":807306901
+        }
+    ],
     "wof:id":807306901,
-    "wof:lastmodified":1472629670,
+    "wof:lastmodified":1492822662,
     "wof:name":"Edina Physicians & Surgeons PA Ophthalmology Eye",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.255076,45.549321,-94.255076,45.549321",
     "geom:latitude":45.549321,
     "geom:longitude":-94.255076,
@@ -34,17 +35,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Oiry66lBvseSCPRzJjFzN_45.549321_-94.255076@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599467,
-    "wof:geomhash":"dfeb787c28bad22b8fa26913fa8de25e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"172b2c8030e5792b3d488ce3d5b0ad24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":806597467
+        }
+    ],
     "wof:id":806597467,
-    "wof:lastmodified":1472629527,
+    "wof:lastmodified":1492814208,
     "wof:name":"Election Systems & Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

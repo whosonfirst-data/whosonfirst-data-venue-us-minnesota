@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.873172,45.376385,-92.873172,45.376385",
     "geom:latitude":45.376385,
     "geom:longitude":-92.873172,
@@ -34,17 +35,34 @@
         "floor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11Rcrl8pVrOcriKuJkSqTm_45.376385_-92.873172@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583412,
-    "wof:geomhash":"f6c99affc3411d2eb463ae72dbba7cd5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e874eb7d63187c35734016934933bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":773136601
+        }
+    ],
     "wof:id":773136601,
-    "wof:lastmodified":1472629696,
+    "wof:lastmodified":1492803310,
     "wof:name":"Rick's Laminate Installation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.29768,45.315809,-94.29768,45.315809",
     "geom:latitude":45.315809,
     "geom:longitude":-94.29768,
@@ -32,17 +33,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510505,
+        85633793,
+        85952469,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41f4zFerHPrRTDE5tvRlzg_45.315809_-94.297680@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584716,
-    "wof:geomhash":"0927f74a149726594ffb2e8f12768d1f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48aa4664a2c9fab9338b8d77211346bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510505,
+            "locality_id":85952469,
+            "region_id":85688727,
+            "venue_id":773304125
+        }
+    ],
     "wof:id":773304125,
-    "wof:lastmodified":1472630004,
+    "wof:lastmodified":1492804921,
     "wof:name":"Heritage House Of Kimball",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

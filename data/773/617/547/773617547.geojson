@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.248503,44.090485,-93.248503,44.090485",
     "geom:latitude":44.090485,
     "geom:longitude":-93.248503,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.wengercorp.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UbIjabVhMBICxtEbE9Gjh_44.090485_-93.248503@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587076,
-    "wof:geomhash":"4bd61925d6aecd211de83ff03ca09650",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5a89ebc44195d45637b03f001e9198e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":773617547
+        }
+    ],
     "wof:id":773617547,
-    "wof:lastmodified":1472630111,
+    "wof:lastmodified":1492804763,
     "wof:name":"Wenger Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

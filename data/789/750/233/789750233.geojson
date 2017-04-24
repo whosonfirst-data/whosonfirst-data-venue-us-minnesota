@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.523889,47.491008,-92.523889,47.491008",
     "geom:latitude":47.491008,
     "geom:longitude":-92.523889,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dMj4ejW6O2t9Gmx9NHOqf_47.491008_-92.523889@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590255,
-    "wof:geomhash":"01bade368aeb1d7754aeca996d3bebe7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee02c43f202fc96e791bd7a03d34a192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789750233
+        }
+    ],
     "wof:id":789750233,
-    "wof:lastmodified":1472629304,
+    "wof:lastmodified":1492809790,
     "wof:name":"Woodward Electric",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

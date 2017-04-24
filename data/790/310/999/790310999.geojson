@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.702296,46.535722,-93.702296,46.535722",
     "geom:latitude":46.535722,
     "geom:longitude":-93.702296,
@@ -31,17 +32,34 @@
         "alley"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509151,
+        85633793,
+        85968607,
+        102087811
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vGobkjxs40Vb876LMGver_46.535722_-93.702296@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594853,
-    "wof:geomhash":"6c5eee5845c3456ab8151461b8a43cdd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efa8e18f559050aa6920c1a36b5eb6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087811,
+            "localadmin_id":404509151,
+            "locality_id":85968607,
+            "region_id":85688727,
+            "venue_id":790310999
+        }
+    ],
     "wof:id":790310999,
-    "wof:lastmodified":1472629512,
+    "wof:lastmodified":1492833805,
     "wof:name":"Aitkin Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

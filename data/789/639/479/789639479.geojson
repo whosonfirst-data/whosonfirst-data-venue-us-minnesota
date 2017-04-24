@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.522779,44.864409,-93.522779,44.864409",
     "geom:latitude":44.864409,
     "geom:longitude":-93.522779,
@@ -31,17 +32,34 @@
         "locksmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wt97iwFk1XafxNow91PVr_44.864409_-93.522779@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589370,
-    "wof:geomhash":"4532c49802a757b37753019b209ba58c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc04679995323c75de71791db7e38a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":789639479
+        }
+    ],
     "wof:id":789639479,
-    "wof:lastmodified":1472629076,
+    "wof:lastmodified":1492812880,
     "wof:name":"Southwest Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

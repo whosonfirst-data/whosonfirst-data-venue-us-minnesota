@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.882151,44.529828,-94.882151,44.529828",
     "geom:latitude":44.529828,
     "geom:longitude":-94.882151,
@@ -37,17 +38,34 @@
         "bartending"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512475,
+        85633793,
+        85969033,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kjleH1PBogrlsaevHCYct_44.529828_-94.882151@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606000,
-    "wof:geomhash":"23508abb3c8ed8cdc3d9a590ef449639",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f76656c5c585bb64d7e3230ce04ec3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512475,
+            "locality_id":85969033,
+            "region_id":85688727,
+            "venue_id":807314035
+        }
+    ],
     "wof:id":807314035,
-    "wof:lastmodified":1472629671,
+    "wof:lastmodified":1492822435,
     "wof:name":"Longbranch Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

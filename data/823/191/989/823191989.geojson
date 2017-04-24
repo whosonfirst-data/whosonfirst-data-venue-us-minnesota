@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.351288,45.054565,-93.351288,45.054565",
     "geom:latitude":45.054565,
     "geom:longitude":-93.351288,
@@ -42,17 +43,34 @@
         "spice"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vleFfSlzRF7o3WIAxzCg3_45.054565_-93.351288@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608216,
-    "wof:geomhash":"760a9ea84e5092829c2a7e2d31baee82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cffe24184e6879206c5b78f72fe6bb89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823191989
+        }
+    ],
     "wof:id":823191989,
-    "wof:lastmodified":1472629057,
+    "wof:lastmodified":1492830464,
     "wof:name":"Herbs Unlimited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

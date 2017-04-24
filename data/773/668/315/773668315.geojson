@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.74754,44.656213,-93.74754,44.656213",
     "geom:latitude":44.656213,
     "geom:longitude":-93.74754,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511703,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MmQphwikgGbYc5pq4SHvO_44.656213_-93.747540@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587455,
-    "wof:geomhash":"158e68a2d218c1718c39c3fc527bde2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d252c42bd22caca09aa450fbd55a4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511703,
+            "region_id":85688727,
+            "venue_id":773668315
+        }
+    ],
     "wof:id":773668315,
-    "wof:lastmodified":1472630121,
+    "wof:lastmodified":1492806059,
     "wof:name":"Glenn Schmidt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

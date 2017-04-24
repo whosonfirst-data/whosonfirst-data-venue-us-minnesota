@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.826086,43.66677,-93.826086,43.66677",
     "geom:latitude":43.66677,
     "geom:longitude":-93.826086,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509601,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qKObMtEJ13Wc88j4NrfXJ_43.666770_-93.826086@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604563,
-    "wof:geomhash":"876d3c707d6d7d782a615ca29318a4aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de74b38feb010529752e17b097805dec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404509601,
+            "region_id":85688727,
+            "venue_id":807177713
+        }
+    ],
     "wof:id":807177713,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492824408,
     "wof:name":"Prange Marlin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

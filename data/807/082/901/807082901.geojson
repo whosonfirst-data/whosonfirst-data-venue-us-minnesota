@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.962442,43.926288,-93.962442,43.926288",
     "geom:latitude":43.926288,
     "geom:longitude":-93.962442,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511551,
+        85633793,
+        85953343,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PQKkLCjfYvWNzioTkDjvA_43.926288_-93.962442@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603557,
-    "wof:geomhash":"617ed49c741260e189c4f09fbfd09f9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71c5e13f80151ac578aacdaab7d2b25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511551,
+            "locality_id":85953343,
+            "region_id":85688727,
+            "venue_id":807082901
+        }
+    ],
     "wof:id":807082901,
-    "wof:lastmodified":1472629112,
+    "wof:lastmodified":1492822620,
     "wof:name":"Mapleton Community Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

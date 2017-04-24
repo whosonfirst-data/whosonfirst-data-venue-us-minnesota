@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.220846,43.454353,-93.220846,43.454353",
     "geom:latitude":43.454353,
     "geom:longitude":-93.220846,
@@ -31,17 +32,32 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688713,
+        102191575,
+        85633793,
+        85943959,
+        102086317
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cu2eCEHUnK6mIWhu5yZYC_43.454353_-93.220846@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592148,
-    "wof:geomhash":"da2550fbd555508ddb446f53a1c68726",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48d0484db1a69bc88c27682180fbf792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086317,
+            "locality_id":85943959,
+            "region_id":85688713,
+            "venue_id":789977557
+        }
+    ],
     "wof:id":789977557,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492812899,
     "wof:name":"Nordic Lanes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

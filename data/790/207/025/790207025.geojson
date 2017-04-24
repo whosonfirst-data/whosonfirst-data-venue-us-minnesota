@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.121434,45.261981,-94.121434,45.261981",
     "geom:latitude":45.261981,
     "geom:longitude":-94.121434,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515117,
+        85633793,
+        85968933,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MBO7q4huH5ayA87eDT0t5_45.261981_-94.121434@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594007,
-    "wof:geomhash":"0876f2e5f0dfc403f423cf75dfc3eab4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4a5fbaccef863a1beddb877ceb215a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515117,
+            "locality_id":85968933,
+            "region_id":85688727,
+            "venue_id":790207025
+        }
+    ],
     "wof:id":790207025,
-    "wof:lastmodified":1472629289,
+    "wof:lastmodified":1492835324,
     "wof:name":"Golden Rule Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

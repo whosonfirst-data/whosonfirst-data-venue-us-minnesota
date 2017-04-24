@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.889679,47.49093,-94.889679,47.49093",
     "geom:latitude":47.49093,
     "geom:longitude":-94.889679,
@@ -33,17 +34,34 @@
         "southern"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PFSo3qc1Y17S25mFDRbeF_47.490863_-94.889408@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462605172,
-    "wof:geomhash":"056a23942067ce4380516d8cf70d8bd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0118c2e28f0f5a5da230e60ccc5096ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":807235853
+        }
+    ],
     "wof:id":807235853,
-    "wof:lastmodified":1472629474,
+    "wof:lastmodified":1492827662,
     "wof:name":"Country Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

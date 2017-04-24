@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.346382,43.703227,-95.346382,43.703227",
     "geom:latitude":43.703227,
     "geom:longitude":-95.346382,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509837,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30dDX3BprovpAAuwk2ahkv_43.703227_-95.346382@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604119,
-    "wof:geomhash":"a3aadc8aad4a23ed1e53ca757b7fdf16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0bee783a6b2f2d0aa39a2468f24692ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509837,
+            "region_id":85688727,
+            "venue_id":807135757
+        }
+    ],
     "wof:id":807135757,
-    "wof:lastmodified":1472629265,
+    "wof:lastmodified":1492823777,
     "wof:name":"Steve Hotzler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

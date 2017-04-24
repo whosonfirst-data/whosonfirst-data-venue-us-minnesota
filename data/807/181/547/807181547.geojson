@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.913487,44.572319,-92.913487,44.572319",
     "geom:latitude":44.572319,
     "geom:longitude":-92.913487,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512097,
+        85633793,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YFhRSJMmhkaAsoqprSE6s_44.572319_-92.913487@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604601,
-    "wof:geomhash":"3795f4ddd207c3df76c48c75aa65aeb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc16f66eefcc38929ec21bc12c5becb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512097,
+            "region_id":85688727,
+            "venue_id":807181547
+        }
+    ],
     "wof:id":807181547,
-    "wof:lastmodified":1472629358,
+    "wof:lastmodified":1492826291,
     "wof:name":"Dave Stein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

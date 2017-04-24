@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.666949,45.224702,-93.666949,45.224702",
     "geom:latitude":45.224702,
     "geom:longitude":-93.666949,
@@ -31,17 +32,34 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510755,
+        85633793,
+        85968935,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W8lM8LxQmLcYGDNGghZ6X_45.224702_-93.666949@1303262815"
     },
     "wof:country":"US",
     "wof:created":1462605630,
-    "wof:geomhash":"e2554a609e3934d6e64c2399b2101364",
-    "wof:hierarchy":[],
+    "wof:geomhash":"732cc5a35be60528cf3caf381c762034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510755,
+            "locality_id":85968935,
+            "region_id":85688727,
+            "venue_id":807278361
+        }
+    ],
     "wof:id":807278361,
-    "wof:lastmodified":1472629590,
+    "wof:lastmodified":1492825436,
     "wof:name":"Becicka Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.389996,45.151972,-93.389996,45.151972",
     "geom:latitude":45.151972,
     "geom:longitude":-93.389996,
@@ -52,17 +53,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511833,
+        85633793,
+        85969225,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44jufEJYkFGz3T2tkN2zmA_45.151972_-93.389996@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605864,
-    "wof:geomhash":"2259098a1c2a51a1e75543c704e7aeea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d2a67b01bf1039b0cb821a219c41d18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511833,
+            "locality_id":85969225,
+            "region_id":85688727,
+            "venue_id":807300975
+        }
+    ],
     "wof:id":807300975,
-    "wof:lastmodified":1472629632,
+    "wof:lastmodified":1492825904,
     "wof:name":"Rapid Packaging, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

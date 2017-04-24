@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.455256,43.862299,-95.455256,43.862299",
     "geom:latitude":43.862299,
     "geom:longitude":-95.455256,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511875,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fcA4flZwcHx4AKnf0tTLi_43.862299_-95.455256@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603831,
-    "wof:geomhash":"ec77969399ecd0c05b31c7f8c0d188a4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4dc73f23b7cb5d4ab922c149515224a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511875,
+            "region_id":85688727,
+            "venue_id":807109711
+        }
+    ],
     "wof:id":807109711,
-    "wof:lastmodified":1472629222,
+    "wof:lastmodified":1492826890,
     "wof:name":"Kirchner Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

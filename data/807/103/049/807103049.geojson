@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.967181,44.245864,-94.967181,44.245864",
     "geom:latitude":44.245864,
     "geom:longitude":-94.967181,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511473,
+        85633793,
+        85952695,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xL7F5ZJa5dOGMM2KNjBjj_44.245864_-94.967181@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603764,
-    "wof:geomhash":"f16b31946165bece8858d4068ddbdcdc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1c012803b183221059113743bc6645b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511473,
+            "locality_id":85952695,
+            "region_id":85688727,
+            "venue_id":807103049
+        }
+    ],
     "wof:id":807103049,
-    "wof:lastmodified":1472629188,
+    "wof:lastmodified":1492825385,
     "wof:name":"Clayton Beyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.462674,45.027422,-93.462674,45.027422",
     "geom:latitude":45.027422,
     "geom:longitude":-93.462674,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WyE0R8hg6pt215lDsXoLV_45.027422_-93.462674@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589595,
-    "wof:geomhash":"e99a4e4d3f5331eddbc4b64f7037f05f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ede52b7843a3ed1be9d81a3ad7b5a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":789665315
+        }
+    ],
     "wof:id":789665315,
-    "wof:lastmodified":1472629130,
+    "wof:lastmodified":1492812129,
     "wof:name":"Kieser Kare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

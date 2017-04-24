@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.231417,45.268573,-93.231417,45.268573",
     "geom:latitude":45.268573,
     "geom:longitude":-93.231417,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511287,
+        85633793,
+        85953395,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BPrdx05iSRD4UdIvfNc8c_45.268573_-93.231417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599964,
-    "wof:geomhash":"bdc09ddfe983d08c3b825339a19850ab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2650dc63f4bc4d7ebafe377f981d52bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511287,
+            "locality_id":85953395,
+            "region_id":85688727,
+            "venue_id":806656147
+        }
+    ],
     "wof:id":806656147,
-    "wof:lastmodified":1472629633,
+    "wof:lastmodified":1492816077,
     "wof:name":"All Weather Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

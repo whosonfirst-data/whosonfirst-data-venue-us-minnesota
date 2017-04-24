@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.102557,43.639591,-94.102557,43.639591",
     "geom:latitude":43.639591,
     "geom:longitude":-94.102557,
@@ -28,17 +29,34 @@
     "sg:postcode":"56013",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513941,
+        85633793,
+        85952599,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1veATgZcve72lV6OPT7Qf2_43.639591_-94.102557@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593882,
-    "wof:geomhash":"d071c5dd62bd6b9dd3fd2779f09df328",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62ed3053efca8eccd5e851bb185972cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404513941,
+            "locality_id":85952599,
+            "region_id":85688727,
+            "venue_id":790193209
+        }
+    ],
     "wof:id":790193209,
-    "wof:lastmodified":1472629275,
+    "wof:lastmodified":1492833306,
     "wof:name":"El Compadre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

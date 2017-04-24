@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.577332,46.596886,-95.577332,46.596886",
     "geom:latitude":46.596886,
     "geom:longitude":-95.577332,
@@ -32,17 +33,34 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513041,
+        85633793,
+        85968709,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18xoaNqCfMBn7FYmpgFcQa_46.596886_-95.577332@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583605,
-    "wof:geomhash":"72dcf0733b3a17f9806df5be02a9e0c8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11b186593403d567f65f780e81e15242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513041,
+            "locality_id":85968709,
+            "region_id":85688727,
+            "venue_id":773161741
+        }
+    ],
     "wof:id":773161741,
-    "wof:lastmodified":1472629778,
+    "wof:lastmodified":1492803636,
     "wof:name":"Holiday Gas Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

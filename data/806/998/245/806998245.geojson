@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.951872,45.736931,-94.951872,45.736931",
     "geom:latitude":45.736931,
     "geom:longitude":-94.951872,
@@ -31,17 +32,34 @@
         "baker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512153,
+        85633793,
+        85952509,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Sqb2nukqyy9oNqZnjety0_45.736931_-94.951872@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602847,
-    "wof:geomhash":"9efde0d2b90967bf0a799a221e7723e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c7c16b38c8d6d7ade014da1ad567354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512153,
+            "locality_id":85952509,
+            "region_id":85688727,
+            "venue_id":806998245
+        }
+    ],
     "wof:id":806998245,
-    "wof:lastmodified":1472629982,
+    "wof:lastmodified":1492821754,
     "wof:name":"Bart's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

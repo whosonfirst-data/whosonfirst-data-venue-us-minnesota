@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.204815,43.666788,-96.204815,43.666788",
     "geom:latitude":43.666788,
     "geom:longitude":-96.204815,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512779,
+        85633793,
+        85968777,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26WBsj0i3NfRquiEXbci6Z_43.666788_-96.204815@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597716,
-    "wof:geomhash":"3712cd608f15c1c4db7d9d994261cc4d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3112323a8f173901bdd2275e2308ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512779,
+            "locality_id":85968777,
+            "region_id":85688727,
+            "venue_id":806384713
+        }
+    ],
     "wof:id":806384713,
-    "wof:lastmodified":1472629012,
+    "wof:lastmodified":1492820079,
     "wof:name":"Schoeneman Const",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.453828,44.02404,-92.453828,44.02404",
     "geom:latitude":44.02404,
     "geom:longitude":-92.453828,
@@ -32,17 +33,34 @@
         "monument"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kV3ioDNxTHaGpz9DB9dhC_44.024243_-92.453952@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604368,
-    "wof:geomhash":"3d2bc63b0c3bc7824e0d0ed8f4fc9ec7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"698868ce41c60c11cdefed415a04a449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":807159241
+        }
+    ],
     "wof:id":807159241,
-    "wof:lastmodified":1472629291,
+    "wof:lastmodified":1492822965,
     "wof:name":"Oakwood Cemetary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

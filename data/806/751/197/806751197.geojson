@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.651652,44.789561,-93.651652,44.789561",
     "geom:latitude":44.789561,
     "geom:longitude":-93.651652,
@@ -31,17 +32,32 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511691,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zW0tljPhcrqnbGJG1mj79_44.789561_-93.651652@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600776,
-    "wof:geomhash":"4256dca38b67bc8a6b76a5d8be9654c2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"50320f137d5206dedc98ed86bb00440e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511691,
+            "region_id":85688727,
+            "venue_id":806751197
+        }
+    ],
     "wof:id":806751197,
-    "wof:lastmodified":1472629768,
+    "wof:lastmodified":1492814119,
     "wof:name":"Randy Worm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

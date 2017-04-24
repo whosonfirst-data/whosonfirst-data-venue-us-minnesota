@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.400179,44.045294,-96.400179,44.045294",
     "geom:latitude":44.045294,
     "geom:longitude":-96.400179,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513535,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TnNKEy4d98IK4kpMY49OJ_44.045294_-96.400179@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586374,
-    "wof:geomhash":"77dd5e952f9dfa685082bfaa8ea76f1b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"917514c00fb54ace2112bf20e5791050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513535,
+            "region_id":85688727,
+            "venue_id":773524319
+        }
+    ],
     "wof:id":773524319,
-    "wof:lastmodified":1472630077,
+    "wof:lastmodified":1492803712,
     "wof:name":"Douglas Stotz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

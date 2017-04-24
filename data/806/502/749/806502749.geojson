@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.148372,44.921728,-93.148372,44.921728",
     "geom:latitude":44.921728,
     "geom:longitude":-93.148372,
@@ -32,19 +33,38 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800547,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xLanyYCHjRzLtSjyCqTPi_44.921728_-93.148372@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598655,
-    "wof:geomhash":"f75151fa1e50c99749bfce8e775a76ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"478efab1c794af1079ade7e94a90d2a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800547,
+            "region_id":85688727,
+            "venue_id":806502749
+        }
+    ],
     "wof:id":806502749,
-    "wof:lastmodified":1472629313,
+    "wof:lastmodified":1492813960,
     "wof:name":"Infinity Mortgage",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.287059,43.804787,-95.287059,43.804787",
     "geom:latitude":43.804787,
     "geom:longitude":-95.287059,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513615,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JlHZhcxFnIL2nrHgKx4O7_43.804787_-95.287059@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595377,
-    "wof:geomhash":"2ca2e2556a75bc08c4b5b80182095e35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"871a6dbdc44ad8f57d1ceb4f09de389c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513615,
+            "region_id":85688727,
+            "venue_id":790379651
+        }
+    ],
     "wof:id":790379651,
-    "wof:lastmodified":1472629617,
+    "wof:lastmodified":1492836697,
     "wof:name":"Schmidt Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

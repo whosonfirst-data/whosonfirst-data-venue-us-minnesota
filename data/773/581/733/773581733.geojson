@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.877404,47.501282,-94.877404,47.501282",
     "geom:latitude":47.501282,
     "geom:longitude":-94.877404,
@@ -31,17 +32,32 @@
         "conservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511415,
+        85633793,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ADUFYqZLUndPqwFdkBHTj_47.501282_-94.877404@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586815,
-    "wof:geomhash":"302e4ca8c36ac437059837e4d29216d2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1032aa9f3384202567dcc1fae7044f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511415,
+            "region_id":85688727,
+            "venue_id":773581733
+        }
+    ],
     "wof:id":773581733,
-    "wof:lastmodified":1472630101,
+    "wof:lastmodified":1492802115,
     "wof:name":"Soil and Wtr Conservation Dst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.152661,46.416146,-95.152661,46.416146",
     "geom:latitude":46.416146,
     "geom:longitude":-95.152661,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514851,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PynR4Au3GQ1MncBmFVbGb_46.416146_-95.152661@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603494,
-    "wof:geomhash":"1f37fcce931fdaa5d7e9b9aab5f6eb59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18cb22a25b4bd2d16fc5dd1f54ee4002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514851,
+            "region_id":85688727,
+            "venue_id":807074859
+        }
+    ],
     "wof:id":807074859,
-    "wof:lastmodified":1472629097,
+    "wof:lastmodified":1492827109,
     "wof:name":"Johnson Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

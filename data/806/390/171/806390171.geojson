@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.036087,44.174398,-94.036087,44.174398",
     "geom:latitude":44.174398,
     "geom:longitude":-94.036087,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LxfPdkgvTlCWtNz1rSsdR_44.174398_-94.036087@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597753,
-    "wof:geomhash":"0a95bb8f88102c0d039d11694250538e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"910e97c7c54575b95fddc4f61dc7eb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":806390171
+        }
+    ],
     "wof:id":806390171,
-    "wof:lastmodified":1472629024,
+    "wof:lastmodified":1492817819,
     "wof:name":"Colony Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

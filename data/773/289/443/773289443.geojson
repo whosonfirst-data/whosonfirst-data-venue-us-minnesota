@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.109428,44.936578,-93.109428,44.936578",
     "geom:latitude":44.936578,
     "geom:longitude":-93.109428,
@@ -32,19 +33,40 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3whx5U8vujxacyA0yNFdWA_44.936578_-93.109428@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584595,
-    "wof:geomhash":"a82888c9d05c349ad2ff3771c89d6387",
-    "wof:hierarchy":[],
+    "wof:geomhash":"524473d1aec631f13778530088fcc741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":773289443
+        }
+    ],
     "wof:id":773289443,
-    "wof:lastmodified":1472630007,
+    "wof:lastmodified":1492808982,
     "wof:name":"Saint Paul Banner & Sign Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

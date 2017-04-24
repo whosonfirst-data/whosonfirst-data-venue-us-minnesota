@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360147,43.629586,-93.360147,43.629586",
     "geom:latitude":43.629586,
     "geom:longitude":-93.360147,
@@ -40,17 +41,34 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hL1xSCTFAKpytRLpJjeH0_43.629586_-93.360147@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601696,
-    "wof:geomhash":"96948477509ee37c18869a3221b8c259",
-    "wof:hierarchy":[],
+    "wof:geomhash":"229b817a66b432576da15011ab67853c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":806860853
+        }
+    ],
     "wof:id":806860853,
-    "wof:lastmodified":1472629903,
+    "wof:lastmodified":1492819175,
     "wof:name":"Four Seasons Specialty Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.854222,46.166231,-94.854222,46.166231",
     "geom:latitude":46.166231,
     "geom:longitude":-94.854222,
@@ -37,17 +38,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514739,
+        85633793,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49befKNOHIyfNhBsrByVvM_46.166231_-94.854222@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583990,
-    "wof:geomhash":"ada72d994ebdcb07972e0bfe6dc4eb69",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efdadea7a2833a3f2acc26d751ffd209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404514739,
+            "region_id":85688727,
+            "venue_id":773209021
+        }
+    ],
     "wof:id":773209021,
-    "wof:lastmodified":1472629941,
+    "wof:lastmodified":1492803449,
     "wof:name":"Stanley Brichacek",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.658019,43.954587,-92.658019,43.954587",
     "geom:latitude":43.954587,
     "geom:longitude":-92.658019,
@@ -42,17 +43,32 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512595,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CzBkToXTXUSwuuCKwASEH_43.954587_-92.658019@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609024,
-    "wof:geomhash":"f2c833a1445f3138389ee5ff73856c79",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47f9a3b5d683bc72a6bf62a56d09d658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512595,
+            "region_id":85688727,
+            "venue_id":823233515
+        }
+    ],
     "wof:id":823233515,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492828673,
     "wof:name":"Donley Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

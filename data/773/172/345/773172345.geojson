@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.367238,44.964045,-93.367238,44.964045",
     "geom:latitude":44.964045,
     "geom:longitude":-93.367238,
@@ -34,17 +35,34 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UBsOKSse9ZXpmcIf5G6rz_44.964045_-93.367238@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583683,
-    "wof:geomhash":"3685ae0ac255e45ed6fc02c6f7d0d6c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33b5563daf5196438adc41faf0040c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":773172345
+        }
+    ],
     "wof:id":773172345,
-    "wof:lastmodified":1472629778,
+    "wof:lastmodified":1492799637,
     "wof:name":"Starlink Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

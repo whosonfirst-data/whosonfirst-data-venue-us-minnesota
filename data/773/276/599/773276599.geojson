@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.204667,45.5727,-93.204667,45.5727",
     "geom:latitude":45.5727,
     "geom:longitude":-93.204667,
@@ -32,17 +33,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6loWJcDsQe6bRsj4e1qJGT_45.572700_-93.204667@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584490,
-    "wof:geomhash":"56d01aa79ede4a51e33646e47e0af95f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"44c675d4189351541b5614b276574eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":773276599
+        }
+    ],
     "wof:id":773276599,
-    "wof:lastmodified":1472630017,
+    "wof:lastmodified":1492803962,
     "wof:name":"Dollar Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

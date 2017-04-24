@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.469936,43.539622,-95.469936,43.539622",
     "geom:latitude":43.539622,
     "geom:longitude":-95.469936,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510271,
+        85633793,
+        85968663,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cakVhJnuE2o4hQXT72ipJ_43.539622_-95.469936@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584701,
-    "wof:geomhash":"dcedda5ccb115df33181d4440b04d05b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"71444da85ad72c6d5b69e6329d7930ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510271,
+            "locality_id":85968663,
+            "region_id":85688727,
+            "venue_id":773302261
+        }
+    ],
     "wof:id":773302261,
-    "wof:lastmodified":1472630010,
+    "wof:lastmodified":1492808649,
     "wof:name":"Little Tikes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

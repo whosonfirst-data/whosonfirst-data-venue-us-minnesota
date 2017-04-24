@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.854544,45.585565,-94.854544,45.585565",
     "geom:latitude":45.585565,
     "geom:longitude":-94.854544,
@@ -28,17 +29,32 @@
     "sg:postcode":"56352",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512159,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30L1TfMcsGTCkcvEQdPoI0_45.585565_-94.854544@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591335,
-    "wof:geomhash":"190b18df7bc0879b5d908ed520e6c425",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e43cdb1d7a07bff5c78fd30a7468f849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512159,
+            "region_id":85688727,
+            "venue_id":789885583
+        }
+    ],
     "wof:id":789885583,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492810368,
     "wof:name":"Roger Schoenberg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.670448,46.869795,-92.670448,46.869795",
     "geom:latitude":46.869795,
     "geom:longitude":-92.670448,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513585,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q9JgM2NwBqZDfy2dKxEfv_46.869795_-92.670448@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598002,
-    "wof:geomhash":"e84a56e972bd18218740306088c99258",
-    "wof:hierarchy":[],
+    "wof:geomhash":"163d5c2d9c1845f177b3a4bbf9e166de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513585,
+            "region_id":85688727,
+            "venue_id":806419167
+        }
+    ],
     "wof:id":806419167,
-    "wof:lastmodified":1472629081,
+    "wof:lastmodified":1492814051,
     "wof:name":"Clark Builders LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.036829,44.837972,-95.036829,44.837972",
     "geom:latitude":44.837972,
     "geom:longitude":-95.036829,
@@ -31,17 +32,32 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512619,
+        85633793,
+        102087655
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yP3zft8zPwJjSa8qArZYj_44.837972_-95.036829@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594328,
-    "wof:geomhash":"1264527674d37613f879634b11502562",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d50d48a94299006ca288d24e4e24e489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087655,
+            "localadmin_id":404512619,
+            "region_id":85688727,
+            "venue_id":790248463
+        }
+    ],
     "wof:id":790248463,
-    "wof:lastmodified":1472629366,
+    "wof:lastmodified":1492835431,
     "wof:name":"Otter Tail Power Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

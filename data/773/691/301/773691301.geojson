@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.347332,45.397127,-93.347332,45.397127",
     "geom:latitude":45.397127,
     "geom:longitude":-93.347332,
@@ -28,17 +29,34 @@
     "sg:postcode":"55070",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515121,
+        85633793,
+        85953377,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZOprIApzLpeLj5xwKlR4e_45.397127_-93.347332@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587623,
-    "wof:geomhash":"8fdb254110d3cee9f99a91285291561a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"81b32e46232537c4533f810416fbed7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404515121,
+            "locality_id":85953377,
+            "region_id":85688727,
+            "venue_id":773691301
+        }
+    ],
     "wof:id":773691301,
-    "wof:lastmodified":1472630130,
+    "wof:lastmodified":1492805253,
     "wof:name":"Eugene D Clark",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

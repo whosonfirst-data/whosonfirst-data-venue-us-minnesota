@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.543646,47.460678,-92.543646,47.460678",
     "geom:latitude":47.460678,
     "geom:longitude":-92.543646,
@@ -31,17 +32,26 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I4wDrytcF3t8JFn5icwN6_47.460678_-92.543646@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608835,
-    "wof:geomhash":"19b5b3ffc4b8d1c402ffd1f9fa2d7e91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aebee9aeed4f67e10f97741353928145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224835
+        }
+    ],
     "wof:id":823224835,
-    "wof:lastmodified":1472629107,
+    "wof:lastmodified":1492828766,
     "wof:name":"Eveleth Hardware Co",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

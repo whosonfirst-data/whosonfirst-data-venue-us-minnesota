@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.911924,44.526863,-93.911924,44.526863",
     "geom:latitude":44.526863,
     "geom:longitude":-93.911924,
@@ -37,17 +38,34 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514041,
+        85633793,
+        85953289,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gl4hDHBiGsjAzU1yHtJVB_44.526863_-93.911924@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609137,
-    "wof:geomhash":"18a8bf970977bb4151a4f71e34864488",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d846a5d8a8a05ff0e81b9d2f19de46cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514041,
+            "locality_id":85953289,
+            "region_id":85688727,
+            "venue_id":823239285
+        }
+    ],
     "wof:id":823239285,
-    "wof:lastmodified":1472629132,
+    "wof:lastmodified":1492828316,
     "wof:name":"Henderson House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

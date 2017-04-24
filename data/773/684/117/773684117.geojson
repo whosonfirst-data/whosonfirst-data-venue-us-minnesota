@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.613403,43.77479,-95.613403,43.77479",
     "geom:latitude":43.77479,
     "geom:longitude":-95.613403,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512145,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41XDHgaeyFTkXZbhSa7nvF_43.774790_-95.613403@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587571,
-    "wof:geomhash":"3cbf01481bab950245a0f12175391936",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06ab86ce308bde4e243034456485f19c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512145,
+            "region_id":85688727,
+            "venue_id":773684117
+        }
+    ],
     "wof:id":773684117,
-    "wof:lastmodified":1472630126,
+    "wof:lastmodified":1492803537,
     "wof:name":"Lars Hellstrom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

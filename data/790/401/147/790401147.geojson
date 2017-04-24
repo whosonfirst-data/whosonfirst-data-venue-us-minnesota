@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.326972,44.80334,-93.326972,44.80334",
     "geom:latitude":44.80334,
     "geom:longitude":-93.326972,
@@ -31,17 +32,34 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1e093PiAzPH8KOK3ecpYGt_44.803340_-93.326972@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595542,
-    "wof:geomhash":"53b0e289d8811a1afd42244d23d78df0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"518bccdc17a332ca9e47af1480b89cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":790401147
+        }
+    ],
     "wof:id":790401147,
-    "wof:lastmodified":1472629661,
+    "wof:lastmodified":1492833050,
     "wof:name":"Madsen Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

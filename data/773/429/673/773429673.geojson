@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.341335,47.436008,-92.341335,47.436008",
     "geom:latitude":47.436008,
     "geom:longitude":-92.341335,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xXlokxHBVRKzzlTFqzToB_47.436008_-92.341335@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585666,
-    "wof:geomhash":"1f7ebf05f0c3f99dad2e275450abc95d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"134c44f74cd90ba202290f7b97182fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773429673
+        }
+    ],
     "wof:id":773429673,
-    "wof:lastmodified":1472630050,
+    "wof:lastmodified":1492807887,
     "wof:name":"Jacks Carpentry",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

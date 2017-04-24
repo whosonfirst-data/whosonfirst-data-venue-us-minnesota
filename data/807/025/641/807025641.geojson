@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.422553,44.701613,-95.422553,44.701613",
     "geom:latitude":44.701613,
     "geom:longitude":-95.422553,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514579,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0k9547oHoxYwNtGTNyTp0T_44.701613_-95.422553@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603083,
-    "wof:geomhash":"1853f75454559b71c0d7eabc10f8be18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f7b6bf385837d4e6d735f8a1cab6211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404514579,
+            "region_id":85688727,
+            "venue_id":807025641
+        }
+    ],
     "wof:id":807025641,
-    "wof:lastmodified":1472628995,
+    "wof:lastmodified":1492825494,
     "wof:name":"Rock Valle Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

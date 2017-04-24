@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.54664,44.788769,-93.54664,44.788769",
     "geom:latitude":44.788769,
     "geom:longitude":-93.54664,
@@ -32,17 +33,34 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515045,
+        85633793,
+        85952531,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VhHcSnNKdQmQQwE3kTM55_44.788769_-93.546640@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595666,
-    "wof:geomhash":"662a5c9172350459e67108bb03bc4ff9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"48057ce722e3da2e24f13ac78c39d98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515045,
+            "locality_id":85952531,
+            "region_id":85688727,
+            "venue_id":790417919
+        }
+    ],
     "wof:id":790417919,
-    "wof:lastmodified":1472629699,
+    "wof:lastmodified":1492832353,
     "wof:name":"Lynn Honermann",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.526756,47.42725,-92.526756,47.42725",
     "geom:latitude":47.42725,
     "geom:longitude":-92.526756,
@@ -33,17 +34,26 @@
         "academic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VbVXms6ztc1eBeROCIunG_47.427250_-92.526756@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608835,
-    "wof:geomhash":"500ac868ac59c9b6fb22a5c172728345",
-    "wof:hierarchy":[],
+    "wof:geomhash":"639a2f129f550d01e43316f12024a3c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823224819
+        }
+    ],
     "wof:id":823224819,
-    "wof:lastmodified":1472629111,
+    "wof:lastmodified":1492828763,
     "wof:name":"Grj Environmental Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

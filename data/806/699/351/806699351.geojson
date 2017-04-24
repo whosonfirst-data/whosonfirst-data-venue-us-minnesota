@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.087903,44.543306,-94.087903,44.543306",
     "geom:latitude":44.543306,
     "geom:longitude":-94.087903,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513891,
+        85633793,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1McZwmi7xlwNNI52IOQkei_44.543306_-94.087903@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600330,
-    "wof:geomhash":"74916145da411dfd1a8b05218c4c58c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab73d2fcbf64aba431d82f065f6a6176",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404513891,
+            "region_id":85688727,
+            "venue_id":806699351
+        }
+    ],
     "wof:id":806699351,
-    "wof:lastmodified":1472629708,
+    "wof:lastmodified":1492818335,
     "wof:name":"Kls Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

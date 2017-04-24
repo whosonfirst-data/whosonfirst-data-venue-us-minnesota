@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.371543,48.291333,-97.371543,48.291333",
     "geom:latitude":48.291333,
     "geom:longitude":-97.371543,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404479699,
+        85633793,
+        85982491,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SGjXY9r6l24OVhzwKLfa5_48.291333_-97.371543@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593380,
-    "wof:geomhash":"159e993cbaf4d449a5a60e53e9a3a3cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b6a4ee72795cc01dd4bea5e833d73e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404479699,
+            "locality_id":85982491,
+            "region_id":85688525,
+            "venue_id":790133005
+        }
+    ],
     "wof:id":790133005,
-    "wof:lastmodified":1472629177,
+    "wof:lastmodified":1492832821,
     "wof:name":"Super Service Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

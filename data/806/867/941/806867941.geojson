@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.716956,44.295171,-94.716956,44.295171",
     "geom:latitude":44.295171,
     "geom:longitude":-94.716956,
@@ -33,17 +34,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509331,
+        85633793,
+        85952697,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33kiAjF5cmjkhQevBesgGk_44.295171_-94.716956@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601756,
-    "wof:geomhash":"b83eaef799922bd80027195d3e993580",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b3c3bd2052f0c4275590dc332a7d1955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404509331,
+            "locality_id":85952697,
+            "region_id":85688727,
+            "venue_id":806867941
+        }
+    ],
     "wof:id":806867941,
-    "wof:lastmodified":1472629906,
+    "wof:lastmodified":1492819113,
     "wof:name":"Meadow View Townhomes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

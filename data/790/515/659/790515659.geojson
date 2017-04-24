@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.927019,45.129569,-92.927019,45.129569",
     "geom:latitude":45.129569,
     "geom:longitude":-92.927019,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85815391,
+        102191575,
+        404510951,
         85633793,
         85968253,
         102087659,
-        85815391
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462596495,
-    "wof:geomhash":"fd10b1270c94a00f913ea7ac05d332d7",
+    "wof:geomhash":"4d4feeae8418552d88de7e5c0408b3c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087659,
+            "localadmin_id":404510951,
             "locality_id":85968253,
             "neighbourhood_id":85815391,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":790515659,
-    "wof:lastmodified":1472629800,
+    "wof:lastmodified":1492835106,
     "wof:name":"Washcard Systems",
     "wof:parent_id":85815391,
     "wof:placetype":"venue",

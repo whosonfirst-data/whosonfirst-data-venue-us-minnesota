@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.528519,44.969376,-93.528519,44.969376",
     "geom:latitude":44.969376,
     "geom:longitude":-93.528519,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511915,
+        85633793,
+        85969113,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TEyEECr8MHV5v08vEJ7MX_44.969376_-93.528519@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594839,
-    "wof:geomhash":"8db13066b057ec127cde163d998f21be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c75620f823b13c6dd64536d1affd2144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511915,
+            "locality_id":85969113,
+            "region_id":85688727,
+            "venue_id":790308907
+        }
+    ],
     "wof:id":790308907,
-    "wof:lastmodified":1472629509,
+    "wof:lastmodified":1492833108,
     "wof:name":"Hornig Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

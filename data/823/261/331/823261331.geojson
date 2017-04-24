@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.53011,44.857575,-93.53011,44.857575",
     "geom:latitude":44.857575,
     "geom:longitude":-93.53011,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.testquest.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m8bcNouInL5A0cY4Q1gMx_44.857575_-93.530110@1308186500"
     },
     "wof:country":"US",
     "wof:created":1462609576,
-    "wof:geomhash":"65b5f94c2e69feaebc7f8abf2b1b3a35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"86f6e4063b7275836ca96974be92f13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":823261331
+        }
+    ],
     "wof:id":823261331,
-    "wof:lastmodified":1472629220,
+    "wof:lastmodified":1492830014,
     "wof:name":"TestQuest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

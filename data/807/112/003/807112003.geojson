@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.753172,43.714581,-95.753172,43.714581",
     "geom:latitude":43.714581,
     "geom:longitude":-95.753172,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512147,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jYhvAdKwgJLEw1FDmWxOR_43.714581_-95.753172@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603858,
-    "wof:geomhash":"740f64b7b439a29d0494ecaacd65841b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27cacdcf7f4ea4901805a837b1e80c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512147,
+            "region_id":85688727,
+            "venue_id":807112003
+        }
+    ],
     "wof:id":807112003,
-    "wof:lastmodified":1472629198,
+    "wof:lastmodified":1492824721,
     "wof:name":"Den Boer John Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

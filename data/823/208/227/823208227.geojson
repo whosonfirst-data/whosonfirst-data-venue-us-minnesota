@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.39659,44.816888,-93.39659,44.816888",
     "geom:latitude":44.816888,
     "geom:longitude":-93.39659,
@@ -38,17 +39,34 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yWxWqsOKR89T6L8BLeTqr_44.816888_-93.396590@1303262833"
     },
     "wof:country":"US",
     "wof:created":1462608500,
-    "wof:geomhash":"2ce51e8f9bbf45798ba691d29374e730",
-    "wof:hierarchy":[],
+    "wof:geomhash":"422ed11d8f83b11a0e37b1550be56372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823208227
+        }
+    ],
     "wof:id":823208227,
-    "wof:lastmodified":1472629071,
+    "wof:lastmodified":1492829101,
     "wof:name":"Lind Broton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.611858,44.304397,-94.611858,44.304397",
     "geom:latitude":44.304397,
     "geom:longitude":-94.611858,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511595,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jjo9KvsIqyoehO10ldmwq_44.304397_-94.611858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603855,
-    "wof:geomhash":"98813b581f2bb312ddaa13f0feac6134",
-    "wof:hierarchy":[],
+    "wof:geomhash":"657c61a8a770de63248275695ddbb77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511595,
+            "region_id":85688727,
+            "venue_id":807111771
+        }
+    ],
     "wof:id":807111771,
-    "wof:lastmodified":1472629216,
+    "wof:lastmodified":1492827466,
     "wof:name":"Robert Maas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

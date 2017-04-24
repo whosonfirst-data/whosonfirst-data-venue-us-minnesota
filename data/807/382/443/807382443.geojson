@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.274801,44.979604,-93.274801,44.979604",
     "geom:latitude":44.979604,
     "geom:longitude":-93.274801,
@@ -34,14 +35,15 @@
     "sg:website":"www.bradstreetcrafthouse.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867017,
+        1108800095,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606953,
-    "wof:geomhash":"44f68441781059f7aeabf5a17eb85c97",
+    "wof:geomhash":"132eeaf0a0f440698e2a8478c57ba7e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,25 +59,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867017,
-            "region_id":85688727,
-            "venue_id":807382443
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
+            "microhood_id":1108800095,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":807382443
         }
     ],
     "wof:id":807382443,
-    "wof:lastmodified":1472629870,
+    "wof:lastmodified":1492822828,
     "wof:name":"Bradstreet Crafthouse",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

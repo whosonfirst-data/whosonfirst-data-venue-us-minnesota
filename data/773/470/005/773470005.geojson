@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.359512,45.049297,-93.359512,45.049297",
     "geom:latitude":45.049297,
     "geom:longitude":-93.359512,
@@ -33,17 +34,34 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WJxtEyQIWf56r8ygF19C1_45.049297_-93.359512@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585989,
-    "wof:geomhash":"ff4b5fde0dd4ab5db8968d4e5de9250a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77e437b5f5994792ffa1a0dc789dbad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":773470005
+        }
+    ],
     "wof:id":773470005,
-    "wof:lastmodified":1472630063,
+    "wof:lastmodified":1492808100,
     "wof:name":"All Fleet Leasing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

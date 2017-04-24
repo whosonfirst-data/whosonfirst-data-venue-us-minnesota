@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.368762,43.644563,-93.368762,43.644563",
     "geom:latitude":43.644563,
     "geom:longitude":-93.368762,
@@ -31,17 +32,34 @@
         "pump"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YJOTUZb3k8oyPih9KWTfF_43.644563_-93.368762@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587259,
-    "wof:geomhash":"84acbacb6ab211937bc240e4a976a562",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca631e21f0496d64f1a42bd290526a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":773641507
+        }
+    ],
     "wof:id":773641507,
-    "wof:lastmodified":1472630122,
+    "wof:lastmodified":1492804476,
     "wof:name":"V-Ram Solids",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

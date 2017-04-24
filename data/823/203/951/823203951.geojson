@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.328981,44.867705,-93.328981,44.867705",
     "geom:latitude":44.867705,
     "geom:longitude":-93.328981,
@@ -37,17 +38,34 @@
         "contact"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JFtlxf3Zlglseh7QmbgtD_44.867705_-93.328981@1303262832"
     },
     "wof:country":"US",
     "wof:created":1462608424,
-    "wof:geomhash":"47e9482852ef60646f49079aad2c34ac",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c7be489886b5d281d5d6fd3089d2be58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":823203951
+        }
+    ],
     "wof:id":823203951,
-    "wof:lastmodified":1472629065,
+    "wof:lastmodified":1492829035,
     "wof:name":"Medical Contact Lens Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

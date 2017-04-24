@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.975437,44.932341,-92.975437,44.932341",
     "geom:latitude":44.932341,
     "geom:longitude":-92.975437,
@@ -33,17 +34,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514931,
+        85633793,
+        85953535,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xU5t9OIyDWiAiEiLLSRd0_44.932341_-92.975437@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591652,
-    "wof:geomhash":"0811864b1dcf875e59d506400d4d5f16",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b374bafdf78d38b52ae53108a327750e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514931,
+            "locality_id":85953535,
+            "region_id":85688727,
+            "venue_id":789923341
+        }
+    ],
     "wof:id":789923341,
-    "wof:lastmodified":1472629611,
+    "wof:lastmodified":1492813115,
     "wof:name":"Keller Electric Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

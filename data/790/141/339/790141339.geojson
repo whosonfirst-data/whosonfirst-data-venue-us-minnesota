@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.708723,44.067318,-91.708723,44.067318",
     "geom:latitude":44.067318,
     "geom:longitude":-91.708723,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515063,
+        85633793,
+        85969005,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UUPx2Gem8r6WM2eA1y7Og_44.067318_-91.708723@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593442,
-    "wof:geomhash":"caeb2f46112c94b76129895c06f99318",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de920baa7e1f33f7aeccc1a7f782dc04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515063,
+            "locality_id":85969005,
+            "region_id":85688727,
+            "venue_id":790141339
+        }
+    ],
     "wof:id":790141339,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492835852,
     "wof:name":"Connaughty Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

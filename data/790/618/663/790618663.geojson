@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.622009,43.975157,-94.622009,43.975157",
     "geom:latitude":43.975157,
     "geom:longitude":-94.622009,
@@ -31,17 +32,34 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514957,
+        85633793,
+        85968881,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WERRPxxZ6CQ5CDPuuPKf6_43.975157_-94.622009@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597401,
-    "wof:geomhash":"e2dd35545f18b86bcfbbc222f743539e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"644135f981106573c43b92b04f95f32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514957,
+            "locality_id":85968881,
+            "region_id":85688727,
+            "venue_id":790618663
+        }
+    ],
     "wof:id":790618663,
-    "wof:lastmodified":1472629918,
+    "wof:lastmodified":1492837625,
     "wof:name":"Prairie Planning Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

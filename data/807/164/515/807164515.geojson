@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.795187,43.556025,-94.795187,43.556025",
     "geom:latitude":43.556025,
     "geom:longitude":-94.795187,
@@ -28,17 +29,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510181,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vHAHR0NSZTkUX6mrTb6nX_43.556025_-94.795187@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604423,
-    "wof:geomhash":"06e6aa557a8b5f29567bb19838efb7a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c73af89c470ecee46d721a7fb21424bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404510181,
+            "region_id":85688727,
+            "venue_id":807164515
+        }
+    ],
     "wof:id":807164515,
-    "wof:lastmodified":1472629309,
+    "wof:lastmodified":1492823804,
     "wof:name":"Corn Woman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.015203,45.564484,-93.015203,45.564484",
     "geom:latitude":45.564484,
     "geom:longitude":-93.015203,
@@ -26,17 +27,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511115,
+        85633793,
+        85952703,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54rts3lciTJGne35wzfMhq_45.564484_-93.015203@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604466,
-    "wof:geomhash":"071f585ab0100502bb01ae09f5ee434a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dab7b4b71eed4df021dabe00c0f06ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511115,
+            "locality_id":85952703,
+            "region_id":85688727,
+            "venue_id":807168245
+        }
+    ],
     "wof:id":807168245,
-    "wof:lastmodified":1472629320,
+    "wof:lastmodified":1492827033,
     "wof:name":"Kenneth Holmstrom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

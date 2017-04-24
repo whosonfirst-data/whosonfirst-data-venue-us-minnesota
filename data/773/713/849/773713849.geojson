@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.543655,47.460551,-92.543655,47.460551",
     "geom:latitude":47.460551,
     "geom:longitude":-92.543655,
@@ -31,17 +32,26 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tzc6NBSiom8IP8p08EGsD_47.460551_-92.543655@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587829,
-    "wof:geomhash":"c74f9954a135cb27cce738aa30dd3418",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b36e44be2f165370542daa19f300f8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773713849
+        }
+    ],
     "wof:id":773713849,
-    "wof:lastmodified":1472630138,
+    "wof:lastmodified":1492799690,
     "wof:name":"Rice Lake Construction Group",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

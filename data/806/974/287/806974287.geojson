@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.268728,44.303686,-93.268728,44.303686",
     "geom:latitude":44.303686,
     "geom:longitude":-93.268728,
@@ -34,17 +35,34 @@
         "clay"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512629,
+        85633793,
+        85968795,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Fqcj9gTf5Y0gYaeo5HIsU_44.303686_-93.268728@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602644,
-    "wof:geomhash":"1ce1f2e26fc6ed25599669e66dd012bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da2509a2df3c04e38bcc75268c2b9ef3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512629,
+            "locality_id":85968795,
+            "region_id":85688727,
+            "venue_id":806974287
+        }
+    ],
     "wof:id":806974287,
-    "wof:lastmodified":1472629970,
+    "wof:lastmodified":1492814653,
     "wof:name":"Bk Clay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

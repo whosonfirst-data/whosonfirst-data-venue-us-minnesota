@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.64325,44.936668,-93.64325,44.936668",
     "geom:latitude":44.936668,
     "geom:longitude":-93.64325,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509465,
+        85633793,
+        85969117,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yZE09ADCnXHCWgLGin5xy_44.936668_-93.643250@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590248,
-    "wof:geomhash":"ac91c1c097b97da9c8bc1a5527d6e54e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c9050502e4cc186a4aaba6c30106898f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509465,
+            "locality_id":85969117,
+            "region_id":85688727,
+            "venue_id":789749213
+        }
+    ],
     "wof:id":789749213,
-    "wof:lastmodified":1472629299,
+    "wof:lastmodified":1492809085,
     "wof:name":"Automotive Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

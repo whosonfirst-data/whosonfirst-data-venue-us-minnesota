@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.556869,44.912783,-93.556869,44.912783",
     "geom:latitude":44.912783,
     "geom:longitude":-93.556869,
@@ -32,17 +33,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509447,
+        85633793,
+        85969201,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_782GZT4ksodflBO7j1zHrO_44.912783_-93.556869@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601069,
-    "wof:geomhash":"645bc151f1b7a813785258b5654d1bb5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed84914bad1a0174d2b822da45068855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509447,
+            "locality_id":85969201,
+            "region_id":85688727,
+            "venue_id":806786169
+        }
+    ],
     "wof:id":806786169,
-    "wof:lastmodified":1472629823,
+    "wof:lastmodified":1492814860,
     "wof:name":"David Rubenstein & Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

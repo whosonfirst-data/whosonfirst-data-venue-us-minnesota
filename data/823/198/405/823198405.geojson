@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.233465,45.12235,-93.233465,45.12235",
     "geom:latitude":45.12235,
     "geom:longitude":-93.233465,
@@ -37,17 +38,34 @@
     ],
     "sg:website":"http://www.quarve.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511125,
+        85633793,
+        85953013,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ecMA8uM4EbEooVNoP2mjU_45.122350_-93.233465@1303262832"
     },
     "wof:country":"US",
     "wof:created":1462608317,
-    "wof:geomhash":"33309568726673619d5ffae17b18cb92",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53b46d48a0a657c43efb3c2373704bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511125,
+            "locality_id":85953013,
+            "region_id":85688727,
+            "venue_id":823198405
+        }
+    ],
     "wof:id":823198405,
-    "wof:lastmodified":1472629046,
+    "wof:lastmodified":1492830713,
     "wof:name":"United States Seamless",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

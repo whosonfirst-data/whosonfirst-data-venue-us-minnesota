@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.198216,43.77277,-96.198216,43.77277",
     "geom:latitude":43.77277,
     "geom:longitude":-96.198216,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510617,
+        85633793,
+        85968845,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30BZ7QNwc69uUnXqXpbma4_43.772770_-96.198216@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609179,
-    "wof:geomhash":"2d3e419fec6abc2b25e9ab5d86a0cb47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f6402bf3ce372cc91c0b51e7976b8f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404510617,
+            "locality_id":85968845,
+            "region_id":85688727,
+            "venue_id":823241683
+        }
+    ],
     "wof:id":823241683,
-    "wof:lastmodified":1472629162,
+    "wof:lastmodified":1492828890,
     "wof:name":"Fernwood Apts.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

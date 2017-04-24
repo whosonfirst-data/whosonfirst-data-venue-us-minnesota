@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.021846,45.592252,-93.021846,45.592252",
     "geom:latitude":45.592252,
     "geom:longitude":-93.021846,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511115,
+        85633793,
+        85952703,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wraeGg8baoWgisxeyFp29_45.592252_-93.021846@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604430,
-    "wof:geomhash":"f02769926aaf95a7704af5003dbc4907",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fdbc3202c8a4e31367625ae9bcb259a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511115,
+            "locality_id":85952703,
+            "region_id":85688727,
+            "venue_id":807165289
+        }
+    ],
     "wof:id":807165289,
-    "wof:lastmodified":1472629301,
+    "wof:lastmodified":1492824231,
     "wof:name":"Willard Moline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

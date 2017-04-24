@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.369149,44.885777,-94.369149,44.885777",
     "geom:latitude":44.885777,
     "geom:longitude":-94.369149,
@@ -26,17 +27,34 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PWRVuHrVH7afnMVYHgvOl_44.885777_-94.369149@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604881,
-    "wof:geomhash":"fbec300aebe9a07cf3d5c81fef808d0e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28ff451155c882eaecc855edb46631d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":807208483
+        }
+    ],
     "wof:id":807208483,
-    "wof:lastmodified":1472629419,
+    "wof:lastmodified":1492823720,
     "wof:name":"Brad Wick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

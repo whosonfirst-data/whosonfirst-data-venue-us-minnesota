@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.068295,43.572165,-94.068295,43.572165",
     "geom:latitude":43.572165,
     "geom:longitude":-94.068295,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514079,
+        85633793,
+        102087833
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36vKIKAg8JrJ5SaAKhK1GO_43.572165_-94.068295@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584252,
-    "wof:geomhash":"459d2f0ef1e029bfaa325d67f85c0803",
-    "wof:hierarchy":[],
+    "wof:geomhash":"313b302e62b49ac5f986d4c7b6520f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087833,
+            "localadmin_id":404514079,
+            "region_id":85688727,
+            "venue_id":773245335
+        }
+    ],
     "wof:id":773245335,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492802807,
     "wof:name":"Stephen Olson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

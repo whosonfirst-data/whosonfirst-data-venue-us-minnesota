@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.228672,43.616253,-93.228672,43.616253",
     "geom:latitude":43.616253,
     "geom:longitude":-93.228672,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514505,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Z8Y6axx3qBykZ4uOkpVvQ_43.616253_-93.228672@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603773,
-    "wof:geomhash":"de8b556ea910260739e90e94832befef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0232605d108529da5482219e5032b74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514505,
+            "region_id":85688727,
+            "venue_id":807103913
+        }
+    ],
     "wof:id":807103913,
-    "wof:lastmodified":1472629214,
+    "wof:lastmodified":1492825390,
     "wof:name":"Gary Peterson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

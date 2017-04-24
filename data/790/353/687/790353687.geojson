@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.722899,45.676185,-94.722899,45.676185",
     "geom:latitude":45.676185,
     "geom:longitude":-94.722899,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514379,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eVzeuTnX4VkdveC9MIgok_45.676185_-94.722899@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595165,
-    "wof:geomhash":"1e1fd44b6449f3eb3328fdb0fbd13329",
-    "wof:hierarchy":[],
+    "wof:geomhash":"87f0885d261715c635ed7c33907bda0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514379,
+            "region_id":85688727,
+            "venue_id":790353687
+        }
+    ],
     "wof:id":790353687,
-    "wof:lastmodified":1472629557,
+    "wof:lastmodified":1492831873,
     "wof:name":"Gene Blommel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

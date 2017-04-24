@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.304162,45.053666,-93.304162,45.053666",
     "geom:latitude":45.053666,
     "geom:longitude":-93.304162,
@@ -38,17 +39,34 @@
         "tile-contractors"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m5DpcVzhZgM6MRYvG4nUm_45.053666_-93.304162@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608243,
-    "wof:geomhash":"4049e6d51e0f3b0dde80a1142343ce7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc09a9fd18971c88855fecdf43ef7b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":823193377
+        }
+    ],
     "wof:id":823193377,
-    "wof:lastmodified":1472629029,
+    "wof:lastmodified":1492829246,
     "wof:name":"Sterling Stone & Tile Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

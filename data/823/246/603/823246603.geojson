@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.925568,44.420001,-94.925568,44.420001",
     "geom:latitude":44.420001,
     "geom:longitude":-94.925568,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512181,
+        85633793,
+        85968803,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HEmbIJMxZRKVfuWzsK6ar_44.420001_-94.925568@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609270,
-    "wof:geomhash":"d294c2d00a4956cf0860bb25e009a595",
-    "wof:hierarchy":[],
+    "wof:geomhash":"596031e98098285ed8ddbe7bcc8ad23f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512181,
+            "locality_id":85968803,
+            "region_id":85688727,
+            "venue_id":823246603
+        }
+    ],
     "wof:id":823246603,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492829612,
     "wof:name":"Sunrise Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

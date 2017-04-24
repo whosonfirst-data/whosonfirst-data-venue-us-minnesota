@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.437442,44.042825,-95.437442,44.042825",
     "geom:latitude":44.042825,
     "geom:longitude":-95.437442,
@@ -39,17 +40,34 @@
         "churches-lutheran-evangelical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2G0Lco4E7n4vLK9maZ2pLl_44.042825_-95.437442@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609209,
-    "wof:geomhash":"74441b53e93afb98ec1ab5554c3d9c65",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de66d1dad480a6c5b9d87d68be189662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":823243379
+        }
+    ],
     "wof:id":823243379,
-    "wof:lastmodified":1472629137,
+    "wof:lastmodified":1492829338,
     "wof:name":"Grace Lutheran Church Elca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

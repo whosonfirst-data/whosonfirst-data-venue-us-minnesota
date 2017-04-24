@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.057373,48.39783,-96.057373,48.39783",
     "geom:latitude":48.39783,
     "geom:longitude":-96.057373,
@@ -33,17 +34,32 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513675,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BB0QciO4AEcTLvL3plcbB_48.397830_-96.057373@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600881,
-    "wof:geomhash":"8c9a924a9402c000636456f04ac774e6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7171df8d9c69931671aca5021e06c2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404513675,
+            "region_id":85688727,
+            "venue_id":806764439
+        }
+    ],
     "wof:id":806764439,
-    "wof:lastmodified":1472629790,
+    "wof:lastmodified":1492814371,
     "wof:name":"Bukowski Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

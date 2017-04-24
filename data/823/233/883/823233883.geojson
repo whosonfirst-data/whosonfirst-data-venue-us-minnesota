@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.290533,44.181893,-92.290533,44.181893",
     "geom:latitude":44.181893,
     "geom:longitude":-92.290533,
@@ -38,17 +39,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514779,
+        85633793,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Xr8xHSXUWhFrRPmRO49Zf_44.181893_-92.290533@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609031,
-    "wof:geomhash":"04396672a3d65cd83e96d32d3f9570ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"26f929fea8d88544c14663927c4a975c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514779,
+            "region_id":85688727,
+            "venue_id":823233883
+        }
+    ],
     "wof:id":823233883,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492828665,
     "wof:name":"Mammoth Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

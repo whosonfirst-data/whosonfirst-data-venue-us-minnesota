@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.382335,43.963961,-93.382335,43.963961",
     "geom:latitude":43.963961,
     "geom:longitude":-93.382335,
@@ -31,17 +32,32 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510815,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PQoqV5CqR7Yz9AlHrplld_43.963961_-93.382335@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585248,
-    "wof:geomhash":"f66cc7e6b46164e35201938adebe6822",
-    "wof:hierarchy":[],
+    "wof:geomhash":"829f6408888fb9a9efba5d8ef5e4f8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510815,
+            "region_id":85688727,
+            "venue_id":773379617
+        }
+    ],
     "wof:id":773379617,
-    "wof:lastmodified":1472630035,
+    "wof:lastmodified":1492807001,
     "wof:name":"Northern Natural Gas Turbine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

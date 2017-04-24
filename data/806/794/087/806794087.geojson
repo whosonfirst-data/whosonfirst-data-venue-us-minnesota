@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.958756,45.30534,-92.958756,45.30534",
     "geom:latitude":45.30534,
     "geom:longitude":-92.958756,
@@ -32,17 +33,34 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E7MF8rLQGX7oXewcVE53e_45.305340_-92.958756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601135,
-    "wof:geomhash":"932fe96536ad364b37ab8e9d5a41f9d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8d4eed3f87b5a478fd26a5735d5cb3c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":806794087
+        }
+    ],
     "wof:id":806794087,
-    "wof:lastmodified":1472629824,
+    "wof:lastmodified":1492821346,
     "wof:name":"Windy Acres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

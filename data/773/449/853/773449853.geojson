@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.653084,44.978569,-93.653084,44.978569",
     "geom:latitude":44.978569,
     "geom:longitude":-93.653084,
@@ -32,17 +33,45 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511727,
+        85633793,
+        85969195,
+        102087709,
+        404511889,
+        85969155
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AruAVdtUmXhWCdZkHwacd_44.978569_-93.653084@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585835,
-    "wof:geomhash":"ca0f7b50c3b78f838440d1b92b4cb319",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb58ead1148a36f68e8250e4f8869bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511727,
+            "locality_id":85969195,
+            "region_id":85688727,
+            "venue_id":773449853
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511889,
+            "locality_id":85969155,
+            "region_id":85688727,
+            "venue_id":773449853
+        }
+    ],
     "wof:id":773449853,
-    "wof:lastmodified":1472630063,
+    "wof:lastmodified":1492807604,
     "wof:name":"Magnolia 8 Properties LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

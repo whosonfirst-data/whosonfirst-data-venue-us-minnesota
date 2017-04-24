@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.504707,45.670472,-94.504707,45.670472",
     "geom:latitude":45.670472,
     "geom:longitude":-94.504707,
@@ -38,17 +39,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514215,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IzXe7tPbs9kQhUcys4jiZ_45.670472_-94.504707@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609306,
-    "wof:geomhash":"d7e26a37b34702ac7e5d1ea4f421008b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4742f3c2a55db71662ca85314ba04204",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514215,
+            "region_id":85688727,
+            "venue_id":823248529
+        }
+    ],
     "wof:id":823248529,
-    "wof:lastmodified":1472629171,
+    "wof:lastmodified":1492830221,
     "wof:name":"Pro Comm Solutions, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

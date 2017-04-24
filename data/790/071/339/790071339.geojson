@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.222244,44.075263,-93.222244,44.075263",
     "geom:latitude":44.075263,
     "geom:longitude":-93.222244,
@@ -32,17 +33,34 @@
         "convent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g7PnxZ79xuvC5Cw1oLqq7_44.075263_-93.222244@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592900,
-    "wof:geomhash":"32a0c83140df7a15e43000ca3f5d1f2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2e17c5a59001ae51bc04c80fdc0d4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":790071339
+        }
+    ],
     "wof:id":790071339,
-    "wof:lastmodified":1472629074,
+    "wof:lastmodified":1492835734,
     "wof:name":"Sisters Of St Francis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

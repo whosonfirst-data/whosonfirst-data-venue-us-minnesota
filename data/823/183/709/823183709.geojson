@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.383713,44.948312,-93.383713,44.948312",
     "geom:latitude":44.948312,
     "geom:longitude":-93.383713,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a10338867%3a13%3a4859924%3a14%3a0%3a7",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Pasm7rhDIZOE83mCrYlRQ_44.948312_-93.383713@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608116,
-    "wof:geomhash":"95ed839638fcfbab4789489b4e8f80a7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ebbb45efd32b675af771bc877abf22a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823183709
+        }
+    ],
     "wof:id":823183709,
-    "wof:lastmodified":1472629032,
+    "wof:lastmodified":1492830707,
     "wof:name":"Royal Terrace Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

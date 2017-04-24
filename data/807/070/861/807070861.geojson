@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.749456,45.824546,-94.749456,45.824546",
     "geom:latitude":45.824546,
     "geom:longitude":-94.749456,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510863,
+        85633793,
+        85968391,
+        102087725
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ha4tleGXJL8q8mLfrlUZj_45.824546_-94.749456@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603452,
-    "wof:geomhash":"b0a98ce37f4501aee270e3382e9bb9ca",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3aba18a4ac308af7c43a2b9106173d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087725,
+            "localadmin_id":404510863,
+            "locality_id":85968391,
+            "region_id":85688727,
+            "venue_id":807070861
+        }
+    ],
     "wof:id":807070861,
-    "wof:lastmodified":1472629087,
+    "wof:lastmodified":1492827208,
     "wof:name":"Old Mill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

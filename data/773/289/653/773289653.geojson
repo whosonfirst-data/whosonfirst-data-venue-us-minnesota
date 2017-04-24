@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.795345,46.959959,-95.795345,46.959959",
     "geom:latitude":46.959959,
     "geom:longitude":-95.795345,
@@ -32,17 +33,32 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509217,
+        85633793,
+        102087001
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TnNl39jf4wor4YYSBgj7b_46.959959_-95.795345@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584597,
-    "wof:geomhash":"d6e7009c7861af6f46464398e91b1bd9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1fdcff2695ad9d2210dfae773ab39b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087001,
+            "localadmin_id":404509217,
+            "region_id":85688727,
+            "venue_id":773289653
+        }
+    ],
     "wof:id":773289653,
-    "wof:lastmodified":1472630014,
+    "wof:lastmodified":1492808985,
     "wof:name":"Ernest C Anderson Sand-Gravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

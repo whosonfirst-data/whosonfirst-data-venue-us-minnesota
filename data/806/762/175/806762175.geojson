@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.504612,44.075607,-93.504612,44.075607",
     "geom:latitude":44.075607,
     "geom:longitude":-93.504612,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.willsco.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lWu19n07H6wxHQbBPvsGH_44.075607_-93.504612@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600865,
-    "wof:geomhash":"3752c687ce23e61d1e80b563f98cd1fd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79de00b0f78ef8057e6402692c4baf1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":806762175
+        }
+    ],
     "wof:id":806762175,
-    "wof:lastmodified":1472629788,
+    "wof:lastmodified":1492815516,
     "wof:name":"Will's Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

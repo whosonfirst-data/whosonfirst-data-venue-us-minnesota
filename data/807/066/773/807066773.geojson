@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.312605,45.059045,-93.312605,45.059045",
     "geom:latitude":45.059045,
     "geom:longitude":-93.312605,
@@ -31,17 +32,34 @@
         "mattress"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZmqdqOrnPo8RUtIOqajxd_45.059045_-93.312605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603421,
-    "wof:geomhash":"0aef0a990ee3bfd7122703fc4e2504d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5dfbf8179c692439e0c9ca131407114c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":807066773
+        }
+    ],
     "wof:id":807066773,
-    "wof:lastmodified":1472629086,
+    "wof:lastmodified":1492827187,
     "wof:name":"Original Mattress Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

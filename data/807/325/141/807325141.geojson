@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.575414,45.072093,-93.575414,45.072093",
     "geom:latitude":45.072093,
     "geom:longitude":-93.575414,
@@ -38,17 +39,34 @@
         "planner"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511835,
+        85633793,
+        85969223,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yNxWGYHO2TRSUB2s7Bn9S_45.072093_-93.575414@1303262818"
     },
     "wof:country":"US",
     "wof:created":1462606131,
-    "wof:geomhash":"e727198aad5635592f3a294374e2ffa1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"056dbec30988516d2f85dcb79ff96522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511835,
+            "locality_id":85969223,
+            "region_id":85688727,
+            "venue_id":807325141
+        }
+    ],
     "wof:id":807325141,
-    "wof:lastmodified":1472629719,
+    "wof:lastmodified":1492825029,
     "wof:name":"Mark Purcel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

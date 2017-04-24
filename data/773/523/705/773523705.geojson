@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.992507,43.618531,-94.992507,43.618531",
     "geom:latitude":43.618531,
     "geom:longitude":-94.992507,
@@ -28,17 +29,34 @@
     "sg:postcode":"56143",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513599,
+        85633793,
+        85952433,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L9GiDsaknEaAOVruYDhBv_43.618531_-94.992507@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586370,
-    "wof:geomhash":"f31ebe7a2fa10138580df39b6838e1fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3bf39b40f47a0db3bd203de88deb420b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513599,
+            "locality_id":85952433,
+            "region_id":85688727,
+            "venue_id":773523705
+        }
+    ],
     "wof:id":773523705,
-    "wof:lastmodified":1472630081,
+    "wof:lastmodified":1492806140,
     "wof:name":"Jackson Building Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

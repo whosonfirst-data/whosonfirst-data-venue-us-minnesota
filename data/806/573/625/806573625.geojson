@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.010215,44.680136,-94.010215,44.680136",
     "geom:latitude":44.680136,
     "geom:longitude":-94.010215,
@@ -31,17 +32,34 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514039,
+        85633793,
+        85953291,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XzbPEfuVC9sKWYX9lonKr_44.680136_-94.010215@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599262,
-    "wof:geomhash":"b48f3768bd6e9477bf2aa771224da487",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60bef212c438f18d77b6631ef6e67ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514039,
+            "locality_id":85953291,
+            "region_id":85688727,
+            "venue_id":806573625
+        }
+    ],
     "wof:id":806573625,
-    "wof:lastmodified":1472629474,
+    "wof:lastmodified":1492820296,
     "wof:name":"Mathews Sewer System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

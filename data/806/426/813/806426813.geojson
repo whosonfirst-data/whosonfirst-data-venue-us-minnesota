@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.245198,44.195327,-95.245198,44.195327",
     "geom:latitude":44.195327,
     "geom:longitude":-95.245198,
@@ -41,17 +42,32 @@
         "raising"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509505,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oBpGVI9UZhKLMvPbLgJpv_44.195327_-95.245198@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598054,
-    "wof:geomhash":"110728e8d089e2d88de3b6b4ae366683",
-    "wof:hierarchy":[],
+    "wof:geomhash":"feb25a60150450a5bb72c4e3bb2404ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509505,
+            "region_id":85688727,
+            "venue_id":806426813
+        }
+    ],
     "wof:id":806426813,
-    "wof:lastmodified":1472629141,
+    "wof:lastmodified":1492821854,
     "wof:name":"French Agricultural Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

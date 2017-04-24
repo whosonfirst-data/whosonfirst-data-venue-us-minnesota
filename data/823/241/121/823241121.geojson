@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.975113,43.702732,-95.975113,43.702732",
     "geom:latitude":43.702732,
     "geom:longitude":-95.975113,
@@ -36,17 +37,32 @@
         "feeding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512135,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07GxToGIBWmrjeub1ec5ij_43.702732_-95.975113@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609169,
-    "wof:geomhash":"48dde90728ca743f58b50ca2baa8b5d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"001b45c9ec2eed4ad24a1e53accabbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512135,
+            "region_id":85688727,
+            "venue_id":823241121
+        }
+    ],
     "wof:id":823241121,
-    "wof:lastmodified":1472629132,
+    "wof:lastmodified":1492828909,
     "wof:name":"Larry Lenz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.390757,44.93129,-93.390757,44.93129",
     "geom:latitude":44.93129,
     "geom:longitude":-93.390757,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511725,
+        85633793,
+        85969199,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AVYk1EjxAr4hzebSuVpS9_44.931290_-93.390757@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592294,
-    "wof:geomhash":"75cc650228efa5925a35031dabf4c06e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe28dcf9a06d6e3690017879e88714fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511725,
+            "locality_id":85969199,
+            "region_id":85688727,
+            "venue_id":789995759
+        }
+    ],
     "wof:id":789995759,
-    "wof:lastmodified":1472629691,
+    "wof:lastmodified":1492809576,
     "wof:name":"Esq",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.446628,47.139703,-93.446628,47.139703",
     "geom:latitude":47.139703,
     "geom:longitude":-93.446628,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462596540,
-    "wof:geomhash":"a8a5eb9ec8d5bc4947cda9b685faa4f8",
+    "wof:geomhash":"60bb3b2a0f781fbba54d96abc4dfa900",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":790519775,
-    "wof:lastmodified":1472629808,
+    "wof:lastmodified":1492836405,
     "wof:name":"Kopper K Transport",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

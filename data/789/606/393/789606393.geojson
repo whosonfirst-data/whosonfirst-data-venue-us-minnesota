@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.789345,46.369167,-94.789345,46.369167",
     "geom:latitude":46.369167,
     "geom:longitude":-94.789345,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514845,
+        85633793,
+        85968363,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5csEq8JOfAY1KzFiA5JHXP_46.369167_-94.789345@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589113,
-    "wof:geomhash":"082ef4251fa0bbaac9f62f50cb8dbedc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e49b0518dded3a07d1624104a89f1a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514845,
+            "locality_id":85968363,
+            "region_id":85688727,
+            "venue_id":789606393
+        }
+    ],
     "wof:id":789606393,
-    "wof:lastmodified":1472628979,
+    "wof:lastmodified":1492811232,
     "wof:name":"Central Minnesota Builder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

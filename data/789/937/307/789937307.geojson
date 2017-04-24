@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.927452,44.433421,-93.927452,44.433421",
     "geom:latitude":44.433421,
     "geom:longitude":-93.927452,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512369,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tcxndgD03UGhrNtKs2peH_44.433421_-93.927452@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591768,
-    "wof:geomhash":"6e463d8576712fdb45156e9c82099771",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1246609c8057650b9db7b0be19115b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512369,
+            "region_id":85688727,
+            "venue_id":789937307
+        }
+    ],
     "wof:id":789937307,
-    "wof:lastmodified":1472629641,
+    "wof:lastmodified":1492810768,
     "wof:name":"Del's Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.671011,47.025642,-91.671011,47.025642",
     "geom:latitude":47.025642,
     "geom:longitude":-91.671011,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514563,
+        85633793,
+        85968577,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5M54lrZxlBHLZE3oOTCukU_47.025642_-91.671011@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596792,
-    "wof:geomhash":"c56deab6febc521fa5a31740d5db7aba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f6430a65398f14fbe994088cd60f46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514563,
+            "locality_id":85968577,
+            "region_id":85688727,
+            "venue_id":790549593
+        }
+    ],
     "wof:id":790549593,
-    "wof:lastmodified":1472629822,
+    "wof:lastmodified":1492832776,
     "wof:name":"Living Waters Fellowship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

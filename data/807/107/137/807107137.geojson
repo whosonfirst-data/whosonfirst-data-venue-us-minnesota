@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.091725,44.080796,-96.091725,44.080796",
     "geom:latitude":44.080796,
     "geom:longitude":-96.091725,
@@ -30,17 +31,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510439,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aeUR8cmyqzR8U9bhBAIHa_44.080796_-96.091725@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603806,
-    "wof:geomhash":"21f78c4859f2e53572e3d0265e9d303b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bcd02958dbd66a2d43106184a23f8547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510439,
+            "region_id":85688727,
+            "venue_id":807107137
+        }
+    ],
     "wof:id":807107137,
-    "wof:lastmodified":1472629192,
+    "wof:lastmodified":1492824435,
     "wof:name":"Van Eck Glen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.698762,45.707108,-93.698762,45.707108",
     "geom:latitude":45.707108,
     "geom:longitude":-93.698762,
@@ -32,17 +33,32 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512561,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41D594aCoJspOWAYZ7eu6j_45.707108_-93.698762@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609319,
-    "wof:geomhash":"3d36fcafd9cbb9eb86dc6437ba9206aa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2d5cc9188eb4891ce63c7bd0f1e0922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512561,
+            "region_id":85688727,
+            "venue_id":823249245
+        }
+    ],
     "wof:id":823249245,
-    "wof:lastmodified":1472629150,
+    "wof:lastmodified":1492828162,
     "wof:name":"The Next Generation Child Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

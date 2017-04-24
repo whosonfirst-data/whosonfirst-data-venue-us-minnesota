@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.373689,44.545205,-94.373689,44.545205",
     "geom:latitude":44.545205,
     "geom:longitude":-94.373689,
@@ -35,17 +36,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514061,
+        85633793,
+        85953255,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fEdEjkRFtpkDa4uUWlox8_44.545205_-94.373689@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588900,
-    "wof:geomhash":"520de8cdc923da5770ae9e6a13027b49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45355c96df69254b9aadd2507d9617f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514061,
+            "locality_id":85953255,
+            "region_id":85688727,
+            "venue_id":789579659
+        }
+    ],
     "wof:id":789579659,
-    "wof:lastmodified":1472628932,
+    "wof:lastmodified":1492811396,
     "wof:name":"Bruce Froshlich",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

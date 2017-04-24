@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.289421,44.862843,-93.289421,44.862843",
     "geom:latitude":44.862843,
     "geom:longitude":-93.289421,
@@ -47,17 +48,34 @@
     ],
     "sg:website":"http://www.babiesrus.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zrAXoMBP9tpQU7dDWgfAV_44.862843_-93.289421@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608042,
-    "wof:geomhash":"76834858cbbcc9c9ca0275648fb27995",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d00b20dad94bed9440db380ebe3fd3a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823178361
+        }
+    ],
     "wof:id":823178361,
-    "wof:lastmodified":1472629007,
+    "wof:lastmodified":1492829002,
     "wof:name":"Babies \"R\" Us",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

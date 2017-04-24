@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.182985,48.119052,-96.182985,48.119052",
     "geom:latitude":48.119052,
     "geom:longitude":-96.182985,
@@ -33,17 +34,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513225,
+        85633793,
+        85953149,
+        102086989
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2U5I9awzckn3vw6lXGPzOS_48.119052_-96.182985@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584317,
-    "wof:geomhash":"038e8b28eed69319711f45ce276e1c72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec23d7a765f808b86f9b08e7f8a6dc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086989,
+            "localadmin_id":404513225,
+            "locality_id":85953149,
+            "region_id":85688727,
+            "venue_id":773253355
+        }
+    ],
     "wof:id":773253355,
-    "wof:lastmodified":1472629991,
+    "wof:lastmodified":1492803274,
     "wof:name":"Bills Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

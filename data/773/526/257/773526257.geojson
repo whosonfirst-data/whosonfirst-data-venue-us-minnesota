@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.786342,44.446973,-95.786342,44.446973",
     "geom:latitude":44.446973,
     "geom:longitude":-95.786342,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QETfgei5VVTjjiv9nMkbS_44.446973_-95.786342@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586386,
-    "wof:geomhash":"8d9dac1df92d592b871adedbcbbe8297",
-    "wof:hierarchy":[],
+    "wof:geomhash":"442e1a97b0fe37b7205c5d016fa1b597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":773526257
+        }
+    ],
     "wof:id":773526257,
-    "wof:lastmodified":1472630082,
+    "wof:lastmodified":1492806735,
     "wof:name":"Park View Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

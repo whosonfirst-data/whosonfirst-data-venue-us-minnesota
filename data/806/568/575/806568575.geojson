@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.998299,45.578092,-92.998299,45.578092",
     "geom:latitude":45.578092,
     "geom:longitude":-92.998299,
@@ -37,17 +38,34 @@
         "fireplace"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511115,
+        85633793,
+        85952703,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hRlY7cj1beBgvAlE77MHq_45.578092_-92.998299@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599194,
-    "wof:geomhash":"31172e12d56432f574a063e68551afa0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f0b3ada4e3de63a260663f5af1e04185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511115,
+            "locality_id":85952703,
+            "region_id":85688727,
+            "venue_id":806568575
+        }
+    ],
     "wof:id":806568575,
-    "wof:lastmodified":1472629467,
+    "wof:lastmodified":1492820067,
     "wof:name":"Boulder Creek Stone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

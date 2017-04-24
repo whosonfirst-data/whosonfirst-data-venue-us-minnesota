@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.064817,43.966669,-92.064817,43.966669",
     "geom:latitude":43.966669,
     "geom:longitude":-92.064817,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515087,
+        85633793,
+        85968973,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E0jud3mYhLl0EPXzvOtiY_43.966669_-92.064817@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594514,
-    "wof:geomhash":"77698ede63bf65911dcc6d4d49e7301a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0084bf69b9fd84ece047fe1c4d841d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515087,
+            "locality_id":85968973,
+            "region_id":85688727,
+            "venue_id":790271781
+        }
+    ],
     "wof:id":790271781,
-    "wof:lastmodified":1472629463,
+    "wof:lastmodified":1492834187,
     "wof:name":"Country Side Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

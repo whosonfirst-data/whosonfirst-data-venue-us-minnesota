@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.072141,44.166302,-94.072141,44.166302",
     "geom:latitude":44.166302,
     "geom:longitude":-94.072141,
@@ -32,17 +33,32 @@
         "preservation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513327,
+        85633793,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EpRy0iXII2mXjqjeiZL2J_44.166302_-94.072141@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584000,
-    "wof:geomhash":"5a7d740a94ccc42a75afd269b657fef8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f07329f8227738b0b0929f3a73d2d366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513327,
+            "region_id":85688727,
+            "venue_id":773210463
+        }
+    ],
     "wof:id":773210463,
-    "wof:lastmodified":1472629957,
+    "wof:lastmodified":1492801470,
     "wof:name":"Johnson Building Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

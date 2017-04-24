@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.189352,44.067794,-92.189352,44.067794",
     "geom:latitude":44.067794,
     "geom:longitude":-92.189352,
@@ -32,17 +33,32 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510311,
+        85633793,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79cGpk1LueLpCnyhNVmy6J_44.067794_-92.189352@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582900,
-    "wof:geomhash":"251ddb14ac40e4440d647af1510601d7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"99307f38d0a83f49c62db603833698fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404510311,
+            "region_id":85688727,
+            "venue_id":773065613
+        }
+    ],
     "wof:id":773065613,
-    "wof:lastmodified":1472629466,
+    "wof:lastmodified":1492801776,
     "wof:name":"R Home Elder Foster Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

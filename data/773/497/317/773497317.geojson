@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.249114,45.010872,-93.249114,45.010872",
     "geom:latitude":45.010872,
     "geom:longitude":-93.249114,
@@ -32,14 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800097,
         85872675,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872687
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586188,
-    "wof:geomhash":"26474253d7b2cfb8549e1f998d6b4dcb",
+    "wof:geomhash":"787dd810fa1fd5ae1d9be6a90ce8a44d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +57,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
+            "macrohood_id":1108800001,
+            "microhood_id":1108800097,
             "neighbourhood_id":85872675,
-            "region_id":85688727,
-            "venue_id":773497317
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872687,
             "region_id":85688727,
             "venue_id":773497317
         }
     ],
     "wof:id":773497317,
-    "wof:lastmodified":1472630071,
+    "wof:lastmodified":1492799230,
     "wof:name":"Kurt Nowacki Homes Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800097,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

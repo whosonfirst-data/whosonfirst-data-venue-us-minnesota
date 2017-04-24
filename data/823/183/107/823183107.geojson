@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.390502,44.935028,-93.390502,44.935028",
     "geom:latitude":44.935028,
     "geom:longitude":-93.390502,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://www.avada.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AQyBBVK167i9419jDgqIE_44.935028_-93.390502@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608104,
-    "wof:geomhash":"26870c15d3f4985844a779b8d81fea09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2efeda5e0073a0ea127cb08cfc27a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":823183107
+        }
+    ],
     "wof:id":823183107,
-    "wof:lastmodified":1472629018,
+    "wof:lastmodified":1492830693,
     "wof:name":"Avada Audiology & Hearing Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

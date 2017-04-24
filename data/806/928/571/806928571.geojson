@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.217945,43.65432,-96.217945,43.65432",
     "geom:latitude":43.65432,
     "geom:longitude":-96.217945,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512779,
+        85633793,
+        85968777,
+        102087013
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yslX7FjFxt9WQFqihI7tU_43.654320_-96.217945@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602261,
-    "wof:geomhash":"a8714a6e4c16f1c910b3fcbaab5da517",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeaf72faf95200d03e83c5ddd4703be0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087013,
+            "localadmin_id":404512779,
+            "locality_id":85968777,
+            "region_id":85688727,
+            "venue_id":806928571
+        }
+    ],
     "wof:id":806928571,
-    "wof:lastmodified":1472629941,
+    "wof:lastmodified":1492817131,
     "wof:name":"Tom Nergaard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.890943,45.372337,-92.890943,45.372337",
     "geom:latitude":45.372337,
     "geom:longitude":-92.890943,
@@ -32,17 +33,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511109,
+        85633793,
+        85952705,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N2mbelVsjBi4UVQkXEC7D_45.372337_-92.890943@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595033,
-    "wof:geomhash":"c1e7d972fb189549f83edf80e6fc50f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5afd87dfb3810932d7cb62de05a7d02e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511109,
+            "locality_id":85952705,
+            "region_id":85688727,
+            "venue_id":790336093
+        }
+    ],
     "wof:id":790336093,
-    "wof:lastmodified":1472629524,
+    "wof:lastmodified":1492836137,
     "wof:name":"New Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

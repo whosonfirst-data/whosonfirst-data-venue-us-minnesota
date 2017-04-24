@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.215935,47.186147,-96.215935,47.186147",
     "geom:latitude":47.186147,
     "geom:longitude":-96.215935,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510289,
+        85633793,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5weurJ3G2cP1qJQYBX4ci6_47.186147_-96.215935@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604590,
-    "wof:geomhash":"01b79f4884d7c0fb8ca9dfa0e2dacca6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6195c6c2a6f007de5b40792bf05e6ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404510289,
+            "region_id":85688727,
+            "venue_id":807180581
+        }
+    ],
     "wof:id":807180581,
-    "wof:lastmodified":1472629364,
+    "wof:lastmodified":1492822940,
     "wof:name":"Opsahl Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

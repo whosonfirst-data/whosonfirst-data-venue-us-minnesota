@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.292774,47.451285,-92.292774,47.451285",
     "geom:latitude":47.451285,
     "geom:longitude":-92.292774,
@@ -32,17 +33,26 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cu9ITJyz8ALf2yZnsg54n_47.451285_-92.292774@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599567,
-    "wof:geomhash":"db29f30308d88a76f582821f7faf7795",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6a073bf0239610f91de2eb9b231f1452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806610237
+        }
+    ],
     "wof:id":806610237,
-    "wof:lastmodified":1472629546,
+    "wof:lastmodified":1492820213,
     "wof:name":"Charlies Black Dirt",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

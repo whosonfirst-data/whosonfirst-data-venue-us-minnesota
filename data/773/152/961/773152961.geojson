@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.321634,48.900049,-95.321634,48.900049",
     "geom:latitude":48.900049,
     "geom:longitude":-95.321634,
@@ -32,17 +33,34 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513385,
+        85633793,
+        85953417,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76MWNjWQ0MfAZdiBIcvL8U_48.900049_-95.321634@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583545,
-    "wof:geomhash":"b619af1fe6397b02c62ff6175b9aba04",
-    "wof:hierarchy":[],
+    "wof:geomhash":"84519d6cdf00d321117feed6d644c8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404513385,
+            "locality_id":85953417,
+            "region_id":85688727,
+            "venue_id":773152961
+        }
+    ],
     "wof:id":773152961,
-    "wof:lastmodified":1472629729,
+    "wof:lastmodified":1492808511,
     "wof:name":"Carol M King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

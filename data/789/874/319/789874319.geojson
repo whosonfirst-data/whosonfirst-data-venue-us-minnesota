@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.960171,45.695983,-92.960171,45.695983",
     "geom:latitude":45.695983,
     "geom:longitude":-92.960171,
@@ -36,17 +37,32 @@
         "aircraft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511025,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tIvCj9uZxeKQhJBJcGbKj_45.695983_-92.960171@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591219,
-    "wof:geomhash":"09c5a25258b2809ea49203b4dad6f01d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"30fbddb8d33b38a69e0dd0cbd2b7de6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511025,
+            "region_id":85688727,
+            "venue_id":789874319
+        }
+    ],
     "wof:id":789874319,
-    "wof:lastmodified":1472629552,
+    "wof:lastmodified":1492811897,
     "wof:name":"Hawk Aviation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

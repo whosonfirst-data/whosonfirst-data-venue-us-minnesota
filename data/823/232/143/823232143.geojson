@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.424582,43.995028,-92.424582,43.995028",
     "geom:latitude":43.995028,
     "geom:longitude":-92.424582,
@@ -32,17 +33,34 @@
         "nursing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0D0Z6If1ahmoZdigUe9gM4_43.995028_-92.424582@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608999,
-    "wof:geomhash":"103047246e9694aa03e8212b432d0639",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1d0d6f5adde15f9c4eaa74ceccc5f787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823232143
+        }
+    ],
     "wof:id":823232143,
-    "wof:lastmodified":1472629124,
+    "wof:lastmodified":1492828102,
     "wof:name":"Serenity House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

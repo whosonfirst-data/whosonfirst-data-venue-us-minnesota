@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.534936,47.462737,-92.534936,47.462737",
     "geom:latitude":47.462737,
     "geom:longitude":-92.534936,
@@ -31,17 +32,26 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3d4JJePQTLdHep6QYvNoZI_47.462737_-92.534936@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583891,
-    "wof:geomhash":"f5a9f92f47f1a694eacec0e9e295cc4b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df5521781c6303799aa5708de34f8d44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773195047
+        }
+    ],
     "wof:id":773195047,
-    "wof:lastmodified":1472629937,
+    "wof:lastmodified":1492806445,
     "wof:name":"Hilltop Manor",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

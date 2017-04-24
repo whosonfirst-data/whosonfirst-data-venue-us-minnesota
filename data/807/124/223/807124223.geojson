@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.519266,44.355249,-94.519266,44.355249",
     "geom:latitude":44.355249,
     "geom:longitude":-94.519266,
@@ -29,17 +30,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511595,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cxJTlEwmVGrjTDsRP80Th_44.355249_-94.519266@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603993,
-    "wof:geomhash":"cf2fbfbd9a911a5ca91d94322448d449",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6c898bb721fc07c3c4e45f7451ec361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511595,
+            "region_id":85688727,
+            "venue_id":807124223
+        }
+    ],
     "wof:id":807124223,
-    "wof:lastmodified":1472629237,
+    "wof:lastmodified":1492825191,
     "wof:name":"Gitter Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

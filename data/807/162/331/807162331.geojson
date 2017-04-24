@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.811757,45.632733,-93.811757,45.632733",
     "geom:latitude":45.632733,
     "geom:longitude":-93.811757,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511457,
+        85633793,
+        102087131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qxMS7rGburJW2jnLtCLNS_45.632733_-93.811757@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604400,
-    "wof:geomhash":"d5414c1bd8eb250e0f5b39f426151522",
-    "wof:hierarchy":[],
+    "wof:geomhash":"53913e8332127518dc5d8f682e2d93d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087131,
+            "localadmin_id":404511457,
+            "region_id":85688727,
+            "venue_id":807162331
+        }
+    ],
     "wof:id":807162331,
-    "wof:lastmodified":1472629304,
+    "wof:lastmodified":1492827645,
     "wof:name":"Richard Barringer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

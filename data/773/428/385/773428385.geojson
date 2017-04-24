@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.106408,47.413507,-91.106408,47.413507",
     "geom:latitude":47.413507,
     "geom:longitude":-91.106408,
@@ -32,17 +33,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514555,
+        85633793,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07GqsMS4KuNolZal2dG8Np_47.413507_-91.106408@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585650,
-    "wof:geomhash":"ea154afdee6e0f90a8bb737c9422c51c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"583b6b24eceaa77f6894d1d70464dbee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514555,
+            "region_id":85688727,
+            "venue_id":773428385
+        }
+    ],
     "wof:id":773428385,
-    "wof:lastmodified":1472630051,
+    "wof:lastmodified":1492800207,
     "wof:name":"John Myhr Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

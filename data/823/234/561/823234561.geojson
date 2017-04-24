@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.993396,43.701183,-91.993396,43.701183",
     "geom:latitude":43.701183,
     "geom:longitude":-91.993396,
@@ -37,17 +38,32 @@
         "government-state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514121,
+        85633793,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gyQIn5apx4MvlRGliPMtJ_43.701183_-91.993396@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609043,
-    "wof:geomhash":"9f301d5941a17bac36819db459f7edea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f361cc2d45a5ef99618fd5b9b00788bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514121,
+            "region_id":85688727,
+            "venue_id":823234561
+        }
+    ],
     "wof:id":823234561,
-    "wof:lastmodified":1472629158,
+    "wof:lastmodified":1492828390,
     "wof:name":"Minnesota Department Of Natural Resources",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

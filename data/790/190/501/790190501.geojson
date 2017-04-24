@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.751593,47.576162,-95.751593,47.576162",
     "geom:latitude":47.576162,
     "geom:longitude":-95.751593,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0W8ovZASlKEWmCOzXoFhXJ_47.576162_-95.751593@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593857,
-    "wof:geomhash":"26546099d92f17993ff14a02bb675063",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ced73c248ff948d8788dc4db33c149d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":790190501
+        }
+    ],
     "wof:id":790190501,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492834755,
     "wof:name":"Fosston Police Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

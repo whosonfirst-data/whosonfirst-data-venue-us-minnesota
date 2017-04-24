@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.049856,45.383339,-95.049856,45.383339",
     "geom:latitude":45.383339,
     "geom:longitude":-95.049856,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509871,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DSVf8oGaezA8v0EcmApbx_45.383339_-95.049856@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591138,
-    "wof:geomhash":"8e72eb348e46f9a110eafc96420a02c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70a11d8500776c26cab991aed1661950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404509871,
+            "region_id":85688727,
+            "venue_id":789863867
+        }
+    ],
     "wof:id":789863867,
-    "wof:lastmodified":1472629540,
+    "wof:lastmodified":1492812525,
     "wof:name":"Alice M Davis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

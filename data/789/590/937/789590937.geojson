@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.854928,47.44249,-94.854928,47.44249",
     "geom:latitude":47.44249,
     "geom:longitude":-94.854928,
@@ -32,17 +33,34 @@
         "pipeline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511369,
+        85633793,
+        85968949,
+        102087773
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55FgOklHxhFgZDsFz8HfDC_47.442490_-94.854928@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588993,
-    "wof:geomhash":"40e42da1486c249c24e2ce2554e8931a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f273d759c2f9ae3a6ab63fe52847e340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087773,
+            "localadmin_id":404511369,
+            "locality_id":85968949,
+            "region_id":85688727,
+            "venue_id":789590937
+        }
+    ],
     "wof:id":789590937,
-    "wof:lastmodified":1472628962,
+    "wof:lastmodified":1492810852,
     "wof:name":"Enbridge Energy Company Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

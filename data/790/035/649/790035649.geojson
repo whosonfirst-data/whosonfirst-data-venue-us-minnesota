@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.566865,48.07313,-90.566865,48.07313",
     "geom:latitude":48.07313,
     "geom:longitude":-90.566865,
@@ -32,17 +33,32 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509493,
+        85633793,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DB8Fae9fkme1leISppuY4_48.073130_-90.566865@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592611,
-    "wof:geomhash":"4972b976cac4ecccc9d0e483b737ada4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5342e849e8599e1389bda6b730a6a1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404509493,
+            "region_id":85688727,
+            "venue_id":790035649
+        }
+    ],
     "wof:id":790035649,
-    "wof:lastmodified":1472628999,
+    "wof:lastmodified":1492834374,
     "wof:name":"Sapphire Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

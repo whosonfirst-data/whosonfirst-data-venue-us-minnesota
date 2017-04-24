@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.049301,44.789567,-94.049301,44.789567",
     "geom:latitude":44.789567,
     "geom:longitude":-94.049301,
@@ -32,17 +33,32 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512811,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H6EIuJj2rLYXzhvnoVvHw_44.789567_-94.049301@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588148,
-    "wof:geomhash":"8a754f2125f1c5744cc19494c0142f98",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04bc5f800b21a099edf7e73383fab317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512811,
+            "region_id":85688727,
+            "venue_id":773757237
+        }
+    ],
     "wof:id":773757237,
-    "wof:lastmodified":1472630150,
+    "wof:lastmodified":1492806300,
     "wof:name":"Lilienthal Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

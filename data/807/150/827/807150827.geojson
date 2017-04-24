@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.268876,43.920588,-95.268876,43.920588",
     "geom:latitude":43.920588,
     "geom:longitude":-95.268876,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509511,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z6Dv8Imj6865qYw2f9zDQ_43.920588_-95.268876@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604281,
-    "wof:geomhash":"2479b15f56473056fea687cbd5303423",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd71b80263993cb211636746ad94d76e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509511,
+            "region_id":85688727,
+            "venue_id":807150827
+        }
+    ],
     "wof:id":807150827,
-    "wof:lastmodified":1472629304,
+    "wof:lastmodified":1492826792,
     "wof:name":"Tom Anderson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

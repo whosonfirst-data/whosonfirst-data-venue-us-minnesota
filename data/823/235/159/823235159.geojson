@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.753375,43.805525,-91.753375,43.805525",
     "geom:latitude":43.805525,
     "geom:longitude":-91.753375,
@@ -39,17 +40,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.kwiktrip.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515139,
+        85633793,
+        85953139,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XhO5Esc8PMp6gGQ9hiD7r_43.805525_-91.753375@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609053,
-    "wof:geomhash":"ed0b5dd6b766fb1792a3e12a5f740b6e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ef78244cdbaba9e6c306a2a89083fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404515139,
+            "locality_id":85953139,
+            "region_id":85688727,
+            "venue_id":823235159
+        }
+    ],
     "wof:id":823235159,
-    "wof:lastmodified":1472629126,
+    "wof:lastmodified":1492831043,
     "wof:name":"Kwik Trip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.198487,45.572996,-93.198487,45.572996",
     "geom:latitude":45.572996,
     "geom:longitude":-93.198487,
@@ -23,17 +24,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.applebees.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6it9tKTEruy4aZVpdZVuQ7_45.572996_-93.198487@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605181,
-    "wof:geomhash":"ab7b46bfc11623d042f6e027ee78adfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1a4470fa417e0370e1acf6fb40489517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":807236927
+        }
+    ],
     "wof:id":807236927,
-    "wof:lastmodified":1472629479,
+    "wof:lastmodified":1492824654,
     "wof:name":"Applebee's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

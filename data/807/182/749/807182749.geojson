@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.696238,45.797419,-95.696238,45.797419",
     "geom:latitude":45.797419,
     "geom:longitude":-95.696238,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513933,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61aUL3EMaXvSM4KX33JIKA_45.797419_-95.696238@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604613,
-    "wof:geomhash":"22eb4d55d61561310dabdfd1e5da6ee5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a6516fa0d48540f583ef43f59cfc798d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513933,
+            "region_id":85688727,
+            "venue_id":807182749
+        }
+    ],
     "wof:id":807182749,
-    "wof:lastmodified":1472629371,
+    "wof:lastmodified":1492823220,
     "wof:name":"Staples Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

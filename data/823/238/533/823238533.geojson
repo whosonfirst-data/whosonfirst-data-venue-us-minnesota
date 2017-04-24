@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.673463,44.198715,-93.673463,44.198715",
     "geom:latitude":44.198715,
     "geom:longitude":-93.673463,
@@ -39,17 +40,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512213,
+        85633793,
+        85953085,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0euZ8JQu39nZ4Fhc9k5XAI_44.198715_-93.673463@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609123,
-    "wof:geomhash":"28d621995d85a2d68926bbf695d6d3ee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"636451e191f58d18c646a17d2bf0375b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512213,
+            "locality_id":85953085,
+            "region_id":85688727,
+            "venue_id":823238533
+        }
+    ],
     "wof:id":823238533,
-    "wof:lastmodified":1472629148,
+    "wof:lastmodified":1492830629,
     "wof:name":"Elysian Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

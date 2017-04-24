@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.72231,45.401849,-94.72231,45.401849",
     "geom:latitude":45.401849,
     "geom:longitude":-94.72231,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514481,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PJdcFH3XEQEvmGa2O2mc7_45.401849_-94.722310@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604720,
-    "wof:geomhash":"93dfe74758825c1a4a6e32bfbafeb18f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18905fe03530df568cd72856ea3249eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514481,
+            "region_id":85688727,
+            "venue_id":807193113
+        }
+    ],
     "wof:id":807193113,
-    "wof:lastmodified":1472629383,
+    "wof:lastmodified":1492823903,
     "wof:name":"Joe Feldman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

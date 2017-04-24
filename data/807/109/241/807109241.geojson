@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.826324,44.25003,-94.826324,44.25003",
     "geom:latitude":44.25003,
     "geom:longitude":-94.826324,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511591,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EhD6UC7aAzpqB0HTReZLS_44.250030_-94.826324@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603827,
-    "wof:geomhash":"b931828fbcdbd12db2d72b63aef46fba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"305a143381df52b85aac1e8574e53e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511591,
+            "region_id":85688727,
+            "venue_id":807109241
+        }
+    ],
     "wof:id":807109241,
-    "wof:lastmodified":1472629204,
+    "wof:lastmodified":1492826877,
     "wof:name":"David F Schwartz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

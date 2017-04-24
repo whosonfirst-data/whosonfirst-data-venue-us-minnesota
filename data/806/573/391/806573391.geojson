@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.299058,45.052693,-93.299058,45.052693",
     "geom:latitude":45.052693,
     "geom:longitude":-93.299058,
@@ -32,17 +33,34 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511827,
+        85633793,
+        85969235,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0q9cLZha7TYlkcPIhNstlZ_45.052693_-93.299058@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599260,
-    "wof:geomhash":"0fd7650db91bc5f9f9981389cfe75d72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f5d59955014749de57c1ceab103cbf43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511827,
+            "locality_id":85969235,
+            "region_id":85688727,
+            "venue_id":806573391
+        }
+    ],
     "wof:id":806573391,
-    "wof:lastmodified":1472629462,
+    "wof:lastmodified":1492820300,
     "wof:name":"Mark D Klingle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

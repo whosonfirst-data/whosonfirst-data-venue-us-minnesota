@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.553464,45.210276,-93.553464,45.210276",
     "geom:latitude":45.210276,
     "geom:longitude":-93.553464,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47v3GGMz7ClIMMxvNErYgu_45.210276_-93.553464@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603010,
-    "wof:geomhash":"9dfe31e92ce87ca5061ab68654bf8ae5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e900f8bd6ed4abc05b43fd22f7be4ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":807017861
+        }
+    ],
     "wof:id":807017861,
-    "wof:lastmodified":1472628973,
+    "wof:lastmodified":1492823520,
     "wof:name":"Walgreens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

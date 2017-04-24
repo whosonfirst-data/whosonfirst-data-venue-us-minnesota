@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.00862,44.18101,-94.00862,44.18101",
     "geom:latitude":44.18101,
     "geom:longitude":-94.00862,
@@ -33,17 +34,34 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513473,
+        85633793,
+        85953341,
+        102087597
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79A1uedy9FWX5cd8M4SWf7_44.181010_-94.008620@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593440,
-    "wof:geomhash":"3602fd6ab7748227602d6350b6a3e51c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4bb759fbc7dd2fcffc97fb64fb5c39b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087597,
+            "localadmin_id":404513473,
+            "locality_id":85953341,
+            "region_id":85688727,
+            "venue_id":790141051
+        }
+    ],
     "wof:id":790141051,
-    "wof:lastmodified":1472629179,
+    "wof:lastmodified":1492835857,
     "wof:name":"Sign Pro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

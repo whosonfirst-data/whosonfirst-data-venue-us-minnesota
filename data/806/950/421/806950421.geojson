@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.238323,45.023244,-93.238323,45.023244",
     "geom:latitude":45.023244,
     "geom:longitude":-93.238323,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85872687,
+        420781087,
         102191575,
+        1108800001,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        420558757
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602441,
-    "wof:geomhash":"62b1eecaca8c4e9b1fd093184f9ea8c0",
+    "wof:geomhash":"339d3be07ba16ab145ab06e53efd4776",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85872687,
-            "region_id":85688727,
-            "venue_id":806950421
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":420558757,
+            "macrohood_id":1108800001,
+            "neighbourhood_id":420781087,
             "region_id":85688727,
             "venue_id":806950421
         }
     ],
     "wof:id":806950421,
-    "wof:lastmodified":1472629947,
+    "wof:lastmodified":1492820197,
     "wof:name":"Knutson and Sons Builders",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

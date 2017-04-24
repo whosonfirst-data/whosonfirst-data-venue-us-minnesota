@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.569262,47.457618,-92.569262,47.457618",
     "geom:latitude":47.457618,
     "geom:longitude":-92.569262,
@@ -33,17 +34,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zmV7QfZDntDbydosK9LeG_47.457618_-92.569262@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589766,
-    "wof:geomhash":"91ecf2194196c5fa88d163cc8e7d775e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"725d5859bbfc75cd81011b54359f0594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789688445
+        }
+    ],
     "wof:id":789688445,
-    "wof:lastmodified":1472629185,
+    "wof:lastmodified":1492813199,
     "wof:name":"Hometown Electric Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

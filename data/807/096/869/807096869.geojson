@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.516898,45.64021,-94.516898,45.64021",
     "geom:latitude":45.64021,
     "geom:longitude":-94.516898,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514067,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iMIriycetsMTLg3rwyS8t_45.640210_-94.516898@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603684,
-    "wof:geomhash":"96e64a96dda247dea02be78be3586ece",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cdc33ea3a1a46caac90c5ddc17818765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514067,
+            "region_id":85688727,
+            "venue_id":807096869
+        }
+    ],
     "wof:id":807096869,
-    "wof:lastmodified":1472629203,
+    "wof:lastmodified":1492827479,
     "wof:name":"Tom Tomsche",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

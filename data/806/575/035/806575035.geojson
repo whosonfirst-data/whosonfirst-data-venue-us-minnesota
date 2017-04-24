@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.259709,45.903747,-95.259709,45.903747",
     "geom:latitude":45.903747,
     "geom:longitude":-95.259709,
@@ -33,17 +34,32 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513931,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZivTLAXtKozjdOamKhEu7_45.903747_-95.259709@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599272,
-    "wof:geomhash":"b8786eaebe7a1a5480e74d3537c9223e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2114c0f90d8561b43b73f19eec4ad132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513931,
+            "region_id":85688727,
+            "venue_id":806575035
+        }
+    ],
     "wof:id":806575035,
-    "wof:lastmodified":1472629483,
+    "wof:lastmodified":1492814079,
     "wof:name":"Automated Machine Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

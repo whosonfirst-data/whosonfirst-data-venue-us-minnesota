@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.871057,45.152172,-93.871057,45.152172",
     "geom:latitude":45.152172,
     "geom:longitude":-93.871057,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515119,
+        85633793,
+        85968919,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1P7rLODc8fhDEboudMHS3L_45.152172_-93.871057@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600528,
-    "wof:geomhash":"f41f2c12efa00105433ca99b85520b74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0e7c0a97d8ef6430f739701533e7ad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515119,
+            "locality_id":85968919,
+            "region_id":85688727,
+            "venue_id":806723033
+        }
+    ],
     "wof:id":806723033,
-    "wof:lastmodified":1472629750,
+    "wof:lastmodified":1492818946,
     "wof:name":"Douglas & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

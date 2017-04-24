@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.141858,45.964254,-94.141858,45.964254",
     "geom:latitude":45.964254,
     "geom:longitude":-94.141858,
@@ -32,17 +33,32 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512577,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NP8P3RfjqXBVXYDHEM0rG_45.964254_-94.141858@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592324,
-    "wof:geomhash":"86e7ed4462722be07e5c10e11439f602",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a30260dd40f442ce29b5610ba70f2d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512577,
+            "region_id":85688727,
+            "venue_id":789999379
+        }
+    ],
     "wof:id":789999379,
-    "wof:lastmodified":1472629683,
+    "wof:lastmodified":1492811881,
     "wof:name":"United Systems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

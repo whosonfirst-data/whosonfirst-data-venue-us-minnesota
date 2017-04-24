@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.513828,47.295969,-96.513828,47.295969",
     "geom:latitude":47.295969,
     "geom:longitude":-96.513828,
@@ -31,17 +32,34 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510277,
+        85633793,
+        85968341,
+        102087699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UqVKw3e37WfYbpcfuN1pN_47.295969_-96.513828@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591945,
-    "wof:geomhash":"192f4a88e0309ab99fb7f35e8ff3436f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5de9868d05299ef84549e8764520c726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087699,
+            "localadmin_id":404510277,
+            "locality_id":85968341,
+            "region_id":85688727,
+            "venue_id":789953327
+        }
+    ],
     "wof:id":789953327,
-    "wof:lastmodified":1472629647,
+    "wof:lastmodified":1492810537,
     "wof:name":"Marc Bergman Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

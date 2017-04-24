@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.377303,45.087373,-93.377303,45.087373",
     "geom:latitude":45.087373,
     "geom:longitude":-93.377303,
@@ -33,17 +34,34 @@
         "leasing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lto8rgaWgHKj5vtyjyMp5_45.087373_-93.377303@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584970,
-    "wof:geomhash":"071d5a9ee94bc12b135a2e5b8c6adfbc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"223ebc024710378ef1bf52a9afdf2f1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":773338153
+        }
+    ],
     "wof:id":773338153,
-    "wof:lastmodified":1472630014,
+    "wof:lastmodified":1492802306,
     "wof:name":"Ryder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

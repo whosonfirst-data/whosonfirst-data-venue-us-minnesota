@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.131686,45.551628,-94.131686,45.551628",
     "geom:latitude":45.551628,
     "geom:longitude":-94.131686,
@@ -36,17 +37,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tcfzpX3lClUErgy75eswe_45.551628_-94.131686@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462605107,
-    "wof:geomhash":"a124b209b0375796ff406bf3cd950e1e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"154a117210042b6666041e234e12d694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":807228803
+        }
+    ],
     "wof:id":807228803,
-    "wof:lastmodified":1472629455,
+    "wof:lastmodified":1492826529,
     "wof:name":"Knocker's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

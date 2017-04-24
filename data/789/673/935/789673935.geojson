@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.56295,45.209492,-93.56295,45.209492",
     "geom:latitude":45.209492,
     "geom:longitude":-93.56295,
@@ -31,17 +32,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511905,
+        85633793,
+        85969127,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32KmSblhkWTxhMtOzL6maS_45.209492_-93.562950@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589655,
-    "wof:geomhash":"6b9238dc29606e90ca7587cb4baf6bb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"367761fae27a603d30f4161e8505e749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511905,
+            "locality_id":85969127,
+            "region_id":85688727,
+            "venue_id":789673935
+        }
+    ],
     "wof:id":789673935,
-    "wof:lastmodified":1472629161,
+    "wof:lastmodified":1492811577,
     "wof:name":"Pt Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

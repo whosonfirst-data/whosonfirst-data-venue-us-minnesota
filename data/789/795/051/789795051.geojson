@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.457933,47.121942,-96.457933,47.121942",
     "geom:latitude":47.121942,
     "geom:longitude":-96.457933,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877339,
+        102191575,
+        404478877,
         85633793,
-        85969409,
-        102087681,
-        85877339
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,19 +44,21 @@
     },
     "wof:country":"US",
     "wof:created":1462590605,
-    "wof:geomhash":"57763df23952ca3bd8dba4b1bda3f36c",
+    "wof:geomhash":"5b4500c6610c924c8348a5ba2e5f7c87",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102087681,
-            "locality_id":85969409,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
             "neighbourhood_id":85877339,
-            "region_id":85688727,
+            "region_id":85688525,
             "venue_id":789795051
         }
     ],
     "wof:id":789795051,
-    "wof:lastmodified":1472629373,
+    "wof:lastmodified":1492810893,
     "wof:name":"Paul E Klevgaard",
     "wof:parent_id":85877339,
     "wof:placetype":"venue",

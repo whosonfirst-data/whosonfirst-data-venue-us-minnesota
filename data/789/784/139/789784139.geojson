@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.185362,48.197089,-97.185362,48.197089",
     "geom:latitude":48.197089,
     "geom:longitude":-97.185362,
@@ -31,17 +32,32 @@
         "sugar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404482057,
+        85633793,
+        102082057
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CfDTu7jgappBe3sNGt8GW_48.197089_-97.185362@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590521,
-    "wof:geomhash":"e339ac18dae919506e5033d52ae9c79a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd8583bf36e50316e60a0bb1c372bf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082057,
+            "localadmin_id":404482057,
+            "region_id":85688525,
+            "venue_id":789784139
+        }
+    ],
     "wof:id":789784139,
-    "wof:lastmodified":1472629351,
+    "wof:lastmodified":1492812575,
     "wof:name":"American Crystal Sugar Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

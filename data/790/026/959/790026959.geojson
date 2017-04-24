@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.448715,44.027758,-92.448715,44.027758",
     "geom:latitude":44.027758,
     "geom:longitude":-92.448715,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aNqLliXqD2vjWq6yLAZHL_44.027758_-92.448715@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592546,
-    "wof:geomhash":"9f845694382e09d00847ae878be0d807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e18fe3426727552a587b5f0d07301212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790026959
+        }
+    ],
     "wof:id":790026959,
-    "wof:lastmodified":1472628986,
+    "wof:lastmodified":1492831589,
     "wof:name":"Rochester Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

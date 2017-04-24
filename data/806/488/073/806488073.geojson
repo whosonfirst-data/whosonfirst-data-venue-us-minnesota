@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.41819,48.58445,-93.41819,48.58445",
     "geom:latitude":48.58445,
     "geom:longitude":-93.41819,
@@ -31,17 +32,34 @@
         "beverage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QVwJ0rD0La9lCLzc8iYo2_48.584450_-93.418190@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598528,
-    "wof:geomhash":"d45cc8368da6eb35977d290301b7fca2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ce6b0011a611f02780cb06496bf6c373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":806488073
+        }
+    ],
     "wof:id":806488073,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492818539,
     "wof:name":"Pepsi-Cola Bottling Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

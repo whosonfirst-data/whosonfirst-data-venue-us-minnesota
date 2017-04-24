@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.369259,44.894525,-94.369259,44.894525",
     "geom:latitude":44.894525,
     "geom:longitude":-94.369259,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"www.wellsfargo.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NeAINcU3nXh2NDI7fadQR_44.894525_-94.369259@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584410,
-    "wof:geomhash":"4a7e48e3e4c2a29c5038ca968d5fd750",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd85f20bf2f9f31e569e99104066a72d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773266301
+        }
+    ],
     "wof:id":773266301,
-    "wof:lastmodified":1472629992,
+    "wof:lastmodified":1492808665,
     "wof:name":"Wells Fargo Home Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

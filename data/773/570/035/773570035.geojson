@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.074532,43.673917,-92.074532,43.673917",
     "geom:latitude":43.673917,
     "geom:longitude":-92.074532,
@@ -31,17 +32,34 @@
         "produce"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514277,
+        85633793,
+        85953143,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I2j6spyamDSsbKjf6RNJm_43.673917_-92.074532@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586720,
-    "wof:geomhash":"672f76e0f2d58dc650ad6422eb33c02f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"32f6bda33157412bc2884c2a998ae255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514277,
+            "locality_id":85953143,
+            "region_id":85688727,
+            "venue_id":773570035
+        }
+    ],
     "wof:id":773570035,
-    "wof:lastmodified":1472630091,
+    "wof:lastmodified":1492800894,
     "wof:name":"Preston Apple & Berry Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

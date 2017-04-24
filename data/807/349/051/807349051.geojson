@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.042836,44.969665,-94.042836,44.969665",
     "geom:latitude":44.969665,
     "geom:longitude":-94.042836,
@@ -52,17 +53,34 @@
         "guide"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cz6bPtVywZ881WOkgGX5j_44.969665_-94.042836@1303262821"
     },
     "wof:country":"US",
     "wof:created":1462606489,
-    "wof:geomhash":"9ec6105f2c6baa582bfb665c80299c3f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c651f2f9e9d17ceb31bf73a9020cfab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":807349051
+        }
+    ],
     "wof:id":807349051,
-    "wof:lastmodified":1472629793,
+    "wof:lastmodified":1492826416,
     "wof:name":"Guide Publication",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.490334,45.808639,-96.490334,45.808639",
     "geom:latitude":45.808639,
     "geom:longitude":-96.490334,
@@ -28,17 +29,34 @@
     "sg:postcode":"56296",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20tES4YpCw4B6F1P0vnbWg_45.808639_-96.490334@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601294,
-    "wof:geomhash":"2d260ccdd00f346d3650afda414a1786",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a61b748969daf9ae1295590269063095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":806813773
+        }
+    ],
     "wof:id":806813773,
-    "wof:lastmodified":1472629852,
+    "wof:lastmodified":1492819298,
     "wof:name":"Wheaton Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

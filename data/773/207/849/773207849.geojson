@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.371299,44.891181,-94.371299,44.891181",
     "geom:latitude":44.891181,
     "geom:longitude":-94.371299,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iTKwDAl7PO3T7bmxsCMtB_44.891181_-94.371299@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583982,
-    "wof:geomhash":"43015c7d37eff8f95bbadb057f494532",
-    "wof:hierarchy":[],
+    "wof:geomhash":"268a689818d10c8fa2877779c598549c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773207849
+        }
+    ],
     "wof:id":773207849,
-    "wof:lastmodified":1472629952,
+    "wof:lastmodified":1492805112,
     "wof:name":"Dr Steven J Flinn DDS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

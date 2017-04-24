@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.54513,45.04268,-93.54513,45.04268",
     "geom:latitude":45.04268,
     "geom:longitude":-93.54513,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511881,
+        85633793,
+        85969173,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RtuZowtX14p1IO3vFOGQJ_45.042680_-93.545130@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595672,
-    "wof:geomhash":"901081a3a7efca3ab43731b2cf60296c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"41b4a84706a96065e096af4600ca76ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511881,
+            "locality_id":85969173,
+            "region_id":85688727,
+            "venue_id":790418891
+        }
+    ],
     "wof:id":790418891,
-    "wof:lastmodified":1472629698,
+    "wof:lastmodified":1492837497,
     "wof:name":"Matrix Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

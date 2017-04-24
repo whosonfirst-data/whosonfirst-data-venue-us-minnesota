@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.716996,44.071396,-91.716996,44.071396",
     "geom:latitude":44.071396,
     "geom:longitude":-91.716996,
@@ -31,17 +32,34 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515063,
+        85633793,
+        85969005,
+        102087911
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d94ZE2kqjpQyTkBWCoC5p_44.071396_-91.716996@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588777,
-    "wof:geomhash":"45a62be94b6197c47b54252c23419b63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"daba7695d76133d9e5a953ade193e5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087911,
+            "localadmin_id":404515063,
+            "locality_id":85969005,
+            "region_id":85688727,
+            "venue_id":773836743
+        }
+    ],
     "wof:id":773836743,
-    "wof:lastmodified":1472630171,
+    "wof:lastmodified":1492807476,
     "wof:name":"DLK Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

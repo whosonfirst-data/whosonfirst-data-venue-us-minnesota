@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.298225,47.435955,-92.298225,47.435955",
     "geom:latitude":47.435955,
     "geom:longitude":-92.298225,
@@ -36,17 +37,26 @@
         "logging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zBY8pTwfshHR1AxWWVnsW_47.435955_-92.298225@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596223,
-    "wof:geomhash":"cf680df8c532f070baf6230bbc75a9df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f9dce704230c4044e52392e49d09309",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":790483731
+        }
+    ],
     "wof:id":790483731,
-    "wof:lastmodified":1472629771,
+    "wof:lastmodified":1492836731,
     "wof:name":"Jim's Native Wood",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

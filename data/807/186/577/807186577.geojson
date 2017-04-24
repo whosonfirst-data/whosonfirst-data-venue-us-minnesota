@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.176014,48.6875,-97.176014,48.6875",
     "geom:latitude":48.6875,
     "geom:longitude":-97.176014,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688525,
+        102191575,
+        404481461,
+        85633793,
+        102081509
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CmzvhmTXrp6WmqDc1ySFA_48.687500_-97.176014@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604656,
-    "wof:geomhash":"88523ada39312ce74bbdc09ed8638461",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd8d66596ed949cb8cd1a062f81cb0cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081509,
+            "localadmin_id":404481461,
+            "region_id":85688525,
+            "venue_id":807186577
+        }
+    ],
     "wof:id":807186577,
-    "wof:lastmodified":1472629393,
+    "wof:lastmodified":1492826708,
     "wof:name":"Christenson Farms Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

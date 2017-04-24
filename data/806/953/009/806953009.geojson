@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.640221,47.661279,-92.640221,47.661279",
     "geom:latitude":47.661279,
     "geom:longitude":-92.640221,
@@ -31,17 +32,36 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525037,
+        102191575,
+        404513421,
+        85633793,
+        85968453,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77ynZk4FldwfXwUGTvpO64_47.661279_-92.640221@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602468,
-    "wof:geomhash":"40462c4ae1e3af94c59f37a13689b712",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c6441f198a55147e1326425af36f06c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513421,
+            "locality_id":85968453,
+            "neighbourhood_id":420525037,
+            "region_id":85688727,
+            "venue_id":806953009
+        }
+    ],
     "wof:id":806953009,
-    "wof:lastmodified":1472629947,
+    "wof:lastmodified":1492816350,
     "wof:name":"Sand Lake Chapel Inc",
     "wof:parent_id":420525037,
     "wof:placetype":"venue",

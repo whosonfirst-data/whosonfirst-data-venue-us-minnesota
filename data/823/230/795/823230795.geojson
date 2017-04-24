@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.48938,44.083351,-92.48938,44.083351",
     "geom:latitude":44.083351,
     "geom:longitude":-92.48938,
@@ -37,17 +38,34 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rmGSn7hSijVxpoSqhcgAF_44.083351_-92.489380@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608966,
-    "wof:geomhash":"fe5369341c3211e10b95885c2899f5e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4983a8f10d3bedd0b099093e4544d004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823230795
+        }
+    ],
     "wof:id":823230795,
-    "wof:lastmodified":1472629150,
+    "wof:lastmodified":1492829523,
     "wof:name":"Highpoint Service Coordinator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.512664,46.092984,-94.512664,46.092984",
     "geom:latitude":46.092984,
     "geom:longitude":-94.512664,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510043,
+        85633793,
+        85968695,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MWCIYztTPUIaKYM00NnTN_46.092984_-94.512664@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582340,
-    "wof:geomhash":"4a0139f26f577c58e3e2f9bf52adb40d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d304ae871f87fc13e6cd9407e876bbbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404510043,
+            "locality_id":85968695,
+            "region_id":85688727,
+            "venue_id":773011569
+        }
+    ],
     "wof:id":773011569,
-    "wof:lastmodified":1472629004,
+    "wof:lastmodified":1492804141,
     "wof:name":"Randall Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.244214,43.649297,-93.244214,43.649297",
     "geom:latitude":43.649297,
     "geom:longitude":-93.244214,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509659,
+        85633793,
+        85969025,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HwiZoE4toAxrLkwVOOblq_43.649297_-93.244214@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600451,
-    "wof:geomhash":"84d0ee4c14e32039fef6cfcf8b861c75",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d63da6f5bfc223400af6f5457de5a4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509659,
+            "locality_id":85969025,
+            "region_id":85688727,
+            "venue_id":806714209
+        }
+    ],
     "wof:id":806714209,
-    "wof:lastmodified":1472629748,
+    "wof:lastmodified":1492820987,
     "wof:name":"Hayward Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

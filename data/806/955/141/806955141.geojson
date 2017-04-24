@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.775824,45.033643,-93.775824,45.033643",
     "geom:latitude":45.033643,
     "geom:longitude":-93.775824,
@@ -31,17 +32,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515201,
+        85633793,
+        85968915,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Et9dHeS3eqwKYtmvFBKsf_45.033643_-93.775824@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602487,
-    "wof:geomhash":"e2e00bc145a46ec65df8030b8301f9b5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a29899837ab70f9685caf1ddc03873da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515201,
+            "locality_id":85968915,
+            "region_id":85688727,
+            "venue_id":806955141
+        }
+    ],
     "wof:id":806955141,
-    "wof:lastmodified":1472629952,
+    "wof:lastmodified":1492817170,
     "wof:name":"Als Repair Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

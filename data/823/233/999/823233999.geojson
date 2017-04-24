@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.009987,43.555183,-92.009987,43.555183",
     "geom:latitude":43.555183,
     "geom:longitude":-92.009987,
@@ -38,17 +39,34 @@
         "denomination"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nD1DWPGcmOVlBiIq5rY0t_43.555183_-92.009987@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462609033,
-    "wof:geomhash":"a7bd187d146386d6bf4d90b6c9968f4c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c403a1be7b24b17d7233714ca7c071e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":823233999
+        }
+    ],
     "wof:id":823233999,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492828673,
     "wof:name":"Harmony United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

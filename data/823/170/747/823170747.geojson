@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.209943,45.037027,-93.209943,45.037027",
     "geom:latitude":45.037027,
     "geom:longitude":-93.209943,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509463,
+        85633793,
+        85953217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ljB7pcGQEATF8QDGdHzbh_45.037027_-93.209943@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462607937,
-    "wof:geomhash":"947501ecd0613d3d40200a2a081bed84",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2c7aa04c32b00e8715c7abced8a6f69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404509463,
+            "locality_id":85953217,
+            "region_id":85688727,
+            "venue_id":823170747
+        }
+    ],
     "wof:id":823170747,
-    "wof:lastmodified":1472629014,
+    "wof:lastmodified":1492828724,
     "wof:name":"Caravelle Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

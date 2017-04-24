@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.313052,45.362874,-93.313052,45.362874",
     "geom:latitude":45.362874,
     "geom:longitude":-93.313052,
@@ -31,17 +32,34 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511297,
+        85633793,
+        85953381,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x3vTxovPbPn4mDOZsKkRw_45.362874_-93.313052@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605188,
-    "wof:geomhash":"5192efe6ab6cd76b8bce06b89aa7aa46",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f1b595f7226c7618140cd286c6aef5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511297,
+            "locality_id":85953381,
+            "region_id":85688727,
+            "venue_id":807237671
+        }
+    ],
     "wof:id":807237671,
-    "wof:lastmodified":1472629464,
+    "wof:lastmodified":1492827750,
     "wof:name":"Grounded Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

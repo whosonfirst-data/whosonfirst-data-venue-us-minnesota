@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.642921,44.007609,-95.642921,44.007609",
     "geom:latitude":44.007609,
     "geom:longitude":-95.642921,
@@ -36,17 +37,32 @@
         "ranch"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513191,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IOpbFa3ThS50VhBLAtw9V_44.007609_-95.642921@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609175,
-    "wof:geomhash":"c975ce86fa0aee236a3306f529a47fc1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b2e5557ff4e2204d1fafa38ca00b2184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513191,
+            "region_id":85688727,
+            "venue_id":823241451
+        }
+    ],
     "wof:id":823241451,
-    "wof:lastmodified":1472629150,
+    "wof:lastmodified":1492828890,
     "wof:name":"Paul Schreier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.537546,44.811754,-95.537546,44.811754",
     "geom:latitude":44.811754,
     "geom:longitude":-95.537546,
@@ -31,17 +32,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515275,
+        85633793,
+        85952945,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yRlglv0LLXcGv0fWKa3Mo_44.811754_-95.537546@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596272,
-    "wof:geomhash":"e0fb80d37cfb36bfbd057999605454e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3888da20ef3870bcebe28729c29c2c3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515275,
+            "locality_id":85952945,
+            "region_id":85688727,
+            "venue_id":790487461
+        }
+    ],
     "wof:id":790487461,
-    "wof:lastmodified":1472629772,
+    "wof:lastmodified":1492834268,
     "wof:name":"Great Plains Natural Gas Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

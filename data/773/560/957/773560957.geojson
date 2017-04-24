@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.173063,44.456967,-93.173063,44.456967",
     "geom:latitude":44.456967,
     "geom:longitude":-93.173063,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_429HGWTMtyTFAiU456Ugp6_44.456967_-93.173063@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586653,
-    "wof:geomhash":"5ceeb1008be9a084aafc8ffcbd7f96cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8e3588c420cbc27cfc08676ba0cefd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":773560957
+        }
+    ],
     "wof:id":773560957,
-    "wof:lastmodified":1472630096,
+    "wof:lastmodified":1492799574,
     "wof:name":"Park Ridge Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

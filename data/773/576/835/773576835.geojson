@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.848868,44.727375,-92.848868,44.727375",
     "geom:latitude":44.727375,
     "geom:longitude":-92.848868,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509551,
+        85633793,
+        85968251,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tEkbsR48A1qgFFQ32Srce_44.727375_-92.848868@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586780,
-    "wof:geomhash":"f2bd4c23c195144e8982ce9bb01ab4c4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f126363e153f037ccdca3df4c70d80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404509551,
+            "locality_id":85968251,
+            "region_id":85688727,
+            "venue_id":773576835
+        }
+    ],
     "wof:id":773576835,
-    "wof:lastmodified":1472630097,
+    "wof:lastmodified":1492806279,
     "wof:name":"Lb Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

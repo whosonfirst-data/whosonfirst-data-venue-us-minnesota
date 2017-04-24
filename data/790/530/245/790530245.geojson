@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-97.019908,47.927148,-97.019908,47.927148",
     "geom:latitude":47.927148,
     "geom:longitude":-97.019908,
@@ -31,17 +32,34 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513699,
+        85633793,
+        85968415,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WXMZRtXUWsJbMO37lmDQQ_47.927148_-97.019908@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596625,
-    "wof:geomhash":"5d42c8e16c495a747d9155ca9ee606da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3af0eac21f4d0da7989590e1ba597fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513699,
+            "locality_id":85968415,
+            "region_id":85688727,
+            "venue_id":790530245
+        }
+    ],
     "wof:id":790530245,
-    "wof:lastmodified":1472629806,
+    "wof:lastmodified":1492836614,
     "wof:name":"Alliance Relocation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

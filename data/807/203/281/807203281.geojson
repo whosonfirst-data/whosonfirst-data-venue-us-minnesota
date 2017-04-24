@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.797734,45.495136,-95.797734,45.495136",
     "geom:latitude":45.495136,
     "geom:longitude":-95.797734,
@@ -32,17 +33,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510827,
+        85633793,
+        85953233,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EJmEBlAmBnSTZAfGvnmKU_45.495296_-95.798161@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604829,
-    "wof:geomhash":"749856131df287b0c4e00b5292962a5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4a88ba286e1090210dd845b94e7d38fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404510827,
+            "locality_id":85953233,
+            "region_id":85688727,
+            "venue_id":807203281
+        }
+    ],
     "wof:id":807203281,
-    "wof:lastmodified":1472629403,
+    "wof:lastmodified":1492823607,
     "wof:name":"Riverside Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

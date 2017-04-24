@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.360124,45.007739,-93.360124,45.007739",
     "geom:latitude":45.007739,
     "geom:longitude":-93.360124,
@@ -33,17 +34,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511837,
+        85633793,
+        85969217,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qMT3Ho9WXYxR99rapqPWn_45.007739_-93.360124@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462607999,
-    "wof:geomhash":"50cf33703f67c7c3a9771e33082c1f93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec57f7cc2d9da06bc846d66edaa91474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511837,
+            "locality_id":85969217,
+            "region_id":85688727,
+            "venue_id":823175015
+        }
+    ],
     "wof:id":823175015,
-    "wof:lastmodified":1472628991,
+    "wof:lastmodified":1492830062,
     "wof:name":"Liquor Barrel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

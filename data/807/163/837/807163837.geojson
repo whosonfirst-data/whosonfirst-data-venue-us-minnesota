@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.912206,44.397983,-94.912206,44.397983",
     "geom:latitude":44.397983,
     "geom:longitude":-94.912206,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512183,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u1BWfMFeSygEUSvF6MyHm_44.397983_-94.912206@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604417,
-    "wof:geomhash":"1d0c35df1f765d7cb7bb82668a7382f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f770a658ef15ddb9fc732cf2a501602e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404512183,
+            "region_id":85688727,
+            "venue_id":807163837
+        }
+    ],
     "wof:id":807163837,
-    "wof:lastmodified":1472629313,
+    "wof:lastmodified":1492824240,
     "wof:name":"Loren Raddatz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

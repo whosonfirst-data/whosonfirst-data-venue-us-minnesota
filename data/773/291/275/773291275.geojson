@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.601395,45.312663,-95.601395,45.312663",
     "geom:latitude":45.312663,
     "geom:longitude":-95.601395,
@@ -33,17 +34,34 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514649,
+        85633793,
+        85968649,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cQlxT2muPM8KOKGxAMFYO_45.312663_-95.601395@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584609,
-    "wof:geomhash":"aa834cbaf890e82c7d1d92fb9e11a952",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6246f55821dc2a9ec205fd4367a93c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514649,
+            "locality_id":85968649,
+            "region_id":85688727,
+            "venue_id":773291275
+        }
+    ],
     "wof:id":773291275,
-    "wof:lastmodified":1472630005,
+    "wof:lastmodified":1492804074,
     "wof:name":"Dome Pipeline Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

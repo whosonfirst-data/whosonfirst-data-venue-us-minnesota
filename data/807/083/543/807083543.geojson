@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.080671,44.923977,-93.080671,44.923977",
     "geom:latitude":44.923977,
     "geom:longitude":-93.080671,
@@ -28,19 +29,38 @@
     "sg:postcode":"55107",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800545,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jhDC3cQcKsPOmIxIT8C2B_44.923977_-93.080671@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603562,
-    "wof:geomhash":"a6261940e411b6ebcb1f0417173eba94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"31d1a5982ca07a206cd8d586fb1865a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800545,
+            "region_id":85688727,
+            "venue_id":807083543
+        }
+    ],
     "wof:id":807083543,
-    "wof:lastmodified":1472629098,
+    "wof:lastmodified":1492823964,
     "wof:name":"Minnesota Revisor Of Statutes",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

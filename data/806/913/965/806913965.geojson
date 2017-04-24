@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.373641,47.473411,-92.373641,47.473411",
     "geom:latitude":47.473411,
     "geom:longitude":-92.373641,
@@ -31,17 +32,26 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62x7fdYBA0MU22Q5F8eacm_47.473411_-92.373641@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602127,
-    "wof:geomhash":"a3830b9f32b2a410e049dd7b6897de86",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8dc7faa17dbfa37713790e65f89c73a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":806913965
+        }
+    ],
     "wof:id":806913965,
-    "wof:lastmodified":1472629935,
+    "wof:lastmodified":1492820162,
     "wof:name":"Biwabik Township",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.152924,48.691436,-96.152924,48.691436",
     "geom:latitude":48.691436,
     "geom:longitude":-96.152924,
@@ -32,17 +33,32 @@
         "provider"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512919,
+        85633793,
+        102087665
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fRQoyI7TwSlCv77JNREqA_48.691436_-96.152924@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598081,
-    "wof:geomhash":"c521da782f23243e61ab4c295cb98cb6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2ab1be5f6fe3bae4004031233953fc98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087665,
+            "localadmin_id":404512919,
+            "region_id":85688727,
+            "venue_id":806429039
+        }
+    ],
     "wof:id":806429039,
-    "wof:lastmodified":1472629122,
+    "wof:lastmodified":1492821204,
     "wof:name":"Lisa Dvergsten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

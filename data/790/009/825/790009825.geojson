@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.453739,44.700731,-93.453739,44.700731",
     "geom:latitude":44.700731,
     "geom:longitude":-93.453739,
@@ -29,11 +30,13 @@
     "sg:province":"MN",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85850591,
+        102191575,
+        404515039,
         85633793,
         85952535,
         102087041,
-        85850591
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,11 +44,13 @@
     },
     "wof:country":"US",
     "wof:created":1462592406,
-    "wof:geomhash":"3b0bcca0e62ad46138ea6cf1140b37a5",
+    "wof:geomhash":"90f3078c185eba9112e8ea1b97313b63",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087041,
+            "localadmin_id":404515039,
             "locality_id":85952535,
             "neighbourhood_id":85850591,
             "region_id":85688727,
@@ -53,7 +58,7 @@
         }
     ],
     "wof:id":790009825,
-    "wof:lastmodified":1472628953,
+    "wof:lastmodified":1492833442,
     "wof:name":"Brotherhood Maintenance Way",
     "wof:parent_id":85850591,
     "wof:placetype":"venue",

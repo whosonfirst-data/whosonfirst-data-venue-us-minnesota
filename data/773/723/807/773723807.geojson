@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.659917,47.653701,-90.659917,47.653701",
     "geom:latitude":47.653701,
     "geom:longitude":-90.659917,
@@ -28,17 +29,34 @@
     "sg:postcode":"55612",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511841,
+        85633793,
+        85969347,
+        102087727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EloThV1oGW6dYbUCmV58n_47.653701_-90.659917@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587898,
-    "wof:geomhash":"84238522692263a0498cda924506df9e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a779a000abb17b6acba71c33e5184a37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087727,
+            "localadmin_id":404511841,
+            "locality_id":85969347,
+            "region_id":85688727,
+            "venue_id":773723807
+        }
+    ],
     "wof:id":773723807,
-    "wof:lastmodified":1472630142,
+    "wof:lastmodified":1492805293,
     "wof:name":"Moose Country Docks & Lifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

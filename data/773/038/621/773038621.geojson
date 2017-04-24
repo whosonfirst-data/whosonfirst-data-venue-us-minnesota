@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.364673,45.295353,-93.364673,45.295353",
     "geom:latitude":45.295353,
     "geom:longitude":-93.364673,
@@ -38,17 +39,34 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511269,
+        85633793,
+        85953415,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uyfPLhndcPqjuEr9IQH3B_45.295353_-93.364673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582653,
-    "wof:geomhash":"83137991a466e79b33c0b5a172ed101f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b20a6023d4d74f5dfc3979e6434a91be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511269,
+            "locality_id":85953415,
+            "region_id":85688727,
+            "venue_id":773038621
+        }
+    ],
     "wof:id":773038621,
-    "wof:lastmodified":1472629373,
+    "wof:lastmodified":1492808046,
     "wof:name":"Classic Steel Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

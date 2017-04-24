@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.12819,43.688854,-95.12819,43.688854",
     "geom:latitude":43.688854,
     "geom:longitude":-95.12819,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513593,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mEkK4rFBrFXpWnhdnPepB_43.688854_-95.128190@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604706,
-    "wof:geomhash":"f220e30d8650904c5b66fe21e279e2cc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"361acd5a5d91aca99dacc4c31d89b1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513593,
+            "region_id":85688727,
+            "venue_id":807191695
+        }
+    ],
     "wof:id":807191695,
-    "wof:lastmodified":1472629410,
+    "wof:lastmodified":1492826451,
     "wof:name":"Larry Miller Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

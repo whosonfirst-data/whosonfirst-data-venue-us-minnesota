@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.575926,44.543494,-93.575926,44.543494",
     "geom:latitude":44.543494,
     "geom:longitude":-93.575926,
@@ -32,17 +33,34 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515037,
+        85633793,
+        85952425,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZNF7aY401QPlrhubLYbbw_44.543494_-93.575926@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600320,
-    "wof:geomhash":"4f6e3da92f9a254f8b21c73d96cf76ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c2e9328a33f40e941cba247170c217bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515037,
+            "locality_id":85952425,
+            "region_id":85688727,
+            "venue_id":806698139
+        }
+    ],
     "wof:id":806698139,
-    "wof:lastmodified":1472629713,
+    "wof:lastmodified":1492813935,
     "wof:name":"Office Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

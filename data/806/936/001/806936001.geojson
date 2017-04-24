@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.143035,46.442059,-95.143035,46.442059",
     "geom:latitude":46.442059,
     "geom:longitude":-95.143035,
@@ -31,17 +32,34 @@
         "director"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514849,
+        85633793,
+        85968683,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5E2LTotT7G3Ajgy4wMawKJ_46.442059_-95.143035@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602325,
-    "wof:geomhash":"c3ec17d5ca35ef0262e460cf8e601e25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4208e6ef783891a0ba80ea2f5ab26c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514849,
+            "locality_id":85968683,
+            "region_id":85688727,
+            "venue_id":806936001
+        }
+    ],
     "wof:id":806936001,
-    "wof:lastmodified":1472629937,
+    "wof:lastmodified":1492814536,
     "wof:name":"Johnson Memorial Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

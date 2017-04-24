@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.337801,44.402339,-93.337801,44.402339",
     "geom:latitude":44.402339,
     "geom:longitude":-93.337801,
@@ -31,17 +32,32 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512631,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39ICcibmPrlrsTwPfA6quu_44.402339_-93.337801@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605195,
-    "wof:geomhash":"4367b15d7e77b2c09496633972e06ebf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0b9376254fec03124c419417528758de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512631,
+            "region_id":85688727,
+            "venue_id":807238429
+        }
+    ],
     "wof:id":807238429,
-    "wof:lastmodified":1472629509,
+    "wof:lastmodified":1492826909,
     "wof:name":"South Kluzak Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

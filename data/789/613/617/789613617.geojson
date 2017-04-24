@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.013513,45.124789,-95.013513,45.124789",
     "geom:latitude":45.124789,
     "geom:longitude":-95.013513,
@@ -31,17 +32,34 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KPWWpeKmY5CKOcD3BWjgq_45.124789_-95.013513@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589163,
-    "wof:geomhash":"cbd3afb4bab356a37464c26180a263d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c71f3fac673b5b2e9fda79686fb95faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":789613617
+        }
+    ],
     "wof:id":789613617,
-    "wof:lastmodified":1472629011,
+    "wof:lastmodified":1492810316,
     "wof:name":"Planned Parenthood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

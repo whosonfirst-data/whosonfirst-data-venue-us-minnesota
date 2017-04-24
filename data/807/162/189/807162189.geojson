@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.613236,44.365925,-94.613236,44.365925",
     "geom:latitude":44.365925,
     "geom:longitude":-94.613236,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511595,
+        85633793,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qSY0voLao4kFdXQaQewaw_44.365925_-94.613236@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604399,
-    "wof:geomhash":"b0542ee203d61e1ae119bcb57a247f50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88df0cd6e37f5942c5f62fd19d49d9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511595,
+            "region_id":85688727,
+            "venue_id":807162189
+        }
+    ],
     "wof:id":807162189,
-    "wof:lastmodified":1472629289,
+    "wof:lastmodified":1492827642,
     "wof:name":"Tim Vogel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

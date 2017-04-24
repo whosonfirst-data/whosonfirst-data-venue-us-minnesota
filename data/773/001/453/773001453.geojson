@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.150353,45.575702,-94.150353,45.575702",
     "geom:latitude":45.575702,
     "geom:longitude":-94.150353,
@@ -31,17 +32,34 @@
         "truck"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514491,
+        85633793,
+        85952437,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lklj03693YlMJ9O7Om3Mh_45.575702_-94.150353@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582151,
-    "wof:geomhash":"5db3ebac982ca946f58b16f46bb318c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"590d5266eb78ccd45403d7d315a28404",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514491,
+            "locality_id":85952437,
+            "region_id":85688727,
+            "venue_id":773001453
+        }
+    ],
     "wof:id":773001453,
-    "wof:lastmodified":1472628934,
+    "wof:lastmodified":1492803041,
     "wof:name":"Northwest Diesel & Refrig Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

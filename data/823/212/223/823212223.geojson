@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.353891,45.093134,-93.353891,45.093134",
     "geom:latitude":45.093134,
     "geom:longitude":-93.353891,
@@ -36,17 +37,34 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511829,
+        85633793,
+        85969229,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PjeWH71kZKrMmiBdlsOAS_45.093134_-93.353891@1303262834"
     },
     "wof:country":"US",
     "wof:created":1462608572,
-    "wof:geomhash":"86ff26014f977abe0b2061dc7047c576",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e0fb7b774a2d3eeb41ef47b83a63a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511829,
+            "locality_id":85969229,
+            "region_id":85688727,
+            "venue_id":823212223
+        }
+    ],
     "wof:id":823212223,
-    "wof:lastmodified":1472629084,
+    "wof:lastmodified":1492829999,
     "wof:name":"American Tire & Auto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

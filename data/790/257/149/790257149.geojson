@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.174255,44.641758,-93.174255,44.641758",
     "geom:latitude":44.641758,
     "geom:longitude":-93.174255,
@@ -35,17 +36,34 @@
         "grading"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512105,
+        85633793,
+        85968489,
+        102087895
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pJCvQYRuAq6bG4Kn2Ka9R_44.641758_-93.174255@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594399,
-    "wof:geomhash":"c9ad7d91ab3d2e8243250b089564d9dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"caee86604591364c20c53f96120a63c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087895,
+            "localadmin_id":404512105,
+            "locality_id":85968489,
+            "region_id":85688727,
+            "venue_id":790257149
+        }
+    ],
     "wof:id":790257149,
-    "wof:lastmodified":1472629388,
+    "wof:lastmodified":1492835624,
     "wof:name":"Grading Cowan & Excavating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

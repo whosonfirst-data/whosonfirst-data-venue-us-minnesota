@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.387798,45.830056,-95.387798,45.830056",
     "geom:latitude":45.830056,
     "geom:longitude":-95.387798,
@@ -39,17 +40,32 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513909,
+        85633793,
+        102087127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_531mByhAfyoWmSTvMLIX0N_45.830056_-95.387798@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601250,
-    "wof:geomhash":"9214a61beb8d58df6c3e9a2aa09fd88f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db2fb6347bfeefe896eaff2e830ff4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087127,
+            "localadmin_id":404513909,
+            "region_id":85688727,
+            "venue_id":806808043
+        }
+    ],
     "wof:id":806808043,
-    "wof:lastmodified":1472629833,
+    "wof:lastmodified":1492814385,
     "wof:name":"Auto Glass Specialists Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

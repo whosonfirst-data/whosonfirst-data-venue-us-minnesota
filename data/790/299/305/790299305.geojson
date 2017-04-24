@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.24866,44.950427,-93.24866,44.950427",
     "geom:latitude":44.950427,
     "geom:longitude":-93.24866,
@@ -33,14 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559183,
+        1108800089,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872703
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594764,
-    "wof:geomhash":"e59e31717b4609f08143804f98f4d286",
+    "wof:geomhash":"5c47bea6cdfd1948765d2434db7e1b59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,25 +58,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559183,
-            "region_id":85688727,
-            "venue_id":790299305
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872703,
+            "macrohood_id":1108799995,
+            "microhood_id":1108800089,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":790299305
         }
     ],
     "wof:id":790299305,
-    "wof:lastmodified":1472629488,
+    "wof:lastmodified":1492832920,
     "wof:name":"Two Buffalo Roofing Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.573072,43.761398,-95.573072,43.761398",
     "geom:latitude":43.761398,
     "geom:longitude":-95.573072,
@@ -33,17 +34,59 @@
         "cattle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510257,
+        85633793,
+        102087607,
+        404512145,
+        404510261,
+        404512127
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2X1JhUZfta9yHCwcZzcECe_43.761398_-95.573072@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583353,
-    "wof:geomhash":"123d513d06ab3c78f4883877eb210c73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3412a29b26c6a957f95d24646201441c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510257,
+            "region_id":85688727,
+            "venue_id":773129047
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512145,
+            "region_id":85688727,
+            "venue_id":773129047
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404510261,
+            "region_id":85688727,
+            "venue_id":773129047
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512127,
+            "region_id":85688727,
+            "venue_id":773129047
+        }
+    ],
     "wof:id":773129047,
-    "wof:lastmodified":1472629645,
+    "wof:lastmodified":1492805895,
     "wof:name":"Dale Teerink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-91.670925,47.019819,-91.670925,47.019819",
     "geom:latitude":47.019819,
     "geom:longitude":-91.670925,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514563,
+        85633793,
+        85968577,
+        102087863
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mXgvWt9ZwRCZQfWCZm77o_47.019819_-91.670925@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598087,
-    "wof:geomhash":"7721e55dbe7735596ec8a3b5e08bac4e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56810a5f440985ee69bb64797a250073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087863,
+            "localadmin_id":404514563,
+            "locality_id":85968577,
+            "region_id":85688727,
+            "venue_id":806429933
+        }
+    ],
     "wof:id":806429933,
-    "wof:lastmodified":1472629153,
+    "wof:lastmodified":1492821195,
     "wof:name":"Bayview Terrace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

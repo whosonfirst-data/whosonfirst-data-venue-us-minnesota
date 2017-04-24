@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.803964,44.457405,-95.803964,44.457405",
     "geom:latitude":44.457405,
     "geom:longitude":-95.803964,
@@ -32,17 +33,34 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512661,
+        85633793,
+        85968535,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OeE7N67iDQbywAilVEMTW_44.457405_-95.803964@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582228,
-    "wof:geomhash":"c14adcdab53ffe79fc2be12283620f5d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"980e502df762e748d7f6bdc199349f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512661,
+            "locality_id":85968535,
+            "region_id":85688727,
+            "venue_id":773005409
+        }
+    ],
     "wof:id":773005409,
-    "wof:lastmodified":1472628990,
+    "wof:lastmodified":1492802396,
     "wof:name":"Paul's Automotive Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

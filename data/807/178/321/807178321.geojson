@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.526315,46.717739,-96.526315,46.717739",
     "geom:latitude":46.717739,
     "geom:longitude":-96.526315,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85877349,
+        102191575,
+        404511077,
         85633793,
         85968969,
         102087681,
-        85877349
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,11 +50,13 @@
     },
     "wof:country":"US",
     "wof:created":1462604568,
-    "wof:geomhash":"4bf31c8c73197c925e1f78c129406680",
+    "wof:geomhash":"1b9809dcd152307c0fe61d279f0e62ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087681,
+            "localadmin_id":404511077,
             "locality_id":85968969,
             "neighbourhood_id":85877349,
             "region_id":85688727,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":807178321,
-    "wof:lastmodified":1472629348,
+    "wof:lastmodified":1492823575,
     "wof:name":"Harold Lemke",
     "wof:parent_id":85877349,
     "wof:placetype":"venue",

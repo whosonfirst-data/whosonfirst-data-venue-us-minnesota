@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.506762,44.070059,-93.506762,44.070059",
     "geom:latitude":44.070059,
     "geom:longitude":-93.506762,
@@ -31,17 +32,34 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514875,
+        85633793,
+        85953065,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s44MCGjBIravv8SszS9XF_44.070059_-93.506762@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592207,
-    "wof:geomhash":"d61ffbd9019987c5e4ab843998a2d7a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aac7dd7f907a684ba3e8a1184e759372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404514875,
+            "locality_id":85953065,
+            "region_id":85688727,
+            "venue_id":789984771
+        }
+    ],
     "wof:id":789984771,
-    "wof:lastmodified":1472629678,
+    "wof:lastmodified":1492809993,
     "wof:name":"Shell Food Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

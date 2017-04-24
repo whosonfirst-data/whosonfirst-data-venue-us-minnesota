@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.12813,44.507656,-95.12813,44.507656",
     "geom:latitude":44.507656,
     "geom:longitude":-95.12813,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510557,
+        85633793,
+        102087799
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68Ijomo1NjGgB0O6Vc7m8K_44.507656_-95.128130@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604634,
-    "wof:geomhash":"1fe0ce0c31d81726cce0742406989080",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f39ea9fc7c70d8a7ae4d1f13d1d14a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087799,
+            "localadmin_id":404510557,
+            "region_id":85688727,
+            "venue_id":807184533
+        }
+    ],
     "wof:id":807184533,
-    "wof:lastmodified":1472629365,
+    "wof:lastmodified":1492825598,
     "wof:name":"Prairie Winds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

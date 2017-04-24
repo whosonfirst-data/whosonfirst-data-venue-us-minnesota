@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.421616,45.084877,-93.421616,45.084877",
     "geom:latitude":45.084877,
     "geom:longitude":-93.421616,
@@ -28,17 +29,34 @@
     "sg:postcode":"55369",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eWdBspGKzG3UDdCVDoQl6_45.084877_-93.421616@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589726,
-    "wof:geomhash":"3fdc5fff0a8b16d8fa205e137b1e0cde",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ba4279b4baaf3d6fbd068d10cc426d8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":789683349
+        }
+    ],
     "wof:id":789683349,
-    "wof:lastmodified":1472629179,
+    "wof:lastmodified":1492809659,
     "wof:name":"Bayer Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

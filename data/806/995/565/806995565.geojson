@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.267557,44.980488,-93.267557,44.980488",
     "geom:latitude":44.980488,
     "geom:longitude":-93.267557,
@@ -30,14 +31,15 @@
     "sg:website":"www.ticsales.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85867017,
+        1108800095,
+        85872619,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872619
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602817,
-    "wof:geomhash":"2429670d59311e79c525268305dad4cc",
+    "wof:geomhash":"89513ac8038ef4619e2d9ad369cbe4d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,25 +55,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":85867017,
-            "region_id":85688727,
-            "venue_id":806995565
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
+            "macrohood_id":1108799999,
+            "microhood_id":1108800095,
             "neighbourhood_id":85872619,
             "region_id":85688727,
             "venue_id":806995565
         }
     ],
     "wof:id":806995565,
-    "wof:lastmodified":1472629983,
+    "wof:lastmodified":1492814600,
     "wof:name":"Upland Tic Sales",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800095,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

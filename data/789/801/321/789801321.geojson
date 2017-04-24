@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.838498,44.958642,-93.838498,44.958642",
     "geom:latitude":44.958642,
     "geom:longitude":-93.838498,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IvMpayi4FqyjC1Kgk6xLh_44.958642_-93.838498@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590651,
-    "wof:geomhash":"cb42d741faf174bbdd6009143adb647d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28bd4960a9095097b0026c27ef9c26eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":789801321
+        }
+    ],
     "wof:id":789801321,
-    "wof:lastmodified":1472629384,
+    "wof:lastmodified":1492812011,
     "wof:name":"Loehrs Brothers Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

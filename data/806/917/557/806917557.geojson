@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.130493,45.665905,-93.130493,45.665905",
     "geom:latitude":45.665905,
     "geom:longitude":-93.130493,
@@ -31,17 +32,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509101,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fHjrLiYRbVNg7KxX79TZF_45.665905_-93.130493@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602154,
-    "wof:geomhash":"e18ddca08835d12a2ec0b23b62b78338",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4ad9e022fdfd0a5f786eeab7bbbcc58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509101,
+            "region_id":85688727,
+            "venue_id":806917557
+        }
+    ],
     "wof:id":806917557,
-    "wof:lastmodified":1472629935,
+    "wof:lastmodified":1492815045,
     "wof:name":"Steve Eklund",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

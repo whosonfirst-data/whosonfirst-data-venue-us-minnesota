@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.349673,45.180025,-95.349673,45.180025",
     "geom:latitude":45.180025,
     "geom:longitude":-95.349673,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514679,
+        85633793,
+        102087023
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZgIe0crMKyNzTZcARsR9P_45.180025_-95.349673@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604282,
-    "wof:geomhash":"85c1ed9ad62b3f4153841eda99228007",
-    "wof:hierarchy":[],
+    "wof:geomhash":"880e0d9fc0425fe343a4899ac48106c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087023,
+            "localadmin_id":404514679,
+            "region_id":85688727,
+            "venue_id":807150941
+        }
+    ],
     "wof:id":807150941,
-    "wof:lastmodified":1472629306,
+    "wof:lastmodified":1492826791,
     "wof:name":"Mitchell Tofte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

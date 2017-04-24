@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.414754,44.050721,-94.414754,44.050721",
     "geom:latitude":44.050721,
     "geom:longitude":-94.414754,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514943,
+        85633793,
+        85968901,
+        102087841
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33mVk8rhw87c4l5G6vBdrH_44.050721_-94.414754@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585007,
-    "wof:geomhash":"9d8bb4d08c86302a230faf6fc5e312e7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"24ab242ef7a59444ed5d4b0493a7f0da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087841,
+            "localadmin_id":404514943,
+            "locality_id":85968901,
+            "region_id":85688727,
+            "venue_id":773344199
+        }
+    ],
     "wof:id":773344199,
-    "wof:lastmodified":1472630021,
+    "wof:lastmodified":1492806211,
     "wof:name":"Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

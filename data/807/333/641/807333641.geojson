@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.362972,45.253495,-94.362972,45.253495",
     "geom:latitude":45.253495,
     "geom:longitude":-94.362972,
@@ -31,17 +32,32 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512405,
+        85633793,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xm3koAupFaaBlAxiACB9U_45.253495_-94.362972@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606245,
-    "wof:geomhash":"1b7f34957fbb988b057a237a37e4b081",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd770ea545a57407585329081e917f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512405,
+            "region_id":85688727,
+            "venue_id":807333641
+        }
+    ],
     "wof:id":807333641,
-    "wof:lastmodified":1472629740,
+    "wof:lastmodified":1492826232,
     "wof:name":"Ostmark Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

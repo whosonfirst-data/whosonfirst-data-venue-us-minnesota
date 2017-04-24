@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.528005,44.024033,-92.528005,44.024033",
     "geom:latitude":44.024033,
     "geom:longitude":-92.528005,
@@ -28,17 +29,34 @@
     "sg:postcode":"55901",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DKtyA61fnB24z2UiJLFln_44.024033_-92.528005@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593613,
-    "wof:geomhash":"58899ee72ae0b41181849ffab4e8f43d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"610b1706fd4a97e49d7ecbca41f6cfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":790161827
+        }
+    ],
     "wof:id":790161827,
-    "wof:lastmodified":1472629261,
+    "wof:lastmodified":1492834329,
     "wof:name":"A & H Pharmacist Conslt Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

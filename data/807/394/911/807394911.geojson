@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.261149,44.948363,-93.261149,44.948363",
     "geom:latitude":44.948363,
     "geom:longitude":-93.261149,
@@ -39,14 +40,15 @@
     "sg:website":"www.tastebudtart.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420559175,
+        1108800089,
+        420781061,
         102191575,
+        1108799995,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85872703
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607160,
-    "wof:geomhash":"3d05ce1bf7519b2875941a96c67ccf1a",
+    "wof:geomhash":"2f1bc94987d14b44436890d96a3b7a68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,25 +64,17 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420559175,
-            "region_id":85688727,
-            "venue_id":807394911
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85872703,
+            "macrohood_id":1108799995,
+            "microhood_id":1108800089,
+            "neighbourhood_id":420781061,
             "region_id":85688727,
             "venue_id":807394911
         }
     ],
     "wof:id":807394911,
-    "wof:lastmodified":1472629894,
+    "wof:lastmodified":1492823831,
     "wof:name":"Tastebud",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800089,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.526679,44.532466,-94.526679,44.532466",
     "geom:latitude":44.532466,
     "geom:longitude":-94.526679,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514035,
+        85633793,
+        85953309,
+        102087775
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ys6nvVGqywrW5PDnq3xb6_44.532466_-94.526679@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597864,
-    "wof:geomhash":"e4c3951b15b65316abc6b8e3e55ab9ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"336e7248e52c9321aca9948d7a0aa34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087775,
+            "localadmin_id":404514035,
+            "locality_id":85953309,
+            "region_id":85688727,
+            "venue_id":806403481
+        }
+    ],
     "wof:id":806403481,
-    "wof:lastmodified":1472629056,
+    "wof:lastmodified":1492817098,
     "wof:name":"Gibbon Administrative Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

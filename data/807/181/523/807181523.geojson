@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.906103,44.451544,-92.906103,44.451544",
     "geom:latitude":44.451544,
     "geom:longitude":-92.906103,
@@ -28,11 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85824013,
+        102191575,
+        404512193,
         85633793,
         85952861,
         102087843,
-        85824013
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,11 +43,13 @@
     },
     "wof:country":"US",
     "wof:created":1462604601,
-    "wof:geomhash":"1e998552a2243b09dab7a492e778f182",
+    "wof:geomhash":"8b12af7caa04b3e9818f1a3c734bf05a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087843,
+            "localadmin_id":404512193,
             "locality_id":85952861,
             "neighbourhood_id":85824013,
             "region_id":85688727,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":807181523,
-    "wof:lastmodified":1472629365,
+    "wof:lastmodified":1492826303,
     "wof:name":"Nelson Farms",
     "wof:parent_id":85824013,
     "wof:placetype":"venue",

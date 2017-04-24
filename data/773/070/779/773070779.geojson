@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.361312,45.722654,-95.361312,45.722654",
     "geom:latitude":45.722654,
     "geom:longitude":-95.361312,
@@ -32,17 +33,32 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514329,
+        85633793,
+        102087805
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KeUSMyE9AHbaa0Hibzqhy_45.722654_-95.361312@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582941,
-    "wof:geomhash":"34366f68401ab3d3ccae75d8eb52f833",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fc41149145a5d03a641d6dd50ddb9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087805,
+            "localadmin_id":404514329,
+            "region_id":85688727,
+            "venue_id":773070779
+        }
+    ],
     "wof:id":773070779,
-    "wof:lastmodified":1472629479,
+    "wof:lastmodified":1492807673,
     "wof:name":"Mike's Home Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

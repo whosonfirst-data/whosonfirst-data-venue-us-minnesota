@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.381728,44.889793,-94.381728,44.889793",
     "geom:latitude":44.889793,
     "geom:longitude":-94.381728,
@@ -32,17 +33,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LXePPeLhblEZeAvbOTIKk_44.889793_-94.381728@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584521,
-    "wof:geomhash":"ea26f8f1168ccf03a098e96b09e5837e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fb887c5a82544cbda0858a4cb5346019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773280993
+        }
+    ],
     "wof:id":773280993,
-    "wof:lastmodified":1472630032,
+    "wof:lastmodified":1492803486,
     "wof:name":"Master Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

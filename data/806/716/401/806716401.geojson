@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.024342,45.331218,-93.024342,45.331218",
     "geom:latitude":45.331218,
     "geom:longitude":-93.024342,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85812175,
+        102191575,
+        404511283,
         85633793,
         85953399,
         102087861,
-        85812175
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,11 +47,13 @@
     },
     "wof:country":"US",
     "wof:created":1462600471,
-    "wof:geomhash":"4ba444acd722ca71f4452e5937823751",
+    "wof:geomhash":"8ee73ec8040521edd178c0c727f7dffd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087861,
+            "localadmin_id":404511283,
             "locality_id":85953399,
             "neighbourhood_id":85812175,
             "region_id":85688727,
@@ -56,7 +61,7 @@
         }
     ],
     "wof:id":806716401,
-    "wof:lastmodified":1472629752,
+    "wof:lastmodified":1492816707,
     "wof:name":"Richard",
     "wof:parent_id":85812175,
     "wof:placetype":"venue",

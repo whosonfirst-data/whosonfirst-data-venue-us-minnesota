@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.319131,43.999421,-96.319131,43.999421",
     "geom:latitude":43.999421,
     "geom:longitude":-96.319131,
@@ -31,17 +32,34 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513529,
+        85633793,
+        85953031,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IEmibmwDXSgdHNNJvlvKK_43.999421_-96.319131@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583645,
-    "wof:geomhash":"5bcf2d9f153864cb7e99eb47e8587106",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8128910e40b615157ea6350e15af6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513529,
+            "locality_id":85953031,
+            "region_id":85688727,
+            "venue_id":773167391
+        }
+    ],
     "wof:id":773167391,
-    "wof:lastmodified":1472629775,
+    "wof:lastmodified":1492799588,
     "wof:name":"Banner & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

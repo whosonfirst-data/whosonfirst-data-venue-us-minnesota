@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.796345,45.499773,-95.796345,45.499773",
     "geom:latitude":45.499773,
     "geom:longitude":-95.796345,
@@ -33,17 +34,34 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510827,
+        85633793,
+        85953233,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2028RGzcUTdVf4b8fxbCH5_45.499773_-95.796345@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599465,
-    "wof:geomhash":"688b10cbab0b4a6108af29dbf1a98f58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"74702ec0c763ad826f4004941c9448c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404510827,
+            "locality_id":85953233,
+            "region_id":85688727,
+            "venue_id":806597383
+        }
+    ],
     "wof:id":806597383,
-    "wof:lastmodified":1472629521,
+    "wof:lastmodified":1492814212,
     "wof:name":"Prarie Community",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

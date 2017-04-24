@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.496322,44.021532,-92.496322,44.021532",
     "geom:latitude":44.021532,
     "geom:longitude":-92.496322,
@@ -33,17 +34,34 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kWhF2EXHU8GM2xby7iNui_44.021532_-92.496322@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588580,
-    "wof:geomhash":"b52799d46ac5f926d0c93e61c5d6aa9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"10e5192305bfd34b797b4630c9d483d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":773813507
+        }
+    ],
     "wof:id":773813507,
-    "wof:lastmodified":1472630167,
+    "wof:lastmodified":1492805659,
     "wof:name":"United Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

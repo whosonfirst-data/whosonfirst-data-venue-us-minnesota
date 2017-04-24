@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.161713,44.45709,-93.161713,44.45709",
     "geom:latitude":44.45709,
     "geom:longitude":-93.161713,
@@ -44,17 +45,34 @@
     ],
     "sg:website":"http://www.holmesdesign.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512639,
+        85633793,
+        85968737,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jLds99LHkxnST0cJDoOjq_44.457090_-93.161713@1303262813"
     },
     "wof:country":"US",
     "wof:created":1462605339,
-    "wof:geomhash":"fc95df64384f36d1973fb613f666713d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"976aa4838d0bce7191b59dba20183338",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512639,
+            "locality_id":85968737,
+            "region_id":85688727,
+            "venue_id":807251635
+        }
+    ],
     "wof:id":807251635,
-    "wof:lastmodified":1472629522,
+    "wof:lastmodified":1492822396,
     "wof:name":"Holmes Art & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

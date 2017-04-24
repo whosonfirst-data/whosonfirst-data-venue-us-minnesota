@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.752696,45.382778,-92.752696,45.382778",
     "geom:latitude":45.382778,
     "geom:longitude":-92.752696,
@@ -32,17 +33,34 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509103,
+        85633793,
+        85952687,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sJRcIjDuJAYVT6xBccGpj_45.382778_-92.752696@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588434,
-    "wof:geomhash":"b6d34a34e5eebe31ef83afe2b90a963e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33da219f326cef367008394d59ca24e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509103,
+            "locality_id":85952687,
+            "region_id":85688727,
+            "venue_id":773795609
+        }
+    ],
     "wof:id":773795609,
-    "wof:lastmodified":1472630162,
+    "wof:lastmodified":1492802782,
     "wof:name":"Steve's Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

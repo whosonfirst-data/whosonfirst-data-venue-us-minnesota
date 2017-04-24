@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.969705,45.827954,-92.969705,45.827954",
     "geom:latitude":45.827954,
     "geom:longitude":-92.969705,
@@ -31,17 +32,34 @@
         "return"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513373,
+        85633793,
+        85953271,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HZhlWNWcD63xAO968xOyH_45.827954_-92.969705@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586988,
-    "wof:geomhash":"8f76da0afa8a715abf71bcada07d15c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b4e3d9e7ea1af3ead8af8780f9478f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513373,
+            "locality_id":85953271,
+            "region_id":85688727,
+            "venue_id":773606941
+        }
+    ],
     "wof:id":773606941,
-    "wof:lastmodified":1472630104,
+    "wof:lastmodified":1492803528,
     "wof:name":"H & R Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

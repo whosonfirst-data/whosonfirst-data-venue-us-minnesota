@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.140732,44.918355,-93.140732,44.918355",
     "geom:latitude":44.918355,
     "geom:longitude":-93.140732,
@@ -28,19 +29,38 @@
     "sg:postcode":"55102",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64bjtGP2XCjhf13Wxvkd5f_44.918355_-93.140732@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594045,
-    "wof:geomhash":"8283b52baef69289e0da802969be82dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5551f4e87032f4d781c73878c924c9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":790212643
+        }
+    ],
     "wof:id":790212643,
-    "wof:lastmodified":1472629314,
+    "wof:lastmodified":1492834570,
     "wof:name":"Holiday Station Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.046544,44.970554,-94.046544,44.970554",
     "geom:latitude":44.970554,
     "geom:longitude":-94.046544,
@@ -31,17 +32,34 @@
         "intermediate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513493,
+        85633793,
+        85952551,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XndBMUY63f5TBUq00fyuc_44.970554_-94.046544@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594255,
-    "wof:geomhash":"1a43f2253e637aa019e6e5607b2f604e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"db463f84c89f01cea0e950e2279c7784",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513493,
+            "locality_id":85952551,
+            "region_id":85688727,
+            "venue_id":790241023
+        }
+    ],
     "wof:id":790241023,
-    "wof:lastmodified":1472629342,
+    "wof:lastmodified":1492832722,
     "wof:name":"Frater Home Residence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

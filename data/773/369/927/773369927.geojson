@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.434105,45.13727,-93.434105,45.13727",
     "geom:latitude":45.13727,
     "geom:longitude":-93.434105,
@@ -31,17 +32,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O0VmDHkf83qFbLZjebMUU_45.137270_-93.434105@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585181,
-    "wof:geomhash":"e7f0f3c5a3c84d4c3f81a12116d3cd89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf043843b556cd1d368967721d34a4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":773369927
+        }
+    ],
     "wof:id":773369927,
-    "wof:lastmodified":1472630030,
+    "wof:lastmodified":1492807992,
     "wof:name":"Quality Water Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

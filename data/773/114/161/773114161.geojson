@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.53618,47.29297,-93.53618,47.29297",
     "geom:latitude":47.29297,
     "geom:longitude":-93.53618,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804693,
+        102191575,
+        404513285,
         85633793,
         85953515,
         102086963,
-        85804693
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462583248,
-    "wof:geomhash":"b738d47d5f7a27ac05af511edb9f976e",
+    "wof:geomhash":"1022b871123559e083e988bbd01358b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086963,
+            "localadmin_id":404513285,
             "locality_id":85953515,
             "neighbourhood_id":85804693,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":773114161,
-    "wof:lastmodified":1472629605,
+    "wof:lastmodified":1492807875,
     "wof:name":"TLC Foster Care",
     "wof:parent_id":85804693,
     "wof:placetype":"venue",

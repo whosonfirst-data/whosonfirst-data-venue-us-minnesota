@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.747549,47.579336,-95.747549,47.579336",
     "geom:latitude":47.579336,
     "geom:longitude":-95.747549,
@@ -32,17 +33,34 @@
         "asphalt"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513715,
+        85633793,
+        85968399,
+        102087599
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nZQwxDb5y3cHPHMg4NVlb_47.579336_-95.747549@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596756,
-    "wof:geomhash":"9a1626a6e292017b10bd96914dc0bc89",
-    "wof:hierarchy":[],
+    "wof:geomhash":"da48566aad52f20f698c76276fdbc2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087599,
+            "localadmin_id":404513715,
+            "locality_id":85968399,
+            "region_id":85688727,
+            "venue_id":790546701
+        }
+    ],
     "wof:id":790546701,
-    "wof:lastmodified":1472629820,
+    "wof:lastmodified":1492832442,
     "wof:name":"North Country Asphalt Maintnce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

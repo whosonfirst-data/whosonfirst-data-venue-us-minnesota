@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.437338,44.04102,-95.437338,44.04102",
     "geom:latitude":44.04102,
     "geom:longitude":-95.437338,
@@ -34,17 +35,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512007,
+        85633793,
+        85952753,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PnlNLNeAKYw6uB63JVZEm_44.041020_-95.437338@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602016,
-    "wof:geomhash":"f76d9ffb7f061d4f1cf1b8465f3e9ca0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cd155fcc34d6fe51b0b0d3dffd8fca0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512007,
+            "locality_id":85952753,
+            "region_id":85688727,
+            "venue_id":806900979
+        }
+    ],
     "wof:id":806900979,
-    "wof:lastmodified":1472629931,
+    "wof:lastmodified":1492817835,
     "wof:name":"Town & Country Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

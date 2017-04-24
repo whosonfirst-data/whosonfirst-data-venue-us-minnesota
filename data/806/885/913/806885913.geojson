@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.976167,45.500518,-92.976167,45.500518",
     "geom:latitude":45.500518,
     "geom:longitude":-92.976167,
@@ -33,17 +34,34 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6paqSwC5K5ZDbeXN6KGmmg_45.500518_-92.976167@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601899,
-    "wof:geomhash":"4b2d02bcc86caec1d8ef0c530d09cb0b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc1d17ea37b290c33063697ea0079fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":806885913
+        }
+    ],
     "wof:id":806885913,
-    "wof:lastmodified":1472629923,
+    "wof:lastmodified":1492815951,
     "wof:name":"Weddle Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.64653,45.003485,-93.64653,45.003485",
     "geom:latitude":45.003485,
     "geom:longitude":-93.64653,
@@ -31,17 +32,34 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511879,
+        85633793,
+        85969183,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zaS40mqzoL1KVVcWU41OM_45.003485_-93.646530@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589278,
-    "wof:geomhash":"8aaeb0fac7a9ea8b41798006aacad516",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de11439a8a052aaa7b5191d723acd08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511879,
+            "locality_id":85969183,
+            "region_id":85688727,
+            "venue_id":789628073
+        }
+    ],
     "wof:id":789628073,
-    "wof:lastmodified":1472629064,
+    "wof:lastmodified":1492809501,
     "wof:name":"Pete's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.981819,45.396679,-92.981819,45.396679",
     "geom:latitude":45.396679,
     "geom:longitude":-92.981819,
@@ -44,17 +45,34 @@
     ],
     "sg:website":"http://www.wyoming-bank.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511029,
+        85633793,
+        85952685,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PT8gT10n1v6h3TmbobhQH_45.396679_-92.981819@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605383,
-    "wof:geomhash":"8750b1c1bc341119103da4670457bafe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fa2204b39a13d0d0e419da7460bed476",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511029,
+            "locality_id":85952685,
+            "region_id":85688727,
+            "venue_id":807255481
+        }
+    ],
     "wof:id":807255481,
-    "wof:lastmodified":1472629519,
+    "wof:lastmodified":1492828029,
     "wof:name":"First State Bank Of Wyoming",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

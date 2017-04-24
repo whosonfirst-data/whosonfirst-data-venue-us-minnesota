@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.005768,44.14552,-93.005768,44.14552",
     "geom:latitude":44.14552,
     "geom:longitude":-93.005768,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509569,
+        85633793,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L5ACgGyc6VZP1vpU7NQkW_44.145520_-93.005768@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604032,
-    "wof:geomhash":"c2f7405fbd20279b7c8e2035d20b043a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ef8c8c27465c749f3904570fbe39792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404509569,
+            "region_id":85688727,
+            "venue_id":807128293
+        }
+    ],
     "wof:id":807128293,
-    "wof:lastmodified":1472629239,
+    "wof:lastmodified":1492825673,
     "wof:name":"David Wetzstein",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

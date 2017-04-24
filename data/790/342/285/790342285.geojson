@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.973418,44.964418,-92.973418,44.964418",
     "geom:latitude":44.964418,
     "geom:longitude":-92.973418,
@@ -32,17 +33,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514913,
+        85633793,
+        85953565,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eqSnvw2oplYbJd5GUHTAm_44.964418_-92.973418@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595078,
-    "wof:geomhash":"7138a09ef471af3d2750f03dcc37fa40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c6474a34dd9ece860c081b086f3da65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514913,
+            "locality_id":85953565,
+            "region_id":85688727,
+            "venue_id":790342285
+        }
+    ],
     "wof:id":790342285,
-    "wof:lastmodified":1472629524,
+    "wof:lastmodified":1492837944,
     "wof:name":"Go Dair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

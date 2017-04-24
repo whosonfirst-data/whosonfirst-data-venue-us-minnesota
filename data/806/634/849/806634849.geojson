@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.97436,45.511394,-92.97436,45.511394",
     "geom:latitude":45.511394,
     "geom:longitude":-92.97436,
@@ -31,17 +32,34 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RmxXJqnwUzvX51bMVserM_45.511394_-92.974360@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599774,
-    "wof:geomhash":"4cc5c34b3492bf71dfe413391863d256",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b25561fbb7543b19e6a6473d362641f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":806634849
+        }
+    ],
     "wof:id":806634849,
-    "wof:lastmodified":1472629580,
+    "wof:lastmodified":1492820441,
     "wof:name":"Chisago County Sheriff's Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

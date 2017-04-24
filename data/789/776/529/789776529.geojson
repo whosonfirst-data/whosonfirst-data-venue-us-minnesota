@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.028683,44.380835,-92.028683,44.380835",
     "geom:latitude":44.380835,
     "geom:longitude":-92.028683,
@@ -31,17 +32,34 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3j4PCI1YCWaXqrAlLjKa1h_44.380835_-92.028683@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590450,
-    "wof:geomhash":"1d03a8586f5a06136f42b71065e0b246",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc3922bd9842e67b492fe4ec2c04b93e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":789776529
+        }
+    ],
     "wof:id":789776529,
-    "wof:lastmodified":1472629352,
+    "wof:lastmodified":1492812156,
     "wof:name":"Hiawatha Valley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

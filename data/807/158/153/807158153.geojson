@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.0131,43.815568,-96.0131,43.815568",
     "geom:latitude":43.815568,
     "geom:longitude":-96.0131,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512133,
+        85633793,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ICzWCvw5CkB5msk1VFSNu_43.815568_-96.013100@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604354,
-    "wof:geomhash":"334eb6629be977f2c87b89b547a306fc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"464c90b98e0ebff06de5fc98c962dad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404512133,
+            "region_id":85688727,
+            "venue_id":807158153
+        }
+    ],
     "wof:id":807158153,
-    "wof:lastmodified":1472629288,
+    "wof:lastmodified":1492825795,
     "wof:name":"Van Hill Richard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.833259,45.245999,-92.833259,45.245999",
     "geom:latitude":45.245999,
     "geom:longitude":-92.833259,
@@ -31,17 +32,34 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514921,
+        85633793,
+        85953533,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2StRFk7VXD26Xx2Zht1op3_45.245999_-92.833259@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589590,
-    "wof:geomhash":"3784ee65167ee5bee68ad3e5eff0236a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d04bd58486ddf7d65fb89fff3a45f3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404514921,
+            "locality_id":85953533,
+            "region_id":85688727,
+            "venue_id":789664589
+        }
+    ],
     "wof:id":789664589,
-    "wof:lastmodified":1472629140,
+    "wof:lastmodified":1492813705,
     "wof:name":"Bills Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

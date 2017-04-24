@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.279503,44.969898,-93.279503,44.969898",
     "geom:latitude":44.969898,
     "geom:longitude":-93.279503,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420558763,
+        1108799611,
         102191575,
+        1108799999,
         404511883,
         85633793,
         85969169,
         102087709,
-        85688727,
-        85867007
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606951,
-    "wof:geomhash":"f72c011c83282fa1154d761d81e28bf5",
+    "wof:geomhash":"76e45846289bf8f50e1d969221b8f4e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,25 +56,16 @@
             "county_id":102087709,
             "localadmin_id":404511883,
             "locality_id":85969169,
-            "neighbourhood_id":420558763,
-            "region_id":85688727,
-            "venue_id":807382291
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087709,
-            "localadmin_id":404511883,
-            "locality_id":85969169,
-            "neighbourhood_id":85867007,
+            "macrohood_id":1108799999,
+            "neighbourhood_id":1108799611,
             "region_id":85688727,
             "venue_id":807382291
         }
     ],
     "wof:id":807382291,
-    "wof:lastmodified":1472629866,
+    "wof:lastmodified":1492822829,
     "wof:name":"One Ten Grant",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108799611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

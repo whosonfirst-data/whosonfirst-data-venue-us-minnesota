@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.450586,46.06801,-93.450586,46.06801",
     "geom:latitude":46.06801,
     "geom:longitude":-93.450586,
@@ -31,17 +32,32 @@
         "quarry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512555,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16F86ZFKemwDpGwjE6VNUO_46.068010_-93.450586@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588835,
-    "wof:geomhash":"e9166b9689ee680b3fb70774492179e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"883da6705cd2d94c2a2745601c9e8063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512555,
+            "region_id":85688727,
+            "venue_id":773841691
+        }
+    ],
     "wof:id":773841691,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492803910,
     "wof:name":"Cold Spring Granite Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.764348,43.986775,-95.764348,43.986775",
     "geom:latitude":43.986775,
     "geom:longitude":-95.764348,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.mcc.mntm.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513321,
+        85633793,
+        85952743,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zI9aU3JswV5tzT2Izh3dc_43.986775_-95.764348@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599173,
-    "wof:geomhash":"f49d9aa375b8867b07bf8b1e1238e88f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c1151744fbf33c4ae946a388d326fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404513321,
+            "locality_id":85952743,
+            "region_id":85688727,
+            "venue_id":806565835
+        }
+    ],
     "wof:id":806565835,
-    "wof:lastmodified":1472629479,
+    "wof:lastmodified":1492816057,
     "wof:name":"Murray Cnty Central Elementary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

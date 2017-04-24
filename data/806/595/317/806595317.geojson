@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.888067,47.48684,-92.888067,47.48684",
     "geom:latitude":47.48684,
     "geom:longitude":-92.888067,
@@ -31,17 +32,36 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420525065,
+        102191575,
+        404513387,
+        85633793,
+        85968501,
+        102087653,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g5SPAyhSeBAUN06TabUDF_47.486840_-92.888067@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599446,
-    "wof:geomhash":"7bbb75b62e5f4c1dca8dd6e2c947ccc4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d84e1cec011da5aa0f62a5f44a5f2234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513387,
+            "locality_id":85968501,
+            "neighbourhood_id":420525065,
+            "region_id":85688727,
+            "venue_id":806595317
+        }
+    ],
     "wof:id":806595317,
-    "wof:lastmodified":1472629500,
+    "wof:lastmodified":1492819334,
     "wof:name":"Comfort Heating",
     "wof:parent_id":420525065,
     "wof:placetype":"venue",

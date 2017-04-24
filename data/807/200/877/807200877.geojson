@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.584417,44.562093,-95.584417,44.562093",
     "geom:latitude":44.562093,
     "geom:longitude":-95.584417,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514573,
+        85633793,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79IDB0CH6cAXuW3Eyj8nzo_44.562093_-95.584417@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604806,
-    "wof:geomhash":"54150199c517a5f1fe8ee02d855fd5ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b24aec46bf7cf25036a3d2cadf9c1af8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404514573,
+            "region_id":85688727,
+            "venue_id":807200877
+        }
+    ],
     "wof:id":807200877,
-    "wof:lastmodified":1472629423,
+    "wof:lastmodified":1492823448,
     "wof:name":"Nick Kissner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

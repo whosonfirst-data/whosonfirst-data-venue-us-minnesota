@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538097,47.463467,-92.538097,47.463467",
     "geom:latitude":47.463467,
     "geom:longitude":-92.538097,
@@ -31,17 +32,26 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QwS3MIeH3I3nKOIUuqhBV_47.463467_-92.538097@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602799,
-    "wof:geomhash":"3bdba719f607dc3646437f294c8ec565",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bc547297e299322d44944d1f8609daec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806993155
+        }
+    ],
     "wof:id":806993155,
-    "wof:lastmodified":1472629978,
+    "wof:lastmodified":1492814716,
     "wof:name":"Resurrection Church",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

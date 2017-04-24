@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.286077,44.599175,-93.286077,44.599175",
     "geom:latitude":44.599175,
     "geom:longitude":-93.286077,
@@ -32,17 +33,32 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514991,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32mUIelp19CtftzzQiAD2P_44.599175_-93.286077@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601482,
-    "wof:geomhash":"0d2a87d93b51634edccc6f448a32e6b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7b78726688ccd45b85f24aeb2582dc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404514991,
+            "region_id":85688727,
+            "venue_id":806836953
+        }
+    ],
     "wof:id":806836953,
-    "wof:lastmodified":1472629881,
+    "wof:lastmodified":1492820923,
     "wof:name":"Asp Holding Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

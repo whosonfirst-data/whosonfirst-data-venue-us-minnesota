@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.400368,45.568307,-94.400368,45.568307",
     "geom:latitude":45.568307,
     "geom:longitude":-94.400368,
@@ -32,17 +33,32 @@
         "broadcasting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514223,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GQVFspyYdaI6Px1RhIVnA_45.568307_-94.400368@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583945,
-    "wof:geomhash":"f0bcf5fedf5eae07348043d14274e31e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb8c7ad2ed8865c1518306e19f9bd947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514223,
+            "region_id":85688727,
+            "venue_id":773202173
+        }
+    ],
     "wof:id":773202173,
-    "wof:lastmodified":1472629941,
+    "wof:lastmodified":1492803368,
     "wof:name":"KNSR",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

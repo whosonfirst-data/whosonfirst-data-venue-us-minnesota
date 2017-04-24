@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.900639,44.1526,-92.900639,44.1526",
     "geom:latitude":44.1526,
     "geom:longitude":-92.900639,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.mayo.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509573,
+        85633793,
+        85952819,
+        102087097
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4w1xqBWp9lNwEVvFqpbK8Z_44.152600_-92.900639@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591620,
-    "wof:geomhash":"fb590111c811afedc127e91a791614ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85572c12594b32ade133697585d51499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087097,
+            "localadmin_id":404509573,
+            "locality_id":85952819,
+            "region_id":85688727,
+            "venue_id":789919039
+        }
+    ],
     "wof:id":789919039,
-    "wof:lastmodified":1472629592,
+    "wof:lastmodified":1492810047,
     "wof:name":"Mayo Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.795131,45.305894,-93.795131,45.305894",
     "geom:latitude":45.305894,
     "geom:longitude":-93.795131,
@@ -31,17 +32,34 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515239,
+        85633793,
+        85968895,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7G8HCUUmxf7RUlJkV8mDME_45.305894_-93.795131@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599904,
-    "wof:geomhash":"1782718e81ebada36469fd613376bca9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3033a98d5d5956c9505c021bee8ecb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515239,
+            "locality_id":85968895,
+            "region_id":85688727,
+            "venue_id":806649833
+        }
+    ],
     "wof:id":806649833,
-    "wof:lastmodified":1472629636,
+    "wof:lastmodified":1492814903,
     "wof:name":"Monticello Unclaimed Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

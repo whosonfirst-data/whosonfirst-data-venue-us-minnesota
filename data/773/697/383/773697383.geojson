@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.913629,45.480952,-92.913629,45.480952",
     "geom:latitude":45.480952,
     "geom:longitude":-92.913629,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VjLbzo5nr51iGPrJkU1l1_45.480952_-92.913629@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587709,
-    "wof:geomhash":"84aa70d16bdc5e29f0e09ac27321ec25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b113eb111194b121583f83066710da0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":773697383
+        }
+    ],
     "wof:id":773697383,
-    "wof:lastmodified":1472630132,
+    "wof:lastmodified":1492806824,
     "wof:name":"C&Ch Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.268127,44.862962,-93.268127,44.862962",
     "geom:latitude":44.862962,
     "geom:longitude":-93.268127,
@@ -54,17 +55,34 @@
     ],
     "sg:website":"http://www.richfieldskillednursing.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511899,
+        85633793,
+        85969131,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6udVVW4U8EVlrcKis0cXrC_44.862962_-93.268127@1303262829"
     },
     "wof:country":"US",
     "wof:created":1462608020,
-    "wof:geomhash":"083be81c371d6bf2b16f30ff4c54f281",
-    "wof:hierarchy":[],
+    "wof:geomhash":"03f6a4ee6b1e3b68890d0e7565ff91f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":823176465
+        }
+    ],
     "wof:id":823176465,
-    "wof:lastmodified":1472629011,
+    "wof:lastmodified":1492828438,
     "wof:name":"Richfield Health Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.236536,44.084294,-93.236536,44.084294",
     "geom:latitude":44.084294,
     "geom:longitude":-93.236536,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"www.owatonna.k12.mn.us",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514605,
+        85633793,
+        85968951,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4djWcgD5GaLNiLILmQmJ50_44.084294_-93.236536@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589178,
-    "wof:geomhash":"aa501d452705892599cc25725ca5f807",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b751b00aefbff1da63a2bbdb943bc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404514605,
+            "locality_id":85968951,
+            "region_id":85688727,
+            "venue_id":789615291
+        }
+    ],
     "wof:id":789615291,
-    "wof:lastmodified":1472629021,
+    "wof:lastmodified":1492811012,
     "wof:name":"Owatonna Public School Supt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

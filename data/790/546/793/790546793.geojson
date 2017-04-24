@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.593195,45.517159,-93.593195,45.517159",
     "geom:latitude":45.517159,
     "geom:longitude":-93.593195,
@@ -31,17 +32,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515049,
+        85633793,
+        102087609
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tORQYKq11MLnyX33GjWg6_45.517159_-93.593195@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596757,
-    "wof:geomhash":"16117c9148766323e5d15a74ff654311",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd713c17a5444f4462f66c93c28bdbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087609,
+            "localadmin_id":404515049,
+            "region_id":85688727,
+            "venue_id":790546793
+        }
+    ],
     "wof:id":790546793,
-    "wof:lastmodified":1472629822,
+    "wof:lastmodified":1492832438,
     "wof:name":"City View Drywall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

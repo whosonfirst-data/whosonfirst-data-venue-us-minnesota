@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.584597,47.42734,-92.584597,47.42734",
     "geom:latitude":47.42734,
     "geom:longitude":-92.584597,
@@ -31,17 +32,26 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z2ljqDrRohCtb8tLcLHMh_47.427340_-92.584597@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600776,
-    "wof:geomhash":"4deca1b3cdcb358e0468b0215f0f3aed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eba8c32d56acefc21a4e5c8e3a5caf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":806751289
+        }
+    ],
     "wof:id":806751289,
-    "wof:lastmodified":1472629762,
+    "wof:lastmodified":1492814127,
     "wof:name":"Eveleth Municipal Golf Course",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

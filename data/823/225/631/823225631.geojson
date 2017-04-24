@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.603449,47.386548,-92.603449,47.386548",
     "geom:latitude":47.386548,
     "geom:longitude":-92.603449,
@@ -32,17 +33,26 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16VqAlQqNXEjHnE1rBiy7W_47.386548_-92.603449@1303262835"
     },
     "wof:country":"US",
     "wof:created":1462608850,
-    "wof:geomhash":"5298f8e4e4ce247cc264c5c8ad53d0ae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3c2c7a939e777dc8efc73fa7ee331f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":823225631
+        }
+    ],
     "wof:id":823225631,
-    "wof:lastmodified":1472629116,
+    "wof:lastmodified":1492828056,
     "wof:name":"Mayry Sand & Gravel",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

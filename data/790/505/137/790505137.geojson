@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.874179,45.245442,-94.874179,45.245442",
     "geom:latitude":45.245442,
     "geom:longitude":-94.874179,
@@ -32,17 +33,32 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513799,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xxnViPYOJej9G3pYp1C6t_45.245442_-94.874179@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596413,
-    "wof:geomhash":"08b40ab83a17a616b272b7d657c3e7cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"65af8ab0100bc4acfe0b72231a3856ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513799,
+            "region_id":85688727,
+            "venue_id":790505137
+        }
+    ],
     "wof:id":790505137,
-    "wof:lastmodified":1472629783,
+    "wof:lastmodified":1492832787,
     "wof:name":"Debonaire Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

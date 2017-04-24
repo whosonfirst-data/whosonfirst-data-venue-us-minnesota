@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.235337,46.747759,-92.235337,46.747759",
     "geom:latitude":46.747759,
     "geom:longitude":-92.235337,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688727,
+        85804953,
+        102191575,
+        404513247,
         85633793,
         85968517,
         102087653,
-        85804953
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,11 +48,13 @@
     },
     "wof:country":"US",
     "wof:created":1462603492,
-    "wof:geomhash":"e004e37d17144bc7448e21944990516d",
+    "wof:geomhash":"fa7432b522a0e1e5fd8736904eb08a6c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087653,
+            "localadmin_id":404513247,
             "locality_id":85968517,
             "neighbourhood_id":85804953,
             "region_id":85688727,
@@ -57,7 +62,7 @@
         }
     ],
     "wof:id":807074467,
-    "wof:lastmodified":1472629074,
+    "wof:lastmodified":1492827097,
     "wof:name":"Ray Tuomi",
     "wof:parent_id":85804953,
     "wof:placetype":"venue",

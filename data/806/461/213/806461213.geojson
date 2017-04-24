@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.866374,46.130584,-92.866374,46.130584",
     "geom:latitude":46.130584,
     "geom:longitude":-92.866374,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513495,
+        85633793,
+        85953263,
+        102087721
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UNuHQjSMLAB2HgEfFFjDX_46.130584_-92.866374@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598321,
-    "wof:geomhash":"8fb33a317a9806a06de12284abac845c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20cf7e136baef246dcc5d01a8fe60f68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087721,
+            "localadmin_id":404513495,
+            "locality_id":85953263,
+            "region_id":85688727,
+            "venue_id":806461213
+        }
+    ],
     "wof:id":806461213,
-    "wof:lastmodified":1472629191,
+    "wof:lastmodified":1492819432,
     "wof:name":"United Church Of Christ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

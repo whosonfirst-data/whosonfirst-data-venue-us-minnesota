@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.372973,46.518461,-95.372973,46.518461",
     "geom:latitude":46.518461,
     "geom:longitude":-95.372973,
@@ -33,17 +34,34 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515169,
+        85633793,
+        85968759,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59jYg6umXAygAZRnwo3aRs_46.518461_-95.372973@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585922,
-    "wof:geomhash":"6d75e135b8a07892e115bcce70204753",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be0e04327560e36e1971638829183adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404515169,
+            "locality_id":85968759,
+            "region_id":85688727,
+            "venue_id":773460835
+        }
+    ],
     "wof:id":773460835,
-    "wof:lastmodified":1472630064,
+    "wof:lastmodified":1492800447,
     "wof:name":"Custom Manure Applicators",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.377106,46.517238,-95.377106,46.517238",
     "geom:latitude":46.517238,
     "geom:longitude":-95.377106,
@@ -32,17 +33,34 @@
         "fabric"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515169,
+        85633793,
+        85968759,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r5ILY9eg5T8M0dlF4v5re_46.517238_-95.377106@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588886,
-    "wof:geomhash":"9b88f9447c178aa45464843b27aa4ee6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9265d9874cd7623cae25b5c94ae416a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404515169,
+            "locality_id":85968759,
+            "region_id":85688727,
+            "venue_id":773848983
+        }
+    ],
     "wof:id":773848983,
-    "wof:lastmodified":1472630173,
+    "wof:lastmodified":1492808258,
     "wof:name":"Modern Assemblies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

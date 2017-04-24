@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.554819,45.024191,-93.554819,45.024191",
     "geom:latitude":45.024191,
     "geom:longitude":-93.554819,
@@ -31,17 +32,34 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511881,
+        85633793,
+        85969173,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11fHXPlYso6EnxhcxxgigN_45.024191_-93.554819@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602777,
-    "wof:geomhash":"e018e22482abccf8350aa3180af082c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de82daa9a7e9c3a107ef2c9989d14470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511881,
+            "locality_id":85969173,
+            "region_id":85688727,
+            "venue_id":806990379
+        }
+    ],
     "wof:id":806990379,
-    "wof:lastmodified":1472629983,
+    "wof:lastmodified":1492814189,
     "wof:name":"Abbott Financial Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

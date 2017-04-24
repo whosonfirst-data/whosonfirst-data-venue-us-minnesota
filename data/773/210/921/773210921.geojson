@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.603349,46.115376,-93.603349,46.115376",
     "geom:latitude":46.115376,
     "geom:longitude":-93.603349,
@@ -31,17 +32,32 @@
         "auctioneer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512575,
+        85633793,
+        102087761
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QRkdoSGlT5GQNEAYOEVqy_46.115376_-93.603349@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584003,
-    "wof:geomhash":"2ff2268c1f6c6587450fb1bd5a228f23",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6d4dd23d0af225ed31c09b496d880fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087761,
+            "localadmin_id":404512575,
+            "region_id":85688727,
+            "venue_id":773210921
+        }
+    ],
     "wof:id":773210921,
-    "wof:lastmodified":1472629974,
+    "wof:lastmodified":1492801471,
     "wof:name":"Hazeman Auction Svc Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

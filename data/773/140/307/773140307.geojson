@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.073575,44.897365,-94.073575,44.897365",
     "geom:latitude":44.897365,
     "geom:longitude":-94.073575,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513633,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bUcsCr8cxRcx4qBh0elkC_44.897365_-94.073575@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583438,
-    "wof:geomhash":"7d5cc00950d1643a348610876d3bac47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"155d061e278e5e8fa54dc0074b93ef16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404513633,
+            "region_id":85688727,
+            "venue_id":773140307
+        }
+    ],
     "wof:id":773140307,
-    "wof:lastmodified":1472629690,
+    "wof:lastmodified":1492806080,
     "wof:name":"Ron Fiecke Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

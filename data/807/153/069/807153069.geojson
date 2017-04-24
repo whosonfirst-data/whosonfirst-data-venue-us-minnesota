@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.43143,45.839181,-93.43143,45.839181",
     "geom:latitude":45.839181,
     "geom:longitude":-93.43143,
@@ -27,17 +28,41 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509863,
+        85633793,
+        102087687,
+        404513763
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47ntsI0aX4bnDyeIX40O36_45.839181_-93.431430@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604302,
-    "wof:geomhash":"84ac589b75ca0b8426b2ff454212c4f2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1b4cba2c11a9ee558ce26ee79e27ef94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404509863,
+            "region_id":85688727,
+            "venue_id":807153069
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087687,
+            "localadmin_id":404513763,
+            "region_id":85688727,
+            "venue_id":807153069
+        }
+    ],
     "wof:id":807153069,
-    "wof:lastmodified":1472629273,
+    "wof:lastmodified":1492822799,
     "wof:name":"Clayton Nelson Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.911138,44.464541,-93.911138,44.464541",
     "geom:latitude":44.464541,
     "geom:longitude":-93.911138,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512361,
+        85633793,
+        85953331,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XspFp7q2Dr2kY1680tvrD_44.464541_-93.911138@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589341,
-    "wof:geomhash":"4477e61d508d0085c2a73d6c5fcf1862",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82e0cc9b013172f2c2486a9d2b596670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512361,
+            "locality_id":85953331,
+            "region_id":85688727,
+            "venue_id":789635563
+        }
+    ],
     "wof:id":789635563,
-    "wof:lastmodified":1472629078,
+    "wof:lastmodified":1492810913,
     "wof:name":"River Hills Christian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

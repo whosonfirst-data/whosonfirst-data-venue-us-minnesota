@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.359452,44.894705,-94.359452,44.894705",
     "geom:latitude":44.894705,
     "geom:longitude":-94.359452,
@@ -36,17 +37,34 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L8PN6n9wiquTMk1M0PnG4_44.894705_-94.359452@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606236,
-    "wof:geomhash":"4d6b746455d6faa219144a8bd6649e24",
-    "wof:hierarchy":[],
+    "wof:geomhash":"722311944ba76858691bb144589daeb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":807332897
+        }
+    ],
     "wof:id":807332897,
-    "wof:lastmodified":1472629742,
+    "wof:lastmodified":1492822872,
     "wof:name":"Vip Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

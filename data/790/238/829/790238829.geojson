@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.517378,44.970419,-93.517378,44.970419",
     "geom:latitude":44.970419,
     "geom:longitude":-93.517378,
@@ -32,17 +33,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511915,
+        85633793,
+        85969113,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nGuFfEhEutnJTkVdYkOhn_44.970419_-93.517378@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594240,
-    "wof:geomhash":"790dad7f41208c194bf6f1d1a7515a0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"590335d4984d6da4df72e5667929d00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511915,
+            "locality_id":85969113,
+            "region_id":85688727,
+            "venue_id":790238829
+        }
+    ],
     "wof:id":790238829,
-    "wof:lastmodified":1472629356,
+    "wof:lastmodified":1492836677,
     "wof:name":"Bennevis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

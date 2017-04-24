@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.694267,43.566373,-94.694267,43.566373",
     "geom:latitude":43.566373,
     "geom:longitude":-94.694267,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514019,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y3LwD51zkP9GlX2GKwFsC_43.566373_-94.694267@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604776,
-    "wof:geomhash":"ea9c017af213a001cded16198d83e94a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"155735d506fd186bdc08a29e6be3ae9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404514019,
+            "region_id":85688727,
+            "venue_id":807197735
+        }
+    ],
     "wof:id":807197735,
-    "wof:lastmodified":1472629406,
+    "wof:lastmodified":1492824255,
     "wof:name":"Kurt Koehler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

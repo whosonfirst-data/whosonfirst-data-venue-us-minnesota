@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.18743,44.08994,-96.18743,44.08994",
     "geom:latitude":44.08994,
     "geom:longitude":-96.18743,
@@ -32,17 +33,34 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510437,
+        85633793,
+        85953045,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rqHGgKVwGjsW9gQjXWaiD_44.089940_-96.187430@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590771,
-    "wof:geomhash":"d41981fe1439864334604d83bed64f29",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f74535a4f05834df8e4c955927b51e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404510437,
+            "locality_id":85953045,
+            "region_id":85688727,
+            "venue_id":789817733
+        }
+    ],
     "wof:id":789817733,
-    "wof:lastmodified":1472629403,
+    "wof:lastmodified":1492813128,
     "wof:name":"Larry Dewitte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

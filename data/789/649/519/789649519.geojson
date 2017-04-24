@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.758389,48.311126,-96.758389,48.311126",
     "geom:latitude":48.311126,
     "geom:longitude":-96.758389,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510133,
+        85633793,
+        102087695
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JVjsh78rXTvFfN6i7REsl_48.311126_-96.758389@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589451,
-    "wof:geomhash":"281bd87d6241bb7950db7d1456d0191d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb3f14f034848f6ef0697fb6febaee74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087695,
+            "localadmin_id":404510133,
+            "region_id":85688727,
+            "venue_id":789649519
+        }
+    ],
     "wof:id":789649519,
-    "wof:lastmodified":1472629084,
+    "wof:lastmodified":1492809766,
     "wof:name":"Peterson & Reese Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

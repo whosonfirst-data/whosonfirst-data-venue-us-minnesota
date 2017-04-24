@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.831094,45.358386,-92.831094,45.358386",
     "geom:latitude":45.358386,
     "geom:longitude":-92.831094,
@@ -32,17 +33,32 @@
         "institution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509097,
+        85633793,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eztsfPHvBREAzYoN0MxLw_45.358386_-92.831094@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587818,
-    "wof:geomhash":"997710f2c26ce23031740aabdb9c3e73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0fae22914fc345fc5fb667156525db1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509097,
+            "region_id":85688727,
+            "venue_id":773712215
+        }
+    ],
     "wof:id":773712215,
-    "wof:lastmodified":1472630134,
+    "wof:lastmodified":1492803803,
     "wof:name":"Therapeutic Comm Residences",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

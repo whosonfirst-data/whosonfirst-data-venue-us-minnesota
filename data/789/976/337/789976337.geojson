@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.652185,45.224463,-93.652185,45.224463",
     "geom:latitude":45.224463,
     "geom:longitude":-93.652185,
@@ -31,17 +32,34 @@
         "bobcat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510755,
+        85633793,
+        85968935,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Ef0uPqzM7t08R6FdbknAX_45.224463_-93.652185@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592139,
-    "wof:geomhash":"1cbc3beda3f31f6ff61dbb7a04f887f8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d952bedbbc84a9d6f260dba3c6539e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404510755,
+            "locality_id":85968935,
+            "region_id":85688727,
+            "venue_id":789976337
+        }
+    ],
     "wof:id":789976337,
-    "wof:lastmodified":1472629677,
+    "wof:lastmodified":1492811499,
     "wof:name":"MTR Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

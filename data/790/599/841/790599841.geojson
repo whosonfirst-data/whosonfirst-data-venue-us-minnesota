@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.790406,45.83162,-95.790406,45.83162",
     "geom:latitude":45.83162,
     "geom:longitude":-95.790406,
@@ -35,17 +36,34 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509431,
+        85633793,
+        85968289,
+        102087739
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xI7MpOVeKqpHvR2frTowY_45.831620_-95.790406@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597225,
-    "wof:geomhash":"e72aceff4b93213f235b8285fdc73342",
-    "wof:hierarchy":[],
+    "wof:geomhash":"041491be83352867a7db4260fefc04ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087739,
+            "localadmin_id":404509431,
+            "locality_id":85968289,
+            "region_id":85688727,
+            "venue_id":790599841
+        }
+    ],
     "wof:id":790599841,
-    "wof:lastmodified":1472629913,
+    "wof:lastmodified":1492832303,
     "wof:name":"Anderson's Floor Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

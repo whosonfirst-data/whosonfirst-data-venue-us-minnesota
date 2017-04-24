@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.025497,43.963353,-95.025497,43.963353",
     "geom:latitude":43.963353,
     "geom:longitude":-95.025497,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511853,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x3VmqEg3gffMa9JIH53DC_43.963353_-95.025497@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586169,
-    "wof:geomhash":"0d228187f674a9e5db1da54d96e30661",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed64153ce830b51fe42cc05a857bd32e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404511853,
+            "region_id":85688727,
+            "venue_id":773494395
+        }
+    ],
     "wof:id":773494395,
-    "wof:lastmodified":1472630071,
+    "wof:lastmodified":1492802360,
     "wof:name":"James S Harder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

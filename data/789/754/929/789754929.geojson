@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.37355,44.962157,-93.37355,44.962157",
     "geom:latitude":44.962157,
     "geom:longitude":-93.37355,
@@ -32,17 +33,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511909,
+        85633793,
+        85969121,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HIhlernMzIrVpu6CBcTXg_44.962157_-93.373550@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590290,
-    "wof:geomhash":"0be9307d993811e41f863fda6c002346",
-    "wof:hierarchy":[],
+    "wof:geomhash":"06a2ebeeefa92ed10d1e2183adc4c415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511909,
+            "locality_id":85969121,
+            "region_id":85688727,
+            "venue_id":789754929
+        }
+    ],
     "wof:id":789754929,
-    "wof:lastmodified":1472629336,
+    "wof:lastmodified":1492809693,
     "wof:name":"Hamilton House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

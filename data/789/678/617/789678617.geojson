@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.047576,46.691446,-96.047576,46.691446",
     "geom:latitude":46.691446,
     "geom:longitude":-96.047576,
@@ -33,17 +34,32 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512741,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31nXSJZEQqQQsec4fRiqIx_46.691446_-96.047576@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589689,
-    "wof:geomhash":"61030e16c1a34811784efc85ed2e9894",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6081b6e3dc6544429199c0d7def00908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512741,
+            "region_id":85688727,
+            "venue_id":789678617
+        }
+    ],
     "wof:id":789678617,
-    "wof:lastmodified":1472629161,
+    "wof:lastmodified":1492811273,
     "wof:name":"Northern Grain Design & Constr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.880894,46.652104,-94.880894,46.652104",
     "geom:latitude":46.652104,
     "geom:longitude":-94.880894,
@@ -36,17 +37,32 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514835,
+        85633793,
+        102087867
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LHvFNpQYDlDKCPsWVhm91_46.652104_-94.880894@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596011,
-    "wof:geomhash":"d9436e57f2e0518b1d6a168705607a59",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ed6941f05ddbfb57fc4706f6a5bec8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087867,
+            "localadmin_id":404514835,
+            "region_id":85688727,
+            "venue_id":790459793
+        }
+    ],
     "wof:id":790459793,
-    "wof:lastmodified":1472629736,
+    "wof:lastmodified":1492837481,
     "wof:name":"Crow Wing Appraisal Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

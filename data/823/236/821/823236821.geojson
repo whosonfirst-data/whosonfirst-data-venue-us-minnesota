@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.989666,44.175072,-93.989666,44.175072",
     "geom:latitude":44.175072,
     "geom:longitude":-93.989666,
@@ -31,17 +32,34 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64TKO2UecLoyrtzUqoJX9o_44.175072_-93.989666@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609082,
-    "wof:geomhash":"d5b7760529f44befe0e4d8760ce91cc3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"27d8c2149b06b31a9dc06a593698e949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":823236821
+        }
+    ],
     "wof:id":823236821,
-    "wof:lastmodified":1472629164,
+    "wof:lastmodified":1492829800,
     "wof:name":"Clark Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

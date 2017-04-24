@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.956778,46.757033,-93.956778,46.757033",
     "geom:latitude":46.757033,
     "geom:longitude":-93.956778,
@@ -36,17 +37,34 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509521,
+        85633793,
+        85952647,
+        102087093
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22osxmnG9To0NJeMMHAyPC_46.757033_-93.956778@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594992,
-    "wof:geomhash":"5e663f6acc06794ee5ebef91cb70e4c9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"df01a19ff8f42efbb076f372c312bcbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087093,
+            "localadmin_id":404509521,
+            "locality_id":85952647,
+            "region_id":85688727,
+            "venue_id":790330003
+        }
+    ],
     "wof:id":790330003,
-    "wof:lastmodified":1472629490,
+    "wof:lastmodified":1492837090,
     "wof:name":"Emily Sewer Svc Portable Toil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

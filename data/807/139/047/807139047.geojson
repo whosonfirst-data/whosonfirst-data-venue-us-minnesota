@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.069055,43.62291,-93.069055,43.62291",
     "geom:latitude":43.62291,
     "geom:longitude":-93.069055,
@@ -27,17 +28,32 @@
         "cash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509663,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BZqcNSWCGBVnX0MKVYjAn_43.622977_-93.069234@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604150,
-    "wof:geomhash":"96d0aacfe9f08ebe26f6b7e21b14d2da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62b959e9aa672f066570608c088cce28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404509663,
+            "region_id":85688727,
+            "venue_id":807139047
+        }
+    ],
     "wof:id":807139047,
-    "wof:lastmodified":1472629269,
+    "wof:lastmodified":1492822692,
     "wof:name":"Glen Kurth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.675027,44.647206,-93.675027,44.647206",
     "geom:latitude":44.647206,
     "geom:longitude":-93.675027,
@@ -27,17 +28,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515041,
+        85633793,
+        102087041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HZA37i0u65MSGcdPqDiUh_44.647206_-93.675027@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604177,
-    "wof:geomhash":"144dbc4ac3068db0acc5fba960450a87",
-    "wof:hierarchy":[],
+    "wof:geomhash":"508bd5a3dd16aa00d570be8b50d55016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087041,
+            "localadmin_id":404515041,
+            "region_id":85688727,
+            "venue_id":807141845
+        }
+    ],
     "wof:id":807141845,
-    "wof:lastmodified":1472629278,
+    "wof:lastmodified":1492826182,
     "wof:name":"Busy DS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

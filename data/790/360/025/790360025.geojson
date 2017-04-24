@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.154449,44.767153,-94.154449,44.767153",
     "geom:latitude":44.767153,
     "geom:longitude":-94.154449,
@@ -32,17 +33,34 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512961,
+        85633793,
+        85952563,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CHNLxVCZfwmMY9cNO1863_44.767153_-94.154449@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595224,
-    "wof:geomhash":"04db817cbf7d2a3c00b90219bcece8e1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"73b84aae106a4f07ad857df342af7946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512961,
+            "locality_id":85952563,
+            "region_id":85688727,
+            "venue_id":790360025
+        }
+    ],
     "wof:id":790360025,
-    "wof:lastmodified":1472629540,
+    "wof:lastmodified":1492833859,
     "wof:name":"City of Glencoe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

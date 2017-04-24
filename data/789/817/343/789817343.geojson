@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.470496,44.851961,-93.470496,44.851961",
     "geom:latitude":44.851961,
     "geom:longitude":-93.470496,
@@ -33,17 +34,34 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511711,
+        85633793,
+        85969211,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WPhRI5DriAIGFWHLBlsIA_44.851961_-93.470496@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590768,
-    "wof:geomhash":"be007885f3126ab888dd5da1c6e3cb15",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d5fca50c5288a118ce6a8f262b82da50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511711,
+            "locality_id":85969211,
+            "region_id":85688727,
+            "venue_id":789817343
+        }
+    ],
     "wof:id":789817343,
-    "wof:lastmodified":1472629395,
+    "wof:lastmodified":1492813125,
     "wof:name":"Haider Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

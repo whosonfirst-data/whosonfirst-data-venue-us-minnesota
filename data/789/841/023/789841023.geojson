@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.440039,48.590968,-93.440039,48.590968",
     "geom:latitude":48.590968,
     "geom:longitude":-93.440039,
@@ -31,17 +32,34 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514293,
+        85633793,
+        85968309,
+        102087735
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02ENpi9ND5oUgvLtkIQicB_48.590968_-93.440039@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590954,
-    "wof:geomhash":"4ee67a01dedac275f9f6eab5c2b081dd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc5d0090a801058622bd5ebb4e4a147c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087735,
+            "localadmin_id":404514293,
+            "locality_id":85968309,
+            "region_id":85688727,
+            "venue_id":789841023
+        }
+    ],
     "wof:id":789841023,
-    "wof:lastmodified":1472629446,
+    "wof:lastmodified":1492811423,
     "wof:name":"First Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.356733,44.16026,-93.356733,44.16026",
     "geom:latitude":44.16026,
     "geom:longitude":-93.356733,
@@ -25,17 +26,32 @@
         "farmer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510813,
+        85633793,
+        102087661
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48mYl61cgTfrUgzlH0IJW0_44.160260_-93.356733@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604304,
-    "wof:geomhash":"583006eda017aad9e67fa9a279f0b067",
-    "wof:hierarchy":[],
+    "wof:geomhash":"877cf2fc323439806f3212d85de78f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087661,
+            "localadmin_id":404510813,
+            "region_id":85688727,
+            "venue_id":807153323
+        }
+    ],
     "wof:id":807153323,
-    "wof:lastmodified":1472629279,
+    "wof:lastmodified":1492822806,
     "wof:name":"David Hanson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

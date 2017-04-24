@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.233078,45.55348,-94.233078,45.55348",
     "geom:latitude":45.55348,
     "geom:longitude":-94.233078,
@@ -28,17 +29,34 @@
     "sg:postcode":"56387",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512161,
+        85633793,
+        85952515,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CzyYQ5SRLebjsGJNbmn0M_45.553480_-94.233078@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597770,
-    "wof:geomhash":"c726bb4df07a26be0e5b83b410d69529",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab1100e2ca0490942cf6457e812c6480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404512161,
+            "locality_id":85952515,
+            "region_id":85688727,
+            "venue_id":806392021
+        }
+    ],
     "wof:id":806392021,
-    "wof:lastmodified":1472629019,
+    "wof:lastmodified":1492815298,
     "wof:name":"Tool Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

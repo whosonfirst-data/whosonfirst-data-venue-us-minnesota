@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.281088,44.713676,-96.281088,44.713676",
     "geom:latitude":44.713676,
     "geom:longitude":-96.281088,
@@ -31,17 +32,34 @@
         "club"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515265,
+        85633793,
+        85952941,
+        102087691
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W573F9zfn1jgmvVP4WUBS_44.713676_-96.281088@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588938,
-    "wof:geomhash":"e90b1f0bce5f0e7334a1fa938205a4d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4f1e9dd5358401ba90711d4546692022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087691,
+            "localadmin_id":404515265,
+            "locality_id":85952941,
+            "region_id":85688727,
+            "venue_id":789583789
+        }
+    ],
     "wof:id":789583789,
-    "wof:lastmodified":1472628954,
+    "wof:lastmodified":1492809480,
     "wof:name":"Club K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

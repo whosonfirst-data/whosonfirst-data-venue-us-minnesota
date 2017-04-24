@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.457043,43.715235,-93.457043,43.715235",
     "geom:latitude":43.715235,
     "geom:longitude":-93.457043,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514511,
+        85633793,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S4Dia93Y27SbBNzdELqb8_43.715235_-93.457043@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603901,
-    "wof:geomhash":"86ed53ad1deb5c80d93ad321ea1b7ff0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d899156516555e4100b1326cf95a14d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514511,
+            "region_id":85688727,
+            "venue_id":807116173
+        }
+    ],
     "wof:id":807116173,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492825931,
     "wof:name":"Donald Jacobs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

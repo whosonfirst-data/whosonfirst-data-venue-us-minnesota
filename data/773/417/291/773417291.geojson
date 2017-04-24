@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.915539,45.587579,-95.915539,45.587579",
     "geom:latitude":45.587579,
     "geom:longitude":-95.915539,
@@ -32,17 +33,34 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514633,
+        85633793,
+        85953229,
+        102087669
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29gU6TgZ1qDx2uPNngC4cQ_45.587579_-95.915539@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585552,
-    "wof:geomhash":"79cef5f7e4f861cd503e5f27113b20ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c0d7f3f1bf70507e311f079968dccb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087669,
+            "localadmin_id":404514633,
+            "locality_id":85953229,
+            "region_id":85688727,
+            "venue_id":773417291
+        }
+    ],
     "wof:id":773417291,
-    "wof:lastmodified":1472630048,
+    "wof:lastmodified":1492800600,
     "wof:name":"First Federal Holding-Morris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

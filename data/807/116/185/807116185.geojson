@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.49948,43.896117,-93.49948,43.896117",
     "geom:latitude":43.896117,
     "geom:longitude":-93.49948,
@@ -27,17 +28,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510939,
+        85633793,
+        85953075,
+        102087641
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s4oLrYuONoPwI9NQYkkPc_43.896117_-93.499480@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603901,
-    "wof:geomhash":"ea116e046f587f06d5b53a77a22d2f88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9ee95c961ed957c7af038d1efe4c1af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087641,
+            "localadmin_id":404510939,
+            "locality_id":85953075,
+            "region_id":85688727,
+            "venue_id":807116185
+        }
+    ],
     "wof:id":807116185,
-    "wof:lastmodified":1472629229,
+    "wof:lastmodified":1492825927,
     "wof:name":"David Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.538116,47.46254,-92.538116,47.46254",
     "geom:latitude":47.46254,
     "geom:longitude":-92.538116,
@@ -31,17 +32,26 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Eby2moeGlCW7GMcEadAZZ_47.462540_-92.538116@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588360,
-    "wof:geomhash":"67fd9da35b4fba40f8dbc10bc2f0e494",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec7ce35013c8bfecaa9e879f1b8f9138",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773785945
+        }
+    ],
     "wof:id":773785945,
-    "wof:lastmodified":1472630160,
+    "wof:lastmodified":1492806751,
     "wof:name":"Eveleth Police Dept",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.665909,44.776083,-93.665909,44.776083",
     "geom:latitude":44.776083,
     "geom:longitude":-93.665909,
@@ -28,17 +29,32 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511691,
+        85633793,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lznX0v7Zi24rbYwnS6br2_44.776083_-93.665909@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603872,
-    "wof:geomhash":"320c8647436002490db6b95808d3b55e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d322717862b9f6f6a8417ed5413febe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511691,
+            "region_id":85688727,
+            "venue_id":807113143
+        }
+    ],
     "wof:id":807113143,
-    "wof:lastmodified":1472629195,
+    "wof:lastmodified":1492825477,
     "wof:name":"Henry Hammers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

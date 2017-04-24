@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.398504,44.907845,-93.398504,44.907845",
     "geom:latitude":44.907845,
     "geom:longitude":-93.398504,
@@ -33,17 +34,34 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37kEQXXOAqFjjCYN5tuZ9p_44.907845_-93.398504@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603137,
-    "wof:geomhash":"11520f1303d4bb2e385246c0aff9c0dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"529ad361f47108c26db42cb92d38a4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":807031851
+        }
+    ],
     "wof:id":807031851,
-    "wof:lastmodified":1472629000,
+    "wof:lastmodified":1492825405,
     "wof:name":"Chiptech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.116388,43.867181,-95.116388,43.867181",
     "geom:latitude":43.867181,
     "geom:longitude":-95.116388,
@@ -31,17 +32,34 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512013,
+        85633793,
+        85952789,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QBgCP5o3K8Zw2uOzT13l5_43.867181_-95.116388@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592074,
-    "wof:geomhash":"cb223274868c32be61f43ad25308adf2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85b84b6afc835fccff58a20ef7c78951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512013,
+            "locality_id":85952789,
+            "region_id":85688727,
+            "venue_id":789968981
+        }
+    ],
     "wof:id":789968981,
-    "wof:lastmodified":1472629673,
+    "wof:lastmodified":1492813748,
     "wof:name":"L Douglas Storey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

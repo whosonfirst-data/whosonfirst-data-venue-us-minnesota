@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.769098,46.902366,-96.769098,46.902366",
     "geom:latitude":46.902366,
     "geom:longitude":-96.769098,
@@ -45,7 +46,12 @@
         85633793,
         85968969,
         102087681,
-        85688727
+        85688727,
+        85877369,
+        404478877,
+        85982177,
+        102082073,
+        85688525
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +59,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599945,
-    "wof:geomhash":"a4ef90d91ecb97738d716118911dc551",
+    "wof:geomhash":"5ea8daa746277841f9c3d0d74a739de8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +70,22 @@
             "neighbourhood_id":85877345,
             "region_id":85688727,
             "venue_id":806654531
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082073,
+            "localadmin_id":404478877,
+            "locality_id":85982177,
+            "neighbourhood_id":85877369,
+            "region_id":85688525,
+            "venue_id":806654531
         }
     ],
     "wof:id":806654531,
-    "wof:lastmodified":1472629649,
+    "wof:lastmodified":1492820521,
     "wof:name":"Moorhead Country Club Pro Shop",
-    "wof:parent_id":85877345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.182387,44.20599,-93.182387,44.20599",
     "geom:latitude":44.20599,
     "geom:longitude":-93.182387,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512759,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z3h76jjubaAtNe92ws0kS_44.205990_-93.182387@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604605,
-    "wof:geomhash":"166210afd37f6e30280bb2d58e40b05f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"156bba7e0fd9ed51448d34914dd1303f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512759,
+            "region_id":85688727,
+            "venue_id":807181903
+        }
+    ],
     "wof:id":807181903,
-    "wof:lastmodified":1472629372,
+    "wof:lastmodified":1492826302,
     "wof:name":"Dale L Schweisthal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.916092,45.227384,-94.916092,45.227384",
     "geom:latitude":45.227384,
     "geom:longitude":-94.916092,
@@ -31,17 +32,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513795,
+        85633793,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dvsvvm1RSTDiBSvLdSFDM_45.227384_-94.916092@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609282,
-    "wof:geomhash":"213e16dc4af1451f7d06f18eee37f2c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3c3393588a1f335529f607d9302dc8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513795,
+            "region_id":85688727,
+            "venue_id":823247279
+        }
+    ],
     "wof:id":823247279,
-    "wof:lastmodified":1472629159,
+    "wof:lastmodified":1492829645,
     "wof:name":"Baker Apts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

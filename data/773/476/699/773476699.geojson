@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.571496,45.808591,-94.571496,45.808591",
     "geom:latitude":45.808591,
     "geom:longitude":-94.571496,
@@ -31,17 +32,34 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515213,
+        85633793,
+        85968653,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FwgHhYMmGXV6I83HyofxL_45.808591_-94.571496@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586040,
-    "wof:geomhash":"b276900edb01df9f41f8521928746ded",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7ab4a9cee9723b18677ec5f1db486e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404515213,
+            "locality_id":85968653,
+            "region_id":85688727,
+            "venue_id":773476699
+        }
+    ],
     "wof:id":773476699,
-    "wof:lastmodified":1472630065,
+    "wof:lastmodified":1492808549,
     "wof:name":"City of Upsala",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

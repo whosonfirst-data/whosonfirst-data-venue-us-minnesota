@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.285127,46.701639,-92.285127,46.701639",
     "geom:latitude":46.701639,
     "geom:longitude":-92.285127,
@@ -38,17 +39,32 @@
         "utility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513417,
+        85633793,
+        102087653
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zFPlJ7yNr62rwYA2aIscG_46.701639_-92.285127@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592550,
-    "wof:geomhash":"df60f1973cf1c7fdeb168830c81dc089",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e4278a5baa49257e49ab61e567aadf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087653,
+            "localadmin_id":404513417,
+            "region_id":85688727,
+            "venue_id":790027579
+        }
+    ],
     "wof:id":790027579,
-    "wof:lastmodified":1472628986,
+    "wof:lastmodified":1492837028,
     "wof:name":"Midway Truck & Trailer Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

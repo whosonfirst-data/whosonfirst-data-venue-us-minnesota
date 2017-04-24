@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.343667,47.534817,-92.343667,47.534817",
     "geom:latitude":47.534817,
     "geom:longitude":-92.343667,
@@ -33,17 +34,26 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525047
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ElRmqYwfZur7mQLmo0hto_47.534817_-92.343667@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583539,
-    "wof:geomhash":"b9cfef94969b3286a0420810d66b2f36",
-    "wof:hierarchy":[],
+    "wof:geomhash":"70d9a84a6c77e064038713cf54a39935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525047,
+            "venue_id":773152171
+        }
+    ],
     "wof:id":773152171,
-    "wof:lastmodified":1472629708,
+    "wof:lastmodified":1492808513,
     "wof:name":"Catharine L Niemi",
     "wof:parent_id":420525047,
     "wof:placetype":"venue",

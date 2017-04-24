@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.460568,44.315079,-94.460568,44.315079",
     "geom:latitude":44.315079,
     "geom:longitude":-94.460568,
@@ -31,17 +32,34 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t68cxb01YQHwtsRoAMnnI_44.315079_-94.460568@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586235,
-    "wof:geomhash":"2fb6187c17174f95ddc77b33e5d3c09d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6639b8970b6adfdbc65fc030b4184c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":773504447
+        }
+    ],
     "wof:id":773504447,
-    "wof:lastmodified":1472630072,
+    "wof:lastmodified":1492805392,
     "wof:name":"Ben Franklin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.954619,46.277493,-95.954619,46.277493",
     "geom:latitude":46.277493,
     "geom:longitude":-95.954619,
@@ -32,17 +33,32 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512737,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5YRR9kzk9LddVnmHLSQCmH_46.277493_-95.954619@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602468,
-    "wof:geomhash":"6ab17623e755e4217ce2a22839722e7d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2fb3dd14490b42a7af02309b938f2c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404512737,
+            "region_id":85688727,
+            "venue_id":806953019
+        }
+    ],
     "wof:id":806953019,
-    "wof:lastmodified":1472629948,
+    "wof:lastmodified":1492816348,
     "wof:name":"Lincoln West Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

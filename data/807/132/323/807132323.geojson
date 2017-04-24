@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.093221,45.997844,-94.093221,45.997844",
     "geom:latitude":45.997844,
     "geom:longitude":-94.093221,
@@ -26,17 +27,32 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512697,
+        85633793,
+        102087847
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Thx2tqOezYzJsD62mYm5Q_45.997844_-94.093221@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604077,
-    "wof:geomhash":"557a3e7c9c483e35158f8499d0615ad6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ec94b4e15a661e9e2d8dd1ea1d138bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087847,
+            "localadmin_id":404512697,
+            "region_id":85688727,
+            "venue_id":807132323
+        }
+    ],
     "wof:id":807132323,
-    "wof:lastmodified":1472629253,
+    "wof:lastmodified":1492827318,
     "wof:name":"Mark Flicker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.126754,44.979083,-93.126754,44.979083",
     "geom:latitude":44.979083,
     "geom:longitude":-93.126754,
@@ -34,11 +35,12 @@
     "wof:belongsto":[
         85873295,
         102191575,
-        404514463,
+        404514465,
         85633793,
-        85953189,
+        85953191,
         102087007,
-        85688727
+        85688727,
+        420525031
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,23 +48,33 @@
     },
     "wof:country":"US",
     "wof:created":1462602349,
-    "wof:geomhash":"18d81370380230d93d7033a8c913c4b4",
+    "wof:geomhash":"553a4db5044088b254a65f92a9da1a63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087007,
-            "localadmin_id":404514463,
-            "locality_id":85953189,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
             "neighbourhood_id":85873295,
+            "region_id":85688727,
+            "venue_id":806938611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "neighbourhood_id":420525031,
             "region_id":85688727,
             "venue_id":806938611
         }
     ],
     "wof:id":806938611,
-    "wof:lastmodified":1472629942,
+    "wof:lastmodified":1492814140,
     "wof:name":"Effective Air Systems Co",
-    "wof:parent_id":85873295,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

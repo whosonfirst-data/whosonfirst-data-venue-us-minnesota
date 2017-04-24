@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.230856,44.860041,-93.230856,44.860041",
     "geom:latitude":44.860041,
     "geom:longitude":-93.230856,
@@ -29,17 +30,34 @@
     "sg:province":"MN",
     "sg:website":"http://www.cambriasuites.com/hotel-bloomington-minnesota-MN089?promo=yplocal",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511825,
+        85633793,
+        85969239,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3svrgHq5TOGVu51SpEyIvj_44.860041_-93.230856@1303262830"
     },
     "wof:country":"US",
     "wof:created":1462608075,
-    "wof:geomhash":"7d538e35c2a5112f55324800ea287e42",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9503463623ec3504321be971bb5a66f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511825,
+            "locality_id":85969239,
+            "region_id":85688727,
+            "venue_id":823181033
+        }
+    ],
     "wof:id":823181033,
-    "wof:lastmodified":1472629016,
+    "wof:lastmodified":1492830426,
     "wof:name":"Cambria Suites Bloomington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

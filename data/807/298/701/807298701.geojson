@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.899598,45.140771,-93.899598,45.140771",
     "geom:latitude":45.140771,
     "geom:longitude":-93.899598,
@@ -32,17 +33,32 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515237,
+        85633793,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2E3a5w8DmSTj2GZ13OkX3x_45.140771_-93.899598@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605837,
-    "wof:geomhash":"dfe1910289752c53e6f6e26cd36c22e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bf63736474d589ead741b6def2b406ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515237,
+            "region_id":85688727,
+            "venue_id":807298701
+        }
+    ],
     "wof:id":807298701,
-    "wof:lastmodified":1472629629,
+    "wof:lastmodified":1492827514,
     "wof:name":"Desmarais Auction Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

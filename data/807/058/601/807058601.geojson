@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.115935,44.937356,-93.115935,44.937356",
     "geom:latitude":44.937356,
     "geom:longitude":-93.115935,
@@ -32,19 +33,40 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108800569,
+        1108800553,
+        102191575,
+        404514465,
+        85633793,
+        85953191,
+        102087007,
+        85688727
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zGWZIesC1eYUAOVoQhWq3_44.937356_-93.115935@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603360,
-    "wof:geomhash":"aeeda0703f1ff559fae4aebe58740a08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9b046607ab1d189d95e2c1358ff6b4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514465,
+            "locality_id":85953191,
+            "microhood_id":1108800569,
+            "neighbourhood_id":1108800553,
+            "region_id":85688727,
+            "venue_id":807058601
+        }
+    ],
     "wof:id":807058601,
-    "wof:lastmodified":1472629068,
+    "wof:lastmodified":1492826663,
     "wof:name":"Salon For You",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108800569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
     "wof:superseded_by":[],

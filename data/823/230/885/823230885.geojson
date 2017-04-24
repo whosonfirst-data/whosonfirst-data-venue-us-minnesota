@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.530986,44.09224,-92.530986,44.09224",
     "geom:latitude":44.09224,
     "geom:longitude":-92.530986,
@@ -31,17 +32,34 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2diZSvm17w4uyiNnXEUM8a_44.092240_-92.530986@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608968,
-    "wof:geomhash":"639c954dc19b6e7a7184ac249abf1747",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dd784d6efe2eda989599050324edad9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823230885
+        }
+    ],
     "wof:id":823230885,
-    "wof:lastmodified":1472629154,
+    "wof:lastmodified":1492829514,
     "wof:name":"Second Bounce Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

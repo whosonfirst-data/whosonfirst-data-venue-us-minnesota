@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.1354,43.771661,-95.1354,43.771661",
     "geom:latitude":43.771661,
     "geom:longitude":-95.1354,
@@ -31,17 +32,32 @@
         "generator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509839,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55XzQ85v6W7fE1gCd1ESkz_43.771661_-95.135400@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589236,
-    "wof:geomhash":"6241c9ff94d35d5019638bdac15f5af8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98ea13a299a93132ed6c7d25146bfdee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404509839,
+            "region_id":85688727,
+            "venue_id":789622235
+        }
+    ],
     "wof:id":789622235,
-    "wof:lastmodified":1472629031,
+    "wof:lastmodified":1492811814,
     "wof:name":"Standby Power Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

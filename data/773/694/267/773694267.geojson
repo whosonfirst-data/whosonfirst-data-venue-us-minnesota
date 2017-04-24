@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.010085,43.550096,-92.010085,43.550096",
     "geom:latitude":43.550096,
     "geom:longitude":-92.010085,
@@ -31,17 +32,34 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514259,
+        85633793,
+        85953185,
+        102086997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6reExJnHNt2McFXQpAokm8_43.550096_-92.010085@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587666,
-    "wof:geomhash":"97ee29034e285f8eb7e316bb64957f70",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eb6d1280b9b8a79a57f09d77d2e59c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086997,
+            "localadmin_id":404514259,
+            "locality_id":85953185,
+            "region_id":85688727,
+            "venue_id":773694267
+        }
+    ],
     "wof:id":773694267,
-    "wof:lastmodified":1472630131,
+    "wof:lastmodified":1492799661,
     "wof:name":"Harmony Manor Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

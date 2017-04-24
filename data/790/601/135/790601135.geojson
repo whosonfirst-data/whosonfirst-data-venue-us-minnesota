@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.218682,45.072785,-93.218682,45.072785",
     "geom:latitude":45.072785,
     "geom:longitude":-93.218682,
@@ -31,17 +32,34 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510233,
+        85633793,
+        85953147,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VMVkXJoLTU85UbtpLmqJp_45.072785_-93.218682@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597235,
-    "wof:geomhash":"68927698959851bd927e6a8ee5ea1d58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b83dec9c08311177710d77e30001487f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404510233,
+            "locality_id":85953147,
+            "region_id":85688727,
+            "venue_id":790601135
+        }
+    ],
     "wof:id":790601135,
-    "wof:lastmodified":1472629902,
+    "wof:lastmodified":1492837331,
     "wof:name":"Broadway Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.724817,44.938013,-95.724817,44.938013",
     "geom:latitude":44.938013,
     "geom:longitude":-95.724817,
@@ -32,17 +33,34 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510799,
+        85633793,
+        85953209,
+        102087793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HgX8dorNVuuw8LPQuZzxx_44.938013_-95.724817@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462593706,
-    "wof:geomhash":"d45687bb29f998a2489b1c1aa5bc4268",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f09db5415a1e4bb99e38f9dddb679fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087793,
+            "localadmin_id":404510799,
+            "locality_id":85953209,
+            "region_id":85688727,
+            "venue_id":790171619
+        }
+    ],
     "wof:id":790171619,
-    "wof:lastmodified":1472629249,
+    "wof:lastmodified":1492834116,
     "wof:name":"Monte Motor Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

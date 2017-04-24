@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.209722,46.208368,-95.209722,46.208368",
     "geom:latitude":46.208368,
     "geom:longitude":-95.209722,
@@ -26,17 +27,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513069,
+        85633793,
+        102087803
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iKNPnuF7I0rzDWZZpA99e_46.208368_-95.209722@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604851,
-    "wof:geomhash":"ef45427812eef83db3c74148f51fadfd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8607b952849c4c235a0f4bad69fec60f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087803,
+            "localadmin_id":404513069,
+            "region_id":85688727,
+            "venue_id":807205451
+        }
+    ],
     "wof:id":807205451,
-    "wof:lastmodified":1472629419,
+    "wof:lastmodified":1492824950,
     "wof:name":"Randy Reuss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

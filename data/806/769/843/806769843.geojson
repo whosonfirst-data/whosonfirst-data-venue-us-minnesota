@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.469963,44.325007,-94.469963,44.325007",
     "geom:latitude":44.325007,
     "geom:longitude":-94.469963,
@@ -31,17 +32,34 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511599,
+        85633793,
+        85952699,
+        102087615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w3SHEK6pKGdzjQi9nsdPH_44.325007_-94.469963@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600928,
-    "wof:geomhash":"1deeaeab4b7418a0e8afe7d300632054",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c5e7eed9720924d931f34e671036970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087615,
+            "localadmin_id":404511599,
+            "locality_id":85952699,
+            "region_id":85688727,
+            "venue_id":806769843
+        }
+    ],
     "wof:id":806769843,
-    "wof:lastmodified":1472629804,
+    "wof:lastmodified":1492815732,
     "wof:name":"Batzlaff Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

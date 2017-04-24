@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.49256,45.806054,-96.49256,45.806054",
     "geom:latitude":45.806054,
     "geom:longitude":-96.49256,
@@ -31,17 +32,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514769,
+        85633793,
+        85968559,
+        102087679
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16pURE5K4DIKwzCF59jLtB_45.806054_-96.492560@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584108,
-    "wof:geomhash":"ea91c68ccebd43ad3a8d0ef74c8f19bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6679df8d5d74e28d1616549b25a20d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087679,
+            "localadmin_id":404514769,
+            "locality_id":85968559,
+            "region_id":85688727,
+            "venue_id":773224855
+        }
+    ],
     "wof:id":773224855,
-    "wof:lastmodified":1472629980,
+    "wof:lastmodified":1492800588,
     "wof:name":"Wheaton Cemetery Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

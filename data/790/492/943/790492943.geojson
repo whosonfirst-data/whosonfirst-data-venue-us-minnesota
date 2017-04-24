@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.539135,47.460418,-92.539135,47.460418",
     "geom:latitude":47.460418,
     "geom:longitude":-92.539135,
@@ -32,17 +33,26 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rB6daj8Z5uYa4iXd8Aozb_47.460418_-92.539135@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596311,
-    "wof:geomhash":"6605be522007097325fc3a037ece55cb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddcaf58352bb90a3af6ba2043e8ae96d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":790492943
+        }
+    ],
     "wof:id":790492943,
-    "wof:lastmodified":1472629776,
+    "wof:lastmodified":1492837450,
     "wof:name":"Old Time Oil & Auto Works",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.466274,45.099934,-93.466274,45.099934",
     "geom:latitude":45.099934,
     "geom:longitude":-93.466274,
@@ -32,17 +33,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511877,
+        85633793,
+        85969187,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38H2N2nFotBpm5QtRM2zgp_45.099934_-93.466274@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601685,
-    "wof:geomhash":"b658b813152b9131368817a8ee42445c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e6eaf25b07f9fd0a5301b03e1866bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511877,
+            "locality_id":85969187,
+            "region_id":85688727,
+            "venue_id":806859245
+        }
+    ],
     "wof:id":806859245,
-    "wof:lastmodified":1472629899,
+    "wof:lastmodified":1492821700,
     "wof:name":"Horizons Alliance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

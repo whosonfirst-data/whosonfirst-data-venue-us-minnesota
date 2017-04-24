@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.796437,44.970897,-92.796437,44.970897",
     "geom:latitude":44.970897,
     "geom:longitude":-92.796437,
@@ -31,17 +32,32 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510963,
+        85633793,
+        102087659
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nuxNlQLcbzjovCUN2SrwU_44.970897_-92.796437@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586800,
-    "wof:geomhash":"d448a39ef2c450429c13e3d56481a510",
-    "wof:hierarchy":[],
+    "wof:geomhash":"efa5753ee740c121588060acba5399f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087659,
+            "localadmin_id":404510963,
+            "region_id":85688727,
+            "venue_id":773579477
+        }
+    ],
     "wof:id":773579477,
-    "wof:lastmodified":1472630099,
+    "wof:lastmodified":1492803865,
     "wof:name":"Anrex Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

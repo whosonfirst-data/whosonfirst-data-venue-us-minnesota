@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.817071,44.022259,-95.817071,44.022259",
     "geom:latitude":44.022259,
     "geom:longitude":-95.817071,
@@ -39,17 +40,32 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510093,
+        85633793,
+        102087879
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sncRmytB1wPruKyjJ87Es_44.022259_-95.817071@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588210,
-    "wof:geomhash":"b60b9f69da79322343d6ce2b25cc8b40",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bd123ccd66262672e532a6e91ed9d869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087879,
+            "localadmin_id":404510093,
+            "region_id":85688727,
+            "venue_id":773765565
+        }
+    ],
     "wof:id":773765565,
-    "wof:lastmodified":1472630153,
+    "wof:lastmodified":1492801906,
     "wof:name":"Hill Refrigeration Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

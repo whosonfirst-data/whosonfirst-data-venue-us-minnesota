@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.320953,44.03783,-95.320953,44.03783",
     "geom:latitude":44.03783,
     "geom:longitude":-95.320953,
@@ -45,17 +46,34 @@
         "churches-lutheran"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509513,
+        85633793,
+        85952793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fGiu9YUtAjQuunNCj863F_44.037830_-95.320953@1303262838"
     },
     "wof:country":"US",
     "wof:created":1462609203,
-    "wof:geomhash":"60a5b26d9f0767e9e5a44b492ed6fd35",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8bd8bfd6ba7ae7d48d38b8d927caf71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404509513,
+            "locality_id":85952793,
+            "region_id":85688727,
+            "venue_id":823243057
+        }
+    ],
     "wof:id":823243057,
-    "wof:lastmodified":1472629128,
+    "wof:lastmodified":1492829344,
     "wof:name":"Bethany Lutheran Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

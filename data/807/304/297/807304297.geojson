@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.534671,44.858993,-93.534671,44.858993",
     "geom:latitude":44.858993,
     "geom:longitude":-93.534671,
@@ -38,17 +39,34 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511685,
+        85633793,
+        85953005,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05rcYYaiQRqyF4JRYxOXXB_44.858993_-93.534671@1303262817"
     },
     "wof:country":"US",
     "wof:created":1462605897,
-    "wof:geomhash":"18eb10d46b6bac9f4aab97cb9ccb9088",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21f15a450d4c85e0d0b595e6c3610d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511685,
+            "locality_id":85953005,
+            "region_id":85688727,
+            "venue_id":807304297
+        }
+    ],
     "wof:id":807304297,
-    "wof:lastmodified":1472629658,
+    "wof:lastmodified":1492825661,
     "wof:name":"Walgreen Drug Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

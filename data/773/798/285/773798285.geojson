@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.841605,44.964169,-93.841605,44.964169",
     "geom:latitude":44.964169,
     "geom:longitude":-93.841605,
@@ -32,17 +33,34 @@
         "dancing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511609,
+        85633793,
+        85953181,
+        102087897
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yH35s5Fut3IEpCLWQ2hvB_44.964169_-93.841605@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588453,
-    "wof:geomhash":"e76c4f45f0019f5f38b04bc92ce5882d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cf989ad4ca5458006116f37cbaee1989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087897,
+            "localadmin_id":404511609,
+            "locality_id":85953181,
+            "region_id":85688727,
+            "venue_id":773798285
+        }
+    ],
     "wof:id":773798285,
-    "wof:lastmodified":1472630161,
+    "wof:lastmodified":1492801221,
     "wof:name":"West Star Dancers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

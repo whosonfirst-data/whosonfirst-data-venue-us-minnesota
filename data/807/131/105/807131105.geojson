@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.588995,46.277632,-96.588995,46.277632",
     "geom:latitude":46.277632,
     "geom:longitude":-96.588995,
@@ -26,17 +27,34 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514997,
+        85633793,
+        85952501,
+        102087021
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rdoUFne988JcN8B89Mniz_46.277632_-96.588995@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604059,
-    "wof:geomhash":"f457741a794330e82387067ab767b0b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6cbdaa365bd1263288edb9a6d966c9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087021,
+            "localadmin_id":404514997,
+            "locality_id":85952501,
+            "region_id":85688727,
+            "venue_id":807131105
+        }
+    ],
     "wof:id":807131105,
-    "wof:lastmodified":1472629240,
+    "wof:lastmodified":1492824788,
     "wof:name":"Herbert Beyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.307567,43.803985,-94.307567,43.803985",
     "geom:latitude":43.803985,
     "geom:longitude":-94.307567,
@@ -30,17 +31,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509973,
+        85633793,
+        102087019
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56NY00s5Va16j76nyBtnTA_43.803985_-94.307567@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604470,
-    "wof:geomhash":"f5d1376c6dc0583877a0250978bad159",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e2ddddb6257726bfa4797ab6dcac292c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087019,
+            "localadmin_id":404509973,
+            "region_id":85688727,
+            "venue_id":807168687
+        }
+    ],
     "wof:id":807168687,
-    "wof:lastmodified":1472629325,
+    "wof:lastmodified":1492827035,
     "wof:name":"Lawrence Fowler",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

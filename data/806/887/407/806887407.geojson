@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.495839,44.996818,-93.495839,44.996818",
     "geom:latitude":44.996818,
     "geom:longitude":-93.495839,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ahn5O9ct7WMqA8XAqlnyp_44.996818_-93.495839@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601910,
-    "wof:geomhash":"519ec53e6aa2e0a6f18c2db59f3303d6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"322e7c4d6aa1317d0b70ebaaa80fd012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":806887407
+        }
+    ],
     "wof:id":806887407,
-    "wof:lastmodified":1472629920,
+    "wof:lastmodified":1492818372,
     "wof:name":"Tech One Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

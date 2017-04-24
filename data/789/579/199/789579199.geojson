@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.606401,47.328075,-92.606401,47.328075",
     "geom:latitude":47.328075,
     "geom:longitude":-92.606401,
@@ -32,17 +33,26 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h4DVALFizIlinuWnCDCHw_47.328075_-92.606401@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588897,
-    "wof:geomhash":"ab4f917a2aba5850d4eeef2802dcb470",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e948da41cc34298bd1b1694a7d179a14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":789579199
+        }
+    ],
     "wof:id":789579199,
-    "wof:lastmodified":1472628926,
+    "wof:lastmodified":1492811406,
     "wof:name":"NTT Inc",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

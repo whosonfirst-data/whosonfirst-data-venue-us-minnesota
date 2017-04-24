@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.540023,47.464978,-92.540023,47.464978",
     "geom:latitude":47.464978,
     "geom:longitude":-92.540023,
@@ -31,17 +32,26 @@
         "printer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420525041
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rdGgSJlupp9hE5QR9QfyO_47.464978_-92.540023@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462585681,
-    "wof:geomhash":"587ce1fba89f3a589f866f7d5e9272b4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6a54d79dd0ce785f161ced18059983c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420525041,
+            "venue_id":773431687
+        }
+    ],
     "wof:id":773431687,
-    "wof:lastmodified":1472630054,
+    "wof:lastmodified":1492801969,
     "wof:name":"Range Print Shop",
     "wof:parent_id":420525041,
     "wof:placetype":"venue",

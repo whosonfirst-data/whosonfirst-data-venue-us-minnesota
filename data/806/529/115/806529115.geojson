@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.191987,45.123432,-93.191987,45.123432",
     "geom:latitude":45.123432,
     "geom:longitude":-93.191987,
@@ -31,17 +32,34 @@
         "used"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511275,
+        85633793,
+        85953007,
+        102087861
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PM1G123mboecBX0Tv1X6W_45.123432_-93.191987@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598862,
-    "wof:geomhash":"15230c495c58e7fc01f2a869c153c547",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dbc49033324a11f3ba879245d4281375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087861,
+            "localadmin_id":404511275,
+            "locality_id":85953007,
+            "region_id":85688727,
+            "venue_id":806529115
+        }
+    ],
     "wof:id":806529115,
-    "wof:lastmodified":1472629381,
+    "wof:lastmodified":1492814695,
     "wof:name":"Auto Brokers Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

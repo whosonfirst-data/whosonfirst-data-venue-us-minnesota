@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.06212,46.930569,-95.06212,46.930569",
     "geom:latitude":46.930569,
     "geom:longitude":-95.06212,
@@ -32,17 +33,34 @@
         "provides"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sHSwCd1nHoRtiyrNKlA9k_46.930569_-95.062120@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592786,
-    "wof:geomhash":"241b2b8a416089a9c88215e9c3a6fc5e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"434b780d7ba98691d73669530e3c3c63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":790055995
+        }
+    ],
     "wof:id":790055995,
-    "wof:lastmodified":1472629048,
+    "wof:lastmodified":1492836202,
     "wof:name":"Heartland Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

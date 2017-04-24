@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.6237,44.23495,-95.6237,44.23495",
     "geom:latitude":44.23495,
     "geom:longitude":-95.6237,
@@ -32,17 +33,34 @@
         "combined"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512675,
+        85633793,
+        85968521,
+        102087885
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48oXAbeh6BiMIyuZvAM3Ls_44.234950_-95.623700@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595240,
-    "wof:geomhash":"f91ccdae0224d0b3e777220a160bedce",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d72461146e8996ed7c478043ed0d65f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087885,
+            "localadmin_id":404512675,
+            "locality_id":85968521,
+            "region_id":85688727,
+            "venue_id":790361575
+        }
+    ],
     "wof:id":790361575,
-    "wof:lastmodified":1472629570,
+    "wof:lastmodified":1492835353,
     "wof:name":"XCEL Energy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

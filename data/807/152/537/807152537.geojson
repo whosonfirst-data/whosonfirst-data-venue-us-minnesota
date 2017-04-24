@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.274565,44.385248,-93.274565,44.385248",
     "geom:latitude":44.385248,
     "geom:longitude":-93.274565,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512621,
+        85633793,
+        102087623
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_454j4w4H8TfzAvOH7YzTH9_44.385248_-93.274565@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604297,
-    "wof:geomhash":"fd9b7aab2556230cb78bd276c9f9c534",
-    "wof:hierarchy":[],
+    "wof:geomhash":"460f3d6158608c7764b6006a3270fa50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087623,
+            "localadmin_id":404512621,
+            "region_id":85688727,
+            "venue_id":807152537
+        }
+    ],
     "wof:id":807152537,
-    "wof:lastmodified":1472629286,
+    "wof:lastmodified":1492827711,
     "wof:name":"Donald Thomas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

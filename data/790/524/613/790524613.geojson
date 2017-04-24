@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.233074,45.574324,-93.233074,45.574324",
     "geom:latitude":45.574324,
     "geom:longitude":-93.233074,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512985,
+        85633793,
+        85953391,
+        102087813
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c6E4vnoMyCyK3p6mERMP9_45.574324_-93.233074@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596580,
-    "wof:geomhash":"eddb801cc2bd6f11763fa8ff5139be83",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6227b3940181b7e1c13efa8386a46455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087813,
+            "localadmin_id":404512985,
+            "locality_id":85953391,
+            "region_id":85688727,
+            "venue_id":790524613
+        }
+    ],
     "wof:id":790524613,
-    "wof:lastmodified":1472629809,
+    "wof:lastmodified":1492834353,
     "wof:name":"Grandview Christian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

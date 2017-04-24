@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.05991,46.918814,-95.05991,46.918814",
     "geom:latitude":46.918814,
     "geom:longitude":-95.05991,
@@ -28,17 +29,34 @@
     "sg:postcode":"56470",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512967,
+        85633793,
+        85968591,
+        102087907
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K7FscTgH66WDEqQyoPJry_46.918814_-95.059910@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586965,
-    "wof:geomhash":"70672cc3666a4dafe5a0c6e9f5794a9b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"56e003c0a387c8f4fbc48c994a5178fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087907,
+            "localadmin_id":404512967,
+            "locality_id":85968591,
+            "region_id":85688727,
+            "venue_id":773603491
+        }
+    ],
     "wof:id":773603491,
-    "wof:lastmodified":1472630108,
+    "wof:lastmodified":1492807351,
     "wof:name":"Main Street Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

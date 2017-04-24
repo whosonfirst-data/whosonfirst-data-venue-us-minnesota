@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.023392,44.375839,-92.023392,44.375839",
     "geom:latitude":44.375839,
     "geom:longitude":-92.023392,
@@ -46,17 +47,34 @@
     ],
     "sg:website":"http://www.semmchra.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514811,
+        85633793,
+        85968635,
+        102087697
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OQVZ9iV6TLH5BJp3wcYzZ_44.375839_-92.023392@1303262837"
     },
     "wof:country":"US",
     "wof:created":1462609057,
-    "wof:geomhash":"699416d53e4ef67fb8edb3c55f9fa776",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8a928c6958a0147e48467fe2796f2b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087697,
+            "localadmin_id":404514811,
+            "locality_id":85968635,
+            "region_id":85688727,
+            "venue_id":823235385
+        }
+    ],
     "wof:id":823235385,
-    "wof:lastmodified":1472629135,
+    "wof:lastmodified":1492831057,
     "wof:name":"City of Wabasha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.049694,45.121302,-95.049694,45.121302",
     "geom:latitude":45.121302,
     "geom:longitude":-95.049694,
@@ -31,17 +32,34 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513961,
+        85633793,
+        85953323,
+        102087635
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pcS9D7AiXMRGtIOSc5BvJ_45.121302_-95.049694@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462587059,
-    "wof:geomhash":"6a83af67e6ac5159da499ec423188244",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a60ba493810b08307750bff06be6493d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087635,
+            "localadmin_id":404513961,
+            "locality_id":85953323,
+            "region_id":85688727,
+            "venue_id":773615987
+        }
+    ],
     "wof:id":773615987,
-    "wof:lastmodified":1472630110,
+    "wof:lastmodified":1492803111,
     "wof:name":"Magnetic Supply Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

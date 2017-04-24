@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.164133,45.027549,-93.164133,45.027549",
     "geom:latitude":45.027549,
     "geom:longitude":-93.164133,
@@ -28,17 +29,34 @@
     "sg:postcode":"55113",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514463,
+        85633793,
+        85953189,
+        102087007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k5EZ5tmnaSgVDyYOWTa73_45.027549_-93.164133@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588636,
-    "wof:geomhash":"4d54e8573b7f139f09f3accdb1717c54",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaf0d401a99fdf0005c407ba68666d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087007,
+            "localadmin_id":404514463,
+            "locality_id":85953189,
+            "region_id":85688727,
+            "venue_id":773820419
+        }
+    ],
     "wof:id":773820419,
-    "wof:lastmodified":1472630170,
+    "wof:lastmodified":1492807618,
     "wof:name":"United Properties Residential",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.432766,44.968146,-94.432766,44.968146",
     "geom:latitude":44.968146,
     "geom:longitude":-94.432766,
@@ -30,17 +31,32 @@
         "grain"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512681,
+        85633793,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nZq4BZAZBlkpEhqh0qVij_44.968146_-94.432766@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462603706,
-    "wof:geomhash":"ad490f9954cd8cf713f87bf6fc0b137d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69be564d059098daffdf7bfa8097b763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512681,
+            "region_id":85688727,
+            "venue_id":807098667
+        }
+    ],
     "wof:id":807098667,
-    "wof:lastmodified":1472629199,
+    "wof:lastmodified":1492827301,
     "wof:name":"Wayne Heller Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

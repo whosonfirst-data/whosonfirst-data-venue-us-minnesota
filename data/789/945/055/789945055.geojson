@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.361491,43.680763,-93.361491,43.680763",
     "geom:latitude":43.680763,
     "geom:longitude":-93.361491,
@@ -33,17 +34,34 @@
     ],
     "sg:website":"www.minnesotaaviation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514391,
+        85633793,
+        85969077,
+        102087887
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IHeJBxzQ9fTconK7PnIkK_43.680763_-93.361491@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591839,
-    "wof:geomhash":"77ce23496c9595ed839e8a8511f428c7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"252940b6b453cfef208bc081cfa2fa6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087887,
+            "localadmin_id":404514391,
+            "locality_id":85969077,
+            "region_id":85688727,
+            "venue_id":789945055
+        }
+    ],
     "wof:id":789945055,
-    "wof:lastmodified":1472629638,
+    "wof:lastmodified":1492813070,
     "wof:name":"M N Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

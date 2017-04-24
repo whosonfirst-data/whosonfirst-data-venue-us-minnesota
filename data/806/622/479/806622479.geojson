@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.017828,45.484836,-93.017828,45.484836",
     "geom:latitude":45.484836,
     "geom:longitude":-93.017828,
@@ -31,17 +32,34 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511121,
+        85633793,
+        85952693,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CJfeQZSyAVdCCHf6c59TW_45.484836_-93.017828@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599672,
-    "wof:geomhash":"502ea1f560d40c54ea70f04ce0841a03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3e3737ef0a1c117649c50f2e8a07359f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404511121,
+            "locality_id":85952693,
+            "region_id":85688727,
+            "venue_id":806622479
+        }
+    ],
     "wof:id":806622479,
-    "wof:lastmodified":1472629553,
+    "wof:lastmodified":1492818380,
     "wof:name":"A-1 Earth Science Testing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

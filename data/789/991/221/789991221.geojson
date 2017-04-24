@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.318756,44.875446,-93.318756,44.875446",
     "geom:latitude":44.875446,
     "geom:longitude":-93.318756,
@@ -28,17 +29,45 @@
     "sg:postcode":"55423",
     "sg:province":"MN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511713,
+        85633793,
+        85969209,
+        102087709,
+        404511899,
+        85969131
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4U8LiHzfegdowOI9JTUQjN_44.875446_-93.318756@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462592259,
-    "wof:geomhash":"e84ecd51afe8f7a496a3c29d39ed5ab1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09f23cea3bf3a224492be33dde9f8c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511713,
+            "locality_id":85969209,
+            "region_id":85688727,
+            "venue_id":789991221
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511899,
+            "locality_id":85969131,
+            "region_id":85688727,
+            "venue_id":789991221
+        }
+    ],
     "wof:id":789991221,
-    "wof:lastmodified":1472629683,
+    "wof:lastmodified":1492809647,
     "wof:name":"Donlad Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

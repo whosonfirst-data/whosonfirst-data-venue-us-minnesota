@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-92.46414,43.999402,-92.46414,43.999402",
     "geom:latitude":43.999402,
     "geom:longitude":-92.46414,
@@ -31,17 +32,34 @@
         "lodging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512591,
+        85633793,
+        85953505,
+        102087829
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y2hzEylPRLGmb3PgEbiHP_43.999402_-92.464140@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608983,
-    "wof:geomhash":"62e3b8d3f14f3234c265faf932c36b91",
-    "wof:hierarchy":[],
+    "wof:geomhash":"69efd709a021bdc0da8d9307f1e447d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087829,
+            "localadmin_id":404512591,
+            "locality_id":85953505,
+            "region_id":85688727,
+            "venue_id":823231679
+        }
+    ],
     "wof:id":823231679,
-    "wof:lastmodified":1472629152,
+    "wof:lastmodified":1492830773,
     "wof:name":"Clarion Rochester-S (Mayo Clinic Area)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

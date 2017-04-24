@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.473248,44.987161,-93.473248,44.987161",
     "geom:latitude":44.987161,
     "geom:longitude":-93.473248,
@@ -31,17 +32,34 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511897,
+        85633793,
+        85969137,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oXg90NcEj8CTTQRBPgss9_44.987161_-93.473248@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599050,
-    "wof:geomhash":"2cb68278110fe7122756b1bbe5c703a1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85adb2d376a3d1fd28ca7bb3a131dc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511897,
+            "locality_id":85969137,
+            "region_id":85688727,
+            "venue_id":806552239
+        }
+    ],
     "wof:id":806552239,
-    "wof:lastmodified":1472629438,
+    "wof:lastmodified":1492818738,
     "wof:name":"Blue Note Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

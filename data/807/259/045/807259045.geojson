@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.001358,45.333279,-93.001358,45.333279",
     "geom:latitude":45.333279,
     "geom:longitude":-93.001358,
@@ -41,17 +42,34 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404509105,
+        85633793,
+        85952679,
+        102086987
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57Rpes5INNMcEEsxPxwB6v_45.333279_-93.001358@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605422,
-    "wof:geomhash":"76851022dfc59afa8c50593d543e46e5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d020a6dd4c3a9370de17c8168e5d806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086987,
+            "localadmin_id":404509105,
+            "locality_id":85952679,
+            "region_id":85688727,
+            "venue_id":807259045
+        }
+    ],
     "wof:id":807259045,
-    "wof:lastmodified":1472629496,
+    "wof:lastmodified":1492823817,
     "wof:name":"Go Fetch Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

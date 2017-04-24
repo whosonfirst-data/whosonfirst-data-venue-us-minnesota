@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-96.070005,43.870616,-96.070005,43.870616",
     "geom:latitude":43.870616,
     "geom:longitude":-96.070005,
@@ -33,17 +34,32 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513527,
+        85633793,
+        102087865
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JHKIBePEpZ6nC2DBWq2qZ_43.870616_-96.070005@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598529,
-    "wof:geomhash":"a4cfb41b868c4c890412cc1c0cea4710",
-    "wof:hierarchy":[],
+    "wof:geomhash":"691af553a284a59db745e478896eb216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087865,
+            "localadmin_id":404513527,
+            "region_id":85688727,
+            "venue_id":806488121
+        }
+    ],
     "wof:id":806488121,
-    "wof:lastmodified":1472629282,
+    "wof:lastmodified":1492818535,
     "wof:name":"Quality Pork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

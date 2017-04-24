@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.944239,43.616541,-94.944239,43.616541",
     "geom:latitude":43.616541,
     "geom:longitude":-94.944239,
@@ -32,17 +33,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513619,
+        85633793,
+        102087651
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z9rbys8fg5DraMBsViTul_43.616541_-94.944239@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462582887,
-    "wof:geomhash":"c0fd144b1e5b248c3d904495f82abf48",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7710ca7e947a6a3769613df0fa3c66e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087651,
+            "localadmin_id":404513619,
+            "region_id":85688727,
+            "venue_id":773064197
+        }
+    ],
     "wof:id":773064197,
-    "wof:lastmodified":1472629452,
+    "wof:lastmodified":1492799479,
     "wof:name":"Jackson Motor Express Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

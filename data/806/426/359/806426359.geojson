@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.528039,45.128201,-94.528039,45.128201",
     "geom:latitude":45.128201,
     "geom:longitude":-94.528039,
@@ -31,17 +32,34 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71UUin8cQkcnYJekroEhDp_45.128201_-94.528039@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598051,
-    "wof:geomhash":"75dabd11af254325c944b8ef16f94e5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"79f5092882ca0f359754deeaf6be01b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":806426359
+        }
+    ],
     "wof:id":806426359,
-    "wof:lastmodified":1472629127,
+    "wof:lastmodified":1492821849,
     "wof:name":"Litchfield City Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

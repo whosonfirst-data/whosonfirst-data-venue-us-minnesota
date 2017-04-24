@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.444236,45.356848,-94.444236,45.356848",
     "geom:latitude":45.356848,
     "geom:longitude":-94.444236,
@@ -32,17 +33,32 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404510509,
+        85633793,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aqvE1xqUReWGGQaHv6BUl_45.356848_-94.444236@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462588839,
-    "wof:geomhash":"0adc79a4d659e353de6e1f08ba1af937",
-    "wof:hierarchy":[],
+    "wof:geomhash":"237f1504456111d9639f46adca22d43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404510509,
+            "region_id":85688727,
+            "venue_id":773842139
+        }
+    ],
     "wof:id":773842139,
-    "wof:lastmodified":1472630171,
+    "wof:lastmodified":1492801173,
     "wof:name":"Landwehr Farms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

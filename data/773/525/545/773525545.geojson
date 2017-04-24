@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.368472,44.902634,-94.368472,44.902634",
     "geom:latitude":44.902634,
     "geom:longitude":-94.368472,
@@ -31,17 +32,34 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512813,
+        85633793,
+        85952561,
+        102086993
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m0dHGNEy9IjtztxSZu2vR_44.902634_-94.368472@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586381,
-    "wof:geomhash":"1be5a065bdd0032762a829caf06e1c7c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c910666a4c9a9f6685457d16474e825b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086993,
+            "localadmin_id":404512813,
+            "locality_id":85952561,
+            "region_id":85688727,
+            "venue_id":773525545
+        }
+    ],
     "wof:id":773525545,
-    "wof:lastmodified":1472630083,
+    "wof:lastmodified":1492801663,
     "wof:name":"Oakland Cemetery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.889004,44.440885,-93.889004,44.440885",
     "geom:latitude":44.440885,
     "geom:longitude":-93.889004,
@@ -33,17 +34,32 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512369,
+        85633793,
+        102087831
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mUdmZBIG9SKBAFDHGxQP8_44.440885_-93.889004@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591665,
-    "wof:geomhash":"d8859573a81da3fbbdf6ee2a3c81a7ed",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4b718aab2a2246aa3cdfcc54aa6697df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087831,
+            "localadmin_id":404512369,
+            "region_id":85688727,
+            "venue_id":789925181
+        }
+    ],
     "wof:id":789925181,
-    "wof:lastmodified":1472629629,
+    "wof:lastmodified":1492813295,
     "wof:name":"Kelly Wilmes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

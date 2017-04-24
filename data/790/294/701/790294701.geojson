@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.931926,43.630322,-95.931926,43.630322",
     "geom:latitude":43.630322,
     "geom:longitude":-95.931926,
@@ -32,17 +33,34 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404513483,
+        85633793,
+        85968701,
+        102087607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5avTSFMRKEHkrpgbtrrqdy_43.630322_-95.931926@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594728,
-    "wof:geomhash":"650cd88e055da10086cc4a10b95ee661",
-    "wof:hierarchy":[],
+    "wof:geomhash":"07049058d78c134c5934a07308843269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087607,
+            "localadmin_id":404513483,
+            "locality_id":85968701,
+            "region_id":85688727,
+            "venue_id":790294701
+        }
+    ],
     "wof:id":790294701,
-    "wof:lastmodified":1472629475,
+    "wof:lastmodified":1492837685,
     "wof:name":"James Voss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

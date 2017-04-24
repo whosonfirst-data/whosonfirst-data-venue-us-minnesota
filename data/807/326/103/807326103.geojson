@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.408632,44.892052,-93.408632,44.892052",
     "geom:latitude":44.892052,
     "geom:longitude":-93.408632,
@@ -41,17 +42,34 @@
     ],
     "sg:website":"http://www.veracitytech.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511887,
+        85633793,
+        85969165,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vIJ04gUdddyIQiZPoweT0_44.892052_-93.408632@1303262819"
     },
     "wof:country":"US",
     "wof:created":1462606143,
-    "wof:geomhash":"3218f5c5904f1af4dd0313f9ded46692",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d506e741cb1ebdd8796534898e56b9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511887,
+            "locality_id":85969165,
+            "region_id":85688727,
+            "venue_id":807326103
+        }
+    ],
     "wof:id":807326103,
-    "wof:lastmodified":1472629718,
+    "wof:lastmodified":1492828015,
     "wof:name":"Veracity Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

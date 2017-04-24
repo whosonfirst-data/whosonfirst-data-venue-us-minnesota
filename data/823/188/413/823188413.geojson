@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.397102,45.048222,-93.397102,45.048222",
     "geom:latitude":45.048222,
     "geom:longitude":-93.397102,
@@ -46,17 +47,34 @@
         "brake"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511893,
+        85633793,
+        85969147,
+        102087709
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SvTbU3pgcQt2dzSyjXtNf_45.048222_-93.397102@1303262831"
     },
     "wof:country":"US",
     "wof:created":1462608172,
-    "wof:geomhash":"dd42169fc196dbc2e73a50074a228c5c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52a51a49c2c239ffb187545b422fbfcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087709,
+            "localadmin_id":404511893,
+            "locality_id":85969147,
+            "region_id":85688727,
+            "venue_id":823188413
+        }
+    ],
     "wof:id":823188413,
-    "wof:lastmodified":1472629027,
+    "wof:lastmodified":1492828140,
     "wof:name":"Star Motorsports Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-95.423179,44.050819,-95.423179,44.050819",
     "geom:latitude":44.050819,
     "geom:longitude":-95.423179,
@@ -27,17 +28,32 @@
         "soybean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512009,
+        85633793,
+        102086995
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J3pzn0Vj7JYGVx0CQOwPH_44.050819_-95.423179@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462604528,
-    "wof:geomhash":"5ae64e5b0775249269026567248880ad",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c210ba8b25ac5cb25ebeff53afdcdd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086995,
+            "localadmin_id":404512009,
+            "region_id":85688727,
+            "venue_id":807174127
+        }
+    ],
     "wof:id":807174127,
-    "wof:lastmodified":1472629333,
+    "wof:lastmodified":1492827948,
     "wof:name":"David Jorgenson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

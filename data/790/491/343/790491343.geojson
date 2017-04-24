@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.527985,45.113704,-94.527985,45.113704",
     "geom:latitude":45.113704,
     "geom:longitude":-94.527985,
@@ -34,17 +35,34 @@
         "golf"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404512409,
+        85633793,
+        85953557,
+        102087663
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54iI81DdfzGxNjUyHf9HIU_45.113704_-94.527985@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596300,
-    "wof:geomhash":"d95cbb49ba7af015ebcca23a77fd1eea",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75dcde0f502bdc52b828412d44d79bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087663,
+            "localadmin_id":404512409,
+            "locality_id":85953557,
+            "region_id":85688727,
+            "venue_id":790491343
+        }
+    ],
     "wof:id":790491343,
-    "wof:lastmodified":1472629768,
+    "wof:lastmodified":1492837566,
     "wof:name":"Litchfield Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

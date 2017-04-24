@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.991578,44.160583,-93.991578,44.160583",
     "geom:latitude":44.160583,
     "geom:longitude":-93.991578,
@@ -31,17 +32,34 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404511547,
+        85633793,
+        85953345,
+        102087625
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cAHWMqdFtCI1qNqohucUK_44.160583_-93.991578@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591087,
-    "wof:geomhash":"0daba41f9315176f5ca9d897dd8ff64b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c28d14a1fa80c7637283d7575da855b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087625,
+            "localadmin_id":404511547,
+            "locality_id":85953345,
+            "region_id":85688727,
+            "venue_id":789857835
+        }
+    ],
     "wof:id":789857835,
-    "wof:lastmodified":1472629541,
+    "wof:lastmodified":1492811548,
     "wof:name":"Ww Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

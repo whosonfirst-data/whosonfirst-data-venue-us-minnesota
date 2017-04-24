@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-94.813201,45.665359,-94.813201,45.665359",
     "geom:latitude":45.665359,
     "geom:longitude":-94.813201,
@@ -33,17 +34,34 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404514375,
+        85633793,
+        85952477,
+        102087719
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Dco7rhxdM4nQKhhwirmVJ_45.665276_-94.812715@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603821,
-    "wof:geomhash":"f3797596da4f63c1e4b7ce89841284eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1bf543bb71dd2189c8fa3281c932661e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087719,
+            "localadmin_id":404514375,
+            "locality_id":85952477,
+            "region_id":85688727,
+            "venue_id":807108655
+        }
+    ],
     "wof:id":807108655,
-    "wof:lastmodified":1472629215,
+    "wof:lastmodified":1492823989,
     "wof:name":"Loren Pundsack Collision Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-93.656341,45.209968,-93.656341,45.209968",
     "geom:latitude":45.209968,
     "geom:longitude":-93.656341,
@@ -31,17 +32,34 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688727,
+        102191575,
+        404515253,
+        85633793,
+        85968887,
+        102087815
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JDs21Lcg448rVP06jqnu0_45.209968_-93.656341@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596965,
-    "wof:geomhash":"654bdb25469501436f101f1f74b31fa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f69487a9896e55f637d84947e67ae52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087815,
+            "localadmin_id":404515253,
+            "locality_id":85968887,
+            "region_id":85688727,
+            "venue_id":790570531
+        }
+    ],
     "wof:id":790570531,
-    "wof:lastmodified":1472629868,
+    "wof:lastmodified":1492832514,
     "wof:name":"Dental Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
