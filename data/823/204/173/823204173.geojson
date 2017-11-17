@@ -7,6 +7,7 @@
     "addr:postcode":"55435",
     "addr:street":"York Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-93.318926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6531 York Ave S",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -44,6 +46,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3092896983,
         "sg:id":"SG_2zBMPSYRxW5U87Hdgbs9hc_44.884858_-93.318926@1303262832"
     },
     "wof:country":"US",
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":823204173,
-    "wof:lastmodified":1492828949,
+    "wof:lastmodified":1510943604,
     "wof:name":"Noodles & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        806787367
+    ],
+    "wof:supersedes":[
+        806787367
+    ],
     "wof:tags":[
         "asian",
         "pan"

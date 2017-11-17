@@ -7,6 +7,7 @@
     "addr:postcode":"55408",
     "addr:street":"W Lake St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-93.289803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"810 W Lake St",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -47,6 +49,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":550910340,
         "sg:id":"SG_0cdCFNmEx65fxZjgPx8Hu4_44.948439_-93.290557@1293134755"
     },
     "wof:country":"US",
@@ -67,13 +70,17 @@
         }
     ],
     "wof:id":807093313,
-    "wof:lastmodified":1492827274,
+    "wof:lastmodified":1510942946,
     "wof:name":"Bryant Lake Bowl",
     "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        807400861
+    ],
+    "wof:supersedes":[
+        807400861
+    ],
     "wof:tags":[
         "theater",
         "center"

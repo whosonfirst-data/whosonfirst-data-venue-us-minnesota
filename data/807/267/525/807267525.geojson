@@ -7,6 +7,7 @@
     "addr:postcode":"55113",
     "addr:street":"Snelling Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-93.166397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2100 Snelling Ave N",
     "sg:city":"Saint Paul",
     "sg:classifiers":[
@@ -66,13 +67,17 @@
         }
     ],
     "wof:id":807267525,
-    "wof:lastmodified":1510699343,
+    "wof:lastmodified":1510943393,
     "wof:name":"Cub Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        807265601
+    ],
+    "wof:supersedes":[
+        807265601
+    ],
     "wof:tags":[
         "drugstore"
     ]

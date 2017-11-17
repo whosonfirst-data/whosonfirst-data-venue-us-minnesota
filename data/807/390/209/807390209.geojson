@@ -7,6 +7,7 @@
     "addr:postcode":"55405",
     "addr:street":"Market St Ste 528",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-93.289466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"275 Market St Ste 528",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -72,13 +74,17 @@
         }
     ],
     "wof:id":807390209,
-    "wof:lastmodified":1492825038,
+    "wof:lastmodified":1510944084,
     "wof:name":"Knoll Inc",
     "wof:parent_id":85872623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773644785
+    ],
+    "wof:supersedes":[
+        807388091
+    ],
     "wof:tags":[
         "equipment-wholesale",
         "kitchen",
