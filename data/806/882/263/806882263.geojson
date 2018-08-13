@@ -2,19 +2,25 @@
   "id": 806882263,
   "type": "Feature",
   "properties": {
-    "addr:full":"1953 Wayzata Blvd Long Lake MN 55356",
+    "addr:city":"Long Lake",
+    "addr:full":"1953 W Wayzata Blvd Long Lake, Mn 55356",
+    "addr:house_number":"1953",
     "addr:housenumber":"1953",
+    "addr:phone":"+1 952-473-6557",
     "addr:postcode":"55356",
+    "addr:road":"W Wayzata Blvd",
+    "addr:state":"MN",
     "addr:street":"Wayzata Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.572471,44.987351,-93.572471,44.987351",
-    "geom:latitude":44.987351,
-    "geom:longitude":-93.572471,
+    "geom:bbox":"-93.57346,44.98773,-93.57346,44.98773",
+    "geom:latitude":44.98773,
+    "geom:longitude":-93.57346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1953 Wayzata Blvd",
     "sg:city":"Long Lake",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 952 473 6557",
     "sg:postcode":"55356",
     "sg:province":"MN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700011,
         "sg:id":"SG_1BlEzWHEzYEFBynwOtro4r_44.987351_-93.572471@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601872,
-    "wof:geomhash":"5fa0d17c3df50fcb18a6be06cbca76f7",
+    "wof:geomhash":"f77081e695e80b426589db08f9402113",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":806882263,
-    "wof:lastmodified":1492817088,
+    "wof:lastmodified":1534188972,
     "wof:name":"Western Henn County Pioneer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.572471,
-    44.987351,
-    -93.572471,
-    44.987351
+    -93.57346,
+    44.98773,
+    -93.57346,
+    44.98773
 ],
-  "geometry": {"coordinates":[-93.57247099999999,44.987351],"type":"Point"}
+  "geometry": {"coordinates":[-93.57346,44.98773],"type":"Point"}
 }

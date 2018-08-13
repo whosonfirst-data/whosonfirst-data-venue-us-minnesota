@@ -2,19 +2,25 @@
   "id": 823256513,
   "type": "Feature",
   "properties": {
-    "addr:full":"521 Main Ave Moorhead MN 56560",
+    "addr:city":"Moorhead",
+    "addr:full":"521 Main Ave Moorhead, Mn 56560-2748",
+    "addr:house_number":"521",
     "addr:housenumber":"521",
-    "addr:postcode":"56560",
+    "addr:phone":"+1 218-236-8861",
+    "addr:postcode":"56560-2748",
+    "addr:road":"Main Ave",
+    "addr:state":"MN",
     "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.772136,46.873819,-96.772136,46.873819",
-    "geom:latitude":46.873819,
-    "geom:longitude":-96.772136,
+    "geom:bbox":"-96.7725,46.8736,-96.7725,46.8736",
+    "geom:latitude":46.8736,
+    "geom:longitude":-96.7725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"521 Main Ave",
     "sg:city":"Moorhead",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "consultant",
         "galleries"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532465
+    ],
     "wof:belongsto":[
         85877337,
         102191575,
@@ -44,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700728,
         "sg:id":"SG_3DsgOk8WYl0pkcQknyhDdq_46.873819_-96.772136@1303262839"
     },
     "wof:country":"US",
     "wof:created":1462609468,
-    "wof:geomhash":"1ef6db28a70619a79de2b5f34612e9f1",
+    "wof:geomhash":"a20cd04760037eee8137a5645e72774f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +72,8 @@
         }
     ],
     "wof:id":823256513,
-    "wof:lastmodified":1492828699,
-    "wof:name":"Art Rourke Gallery Museum",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Rourke Art Gallery Museum",
     "wof:parent_id":85877337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -75,10 +85,10 @@
     ]
 },
   "bbox": [
-    -96.772136,
-    46.873819,
-    -96.772136,
-    46.873819
+    -96.7725,
+    46.8736,
+    -96.7725,
+    46.8736
 ],
-  "geometry": {"coordinates":[-96.772136,46.873819],"type":"Point"}
+  "geometry": {"coordinates":[-96.77249999999999,46.8736],"type":"Point"}
 }

@@ -2,19 +2,24 @@
   "id": 806703893,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Pionk Dr Proctor MN 55810",
+    "addr:city":"Proctor",
+    "addr:full":"100 Pionk Drive Proctor, Mn 55810-1705",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
-    "addr:postcode":"55810",
+    "addr:postcode":"55810-1705",
+    "addr:road":"Pionk Drive",
+    "addr:state":"MN",
     "addr:street":"Pionk Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.226316,46.741336,-92.226316,46.741336",
-    "geom:latitude":46.741336,
-    "geom:longitude":-92.226316,
+    "geom:bbox":"-92.22623,46.74129,-92.22623,46.74129",
+    "geom:latitude":46.74129,
+    "geom:longitude":-92.22623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 Pionk Dr",
     "sg:city":"Proctor",
     "sg:classifiers":[
@@ -31,7 +36,11 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527965,
+        102528763
+    ],
     "wof:belongsto":[
         85804953,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700564,
         "sg:id":"SG_545YxhmEFROvKuWidmb2xz_46.741336_-92.226316@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462600368,
-    "wof:geomhash":"8032ac97b6d66caae3cc2190eed637dc",
+    "wof:geomhash":"5ad57080803da0e0352cf6ec27905035",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":806703893,
-    "wof:lastmodified":1492816416,
-    "wof:name":"Proctor City Historical Societ",
+    "wof:lastmodified":1534188946,
+    "wof:name":"Proctor Area Historical Society",
     "wof:parent_id":85804953,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -92.226316,
-    46.741336,
-    -92.226316,
-    46.741336
+    -92.22623,
+    46.74129,
+    -92.22623,
+    46.74129
 ],
-  "geometry": {"coordinates":[-92.226316,46.741336],"type":"Point"}
+  "geometry": {"coordinates":[-92.22623,46.74129],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 790301761,
   "type": "Feature",
   "properties": {
-    "addr:full":"36 Reservation Ave Pipestone MN 56164",
+    "addr:city":"Pipestone",
+    "addr:full":"36 North Reservation Ave Pipestone, Mn 56164",
+    "addr:house_number":"36",
     "addr:housenumber":"36",
+    "addr:phone":"+1 507-825-5464",
     "addr:postcode":"56164",
+    "addr:road":"North Reservation Ave",
+    "addr:state":"MN",
     "addr:street":"Reservation Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.321061,44.009772,-96.321061,44.009772",
-    "geom:latitude":44.009772,
-    "geom:longitude":-96.321061,
+    "geom:bbox":"-96.32105,44.00931,-96.32105,44.00931",
+    "geom:latitude":44.00931,
+    "geom:longitude":-96.32105,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"36 Reservation Ave",
     "sg:city":"Pipestone",
     "sg:classifiers":[
@@ -32,7 +38,8 @@
         "national",
         "park"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -42,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700752,
         "sg:id":"SG_6TMUIRmyo2FCuLsxxq2shJ_44.009772_-96.321061@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594781,
-    "wof:geomhash":"92c98ce22c693dbe630a3017d9ba5339",
+    "wof:geomhash":"0e5f40e5cc0ef908a53f3f2a05aaa620",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +66,7 @@
         }
     ],
     "wof:id":790301761,
-    "wof:lastmodified":1492837477,
+    "wof:lastmodified":1534188946,
     "wof:name":"Pipestone National Monument",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -71,10 +79,10 @@
     ]
 },
   "bbox": [
-    -96.321061,
-    44.009772,
-    -96.321061,
-    44.009772
+    -96.32105,
+    44.00931,
+    -96.32105,
+    44.00931
 ],
-  "geometry": {"coordinates":[-96.321061,44.009772],"type":"Point"}
+  "geometry": {"coordinates":[-96.32105,44.00931],"type":"Point"}
 }

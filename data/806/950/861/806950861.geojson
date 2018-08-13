@@ -2,19 +2,25 @@
   "id": 806950861,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 W 6th St Morris MN 56267",
+    "addr:city":"Morris",
+    "addr:full":"116 W 6Th St Morris, Mn 56267-1922",
+    "addr:house_number":"116",
     "addr:housenumber":"116",
-    "addr:postcode":"56267",
+    "addr:phone":"+1 320-589-1719",
+    "addr:postcode":"56267-1922",
+    "addr:road":"W 6Th St",
+    "addr:state":"MN",
     "addr:street":"W 6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.9165,45.58608,-95.9165,45.58608",
-    "geom:latitude":45.58608,
-    "geom:longitude":-95.9165,
+    "geom:bbox":"-95.91774,45.58552,-95.91774,45.58552",
+    "geom:latitude":45.58552,
+    "geom:longitude":-95.91774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"116 W 6th St",
     "sg:city":"Morris",
     "sg:classifiers":[
@@ -32,7 +38,8 @@
         "job",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -43,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700378,
         "sg:id":"SG_4qa9rXTc6cTQxLuubZCUdC_45.586080_-95.916500@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602449,
-    "wof:geomhash":"74ab4aa47c2696e25c311fb1c004f393",
+    "wof:geomhash":"9ced7da32559f6efd5337eec5712c279",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":806950861,
-    "wof:lastmodified":1492820197,
-    "wof:name":"Stevens County Historical Soc",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Stevens County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -73,10 +81,10 @@
     ]
 },
   "bbox": [
-    -95.9165,
-    45.58608,
-    -95.9165,
-    45.58608
+    -95.91774,
+    45.58552,
+    -95.91774,
+    45.58552
 ],
-  "geometry": {"coordinates":[-95.9165,45.58608],"type":"Point"}
+  "geometry": {"coordinates":[-95.91773999999999,45.58552],"type":"Point"}
 }

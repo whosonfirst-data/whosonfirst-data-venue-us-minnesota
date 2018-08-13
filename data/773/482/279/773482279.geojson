@@ -2,19 +2,24 @@
   "id": 773482279,
   "type": "Feature",
   "properties": {
-    "addr:full":"3322 Vermilion Trl Makinen MN 55763",
+    "addr:city":"Makinen",
+    "addr:full":"3322 Vermilion Trl Makinen, Mn 55763-8015",
+    "addr:house_number":"3322",
     "addr:housenumber":"3322",
-    "addr:postcode":"55763",
+    "addr:postcode":"55763-8015",
+    "addr:road":"Vermilion Trl",
+    "addr:state":"MN",
     "addr:street":"Vermilion Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.25705,47.363154,-92.25705,47.363154",
-    "geom:latitude":47.363154,
-    "geom:longitude":-92.25705,
+    "geom:bbox":"-92.26063,47.36857,-92.26063,47.36857",
+    "geom:latitude":47.36857,
+    "geom:longitude":-92.26063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3322 Vermilion Trl",
     "sg:city":"Makinen",
     "sg:classifiers":[
@@ -32,19 +37,23 @@
         "open",
         "air"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420525039
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700610,
         "sg:id":"SG_6gB4n3oL0wgjidulEds8dI_47.363154_-92.257050@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586086,
-    "wof:geomhash":"6be6fd3a56e02c1653ecf558041e8cae",
+    "wof:geomhash":"c6a5de0baab3469f494d7f3b9a5a54a2",
     "wof:hierarchy":[],
     "wof:id":773482279,
-    "wof:lastmodified":1492807279,
-    "wof:name":"Friends Wirtanen Pioneer Farm",
+    "wof:lastmodified":1534188951,
+    "wof:name":"Wirtanen Pioneer Farm",
     "wof:parent_id":420525039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -56,10 +65,10 @@
     ]
 },
   "bbox": [
-    -92.25705,
-    47.363154,
-    -92.25705,
-    47.363154
+    -92.26063,
+    47.36857,
+    -92.26063,
+    47.36857
 ],
-  "geometry": {"coordinates":[-92.25705000000001,47.363154],"type":"Point"}
+  "geometry": {"coordinates":[-92.26063000000001,47.36857],"type":"Point"}
 }

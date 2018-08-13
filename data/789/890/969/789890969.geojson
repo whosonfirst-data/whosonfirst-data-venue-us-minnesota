@@ -2,19 +2,25 @@
   "id": 789890969,
   "type": "Feature",
   "properties": {
-    "addr:full":"18946 Hwy 9 NE New London MN 56273",
+    "addr:city":"New London",
+    "addr:full":"18946 Highway 9 Ne New London, Mn 56273",
+    "addr:house_number":"18946",
     "addr:housenumber":"18946",
+    "addr:phone":"+1 320-354-2990",
     "addr:postcode":"56273",
+    "addr:road":"Highway 9 Ne",
+    "addr:state":"MN",
     "addr:street":"Hwy 9 Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.944685,45.307323,-94.944685,45.307323",
-    "geom:latitude":45.307323,
-    "geom:longitude":-94.944685,
+    "geom:bbox":"-94.94396,45.3064,-94.94396,45.3064",
+    "geom:latitude":45.3064,
+    "geom:longitude":-94.94396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"18946 Hwy 9 NE",
     "sg:city":"New London",
     "sg:classifiers":[
@@ -31,7 +37,8 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -41,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700186,
         "sg:id":"SG_6JXExlGyDX5a5d3emQZgdJ_45.307323_-94.944685@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591377,
-    "wof:geomhash":"846f5a9d353347c1f68b00ff12cd5254",
+    "wof:geomhash":"741facad418abf97ffcd120d2b72099d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +65,7 @@
         }
     ],
     "wof:id":789890969,
-    "wof:lastmodified":1492811045,
+    "wof:lastmodified":1534188972,
     "wof:name":"Monongalia Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -69,10 +77,10 @@
     ]
 },
   "bbox": [
-    -94.944685,
-    45.307323,
-    -94.944685,
-    45.307323
+    -94.94396,
+    45.3064,
+    -94.94396,
+    45.3064
 ],
-  "geometry": {"coordinates":[-94.94468500000001,45.307323],"type":"Point"}
+  "geometry": {"coordinates":[-94.94396,45.3064],"type":"Point"}
 }

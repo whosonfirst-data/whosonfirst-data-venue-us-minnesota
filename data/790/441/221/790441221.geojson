@@ -2,17 +2,22 @@
   "id": 790441221,
   "type": "Feature",
   "properties": {
-    "addr:full":"10 7th St W St Paul MN 55102",
+    "addr:city":"Saint Paul",
+    "addr:full":"10 7Th St W Saint Paul, Mn 55102-2453",
+    "addr:house_number":"10",
     "addr:housenumber":"10",
-    "addr:postcode":"55102",
+    "addr:phone":"+1 651-225-6000",
+    "addr:postcode":"55102-2453",
+    "addr:road":"7Th St W",
+    "addr:state":"MN",
     "addr:street":"7Th St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.097834,44.947729,-93.097834,44.947729",
-    "geom:latitude":44.947729,
-    "geom:longitude":-93.097834,
+    "geom:bbox":"-93.09718,44.94798,-93.09718,44.94798",
+    "geom:latitude":44.94798,
+    "geom:longitude":-93.09718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,10 @@
     "sg:postcode":"55102",
     "sg:province":"MN",
     "sg:website":"www.mcm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         102533461,
         1108800545,
@@ -43,12 +51,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700377,
         "osm:node":546885175,
         "sg:id":"SG_7fdCUtvsCGlVPxdgpK6N2q_44.947729_-93.097834@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595848,
-    "wof:geomhash":"1b7ad31724014645cd2fe742dd36aa2e",
+    "wof:geomhash":"94ef1c208b8704f73ff96f7017a411b1",
     "wof:hierarchy":[
         {
             "campus_id":102533461,
@@ -63,8 +72,8 @@
         }
     ],
     "wof:id":790441221,
-    "wof:lastmodified":1510941415,
-    "wof:name":"Minnesota Children's Museum",
+    "wof:lastmodified":1534188952,
+    "wof:name":"Minnesota Children'S Museum",
     "wof:parent_id":102533461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -73,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.097834,
-    44.947729,
-    -93.097834,
-    44.947729
+    -93.09718,
+    44.94798,
+    -93.09718,
+    44.94798
 ],
-  "geometry": {"coordinates":[-93.09783400000001,44.947729],"type":"Point"}
+  "geometry": {"coordinates":[-93.09717999999999,44.94798],"type":"Point"}
 }

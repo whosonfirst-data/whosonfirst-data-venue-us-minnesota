@@ -2,19 +2,25 @@
   "id": 790443325,
   "type": "Feature",
   "properties": {
-    "addr:full":"304 Broadway W Little Falls MN 56345",
+    "addr:city":"Little Falls",
+    "addr:full":"304 W Broadway Little Falls, Mn 56345-1535",
+    "addr:house_number":"304",
     "addr:housenumber":"304",
-    "addr:postcode":"56345",
+    "addr:phone":"+1 320-616-2011",
+    "addr:postcode":"56345-1535",
+    "addr:road":"W Broadway",
+    "addr:state":"MN",
     "addr:street":"Broadway W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.374501,45.977189,-94.374501,45.977189",
-    "geom:latitude":45.977189,
-    "geom:longitude":-94.374501,
+    "geom:bbox":"-94.37308,45.97723,-94.37308,45.97723",
+    "geom:latitude":45.97723,
+    "geom:longitude":-94.37308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"304 Broadway W",
     "sg:city":"Little Falls",
     "sg:classifiers":[
@@ -32,7 +38,8 @@
         "gallery"
     ],
     "sg:website":"www.mnfishingmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -43,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700500,
         "sg:id":"SG_2gs28ce581KUwKtnZfjGag_45.977189_-94.374501@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595870,
-    "wof:geomhash":"609a64069889fcb7bda9e883a9719d73",
+    "wof:geomhash":"d0a3c92a8d3da351c74da9fd784263e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":790443325,
-    "wof:lastmodified":1492834065,
+    "wof:lastmodified":1534188952,
     "wof:name":"Minnesota Fishing Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -94.374501,
-    45.977189,
-    -94.374501,
-    45.977189
+    -94.37308,
+    45.97723,
+    -94.37308,
+    45.97723
 ],
-  "geometry": {"coordinates":[-94.374501,45.977189],"type":"Point"}
+  "geometry": {"coordinates":[-94.37308,45.97723],"type":"Point"}
 }

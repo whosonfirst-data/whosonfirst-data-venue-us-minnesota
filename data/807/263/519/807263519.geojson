@@ -2,17 +2,22 @@
   "id": 807263519,
   "type": "Feature",
   "properties": {
-    "addr:full":"University of Minnesota 1985 Buford Ave Saint Paul MN 55108",
+    "addr:city":"Saint Paul",
+    "addr:full":"1985 Buford Ave Saint Paul, Mn 55108",
+    "addr:house_number":"1985",
     "addr:housenumber":"1985",
+    "addr:phone":"+1 612-624-7434",
     "addr:postcode":"55108",
+    "addr:road":"Buford Ave",
+    "addr:state":"MN",
     "addr:street":"Buford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.184009,44.986089,-93.184009,44.986089",
-    "geom:latitude":44.986089,
-    "geom:longitude":-93.184009,
+    "geom:bbox":"-93.17746,44.98428,-93.17746,44.98428",
+    "geom:latitude":44.98428,
+    "geom:longitude":-93.17746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +35,10 @@
     "sg:postcode":"55108",
     "sg:province":"MN",
     "sg:website":"goldstein.che.umn.edu",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -41,12 +49,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700074,
         "osm:node":4343628176,
         "sg:id":"SG_4MCht7Sgw1n5kLud0pZfKC_44.986089_-93.184009@1303262814"
     },
     "wof:country":"US",
     "wof:created":1462605466,
-    "wof:geomhash":"928248856445691bc990c62043864d6b",
+    "wof:geomhash":"aedaad2c21d787457118e903e7d80a15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +68,8 @@
         }
     ],
     "wof:id":807263519,
-    "wof:lastmodified":1510941419,
-    "wof:name":"Goldstein Museum of Design",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Goldstein Museum Of Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -69,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -93.184009,
-    44.986089,
-    -93.184009,
-    44.986089
+    -93.17746,
+    44.98428,
+    -93.17746,
+    44.98428
 ],
-  "geometry": {"coordinates":[-93.184009,44.986089],"type":"Point"}
+  "geometry": {"coordinates":[-93.17746,44.98428],"type":"Point"}
 }

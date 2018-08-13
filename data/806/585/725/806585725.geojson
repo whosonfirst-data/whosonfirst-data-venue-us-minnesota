@@ -2,19 +2,24 @@
   "id": 806585725,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 3rd Ave N Minneapolis MN 55401",
+    "addr:city":"Minneapolis",
+    "addr:full":"250 3Rd Ave. N. Minneapolis, Mn 55401",
+    "addr:house_number":"250",
     "addr:housenumber":"250",
     "addr:postcode":"55401",
+    "addr:road":"3Rd Ave. N.",
+    "addr:state":"MN",
     "addr:street":"3Rd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.272902,44.98442,-93.272902,44.98442",
-    "geom:latitude":44.98442,
-    "geom:longitude":-93.272902,
+    "geom:bbox":"-93.27378,44.98404,-93.27378,44.98404",
+    "geom:latitude":44.98404,
+    "geom:longitude":-93.27378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"250 3rd Ave N",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -31,7 +36,10 @@
     "sg:tags":[
         "audio"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85872657,
         102191575,
@@ -44,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400672,
         "sg:id":"SG_1TnneEvegp5aNSJpqv106u_44.984420_-93.272902@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462599363,
-    "wof:geomhash":"e5894bca9e67ca732e2dc4722bb68e4a",
+    "wof:geomhash":"0546b7dc41a2a519b161196b123eb95f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +72,8 @@
         }
     ],
     "wof:id":806585725,
-    "wof:lastmodified":1492821715,
-    "wof:name":"Traffic Zone Ctr For Visual",
+    "wof:lastmodified":1534188942,
+    "wof:name":"Traffic Zone Center For Visual Arts",
     "wof:parent_id":85872657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -75,10 +84,10 @@
     ]
 },
   "bbox": [
-    -93.272902,
-    44.98442,
-    -93.272902,
-    44.98442
+    -93.27378,
+    44.98404,
+    -93.27378,
+    44.98404
 ],
-  "geometry": {"coordinates":[-93.272902,44.98442],"type":"Point"}
+  "geometry": {"coordinates":[-93.27378,44.98404],"type":"Point"}
 }

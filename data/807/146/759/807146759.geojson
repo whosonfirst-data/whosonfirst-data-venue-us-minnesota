@@ -2,19 +2,25 @@
   "id": 807146759,
   "type": "Feature",
   "properties": {
-    "addr:full":"2303 3rd Ave S Minneapolis MN 55404",
+    "addr:city":"Minneapolis",
+    "addr:full":"2303 3Rd Ave S Minneapolis, Mn 55404-3505",
+    "addr:house_number":"2303",
     "addr:housenumber":"2303",
-    "addr:postcode":"55404",
+    "addr:phone":"+1 612-870-1329",
+    "addr:postcode":"55404-3505",
+    "addr:road":"3Rd Ave S",
+    "addr:state":"MN",
     "addr:street":"3Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.272598,44.959999,-93.272598,44.959999",
-    "geom:latitude":44.959999,
-    "geom:longitude":-93.272598,
+    "geom:bbox":"-93.27266,44.96002,-93.27266,44.96002",
+    "geom:latitude":44.96002,
+    "geom:longitude":-93.27266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2303 3rd Ave S",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -35,7 +41,10 @@
         "gallery"
     ],
     "sg:website":"www.hennepinhistory.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85872643,
         102191575,
@@ -48,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700313,
         "sg:id":"SG_3RJaP3W4abPUFhVTBHIuJ7_44.960078_-93.272676@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462604236,
-    "wof:geomhash":"913c69d670d823ca2b49213becae3591",
+    "wof:geomhash":"bfc40d48f07e6a6cfa0e8ac593bba66f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +77,7 @@
         }
     ],
     "wof:id":807146759,
-    "wof:lastmodified":1492822317,
+    "wof:lastmodified":1534188948,
     "wof:name":"Hennepin History Museum",
     "wof:parent_id":85872643,
     "wof:placetype":"venue",
@@ -82,10 +92,10 @@
     ]
 },
   "bbox": [
-    -93.272598,
-    44.959999,
-    -93.272598,
-    44.959999
+    -93.27266,
+    44.96002,
+    -93.27266,
+    44.96002
 ],
-  "geometry": {"coordinates":[-93.272598,44.959999],"type":"Point"}
+  "geometry": {"coordinates":[-93.27266,44.96002],"type":"Point"}
 }

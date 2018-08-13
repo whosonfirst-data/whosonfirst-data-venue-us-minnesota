@@ -2,19 +2,25 @@
   "id": 789909167,
   "type": "Feature",
   "properties": {
-    "addr:full":"1448 Austin Rd Owatonna MN 55060",
+    "addr:city":"Owatonna",
+    "addr:full":"1448 Austin Rd Owatonna, Mn 55060-4018",
+    "addr:house_number":"1448",
     "addr:housenumber":"1448",
-    "addr:postcode":"55060",
+    "addr:phone":"+1 507-451-1420",
+    "addr:postcode":"55060-4018",
+    "addr:road":"Austin Rd",
+    "addr:state":"MN",
     "addr:street":"Austin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.216154,44.066878,-93.216154,44.066878",
-    "geom:latitude":44.066878,
-    "geom:longitude":-93.216154,
+    "geom:bbox":"-93.21628,44.07027,-93.21628,44.07027",
+    "geom:latitude":44.07027,
+    "geom:longitude":-93.21628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1448 Austin Rd",
     "sg:city":"Owatonna",
     "sg:classifiers":[
@@ -37,7 +43,8 @@
         "historical"
     ],
     "sg:website":"www.steelecohistoricalsociety.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -48,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700651,
         "sg:id":"SG_3r4mFsiXRHDTnfDNpNtjsZ_44.066878_-93.216154@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591530,
-    "wof:geomhash":"d7accda097f4a71597db0a42825bdd49",
+    "wof:geomhash":"e94924047d2ec7fb3a3741ef6faf5383",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,8 +73,8 @@
         }
     ],
     "wof:id":789909167,
-    "wof:lastmodified":1492811930,
-    "wof:name":"Steele County Historical Soc",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Steele County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -77,10 +85,10 @@
     ]
 },
   "bbox": [
-    -93.216154,
-    44.066878,
-    -93.216154,
-    44.066878
+    -93.21628,
+    44.07027,
+    -93.21628,
+    44.07027
 ],
-  "geometry": {"coordinates":[-93.216154,44.066878],"type":"Point"}
+  "geometry": {"coordinates":[-93.21628,44.07027],"type":"Point"}
 }

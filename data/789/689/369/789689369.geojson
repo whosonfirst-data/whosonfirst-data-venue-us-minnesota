@@ -2,19 +2,25 @@
   "id": 789689369,
   "type": "Feature",
   "properties": {
-    "addr:full":"413 Beltrami Ave NW Bemidji MN 56601",
+    "addr:city":"Bemidji",
+    "addr:full":"413 Beltrami Ave Nw Bemidji, Mn 56601",
+    "addr:house_number":"413",
     "addr:housenumber":"413",
+    "addr:phone":"+1 218-444-4472",
     "addr:postcode":"56601",
+    "addr:road":"Beltrami Ave Nw",
+    "addr:state":"MN",
     "addr:street":"Beltrami Ave Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.88126,47.472504,-94.88126,47.472504",
-    "geom:latitude":47.472504,
+    "geom:bbox":"-94.88126,47.47172,-94.88126,47.47172",
+    "geom:latitude":47.47172,
     "geom:longitude":-94.88126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"413 Beltrami Ave NW",
     "sg:city":"Bemidji",
     "sg:classifiers":[
@@ -29,7 +35,10 @@
     "sg:postcode":"56601",
     "sg:province":"MN",
     "sg:website":"www.hscbemidji.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529753
+    ],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -40,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700085,
         "sg:id":"SG_2XCaRXtZF7Jcca5V4YMugr_47.472504_-94.881260@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462589773,
-    "wof:geomhash":"23acf8f7915992b1d9a124a12fd08a6c",
+    "wof:geomhash":"c127a736b814b6d267ba6ef0e2ff7519",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":789689369,
-    "wof:lastmodified":1492810095,
-    "wof:name":"Headwaters Science Ctr",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Headwaters Science Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -68,9 +78,9 @@
 },
   "bbox": [
     -94.88126,
-    47.472504,
+    47.47172,
     -94.88126,
-    47.472504
+    47.47172
 ],
-  "geometry": {"coordinates":[-94.88126,47.472504],"type":"Point"}
+  "geometry": {"coordinates":[-94.88126,47.47172],"type":"Point"}
 }

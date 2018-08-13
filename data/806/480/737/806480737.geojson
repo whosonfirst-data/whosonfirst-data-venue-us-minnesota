@@ -2,19 +2,25 @@
   "id": 806480737,
   "type": "Feature",
   "properties": {
-    "addr:full":"985 US Hwy 12 Ortonville MN 56278",
+    "addr:city":"Ortonville",
+    "addr:full":"985 Us Highway 12 Ortonville, Mn 56278-4101",
+    "addr:house_number":"985",
     "addr:housenumber":"985",
-    "addr:postcode":"56278",
+    "addr:phone":"+1 320-839-3359",
+    "addr:postcode":"56278-4101",
+    "addr:road":"Us Highway 12",
+    "addr:state":"MN",
     "addr:street":"Us Hwy 12",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-96.439633,45.298712,-96.439633,45.298712",
-    "geom:latitude":45.298712,
-    "geom:longitude":-96.439633,
+    "geom:bbox":"-96.44028,45.29912,-96.44028,45.29912",
+    "geom:latitude":45.29912,
+    "geom:longitude":-96.44028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"985 US Hwy 12",
     "sg:city":"Ortonville",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 320 839 3359",
     "sg:postcode":"56278",
     "sg:province":"MN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700347,
         "sg:id":"SG_28vCWts0INbZIVm3wAJwwn_45.298712_-96.439633@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462598474,
-    "wof:geomhash":"0ce6f523e5e41f92faa67ed9cd256db0",
+    "wof:geomhash":"a968122496e4ec4d4afb11b41801ab79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":806480737,
-    "wof:lastmodified":1492821589,
-    "wof:name":"Big Stone County Historical",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Big Stone County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -96.439633,
-    45.298712,
-    -96.439633,
-    45.298712
+    -96.44028,
+    45.29912,
+    -96.44028,
+    45.29912
 ],
-  "geometry": {"coordinates":[-96.439633,45.298712],"type":"Point"}
+  "geometry": {"coordinates":[-96.44028,45.29912],"type":"Point"}
 }

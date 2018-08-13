@@ -2,19 +2,25 @@
   "id": 790523531,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 19th Ave S Minneapolis MN 55455",
+    "addr:city":"Minneapolis",
+    "addr:full":"301 19Th Avenue South Minneapolis, Mn 55455-0437",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
-    "addr:postcode":"55455",
+    "addr:phone":"+1 612-625-1806",
+    "addr:postcode":"55455-0437",
+    "addr:road":"19Th Avenue South",
+    "addr:state":"MN",
     "addr:street":"19Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.245658,44.971157,-93.245658,44.971157",
-    "geom:latitude":44.971157,
-    "geom:longitude":-93.245658,
+    "geom:bbox":"-93.23779,44.97603,-93.23779,44.97603",
+    "geom:latitude":44.97603,
+    "geom:longitude":-93.23779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"301 19th Ave S",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85872661,
         102191575,
@@ -44,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700066,
         "sg:id":"SG_12SGntaAJRHNe62SsoZ3lH_44.971157_-93.245658@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596568,
-    "wof:geomhash":"242ed9b3b517849e9130fa75851931da",
+    "wof:geomhash":"332013f98030b282015ebb371c19943c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +73,8 @@
         }
     ],
     "wof:id":790523531,
-    "wof:lastmodified":1492836081,
-    "wof:name":"Humphrey Forum The",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Humphrey Forum",
     "wof:parent_id":85872661,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -75,10 +85,10 @@
     ]
 },
   "bbox": [
-    -93.245658,
-    44.971157,
-    -93.245658,
-    44.971157
+    -93.23779,
+    44.97603,
+    -93.23779,
+    44.97603
 ],
-  "geometry": {"coordinates":[-93.24565800000001,44.971157],"type":"Point"}
+  "geometry": {"coordinates":[-93.23779,44.97603],"type":"Point"}
 }

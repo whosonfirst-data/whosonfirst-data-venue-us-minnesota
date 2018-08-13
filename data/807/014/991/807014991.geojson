@@ -2,19 +2,25 @@
   "id": 807014991,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 W 1st St Waconia MN 55387",
+    "addr:city":"Waconia",
+    "addr:full":"555 West First Street Waconia, Mn 55387-1221",
+    "addr:house_number":"555",
     "addr:housenumber":"555",
-    "addr:postcode":"55387",
+    "addr:phone":"+1 952-442-4234",
+    "addr:postcode":"55387-1221",
+    "addr:road":"West First Street",
+    "addr:state":"MN",
     "addr:street":"W 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.794648,44.849345,-93.794648,44.849345",
-    "geom:latitude":44.849345,
-    "geom:longitude":-93.794648,
+    "geom:bbox":"-93.79455,44.84933,-93.79455,44.84933",
+    "geom:latitude":44.84933,
+    "geom:longitude":-93.79455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"555 W 1st St",
     "sg:city":"Waconia",
     "sg:classifiers":[
@@ -33,7 +39,8 @@
         "gallery"
     ],
     "sg:website":"www.carvercountyhistoricalsociety.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -44,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700645,
         "sg:id":"SG_6xxB3wQ2quDN35MREVCqFI_44.849345_-93.794648@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602987,
-    "wof:geomhash":"8ae76aa513dd71a12cf7a41b70e3c281",
+    "wof:geomhash":"4e73caca2e52de1971ca7a27328642fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +69,8 @@
         }
     ],
     "wof:id":807014991,
-    "wof:lastmodified":1492823426,
-    "wof:name":"Carver County Historical Soc",
+    "wof:lastmodified":1534188942,
+    "wof:name":"Carver County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -74,10 +82,10 @@
     ]
 },
   "bbox": [
-    -93.794648,
-    44.849345,
-    -93.794648,
-    44.849345
+    -93.79455,
+    44.84933,
+    -93.79455,
+    44.84933
 ],
-  "geometry": {"coordinates":[-93.794648,44.849345],"type":"Point"}
+  "geometry": {"coordinates":[-93.79455,44.84933],"type":"Point"}
 }

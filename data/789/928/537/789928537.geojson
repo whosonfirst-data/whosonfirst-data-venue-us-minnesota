@@ -2,19 +2,25 @@
   "id": 789928537,
   "type": "Feature",
   "properties": {
-    "addr:full":"5255 Maple Grove Rd Hermantown MN 55811",
+    "addr:city":"Hermantown",
+    "addr:full":"5255 Maple Grove Rd Hermantown, Mn 55811",
+    "addr:house_number":"5255",
     "addr:housenumber":"5255",
+    "addr:phone":"+1 218-729-3600",
     "addr:postcode":"55811",
+    "addr:road":"Maple Grove Rd",
+    "addr:state":"MN",
     "addr:street":"Maple Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.232242,46.807712,-92.232242,46.807712",
-    "geom:latitude":46.807712,
-    "geom:longitude":-92.232242,
+    "geom:bbox":"-92.23396,46.81836,-92.23396,46.81836",
+    "geom:latitude":46.81836,
+    "geom:longitude":-92.23396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"5255 Maple Grove Rd",
     "sg:city":"Hermantown",
     "sg:classifiers":[
@@ -31,7 +37,11 @@
     "sg:tags":[
         "city"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527965,
+        102528763
+    ],
     "wof:belongsto":[
         85804953,
         102191575,
@@ -43,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700077,
         "sg:id":"SG_18lN8K2zIJKdf8j1vM3kYj_46.807712_-92.232242@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462591699,
-    "wof:geomhash":"bbdfb57f7122889241a521fa7fd3081a",
+    "wof:geomhash":"fdaf310757e021886c4ce09533d2a19e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +72,7 @@
         }
     ],
     "wof:id":789928537,
-    "wof:lastmodified":1492810970,
+    "wof:lastmodified":1534188972,
     "wof:name":"Hermantown City Hall",
     "wof:parent_id":85804953,
     "wof:placetype":"venue",
@@ -73,10 +84,10 @@
     ]
 },
   "bbox": [
-    -92.232242,
-    46.807712,
-    -92.232242,
-    46.807712
+    -92.23396,
+    46.81836,
+    -92.23396,
+    46.81836
 ],
-  "geometry": {"coordinates":[-92.232242,46.807712],"type":"Point"}
+  "geometry": {"coordinates":[-92.23396,46.81836],"type":"Point"}
 }

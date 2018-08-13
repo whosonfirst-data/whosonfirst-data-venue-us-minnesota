@@ -2,18 +2,24 @@
   "id": 806359525,
   "type": "Feature",
   "properties": {
-    "addr:full":"320 Laurel St Brainerd MN 56401",
+    "addr:city":"Brainerd",
+    "addr:full":"320 Laurel St Brainerd, Mn 56401-3523",
+    "addr:house_number":"320",
     "addr:housenumber":"320",
-    "addr:postcode":"56401",
+    "addr:phone":"+1 218-829-3268",
+    "addr:postcode":"56401-3523",
+    "addr:road":"Laurel St",
+    "addr:state":"MN",
     "addr:street":"Laurel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-94.204821,46.355714,-94.204821,46.355714",
-    "geom:latitude":46.355714,
-    "geom:longitude":-94.204821,
+    "geom:bbox":"-94.20516,46.3557,-94.20516,46.3557",
+    "geom:latitude":46.3557,
+    "geom:longitude":-94.20516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"320 Laurel St",
     "sg:city":"Brainerd",
     "sg:classifiers":[
@@ -36,7 +42,10 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532749
+    ],
     "wof:belongsto":[
         85896871,
         102191575,
@@ -48,11 +57,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700332,
         "sg:id":"SG_6H9qhqKUEltgnIo7WyEYIP_46.355714_-94.204821@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597504,
-    "wof:geomhash":"1b68f99608f958face0aaa2e7ba9d51c",
+    "wof:geomhash":"0d4ed223a8bbc6d81f5b37316ba05694",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,8 +76,8 @@
         }
     ],
     "wof:id":806359525,
-    "wof:lastmodified":1472628947,
-    "wof:name":"Crow Wing Cnty Historical Soc",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Crow Wing County Historical Society",
     "wof:parent_id":85896871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -79,10 +89,10 @@
     ]
 },
   "bbox": [
-    -94.204821,
-    46.355714,
-    -94.204821,
-    46.355714
+    -94.20516,
+    46.3557,
+    -94.20516,
+    46.3557
 ],
-  "geometry": {"coordinates":[-94.204821,46.355714],"type":"Point"}
+  "geometry": {"coordinates":[-94.20516000000001,46.3557],"type":"Point"}
 }

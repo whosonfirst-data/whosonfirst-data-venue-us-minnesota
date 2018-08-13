@@ -2,19 +2,25 @@
   "id": 823227833,
   "type": "Feature",
   "properties": {
-    "addr:full":"3300 London Rd Duluth MN 55804",
+    "addr:city":"Duluth",
+    "addr:full":"3300 London Road Duluth, Mn 55804",
+    "addr:house_number":"3300",
     "addr:housenumber":"3300",
+    "addr:phone":"+1 218-726-8910",
     "addr:postcode":"55804",
+    "addr:road":"London Road",
+    "addr:state":"MN",
     "addr:street":"London Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.053336,46.814839,-92.053336,46.814839",
-    "geom:latitude":46.814839,
-    "geom:longitude":-92.053336,
+    "geom:bbox":"-92.05199,46.81578,-92.05199,46.81578",
+    "geom:latitude":46.81578,
+    "geom:longitude":-92.05199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3300 London Rd",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -43,7 +49,11 @@
         "convention",
         "facility"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527965,
+        102528763
+    ],
     "wof:belongsto":[
         85858687,
         102191575,
@@ -55,11 +65,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501263,
         "sg:id":"SG_5bD8fOM6L458vkHXAGOy4U_46.814839_-92.053336@1303262836"
     },
     "wof:country":"US",
     "wof:created":1462608910,
-    "wof:geomhash":"70d9b606a2d80e252075b1802fd2eda3",
+    "wof:geomhash":"b666a8bf1202db35e67bb66fef933adc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,8 +84,8 @@
         }
     ],
     "wof:id":823227833,
-    "wof:lastmodified":1492828266,
-    "wof:name":"Glensheen-Historic Estate",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Glensheen Historic Estate",
     "wof:parent_id":85858687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -87,10 +98,10 @@
     ]
 },
   "bbox": [
-    -92.053336,
-    46.814839,
-    -92.053336,
-    46.814839
+    -92.05199,
+    46.81578,
+    -92.05199,
+    46.81578
 ],
-  "geometry": {"coordinates":[-92.053336,46.814839],"type":"Point"}
+  "geometry": {"coordinates":[-92.05199,46.81578],"type":"Point"}
 }

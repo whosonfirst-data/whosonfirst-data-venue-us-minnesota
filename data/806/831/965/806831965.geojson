@@ -2,19 +2,25 @@
   "id": 806831965,
   "type": "Feature",
   "properties": {
-    "addr:full":"12905 Arcola Trl N Stillwater MN 55082",
+    "addr:city":"Stillwater",
+    "addr:full":"12905 Arcola Trl N Stillwater, Mn 55082-8574",
+    "addr:house_number":"12905",
     "addr:housenumber":"12905",
-    "addr:postcode":"55082",
+    "addr:phone":"+1 651-351-1811",
+    "addr:postcode":"55082-8574",
+    "addr:road":"Arcola Trl N",
+    "addr:state":"MN",
     "addr:street":"Arcola Trl N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.754865,45.136558,-92.754865,45.136558",
-    "geom:latitude":45.136558,
-    "geom:longitude":-92.754865,
+    "geom:bbox":"-92.75184,45.13303,-92.75184,45.13303",
+    "geom:latitude":45.13303,
+    "geom:longitude":-92.75184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"12905 Arcola Trl N",
     "sg:city":"Stillwater",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 651 351 1811",
     "sg:postcode":"55082",
     "sg:province":"MN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85815391,
         102191575,
@@ -40,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700493,
         "sg:id":"SG_5lCVkpMxYEgWnudhAkREVU_45.136558_-92.754865@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601440,
-    "wof:geomhash":"69a36f7fd757727ffe6d32a1eb12a027",
+    "wof:geomhash":"be59e99f917c84ee520d4d4d9f5b36bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +66,8 @@
         }
     ],
     "wof:id":806831965,
-    "wof:lastmodified":1492814504,
-    "wof:name":"Arcola Mills Historic Foundatn",
+    "wof:lastmodified":1534188954,
+    "wof:name":"Arcola Mills Historic Foundation",
     "wof:parent_id":85815391,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -68,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.754865,
-    45.136558,
-    -92.754865,
-    45.136558
+    -92.75184,
+    45.13303,
+    -92.75184,
+    45.13303
 ],
-  "geometry": {"coordinates":[-92.754865,45.136558],"type":"Point"}
+  "geometry": {"coordinates":[-92.75184,45.13303],"type":"Point"}
 }

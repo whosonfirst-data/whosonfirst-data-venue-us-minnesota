@@ -2,19 +2,26 @@
   "id": 807379211,
   "type": "Feature",
   "properties": {
-    "addr:full":"1750 Hennepin Ave Minneapolis MN 55403",
+    "addr:city":"Minneapolis",
+    "addr:full":"1750 Hennepin Ave Minneapolis, Mn 55403-2115",
+    "addr:house_number":"1750",
     "addr:housenumber":"1750",
-    "addr:postcode":"55403",
+    "addr:phone":"+1 612-375-7600",
+    "addr:postcode":"55403-2115",
+    "addr:road":"Hennepin Ave",
+    "addr:state":"MN",
     "addr:street":"Hennepin Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-13",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.288002,44.968201,-93.288002,44.968201",
-    "geom:latitude":44.968201,
-    "geom:longitude":-93.288002,
+    "geom:bbox":"-93.28924,44.96693,-93.28924,44.96693",
+    "geom:latitude":44.96693,
+    "geom:longitude":-93.28924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1750 Hennepin Ave",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -38,7 +45,10 @@
         "galleries"
     ],
     "sg:website":"www.walkerart.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85872617,
         102191575,
@@ -51,11 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700294,
         "sg:id":"SG_2XIW3E3hMh9zqaLNawoPaH_44.968201_-93.288002@1303262823"
     },
     "wof:country":"US",
     "wof:created":1462606910,
-    "wof:geomhash":"552cf16384a8fe22cf3a16bd62b602b5",
+    "wof:geomhash":"417184d4127e83ab434c47382e502498",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,12 +81,14 @@
         }
     ],
     "wof:id":807379211,
-    "wof:lastmodified":1492826923,
+    "wof:lastmodified":1534188972,
     "wof:name":"Walker Art Center",
     "wof:parent_id":85872617,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807383141
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",
@@ -83,10 +96,10 @@
     ]
 },
   "bbox": [
-    -93.288002,
-    44.968201,
-    -93.288002,
-    44.968201
+    -93.28924,
+    44.96693,
+    -93.28924,
+    44.96693
 ],
-  "geometry": {"coordinates":[-93.28800200000001,44.968201],"type":"Point"}
+  "geometry": {"coordinates":[-93.28924000000001,44.96693],"type":"Point"}
 }

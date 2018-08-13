@@ -2,18 +2,24 @@
   "id": 807096713,
   "type": "Feature",
   "properties": {
-    "addr:full":"112 W 4th St Chaska MN 55318",
+    "addr:city":"Chaska",
+    "addr:full":"112 West 4Th Street Chaska, Mn 55318-1943",
+    "addr:house_number":"112",
     "addr:housenumber":"112",
-    "addr:postcode":"55318",
+    "addr:phone":"+1 952-448-6077",
+    "addr:postcode":"55318-1943",
+    "addr:road":"West 4Th Street",
+    "addr:state":"MN",
     "addr:street":"W 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-93.601303,44.7873,-93.601303,44.7873",
-    "geom:latitude":44.7873,
-    "geom:longitude":-93.601303,
+    "geom:bbox":"-93.60234,44.78715,-93.60234,44.78715",
+    "geom:latitude":44.78715,
+    "geom:longitude":-93.60234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"112 W 4th St",
     "sg:city":"Chaska",
     "sg:classifiers":[
@@ -35,7 +41,8 @@
     "sg:tags":[
         "museum"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85868915,
         102191575,
@@ -47,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700247,
         "sg:id":"SG_0Ie9ebxV4fK8ekNDCYc1PH_44.787346_-93.601223@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462603682,
-    "wof:geomhash":"a3b0bd912ee4e0707644e1f3cbef8303",
+    "wof:geomhash":"449f3ad9b0984bc7d6aba0c69689fb96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +73,7 @@
         }
     ],
     "wof:id":807096713,
-    "wof:lastmodified":1472629198,
+    "wof:lastmodified":1534188945,
     "wof:name":"Chaska Historical Society",
     "wof:parent_id":85868915,
     "wof:placetype":"venue",
@@ -77,10 +85,10 @@
     ]
 },
   "bbox": [
-    -93.601303,
-    44.7873,
-    -93.601303,
-    44.7873
+    -93.60234,
+    44.78715,
+    -93.60234,
+    44.78715
 ],
-  "geometry": {"coordinates":[-93.601303,44.7873],"type":"Point"}
+  "geometry": {"coordinates":[-93.60234,44.78715],"type":"Point"}
 }

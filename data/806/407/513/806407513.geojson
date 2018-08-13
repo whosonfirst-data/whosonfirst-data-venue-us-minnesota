@@ -2,19 +2,25 @@
   "id": 806407513,
   "type": "Feature",
   "properties": {
-    "addr:full":"622 Center St New Ulm MN 56073",
+    "addr:city":"New Ulm",
+    "addr:full":"622 Center St New Ulm, Mn 56073-3126",
+    "addr:house_number":"622",
     "addr:housenumber":"622",
-    "addr:postcode":"56073",
+    "addr:phone":"+1 507-354-8802",
+    "addr:postcode":"56073-3126",
+    "addr:road":"Center St",
+    "addr:state":"MN",
     "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.460702,44.312512,-94.460702,44.312512",
-    "geom:latitude":44.312512,
-    "geom:longitude":-94.460702,
+    "geom:bbox":"-94.46114,44.31222,-94.46114,44.31222",
+    "geom:latitude":44.31222,
+    "geom:longitude":-94.46114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"622 Center St",
     "sg:city":"New Ulm",
     "sg:classifiers":[
@@ -37,7 +43,8 @@
         "gallery",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -48,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700418,
         "sg:id":"SG_6pDCdL9qUVeByvfY3u2XDI_44.312512_-94.460702@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462597892,
-    "wof:geomhash":"04314c6bb94e802887e12a59556e6791",
+    "wof:geomhash":"84066a2f5bcd33df12c22628391fc5db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,8 +73,8 @@
         }
     ],
     "wof:id":806407513,
-    "wof:lastmodified":1492817971,
-    "wof:name":"Lind House Assn",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Lind House Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -78,10 +86,10 @@
     ]
 },
   "bbox": [
-    -94.460702,
-    44.312512,
-    -94.460702,
-    44.312512
+    -94.46114,
+    44.31222,
+    -94.46114,
+    44.31222
 ],
-  "geometry": {"coordinates":[-94.460702,44.312512],"type":"Point"}
+  "geometry": {"coordinates":[-94.46114,44.31222],"type":"Point"}
 }

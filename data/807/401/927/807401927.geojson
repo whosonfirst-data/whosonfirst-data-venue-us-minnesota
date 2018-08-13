@@ -2,19 +2,25 @@
   "id": 807401927,
   "type": "Feature",
   "properties": {
-    "addr:full":"2822 Lyndale Ave S Minneapolis MN 55408",
+    "addr:city":"Minneapolis",
+    "addr:full":"2822 Lyndale Ave S Minneapolis, Mn 55408-2108",
+    "addr:house_number":"2822",
     "addr:housenumber":"2822",
-    "addr:postcode":"55408",
+    "addr:phone":"+1 612-874-2807",
+    "addr:postcode":"55408-2108",
+    "addr:road":"Lyndale Ave S",
+    "addr:state":"MN",
     "addr:street":"Lyndale Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.2882,44.951401,-93.2882,44.951401",
-    "geom:latitude":44.951401,
-    "geom:longitude":-93.2882,
+    "geom:bbox":"-93.28851,44.95085,-93.28851,44.95085",
+    "geom:latitude":44.95085,
+    "geom:longitude":-93.28851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2822 Lyndale Ave S",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -37,7 +43,10 @@
         "school"
     ],
     "sg:website":"www.intermediaarts.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         1108800013,
         85872583,
@@ -51,11 +60,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700336,
         "sg:id":"SG_7K8yPWzBdzitqjvVXK8cQZ_44.951401_-93.288200@1303262825"
     },
     "wof:country":"US",
     "wof:created":1462607327,
-    "wof:geomhash":"3ac0317ff727737679b43d8745be70c4",
+    "wof:geomhash":"562ed90473f5758cf64a242da12e14df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,8 +81,8 @@
         }
     ],
     "wof:id":807401927,
-    "wof:lastmodified":1492823722,
-    "wof:name":"Intermedia Arts",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Intermedia Arts Minnesota",
     "wof:parent_id":1108800013,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -83,10 +93,10 @@
     ]
 },
   "bbox": [
-    -93.2882,
-    44.951401,
-    -93.2882,
-    44.951401
+    -93.28851,
+    44.95085,
+    -93.28851,
+    44.95085
 ],
-  "geometry": {"coordinates":[-93.2882,44.951401],"type":"Point"}
+  "geometry": {"coordinates":[-93.28851,44.95085],"type":"Point"}
 }

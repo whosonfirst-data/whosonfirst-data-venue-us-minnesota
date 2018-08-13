@@ -2,19 +2,25 @@
   "id": 823198159,
   "type": "Feature",
   "properties": {
-    "addr:full":"7348 Symphony St NE Minneapolis MN 55432",
+    "addr:city":"Fridley",
+    "addr:full":"7348 Symphony St Ne Fridley, Mn 55432-3221",
+    "addr:house_number":"7348",
     "addr:housenumber":"7348",
-    "addr:postcode":"55432",
+    "addr:phone":"+1 612-720-2825",
+    "addr:postcode":"55432-3221",
+    "addr:road":"Symphony St Ne",
+    "addr:state":"MN",
     "addr:street":"Symphony St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.261686,45.101887,-93.261686,45.101887",
-    "geom:latitude":45.101887,
-    "geom:longitude":-93.261686,
+    "geom:bbox":"-93.26185,45.10221,-93.26185,45.10221",
+    "geom:latitude":45.10221,
+    "geom:longitude":-93.26185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7348 Symphony St NE",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "human"
     ],
     "sg:website":"http://www.glsps.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700540,
         "sg:id":"SG_5JeyRwnmdVGSsd1mQ49wK4_45.101887_-93.261686@1303262832"
     },
     "wof:country":"US",
     "wof:created":1462608312,
-    "wof:geomhash":"a5910491cc656b89f206f6a721ca8bbd",
+    "wof:geomhash":"a68175684a4ce50984bb517ae4cc5e6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":823198159,
-    "wof:lastmodified":1492830711,
+    "wof:lastmodified":1534188972,
     "wof:name":"Great Lakes Shipwreck Preservation Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -93.261686,
-    45.101887,
-    -93.261686,
-    45.101887
+    -93.26185,
+    45.10221,
+    -93.26185,
+    45.10221
 ],
-  "geometry": {"coordinates":[-93.261686,45.101887],"type":"Point"}
+  "geometry": {"coordinates":[-93.26185,45.10221],"type":"Point"}
 }

@@ -2,19 +2,25 @@
   "id": 773169785,
   "type": "Feature",
   "properties": {
-    "addr:full":"812 4th Ave Windom MN 56101",
+    "addr:city":"Windom",
+    "addr:full":"812 4Th Ave Windom, Mn 56101-1657",
+    "addr:house_number":"812",
     "addr:housenumber":"812",
-    "addr:postcode":"56101",
+    "addr:phone":"+1 507-831-1134",
+    "addr:postcode":"56101-1657",
+    "addr:road":"4Th Ave",
+    "addr:state":"MN",
     "addr:street":"4Th Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.117795,43.864674,-95.117795,43.864674",
-    "geom:latitude":43.864674,
-    "geom:longitude":-95.117795,
+    "geom:bbox":"-95.1178,43.86484,-95.1178,43.86484",
+    "geom:latitude":43.86484,
+    "geom:longitude":-95.1178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"812 4th Ave",
     "sg:city":"Windom",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 507 831 1134",
     "sg:postcode":"56101",
     "sg:province":"MN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700323,
         "sg:id":"SG_4Okwn2B2slaqxi3EXByOpq_43.864674_-95.117795@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462583666,
-    "wof:geomhash":"1d09f2126458fc2910687952614125e0",
+    "wof:geomhash":"272c4832d60db845b632a4ee50f54045",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +64,8 @@
         }
     ],
     "wof:id":773169785,
-    "wof:lastmodified":1492800282,
-    "wof:name":"Cottonwood County Historical",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Cottonwood County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.117795,
-    43.864674,
-    -95.117795,
-    43.864674
+    -95.1178,
+    43.86484,
+    -95.1178,
+    43.86484
 ],
-  "geometry": {"coordinates":[-95.117795,43.864674],"type":"Point"}
+  "geometry": {"coordinates":[-95.1178,43.86484],"type":"Point"}
 }

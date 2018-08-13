@@ -2,18 +2,23 @@
   "id": 773241175,
   "type": "Feature",
   "properties": {
-    "addr:full":"7210 Fremont St Duluth MN 55807",
+    "addr:city":"Duluth",
+    "addr:full":"7210 Fremont Street Duluth, Mn 55807",
+    "addr:house_number":"7210",
     "addr:housenumber":"7210",
     "addr:postcode":"55807",
+    "addr:road":"Fremont Street",
+    "addr:state":"MN",
     "addr:street":"Fremont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.190713,46.726103,-92.190713,46.726103",
-    "geom:latitude":46.726103,
-    "geom:longitude":-92.190713,
+    "geom:bbox":"-92.18951,46.72607,-92.18951,46.72607",
+    "geom:latitude":46.72607,
+    "geom:longitude":-92.18951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"7210 Fremont St",
     "sg:city":"Duluth",
     "sg:classifiers":[
@@ -31,7 +36,11 @@
         "association"
     ],
     "sg:website":"www.lszoo.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527965,
+        102528763
+    ],
     "wof:belongsto":[
         85844971,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500596,
         "sg:id":"SG_6XnLsgRCS4HX6tQenqIHSK_46.726103_-92.190713@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462584224,
-    "wof:geomhash":"f0821fe272c8f18396337d5073f56e82",
+    "wof:geomhash":"9aa7a26a0254622e4f5395599195ed17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":773241175,
-    "wof:lastmodified":1472629972,
+    "wof:lastmodified":1534188942,
     "wof:name":"Lake Superior Zoo",
     "wof:parent_id":85844971,
     "wof:placetype":"venue",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -92.190713,
-    46.726103,
-    -92.190713,
-    46.726103
+    -92.18951,
+    46.72607,
+    -92.18951,
+    46.72607
 ],
-  "geometry": {"coordinates":[-92.190713,46.726103],"type":"Point"}
+  "geometry": {"coordinates":[-92.18951,46.72607],"type":"Point"}
 }

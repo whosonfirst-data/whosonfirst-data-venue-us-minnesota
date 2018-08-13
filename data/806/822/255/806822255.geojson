@@ -2,19 +2,25 @@
   "id": 806822255,
   "type": "Feature",
   "properties": {
-    "addr:full":"1195 W Circle Dr Rochester MN 55902",
+    "addr:city":"Rochester",
+    "addr:full":"1195 W Circle Dr Sw Rochester, Mn 55902-6619",
+    "addr:house_number":"1195",
     "addr:housenumber":"1195",
-    "addr:postcode":"55902",
+    "addr:phone":"+1 507-282-9447",
+    "addr:postcode":"55902-6619",
+    "addr:road":"W Circle Dr Sw",
+    "addr:state":"MN",
     "addr:street":"W Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-92.508523,44.007427,-92.508523,44.007427",
-    "geom:latitude":44.007427,
-    "geom:longitude":-92.508523,
+    "geom:bbox":"-92.50859,44.00793,-92.50859,44.00793",
+    "geom:latitude":44.00793,
+    "geom:longitude":-92.50859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1195 W Circle Dr",
     "sg:city":"Rochester",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530463
+    ],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700304,
         "sg:id":"SG_4ThPpwpsMO92OPamy60Qbj_44.007427_-92.508523@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462601361,
-    "wof:geomhash":"131b394c2c19963e1cf4ff558038e325",
+    "wof:geomhash":"268e3ddde2bedf4cf356e2226fae2199",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":806822255,
-    "wof:lastmodified":1492814050,
-    "wof:name":"Olmsted County Historic Center",
+    "wof:lastmodified":1534188953,
+    "wof:name":"Olmsted County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -92.508523,
-    44.007427,
-    -92.508523,
-    44.007427
+    -92.50859,
+    44.00793,
+    -92.50859,
+    44.00793
 ],
-  "geometry": {"coordinates":[-92.508523,44.007427],"type":"Point"}
+  "geometry": {"coordinates":[-92.50859,44.00793],"type":"Point"}
 }

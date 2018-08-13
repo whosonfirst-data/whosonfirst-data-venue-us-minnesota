@@ -2,19 +2,25 @@
   "id": 806944057,
   "type": "Feature",
   "properties": {
-    "addr:full":"205 5th Ave SW Roseau MN 56751",
+    "addr:city":"Roseau",
+    "addr:full":"205 5Th Ave Sw Roseau, Mn 56751",
+    "addr:house_number":"205",
     "addr:housenumber":"205",
+    "addr:phone":"+1 218-463-3218",
     "addr:postcode":"56751",
+    "addr:road":"5Th Ave Sw",
+    "addr:state":"MN",
     "addr:street":"5Th Ave Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.768435,48.844364,-95.768435,48.844364",
-    "geom:latitude":48.844364,
-    "geom:longitude":-95.768435,
+    "geom:bbox":"-95.76844,48.84514,-95.76844,48.84514",
+    "geom:latitude":48.84514,
+    "geom:longitude":-95.76844,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"205 5th Ave SW",
     "sg:city":"Roseau",
     "sg:classifiers":[
@@ -29,7 +35,8 @@
     "sg:postcode":"56751",
     "sg:province":"MN",
     "sg:website":"www.polarisind.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -40,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700036,
         "sg:id":"SG_6yDHBMvK0VX6PSyvjDGMPE_48.844364_-95.768435@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462602393,
-    "wof:geomhash":"bc010ccdfe78d044718cd4be78428c15",
+    "wof:geomhash":"ab14e489aba7905b32f2694b165819de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +65,8 @@
         }
     ],
     "wof:id":806944057,
-    "wof:lastmodified":1492820652,
-    "wof:name":"Polaris Experience Ctr",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Polaris Experience Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -95.768435,
-    48.844364,
-    -95.768435,
-    48.844364
+    -95.76844,
+    48.84514,
+    -95.76844,
+    48.84514
 ],
-  "geometry": {"coordinates":[-95.768435,48.844364],"type":"Point"}
+  "geometry": {"coordinates":[-95.76844,48.84514],"type":"Point"}
 }

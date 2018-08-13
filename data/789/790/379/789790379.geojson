@@ -2,19 +2,25 @@
   "id": 789790379,
   "type": "Feature",
   "properties": {
-    "addr:full":"1219 Nokomis St Alexandria MN 56308",
+    "addr:city":"Alexandria",
+    "addr:full":"1219 Nokomis St Alexandria, Mn 56308-3712",
+    "addr:house_number":"1219",
     "addr:housenumber":"1219",
-    "addr:postcode":"56308",
+    "addr:phone":"+1 320-762-0382",
+    "addr:postcode":"56308-3712",
+    "addr:road":"Nokomis St",
+    "addr:state":"MN",
     "addr:street":"Nokomis St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.366722,45.878665,-95.366722,45.878665",
-    "geom:latitude":45.878665,
-    "geom:longitude":-95.366722,
+    "geom:bbox":"-95.36673,45.87671,-95.36673,45.87671",
+    "geom:latitude":45.87671,
+    "geom:longitude":-95.36673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1219 Nokomis St",
     "sg:city":"Alexandria",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531387
+    ],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700351,
         "sg:id":"SG_3EpsJFdY5daCb94NFE1UPL_45.878665_-95.366722@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462590568,
-    "wof:geomhash":"681afcd0006ad178272bb229b0fd9683",
+    "wof:geomhash":"cdc13336b7b831926187b61fe916af83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":789790379,
-    "wof:lastmodified":1492813735,
-    "wof:name":"Douglas County Historical Soc",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Douglas County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -95.366722,
-    45.878665,
-    -95.366722,
-    45.878665
+    -95.36673,
+    45.87671,
+    -95.36673,
+    45.87671
 ],
-  "geometry": {"coordinates":[-95.366722,45.878665],"type":"Point"}
+  "geometry": {"coordinates":[-95.36673,45.87671],"type":"Point"}
 }

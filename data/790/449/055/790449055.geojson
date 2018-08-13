@@ -2,18 +2,24 @@
   "id": 790449055,
   "type": "Feature",
   "properties": {
-    "addr:full":"1500 Bois Forte Rd Tower MN 55790",
+    "addr:city":"Tower",
+    "addr:full":"1500 Bois Forte Rd Tower, Mn 55790",
+    "addr:house_number":"1500",
     "addr:housenumber":"1500",
+    "addr:phone":"+1 218-753-6017",
     "addr:postcode":"55790",
+    "addr:road":"Bois Forte Rd",
+    "addr:state":"MN",
     "addr:street":"Bois Forte Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-92.320194,47.82457,-92.320194,47.82457",
-    "geom:latitude":47.82457,
-    "geom:longitude":-92.320194,
+    "geom:bbox":"-92.33041,47.82075,-92.33041,47.82075",
+    "geom:latitude":47.82075,
+    "geom:longitude":-92.33041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1500 Bois Forte Rd",
     "sg:city":"Tower",
     "sg:classifiers":[
@@ -27,21 +33,23 @@
     "sg:phone":"+1 218 753 6017",
     "sg:postcode":"55790",
     "sg:province":"MN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
-        85688727,
+        85820563,
         85633793,
         85968439,
         102087653,
-        85820563
+        85688727
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700107,
         "sg:id":"SG_6Yo9hVaKxc70aAExK6jw7l_47.824570_-92.320194@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462595907,
-    "wof:geomhash":"7778574b930c58cfa296ee4951d78eb1",
+    "wof:geomhash":"68675d0865e59ded213dc2ed9d787c5c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +61,8 @@
         }
     ],
     "wof:id":790449055,
-    "wof:lastmodified":1472629709,
-    "wof:name":"Bois Forte Heritage Ctr",
+    "wof:lastmodified":1534188952,
+    "wof:name":"Bois Forte Heritage Center",
     "wof:parent_id":85820563,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -63,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -92.320194,
-    47.82457,
-    -92.320194,
-    47.82457
+    -92.33041,
+    47.82075,
+    -92.33041,
+    47.82075
 ],
-  "geometry": {"coordinates":[-92.320194,47.82457],"type":"Point"}
+  "geometry": {"coordinates":[-92.33041,47.82075],"type":"Point"}
 }

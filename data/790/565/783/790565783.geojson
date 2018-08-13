@@ -2,19 +2,25 @@
   "id": 790565783,
   "type": "Feature",
   "properties": {
-    "addr:full":"610 Hwy 71 NE Willmar MN 56201",
+    "addr:city":"Willmar",
+    "addr:full":"610 Highway 71 Ne Willmar, Mn 56201-2650",
+    "addr:house_number":"610",
     "addr:housenumber":"610",
-    "addr:postcode":"56201",
+    "addr:phone":"+1 320-235-1881",
+    "addr:postcode":"56201-2650",
+    "addr:road":"Highway 71 Ne",
+    "addr:state":"MN",
     "addr:street":"Hwy 71 Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-95.035598,45.127999,-95.035598,45.127999",
-    "geom:latitude":45.127999,
-    "geom:longitude":-95.035598,
+    "geom:bbox":"-95.04506,45.11998,-95.04506,45.11998",
+    "geom:latitude":45.11998,
+    "geom:longitude":-95.04506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"610 Hwy 71 NE",
     "sg:city":"Willmar",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531709
+    ],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700634,
         "sg:id":"SG_7ceQrtC8tCKLspMbABBSiT_45.127999_-95.035598@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462596923,
-    "wof:geomhash":"e6730ed283fa0929a008ff3dcd60caa7",
+    "wof:geomhash":"f3d5c16c9d1ec51af0fef9f92314c9eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":790565783,
-    "wof:lastmodified":1492833084,
-    "wof:name":"Kandiyohi Co Historical Soc",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Kandiyohi County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -95.035598,
-    45.127999,
-    -95.035598,
-    45.127999
+    -95.04506,
+    45.11998,
+    -95.04506,
+    45.11998
 ],
-  "geometry": {"coordinates":[-95.03559799999999,45.127999],"type":"Point"}
+  "geometry": {"coordinates":[-95.04506000000001,45.11998],"type":"Point"}
 }

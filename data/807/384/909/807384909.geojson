@@ -2,19 +2,25 @@
   "id": 807384909,
   "type": "Feature",
   "properties": {
-    "addr:full":"2400 3rd Ave S Minneapolis MN 55404",
+    "addr:city":"Minneapolis",
+    "addr:full":"2400 3Rd Ave S Minneapolis, Mn 55404-3506",
+    "addr:house_number":"2400",
     "addr:housenumber":"2400",
-    "addr:postcode":"55404",
+    "addr:phone":"+1 612-870-3120",
+    "addr:postcode":"55404-3506",
+    "addr:road":"3Rd Ave S",
+    "addr:state":"MN",
     "addr:street":"3Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.272728,44.95919,-93.272728,44.95919",
-    "geom:latitude":44.95919,
-    "geom:longitude":-93.272728,
+    "geom:bbox":"-93.27403,44.95822,-93.27403,44.95822",
+    "geom:latitude":44.95822,
+    "geom:longitude":-93.27403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2400 3rd Ave S",
     "sg:city":"Minneapolis",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "conservation",
         "restoration"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85872643,
         102191575,
@@ -45,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700363,
         "sg:id":"SG_6KxlQNq13VvaTLq0zprxiX_44.959190_-93.272728@1303262824"
     },
     "wof:country":"US",
     "wof:created":1462606997,
-    "wof:geomhash":"cbfb09b49c65b9f7ca35992a73ae9151",
+    "wof:geomhash":"17693ea42a7234147501d5cedacecb2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +74,8 @@
         }
     ],
     "wof:id":807384909,
-    "wof:lastmodified":1492826773,
-    "wof:name":"Midwest Art Conservation Center, Inc.",
+    "wof:lastmodified":1534188972,
+    "wof:name":"Midwest Art Conservation Center",
     "wof:parent_id":85872643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -93.272728,
-    44.95919,
-    -93.272728,
-    44.95919
+    -93.27403,
+    44.95822,
+    -93.27403,
+    44.95822
 ],
-  "geometry": {"coordinates":[-93.272728,44.95919],"type":"Point"}
+  "geometry": {"coordinates":[-93.27403,44.95822],"type":"Point"}
 }

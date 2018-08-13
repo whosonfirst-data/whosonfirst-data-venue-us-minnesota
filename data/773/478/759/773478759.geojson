@@ -2,19 +2,24 @@
   "id": 773478759,
   "type": "Feature",
   "properties": {
-    "addr:full":"15335 Danbury Ave W Rosemount MN 55068",
+    "addr:city":"Rosemount",
+    "addr:full":"15335 Danbury Ave Rosemount, Mn 55068",
+    "addr:house_number":"15335",
     "addr:housenumber":"15335",
     "addr:postcode":"55068",
+    "addr:road":"Danbury Ave",
+    "addr:state":"MN",
     "addr:street":"Danbury Ave W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-93.150115,44.726761,-93.150115,44.726761",
-    "geom:latitude":44.726761,
-    "geom:longitude":-93.150115,
+    "geom:bbox":"-93.15011,44.72661,-93.15011,44.72661",
+    "geom:latitude":44.72661,
+    "geom:longitude":-93.15011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"15335 Danbury Ave W",
     "sg:city":"Rosemount",
     "sg:classifiers":[
@@ -31,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531131
+    ],
     "wof:belongsto":[
         85809947,
         102191575,
@@ -43,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700533,
         "sg:id":"SG_3FiOVshbm4kprfcWyUltaf_44.726761_-93.150115@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462586065,
-    "wof:geomhash":"64ff676fd686e7cf5719aea577182595",
+    "wof:geomhash":"bfba33d3ed3fdf80f066a602f18d1db6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +70,8 @@
         }
     ],
     "wof:id":773478759,
-    "wof:lastmodified":1492805712,
-    "wof:name":"Rosemount Area Historical",
+    "wof:lastmodified":1534188950,
+    "wof:name":"Rosemount Area Historical Society",
     "wof:parent_id":85809947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-mn",
@@ -73,10 +82,10 @@
     ]
 },
   "bbox": [
-    -93.150115,
-    44.726761,
-    -93.150115,
-    44.726761
+    -93.15011,
+    44.72661,
+    -93.15011,
+    44.72661
 ],
-  "geometry": {"coordinates":[-93.150115,44.726761],"type":"Point"}
+  "geometry": {"coordinates":[-93.15011,44.72661],"type":"Point"}
 }

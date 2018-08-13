@@ -2,19 +2,25 @@
   "id": 790321649,
   "type": "Feature",
   "properties": {
-    "addr:full":"108 S Henry St Elmore MN 56027",
+    "addr:city":"Elmore",
+    "addr:full":"108 S Henry St Elmore, Mn 56027",
+    "addr:house_number":"108",
     "addr:housenumber":"108",
+    "addr:phone":"+1 507-943-3855",
     "addr:postcode":"56027",
+    "addr:road":"S Henry St",
+    "addr:state":"MN",
     "addr:street":"S Henry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-94.086546,43.50712,-94.086546,43.50712",
-    "geom:latitude":43.50712,
-    "geom:longitude":-94.086546,
+    "geom:bbox":"-94.08651,43.50806,-94.08651,43.50806",
+    "geom:latitude":43.50806,
+    "geom:longitude":-94.08651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"108 S Henry St",
     "sg:city":"Elmore",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 507 943 3855",
     "sg:postcode":"56027",
     "sg:province":"MN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688727,
         102191575,
@@ -39,11 +46,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8402700507,
         "sg:id":"SG_14SQ97WxswByIWqldO0y0f_43.507120_-94.086546@1294162804"
     },
     "wof:country":"US",
     "wof:created":1462594926,
-    "wof:geomhash":"3238b173c82d244a0d2fa2ca6fe17ef7",
+    "wof:geomhash":"dcd953cc41fd39fc701ed95e717882a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +64,7 @@
         }
     ],
     "wof:id":790321649,
-    "wof:lastmodified":1492831993,
+    "wof:lastmodified":1534188947,
     "wof:name":"Elmore Area Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -94.086546,
-    43.50712,
-    -94.086546,
-    43.50712
+    -94.08651,
+    43.50806,
+    -94.08651,
+    43.50806
 ],
-  "geometry": {"coordinates":[-94.086546,43.50712],"type":"Point"}
+  "geometry": {"coordinates":[-94.08651,43.50806],"type":"Point"}
 }
